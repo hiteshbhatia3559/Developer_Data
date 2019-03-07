@@ -1,0 +1,447 @@
+{'mobi.infolife.ezweather.livewallpaper.wealwp.channel.forecast.radar': ['Weather radar & Global weather checker', 'Weather+Widget+Theme+Dev+Team', '10,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.channel.weather.forecast': ['Weather Forecast & Widgets & Radar', 'Weather+Forecast+%26+Phone+Tools++Studio', '10,000+', 'https://sites.google.com/view/promo-tools', 'wangyuewangyue17@gmail.com']}
+{'mobi.infolife.ezweather.livewallpaper.wealwp.weatherforecast.realtime': ['Accurate Weather Live Forecast App', 'Weather+Widget+Theme+Dev+Team', '1,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.odesk_reyad.Weather_Channel': ['Weather Channel', 'Sarder+IT', '1,000+', 'https://weather.com/', 'movieloverhd@gmail.com']}
+{'com.atmosphereweather': ['Atmosphere Weather', 'Concept+Elements+LLC', '100+', 'http://www.atmosphereWeather.com', 'conceptElementsApp@gmail.com']}
+{'mobi.infolife.ezweather.livewallpaper.radar.widget.forecast.meteo': ['Weather radar & Global weather checker', 'Weather+Widget+Theme+Dev+Team', '10,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.weather.fortoday': ['Today Weather', 'Integer+Developers', '500+', 'https://sites.google.com/view/intdev-pp', 'ustinovr939@gmail.com']}
+{'com.carino.weather.channel.forecast.radar': ['Weather Live forecast', 'Carino+Earth+Maps+Free+Apps', '10,000+', 'https://carinoapps.weebly.com', 'carinofreeapps@gmail.com']}
+{'com.dodleapps.roomtemperature.info': ['Room Temperature Info', 'Dodle+Apps', '50+', 'http://dodlegames.com/apps/privacypolicy', 'rojasiri877@gmail.com']}
+{'com.danismithproductions.rain': ['Rain: Simple Weather Forecast', 'Daniel+M.+Smith', '10+', None, 'danismith271@gmail.com']}
+{'com.weather.forecasting': ['Weather Forecast', 'UnioTech', '1,000+', 'https://uniotechvideostatus.blogspot.com/2019/02/video-status-privacy-policy.html', 'uniotechsoft@gmail.com']}
+{'com.devytools.live.weather.radar': ['Weather Radar: Rain, Storm & Hurricane Tracker', 'Devy+Tools', '1,000+', 'http://devytools.com/weather-radar/', 'davidjonas957@gmail.com']}
+{'com.accu.weather.forecast.chanel': ['Weather forecast: weather channel & radar', 'Green+Banana', '500+', 'https://sites.google.com/view/weather-forecast-channel-radar', 'greenbanana.apps@gmail.com']}
+{'br.com.gtsdata.aviationweather': ['Aviation Weather - METAR/TAF', '4691617453611614900', '100+', 'http://www.gtsdata.com.br', 'contato@gtsdata.com.br']}
+{'com.tiny.mca54d9647bc5407aaa947737e5f7f790appapp': ['DC MD VA Weather - Local 4cast', 'georgeyoung4444', '10+', 'http://dmvweather.com', 'georgeyoug312@gmail.com']}
+{'com.DA.WeatherChannel.Pro': ['Weather Channel Free Weather Forecast App & Widget', 'Weather+Forecast,+GPS+Maps+%26+Street+View,+AR+Apps', '10+', 'https://docs.google.com/document/d/11mscrzoxymNUl3g51jrf5jFgTfgn9MHtkDxnp1KDidw/edit?usp=sharing', 'arappsstudio@gmail.com']}
+{'com.peror.weather.forecast': ['Weather Forecast', 'Peror', '1,000+', None, 'camfal93@gmail.com']}
+{'com.musicplayer.musicmedia.wheatherforecast': ['Weather Forecast - Live Weather Report', 'Music+Media+2019', '1,000+', 'https://musicmedia2019.blogspot.com', 'musicmedia40575@gmail.com']}
+{'com.weather.forecast.radar.widget': ['Weather forecast', 'SuperTools+-+App+Lock+%28BATTERY%26BOOSTER%29', '1,000+', 'https://sites.google.com/view/bestmusicvideostd', 'supertools.applock@gmail.com']}
+{'com.weather.jemish': ['Weather Forecast App 2019', 'Shreeji+Developer', '1,000+', 'https://weatherforecastapp.blogspot.com/2019/02/privacy-policy-shreeji-developer-built.html?m=1', 'devlopershreeji@gmail.com']}
+{'com.iWeathar.lite': ['iWeathar Lite', 'Russell+Witthuhn', '100+', 'https://iweathar.co.za', 'iweathar@gmail.com']}
+{'com.DA.WeatherNetwork': ['Weather Network Local Forecast & Weather Channel', 'Weather+Forecast,+GPS+Maps+%26+Street+View,+AR+Apps', '10+', 'https://docs.google.com/document/d/11mscrzoxymNUl3g51jrf5jFgTfgn9MHtkDxnp1KDidw/edit?usp=sharing', 'arappsstudio@gmail.com']}
+{'com.DA.WeatherForecast': ['Weather Forecast App Weather Channel Weather Radar', 'Weather+Forecast,+GPS+Maps+%26+Street+View,+AR+Apps', '10+', 'https://docs.google.com/document/d/11mscrzoxymNUl3g51jrf5jFgTfgn9MHtkDxnp1KDidw/edit?usp=sharing', 'arappsstudio@gmail.com']}
+{'com.DA.WeatherChannel': ['Weather Channel App Daily Live Weather Forecast', 'Weather+Forecast,+GPS+Maps+%26+Street+View,+AR+Apps', '10+', 'https://docs.google.com/document/d/11mscrzoxymNUl3g51jrf5jFgTfgn9MHtkDxnp1KDidw/edit', 'arappsstudio@gmail.com']}
+{'com.DA.WeatherNetwork.Pro': ['Weather Network Weather Channel Weather Forecast', 'Weather+Forecast,+GPS+Maps+%26+Street+View,+AR+Apps', '10+', 'https://docs.google.com/document/d/11mscrzoxymNUl3g51jrf5jFgTfgn9MHtkDxnp1KDidw/edit?usp=sharing', 'arappsstudio@gmail.com']}
+{'com.weather.realtime.forecast.updates': ['WMap Accurate Weather Updates', 'The+Apps+Arena', '50+', None, 'theappsarena.adm@gmail.com']}
+{'com.storevn.meteo.weather': ['Weather Channel', 'StoreVN', '10+', 'https://sites.google.com/view/weather-privacies/', 'storevn.feedback@gmail.com']}
+{'com.dragadev.easyweather': ['Weather Forecast', 'DragaDev', '500+', 'https://docs.google.com/document/d/e/2PACX-1vTG5p94meqwrFRPFEKCv-Vd0ksrkCzTpWLCq_AvzQXS1Pu06gYHhnQJ3ZTK8Z9QI-echoSGbz6wPU2W/pub', 'madddev9@gmail.com']}
+{'com.weather.lalita': ['Weather app 2019 free', 'lalita+developer', '500+', 'https://weatherapp2019.blogspot.com/2019/02/weather-app-2019-free.html', 'lalitadevlopers@gmail.com']}
+{'com.bovor.daily.weather.forecast': ['Weather Forecast', 'Bovor', '50+', 'https://bovor-weather.blogspot.com/2019/02/privacy-policy-weather.html', 'assasin90.maincraft@gmail.com']}
+{'com.james.weather.forecast.live.rada': ['Weather Forecast', 'James+Rero', '1,000+', None, 'jamesmguerrero79@gmail.com']}
+{'com.WA.GlobalWeather.Pro': ['Global Weather Channel 2019 Weather Channel App', 'Weather+Network,+Weather+Forecast,+Weather+Channel', '10+', 'https://docs.google.com/document/d/1WR3J0dwG-UIxkq_Dq6zkGGZtc4F3rquN5rRz6tiQzOk/edit?usp=sharing', 'weather.channel.apps@gmail.com']}
+{'com.toketokepass.weatherapp': ['Whether°', 'Tiago+A+Bandeira', '1+', 'https://whether.degree', 'tiago.bndr@gmail.com']}
+{'com.chanel.weather.forecast.accu.pro': ['Weather forecast pro', '6891079333414847023', '50,000+', 'http://bachasoft.com/', 'appleinfo.studio@gmail.com']}
+{'com.basevelocity.radarscope': ['RadarScope', 'Weather+Decision+Technologies,+Inc.', '50,000+', 'http://radarscope.io', 'support@wdtinc.com']}
+{'com.nstudio.weatherhere': ['NOAA Weather Unofficial (Pro)', 'Granite+Apps', '50,000+', 'http://www.graniteapps.net/noaaweather/faq.html', 'paulnadler@gmail.com']}
+{'widget.dd.com.overdrop.pro': ['Overdrop Weather — Pro Key', '39ninety', '10,000+', 'https://sites.google.com/view/overdropproinfo/home', 'dderonjic96@gmail.com']}
+{'com.tohsoft.weather.radar.widget.pro': ['Weather Pro', 'Best+App+-+Top+Droid+Team', '10,000+', 'https://sites.google.com/view/weather-privacy', 'talentdroidteam@tohsoft.com']}
+{'com.acmeaom.android.myradarpro': ['MyRadar Weather Radar Ad Free', 'ACME+AtronOmatic+LLC', '10,000+', 'http://myradar.com', 'myradarandroid@acmeaom.com']}
+{'com.amber.vip.ad.widget.vip': ['VIP for Amber Widgets', '7686194056937543414', '1,000+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.devexpert.weatheradfree': ['Weather & Clock Widget for Android Ad Free', '7658770298258695404', '100,000+', 'http://www.devexpert.net/weather', 'support@devexpert.net']}
+{'com.radarx.stormmapping.stormmapping': ['RadarOmega: Advanced Weather Radar', 'Storm+Mapping', '100+', 'http://www.stormmapping.com', 'support@stormmapping.com']}
+{'com.aws.android.elite': ['Weather Elite by WeatherBug', 'WeatherBug', '500,000+', 'https://www.weatherbug.com', 'weatherbug.android@gmail.com']}
+{'com.weather.forecast.weatherchannel.pro': ['Weather App Pro', 'Best+Weather+App', '100,000+', 'https://sites.google.com/view/weather-privacy', 'app.weather@tohsoft.com']}
+{'com.davidsukhin.com.sukhin.snowdaycalculator': ['Snow Day Calculator', 'David+Sukhin', '1,000+', 'http://www.snowdaycalculator.com', 'info@snowdaycalc.com']}
+{'com.apalon.weatherlive': ['Weather Liveº', '7148047194848561719', '500,000+', 'http://www.apalon.com/weather_live_android.html', 'support@apalon.com']}
+{'com.amber.vip.ad': ['Ad Blocker Plug-in for Amber Widgets', '7686194056937543414', '500+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.Elecont.WeatherClock': ['eWeather HD - weather, hurricanes, alerts, radar', '5431158417217653512', '100,000+', 'http://elecont.com/defaultan.aspx', 'elecontsoftware@gmail.com']}
+{'com.droid27.transparentclockweather.premium': ['Transparent clock weather (Ad-free)', '7032303803416115669', '100,000+', 'http://www.machapp.net', 'support@machapp.net']}
+{'com.tohsoft.weather.radar.widget.live.pro': ['Weather Live Pro', 'Best+App+-+Top+Droid+Team', '500,000+', 'https://sites.google.com/view/weather-privacy', 'talentdroidteam@tohsoft.com']}
+{'com.jrustonapps.myauroraforecastpro': ['My Aurora Forecast Pro - Aurora Borealis Alerts', 'Jake+Ruston', '5,000+', 'https://www.jrustonapps.com', 'jake@jrustonapps.com']}
+{'com.tinyvital.wxr.pro': ['Radar Alive Pro Weather Radar', 'Tiny+Vital+Systems,+LLC', '10,000+', 'http://radaralive.com/', 'support@radaralive.com']}
+{'com.universetoday.moon.phases': ['Phases of the Moon Pro', 'M2Catalyst,+LLC.', '50,000+', 'http://www.m2catalyst.com', 'support@m2catalyst.com']}
+{'ru.bastion7.realisticweather.pro': ['Realistic Weather All Seasons Live Wallpaper', '6780808877633388771', '5,000+', 'https://www.facebook.com/bastion4you', 'dev@bastion7.ru']}
+{'com.droid27.senseflipclockweather.premium': ['Sense Flip Clock & Weather (Ad-free)', '7032303803416115669', '5,000+', 'http://www.machapp.net', 'support@machapp.net']}
+{'com.graph.weather.forecast.channel.pro': ['Weather Forecast pro', '5060643507394548139', '10,000+', 'https://sites.google.com/view/ynkapp', 'hykn.android@gmail.com']}
+{'com.studioeleven.windfinderpaid': ['Windfinder Pro - weather & wind forecast', '6577902653429990807', '100,000+', 'http://www.windfinder.com', 'android@windfinder.com']}
+{'com.wdtinc.android.mwr': ['Weather Radio by WDT', 'WDT,+Inc.', '10,000+', 'https://wdt.zendesk.com/entries/21378637-iMapWeather-Radio-FAQ', 'support@wdtinc.com']}
+{'com.amber.vip.widget': ['Widgets Unlocker Plug-in for Amber Widgets', '7686194056937543414', '100+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.weathersphere.noaa_hidef_radar': ['NOAA Hi-Def Radar', 'WeatherSphere', '100,000+', 'http://www.weathersphere.com', 'WHelpDesk@weathersphere.scripps.com']}
+{'com.voyagegames.weatherroute.paid': ['Weather Route', 'Voyage+Studios', '1,000+', 'http://www.weatherroute.io', 'voyagestudiosllc@gmail.com']}
+{'com.apexice.android.chaserlocation': ['Location App to SpotterNetwork', 'APEXICE', '1,000+', 'http://www.apexice.com', 'vernecarlson@gmail.com']}
+{'com.arf.weatherstation': ['Weather Station', 'Dromosys', '10,000+', 'https://www.facebook.com/Dromosys', 'android.robot.factory@gmail.com']}
+{'com.lifewaresolutions.dmoon': ['Deluxe Moon - Moon Calendar', 'LWS+Research', '10,000+', 'http://www.LifewareSolutions.com/deluxe_moon_screen_an.html', 'support@lifewaresolutions.com']}
+{'com.meteo.weather.forecast.radar.v2.pro': ['Weather Radar Pro', 'Best+Weather+App', '100,000+', 'http://goweatherforecast.com', 'app.weather@tohsoft.com']}
+{'com.tornadospy.tornadospyapp': ['TornadoSpy', 'TornadoSpy', '100+', 'http://www.tornadospy.com', 'justintimeapps@gmail.com']}
+{'mobi.infolife.ezweather.widget.weather.location.app.pro': ['Local Weather Pro', '7686194056937543414', '500+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.jrustonapps.mymoonphasepro': ['My Moon Phase Pro - Moon, Golden Hour & Blue Hour!', 'Jake+Ruston', '1,000+', 'https://www.jrustonapps.com', 'jake@jrustonapps.com']}
+{'com.apexice.android.rapid_report': ['RapidReport for SpotterNetwork', 'APEXICE', '1,000+', 'http://www.apexice.com', 'vernecarlson@gmail.com']}
+{'com.stellar_north.SpaceWeather': ['Space Weather App', 'Stellar+North+LLC', '5,000+', 'https://spaceweatherapp.com/', 'stellar.north.co@gmail.com']}
+{'com.techseries.weatherlive.pro': ['Weather Radar Pro', '7958183103997712351', '100,000+', 'https://bornehofficial.com/privacy/Privacy-Policy-Weather-Live-Pro.html', 'weatherlive@bornehofficial.com']}
+{'com.andrewou.weatherback.unlock': ['Weatherback Wallpaper and lockscreen UNLOCKER ONLY', 'aceou', '10,000+', 'https://docs.google.com/document/d/1LwMJPRgg5z5HpH23PvJz_GYudJW5bAnU8qVWPKWKi4E/edit?usp=sharing', 'weatherbackapp@gmail.com']}
+{'uk.co.wearabledesigns.ledwithweather': ['LED Watch face with Weather', '5117509099958351335', '10,000+', 'http://www.wearabledesigns.co.uk', 'support@wearabledesigns.co.uk']}
+{'com.jrustonapps.mylightningtrackerpro': ['My Lightning Tracker Pro - Live Thunderstorm Map', 'Jake+Ruston', '1,000+', 'https://www.jrustonapps.com', 'jake@jrustonapps.com']}
+{'com.mg.android': ['WeatherPro', '7282071594481600051', '500,000+', 'http://www.weatherpro.eu/android', 'support@android.weatherpro.de']}
+{'com.jrustonapps.myearthquakealertspro': ['My Earthquake Alerts Pro - Quake Map & Feed', 'Jake+Ruston', '1,000+', 'https://www.jrustonapps.com', 'jake@jrustonapps.com']}
+{'com.raysweather.mobile': ['RaysWeather.Com Mobile App', 'RaysWeather.Com', '1,000+', 'http://raysweather.com', 'ray@raysweather.com']}
+{'com.livingearth.pro': ['3D EARTH PRO - local weather forecast & rain radar', '5223249612152175505', '50,000+', 'http://www.3dearthapp.com', 'support@3dearthapp.com']}
+{'yo.app': ['YoWindow Weather', '5273394471208764532', '100,000+', 'http://yowindow.com', 'support@repkasoft.com']}
+{'net.mpross.pwspaid': ['PWS-WU', 'M.P.Ross', '100+', 'http://mpross.net', 'mprossdev@gmail.com']}
+{'com.gv_apps.themoonproandroid': ['The Moon Pro - Calendar moon Phases', 'Black+Swift', '500+', 'http://gv-apps.com', 'binsonov@gmail.com']}
+{'com.onestudio.henry.weathermavenforwearos': ['Weather Maven for Wear OS', 'Henry+Stern', '500+', 'https://onestudio.gq', 'citypanda.develops@gmail.com']}
+{'com.jrustonapps.mytidetimespro': ['My Tide Times Pro - Tables, Forecasts & Charts!', 'Jake+Ruston', '5,000+', 'http://www.jrustonapps.com', 'jake@jrustonapps.com']}
+{'com.aminor.weatherstationpro': ['Weather Station Pro', 'A-Minor', '1,000+', None, 'jsstp24n5@gmail.com']}
+{'com.rsoftr.android.earthquakestracker.pro': ['Earthquakes Tracker Pro', 'DoubleR+Software', '1,000+', 'http://android.rsoftr.com/', 'rradu1970@gmail.com']}
+{'com.rainaware.rainaware': ['RainAware Weather Timer', 'RainAware', '5,000+', 'http://www.rainaware.com', 'contact_us@rainaware.com']}
+{'com.nickobrennan.pocketgrib': ['PocketGrib', 'Nicko+Brennan', '10,000+', 'http://pocketgrib.com', 'nicko@nickobrennan.com']}
+{'com.obama.weatherpro': ['Weather Forecast Pro: Timeline, Radar, MoonView', 'SamandVu', '1,000+', 'https://sites.google.com/site/weatherpolicy/home', 'Wearedroiddev@gmail.com']}
+{'com.noaaweather.android': ['NOAA Weather and Radar', 'Mende+App', '1,000+', 'http://weatherinfoapp.com', 'support@weatherinfoapp.com']}
+{'com.weathernowapp.paid': ['WEATHER NOW - forecast radar & widgets ad free', '7909324824138815737', '10,000+', 'http://www.weathernowapp.com', 'android@weathernowapp.com']}
+{'com.lwbrands.android.NOAAbuoydata': ['NOAA Marine Weather Forecast', 'QuantumTek+Engineering', '500+', 'https://www.facebook.com/noaabuoydatacenter/', 'matthew.biegner@gmail.com']}
+{'com.alpharadar': ['Alpha Radar', 'Alpha+Radar+LLC', '50+', 'http://www.alpharadar.com', 'alpharadarapp@gmail.com']}
+{'com.stkiconcepts.hurricaneHound': ['Hurricane Hound', 'STKI+Concepts', '5,000+', 'http://www.stkiconcepts.com', 'info@stkiconcepts.com']}
+{'com.fancybox.chronus.color': ['Miui Color Chronus Weather Icons', 'fancybox', '10+', 'http://www.fancybox.one', 'amobime@gmail.com']}
+{'com.alexmail.chronus.livehd': ['Chronus: Live HD Weather Icons', 'fancybox', '500+', 'http://www.fancybox.one/', 'amobime@gmail.com']}
+{'net.marscity.sunlight': ['Krona Sunlight Watchface', 'Simon+Barke', '10,000+', None, 'mail@simonbarke.com']}
+{'com.citc.weatherpro': ['Eye In Sky Weather - Pro Key', '9118647368512655676', '10,000+', 'http://timothyjc.blogspot.de/2012/07/weather-eye.html', 'timothyjc@gmail.com']}
+{'aplicacionpago.tiempo': ['Weather 14 days Pro', '8458932010894797678', '50,000+', 'http://www.tiempo.com', 'support@meteored.com']}
+{'ffz.com.barometerpro': ['Barometer pro - free', 'FFZ+srl', '1,000+', 'http://www.ffz.it', 'pietro@ffz.it']}
+{'com.droid27.d3flipclockweather.premium': ['3D Flip Clock & Weather Ad-free', '7032303803416115669', '1,000+', 'http://www.machapp.net', 'support@machapp.net']}
+{'com.embarcadero.iWDpro': ['iWDPro', 'Brian+Hamilton', '500+', 'http://www.weather-display.com', 'info@weather-display.com']}
+{'me.tidesnear.paid': ['Tides Near Me', 'Shelter+Island+Mapping+Company,+LLC', '5,000+', 'http://tidesnear.me', 'support@tidesnear.me']}
+{'com.lifewaresolutions.dm2': ['Deluxe Moon HD-Lunar Calendar', 'LWS+Research', '500+', 'http://www.lifewaresolutions.com/', 'appsupport@lwsresearch.com']}
+{'com.marineweatherforecast': ['Marine Weather Forecast', 'Blue+Whale+Apps,+Inc.', '1,000+', 'http://www.bluewhaleapps.com', 'support@bluewhaleapps.com']}
+{'com.Elecont.USARadar': ['eRadar HD & hurricanes', '5431158417217653512', '10,000+', 'http://www.elecont.com', 'elecontsoftware@gmail.com']}
+{'com.thegameappstudio.galaxys8plusweatherwidgetpro': ['Weather Widget Galaxy S8 Pro S9 - Live Temperature', '5992219099467014099', '1,000+', 'http://www.thegameappstudio.com/privacy-policy/', 'developer@thegameappstudio.com']}
+{'com.sanitariumdesigns.android.windchillpro': ['Windchill Calculator Pro', 'Sanitarium+Designs', '100+', 'http://www.sanitariumdesigns.com', 'contact@sanitariumdesigns.com']}
+{'de.mdiener.rain.usa.plus': ['Rain Alarm Pro', '8351641259293984004', '50,000+', 'http://app.rain-alarm.com', 'android@rain-alarm.com']}
+{'com.fancybox.chronus.magical64bit': ['Chronus: Magical HD weather icons in 64-bit color', 'fancybox', '1+', 'http://www.fancybox.one', 'amobime@gmail.com']}
+{'mobi.infolife.ezweather.widget.weather.location.app.roi.pro': ['Accurate Weather Report Pro', '7686194056937543414', '10+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.kolov.weatherstationpro': ['WhatWeather Pro - Weather Station', 'kolov.com', '100+', 'https://sites.google.com/view/whatweather-privacy-policy-en/startseite', 'playstore@kolov.com']}
+{'com.fancybox.chronus.weezle': ['Weezle Chronus Weather Icons', 'fancybox', '10+', 'http://www.fancybox.one', 'amobime@gmail.com']}
+{'com.fancybox.chronus.live': ['Live  Chronus Weather Icons', 'fancybox', '50+', 'http://www.fancybox.one', 'amobime@gmail.com']}
+{'com.nestides.tidesforfishing': ['Tides for Fishing', 'NestTides', '10+', 'http://www.nestides.com', 'info@nestides.com']}
+{'com.mycompany.tsunamicalculator': ['TSUNAMI ANALYZER', 'Lincoln+Simpson', '1+', None, 'karlsgrad@aol.com']}
+{'com.smartapps.studio.weather.pro': ['Weather Radar & Forecast Pro', 'Smart+apps+-+Best+Apps+Studio', '100+', 'https://sites.google.com/view/weather-radar-privacy', 'smartappstudio.feedback@gmail.com']}
+{'com.noaaliveweatherpro.com': ['NDBC NOAA Buoy Weather Marine', 'Pollos+Hermanos', '50+', 'http://www.catchyourapps.com', 'polloshermanos1979@gmail.com']}
+{'com.alexmail.chronus.marshmhd': ['Chronus: Picasso HD Weather Icons', 'fancybox', '100+', 'http://www.fancybox.one', 'amobime@gmail.com']}
+{'com.steveparker.hurricaneTrackerAndroid': ['Hurricane Tracker', 'EZ+Apps,+Inc', '10,000+', 'http://www.hurrtracker.com', 'support@ezappsinc.com']}
+{'com.alexmail.chronus.tick': ['Chronus: Tick HD Weather Icons', 'fancybox', '100+', 'http://www.fancybox.one', 'amobime@gmail.com']}
+{'com.ehzstudios.weatheredgepanel': ['Weather for Edge Panel', 'Edge+Master', '100+', None, 'edgemaster500@gmail.com']}
+{'org.xbasoft.mubarometer.pro': ['mu Barometer Pro', '5632310902070285339', '1,000+', 'http://xvadim.chgk.info/', 'vadim.khohlov@gmail.com']}
+{'com.simba.chronus.pixel': ['8-Bit Pixel Art theme for Chronus Weather Icons', '9133292728015109556', '100+', None, 'simba20140404@gmail.com']}
+{'eu.kianga.cycles': ['Cyklus Watch Face', 'Ren%C3%A9+Puls', '500+', 'https://cyklus.kianga.eu', 'apps@kianga.eu']}
+{'com.stationweather.stationweatherandroid': ['StationWeather - METAR & TAF Aviation Weather', 'Oliver+Puetz', '1,000+', 'http://stationweather.com', 'info@stationweather.com']}
+{'com.na.chronus.delicate': ['Delicate theme for Chronus Weather Icons', '9133292728015109556', '100+', None, 'simba20140404@gmail.com']}
+{'b4a.zephyrpro': ['Zephyrus Pro Anemometer', 'Gaia+Consulting', '1,000+', 'http://www.gaiacons.com', 'sales@gaiacons.com']}
+{'com.antikytherus.weatherfx': ['WeatherFX', 'Antikytherus', '500+', 'https://www.facebook.com/index76', 'antikytherus@gmail.com']}
+{'com.vivoti.trueweather': ['True Weather LWP', 'Vivoti+Services+Ltd.', '10,000+', 'http://www.vivoti.com', 'info@vivoti.com']}
+{'org.ksolution.huntingtimes': ['Best Hunting Times', '8413021153262246042', '10,000+', 'http://www.outdoor-apps.com/huntingtimes.html', 'support@ksolution.org']}
+{'net.memphisweather.MWN': ['MemphisWeather.net', 'Cirrus+Weather+Solutions,+LLC', '1,000+', 'http://blog.memphisweather.net/p/mwn-mobile-apps.html', 'support@memphisweather.net']}
+{'com.androidev.xhafe.earthquakepro': ['EarthQuake PRO', 'Francesk+Xhaferri', '500+', 'https://franceskxhaferri.co/', 'x.francesk@gmail.com']}
+{'com.tools4monitoring.meteo.pws.pro': ['Meteo Monitor 4 Personal Weather Stations PWS PRO', '5642177052928093239', '10+', 'https://tools4monitoring.com', 'support@tools4monitoring.com']}
+{'com.shareweather.road': ['ShareWeather ROAD Pro 2019', '5365996196027017637', '5+', 'http://www.shareweather.com', 'katarina@shareweather.com']}
+{'be.inet.rainwidget.donate': ['Meteogram Widget - Donate', 'Benny+Wydooghe', '10,000+', 'http://www.meteogramwidget.com', 'info@meteogramwidget.com']}
+{'com.jasonsandroids.TornadoChaser': ['Tornado Chaser', 'Jason+Vance', '1,000+', 'http://jasonrvance.com', 'jasonvance77@gmail.com']}
+{'com.jal.simpletemplog': ['Temperature Log', 'InMySpareTime', '50+', None, 'appsinmysparetime@gmail.com']}
+{'ru.sergey.abadzhev.nlw3d': ['Nature Live Weather 3D LWP', 'Sergey+Abadzhev', '1,000+', None, 's.abadzhev@gmail.com']}
+{'com.tsf.pendants.weather': ['TSF Weather Pendants Widgets', 'Technology+Discovery', '500+', 'http://www.technology-discovery.com', 'info@technology-discovery.com']}
+{'kr.co.core.technology.clock.widget': ['Weather Clock Widget Premium', 'CORE+TECHNOLOGY', '5,000+', 'http://www.core-technology.co.kr', 'support@core-technology.co.kr']}
+{'air.com.KickstandTech.MotorcycleWeatherPro': ['Motorcycle Weather Ad Free', '7017618643759344714', '100+', 'https://www.MotorcycleWeather.com', 'MotorcycleWeather@rjbruneel.com']}
+{'com.fancybox.chronus.magical64bit': ['Chronus: Magical HD weather icons in 64-bit color', 'fancybox', '1+', 'http://www.fancybox.one', 'amobime@gmail.com']}
+{'com.tools4monitoring.meteo.pws.pro': ['Meteo Monitor 4 Personal Weather Stations PWS PRO', '5642177052928093239', '10+', 'https://tools4monitoring.com', 'support@tools4monitoring.com']}
+{'com.weather.Weather': ['Weather Radar and Forecast - The Weather Channel', '5938833519207566184', '100,000,000+', 'http://feedback.weather.com/', 'android.support@weather.com']}
+{'com.handmark.expressweather': ['1Weather:Widget Forecast Radar', 'OneLouder+Apps', '10,000,000+', 'http://www.onelouder.com', 'onelouderapps@gmail.com']}
+{'com.accuweather.android': ['AccuWeather: Weather Radar & Live Forecast Maps', 'AccuWeather', '50,000,000+', 'http://www.accuweather.com', 'support@accuweather.com']}
+{'com.chanel.weather.forecast.accu': ['Weather forecast', '6891079333414847023', '10,000,000+', 'http://bachasoft.com/', 'appleinfo.studio@gmail.com']}
+{'com.apalon.weatherradar.free': ['NOAA Weather Radar Live & Alerts', '7148047194848561719', '10,000,000+', 'http://apalon.com', 'support@apalon.com']}
+{'com.weather.forecast.weatherchannel': ['Weather app', 'Best+Weather+App', '1,000,000+', 'https://sites.google.com/view/weather-privacy', 'app.weather@tohsoft.com']}
+{'mobi.infolife.ezweather.widget.accurate.weather.report': ['Free Weather Forecast App Widget', 'Weather+Widget+Theme+Dev+Team', '1,000,000+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.aws.android': ['Weather by WeatherBug: Real Time Forecast & Alerts', 'WeatherBug', '10,000,000+', 'https://www.weatherbug.com/', 'weatherbug.android@gmail.com']}
+{'com.acmeaom.android.myradar': ['MyRadar Weather Radar', 'ACME+AtronOmatic+LLC', '10,000,000+', 'http://myradar.com', 'myradarandroid@acmeaom.com']}
+{'com.williamking.whattheforecast': ['What The Forecast?!!', 'Night+Cat+Productions', '1,000,000+', 'http://www.nightcatproductions.com', 'nightcatprod@gmail.com']}
+{'com.pule.live.weather.widget.channel': ['Weather Forecast & Radar', 'Best+Weather+Forecast', '100,000+', 'https://sites.google.com/view/pyle-privacy-policy', 'best.weather@yahoo.com']}
+{'com.wunderground.android.weather': ['Weather Underground: Forecasts', 'Weather+Underground', '5,000,000+', 'https://www.wunderground.com', 'support@wunderground.com']}
+{'weather.forecast.alert.storm.radar': ['Weather Forecast', 'Coocent', '1,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/KuXunAppTeam/privacy.txt', 'KuXun.AppTeam@gmail.com']}
+{'com.graph.weather.forecast.channel': ['Weather forecast', '5060643507394548139', '10,000,000+', 'https://sites.google.com/view/ynkapp', 'hykn.android@gmail.com']}
+{'com.apalon.weatherlive.free': ['Weather Live', '7148047194848561719', '10,000,000+', 'http://www.apalon.com/weather_live_android.html', 'support@apalon.com']}
+{'tools.weather.forecast': ['Local Weather Forecast & Visual Widget', 'Tools+Dev', '1,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Tools_Dev/privacyPolicy.txt', 'tools.mobnet@gmail.com']}
+{'com.tohsoft.weather.radar.widget': ['Weather', 'Best+App+-+Top+Droid+Team', '1,000,000+', 'https://sites.google.com/view/weather-privacy', 'talentdroidteam@tohsoft.com']}
+{'com.weathercreative.grumpycatweather': ['Grumpy Cat Weather', 'Weather+Creative+Inc.', '100,000+', 'http://grumpycatweather.com', 'grumpy@weathercreative.com']}
+{'com.yahoo.mobile.client.android.weather': ['Yahoo Weather', '5536369398281991413', '10,000,000+', 'http://mobile.yahoo.com/weather/', 'weather-app-support@yahoo-inc.com']}
+{'net.darksky.darksky': ['Dark Sky - Hyperlocal Weather', 'The+Dark+Sky+Company', '1,000,000+', 'http://darksky.net', 'android@darksky.net']}
+{'com.meteo.weather.forecast.radar.v2': ['Weather Radar Free', 'Best+Weather+App', '500,000+', 'http://goweatherforecast.com', 'app.weather@tohsoft.com']}
+{'mobi.infolife.ezweather.livewallpaper.wealwp.channel.forecast.radar': ['Weather radar & Global weather checker', 'Weather+Widget+Theme+Dev+Team', '10,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'asav.roomtemprature': ['Room Temperature', 'Master+Technologies%C2%A0', '1,000,000+', 'http://masterfashion.in/', 'mastertechnologis@gmail.com']}
+{'com.jndwork.weather.forecast.channel.dailyforecast.liveradarmaps': ['Live Weather - Weather Forecast Apps 2019', '6915261801345011098', '100,000+', 'http://www.jondevmobile.com', 'support@jondevmobile.com']}
+{'mobi.infolife.ezweather.widget.radar.weatherforecast': ['Local Weather Forecast & Real-time Radar checker', 'Weather+Widget+Theme+Dev+Team', '500,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.top.weather.forecast.accu': ['Weather', 'Top+Weather+Studio', '1,000,000+', 'https://www.facebook.com/Weather-2217926141558713/', 'media.topapps@gmail.com']}
+{'com.twc.radar': ['Storm Radar: Tornado Tracker & Hurricane Alerts', '5938833519207566184', '1,000,000+', 'http://feedback.weather.com/', 'feedback@weather.com']}
+{'com.live.wea.widget.channel': ['Weather', 'Quark+Ltd', '5,000,000+', 'http://safewaymiller.online/support/swmgames/weather/policy.html', 'honghua.mao@yahoo.com']}
+{'com.realtimeforecast.weather': ['weather', '7149891497244951725', '1,000,000+', 'https://sites.google.com/view/voicerecorderpivacy', 'summer.mobile.apps@gmail.com']}
+{'com.weathernews.forecastdaily': ['Live Local Weather Forecast', 'Glamor+studio', '10,000+', 'https://sites.google.com/view/glamor-studio-privacy-policy/home', 'Glamorstudi01n@gmail.com']}
+{'com.weawow': ['Weather & Widget - Weawow', 'weawow+weather+app', '500,000+', 'https://weawow.com/', 'support@weawow.com']}
+{'com.droid27.transparentclockweather': ['Transparent clock & weather', '7032303803416115669', '50,000,000+', 'http://www.machapp.net', 'support@machapp.net']}
+{'com.myhomescreen.weather': ['Daily Weather Home - Weather Widget and Launcher', 'My+Home+Screen', '1,000,000+', 'http://myhomescreenapps.com/privacy', 'myhomescreenapps@gmail.com']}
+{'pl.lawiusz.funnyweather.release': ['Fu*** Weather (Funny Weather)', '5781487188033065713', '1,000,000+', 'https://funnyweather.zsuiwal.com/privacy/?utm_source=google_play&utm_medium=lfw_privacy', 'support@zsuiwal.com']}
+{'com.fatmobiweather.forecast': ['Weather Forecast - Live Weather', 'fatmobi+team', '500,000+', 'https://sites.google.com/view/fatmobiteam-privacypolicy/accueil', 'fatmobiteam@gmail.com']}
+{'comw.weatherstate.provider': ["Today's Weather - Local Weather Forecast Channel", 'My+Social+Applications+LLC', '500,000+', 'https://www.mobiburn.com/#/policy?package_name=comw.weatherstate.provider', 'yavuz.turg@yandex.com']}
+{'mobi.infolife.ezweather.widget.weather.galaxy.widget': ['live weather widget accurate', 'Weather+Widget+Theme+Dev+Team', '1,000,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'mobi.infolife.ezweather.widget.weather.location.app': ['Live Local Weather Forecast', 'Weather+Widget+Theme+Dev+Team', '1,000,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.nice.accurate.weather': ['Weather Forecast', '4978685861148140298', '1,000,000+', 'https://sites.google.com/view/vegoo-privacy-policy', 'cghxstudio@gmail.com']}
+{'mobi.infolife.ezweather.widget.liveweather.homescreen': ['free live weather on screen', 'Weather+Widget+Theme+Dev+Team', '1,000,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.weatherteam.rainy.forecast.radar.widgets': ['Weather', 'Weather+Team+%28forecast,+radar,+widget,+recorder%29', '1,000,000+', 'https://sites.google.com/view/weather-droid-team/', 'weather.droidteam@gmail.com']}
+{'com.weather.weatherforecast.weatherchannelinfo': ['Weather Radar - Weather forecast: Today & Tomorrow', '8706106284531263713', '100,000+', 'http://amoweather.com/', 'huawaterxuan@gmail.com']}
+{'weather.forecast.barometer.storm.radar': ['Weather Forecast', 'Dreams+Room', '1,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Dreeam_Room/privacy.txt', 'panjiaqiong@gmail.com']}
+{'com.probadosoft.moonphasecalendar': ['Moon Phase Calendar', 'probadoSoft', '100,000+', 'http://probadosoft.com', 'probadosoft@probadosoft.com']}
+{'com.wea.climate.clock.widget': ['Weather', 'Word+Connect+Games', '5,000,000+', 'http://www.joygame.site/support/joygames/weather/policy.html', 'joygamellc@gmail.com']}
+{'mobi.infolife.ezweather.widget.rainy': ['Real-time Forecast Weather App--Snowstorm Alert', 'Weather+Widget+Theme+Dev+Team', '5,000,000+', 'http://www.amberweather.com/', 'luoluo@amberweather.com']}
+{'aplicacion.tiempo': ['Weather 14 Days - Meteored', '8458932010894797678', '10,000,000+', 'http://www.tiempo.com', 'support@meteored.com']}
+{'com.devexpert.weather': ['Weather & Clock Widget for Android', '7658770298258695404', '50,000,000+', 'http://www.devexpert.net/weather', 'support@devexpert.net']}
+{'mobi.infolife.ezweather.widget.weather.alarmclock': ['Weather Forecast & Clock Widget', 'Weather+Widget+Theme+Dev+Team', '100,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.weathercreative.weatherkitty': ['Weather Kitty - Forecast, Radar & Cat Pictures', 'Weather+Creative+Inc.', '1,000,000+', 'http://weathercreative.com/', 'meow@weathercreative.com']}
+{'com.wcyb.android.weather': ['StormTrack 5', 'Sinclair+Digital+Interactive+Solutions', '100,000+', 'http://www.wcyb.com/station/contact', 'drachlin@bontenmedia.com']}
+{'mobi.infolife.ezweather.livewallpaper.forecast.weather.widget.location': ['Daily Live Weather Forecast App', 'Weather+Widget+Theme+Dev+Team', '500,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.windyty.android': ['Windy.com - Wind, Waves and Hurricanes Forecast', 'Windyty+SE', '5,000,000+', 'https://www.windy.com', 'android-support@windy.com']}
+{'com.weathercreative.weatherbub': ['Weather BUB', 'Weather+Creative+Inc.', '100,000+', 'http://weatherpuppy.com', 'bub@weathercreative.com']}
+{'gov.fema.mobile.android': ['FEMA', 'Federal+Emergency+Management+Agency+%28FEMA%29', '1,000,000+', 'http://www.fema.gov', 'FEMA-New-Media@fema.dhs.gov']}
+{'com.nstudio.weatherhere.free': ['NOAA Weather Unofficial', 'Granite+Apps', '1,000,000+', 'http://www.graniteapps.net/noaaweather/faq.html', 'paulnadler@gmail.com']}
+{'com.channel.weather.forecast': ['Weather Forecast & Widgets & Radar', 'Weather+Forecast+%26+Phone+Tools++Studio', '10,000+', 'https://sites.google.com/view/promo-tools', 'wangyuewangyue17@gmail.com']}
+{'us.B3S.Thermometer': ['Thermometer for room', 'B3S', '10,000+', 'https://textuploader.com/1aom7', 'support@B2S.com']}
+{'com.voyagegames.weatherroute': ['Weather Route - FREE', 'Voyage+Studios', '100,000+', 'http://www.weatherroute.io', 'voyagestudiosllc@gmail.com']}
+{'com.universetoday.moon.free': ['Phases of the Moon Free', 'M2Catalyst,+LLC.', '1,000,000+', 'http://m2catalyst.com/privacy', 'support@m2catalyst.com']}
+{'com.jrustonapps.mymoonphase': ['My Moon Phase - Lunar Calendar & Full Moon Phases', 'Jake+Ruston', '100,000+', 'https://www.jrustonapps.com', 'jake@jrustonapps.com']}
+{'com.airvisual': ['Air Quality | AirVisual', 'AirVisual', '1,000,000+', 'https://www.airvisual.com', 'android@airvisual.com']}
+{'com.wwbt.android.weather': ['NBC12 First Warning Weather', 'Raycom+Media,+Inc', '100,000+', 'http://www.nbc12.com/story/8129861/contact-nbc12', 'rdaudani@nbc12.com']}
+{'net.difer.weather': ['Simple weather & clock widget (No ads)', 'difer', '500,000+', 'http://weather.difer.net', 'android@difer.net']}
+{'mobi.infolife.ezweather.widget.weatherchannel.wetteronline': ['Weather Report & Temperature Widget', 'Weather+Widget+Theme+Dev+Team', '100,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.waga.android.weather': ['FOX 5 Storm Team Weather Radar', 'Fox+Television+Stations,+Inc.', '100,000+', 'http://www.myfoxatlanta.com/category/242175/weather-app', 'scott.stucky@foxtv.com']}
+{'ah.creativecodeapps.tiempo': ['Weather Forecast free', '4933195047043219148', '500,000+', 'https://creativecodeapps.com/', 'contactocreativecode@gmail.com']}
+{'com.bisoft.live.weather': ['Weather Today App: Forecast, Radar, Clock & Widget', 'Grafibuy', '50,000+', 'http://Grafibuy.com', 'Contact@grafibuy.com']}
+{'com.macropinch.swan': ['Weather', '5090037829240044490', '10,000,000+', 'http://macropinch.com', 'support@macropinch.com']}
+{'co.windyapp.android': ['windy.app: wind forecast & marine weather', 'Windy+Weather+World+Inc', '1,000,000+', 'http://windyapp.co', 'windy@windyapp.co']}
+{'amuseworks.thermometer': ['Thermometer++', 'Singulario+Programos+UAB', '5,000,000+', 'http://www.singularioapps.com', 'thermometerapp@gmail.com']}
+{'com.droid27.senseflipclockweather': ['Sense Flip Clock & Weather', '7032303803416115669', '5,000,000+', 'http://www.machapp.net', 'support@machapp.net']}
+{'mobi.infolife.ezweather.widget.storm': ['Live Weather & Local Weather', 'Weather+Widget+Theme+Dev+Team', '5,000,000+', 'http://www.amberweather.com/', 'luoluo@amberweather.com']}
+{'com.kdfw.android.weather': ['FOX 4 KDFW WAPP', 'Fox+Television+Stations,+Inc.', '500,000+', 'http://www.myfoxdfw.com/subindex/about_us/contact_us', 'tracy.delatte@foxtv.com']}
+{'com.wtxf.android.weather': ['FOX 29 Weather - Philadelphia', 'Fox+Television+Stations,+Inc.', '10,000+', 'http://www.myfoxphilly.com/story/17344442/contact-wtxf-fox-29-philadelphia', 'dennis.kraniak@foxtv.com']}
+{'com.live.weatheralerts.realtime.weatherforecast': ['Real Time Live weather Forecast & Weather Alerts', 'T%26D+Apps+Studio+Inc', '10,000+', 'https://sites.google.com/view/td-apps-studio-inc/home', 'sardiapps786@gmail.com']}
+{'com.wjbk.android.weather': ['FOX 2 Weather – Radar & Alerts', 'Fox+Television+Stations,+Inc.', '100,000+', 'http://www.myfoxdetroit.com/category/251463/fox-2-weather-apps', 'Dennis.Kraniak@FOXTV.COM']}
+{'mobi.lockdown.weather': ['Today Weather - Forecast, Radar & Severe Alert', 'todayweather.co', '1,000,000+', 'http://todayweather.co', 'todayweather.co@gmail.com']}
+{'jp.miyavi.androiod.gnws': ['Frog Weather Shortcut', 'miyavi', '100,000+', 'http://www.facebook.com/miyavi1216', 'gloria0021@gmail.com']}
+{'widget.dd.com.overdrop.free': ['Overdrop Weather — Animated Forecast & Widgets', '39ninety', '100,000+', 'https://sites.google.com/view/overdropinfo/home', 'dderonjic96@gmail.com']}
+{'slo.lesnik': ['Local weather', 'matto', '1,000,000+', 'http://matto87.wordpress.com/', 'matej.lesnik.87@gmail.com']}
+{'com.wtvm.android.weather': ['WTVM Storm Team 9 Weather', 'Raycom+Media,+Inc', '50,000+', 'http://www.wtvm.com/story/194287/contact-wtvm', 'fpitts@wtvm.com']}
+{'com.cube.arc.tfa': ['Tornado - American Red Cross', 'American+Red+Cross', '500,000+', 'http://www.redcross.org', 'mobile@redcross.org']}
+{'com.wsfa.android.weather': ['WSFA First Alert Weather', 'Raycom+Media,+Inc', '100,000+', 'http://www.wsfa.com/story/881639/contact-us-by-email', 'mwilder@wsfa.com']}
+{'me.tidesnear.free': ['Tides Near Me - Free', 'Shelter+Island+Mapping+Company,+LLC', '1,000,000+', 'http://tidesnear.me', 'support@tidesnear.me']}
+{'com.ksaz.android.weather': ['FOX Weather – Radar & Alerts', 'Fox+Television+Stations,+Inc.', '50,000+', 'http://www.fox10phoenix.com', 'foxphoenixwebteam@foxtv.com']}
+{'com.kytv.android.weather': ['KY3 Weather', 'Gray+Digital+Media', '100,000+', 'http://www.ky3.com/about/contactus', 'bbelote@ky3.com']}
+{'com.aws.android.tsunami': ['WeatherBug Widget', 'WeatherBug', '1,000,000+', 'http://www.weatherbug.com', 'weatherbug.android@gmail.com']}
+{'com.cmgdigital.android.wsbweather': ['WSBTV Channel 2 Weather', 'Cox+Media+Group+Inc.', '100,000+', 'http://www.coxmediagroup.com', 'mobile@coxinc.com']}
+{'com.steventso.weather': ['HumorCast - Authentic Weather', 'Lyker+Labs', '100,000+', 'https://humorcastapp.com', 'contact@humorcastapp.com']}
+{'com.network.best.weather.forecast': ['Weather Forecast Pro 2019', 'support.F', '50,000+', 'https://www.srobuzz.com', 'brahimelmegha@gmail.com']}
+{'com.tohsoft.weather.radar.widget.live': ['Weather Live', 'Best+App+-+Top+Droid+Team', '100,000+', 'https://sites.google.com/view/weather-privacy', 'talentdroidteam@tohsoft.com']}
+{'mobi.infolife.ezweather.widget.rainy.new2018': ['New 2019 Weather App & Widget', 'Weather+Widget+Theme+Dev+Team', '500,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.kmsp.android.weather': ['FOX 9 Weather – Radar & Alerts', 'Fox+Television+Stations,+Inc.', '100,000+', 'http://www.myfoxtwincities.com/generic/weather/app-support', 'mike.durkin@foxtv.com']}
+{'yong.tools.life.weather': ['Simple Weather Forecast', 'GentleMan+Dev+Studio', '1,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Topdev_Studio/privacy.txt', 'topdev.studio@gmail.com']}
+{'com.weather.forecast.accurate': ['Weather Forecast', 'Top+Weather+Studio', '1,000,000+', 'https://sites.google.com/view/weather-forecast-pro/home', 'media.topapps@gmail.com']}
+{'mobi.infolife.ezweather.widget.ripple2': ['Local Weather Widget&Forecast', 'Weather+Widget+Theme+Dev+Team', '5,000,000+', 'http://www.amberweather.com', 'support@amberweather.com']}
+{'com.saevio.weather': ['Weather', 'Saevio', '1,000,000+', 'http://www.saevioapps.com', 'contact@saevioapps.com']}
+{'mobi.infolife.ezweather.livewallpaper.wealwp.weatherforecast.realtime': ['Accurate Weather Live Forecast App', 'Weather+Widget+Theme+Dev+Team', '1,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.usnaviguide.radar_now': ['RadarNow! ®', 'USNaviguide+LLC', '5,000,000+', 'http://www.radarnow.org', 'coryat@gmail.com']}
+{'com.falcise.weather.forecast': ['Weather Forecast', 'Falcise', '10,000+', None, 'derekwarren3@gmail.com']}
+{'com.boatus.boatusapp': ['BoatUS - Boat Weather & Tides', 'BoatUS', '50,000+', 'http://www.boatus.com/app', 'appfeedback@boatus.com']}
+{'com.odesk_reyad.Weather_Channel': ['Weather Channel', 'Sarder+IT', '1,000+', 'https://weather.com/', 'movieloverhd@gmail.com']}
+{'com.astrospheric.dfior.astrospheric': ['Astrospheric', 'Daniel+Fiordalis', '5,000+', 'https://www.astrospheric.com', 'astrospheric@outlook.com']}
+{'mobi.infolife.ezweather.widget.flipclockandweather1': ['Flip Clock & Weather Widget', 'Weather+Widget+Theme+Dev+Team', '100,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.limate.weather': ['Weather', '6891079333414847023', '1,000,000+', 'http://bachasoft.com/', 'appleinfo.studio@gmail.com']}
+{'com.wis.android.weather': ['WIS News 10 FirstAlert Weather', 'Raycom+Media,+Inc', '100,000+', 'http://www.wistv.com/category/2467/contact-wis', 'jold@wistv.com']}
+{'mobi.infolife.ezweather.widget.weather.hurricane': ['Live weather & widget for android', 'Weather+Widget+Theme+Dev+Team', '100,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.baynews9.baynews9plus': ['Spectrum Bay News 9', 'Charter/Spectrum', '100,000+', 'http://www.spectrum.com', 'SpectrumApp@charter.com']}
+{'com.tvalabama.android.weather': ['3340 Weather', 'Sinclair+Digital+Interactive+Solutions', '100,000+', 'http://www.abc3340.com', 'jeffw@abc3340.com']}
+{'com.doapps.android.mln.MLN_236e5a77f650f861bc31a015c2bd93b4': ['KMOV Weather - St. Louis', 'KMOV-TV,+Inc', '100,000+', 'http://www.doapps.com', 'android@doapps.com']}
+{'com.bgrealtimeforecast.weather': ['weather app', '7149891497244951725', '500,000+', 'https://sites.google.com/view/voicerecorderpivacy', 'summer.mobile.apps@gmail.com']}
+{'com.transsion.weathers': ['Weather', 'Shalltry+Group', '50,000+', 'http://cdn.shalltry.com/shalltrygroup/en1/policy', 'shtranssion@gmail.com']}
+{'mobi.infolife.ezweather.widget.g23n8': ['Daily Weather Forecast Widget--Snow Squall Alert', 'Weather+Widget+Theme+Dev+Team', '1,000,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.ktvu.android.weather': ['KTVU FOX 2 Weather & Radar', 'Fox+Television+Stations,+Inc.', '10,000+', 'http://ktvu.com', 'dennis.kraniak@foxtv.com']}
+{'yo.app.free': ['Awesome Weather YoWindow - Live Wallpaper, Widgets', '5273394471208764532', '5,000,000+', 'http://yowindow.com', 'support@repkasoft.com']}
+{'com.kdvr.android.weather': ['Fox31 - CW2 Pinpoint Weather', 'Tribune+Broadcasting+Company+LLC', '10,000+', 'http://www.tribune.com/', 'broadcast-feeds@tribune.com']}
+{'com.pelmorex.WeatherEyeAndroid.tv': ['The Weather Network TV App', '8994920712470406363', '100,000+', 'http://www.theweathernetwork.com/', 'androidtv@theweathernetwork.com']}
+{'bhmedia.moonphasecalendar': ['Moon Phase Calendar Zodiac', '8414105821730633575', '50,000+', 'http://www.bhmedia.vn', 'support.ios@binhhoang.com']}
+{'com.cmgdigital.android.whbqweather': ['FOX13 Weather App', 'Cox+Media+Group+Inc.', '100,000+', 'http://www.coxmediagroup.com', 'mobile@coxinc.com']}
+{'com.wtoc.android.weather': ['WTOC First Alert Radar', 'Raycom+Media,+Inc', '100,000+', 'http://www.wtoc.com/category/178432/about-wtoc', 'lbetancourt@wtoc.com']}
+{'mobi.infolife.ezweather.widget.newyear.winter': ['New Weather App & Widget for 2019', 'Weather+Widget+Theme+Dev+Team', '100,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.mylocaltv.katvwx': ['KATV Channel 7 Weather', 'Sinclair+Digital+Interactive+Solutions', '100,000+', 'http://katvwx.newsoverwireless.com/', 'katvwxhelp@newsoverwireless.com']}
+{'de.mdiener.unwetter.gm': ['Severe Weather! (weather warnings)', '8351641259293984004', '50,000+', 'https://www.severe-weather.app', 'android@severe-weather.app']}
+{'com.kauz.android.weather': ['First Alert 6 Weather', 'Raycom+Media,+Inc', '50,000+', 'http://www.raycommedia.com', 'androiddeveloper@raycomtv.com']}
+{'com.anddoes.apex.weather': ['Apex Weather', 'Android+Does+Team', '50,000+', 'https://www.apexlauncher.com/privacy-full', 'weather@apexlauncher.com']}
+{'simplified.app.pedometar': ['Accurate Weather Forecast', 'SimplifiedApp', '500,000+', 'https://sites.google.com/site/privacypolicysimplifiedapp/privacy-policy', 'hassanattiaxz@gmail.com']}
+{'cz.ackee.ventusky': ['Ventusky: Weather Maps', 'InMeteo', '100,000+', 'https://www.ventusky.com', 'info@ventusky.com']}
+{'com.ktvi.android.weather': ['Fox 2 St Louis Weather', 'Tribune+Broadcasting+Company+LLC', '50,000+', 'http://www.tribune.com/', 'broadcast-feeds@tribune.com']}
+{'com.dailyforecast.weather': ['weather forecast', '6919162882130996928', '1,000,000+', 'https://sites.google.com/view/mobileapppri', 'whitemintonstudios@gmail.com']}
+{'com.gau.go.launcherex.gowidget.weatherwidget': ['GO Weather - Widget, Theme, Wallpaper, Efficient', 'GOMO+Limited', '50,000,000+', 'http://www.gomo.com/', 'goweatherexfeedback@gmail.com']}
+{'com.ziojean.weather.forecast.channel.rada': ['Local Weather Forecast', 'Ziojean', '50,000+', 'https://ziojean.blogspot.com/2018/09/privacy-policy-for-weather.html', 'ziojean2012@gmail.com']}
+{'mobi.infolife.ezweather.widget.weather.clearsky': ['weather and temperature app Pro', 'Weather+Widget+Theme+Dev+Team', '100,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.ksla.android.weather': ['KSLA 12 First Alert Weather', 'Raycom+Media,+Inc', '100,000+', 'http://www.ksla.com/story/13728349/stormtracker-12-mobile-app-help-page', 'sstaggs@ksla.com']}
+{'com.jrustonapps.mytidetimes': ['My Tide Times - Tide Tables, Forecasts & Tides!', 'Jake+Ruston', '500,000+', 'https://www.jrustonapps.com', 'jake@jrustonapps.com']}
+{'com.kait.android.weather': ['KAIT Region 8 Weather', 'Raycom+Media,+Inc', '100,000+', 'http://www.kait8.com/story/149051/contact-kait', 'drounds@kait8.com']}
+{'mobi.infolife.ezweather.livewallpaper.weather.forecast.liveweather': ['Weather Forecast & Live Wallpaper', 'Weather+Widget+Theme+Dev+Team', '50,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.wpsd.android.weather': ['WPSD Radar', 'WPSD-TV', '50,000+', 'http://www.wpsdlocal6.com/app', 'mvick@wpsdlocal6.com']}
+{'de.android.riverapp': ['RiverApp - River flows', 'Florian+Bessi%C3%A8re', '100,000+', 'https://www.riverapp.net', 'florian@riverapp.net']}
+{'com.cmgdigital.android.wtevweather': ['Action News Jax Weather', 'Cox+Media+Group+Inc.', '50,000+', 'http://www.coxmediagroup.com', 'mobile@coxinc.com']}
+{'com.kcrg.android.weather': ['KCRG-TV9 First Alert Weather', 'Gray+Digital+Media', '100,000+', 'http://www.kcrg.com/weather', 'mindi.dixson@kcrg.com']}
+{'com.wvtm.android.weather': ['WVTM 13 Weather - Alabama', 'HTVMA+Solutions,+Inc.', '10,000+', 'http://www.wvtm13.com/tv/contact', 'htvspecialtyapps@gmail.com']}
+{'com.mobile.celsiusfahrenheit': ['Celsius to Fahrenheit / °C to °F Converter', 'Webtoweb', '5,000+', 'http://www.webtoweb.fr', 'services.webtoweb@gmail.com']}
+{'mobi.infolife.ezweather.widget.transparent.weather.channel': ['Transparent weather widget', 'Weather+Widget+Theme+Dev+Team', '50,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'perfect.weather.live': ['Weather Live', 'Perfect_Design', '100,000+', 'https://sites.google.com/view/weather-live-app/home', 'apps62362@gmail.com']}
+{'com.deluxeware.snow.report': ['Snow Report - Animated Maps & Weather Forecast', '7909324824138815737', '10,000+', 'http://www.weathernowapp.com', 'android@weathernowapp.com']}
+{'com.cmgdigital.android.wsocweather': ['WSOC-TV Weather', 'Cox+Media+Group+Inc.', '100,000+', 'http://www.coxmediagroup.com', 'mobile@coxinc.com']}
+{'mobi.infolife.ezweather.widget.transparentweather': ['Transparent Clock&Weather Free', 'Weather+Widget+Theme+Dev+Team', '500,000+', 'http://www.amberweathr.com', 'support@amberweather.com']}
+{'com.wsyx.android.weather': ['OHIO WX', 'Sinclair+Digital+Interactive+Solutions', '50,000+', 'http://www.abc6onyourside.com/station/', 'webmaster@sbgtv.com']}
+{'com.newssynergy.pahomepageweather': ['Eyewitness Weather WBRE WYOU', 'Nexstar+Broadcasting', '5,000+', 'https://www.pahomepage.com/', 'mobiledeveloper@nexstar.tv']}
+{'com.tohsoft.weather.sunrise.sunset.gen2': ['Weather - unlimited & realtime weather forecast', 'Best+App+-+Top+Droid+Team', '100,000+', 'https://sites.google.com/view/weather-privacy', 'talentdroidteam@tohsoft.com']}
+{'com.windalert.android': ['WindAlert: Windy Conditions & Forecasts', 'WeatherFlow', '100,000+', 'http://www.windalert.com/', 'support@windalert.com']}
+{'com.wave.android.weather': ['WAVE 3 Louisville Weather', 'Raycom+Media,+Inc', '100,000+', 'http://www.wave3.com/story/13480866/mobile-apps', 'jwise@wave3.com']}
+{'com.hailtrace': ['HailTrace', 'HailTrace', '5,000+', 'http://hailtrace.com', 'info@hailtrace.com']}
+{'com.live.weatherforecast': ['Live Weather Forecast', 'WeatherFox', '10,000+', 'https://sites.google.com/view/weatherfox-privacy-policy/trang-ch%E1%BB%A7', 'tuanpt6575@gmail.com']}
+{'com.twf.prod': ['TFW', 'alcohollick', '10,000+', 'https://alcohollick.com/tfw.html', 'hello@alcohollick.com']}
+{'com.enginedilema.temperatureconverter': ['Farenheit to Celsius Converter', 'Engine+Dilema', '100,000+', 'http://www.enginedilema.com', 'enginedilema@gmail.com']}
+{'com.wink.android.weather': ['WINK Weather', 'WINK+Digital+Media', '50,000+', 'http://www.winknews.com', 'support@winktv.com']}
+{'com.universalpictures.dm2widget': ['Minions Weather Widget', 'NBCUniversal+Media,+LLC', '500,000+', 'http://www.nbcuni.com', 'android@nbcuni.com']}
+{'com.clima.weatherapp': ['Clima-Weather', 'El+Tiempo+Previsto', '100,000+', 'http://www.clima.com', 'info@clima.com']}
+{'com.kcpq.android.weather': ['Q13 News - Seattle Weather', 'Tribune+Broadcasting+Company+LLC', '50,000+', 'http://www.tribune.com/', 'broadcast-feeds@tribune.com']}
+{'com.koln.android.weather': ['1011 NOW Weather', 'Gray+Digital+Media', '5,000+', 'http://www.gray.tv', 'gdmdev@gray.tv']}
+{'com.weathercreative.booweather': ['Boo Weather', 'Weather+Creative+Inc.', '10,000+', 'http://booweather.com', 'boo@weathercreative.com']}
+{'com.driveweather': ['Drive Weather', 'Concept+Elements+LLC', '1,000+', 'http://www.driveweatherapp.com', 'support@wx24pilot.com']}
+{'com.wbng.android.weather': ['WBNG Storm Track 12', 'Quincy+Media,+Inc.', '10,000+', 'http://business.weather.com', 'newsops@quincymedia.com']}
+{'com.wate.weather': ['Knoxville Wx', 'Nexstar+Digital+%28formerly+LIN+Media%29', '50,000+', 'http://www.wate.com', 'webadmin@wate.com']}
+{'com.wtnh.android.weather': ['StormTeam8 - WTNH Weather', 'Nexstar+Digital+%28formerly+LIN+Media%29', '10,000+', 'http://www.linmedia.com/', 'dev@linmedia.com']}
+{'mobi.infolife.ezweather.widget.radarandforecast': ['Weather Radar Alert & Local Weather Forecast', 'Weather+Widget+Theme+Dev+Team', '100,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'das90.dlsna_000.das.com.travelweather': ['Travel Weather Forecast USA', 'DAS90', '1,000+', 'https://www.facebook.com/GPSAlarmApp/', 'dlsnakandala@gmail.com']}
+{'com.lomolsoft.learn.irishgaelicdict': ['Learn Irish Gaelic | Irish Gaelic Translator Free', 'lomol', '1,000+', 'http://lomol.net/', 'lomolsoft@gmail.com']}
+{'com.baron.wvns.wvnstormtracker59': ['WVNS STORMTRACKER 59', 'Nexstar+Broadcasting', '10,000+', 'http://www.wvnstv.com', 'jwhitman@wowktv.com']}
+{'com.BestDigitalClockWidget.LiveWallpapersGallery': ['Best Digital Clock Widget', 'Live+Wallpapers+Gallery', '100,000+', 'https://milanilicsektori.wixsite.com/livewallpapergallery/page-2', 'phonelivewallpapers@gmail.com']}
+{'com.kutv.android.weather': ['KUTV WX', 'Sinclair+Digital+Interactive+Solutions', '10,000+', 'http://www.kutv.com/station/', 'webmaster@sbgtv.com']}
+{'com.socialex.radsathd': ['RadSat HD', 'SocialEx+Aplicaciones', '100,000+', 'https://www.pronosticoextendido.net', 'contacto@pronosticoextendido.net']}
+{'com.sanitariumdesigns.android.windchill': ['Windchill Calculator', 'Sanitarium+Designs', '5,000+', 'http://www.sanitariumdesigns.com', 'contact@sanitariumdesigns.com']}
+{'com.newssynergy.ozarksfirstweather': ['KOLR10 Weather Experts', 'Nexstar+Broadcasting', '10,000+', 'http://www.ozarksfirst.com/weather', 'mlnitunes@doapps.com']}
+{'com.keyt.android.weather': ['KEYT-KCOY-KKFX First Alert', 'News-Press+%26+Gazette+Co.', '5,000+', 'http://www.wsi.com', 'wsimobile1@gmail.com']}
+{'com.wcco.android.weather': ['CBS Minnesota Weather', 'CBS+Local', '10,000+', 'http://cbslocal.com', 'mobile@cbslocal.com']}
+{'com.hbi.wdtinc.android.wnyt': ['WNYT First Warning Weather', 'Hubbard+Broadcasting,+Inc.', '5,000+', 'http://wnyt.com/about-us/newschannel-13-privacy-policy/1641598/', 'dhansen@kstp.com']}
+{'com.ydvisual.s4envtrak': ['Sensors: Temp and Humidity', 'YD+Visual', '100,000+', 'http://www.ydvisual.com/', 'ydvisual@gmail.com']}
+{'com.krgv.android.weather': ['KRGV FIRST WARN 5 Weather', 'KRGV', '50,000+', 'http://www.krgv.com/content/help/default.aspx', 'malena@krgv.com']}
+{'com.Elecont.WeatherClock.free': ['eWeather HDF - weather, alerts, radar, hurricanes', '5431158417217653512', '50,000+', 'http://www.elecont.com', 'elecontsoftware@gmail.com']}
+{'com.devytools.weather.forecast.radar': ['Weather Forecast 2019 - Weather Radar', 'Devy+Tools', '10,000+', 'http://devytools.com/weather-forecast-2019-weather-radar/', 'davidjonas957@gmail.com']}
+{'com.bestfriends.live.weather.app': ['Real Live Weather Forecast : Daily Weather Update', 'Live+Maps+%26+Navigation', '100,000+', 'https://docs.google.com/document/d/1EQbfZVs6z4n5IsF6sje6IPV1-d40ayf6_yN_FLA4R5A/edit?usp=sharing', 'livemaps.feedback@gmail.com']}
+{'com.hudsonvalleyweather.app': ['Hudson Valley Weather', 'Hudson+Valley+Weather', '5,000+', 'http://www.hudsonvalleyweather.com/', 'support@hudsonvalleyweather.com']}
+{'com.newssynergy.tristateweather': ['Tristate Weather - WEHT WTVW', 'Nexstar+Broadcasting', '10,000+', 'http://www.tristatehomepage.com/weather', 'wdistler@tristatehomepage.com']}
+{'com.wtxl.android.weather': ['WTXL First Alert Weather', 'The+E.W.+Scripps+Company', '10,000+', 'http://www.wtxl.com/wireless/default.aspx', 'jwildenstein@wwsb.tv']}
+{'de.droidenschmiede.weather': ['Weather Frog Shortcut', 'Droidenschmiede', '10,000+', 'https://github.com/vabene1111/Android-Weather-Frog', 'vabene1234@gmail.com']}
+{'com.morecast.weather': ['Morecast - Your Personal Weather Companion', '8195837963688127156', '5,000,000+', 'https://www.morecast.com', 'support@morecast.com']}
+{'com.pnsdigital.weather.wkmg': ['News 6 Pinpoint Weather', 'Graham+Media+Group', '50,000+', 'http://orlando.justweather.com', 'android-support+WKMG-weather@pnsdigital.com']}
+{'kukurin.WorldScope': ['Worldscope Webcams', 'Infosit', '1,000,000+', 'http://www.worldscopemobile.com', 'developer@worldscopemobile.com']}
+{'ru.yandex.weatherplugin': ['Yandex.Weather', '9141303443900639327', '10,000,000+', 'https://yandex.ru/pogoda', 'app-pogoda@support.yandex.ru']}
+{'com.wmgt.android.weather': ['41NBC AccuWeather App', 'ChartLocal', '10,000+', 'http://www.41nbc.com/weather/mobile-app-support', 'webmaster@41nbc.com']}
+{'com.wkbn.android.weather': ['WKBN Weather', 'Nexstar+Digital+%28formerly+LIN+Media%29', '10,000+', 'http://www.linmedia.com/', 'dev@linmedia.com']}
+{'disasterAlert.PDC': ['Disaster Alert', 'Pacific+Disaster+Center', '500,000+', 'http://www.pdc.org', 'info@pdc.org']}
+{'com.wbff.android.weather': ['WBFF WX', 'Sinclair+Digital+Interactive+Solutions', '10,000+', 'http://www.foxbaltimore.com/station/#.UQLEJaM_yx4', 'webmaster@sbgtv.com']}
+{'com.nice.accurate.weather': ['Weather Forecast', '4978685861148140298', '1,000,000+', 'https://sites.google.com/view/vegoo-privacy-policy', 'cghxstudio@gmail.com']}
+{'com.williamking.whattheforecast': ['What The Forecast?!!', 'Night+Cat+Productions', '1,000,000+', 'http://www.nightcatproductions.com', 'nightcatprod@gmail.com']}
+{'com.airvisual': ['Air Quality | AirVisual', 'AirVisual', '1,000,000+', 'https://www.airvisual.com', 'android@airvisual.com']}
+{'mobi.infolife.ezweather.livewallpaper.wealwp.channel.forecast.radar': ['Weather radar & Global weather checker', 'Weather+Widget+Theme+Dev+Team', '10,000+', 'http://www.amberweather.com/', 'support@amberweather.com']}
+{'com.weather.weatherforecast.weatherchannelinfo': ['Weather Radar - Weather forecast: Today & Tomorrow', '8706106284531263713', '100,000+', 'http://amoweather.com/', 'huawaterxuan@gmail.com']}
+{'asav.roomtemprature': ['Room Temperature', 'Master+Technologies%C2%A0', '1,000,000+', 'http://masterfashion.in/', 'mastertechnologis@gmail.com']}
+{'com.grailr.carrotweather': ['CARROT Weather', 'Grailr+LLC', '100,000+', 'http://www.meetCARROT.com/weather', 'support@meetCARROT.com']}
+{'mobi.infolife.ezweather.widget.accurate.weather.report': ['Free Weather Forecast App Widget', 'Weather+Widget+Theme+Dev+Team', '1,000,000+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.weather.forecast.weatherchannel': ['Weather app', 'Best+Weather+App', '1,000,000+', 'https://sites.google.com/view/weather-privacy', 'app.weather@tohsoft.com']}
+{'com.handmark.expressweather': ['1Weather:Widget Forecast Radar', 'OneLouder+Apps', '10,000,000+', 'http://www.onelouder.com', 'onelouderapps@gmail.com']}
+{'com.jndwork.weather.forecast.channel.dailyforecast.liveradarmaps': ['Live Weather - Weather Forecast Apps 2019', '6915261801345011098', '100,000+', 'http://www.jondevmobile.com', 'support@jondevmobile.com']}
+{'pl.lawiusz.funnyweather.release': ['Fu*** Weather (Funny Weather)', '5781487188033065713', '1,000,000+', 'https://funnyweather.zsuiwal.com/privacy/?utm_source=google_play&utm_medium=lfw_privacy', 'support@zsuiwal.com']}
+{'us.B3S.Thermometer': ['Thermometer for room', 'B3S', '10,000+', 'https://textuploader.com/1aom7', 'support@B2S.com']}
+{'com.keyt.android.weather': ['KEYT-KCOY-KKFX First Alert', 'News-Press+%26+Gazette+Co.', '5,000+', 'http://www.wsi.com', 'wsimobile1@gmail.com']}
+{'org.blitzortung.lightning.tracker.app': ['Blitzortung Lightning Tracker', 'Anthony+M+Nixon', '100,000+', None, 'blitzortung.lightning.tracker.app@gmail.com']}
+{'com.apalon.weatherlive.free': ['Weather Live', '7148047194848561719', '10,000,000+', 'http://www.apalon.com/weather_live_android.html', 'support@apalon.com']}
+{'com.live.weatherforecast': ['Live Weather Forecast', 'WeatherFox', '10,000+', 'https://sites.google.com/view/weatherfox-privacy-policy/trang-ch%E1%BB%A7', 'tuanpt6575@gmail.com']}
+{'co.windyapp.android': ['windy.app: wind forecast & marine weather', 'Windy+Weather+World+Inc', '1,000,000+', 'http://windyapp.co', 'windy@windyapp.co']}
+{'com.wofl.android.weather': ['FOX 35 Weather Radar & Alerts', 'Fox+Television+Stations,+Inc.', '100,000+', 'http://www.myfoxorlando.com', 'wofl_web_producers@foxtv.com']}
+{'com.graph.weather.forecast.channel': ['Weather forecast', '5060643507394548139', '10,000,000+', 'https://sites.google.com/view/ynkapp', 'hykn.android@gmail.com']}
+{'com.live.wea.widget.channel': ['Weather', 'Quark+Ltd', '5,000,000+', 'http://safewaymiller.online/support/swmgames/weather/policy.html', 'honghua.mao@yahoo.com']}
+{'com.cube.arc.tfa': ['Tornado - American Red Cross', 'American+Red+Cross', '500,000+', 'http://www.redcross.org', 'mobile@redcross.org']}
+{'com.apalon.weatherradar.free': ['NOAA Weather Radar Live & Alerts', '7148047194848561719', '10,000,000+', 'http://apalon.com', 'support@apalon.com']}
+{'com.apalon.weatherlive.free': ['Weather Live', '7148047194848561719', '10,000,000+', 'http://www.apalon.com/weather_live_android.html', 'support@apalon.com']}
+{'com.basevelocity.radarscope': ['RadarScope', 'Weather+Decision+Technologies,+Inc.', '50,000+', 'http://radarscope.io', 'support@wdtinc.com']}
+{'net.darksky.darksky': ['Dark Sky - Hyperlocal Weather', 'The+Dark+Sky+Company', '1,000,000+', 'http://darksky.net', 'android@darksky.net']}
+{'com.accuweather.android': ['AccuWeather: Weather Radar & Live Forecast Maps', 'AccuWeather', '50,000,000+', 'http://www.accuweather.com', 'support@accuweather.com']}
+{'com.wunderground.android.weather': ['Weather Underground: Forecasts', 'Weather+Underground', '5,000,000+', 'https://www.wunderground.com', 'support@wunderground.com']}
+{'com.acmeaom.android.myradar': ['MyRadar Weather Radar', 'ACME+AtronOmatic+LLC', '10,000,000+', 'http://myradar.com', 'myradarandroid@acmeaom.com']}
+{'com.surfline.android': ['Surfline Surf Cams, Forecasts', 'Surfline/Wavetrak,+Inc.', '100,000+', 'http://www.surfline.com', 'support@surfline.com']}
+{'com.weather.Weather': ['Weather Radar and Forecast - The Weather Channel', '5938833519207566184', '100,000,000+', 'http://feedback.weather.com/', 'android.support@weather.com']}
+{'com.chanel.weather.forecast.accu.pro': ['Weather forecast pro', '6891079333414847023', '50,000+', 'http://bachasoft.com/', 'appleinfo.studio@gmail.com']}
+{'co.windyapp.android': ['windy.app: wind forecast & marine weather', 'Windy+Weather+World+Inc', '1,000,000+', 'http://windyapp.co', 'windy@windyapp.co']}
+{'com.buoyweather.android': ['Buoyweather - Marine Weather', 'Surfline/Wavetrak,+Inc.', '50,000+', 'http://www.buoyweather.com/', 'support@buoyweather.com']}
+{'com.williamking.whattheforecast': ['What The Forecast?!!', 'Night+Cat+Productions', '1,000,000+', 'http://www.nightcatproductions.com', 'nightcatprod@gmail.com']}
+{'com.windyty.android': ['Windy.com - Wind, Waves and Hurricanes Forecast', 'Windyty+SE', '5,000,000+', 'https://www.windy.com', 'android-support@windy.com']}
+{'com.scoutlook.hunting': ['ScoutLook Hunting App: Weather & Property Lines', 'HuntLogix', '500,000+', 'http://www.scoutlookweather.com', 'support@scoutlookweather.com']}
+{'mobi.lockdown.weather': ['Today Weather - Forecast, Radar & Severe Alert', 'todayweather.co', '1,000,000+', 'http://todayweather.co', 'todayweather.co@gmail.com']}
+{'com.wdtinc.android.stormshield': ['Storm Shield', 'The+E.W.+Scripps+Company', '100,000+', 'https://stormshieldalerts.com/', 'support@stormshieldapp.com']}
+{'com.aws.android.elite': ['Weather Elite by WeatherBug', 'WeatherBug', '500,000+', 'https://www.weatherbug.com', 'weatherbug.android@gmail.com']}
+{'com.handmark.expressweather': ['1Weather:Widget Forecast Radar', 'OneLouder+Apps', '10,000,000+', 'http://www.onelouder.com', 'onelouderapps@gmail.com']}
+{'com.weathersphere.noaa_hidef_radar': ['NOAA Hi-Def Radar', 'WeatherSphere', '100,000+', 'http://www.weathersphere.com', 'WHelpDesk@weathersphere.scripps.com']}
+{'com.acmeaom.android.myradarpro': ['MyRadar Weather Radar Ad Free', 'ACME+AtronOmatic+LLC', '10,000+', 'http://myradar.com', 'myradarandroid@acmeaom.com']}
+{'mobi.byss.instaweather.watchface': ['ByssWeather for Wear OS', '7690092173980578394', '1,000,000+', 'http://byss.mobi', 'mk@byss.mobi']}
+{'com.radarx.stormmapping.stormmapping': ['RadarOmega: Advanced Weather Radar', 'Storm+Mapping', '100+', 'http://www.stormmapping.com', 'support@stormmapping.com']}
+{'com.opensnow.android': ['OpenSnow', 'Cloudnine+Weather+LLC', '50,000+', 'https://opensnow.com', 'hello@opensnow.com']}
+{'com.uavforecast': ['UAV Forecast for DJI Quadcopter & UAV Drone Pilots', 'Good+To+Forecast', '100,000+', 'http://www.uavforecast.com', 'android@uavforecast.com']}
+{'widget.dd.com.overdrop.pro': ['Overdrop Weather — Pro Key', '39ninety', '10,000+', 'https://sites.google.com/view/overdropproinfo/home', 'dderonjic96@gmail.com']}
+{'cz.ackee.ventusky': ['Ventusky: Weather Maps', 'InMeteo', '100,000+', 'https://www.ventusky.com', 'info@ventusky.com']}
+{'com.nautide.app': ['NAUTIDE: tides, wind, waves, solunar, marine +', 'Igoox', '100,000+', 'https://nautide.com', 'support@nautide.com']}
+{'com.tohsoft.weather.radar.widget.pro': ['Weather Pro', 'Best+App+-+Top+Droid+Team', '10,000+', 'https://sites.google.com/view/weather-privacy', 'talentdroidteam@tohsoft.com']}
+{'com.nstudio.weatherhere': ['NOAA Weather Unofficial (Pro)', 'Granite+Apps', '50,000+', 'http://www.graniteapps.net/noaaweather/faq.html', 'paulnadler@gmail.com']}
+{'com.amber.vip.ad.widget.vip': ['VIP for Amber Widgets', '7686194056937543414', '1,000+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.enzuredigital.weatherbomb': ['Flowx: Weather Map Forecast', 'Enzure+Digital+Weather+App', '100,000+', 'http://www.flowx.io', 'duane@flowx.io']}
+{'com.gau.go.launcherex.gowidget.weatherwidget': ['GO Weather - Widget, Theme, Wallpaper, Efficient', 'GOMO+Limited', '50,000,000+', 'http://www.gomo.com/', 'goweatherexfeedback@gmail.com']}
+{'com.fishtrack.android': ['FishTrack - Fishing Charts', 'Surfline/Wavetrak,+Inc.', '10,000+', 'http://www.fishtrack.com', 'support@fishtrack.com']}
+{'com.weathercreative.grumpycatweather': ['Grumpy Cat Weather', 'Weather+Creative+Inc.', '100,000+', 'http://grumpycatweather.com', 'grumpy@weathercreative.com']}
+{'com.apalon.weatherlive': ['Weather Liveº', '7148047194848561719', '500,000+', 'http://www.apalon.com/weather_live_android.html', 'support@apalon.com']}
+{'com.droid27.transparentclockweather.premium': ['Transparent clock weather (Ad-free)', '7032303803416115669', '100,000+', 'http://www.machapp.net', 'support@machapp.net']}
+{'com.grailr.carrotweather': ['CARROT Weather', 'Grailr+LLC', '100,000+', 'http://www.meetCARROT.com/weather', 'support@meetCARROT.com']}
+{'com.weather.forecast.weatherchannel.pro': ['Weather App Pro', 'Best+Weather+App', '100,000+', 'https://sites.google.com/view/weather-privacy', 'app.weather@tohsoft.com']}
+{'com.droid27.senseflipclockweather.premium': ['Sense Flip Clock & Weather (Ad-free)', '7032303803416115669', '5,000+', 'http://www.machapp.net', 'support@machapp.net']}
+{'com.amber.vip.ad': ['Ad Blocker Plug-in for Amber Widgets', '7686194056937543414', '500+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'com.tinyvital.wxr.pro': ['Radar Alive Pro Weather Radar', 'Tiny+Vital+Systems,+LLC', '10,000+', 'http://radaralive.com/', 'support@radaralive.com']}
+{'com.wdtinc.android.mwr': ['Weather Radio by WDT', 'WDT,+Inc.', '10,000+', 'https://wdt.zendesk.com/entries/21378637-iMapWeather-Radio-FAQ', 'support@wdtinc.com']}
+{'yo.app.free': ['Awesome Weather YoWindow - Live Wallpaper, Widgets', '5273394471208764532', '5,000,000+', 'http://yowindow.com', 'support@repkasoft.com']}
+{'mobi.infolife.ezweather.widget.accurate.weather.report': ['Free Weather Forecast App Widget', 'Weather+Widget+Theme+Dev+Team', '1,000,000+', 'http://www.amberweather.com/', 'hantao@amberweather.com']}
+{'pl.lawiusz.funnyweather.release': ['Fu*** Weather (Funny Weather)', '5781487188033065713', '1,000,000+', 'https://funnyweather.zsuiwal.com/privacy/?utm_source=google_play&utm_medium=lfw_privacy', 'support@zsuiwal.com']}
+{'com.andrewou.weatherback.unlock': ['Weatherback Wallpaper and lockscreen UNLOCKER ONLY', 'aceou', '10,000+', 'https://docs.google.com/document/d/1LwMJPRgg5z5HpH23PvJz_GYudJW5bAnU8qVWPKWKi4E/edit?usp=sharing', 'weatherbackapp@gmail.com']}
+{'com.scoutlook.fishing.free': ['ScoutLook Fishing', 'HuntLogix', '50,000+', 'http://www.scoutlookweather.com', 'support@scoutlookweather.com']}
+{'air.byss.mobi.instaweatherpro': ['Weathershot (old PRO)', '7690092173980578394', '100,000+', 'http://byss.mobi', 'mk@byss.mobi']}
+{'com.kellytechnology.NOAANow': ['Weather from NOAA Pro', 'Kelly+Technology+Inc.', '5,000+', 'http://www.kellytechnology.com', 'support@kellytechnology.com']}
+{'com.bouy76.sportsmantracker': ['FishWise: The Fishing App', 'Sportsman+Tracker', '100,000+', 'https://fishwise.com', 'support@fishwise.com']}
+{'com.realcasualgames.shouldifly': ['Takeoff - Aviation Weather', 'Higher+Bar,+LLC', '1,000+', 'http://takeoffaviationweather.com', 'derek@realcasualgames.com']}
+{'com.atmosphereweather': ['Atmosphere Weather', 'Concept+Elements+LLC', '100+', 'http://www.atmosphereWeather.com', 'conceptElementsApp@gmail.com']}
+{'com.SeventhGear.tides': ['Tide Charts - Free', '7th+Gear', '500,000+', 'http://www.7thg.com', 'info@7thg.com']}
+{'pandamonium.noaaweather': ['NOAA Weather International', 'Pandamonium+Software', '500,000+', 'https://noaa-weather.firebaseapp.com/privacy.html', 'pandamoniumsoftware@gmail.com']}
+{'com.zizmos.equake': ['eQuake - Earthquake Alerts', 'Zizmos', '100,000+', 'http://zizmos.com', 'zizmosandroid@gmail.com']}
+{'com.top.weather.forecast.accu': ['Weather', 'Top+Weather+Studio', '1,000,000+', 'https://www.facebook.com/Weather-2217926141558713/', 'media.topapps@gmail.com']}
+{'uk.co.wearabledesigns.ledwithweather': ['LED Watch face with Weather', '5117509099958351335', '10,000+', 'http://www.wearabledesigns.co.uk', 'support@wearabledesigns.co.uk']}
+{'com.apexice.android.chaserlocation': ['Location App to SpotterNetwork', 'APEXICE', '1,000+', 'http://www.apexice.com', 'vernecarlson@gmail.com']}
+{'ffz.com.barometerpro': ['Barometer pro - free', 'FFZ+srl', '1,000+', 'http://www.ffz.it', 'pietro@ffz.it']}
+{'com.aurora_alerts.auroraalerts': ['Aurora Alerts - Northern Lights forecast', 'Maxim+Letovaltsev', '10,000+', 'http://aurora-alerts.com', 'info@aurora-alerts.com']}
+{'com.rsoftr.android.earthquakestracker.pro': ['Earthquakes Tracker Pro', 'DoubleR+Software', '1,000+', 'http://android.rsoftr.com/', 'rradu1970@gmail.com']}
+{'net.mpross.pwspaid': ['PWS-WU', 'M.P.Ross', '100+', 'http://mpross.net', 'mprossdev@gmail.com']}
+{'com.nickobrennan.pocketgrib': ['PocketGrib', 'Nicko+Brennan', '10,000+', 'http://pocketgrib.com', 'nicko@nickobrennan.com']}
+{'com.wea.climate.clock.widget': ['Weather', 'Word+Connect+Games', '5,000,000+', 'http://www.joygame.site/support/joygames/weather/policy.html', 'joygamellc@gmail.com']}
+{'com.teknasyon.weatheralarms': ['Weather Alarms', 'Teknasyon', '500,000+', 'https://trueweatherapp.com/privacy?lang=en', 'android@teknasyon.com']}
+{'com.arabiaweather.main_app': ['ArabiaWeather', 'Arabiaweather+Inc.', '1,000,000+', 'https://www.arabiaweather.com', 'helpdesk@arabiaweather.com']}
+{'com.askherold.android': ['Herold', 'Herold', '5+', 'https://askherold.com', 'mark.harral2018@gmail.com']}
+{'com.droid27.d3flipclockweather.premium': ['3D Flip Clock & Weather Ad-free', '7032303803416115669', '1,000+', 'http://www.machapp.net', 'support@machapp.net']}
+{'com.tennumbers.animatedwidgetsfree': ['Weather & Animated Widgets', 'Top+Apps+SRL', '1,000,000+', 'https://www.facebook.com/weatheranimatedwidgets', 'contact@tennumbers.com']}
+{'com.allclearweather.android': ['All Clear Weather', 'All+Clear+Weather', '1,000+', 'https://allclearweather.com', 'jacob@allclearweather.com']}
+{'com.alpharadar': ['Alpha Radar', 'Alpha+Radar+LLC', '50+', 'http://www.alpharadar.com', 'alpharadarapp@gmail.com']}
+{'com.realtimeforecastpro.weather': ['weather pro', '7149891497244951725', '100+', 'https://sites.google.com/view/voicerecorderpivacy', 'summer.mobile.apps@gmail.com']}
+{'com.topapp.fishingcalendarpro': ['Fishing Calendar Pro', 'The+AppDev+Studio', '1,000+', 'http://www.topapp.si', 'topapp.sro@gmail.com']}
+{'com.studioeleven.windfinder': ['Windfinder - weather & wind forecast', '6577902653429990807', '1,000,000+', 'http://www.windfinder.com', 'android@windfinder.com']}
+{'com.apexice.android.rapid_report': ['RapidReport for SpotterNetwork', 'APEXICE', '1,000+', 'http://www.apexice.com', 'vernecarlson@gmail.com']}
+{'aplicacionpago.tiempo': ['Weather 14 days Pro', '8458932010894797678', '50,000+', 'http://www.tiempo.com', 'support@meteored.com']}
+{'com.onestudio.henry.weathermavenforwearos': ['Weather Maven for Wear OS', 'Henry+Stern', '500+', 'https://onestudio.gq', 'citypanda.develops@gmail.com']}
+{'mobi.portent.aviationweather': ['Portent Aviation Weather', 'Portent,+LLC', '1,000+', 'http://www.portent.mobi', 'info@portent.mobi']}
+{'eu.kianga.cycles': ['Cyklus Watch Face', 'Ren%C3%A9+Puls', '500+', 'https://cyklus.kianga.eu', 'apps@kianga.eu']}
+{'com.hamweather.aerispulse': ['Aeris Pulse - Weather Threats', 'AerisWeather', '500+', 'https://www.aerisweather.com/apps/aeris-pulse/', 'apps@aerisweather.com']}
+{'pl.smartfan.navbarweather': ['Navbar Weather: weather forecast at navigation bar', 'Pesta+Apps', '10,000+', None, 'piotr.pesta@gmail.com']}
+{'com.mobilerise.weather.clock.free': ['Weather Clock', '7790177431403907507', '100,000+', 'http://www.mobilerise.com', 'alicevik@gmail.com']}
+{'b4a.zephyrpro': ['Zephyrus Pro Anemometer', 'Gaia+Consulting', '1,000+', 'http://www.gaiacons.com', 'sales@gaiacons.com']}
+{'com.beebeetle.auroranotifier': ['Aurora Notifier', 'beebeetle', '100,000+', 'http://www.funwithelectronics.com', 'auroranotifier@beebeetle.com']}
+{'com.mobilerise.weather.nature': ['Weather Nature 3D', '7790177431403907507', '1,000+', 'http://www.mobilerise.com', 'support@mobilerise.com']}

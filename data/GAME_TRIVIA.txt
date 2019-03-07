@@ -1,5 +1,660 @@
+{'com.blacktrivia': ['Ultimate Black Trivia', 'Black+Social+L.L.C', '100+', 'http://blacksocial.io', 'admin@blacksocial.io']}
+{'com.gayatouak.mortalkombatquiz': ['Mortal Kombat Quiz', 'GL+Gamz', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'numiapp18@gmail.com']}
+{'com.dodala.explorationworld': ['Exploration Lite 2019', 'Dodala', '1,000+', 'https://github.com/pmmp/pocketmine-mp', 'panglimala.laoet@gmail.com']}
+{'com.mirigames.descendants_quiz_game': ['Descendants quiz game', 'Mirigames', '1,000+', None, 'mirigames2020@gmail.com']}
+{'com.quizers.logosMarcas.logoquiz': ['Quiz Logos  Guess logos and Brands: Logo Quiz Game', '7318610436081902813', '500+', 'https://www.facebook.com/GurosoftGames/', 'gurosoftgames@gmail.com']}
+{'jojo.siwa.quiz': ['jojo siwa quiz game', '5341028814091416708', '100+', 'http://www.apklok.com/', 'dev.apklok@gmail.com']}
+{'com.viralcent.quizpubgmobile': ['Quiz: Pubg Mobile', 'ViralCent', '5,000+', 'https://firebasestorage.googleapis.com/v0/b/quiz-pubg-mobile.appspot.com/o/privacy_policy.html?alt=media&token=0211b478-4cfd-4726-994f-4168809a8b0b', 'nareshmahour02@gmail.com']}
+{'com.bluestonesmedia.sweetwrestlingdivas': ['Wrestling Superstars Diva Quiz', 'Blue+Stones+Dev.+Arena', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'bluestonesmedia@gmail.com']}
+{'com.gasax.ffquiz': ['Free Fire Quiz - Ponte a prueba', '7905065862575971257', '1,000+', 'https://carlosgasa.github.io/json_api_images/Privacy%20Policy.pdf', 'cgalindo.yunius@gmail.com']}
+{'com.ngocmzjc.depyomkf.trainnhwpvq1009': ['1009 Game LBmzjc PVyomkf World', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocqxod.deplckma.traizzmrapc1010': ['1010 Game OUqxod TJlckma Maria Ozava', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.drspower.battleroyalweaponquiz': ['Battle Royale Weapon Quiz 2', 'DRS+GOLD', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'drspower12@gmail.com']}
+{'com.sater.fortnitetriviaquiz': ['Fortnite Trivia Quiz', 'Sater', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'contact.sater@gmail.com']}
+{'com.ngocoxdp.deprqqhu.traiahtnclp1130': ['1130 Game PQoxdp NErqqhu World', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '10+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocjrjg.depheshe.traiokwntan1037': ['1037 Game UNjrjg MGheshe Maria Ozava', 'TO+THI+HOAI+24h', '10+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.markhendrew.twilightquizfanmade': ['Twilight Quiz - Ultimate Fan Made Edition', 'Mark+Hendrew', '50+', None, 'markhendrew@yahoo.com']}
+{'com.ngocmgtn.depfnmzb.trailrzlhqi1121': ['1121 Game XCmgtn KUfnmzb Action', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocyxsj.depsdmas.traithdicco1122': ['1122 Game QSyxsj UBsdmas Love', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocnotn.depgwzvh.traiudijszr1123': ['1123 Game DOnotn EUgwzvh Love', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngockfvp.depipfcw.traieoqjzpu1117': ['1117 Game MEkfvp WQipfcw Action', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocanen.depjukki.traicyoeqpn1118': ['1118 Game DGanen BJjukki Trivia', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocnlva.depjxujb.traiclkszdr1115': ['1115 Game WAnlva WPjxujb Maria Ozava', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocpmhf.depxicrp.traicmayiqb1008': ['1008 Game IApmhf KXxicrp Story', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngochksf.depzppja.traiwocxrsb1169': ['1169 Game OIhksf EQzppja Story', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocerhq.depdstbs.traistgmnox1014': ['1014 Game UYerhq SVdstbs Story', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.wRiverdaleQuizForFans_8554791': ['Riverdale Quiz for Fans', 'games.for.free', '100+', 'http://www.appsgeyser.com/privacy/app/', 'nattynatos@yahoo.com']}
+{'com.cmpani.winx.club.guess': ['Guess the Winx Club Characters', 'Companion.LTD', '500+', 'http://traccoellis.blogspot.com/p/this-privacy-policy-applies-to.html', 'contact@companion.com']}
+{'fm.drivetime.original': ['Drivetime', 'Drivetime,+Inc.', '1,000+', 'https://drivetime.fm', 'support@drivetime.fm']}
+{'com.sp.goosebumps.scary.boss.pranks': ['Virtual Office Goosebumps Angry Boss 3D', 'New+Superhero+Games+For+Kids', '50+', None, 'gamingartworld@gmail.com']}
+{'borralloespinarrafael.wouldyouratherharrypotter': ['Would you rather? Harry Potter', 'Rafael+Borrallo+Espinar', '50+', 'https://www.linkedin.com/in/borralloespinarrafael/', 'borralloespinarrafael@gmail.com']}
+{'wouldyourather.battleroyale.fortnite.queprefieres': ['Would you rather for Battle Royale FBR', 'Kangapoc', '50+', 'https://sites.google.com/view/wyr-fbr', 'santiboedo3@gmail.com']}
+{'com.mobincube.riverdale_love_test.sc_D4RIW8': ['Riverdale LOVE TEST tv series. Archie or Jughead', 'Gingko+Labs+BEST+APPS', '100+', 'http://gingkolabs.com/', 'gingkolabs@gmail.com']}
+{'com.brightwireapps.www.simpsonsquiz': ['Simpsons Quiz', 'Bright+Wire+Apps', '100+', 'https://www.brightwireapps.com', 'contact@brightwireapps.com']}
+{'com.ngocxtfw.depwjeeb.trailsqnrue1119': ['1119 Game VWxtfw GTwjeeb Trivia', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.alexandrub.quizthelordoftherings': ['Quiz The Lord of the Rings', 'AlicQuizGame', '100+', 'https://www.instagram.com/alicquizgame/', 'alexandrutf2@gmail.com']}
+{'com.ngocebcd.depspqhs.traibedgeuq1127': ['1127 Game MOebcd DFspqhs Action', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '10+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocpowe.depuvslo.trairoagiae1042': ['1042 Game FDpowe IXuvslo Maria Ozava', 'TO+THI+HOAI+24h', '10+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngochana.depmfddd.traiirsjgcp1039': ['1039 Game WDhana QKmfddd Action', 'TO+THI+HOAI+24h', '10+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngoccnvb.depuqmuq.traiquxaarj1038': ['1038 Game NIcnvb BBuqmuq Story', 'TO+THI+HOAI+24h', '10+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.bluestonesmedia.wrestlingrawquiz': ['Wrestling RAW Quiz', 'Blue+Stones+Dev.+Arena', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'bluestonesmedia@gmail.com']}
+{'com.wolfy.chracterquizteenwolf': ['Character quiz: Teen Wolf', 'Wolfy24', '500+', 'https://quickappninja.com/game-privacy-policy.html', 'antoni.jaros2004@gmail.com']}
+{'com.ngockpmz.depfwmft.traimkdsfki1082': ['1082 Game FJkpmz YNfwmft Love', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.brightwireapps.www.marvelquiz': ['Marvel Quiz', 'Bright+Wire+Apps', '50+', 'https://www.brightwireapps.com', 'contact@brightwireapps.com']}
+{'com.mirigames.gravity_quiz_game': ['Gravity Quiz', 'Mirigames', '100+', None, 'mirigames2020@gmail.com']}
+{'com.brightwireapps.www.bigbangtheory': ['Big Bang Theory Quiz', 'Bright+Wire+Apps', '500+', 'https://www.brightwireapps.com', 'contact@brightwireapps.com']}
+{'com.ngocberb.deplpnzg.traiicmjixq1088': ['1088 Game SCberb HVlpnzg World', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocbtph.depkyekg.traisogqrry1086': ['1086 Game DJbtph ECkyekg Action', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocaxyj.deprechz.traijkznjyk1085': ['1085 Game VTaxyj CErechz Maria Ozava', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.vilologames.quiz.polinesios': ['Quiz Polinesios.', 'ViLoLoGames', '500+', 'https://quickappninja.com/game-privacy-policy.html', 'ViLoLoGames@gmail.com']}
+{'com.ngocubqh.depvpmta.traimosbuei1095': ['1095 Game UZubqh PMvpmta Trivia', 'Hoang+Minh+Tan+PAXX+NA', '50+', None, 'phamthidao292827@gmail.com']}
+{'com.animetrivia': ['Anime Trivia: The ultimate anime quiz app', 'RCB+Huls', '10+', 'http://apps.saccade.io/animetrivia', 'support@saccade.io']}
+{'com.eighties.quiz.pop.culture': ['80s Trivia Quiz Game - 1980s Quiz', 'Smart+Quiz+Apps', '10+', 'https://smartquizapps.wixsite.com/privacy-policy', 'smartquizappsdev@gmail.com']}
+{'com.ngocfjmj.deprmdha.trailtsntpa1097': ['1097 Game WYfjmj CSrmdha Love', 'Hoang+Minh+Tan+PAXX+NA', '50+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocupdt.depmwxni.traivtfdxua1096': ['1096 Game SBupdt TGmwxni World', 'Hoang+Minh+Tan+PAXX+NA', '50+', None, 'phamthidao292827@gmail.com']}
+{'com.ngoceebf.depgmbaz.traihtthoel1094': ['1094 Game NKeebf HDgmbaz Action', 'Hoang+Minh+Tan+PAXX+NA', '50+', None, 'phamthidao292827@gmail.com']}
+{'easygame.pl.quizgameapp': ['Logo Quiz Game 2019', 'EasyApps24', '100+', 'https://easyapps24.blogspot.com/p/privacy-policy.html', 'aspireapps24@gmail.com']}
+{'com.vivifyideas.kangaroo': ['Kangaroo - Movie Trivia Game', 'Vivify+Ideas', '10+', 'https://www.vivifyideas.com/', 'contact@vivifyideas.com']}
+{'com.albertpostnikov.guessthemoviess': ['Guess : 80s and 90s movies', 'Al.POST', '5+', 'https://quickappninja.com/game-privacy-policy.html', 'gameacc87pan@gmail.com']}
+{'com.arcedewing.colorbump3d.paintcolorball3d': ['Paint Color Ball 3D', 'Arcade+Wing', '500+', 'https://arcadewingprivacypolicy.blogspot.com/p/privacy-policy.html', 'Arcadewing.games@gmail.com']}
+{'com.ia_studios.hotel.VerdadReto.free': ['Truth or Dare', 'ia-studios', '100+', 'http://www.ia-studios.com', 'soport@ia-studios.com']}
+{'com.markhendrew.disneyprincessquiz': ['Disney Princess Quiz', 'Mark+Hendrew', '100+', None, 'markhendrew@yahoo.com']}
+{'com.pasmkhf.ycyas.bmggewdtamezoomtaxh': ['Game CIpasmkhf YHycyas Story', 'TO+THI+HOAI+24h', '100+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.dovora.qmt.drink': ['The Weakest Drink: Trivia Drinking Game', '7832278806755464985', '10+', 'http://www.dovora.com', 'contact@dovora.com']}
+{'com.ngocgqte.deptwmye.traiwzodcke1111': ['1111 Game PRgqte OOtwmye Trivia', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.flagcapital.quiz.v1': ['World Country, Capital & Flag Trivia Quiz', 'Flag+or+Capital+Quiz+-+Bayrak+ve+Ba%C5%9Fkent+Oyunu', '100+', 'http://flagcapital.top/gp.php', 'izFlagorcapital@gmail.com']}
+{'com.vladstefy.guessthepornstar': ['Guess the Pornstar', 'AZERAIA', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'printulioani@yahoo.com']}
+{'nineties.quiz.pub.trivia.questions.games': ['90s Quiz - Movies, Music, Fashion, TV, and Toys', 'Logo+Games', '10+', 'http://www.handtechnics.com/90squiz_privacy.html', 'logogamesinc@gmail.com']}
+{'com.ngociovf.depyplsi.traiwqoznet1106': ['1106 Game MQiovf KRyplsi Story', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocvqoy.depgtrtk.traiotrthoj1109': ['1109 Game IVvqoy UBgtrtk Love', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocvxwr.depgyeoe.traipgufpbz1110': ['1110 Game UFvxwr HFgyeoe Love', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocsbhi.depzokup.traigoetgnl1105': ['1105 Game MLsbhi VAzokup World', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocztqv.depcdzly.traipotpxbp1104': ['1104 Game QQztqv DFcdzly Action', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.minaya.aadivina': ['¿Puedes adivinar estos personajes de dragon ball ?', 'Minaya+estudio', '100+', None, 'jose.vidal.m.c@hotmail.com']}
+{'com.andyc.soyluna': ['Soy Luna Ghiceste Personajul', 'SADA+GAMES', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'savuandy@yahoo.com']}
+{'com.ngoccvga.depwxkgv.trainwepaup1103': ['1103 Game OJcvga GWwxkgv Story', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.wSoyLunaQuiz_8652819': ['Soy Luna Quiz in Romana', 'MOOBapp', '50+', 'http://www.appsgeyser.com/privacy/app/', 'ionpomirleanj7@gmail.com']}
+{'com.highlightworld.guessthejutsunarutoquiz': ['Guess The Jutsu - Naruto Quiz', 'SKGaming', '50+', 'https://quickappninja.com/game-privacy-policy.html', 'chiriac.florin23@yahoo.com']}
+{'com.Uzbros.Bilagon': ["Bilag'on", 'Uzbros', '100+', 'https://www.facebook.com/uzbros/', 'uzbros@yahoo.com']}
+{'com.HuckItStudios.GuessTheBrandHypebeastNew': ['Hypebeast: Guess The Brand', 'HuckIt+Studios', '10+', 'https://www.appodeal.com/home/privacy-policy/', 'huckitstudios@gmail.com']}
+{'com.imagzle': ['Imagzle', 'Stefano+Solinas', '1,000+', 'http://www.imagzle.com', 'imagzle@obsidianart.com']}
+{'com.highlightworld.animequiz': ['Guess The Anime Character Quiz', 'SKGaming', '10+', 'https://quickappninja.com/game-privacy-policy.html', 'chiriac.florin23@yahoo.com']}
+{'com.developersfatima.guessthepicquiz': ['Guess the word -Best word guessing game 2019', '786+developers', '10+', 'https://quickappninja.com/game-privacy-policy.html', 'bismillahdevelopers110@gmail.com']}
+{'com.ngocfnro.depefxgc.traiecjqanm1020': ['1020 Game VTbazncl RQdfot Maria Ozava', 'TO+THI+HOAI+24h', '50+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.something.robbe.cryptoquiz': ['Crypto Quiz', 'OkayGames', '10+', None, 'okaygames@hotmail.com']}
+{'com.ngocgyxv.depduqvl.trainnhzwqa1100': ['1100 Game BCgyxv DIduqvl Action', 'Hoang+Minh+Tan+PAXX+NA', '50+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocrier.depymxtv.traihqlrnby1073': ['1073 Game MSrier DNymxtv World', 'TO+THI+HOAI+24h', '50+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngocyesx.depzgeyw.trainryjsob1068': ['1068 Game RFyesx UXzgeyw Love', 'TO+THI+HOAI+24h', '50+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngocklda.depbwdyk.traicevaouh1028': ['1028 Game DXwvok JZfahoz Love', 'TO+THI+HOAI+24h', '50+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngocywzs.dephulvr.traimxqvpmw1021': ['1021 Game TNvjjn HJzyhvd Action', 'TO+THI+HOAI+24h', '50+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.markhendrew.harrypotterquizfanmade': ['Harry Potter Quiz - Fan Made', 'Mark+Hendrew', '50+', None, 'markhendrew@yahoo.com']}
+{'com.catchdogstudios.SilentHillMapViewer': ['Visualizador do mapa de SH', 'Catchdog+studios', '50+', 'http://catchdogstudios.com/', 'catchdogstudios@gmail.com']}
+{'com.chrissokolovsky.worldknownfacts': ['World Known Facts', 'Crisodwolf+Creations', '1+', 'https://quickappninja.com/game-privacy-policy.html', 'crisodwolf@yahoo.com']}
+{'com.ngocfeak.depoxkow.trailcjwoam1069': ['1069 Game VDfeak MGoxkow Story', 'TO+THI+HOAI+24h', '50+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngocrwxt.deppaxyb.traiygqtqbd1092': ['1092 Game YRrwxt KWpaxyb Trivia', 'Hoang+Minh+Tan+PAXX+NA', '50+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocfjrm.depgnypq.traihojlqbf1030': ['1030 Game VKwxdmco EDsvuv Love', 'TO+THI+HOAI+24h', '10+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.chanwaikit.fakenews': ['WTF: What The Fake news trivia game', 'Chat%2B%2B', '100+', 'https://whatthefake.carrd.co/', 'talk.to.chatpp@gmail.com']}
+{'com.quizgamesforfree.dogquiz': ['Dog Quiz - Guess The Dog Breeds', 'Quiz+Games+For+Free', '1+', 'https://quickappninja.com/game-privacy-policy.html', 'quizgamesforfree@gmail.com']}
+{'quiz.com.quizapp': ['Super Sports Quiz', 'Mima+Apps', '10+', 'http://www.mimaapps.com', 'mimaapps01@gmail.com']}
+{'com.gabrielagg.yamyam': ['Yam Yam', 'Gabriela+Gajdo%C5%A1ov%C3%A1+Geroov%C3%A1', '1+', 'https://quickappninja.com/game-privacy-policy.html', 'gabrielagajdosovageroova@gmail.com']}
+{'com.tomberon.guessthesingersofalltime': ['Guess The Singers of All Time', 'tomberon', '5+', 'https://quickappninja.com/game-privacy-policy.html', 'tomberon14@gmail.com']}
+{'com.qt.nitinr.fblaqtime': ['Quiz Time', 'King+Application', '1+', 'https://www.freeprivacypolicy.com/privacy/view/40b778cb1c01ad09c4848437ab273a0d', 'kingapp910@gmail.com']}
+{'com.ntdh.fourpicsword2019': ['4 Pics 1 Word 2019 - learning words for kids', '8116929863552368528', '5+', 'https://gamesforgirl247.blogspot.com', 'nguyenthidiemhuyen0611@gmail.com']}
+{'com.miguelaretxa.COLDWARQUIZ_APKBUENOpruebas': ['Cold War Quiz.', 'Miguelaretxa+LLC', '10+', 'https://sites.google.com/view/coldwarquizapp/home', 'miguelaretxa@gmail.com']}
+{'com.ntdh.picsquiz100': ['100 Pics Quiz - learning words for kids', '8116929863552368528', '1+', 'https://gamesforgirl247.blogspot.com', 'nguyenthidiemhuyen0611@gmail.com']}
+{'com.geographycfgquiz': ['USA geography quiz trivia 2019', 'Curiosity+Fun+Games+%26+Riddles', '1+', 'https://sites.google.com/view/cfgisc-privacypolicy/home', 'curiosityfungames@gmail.com']}
+{'com.msi.logogame': ['Logo Game: Guess Brand Quiz', 'Logos+Box', '10,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'kr.caramel.quiz_stickman': ['Trivia Survival 100', '7641566915213611060', '1,000,000+', 'https://sites.google.com/site/buzzpowder1privacy/us', 'buzzpowder1@gmail.com']}
+{'com.notiondigital.biblemania': ['BibleMania - Christian Trivia', 'Notion+Digital+LLC', '10,000+', 'http://www.NotionDigitalMedia.com', 'contact@notiondigitalmedia.com']}
 {'com.sonypicturestelevision.millionaire': ['Millionaire Trivia: Who Wants To Be a Millionaire?', 'Sony+Pictures+Television', '1,000,000+', 'http://www.sonypictures.com/mobile/', 'millionaire@uken.com']}
+{'com.thatsright.android3': ["That's Right", 'ThatsRight', '10,000+', 'https://www.thatsright.com/', 'support@thatsright.com']}
+{'com.etermax.preguntados.lite': ['Trivia Crack', '4857484411335878422', '100,000,000+', 'http://www.triviacrack.com', 'support@triviacrack.com']}
+{'com.kotrivia': ['KO Trivia: Win Cash & Rewards Prizes on Quiz Games', 'Total+Trivia', '500,000+', 'https://www.kotrivia.com', 'support@kotrivia.com']}
+{'com.generamobile.logomania': ['Logo Quiz Game 2019: Logomania: Guess logos & pics', '7309208351846755609', '1,000,000+', 'http://www.generagames.com/', 'helpdesk@generagames.com']}
+{'com.rewardthefan': ['Reward The Fan Trivia', 'Reward+The+Fan+LLC', '50,000+', 'https://www.rewardthefan.com/PrivacyPolicy', 'rewardthefanapps@gmail.com']}
+{'com.qiiwi.backpacker': ['Backpacker™ - Trivia, Quiz Game', '7867565603098346127', '500,000+', 'http://www.qiiwi.com', 'support@qiiwi.com']}
+{'com.onehundredpics.onehundredpicsquiz': ['100 PICS Quiz - Trivia and Picture Guessing Games', 'Poptacular', '10,000,000+', 'http://fb.com/100PICS', 'info@poptacular.com']}
+{'tricky.quiz.test': ['Tricky Test : Puzzle IQ Game', '6893444052027149569', '100,000+', 'http://arudex.com/', 'maxdevapp@gmail.com']}
+{'com.kiwi.joyride': ['Joyride: play live game shows with friends', 'Kiwi,+Inc.', '100,000+', 'https://www.onjoyride.com/', 'help@onjoyride.com']}
+{'com.luckytrivialive': ['Lucky Trivia Live', 'Jump+Ramp+Games', '1,000+', 'https://www.luckytrivialive.com', 'android@jumprampgames.com']}
+{'fr.two4tea.fightlist': ['Fight List - Categories Game', 'VOODOO', '10,000,000+', 'http://two4tea.fr/Fight-List/', 'two4tea.company@gmail.com']}
+{'tv.orale.trivia': ['Órale Trivia', '%C3%93rale+TV', '100,000+', 'https://orale.tv', 'contacto@orale.tv']}
+{'com.blacktrivia': ['Ultimate Black Trivia', 'Black+Social+L.L.C', '100+', 'http://blacksocial.io', 'admin@blacksocial.io']}
+{'com.yiyou.game.trickyfour': ['Tricky Challenge', 'Yiugame', '100,000+', 'http://www.wanzhou.net/privacy.html', 'lihongyang@yiugame.com']}
+{'com.gasax.ffquiz': ['Free Fire Quiz - Ponte a prueba', '7905065862575971257', '1,000+', 'https://carlosgasa.github.io/json_api_images/Privacy%20Policy.pdf', 'cgalindo.yunius@gmail.com']}
+{'com.rooftop.q12.mexico': ['Q12 Trivia | México', 'ROOFTOP+DEVELOPMENT+SL', '10,000+', 'https://www.q12mx.live', 'ayuda.mx@q12.live']}
+{'com.hextris.free': ['Hextris Free', 'Ackermann+Hunter', '1,000+', 'http://largefa.foxspinead.com/Privacy_Policy.html', 'zcfsoxhe@gmail.com']}
+{'com.playstation.knowledge': ['Knowledge is Power', '5810481673801929430', '1,000,000+', 'https://www.playstation.com/explore/ps4/games/playlink/', 'help@uk.playstation.com']}
+{'com.age.usa.appspot': ['USA Geography - Quiz Game', 'Atom+Games+Ent.', '10,000+', 'https://age-usa.appspot.com/privacy.htm', 'atom.games.ent@gmail.com']}
+{'com.etermax.preguntados.pro': ['Trivia Crack (No Ads)', '4857484411335878422', '500,000+', 'http://www.triviacrack.com', 'support@triviacrack.com']}
+{'com.sporcle': ['Sporcle', 'Sporcle,+Inc', '50,000+', 'http://www.sporcle.com', 'feedback@sporcle.com']}
+{'app.marrvelous.biblebowlprep.v2019': ['Bible Bowl Prep 2019', '3:16+Apps', '100+', 'http://www.316apps.com', 'tbrass84@316apps.com']}
+{'com.jackboxgames.TJPP4Loader': ['The Jackbox Party Pack 4', 'Jackbox+Games,+Inc.+N', '1,000+', 'http://help.jackboxgames.com/', 'support@jackboxgames.com']}
+{'de.habanero.quizoidpro': ['Quizoid Pro: Category Trivia with 5 Game modes', '8515565779373476058', '10,000+', 'http://www.habanero-apps.de', 'support@habanero-apps.de']}
+{'com.jackboxgames.TJPP3Loader': ['The Jackbox Party Pack 3', 'Jackbox+Games,+Inc.+N', '1,000+', 'http://www.jackboxgames.com', 'support@jellyvisiongames.zendesk.com']}
+{'com.jackboxgames.TJPP5Loader': ['The Jackbox Party Pack 5', 'Jackbox+Games,+Inc.+N', '500+', 'http://www.jackboxgames.com', 'mike@jackboxgames.com']}
+{'coolcherrytrees.games.reactor4': ['4 Player Reactor (Multiplayer)', 'cool+cherry+trees', '50,000+', 'http://reactor.coolcherrytrees.com', 'robin@coolcherrytrees.com']}
+{'com.jackboxgames.JBPP2Loader': ['The Jackbox Party Pack 2', 'Jackbox+Games,+Inc.+N', '1,000+', 'http://www.jackboxgames.com', 'support@jackboxgames.zendesk.com']}
+{'com.jackboxgames.JackboxPartyLoaderFull': ['The Jackbox Party Pack', 'Jackbox+Games,+Inc.+N', '1,000+', 'http://www.jackboxgames.com', 'support@jackboxgames.zendesk.com']}
+{'com.mystudio.blackcard': ['The Black Card Game', 'The+App+Maker+Guru', '100+', None, 'theappmakerguru@gmail.com']}
+{'com.mindcandy.sevensecondchallenge': ['The 7 Second Challenge', 'Mind+Candy+Ltd', '10,000+', 'http://www.mindcandy.com', '7SecondChallenge@mindcandy.com']}
+{'com.quizbash.quizbash': ['QuizBash - Party Games in Your Pocket!', '5574603867036537774', '100+', 'http://quizbash.com', 'quizbashapp@gmail.com']}
+{'com.june.guessthemovie.paid': ['Guess The Movie ® - Full', '5441715344114404890', '10,000+', 'http://www.jinfra.com', 'junesoftware@gmail.com']}
+{'com.dctmedia.shapesdeluxe': ['SHAPE - the picture trivia quiz', '6406605262562397659', '10+', 'https://www.dctmedia.co.uk/brands/games/', 'gamespublishing@dctmedia.co.uk']}
+{'com.licketycut.hqhelper.unlimited': ['HQ Trivia Helper Unlimited', '5564280905307453336', '100+', 'http://www.licketycut.com/apps/', 'licketycutapps@gmail.com']}
+{'com.mightykingdom.whosnext': ["Shopkins: Who's Next?", 'Mighty+Kingdom', '500+', 'http://www.mightykingdom.com', 'hello@mightykingdom.com']}
+{'com.imploded.labomba': ['LaBomba', 'Imploded+Software', '1+', 'http://labombagame.com', 'dev@imploded.com']}
+{'com.onecwireless.movietrivia.full': ['Movie Trivia (Full)', '6755703714885710635', '100+', 'http://www.1cmobile.com', 'support@1cwireless.com']}
+{'com.animoca.stellarescapefull': ['Stellar Escape', '8271704752057011334', '1,000+', 'http://www.animoca.com', 'support@animoca.com']}
+{'de.bbg.EinsteinHD': ['Einstein™ Brain Training', 'BBG+Entertainment', '10,000+', 'http://www.bbg-entertainment.com', 'help@bbg-entertainment.com']}
+{'com.timleg.quizPro': ['Endless Quiz Pro', '6330568615215698969', '1,000+', None, 'cmasser@gmail.com']}
+{'com.cgxdesign.biblephrase': ['Bible Phrase', 'Mark+Sandell', '50+', 'http://www.facebook.com/BiblePhrase', 'biblephrase@gmail.com']}
+{'en.do.you.know.me.nestor': ['Do you know me? 2019', 'Nestor+Elements', '1+', None, 'nestor.elements@gmail.com']}
+{'com.rmsoftwares.JWgameQuizPro': ['JW Game Quiz Pro', 'RMSoftwares', '5+', 'https://docs.google.com/document/d/11GxKGCGEvwHiN_Kr76EEZ_d6lXA4YVrACZQE0Fce6UQ/edit?usp=sharing', 'rmsoftwares.gm@gmail.com']}
+{'com.Sixthcreation.TNQG': ['The Nigerian Quiz Game', 'Sixth+Creations', '10+', None, '6thcreationstudios@gmail.com']}
+{'com.droidplant.mapmaster': ['MapMaster - Geography game', 'droidplant', '10,000+', 'http://droidplant.blogspot.com/', 'droidplant@gmail.com']}
+{'com.ia_studios.hotel.VerdadReto.pro': ['Verdad o Reto', 'ia-studios', '1+', 'http://www.ia-studios.com', 'soport@ia-studios.com']}
+{'com.jam.pointless': ['Pointless Quiz', '8383543423823353834', '50,000+', 'http://www.pointlessapp.co.uk', 'support@pointlessapp.co.uk']}
+{'se.vitamin.mig.familj': ['MIG Familj – Frågespel', 'Compete+Now+AB', '1,000+', 'http://www.playmig.com', 'info@playmig.com']}
+{'com.sonypicturestelevision.millionaire': ['Millionaire Trivia: Who Wants To Be a Millionaire?', 'Sony+Pictures+Television', '1,000,000+', 'http://www.sonypictures.com/mobile/', 'millionaire@uken.com']}
+{'com.sonypicturestelevision.jeopardy2': ['Jeopardy! World Tour', 'Sony+Pictures+Television', '1,000,000+', 'http://www.sonypictures.com/mobile/', 'jeopardy@uken.com']}
 {'com.etermax.preguntados.pro': ['Trivia Crack (No Ads)', '4857484411335878422', '500,000+', 'http://www.triviacrack.com', 'support@triviacrack.com']}
 {'com.etermax.preguntados.lite': ['Trivia Crack', '4857484411335878422', '100,000,000+', 'http://www.triviacrack.com', 'support@triviacrack.com']}
-{'com.blacktrivia': ['Ultimate Black Trivia', 'Black+Social+L.L.C', '100+', 'http://blacksocial.io', 'admin@blacksocial.io']}
+{'com.freepuzzlegames.logoguessing.quiz': ['Quizdom – Trivia more than logo quiz!', 'Words+Logos+FreePuzzleGames', '1,000,000+', 'http://resource.cdn.bbcget.com/FreePuzzleGames/Quizdom.html', 'game.logo.word.guessing.puzzle@gmail.com']}
+{'com.etermax.trivia.preguntados2': ['Trivia Crack 2', '4857484411335878422', '5,000,000+', 'http://www.etermax.com', 'support@etermax.com']}
+{'com.umi.feudlive': ['Family Feud® Live!', 'UMI+Mobile', '1,000,000+', 'http://www.umi-mobile.com', 'support@umi-mobile.com']}
+{'com.kiwi.joyride': ['Joyride: play live game shows with friends', 'Kiwi,+Inc.', '100,000+', 'https://www.onjoyride.com/', 'help@onjoyride.com']}
+{'com.xmonetize.quizzland': ['Trivia only. Free quiz game: QuizzLand', '6636636945163472864', '1,000,000+', 'http://quizz.land/', 'contact@quizz.land']}
+{'com.escapefun.the100roomiv': ['Can you escape the 100 room IV', '5507389985988608571', '1,000,000+', 'http://escapefunhk5956.cloudapp.net/PrivacyPolicy/', 'EscapeFunHK@gmail.com']}
+{'com.onehundredpics.onehundredpicsquiz': ['100 PICS Quiz - Trivia and Picture Guessing Games', 'Poptacular', '10,000,000+', 'http://fb.com/100PICS', 'info@poptacular.com']}
+{'com.magmic.android.squash': ['Scattergories', '8612219469474238403', '1,000,000+', 'http://www.magmic.com', 'scattergories@magmic.com']}
+{'com.quizup.core': ['QuizUp', '8633921029894576093', '10,000,000+', 'https://quizup.com/', 'support@quizup.com']}
+{'com.wb.goog.ellen.gameofgames': ['Game of Games the Game', 'Warner+Bros.+International+Enterprises', '100,000+', 'https://www.ellentube.com/settings/apps_and_games.html', 'gameofgames@ellengames.com']}
+{'fr.two4tea.fightlist': ['Fight List - Categories Game', 'VOODOO', '10,000,000+', 'http://two4tea.fr/Fight-List/', 'two4tea.company@gmail.com']}
 {'com.msi.logogame': ['Logo Game: Guess Brand Quiz', 'Logos+Box', '10,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.jackboxgames.TJPP3Loader': ['The Jackbox Party Pack 3', 'Jackbox+Games,+Inc.+N', '1,000+', 'http://www.jackboxgames.com', 'support@jellyvisiongames.zendesk.com']}
+{'com.jackboxgames.JackboxPartyLoaderFull': ['The Jackbox Party Pack', 'Jackbox+Games,+Inc.+N', '1,000+', 'http://www.jackboxgames.com', 'support@jackboxgames.zendesk.com']}
+{'com.age.usa.appspot': ['USA Geography - Quiz Game', 'Atom+Games+Ent.', '10,000+', 'https://age-usa.appspot.com/privacy.htm', 'atom.games.ent@gmail.com']}
+{'com.thatsright.android3': ["That's Right", 'ThatsRight', '10,000+', 'https://www.thatsright.com/', 'support@thatsright.com']}
+{'live.trivia.theq': ['The Q - Live Game Network', 'The+Q', '100,000+', 'https://theq.live', 'contactus@theq.live']}
+{'com.jackboxgames.TJPP4Loader': ['The Jackbox Party Pack 4', 'Jackbox+Games,+Inc.+N', '1,000+', 'http://help.jackboxgames.com/', 'support@jackboxgames.com']}
+{'trivia.world': ['Trivia Quiz', '6446514701464564478', '1,000,000+', 'https://4enjoy.com/', 'support@4enjoy.com']}
+{'bubbleshooter.classic': ['Bubble Shooter Classic', 'Free+Bubble+Shooter+Games', '1,000,000+', 'http://www.ilyon.net/', 'support@ilyon.net']}
+{'com.jackboxgames.TJPP5Loader': ['The Jackbox Party Pack 5', 'Jackbox+Games,+Inc.+N', '500+', 'http://www.jackboxgames.com', 'mike@jackboxgames.com']}
+{'air.com.gerwinsoftware.superbuzzer2': ['Quiz Superbuzzer 2', 'Gerwin+Software', '1,000,000+', 'http://www.gerwinsoftware.com', 'support.sb.android@gerwinsoftware.com']}
+{'com.etermax.kingdoms': ['Trivia Crack Kingdoms', '4857484411335878422', '10,000,000+', 'http://www.triviacrackkingdoms.com/', 'support@triviacrackkingdoms.com']}
+{'com.qiiwi.backpacker': ['Backpacker™ - Trivia, Quiz Game', '7867565603098346127', '500,000+', 'http://www.qiiwi.com', 'support@qiiwi.com']}
+{'aasuited.net.word': ['Dingbats - Between the lines', 'Romain+Lebouc', '500,000+', 'https://goo.gl/n12PPR', 'niamor1484@gmail.com']}
+{'com.gmail.troylyndon.PlayTrivia': ['Play The Bible Trivia Challenge', 'RD+Games+Inc', '10,000+', 'http://www.rdgames.us', 'ford@rdgames.us']}
+{'com.sporcle': ['Sporcle', 'Sporcle,+Inc', '50,000+', 'http://www.sporcle.com', 'feedback@sporcle.com']}
+{'rs.aparteko.brainster.android': ['Brainster Quiz', '8694128880435471387', '50,000+', 'http://www.aparteko.com', 'support@aparteko.com']}
+{'com.age.wgg.appspot': ['World Geography - Quiz Game', 'Atom+Games+Ent.', '5,000,000+', 'https://age-wgg.appspot.com/privacy.htm', 'atom.games.ent@gmail.com']}
+{'com.generamobile.logomania': ['Logo Quiz Game 2019: Logomania: Guess logos & pics', '7309208351846755609', '1,000,000+', 'http://www.generagames.com/', 'helpdesk@generagames.com']}
+{'com.jackboxgames.JBPP2Loader': ['The Jackbox Party Pack 2', 'Jackbox+Games,+Inc.+N', '1,000+', 'http://www.jackboxgames.com', 'support@jackboxgames.zendesk.com']}
+{'com.brightsolid.trivialist': ['Trivialist —  Offline Trivia Quiz Game', '6406605262562397659', '100,000+', 'https://www.facebook.com/TriviAlist-1906488056299144/', 'gamesupport@dctmedia.co.uk']}
+{'com.PlayShow.tv': ['Jeopardy! PlayShow', 'Sony+Pictures+Television', '50,000+', 'http://www.sonypictures.com/mobile/', 'Help@PlayShowTV.com']}
+{'com.orangenose.trick': ['Tricky Test 2™: Genius Brain?', '8086126145254775500', '10,000,000+', 'http://www.orangenosestudio.com', 'support@orangenosestudio.com']}
+{'air.com.triviador.trus': ['Triviador USA', 'THX+Games+Zrt.', '10,000+', 'http://usa.triviador.net', 'world@triviador.com']}
+{'com.scimob.ninetyfour.percent': ['94% - Quiz, Trivia & Logic', 'Scimob', '10,000,000+', 'http://www.94pourcent.com', 'contact@94pourcent.com']}
+{'kr.caramel.quiz_stickman': ['Trivia Survival 100', '7641566915213611060', '1,000,000+', 'https://sites.google.com/site/buzzpowder1privacy/us', 'buzzpowder1@gmail.com']}
+{'com.wb.goog.shoutrageous': ['Shoutrageous!', 'Warner+Bros.+International+Enterprises', '10,000+', 'http://shoutrageous.com', 'support@shoutrageous.com']}
+{'com.taplane.emojisquiz': ['Emoji Quiz. Combine & Guess the Emoji!', 'Mari+Apps', '1,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'fr.two4tea.petitbac': ['Fight List 2 - Categories Game', 'Two4tea', '100,000+', 'http://two4tea.fr/', 'two4tea.company@gmail.com']}
+{'com.notiondigital.biblemania': ['BibleMania - Christian Trivia', 'Notion+Digital+LLC', '10,000+', 'http://www.NotionDigitalMedia.com', 'contact@notiondigitalmedia.com']}
+{'com.gsn.chasefree': ['The Chase – Official Free Quiz', 'GSN+TV', '100,000+', 'http://gsntv.com', 'MobileTV@gsn.com']}
+{'com.taplane.triviaquizm': ['Quiz It: Multiple Choice Game', 'Guess+It+Apps', '100,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.quizgeek': ['QuizGeek. Ultimate Trivia Game', 'QuizGeek', '50,000+', 'http://quizgeek.com', 'quizgeek@quizgeek.com']}
+{'com.ilab.VforVoodoo': ['V for Voodoo', 'Ballena+Bay+4iLab', '1,000,000+', 'http://4ilab.com', '4ilab.ltd@gmail.com']}
+{'com.goxal.eighties': ["80's Quiz Game", 'Goxal+Studios', '100,000+', 'http://www.goxal.com', 'support@goxal.com']}
+{'air.com.gerwinsoftware.quizpanic': ['Quiz Panic General Knowledge', 'Gerwin+Software', '500,000+', 'http://www.gerwinsoftware.com', 'contact@gerwinsoftware.com']}
+{'com.logogames.logo.quiz.game': ['Logo Quiz - Fun Quizzes', 'Logo+Games', '10,000+', 'http://handtechnics.com/logoquiz_privacy.html', 'logogamesinc@gmail.com']}
+{'air.com.triviador.trxe': ['Triviador World', 'THX+Games+Zrt.', '100,000+', 'http://world.triviador.net', 'world@triviador.com']}
+{'smartowlapps.com.quiz360': ['TRIVIA 360', 'Smart+Owl+Apps', '5,000,000+', 'http://www.smartowlapps.com/privacy.html', 'contact@smartowlapps.com']}
+{'quess.song.music.pop.quiz': ['Guess The Song - Music Quiz', 'S+Quiz+It!', '10,000,000+', 'https://www.facebook.com/GuessThatSongMusicQuizAppCommunity', 'support+squzit@bluebird-mobile.com']}
+{'de.habanero.quizoidpro': ['Quizoid Pro: Category Trivia with 5 Game modes', '8515565779373476058', '10,000+', 'http://www.habanero-apps.de', 'support@habanero-apps.de']}
+{'com.radix.triviaassistant': ['Trivia Assistant Answers', 'Radix', '10,000+', 'https://radixdev.github.io/trivia-assistant/', 'radixdeveloper+assistant@gmail.com']}
+{'com.nixgames.truthordare': ['Truth or Dare', 'NixGames', '10,000+', 'http://nixgames44.blogspot.com/2018/09/privacy-policy-bodyfont-family_44.html', 'nixsports44@gmail.com']}
+{'com.orion.owardstrivia': ['Owards Trivia', 'Orion+Rewards', '5,000+', 'http://www.orionvacationclub.com/', 'sam@ovclub.com']}
+{'com.wb.goog.hothands': ['Hot Hands!', 'Warner+Bros.+International+Enterprises', '500,000+', 'http://www.ellentube.com/article/apps-and-games.html', 'hothands@ellengames.com']}
+{'logo.quiz.guess.movie': ['Guess The Movie Quiz', 'bubble+quiz+games', '1,000,000+', 'http://bit.ly/fb-guess-the-movie', 'bubble.mobile.company@gmail.com']}
+{'air.com.gerwinsoftware.superbuzzer': ['Superbuzzer Trivia Quiz Game', 'Gerwin+Software', '1,000,000+', 'http://www.gerwinsoftware.com', 'support.sb.android@gerwinsoftware.com']}
+{'logos.quiz.companies.game': ['Logo Quiz', 'bubble+quiz+games', '50,000,000+', 'http://www.logos-quiz.com', 'contact@logos-quiz.com']}
+{'coolcherrytrees.games.reactor4': ['4 Player Reactor (Multiplayer)', 'cool+cherry+trees', '50,000+', 'http://reactor.coolcherrytrees.com', 'robin@coolcherrytrees.com']}
+{'com.softstar.Richman': ['Richman 4 fun', 'SOFTSTAR+ENTERTAINMENT+INC.', '1,000,000+', 'http://www.legame.tw/?4', 'cs@legame.tw']}
+{'com.cashquizz.cashquizz': ['QUIZ REWARDS: Trivia Game, Free Gift Cards Voucher', '7587429749275684617', '1,000,000+', 'http://www.cashquizz.com', 'support@cashquizz.com']}
+{'air.me.kupina.bibleup': ['BibleUP! Bible Riddles', '5070703716958541559', '10,000+', 'http://www.kupina.me', 'apps@kupina.me']}
+{'com.codecomputerlove.higherlowergame': ['The Higher Lower Game', 'Code+Computerlove+Ltd', '5,000,000+', 'http://www.higherlowergame.com', 'app-support@codecomputerlove.com']}
+{'bouncing.balls.artworks': ['Bouncing Balls', '7849730008707515899', '1,000,000+', 'http://www.ilyon.net/', 'support@ilyon.net']}
+{'air.me.kupina.EnBuscaDeJesus': ['A Journey Towards Jesus', '5070703716958541559', '1,000,000+', 'http://www.kupina.me', 'apps@kupina.me']}
+{'com.thebinaryfamily.knowledgetrainerfree': ['Knowledge Trainer: Trivia', 'the+binary+family', '500,000+', 'http://www.thebinaryfamily.com', 'knowledgetrainingtrivia.support@thebinaryfamily.com']}
+{'com.meevii.bible.quiz.trivia.game': ['Bible Trivia Quiz - Free Bible Game', 'iDailybread.org', '50,000+', 'http://www.idailybread.org/bvprivacy.html', 'cs@idailybread.org']}
+{'com.june.think': ['Think', '5441715344114404890', '5,000,000+', 'http://think.junesoftware.com', 'thinksupport@junesoftware.com']}
+{'com.lezy.fruitblast.crush.candy': ['Fruit Candy Blast - 2019 Match 3 Puzzle Games', 'happyzendo', '10,000+', 'https://sites.google.com/view/happyzendo-privacypolicy/', 'happyzendo@gmail.com']}
+{'com.mindcake.chefwarsjourneys': ['Chef Wars Journeys', 'Mindcake+Games', '10,000+', 'http://mindcakegames.com', 'contact@mindcakegames.com']}
+{'com.mindcandy.sevensecondchallenge': ['The 7 Second Challenge', 'Mind+Candy+Ltd', '10,000+', 'http://www.mindcandy.com', '7SecondChallenge@mindcandy.com']}
+{'com.june.guessthemovie': ['Guess The Movie ®', '5441715344114404890', '1,000,000+', 'http://www.jinfra.com', 'junesoftware@gmail.com']}
+{'com.goxal.seventies': ["70's Quiz Game", 'Goxal+Studios', '50,000+', 'http://www.goxal.com', 'support@goxal.com']}
+{'de.bbg.EinsteinHD': ['Einstein™ Brain Training', 'BBG+Entertainment', '10,000+', 'http://www.bbg-entertainment.com', 'help@bbg-entertainment.com']}
+{'foodquiz.guessthefood': ['Food Quiz', 'Trivia+Box', '10,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.AppscorpOU.idiottest': ['Idiot Test', 'AppsCorp+O%C3%9C', '10,000+', 'http://appscorp.me', 'info@appscorp.me']}
+{'com.HeyNau.MegaQuizGaming': ['MEGA QUIZ GAMING 2K19 - Guess the game Trivia', '8870645852774521278', '1,000,000+', 'http://www.youtube.com/HeyNau', 'heynaumedia@gmail.com']}
+{'com.aemobile.mimypop': ['Be a Hero', 'AE-Mobile', '10,000+', 'http://www.ae-mobile.com/android_game.html', 'aegame@ae-mobile.com']}
+{'com.mbr.adivinaelcantante': ['Adivina el cantante de Trap y Reggaeton', '4876657274839239221', '100,000+', 'https://quickappninja.com/game-privacy-policy.html', 'mbr_apps@yahoo.com']}
+{'ua.boberproduction.floristxquiz': ['Quiz: Flowers, Plants', '%D0%A4%D0%BB%D0%BE%D1%80%D0%B8%D1%81%D1%82-X', '5,000+', 'https://floristics.info', 'sevbanchik@gmail.com']}
+{'com.TailOfTales.WaifuOrLaifu': ['Waifu or Laifu', 'Tail+Of+Tales', '500,000+', 'https://vk.com/junisky', 'gostboy.vk@gmail.com']}
+{'com.zapborg.www.friendstrivia': ['FRIENDS Quiz', 'Bright+Wire+Apps', '10,000+', 'http://www.zapborg.tk', 'contact@zapborg.tk']}
+{'com.bmllc.rebus': ['Rebus Logic Game', 'Bosphorus+Mobile+LLC', '1,000+', 'https://bosphorusmobile.com', 'store@bosphorusmobile.com']}
+{'com.openmygame.games.android.pics': ['101 Pics: Photo Quiz', 'OpenMyGame', '1,000,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'com.goxal.logos': ['Guess Brand Logos', 'Goxal+Studios', '100,000+', 'http://www.goxal.com', 'support@goxal.com']}
+{'com.taplane.logoquiz': ['Logo Quiz World', 'MSI+Apps', '1,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.june.guessthemovie.paid': ['Guess The Movie ® - Full', '5441715344114404890', '10,000+', 'http://www.jinfra.com', 'junesoftware@gmail.com']}
+{'de.paulstelzer.iqtest': ['IQ Test - The Intelligence Quiz', '4854583837351730459', '100,000+', 'http://iqtest-app.de', 'support@iqtest-app.de']}
+{'com.quizbash.quizbash': ['QuizBash - Party Games in Your Pocket!', '5574603867036537774', '100+', 'http://quizbash.com', 'quizbashapp@gmail.com']}
+{'air.com.triviador.trxs': ['Triviador Mundo', 'THX+Games+Zrt.', '1,000,000+', 'https://mundo.triviador.net/', 'mundo@triviador.com']}
+{'com.abbassalvatore.signssymptoms': ['Signs & Symptoms', 'Mumik', '1,000+', None, 'tomzpot@gmail.com']}
+{'com.loadupgames.ultimatetriviachallenge': ['The Ultimate Trivia Challenge', '6848541290839381206', '10+', 'http://LoadUpGames.com', 'loadupgames@outlook.com']}
+{'com.beastmode.playtq': ['TQ Trivia: Small Quiz Big Money', 'Beastmode+Games', '10,000+', 'http://playtq.com', 'hello@playtq.com']}
+{'com.Eldritch.Guess_My_Pixels_Games': ['Guess My Pixels: Games Edition', 'Eldritch', '100+', 'http://www.eldritchgames.com', 'eldritchgame@gmail.com']}
+{'air.com.goda.games.closeupcharacter': ['Close Up Character - Pic Quiz!', 'Goda+Game', '1,000,000+', 'http://godagame.com', 'wanting252@gmail.com']}
+{'com.ninetyfour.degrees.app': ['94 Degrees: fun trivia quiz', 'Scimob', '5,000,000+', 'http://94-degrees.com/', 'contact@94degres.com']}
+{'com.retroid.quiz.time.ultimate.trivia': ['Quiz Time 2019: Ultimate Trivia [Free & Offline]', 'QuizMan', '100,000+', None, 'retrospective.creations@gmail.com']}
+{'se.vitamin.mig.familj': ['MIG Familj – Frågespel', 'Compete+Now+AB', '1,000+', 'http://www.playmig.com', 'info@playmig.com']}
+{'com.sportsfanquiz.sportsfanquiz': ['Sports Fan Quiz - NFL, NBA, MLB, NHL, FIFA +', '6883674820441526627', '10,000+', 'http://www.sportsfanquiz.com', 'robbieelias1@gmail.com']}
+{'com.gedev.flags': ['Flags and Capitals of the World Quiz', '7291876193422056684', '1,000,000+', 'http://gedevapps.com', 'gedevapps@gmail.com']}
+{'air.com.goda.games.closeuphorror': ['Close Up Horror: Pic Word Quiz', 'Goda+Game', '100,000+', 'http://godagame.com', 'wanting252@gmail.com']}
+{'app.marrvelous.biblebowlprep.v2019': ['Bible Bowl Prep 2019', '3:16+Apps', '100+', 'http://www.316apps.com', 'tbrass84@316apps.com']}
+{'com.RockyHong.PushPop': ['Push & Pop', '4873604612019775623', '500,000+', 'http://www.rockyhong.com', 'contact@rockyhong.com']}
+{'com.mtarapower.iqapp': ['The Unbeatable Game - IQ Tricky Test', '5946367015670781013', '500,000+', 'http://mtarapower.com/', 'dilip.semwal@mtarapower.com']}
+{'io.knowledge.triviaspar': ['TriviaSpar', 'International+Knowledge+League', '100,000+', 'https://www.triviaspar.com/', 'admin@iklpro.com']}
+{'air.com.gerwinsoftware.wazasong': ['Wazasound Live Music Trivia', 'Gerwin+Software', '100,000+', 'http://www.gerwinsoftware.com', 'contact@gerwinsoftware.com']}
+{'com.taplane.foodquizm': ['Guess the Food, Multiple Choice Game', 'Trivia+Box', '1,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.mystudio.blackcard': ['The Black Card Game', 'The+App+Maker+Guru', '100+', None, 'theappmakerguru@gmail.com']}
+{'uk.co.quizpub.orders.Gameshow_Adventure': ['Game Show Adventure', 'Magical+Games', '10,000+', 'http://www.gameshowapp.net/', 'gameshowadventure@gmail.com']}
+{'com.potatoeschips.popcorntime': ['Popcorn Quiz - Movie Trivia', 'Potatoes+Chips+Studio', '50,000+', 'https://twitter.com/PotatoesChipsS', 'potatoeschipsstudio@gmail.com']}
+{'com.boboshi.exquizit.sve': ['ExQuizit Premium', 'Boboshi', '1,000+', 'http://www.boboshi.se', 'kontakt@boboshi.se']}
+{'com.qbis.guessthecountry': ['World Map Quiz', 'Qbis+Studio', '1,000,000+', 'http://worldmapquiz.qbisstudio.com', 'qbis.studio@gmail.com']}
+{'com.timleg.quizPro': ['Endless Quiz Pro', '6330568615215698969', '1,000+', None, 'cmasser@gmail.com']}
+{'com.licketycut.hqhelper.unlimited': ['HQ Trivia Helper Unlimited', '5564280905307453336', '100+', 'http://www.licketycut.com/apps/', 'licketycutapps@gmail.com']}
+{'zebi24.word_guess': ['Word Guess - Pics and Words', 'Zebi24+Games', '10,000+', 'https://sites.google.com/view/zebi24games/', 'zebi24games@gmail.com']}
+{'com.taplane.twopics': ['2 Pics 1 Word Quiz', 'Moe%27s+Studio', '100,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.aiadp.funquizgames': ['Fun Quiz Games Collection - Guess the Pics Quizzes', 'All+in+a+Days+Play', '10,000+', 'http://www.aiadp.com', 'support@aiadp.com']}
+{'fr.two4tea.rankup': ['Podium - Categories Game', 'Two4tea', '1,000+', 'https://two4tea.fr/', 'two4tea.company@gmail.com']}
+{'quiz.em.all.trivia': ["Quiz'em All! Battle Royal Game", 'S+Quiz+It!', '100,000+', 'https://www.iubenda.com/privacy-policy/7802831', 'quiz@quiz-em-all-trivia.com']}
+{'com.mattel.smartish': ['Smartish™ Companion', 'Mattel', '500+', 'http://www.mattel.com', 'service@mattel.com']}
+{'pl.swiatquizu.starwarsquiz.android': ['SW Quiz', 'World+of+Quiz', '10,000+', 'http://netstep.pl/apps/privacy-policy.html', 'netstep.gamedev@gmail.com']}
+{'com.beardoor.mykoreanteacher': ['My Korean Teacher : Quiz', '8715010069986520495', '500,000+', 'http://www.facebook.com/BearDoorStory/', 'beardoor2015@gmail.com']}
+{'com.mtapps.quiz.flags_off_the_world_quiz': ['Geography Quiz - flags, maps & coats of arms', 'MTapps', '500,000+', 'http://mtapps.pl', 'info@mtapps.pl']}
+{'com.guessbrands.newlogoquiz': ['New Logo Quiz : Guess Brands 2019', 'utarr+games', '10,000+', 'http://uttar.com/', 'utarr511@gmail.com']}
+{'com.imploded.labomba': ['LaBomba', 'Imploded+Software', '1+', 'http://labombagame.com', 'dev@imploded.com']}
+{'air.com.triviador.trro': ['Triviador România', 'THX+Games+Zrt.', '1,000,000+', 'http://romania.triviador.com', 'romania@triviador.com']}
+{'com.dodsoneng.bibletrivia': ['Bible Trivia', 'DodsonEng', '100,000+', 'http://www.thebibletrivia.com', 'dodsoneng@gmail.com']}
+{'com.rusticrafting.panda.preschool.game.adventures': ['Monkey Preschool Adventures: Active Preschoolers', 'Rusty+Crafting+Studio', '1,000+', 'http://rustycraftingstudio.blogspot.in/2018/05/privacy-policy.html', 'rustycrafting@gmail.com']}
+{'com.lequiz.lequiz': ['LeQuiz Beta', 'Itelia,+LLC', '5+', 'http://itelia.com', 'a@x76.com']}
+{'com.aplicacionmovil.juegofotospalabra': ['4 Fotos 1 Palabra (Nuevo)', '4917733371518451424', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'german-gonz@hotmail.com']}
+{'com.just.get.ten.game10.puzzle.game': ['Get10 & Over10! Number Puzzle Game - Free & Funny', 'SimpleLife+Studio+-+Puzzle+Games+for+Free', '5,000+', 'https://storage.googleapis.com/justgetten_files/privacy_policy.html', 'simplelifestudioofficial@gmail.com']}
+{'com.loveapps.cartrivia': ['Classic Car Trivia: The Auto Quiz Challenge Paid', 'Love+Apps+LLC', '10+', 'http://teamloveapps.com/apps/cartrivia.html', 'teamloveapps@gmail.com']}
+{'com.blackmouton.smili_smilou': ['Smiley Lines Classic', 'Black+Mouton+2012', '10,000+', 'http://www.black-mouton.com', 'support@black-mouton.com']}
+{'ru.kuchanov.scpquiz': ['SCP  Exam', 'Yuri_K', '5,000+', 'http://kuchanov.ru', 'neva.spb.rx@gmail.com']}
+{'com.game.guesspicture': ['Guess The Picture', 'Words+Mobile', '1,000,000+', 'http://www.words-mobile.com', 'contact@words-mobile.com']}
+{'com.jam.pointless': ['Pointless Quiz', '8383543423823353834', '50,000+', 'http://www.pointlessapp.co.uk', 'support@pointlessapp.co.uk']}
+{'com.taplane.logoquizm': ['Guess the Logo: Multiple Choice Quiz', 'Logos+Box', '5,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.zinfinity.zemoji': ['Words to Emojis – Best Emoji Guessing Quiz Game', '8793701689962796156', '500,000+', 'http://www.zinfinitygames.com', 'support@zinfinitygames.com']}
+{'com.avector.itw.itwmj16hd': ['Taiwan Mahjong Online', '%E5%90%91%E9%87%8F%E7%A7%91%E6%8A%80+Avector+Technology', '1,000,000+', 'http://www.itaiwanmj.com.tw', 'avectortechnology@gmail.com']}
+{'com.yiyou.game.trickyfour': ['Tricky Challenge', 'Yiugame', '100,000+', 'http://www.wanzhou.net/privacy.html', 'lihongyang@yiugame.com']}
+{'com.ripkord.production': ['Ripkord.tv - Interact & Win Real Rewards & Prizes!', 'ripkord.tv', '10,000+', 'https://ripkord.tv', 'support@ripkord.tv']}
+{'om.namugames.thinkguesscatchphrase': ['Think and Guess Catchphrases', 'Namu+Games', '1,000+', 'http://www.namugames.com', 'namugames@hotmail.com']}
+{'com.unicorntacogames.wouldyourather.love.sex.trivia.questions': ['Would you rather? Trivia about love & sex', '8268724095283250279', '100,000+', 'http://unicorntacogames.com/', 'unicorntacogames@gmail.com']}
+{'com.randomlogicgames.guesstheemojimovies': ['Guess The Emoji - Movies', '8111076891443836168', '500,000+', 'http://RandomLogicGames.com', 'rlgappdev2015@gmail.com']}
+{'com.kalinovskiy.medicinequiz': ['Medicine - Medical Quiz', 'GrafOrlov+Development', '50,000+', 'https://quizzes-81581.firebaseapp.com/privacypolicy.html', 'graforlov.development@gmail.com']}
+{'com.mlbfanquiz.mlbfanquiz': ['MLB Fan Quiz', '6883674820441526627', '100+', 'http://www.sportsfanquiz.com', 'robbieelias1@gmail.com']}
+{'com.rmsoftwares.JWgameQuizPro': ['JW Game Quiz Pro', 'RMSoftwares', '5+', 'https://docs.google.com/document/d/11GxKGCGEvwHiN_Kr76EEZ_d6lXA4YVrACZQE0Fce6UQ/edit?usp=sharing', 'rmsoftwares.gm@gmail.com']}
+{'pl.swiatquizu.wwequiz.android': ['Wrestling Quiz', 'Ask+Sports', '50,000+', 'http://netstep.pl/apps/privacy-policy.html', 'netstep.asksports@gmail.com']}
+{'braun_home.net.photoquiz.pro': ['Photo Quiz Pro', 'Michael+L.+Braun', '0+', 'http://www.braun-home.net', 'michael@braun-home.net']}
+{'com.dctmedia.shapesdeluxe': ['SHAPE - the picture trivia quiz', '6406605262562397659', '10+', 'https://www.dctmedia.co.uk/brands/games/', 'gamespublishing@dctmedia.co.uk']}
+{'com.skately.SkatePop': ['Skate Pop - Skateboard Trivia', 'Skately+LLC', '1,000+', 'http://skately.com', 'customer.service@skately.com']}
+{'com.animoca.stellarescapefull': ['Stellar Escape', '8271704752057011334', '1,000+', 'http://www.animoca.com', 'support@animoca.com']}
+{'com.licketycut.hqhelper': ['HQ Trivia Helper', '5564280905307453336', '10,000+', 'http://www.licketycut.com/apps/', 'licketycutapps@gmail.com']}
+{'com.Sixthcreation.TNQG': ['The Nigerian Quiz Game', 'Sixth+Creations', '10+', None, '6thcreationstudios@gmail.com']}
+{'tricky.quiz.test': ['Tricky Test : Puzzle IQ Game', '6893444052027149569', '100,000+', 'http://arudex.com/', 'maxdevapp@gmail.com']}
+{'com.etermax.preguntados.lite': ['Trivia Crack', '4857484411335878422', '100,000,000+', 'http://www.triviacrack.com', 'support@triviacrack.com']}
+{'com.msi.logogame': ['Logo Game: Guess Brand Quiz', 'Logos+Box', '10,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.freepuzzlegames.logoguessing.quiz': ['Quizdom – Trivia more than logo quiz!', 'Words+Logos+FreePuzzleGames', '1,000,000+', 'http://resource.cdn.bbcget.com/FreePuzzleGames/Quizdom.html', 'game.logo.word.guessing.puzzle@gmail.com']}
+{'com.etermax.trivia.preguntados2': ['Trivia Crack 2', '4857484411335878422', '5,000,000+', 'http://www.etermax.com', 'support@etermax.com']}
+{'com.sonypicturestelevision.millionaire': ['Millionaire Trivia: Who Wants To Be a Millionaire?', 'Sony+Pictures+Television', '1,000,000+', 'http://www.sonypictures.com/mobile/', 'millionaire@uken.com']}
+{'com.umi.feudlive': ['Family Feud® Live!', 'UMI+Mobile', '1,000,000+', 'http://www.umi-mobile.com', 'support@umi-mobile.com']}
+{'com.taplane.emojisquiz': ['Emoji Quiz. Combine & Guess the Emoji!', 'Mari+Apps', '1,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.onehundredpics.onehundredpicsquiz': ['100 PICS Quiz - Trivia and Picture Guessing Games', 'Poptacular', '10,000,000+', 'http://fb.com/100PICS', 'info@poptacular.com']}
+{'com.xmonetize.quizzland': ['Trivia only. Free quiz game: QuizzLand', '6636636945163472864', '1,000,000+', 'http://quizz.land/', 'contact@quizz.land']}
+{'com.generamobile.logomania': ['Logo Quiz Game 2019: Logomania: Guess logos & pics', '7309208351846755609', '1,000,000+', 'http://www.generagames.com/', 'helpdesk@generagames.com']}
+{'com.kiwi.joyride': ['Joyride: play live game shows with friends', 'Kiwi,+Inc.', '100,000+', 'https://www.onjoyride.com/', 'help@onjoyride.com']}
+{'com.sonypicturestelevision.jeopardy2': ['Jeopardy! World Tour', 'Sony+Pictures+Television', '1,000,000+', 'http://www.sonypictures.com/mobile/', 'jeopardy@uken.com']}
+{'kr.caramel.quiz_stickman': ['Trivia Survival 100', '7641566915213611060', '1,000,000+', 'https://sites.google.com/site/buzzpowder1privacy/us', 'buzzpowder1@gmail.com']}
+{'com.intermedia.hq': ['HQ - Trivia & Words', '8025251125525325507', '5,000,000+', 'http://twitter.com/hqtrivia', 'android@hqtrivia.com']}
+{'fr.two4tea.fightlist': ['Fight List - Categories Game', 'VOODOO', '10,000,000+', 'http://two4tea.fr/Fight-List/', 'two4tea.company@gmail.com']}
+{'com.wb.goog.ellen.gameofgames': ['Game of Games the Game', 'Warner+Bros.+International+Enterprises', '100,000+', 'https://www.ellentube.com/settings/apps_and_games.html', 'gameofgames@ellengames.com']}
+{'com.bogaziciapps.mapgameus': ['US Map Quiz - 50 States Quiz - US States Quiz', 'Bogazici+Apps', '10,000+', 'https://github.com/bogaziciapps/privacypolicy/blob/master/README.md', 'bogaziciapps@gmail.com']}
+{'com.alexander_menjivar.Cuanto_Sabes_de_la_Biblia': ['Cuanto Sabes de la Biblia', 'Alexander+Menjivar', '100,000+', None, 'contact.alexandermenjivar@gmail.com']}
+{'bubbleshooter.classic': ['Bubble Shooter Classic', 'Free+Bubble+Shooter+Games', '1,000,000+', 'http://www.ilyon.net/', 'support@ilyon.net']}
+{'com.dodsoneng.bibletrivia': ['Bible Trivia', 'DodsonEng', '100,000+', 'http://www.thebibletrivia.com', 'dodsoneng@gmail.com']}
+{'com.danpanichev.kpop': ['KPOP Kiss Marry Kill Game Challenge Quiz', 'Panichev', '10,000+', None, 'danpansup@gmail.com']}
+{'com.us.wouldyourather.adults.dirty': ['Would You Rather? For Adults', 'Viral+Games+For+Everyone', '10,000+', 'https://privacypolicies.com/privacy/view/8658d961c5e7b899b47ff6fde4174b30', 'viralappsforeveryone@outlook.com']}
+{'air.com.superbook.bible.trivia.quiz.game.android.app': ['Superbook Bible Trivia Game', 'The+Christian+Broadcasting+Network+%28CBN%29', '100,000+', 'http://superbook.cbn.com/contact', 'tech@cbn.org']}
+{'com.taplane.brandlogoquiz': ['Brand Logo Quiz: Multiple Choice Game', 'R-Apps', '100,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.asgames.quiznba': ['Quiz NBA Basketball', '9174150621489190747', '10,000+', 'https://sites.google.com/view/famobileprivacypolicy/home', 'info.sastudio@gmail.com']}
+{'com.alexappcommpany.sex_brain': ['The Sex of Your Brain Test', '8296268822157234968', '500,000+', 'https://vk.com/alexcommpany', 'alexappcommpany@gmail.com']}
+{'us.bibleappsforjesus.trueorfalse': ['True or False - Bible Trivia', 'Bible+Apps+For+Jesus', '5,000+', 'http://bit.ly/2Qbarzs', 'bibleappsforjesus@gmail.com']}
+{'com.works.timeglass.logoquiz': ['Picture Quiz: Logos', 'Timeglass+Works', '10,000,000+', 'http://s3.amazonaws.com/tgw-picture-quiz-logos/privacy-policy.html', 'timeglass.works@gmail.com']}
+{'com.cadev.trivialkids': ['Trivia Questions and Answers Kids', 'Cadev+Games', '100,000+', 'http://cadevgames.com/', 'cadevgames@gmail.com']}
+{'com.taplane.fourpics': ['4 Pics 1 Word Quiz', 'MSI+Apps', '500,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'app.showdown.live': ['Showdown Live - Live Trivia & Quizzes', 'Eventstream', '5,000+', 'http://showdown.live', 'contact@showdown.live']}
+{'com.truemindgame.quizlogofootballamericain': ['Logo American Football Quiz', 'True+Mind+Game', '100,000+', 'https://truemindgame.gitlab.io/Logo-American-Football-Quiz/privacy-policy.html', 'truemindgamecontact@gmail.com']}
+{'com.guessbrands.newlogoquiz': ['New Logo Quiz : Guess Brands 2019', 'utarr+games', '10,000+', 'http://uttar.com/', 'utarr511@gmail.com']}
+{'air.me.kupina.EnBuscaDeJesus': ['A Journey Towards Jesus', '5070703716958541559', '1,000,000+', 'http://www.kupina.me', 'apps@kupina.me']}
+{'com.sopelus.angeltest': ['Test: Angel or Devil', 'Sopelus+Studio', '500,000+', 'http://dogwiki.ru/privacy_policy.html', 'developer.sopelus@gmail.com']}
+{'com.biblia.aprende.ingles': ['Learning the Bible', 'The+city+of+the+apps', '50,000+', 'http://www.eluniversodeandroid.com/politica_privacidad/politica_privacidad_learning_the_bible.html', 'thecityoftheapps@gmail.com']}
+{'com.playstation.kipdecades': ['Knowledge is Power: Decades', '5810481673801929430', '100,000+', 'http://www.playstation.com/en-us/home', 'help@uk.playstation.com']}
+{'com.AppscorpOU.idiottest': ['Idiot Test', 'AppsCorp+O%C3%9C', '10,000+', 'http://appscorp.me', 'info@appscorp.me']}
+{'com.taplane.twopics': ['2 Pics 1 Word Quiz', 'Moe%27s+Studio', '100,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.taplane.twopicsonesong': ['2 Pics 1 Song Quiz', 'Moe%27s+Studio', '50,000+', 'http://games.taplane.com/', 'contact@taplane.com']}
+{'com.appengu.disneyquizenglishversion': ['Disney Quiz - English Version', 'AppEngu', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'app.engu@gmail.com']}
+{'com.kooapps.guesscelebandroid': ['Celebrity Guess - Star Puzzle Guessing Game', 'Games+for+Friends', '5,000+', 'http://gamesforfriends.org/', 'babyberry@kooapps.com']}
+{'com.Mis.StackerMahjong3D': ['Stacker Mahjong 3D', 'Mandy+Lin', '100,000+', 'https://www.facebook.com/mis.appgame', 'mis8866@gmail.com']}
+{'fr.two4tea.rankup': ['Podium - Categories Game', 'Two4tea', '1,000+', 'https://two4tea.fr/', 'two4tea.company@gmail.com']}
+{'com.appredeem.apptrailers': ['AppTrailers', 'AppRedeem+Inc', '1,000,000+', 'http://www.apptrailers.com/', 'support@apptrailers.com']}
+{'com.quikquiz.whosthatpokemonstgen': ["Who's That Pokemon? 1st Gen", 'QuikQuiz', '5,000+', 'https://quickappninja.com/game-privacy-policy.html', 'quikquizdroid@gmail.com']}
+{'com.mxcgames.aquizforbattleroyale': ['Quiz for Battle Royale (Unofficial)', 'MXC+Games', '5,000+', 'https://quickappninja.com/game-privacy-policy.html', 'msoftware235@gmail.com']}
+{'com.nixgames.truthordare': ['Truth or Dare', 'NixGames', '10,000+', 'http://nixgames44.blogspot.com/2018/09/privacy-policy-bodyfont-family_44.html', 'nixsports44@gmail.com']}
+{'com.eurotrashgames.marioquiz': ['Unofficial Mario Quiz', 'Euro+Trash+Games', '10,000+', 'https://www.facebook.com/eurotrashinternational/', 'eurotrashgames@gmail.com']}
+{'com.aliamir.animequiztriviagame': ['ANIME QUIZ - Trivia Game', '6830659881292905953', '50,000+', 'https://quickappninja.com/game-privacy-policy.html', 'm.ali.amir94@gmail.com']}
+{'com.nirogames.AdivinaLaCancion': ['Adivina la Canción', '8132143429253916563', '5,000,000+', 'http://www.nirogames.com', 'contact@nirogames.com']}
+{'com.neatrex.leaguechallenge': ['League Challenge - League of Legends', 'Neatrex', '10,000+', 'http://neatrex.com', 'neatrexgroup@gmail.com']}
+{'com.squanto.ganalana': ['Gana Lana', 'Gana+Lana,+Co.', '100,000+', 'https://www.ganalana.com.mx/', 'contact@ganalana.com.mx']}
+{'com.logogames.logo.quiz.game': ['Logo Quiz - Fun Quizzes', 'Logo+Games', '10,000+', 'http://handtechnics.com/logoquiz_privacy.html', 'logogamesinc@gmail.com']}
+{'com.gsn.chasefree': ['The Chase – Official Free Quiz', 'GSN+TV', '100,000+', 'http://gsntv.com', 'MobileTV@gsn.com']}
+{'com.Kaminari.BTS': ['BTS ARMY Music Quiz', '8158271613648435489', '10,000+', 'https://www.kaminari.io', 'support@kaminari.io']}
+{'com.xr4software.princess': ['Princess Test. Which princess are you look like?', 'XR4Software', '100,000+', 'http://www.xr4soft.com', 'xr4software@gmail.com']}
+{'quiz.bible.game.trivia.match.fun.christian.religious.free': ['Bible Quiz - Religious Game', 'iDailybread.org', '100,000+', 'http://www.idailybread.org/bvprivacy.html', 'cs@idailybread.org']}
+{'com.wowwee.smell': ["What's That Smell", 'WowWee+Group+Ltd', '10,000+', 'http://www.wowwee.com', 'apps@wowwee.com.hk']}
+{'com.fortunecoder.guesstheyoutubersfree': ['Guess the Youtuber', 'Squiz+Games', '1,000,000+', 'https://quickappninja.com/game-privacy-policy.html', 'fortunecoderapps@gmail.com']}
+{'com.goxal.restaurant': ["What's the Restaurant? Guess Restaurants Quiz Game", 'Goxal+Studios', '100,000+', 'http://www.goxal.com', 'support@goxal.com']}
+{'com.matiaslgonzalez.poopsiesmilequiz': ['Poopsie Slime QUIZ', 'El+Dudduy+Games', '5,000+', 'https://quickappninja.com/game-privacy-policy.html', 'elduddygames@gmail.com']}
+{'com.cadev.trivial2': ['Trivia Questions and Answers', 'Cadev+Games', '1,000,000+', 'http://cadevgames.com/', 'cadevgames@gmail.com']}
+{'by.alfasoft.WNCAvatarMakerApp2': ['Avatar Creator App', '7438968370539683589', '100,000+', 'http://gadgets-software.com', 'gadgets.software@gmail.com']}
+{'com.peoresnada.mental': ['Brain Games: Free Mental Training!', '7190698173876843750', '1,000,000+', 'http://peoresnada.com', 'xmorpher_peoresnada@yahoo.com']}
+{'com.mediamol.pigquiz': ['Golden Pig - Earn Money', 'Adprime', '50,000+', 'http://golden-pig-app.com', 'info@golden-pig-app.com']}
+{'com.gedev.flags': ['Flags and Capitals of the World Quiz', '7291876193422056684', '1,000,000+', 'http://gedevapps.com', 'gedevapps@gmail.com']}
+{'com.lcmobileapp.thehardestquiztwonew': ['The Hardest Test 2', 'lcmobileapp79', '100,000+', 'http://gabitrueftp1.com/privacy/privacypolicy.htm', 'luis95051@yahoo.com']}
+{'com.goxal.eighties': ["80's Quiz Game", 'Goxal+Studios', '100,000+', 'http://www.goxal.com', 'support@goxal.com']}
+{'com.chaves.triviabenten': ['Trivia for Ben 10', 'Chavez+Games', '100,000+', 'http://gabitrueftp1.com/privacy/privacypolicy.htm', 'edchavesta@gmail.com']}
+{'com.senspark.goldminerclassicorigin': ['Gold Miner Classic Lite', '7830868662152106484', '1,000,000+', 'http://www.senspark.com', 'contact@senspark.com']}
+{'net.kymco.culture.pixel.craft': ['Block craft 3D -Build city simulator 2019', 'lipstich.std', '5,000+', 'https://www.freeprivacypolicy.com/privacy/view/3bce2f15af21030e2fbd947016524dcf', 'lipstich@support.com']}
+{'com.aiadp.funquizgames': ['Fun Quiz Games Collection - Guess the Pics Quizzes', 'All+in+a+Days+Play', '10,000+', 'http://www.aiadp.com', 'support@aiadp.com']}
+{'air.trickytest': ['Tricky Test: Get smart', '6997296209368069505', '1,000,000+', 'http://botikigames.com/privacy_policy/privacy_policy.html', 'admin@botikigames.com']}
+{'macrostudios.whichanimalareyou': ['Which Animal Are You?', 'DH3+Games', '100,000+', 'https://sites.google.com/view/dh3games-privacypolicy/home', 'dh3gamesinc@gmail.com']}
+{'com.cs.spooky.neighbor.hell.house.games': ['Crazy House of Neighbor: New Neighbor Game 2019\u2028', 'Creatick+Studio', '10,000+', 'https://sites.google.com/view/creatickstudio/home', 'studiotrimax5@gmail.com']}
+{'com.dknetwork.solofeud': ['Solo Feud', 'DK+Network', '5,000+', 'https://quickappninja.com/game-privacy-policy.html', 'danikashnetwork@gmail.com']}
+{'com.bibletrivia.christian.quizlet': ['Bible Trivia Christian Quiz', 'Quizzoulicious:+Test+Your+Smart', '10,000+', 'https://quizzoulicious.wixsite.com/quizzoulicious', 'quizzoulicious@gmail.com']}
+{'com.pg.wheeloffun': ['Wheel of Fun-Wheel Of Fortune', '7250183505735303936', '1,000,000+', 'http://www.pivotgame.info/', 'gamepivot@gmail.com']}
+{'com.mirigames.dbz_quiz_game': ['Dbz Quiz Game', 'Mirigames', '5,000+', None, 'mirigames2020@gmail.com']}
+{'com.quizapps.millionaire.en': ['Millionaire 2019 - General Knowledge Quiz US', '7519557655435453895', '1,000+', 'https://quizaplications.com/millionaireus.html', 'quiz.aplications@gmail.com']}
+{'holy.sock.textagirl': ['Text a girl!', 'Holy+Sock+Studios', '5,000+', 'https://www.websitepolicies.com/policies/view/tdMMAv', 'holy.sock2000@gmail.com']}
+{'com.goxal.logos': ['Guess Brand Logos', 'Goxal+Studios', '100,000+', 'http://www.goxal.com', 'support@goxal.com']}
+{'com.markdelavictoria.guessthepixarcharacter': ['Guess the PIXAR character', 'Markie%26Wynie', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'markallendelavictoria@gmail.com']}
+{'az.ustad.gold_logo_millionaire': ['Golden Logo Game 2019 - Quiz Game', 'AZMGames', '10,000+', 'https://sites.google.com/view/privacyrugames114/home', 'ruzigarbaku@gmail.com']}
+{'com.cadenasyjuegos.whappgames': ['Games for whatsapp', 'WhatsGames', '100,000+', 'http://juegosparawhatsapp.com/', 'olasewapolma@gmail.com']}
+{'cf.guessthesong.adivinalacancion': ['Guess the song - music quiz game', 'Cool+Future', '100,000+', 'http://www.appsweepstakes.com/privacypolicycoolfuture.png', 'coolfutureapps@gmail.com']}
+{'air.com.generamobile.colormaniaguess': ['Colormania Game 2019: Guess the Color & Logo Quiz', '7309208351846755609', '1,000,000+', 'http://www.generagames.com/', 'generakids@gmail.com']}
+{'com.zinfinity.zemoji': ['Words to Emojis – Best Emoji Guessing Quiz Game', '8793701689962796156', '500,000+', 'http://www.zinfinitygames.com', 'support@zinfinitygames.com']}
+{'com.tastypill.bottleflip': ['Bottle Flipping - Water Flip 2', 'tastypill', '100,000+', 'http://www.tastypill.com', 'support@tastypill.com']}
+{'com.TailOfTales.WaifuOrLaifu': ['Waifu or Laifu', 'Tail+Of+Tales', '500,000+', 'https://vk.com/junisky', 'gostboy.vk@gmail.com']}
+{'com.lcmobileapp.thehardestquizthree': ['The Hardest Quiz 3', 'lcmobileapp79', '100,000+', 'http://gabitrueftp1.com/privacy/privacypolicy.htm', 'luis95051@yahoo.com']}
+{'com.cangodev.millionaire2k18': ['Millionaire 2019 Quiz', 'Cango+Entertainment', '100,000+', 'https://yadi.sk/i/qk92Ylvw7MQSaA', 'cangodev@gmail.com']}
+{'com.appsbergman.voufbiblico': ['True or False (Biblical)', '6681025014292303495', '500,000+', 'http://www.appsbergman.com/', 'contato@appsbergman.com']}
+{'com.rooftop.q12.mexico': ['Q12 Trivia | México', 'ROOFTOP+DEVELOPMENT+SL', '10,000+', 'https://www.q12mx.live', 'ayuda.mx@q12.live']}
+{'live.trivia.theq': ['The Q - Live Game Network', 'The+Q', '100,000+', 'https://theq.live', 'contactus@theq.live']}
+{'com.mraing.guessthesongbtsbymv': ['Guess the BTS song by MV', 'Tutorials+app', '50,000+', 'https://quickappninja.com/game-privacy-policy.html', 'sluysar89@gmail.com']}
+{'com.math.alllevels.quiz.game1': ['Math All Levels Quiz Game', 'Quiz+Corner', '1,000,000+', 'http://lvuksanovic90.wixsite.com/quizcorner/privacy-policy', 'vukadinovic1979@gmail.com']}
+{'com.sportsfanquiz.sportsfanquiz': ['Sports Fan Quiz - NFL, NBA, MLB, NHL, FIFA +', '6883674820441526627', '10,000+', 'http://www.sportsfanquiz.com', 'robbieelias1@gmail.com']}
+{'com.yasigaicthub.biblequiz': ['Bible Quiz - Endless', 'Yasiga+ICTHub', '10,000+', 'http://www.yasigaicthub.com', 'yasigaicthub@gmail.com']}
+{'com.kroaq.rightword': ['Palabra Correcta', 'Kroaq', '5,000,000+', 'http://www.palabracorrecta.com', 'info@palabracorrecta.com']}
+{'nyg.minicraft.virtual_villagers.new_world.crafting_and_survival': ['Mini Craft 3D : Virtual New World Survival', 'Crafting_Survival_Exploration', '10,000+', None, 'hatigelap67@gmail.com']}
+{'com.diablins.android.leagueofquiz': ['League of Quiz Trivia', 'Trivial+%26+Quiz+-+DiabloApps', '100,000+', 'https://www.facebook.com/cuestionadosLoQ', 'cuestionados.loq@gmail.com']}
+{'com.truemindgame.quizetatsamericains': ['United States Quiz', 'True+Mind+Game', '50,000+', 'https://truemindgame.gitlab.io/United-States-Quiz/privacy-policy.html', 'truemindgamecontact@gmail.com']}
+{'com.qt.wrestling.quiz.wrestler.trivia': ['World Wrestling Quiz & Guess The Wrestler', 'Quiz+Trivia+Apps', '1,000+', 'https://www.facebook.com/albert.flintoff/posts/2266080673629219', 'quiztriviapps@gmail.com']}
+{'com.knowledgequizgames.guessthesong': ['Guess the Song Quiz 2018', 'TLA+Quiz+n+Button', '50,000+', None, 'knowledgequizgames@gmail.com']}
+{'rdpcraft.crafting.building.exploration.lite_pocket_edition': ['Crafting and Building Exploration Lite', 'Block+Craft', '10,000+', None, 'bk244272@gmail.com']}
+{'com.eshanisenavirathne.guessthevampires': ['Vampire Diaries Quiz (Fan Made)', 'Elixir+Games', '50,000+', 'https://quickappninja.com/game-privacy-policy.html', 'chaturaravinda@gmail.com']}
+{'labs.geeky.bokuheroquiz': ['Quiz : Boku Hero Academia', 'Geeky+Labs', '5,000+', None, 'bingeek1@gmail.com']}
+{'com.zapborg.www.friendstrivia': ['FRIENDS Quiz', 'Bright+Wire+Apps', '10,000+', 'http://www.zapborg.tk', 'contact@zapborg.tk']}
+{'com.mizanzulmi.kpopidolquiz': ['Kpop Idol Quiz 2018', 'cicivu+studio', '500,000+', 'https://quickappninja.com/game-privacy-policy.html', 'cicivustudio@gmail.com']}
+{'com.openmygame.games.android.pics': ['101 Pics: Photo Quiz', 'OpenMyGame', '1,000,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'com.junkfiledev.rappersquiz': ['Guess The Rapper 2018 - 1980', 'J.F+Games', '5,000+', 'https://quickappninja.com/game-privacy-policy.html', 'JunkfileDev@gmail.com']}
+{'uk.recursivegeek.wouldyourather': ['Would You Rather For Teens!', 'SiTREA', '500,000+', 'https://www.docracy.com/0mzoog8lbiv/mobile-privacy-policy-would-you-rather-for-teens', 'customer.support@sitrea.co.uk']}
+{'com.tryguess': ['Guess who the character is', '4919418188528526811', '100,000+', 'https://www.facebook.com/circlegamenews/', 'licarifrancescowork@gmail.com']}
+{'club.speedtyping.wouldyourather': ['Would you rather?', '6860663339649130729', '10,000+', 'https://docs.google.com/document/d/1Ll7NWI4P3rZXG1MrAjEZ3y9-SdtM6Nhjdu9hlzDCKQY', 'itsabhinav@pm.me']}
+{'com.mirigames.descendants_quiz_game': ['Descendants quiz game', 'Mirigames', '1,000+', None, 'mirigames2020@gmail.com']}
+{'com.antheu.trueorfalse': ['True or False? Trivia Quiz!', 'Antheu+Inc.', '50,000+', 'http://antheu.free.fr/vraioufaux/policy', 'antheu.incorporation@gmail.com']}
+{'com.Mbcapp.Exatlonusa': ['Exatlon Estados Unidos - Exatlon USA Trivia', '4789396442045853505', '5,000+', 'http://bembnews.com', 'bembnews@gmail.com']}
+{'com.truemindgame.quizlogobasketball': ['Logo Basketball Quiz', 'True+Mind+Game', '100,000+', 'https://truemindgame.gitlab.io/Logo-Basketball-Quiz/privacy-policy.html', 'truemindgamecontact@gmail.com']}
+{'com.retroid.quiz.time.ultimate.trivia': ['Quiz Time 2019: Ultimate Trivia [Free & Offline]', 'QuizMan', '100,000+', None, 'retrospective.creations@gmail.com']}
+{'com.HeyNau.MegaQuizGaming': ['MEGA QUIZ GAMING 2K19 - Guess the game Trivia', '8870645852774521278', '1,000,000+', 'http://www.youtube.com/HeyNau', 'heynaumedia@gmail.com']}
+{'com.readandspell.com.fourthgrade': ['Read & Spell Game Fourth Grade', 'Fun+learning+kids', '10,000+', 'http://play2learndev.blogspot.com/p/privacy-policy.html', 'cindykur101@gmail.com']}
+{'com.dodala.explorationworld': ['Exploration Lite 2019', 'Dodala', '1,000+', 'https://github.com/pmmp/pocketmine-mp', 'panglimala.laoet@gmail.com']}
+{'com.aztrivia.disney_movie_trivia': ['Movie Trivia: Disney Movies', 'AZ+Trivia', '10,000+', 'http://www.aztrivia.com', 'brett@aztrivia.com']}
+{'com.wetpalm.GeoChallenge': ['Geo Challenge - World Geography Quiz Game', 'Wetpalm', '100,000+', 'https://sites.google.com/view/wetpalm', 'wetpalm@gmail.com']}
+{'de.habanero.quizoid': ['Quizoid: Free Trivia w General Knowledge Questions', '8515565779373476058', '1,000,000+', 'http://www.habanero-apps.de', 'support@habanero-apps.de']}
+{'com.edutainmentinc.quizpursuit': ['Quiz Pursuit: Free Trivia, Quiz, IQ Game app', 'Edutainment,+Incorporated.', '5,000+', 'https://www.edutainmentinc.net/privacy_policy.html', 'developer@edutainementinc.net']}
+{'com.sololaunches.www.wweguessthethemetwofree': ['Guess the WWE Theme Song Level 2- UNOFFICIAL', 'Sololaunches', '1,000+', 'http://www.sololaunches.com', 'jithinarayan365@gmail.com']}
+{'com.daaga.rapeng': ['RAP QUIZ |  RAP GAME | RAPERS TRIVIA | RAPER APPS', 'Daaga', '10,000+', None, 'daagacompany@gmail.com']}
+{'com.ninetyfour.degrees.app': ['94 Degrees: fun trivia quiz', 'Scimob', '5,000,000+', 'http://94-degrees.com/', 'contact@94degres.com']}
+{'com.tv.shows.fun.trivia.quiz.game1': ['TV Shows Fun Trivia Quiz Game', 'Quiz+Corner', '100,000+', 'http://lvuksanovic90.wixsite.com/quizcorner/privacy-policy', 'vukadinovic1979@gmail.com']}
+{'com.bbb.modern.craft': ['Modern Craft 3D : Mini City Simulator', 'BBBuckley', '10,000+', 'https://github.com/pmmp/pocketmine-mp', 'kecoakpandan@gmail.com']}
+{'net.smileandlearn.triviafree': ['Family Trivia Free', 'SMILE+AND+LEARN+DIGITAL+CREATIONS', '50,000+', 'http://www.smileandlearn.net', 'info@smileandlearn.net']}
+{'com.sabes.mas.primaria': ['¿Cuánto sabes de Primaria?', 'rdn89', '5,000,000+', 'http://www.appstop.es/politicasprivacidad/politicaprimaria.html', 'roldan1989@gmail.com']}
+{'com.nunoalnogueira.guessdisneycharacters': ['Guess Disney Characters', 'nunoalnogueira', '5,000+', 'https://docs.google.com/document/d/1AL592yjTshs2hGceCfoUGi3jB4YgJxyGSX1DhbFrfsY/edit?usp=sharing', 'nunoalnogueira@gmail.com']}
+{'com.quiz.bible.trivia.game.religious': ['Bible Quiz - Trivia Games & Brain Teasers For Free', 'Touchzing+Media', '1,000+', 'http://www.touchzing.com', 'info@touchzing.com']}
+{'com.officetrivia.sentzei.triviafortheoffice': ['The Office Trivia', 'Sentzei+Studios', '1,000+', None, 'sentzeistudios@gmail.com']}
+{'com.topquizgames.themedquiz.music': ['Trivial Music Quiz', 'Quiz+%26+Trivia+Games', '100,000+', 'http://mobilesolutions.pt/', 'topquizgames@gmail.com']}
+{'com.thunkable.android.arvid_funk.kidvsparent': ['Kid vs. Parent Quiz', '5704454504164714531', '1,000+', 'https://sites.google.com/view/ppfunkanstudio/startsida', 'arvid.funk@gmail.com']}
+{'com.OutGG.TruthOrDare': ['Truth or Dare Adults', 'OutGG', '10,000+', 'http://www.outgg.com', 'support@outgg.com']}
+{'com.potatoeschips.popcorntime': ['Popcorn Quiz - Movie Trivia', 'Potatoes+Chips+Studio', '50,000+', 'https://twitter.com/PotatoesChipsS', 'potatoeschipsstudio@gmail.com']}
+{'com.rusticrafting.panda.preschool.game.adventures': ['Monkey Preschool Adventures: Active Preschoolers', 'Rusty+Crafting+Studio', '1,000+', 'http://rustycraftingstudio.blogspot.in/2018/05/privacy-policy.html', 'rustycrafting@gmail.com']}
+{'com.viralcent.quizmarvelsuperhero': ['Quiz: Marvel Superhero', 'ViralCent', '50,000+', 'https://quickappninja.com/game-privacy-policy.html', 'nareshmahour02@gmail.com']}
+{'com.educ8s.factorfiction': ['Fact Or Fiction - Knowledge Quiz Game Free', '8928454834131413443', '100,000+', 'http://www.educ8s.com', 'info@educ8s.com']}
+{'com.koverking.games.usastates': ['U.S. States & Presidents Quiz – USA matching game', 'koverking', '1,000+', 'https://www.koverkingapps.com/', 'koverkingapps@gmail.com']}
+{'com.asmolgam.uspresidentsquiz': ['US Presidents and Vice-Presidents - History Quiz', 'Andrey+Solovyev', '100,000+', 'http://asmolgam.com/games/', 'asmolgam@gmail.com']}
+{'air.com.goda.games.closeupcharacter': ['Close Up Character - Pic Quiz!', 'Goda+Game', '1,000,000+', 'http://godagame.com', 'wanting252@gmail.com']}
+{'com.nflfanquiz.nflfanquiz': ['NFL Fan Quiz', '6883674820441526627', '1,000+', 'http://www.sportsfanquiz.com', 'robbieelias1@gmail.com']}
+{'com.tordedroid.jwtrivial': ["Trivia for Jehovah's Witnesses", 'TordeDroid', '100,000+', 'http://www.tordedroy.com', 'TordeDroid@gmail.com']}
+{'com.nirogames.cuanto.sabes.primaria': ['Cuanto Sabes de Primaria', '8132143429253916563', '1,000,000+', 'https://www.facebook.com/CuantoSabesDePrimaria', 'contact@nirogames.com']}
+{'com.adprodev.webtoonquiz': ['Webtoon Quiz', 'AdProDev', '500+', 'https://sites.google.com/view/webtoon-quiz/privacy-policy', 'adprodevv@gmail.com']}
+{'sandbox.coloring.number.pixel.art.ugandan': ['Pixel Art Pro - Color by Number', 'Piano+Music+House+Inc.', '100,000+', 'http://xiaoqinprivacypolicy.blogspot.tw/2016/12/privacy-policy.html', 'leshanxiaoqin@gmail.com']}
+{'com.OwlGamesStudio.QuizRoyale': ['Quiz Royale Online', '7101527626500853133', '1,000,000+', 'https://www.facebook.com/linkgamesstudio/', 'studioowlgames@gmail.com']}
+{'air.com.littlebigplay.games.mathgames': ['Math Games', '5001380540690243958', '10,000+', 'http://www.littlebigplay.com/', 'littlebigplay@gmail.com']}
+{'live.brainbattle': ['10s - Online Trivia Quiz with Video Chat', '6799096435514686842', '100,000+', 'https://www.10seconds.live/', 'support@10seconds.live']}
+{'air.org.axisentertainment.BabyHazelRoyalBath': ['Baby Hazel Royal Bath', '6619374307879903002', '1,000,000+', 'http://www.babyhazelgames.com', 'contact@axisentertainment.org']}
+{'com.guilardi.michaeljackson': ['I Love Michael Jackson', '8207510022289388043', '50,000+', 'http://jogoeusei.com.br/privacy/', 'contato@guilardi.com.br']}
+{'com.shopsual.adivinaequipoligamx': ['Liga MX Quiz', 'Universse+Apps', '5,000+', 'https://shopsual.com/', 'zepolgez@gmail.com']}
+{'com.orenlevya.quizfortnite': ['Skins Quiz', 'Oren+Levy+Apps', '1,000+', None, 'oren.levy10@gmail.com']}
+{'com.classic.rock.music.trivia.quiz': ['Classic Rock Music Trivia Quiz - Rock Quiz App', 'Smart+Quiz+Apps', '10,000+', 'https://smartquizapps.wixsite.com/privacy-policy', 'smartquizappsdev@gmail.com']}
+{'com.espinosagames.fotoscanciontrap': ['4 Fotos 1 Canción - Reggaeton y Trap - Bad Bunny.', 'Letos+CO', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'letoscontacto@gmail.com']}
+{'de.paulstelzer.iqtest': ['IQ Test - The Intelligence Quiz', '4854583837351730459', '100,000+', 'http://iqtest-app.de', 'support@iqtest-app.de']}
+{'com.mobiloids.trueorfalse': ['True False Quiz', '5273672954439712672', '500,000+', 'http://www.mobiloids.com', 'mobiloids@gmail.com']}
+{'com.evgeniirybakov.horrorpostersmoviequiz': ['Horror posters: Movie Quiz', '4887035812778845105', '1,000+', 'https://quickappninja.com/game-privacy-policy.html', 'pzklinker@gmail.com']}
+{'com.soulsharedgames.thewall3d': ['The Wall 3D', 'SoulShared+Games+LLC', '50,000+', 'http://soulsharedgames.com', 'soulsharedgames@gmail.com']}
+{'jojo.siwa.quiz': ['jojo siwa quiz game', '5341028814091416708', '100+', 'http://www.apklok.com/', 'dev.apklok@gmail.com']}
+{'com.creephustlin.guesstherapper': ['Guess the Rapper | 2019 RAP Quiz!', 'CreepGames', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'xrandersontm@gmail.com']}
+{'com.pu.innovation.games.guess.the.wrestling.divas': ['Wrestling Divas - Guess the Picture', '5254146850487540009', '5,000+', 'http://puinnovations.in/privacy-policy-and-terms-of-use/', 'pu.innovation.games@gmail.com']}
+{'com.detoproxveta.cardibguessthesong': ['Cardi B Guess The Song', '8189532389023816720', '1,000+', 'http://detoprox-appandroid.blogspot.com/p/privacy-policy.html', 'soportedetoprox@gmail.co']}
+{'com.welovequiz.artedaseducao': ['Seduction and Dating Quiz', 'Silicone+Valley+Trivia+%26+Quiz+Games', '1,000,000+', 'https://s3-us-west-1.amazonaws.com/artofseduction/ArtOfSeductionPrivacyPolicy.html.html', 'manager@heroquiz.com']}
+{'quiz.em.all.trivia': ["Quiz'em All! Battle Royal Game", 'S+Quiz+It!', '100,000+', 'https://www.iubenda.com/privacy-policy/7802831', 'quiz@quiz-em-all-trivia.com']}
+{'com.dsbsoft.strangerthingsquiz': ['Stranger Things Quiz', 'dsbSoft', '100,000+', 'https://dsbsoftproductions.wixsite.com/poiticasdeprivacidad', 'dsbsoftproductions@gmail.com']}
+{'com.ferhapp.adivinaroastyourselfemoji': ['Adivina El Roast Yourself Con Emoji', 'ferhapp', '50,000+', 'https://quickappninja.com/game-privacy-policy.html', 'ferhapp@gmail.com']}
+{'com.guessthegameyas.guessthegame': ['Video Game Quiz', 'Lakhnati', '10,000+', None, 'lakhnati.dv@gmail.com']}
+{'com.retroid.factual.quiz.trivia': ['Factual Quiz 2019: Challenging Trivia [Offline]', 'QuizMan', '10,000+', None, 'retroid101@gmail.com']}
+{'com.guessiq.pokemonguess': ['Pokemon Guess', 'Don%27t+Play', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'dontplaygamezs@gmail.com']}
+{'com.v26v20apps.quizdisney': ['Disney Quiz', 'V%26V+Games', '10,000+', 'http://veigames.blogspot.com/', 'margaritaportalrivera@gmail.com']}
+{'com.worldofquiz.worldwar2quiz': ['World War II: Quiz Game & History Trivia', 'World+of+Quiz', '5,000+', 'http://netstep.pl/apps/privacy-policy.html', 'netstep.gamedev@gmail.com']}
+{'com.top.tv.shows.trivia.quiz.game': ['Top TV Shows Trivia Quiz Game', 'Smart+Quiz+Apps', '10,000+', 'https://smartquizapps.wixsite.com/privacy-policy', 'smartquizappsdev@gmail.com']}
+{'com.pericle.guessthecar': ['Guess The Car - Quiz', 'Pericle', '50,000+', 'http://pericle.ucoz.net/index/guess-the-car-quiz/0-4', 'markovdima43@gmail.ru']}
+{'pl.swiatquizu.anatomyquiz.android': ['Anatomy Quiz - Free Physiology & Anatomy App', 'World+of+Quiz', '10,000+', 'http://netstep.pl/apps/privacy-policy.html', 'netstep.gamedev@gmail.com']}
+{'air.com.gerwinsoftware.quizpanic': ['Quiz Panic General Knowledge', 'Gerwin+Software', '500,000+', 'http://www.gerwinsoftware.com', 'contact@gerwinsoftware.com']}
+{'mobi.nullkm.logoquiz': ['Cars Logos Quiz HD', '7275960624719716062', '1,000,000+', 'https://0km.mobi/policy.html', '0km.mobi@gmail.com']}
+{'com.cadev.thewall': ['The Wall', 'Cadev+Games', '1,000,000+', 'http://cadevgames.com/', 'cadevgames@gmail.com']}
+{'com.worklab.wwebeard': ['Wrestling Beard Salon', 'Logic+Work+Lab', '1,000+', 'http://www.starwininfotech.com', 'logicworklab@gmail.com']}
+{'com.idplay.guessthebrand.logoquiz': ['Guess the Brand - Logo Quiz', 'IDPlay', '10,000+', 'https://quickappninja.com/privacy-policy/', 'com.idplay@gmail.com']}
+{'abdelrahman.doeshelikemequiz': ['Does He Like Me Quiz', 'Abdelrahman+M.+Sid', '100,000+', 'http://abdelrahmanmsid.com/blog/', 'contact@abdelrahmanmsid.com']}
+{'com.lcmobileapp.twopicsonewordemoji': ['2 Pics Quiz: Emoji Guessing Game', 'lcmobileapp79', '1,000+', 'http://gabitrueftp1.com/privacy/privacypolicy.htm', 'luis95051@yahoo.com']}
+{'com.sds.dance.school.life.simulator.dancing.game': ['Dance Clash School Game', 'Super+Duper+Studios', '10,000+', 'http://www.superduperstudios.com/', 'superduperstudios0@gmail.com']}
+{'com.obedyaw103.BIBLETRIVIA': ['King James Bible Trivia', '8949349087044703601', '1,000+', 'http://www.obedtech.com', 'devservices@obedtech.com']}
+{'com.masterzeico.retobiblico': ['Reto Bíblico', '5316194663421512063', '50,000+', 'https://www.emprenderonline.com.ar/politica-de-privacidad/', 'areatubeve@gmail.com']}
+{'com.mraing.kpopidolquiz': ['Kpop Idol Quiz 2019', 'Tutorials+app', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'sluysar89@gmail.com']}
+{'com.viralcent.quizpubgmobile': ['Quiz: Pubg Mobile', 'ViralCent', '5,000+', 'https://firebasestorage.googleapis.com/v0/b/quiz-pubg-mobile.appspot.com/o/privacy_policy.html?alt=media&token=0211b478-4cfd-4726-994f-4168809a8b0b', 'nareshmahour02@gmail.com']}
+{'com.vmoga.dtbd': ['Deal The Big Deal', 'VGDN+-+Publisher', '100,000+', 'http://policy.vietgamedev.com/Deal%20The%20Big%20Deal', 'vietgamedev@gmail.com']}
+{'com.june.think': ['Think', '5441715344114404890', '5,000,000+', 'http://think.junesoftware.com', 'thinksupport@junesoftware.com']}
+{'com.country.music.fun.game.quiz1': ['Country Music Fun Game Quiz', 'Quiz+Corner', '50,000+', 'http://lvuksanovic90.wixsite.com/quizcorner/privacy-policy', 'vukadinovic1979@gmail.com']}
+{'ar.com.develup.pasapalabra': ['Alphabet Game', '7787336080129871986', '1,000,000+', 'http://www.develup.com.ar', 'info@develup.com.ar']}
+{'com.gamecake.gameone': ['Emoji Charades', '6856187845089861642', '1,000+', 'https://www.gamecakestudios.com/', 'support@gamecakestudios.com']}
+{'com.force.craft.forcecraft.obelisk.adventure.pvp': ['Force Craft: Simulation City Building', 'vanarkan', '10,000+', None, 'irfancoper@gmail.com']}
+{'com.THEFLASHTRIVIA': ['THE FLASH TRIVIA', 'THE+FUTURISTIC+VISION+TECHNOLOGIES', '1,000+', 'http://www.appsgeyser.com/privacy/app/', 'omar.qurneh@gmail.com']}
+{'com.adprodev.kpoplogoquiz': ['Kpop Quiz Guess The Logo', 'AdProDev', '100,000+', None, 'adprodevv@gmail.com']}
+{'com.gamesforkids.ladybugquizenglish': ['Ladybug trivia - Guess the picture', 'Games+kids+Inc', '1,000+', 'https://quickappninja.com/game-privacy-policy.html', 'gamesforkids569@gmail.com']}
+{'com.tellmewow.senior.palabra.correcta': ['Palabra Perfecta - Gramática en español', 'Senior+Games', '10,000+', 'https://tellmewow.com', 'silverseniorgames@gmail.com']}
+{'com.alexander_menjivar.Cuanto_Sabes_de_DBZ_Trivia': ['Cuanto Sabes de DBZ - Trivia', 'Alexander+Menjivar', '500,000+', None, 'contact.alexandermenjivar@gmail.com']}
+{'com.avrinross.quizofthechristianbible': ['Quiz of the Christian Bible (King James Version)', '7461930086559429192', '100+', 'http://www.8BitAvrin.com', '8bitavrin@gmail.com']}
+{'pro.nbsdev.doyouknowtheway': ['DO YOU KNOW THE WAY ! SoundBoard 2018 MEME', 'NBSDev', '100,000+', 'http://nbsdev.pro', 'tndprodev@gmail.com']}
+{'com.age.math.appspot': ['Math - Quiz Game', 'Atom+Games+Ent.', '500,000+', 'https://age-math.appspot.com/privacy.htm', 'atom.games.ent@gmail.com']}
+{'com.hot.hit.songs.of.the.year': ['Guess The Song Lyrics Quiz 2018', 'Smart+Quiz+Apps', '100+', 'https://smartquizapps.wixsite.com/privacy-policy', 'smartquizappsdev@gmail.com']}
+{'com.aztrivia.song_lyrics_trivia': ['Song Lyrics Trivia', 'AZ+Trivia', '1,000+', 'http://www.aztrivia.com', 'brett@aztrivia.com']}
+{'com.lttech.niceprice': ['The Price is Nice', '7928670288679554692', '100+', 'http://www.lttech.de', 'support@lt-tech.net']}
+{'com.nuva.badbunnyadivinalacancion': ['Bad Bunny Adivina La Canción', 'Nuva+Network', '50,000+', 'http://nuva.online', 'network.nuva@gmail.com']}
+{'com.bogaziciapps.mapgameeurope': ['Europe Map Quiz - European Countries and Capitals', 'Bogazici+Apps', '10,000+', 'https://github.com/bogaziciapps/privacypolicy/blob/master/README.md', 'bogaziciapps@gmail.com']}
+{'com.atomiclocs.cuantomeconoces.dos': ['How much do you know me? 2', 'Atomic+Locs', '10,000+', None, 'atomiclocs@gmail.com']}
+{'com.genuggupron.supersmashquizssq': ['Super Smash Quiz', 'KGG+DNP+Dev', '5,000+', 'https://quickappninja.com/privacy-policy/', 'genuggupron@gmail.com']}
+{'com.macapps.ftdmac4': ['Spot The Difference', 'macappsstudio', '100,000+', 'http://macappsstudiopp.blogspot.com', 'macappsstudio@gmail.com']}
+{'com.dozcore.memoryverse.biblequiz_memoryverse': ['Bible Quiz - Memory Verses', 'Dozcore', '1,000+', None, 'imathewdc@gmail.com']}
+{'com.nerdalchemy.diamondsportstrivia': ['Diamond Sports Trivia', 'Nerd+Alchemy+LLC', '5,000+', None, 'holmes@nerdalchemy.com']}
+{'com.ryandavid.knowyourbiblecharacters': ['Know Your Bible Characters (O.T.) Game 2019', 'Fun-Factory', '10,000+', 'https://quickappninja.com/game-privacy-policy.htm', 'ilovefunfactory@gmail.com']}
+{'com.bluestonesmedia.sweetwrestlingdivas': ['Wrestling Superstars Diva Quiz', 'Blue+Stones+Dev.+Arena', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'bluestonesmedia@gmail.com']}
+{'com.quizquestionsenglishgrammartest': ['English Grammar - Quiz Games', 'Quizzoulicious:+Test+Your+Smart', '10,000+', 'https://quizzoulicious.wixsite.com/quizzoulicious', 'quizzoulicious@gmail.com']}
+{'com.bergman.quemsoueu': ['Who am I? (Biblical)', '6681025014292303495', '500,000+', 'http://appsbergman.com/', 'samuel-bergman@hotmail.com']}
+{'com.rollingpanda.guessthelogo.quiz.iconmania': ['Guess the Logo Quiz – Ultimate Logo Trivia', 'Rolling+Panda+Arts', '5,000+', 'http://rollingpandaarts.blogspot.in/2017/10/privacy-policy.html', 'hello@rolling-panda.com']}
+{'com.dimemishkov.starwarshardestquiz': ['The Hardest Star Wars Quiz', 'J+%26+T+apps', '1,000+', 'http://quickappninja.com/game-privacy-policy.html', 'dime.mishkov@gmail.com']}
+{'com.socuriom.socuriom': ['Guess the Dc Logo!', 'Socurio+M', '1,000+', None, 'saianeesh01@gmail.com']}
+{'com.guess.lyrics.pop.quiz1': ['Guess The Lyrics POP Quiz', 'Quiz+Corner', '100,000+', 'http://lvuksanovic90.wixsite.com/quizcorner/privacy-policy', 'vukadinovic1979@gmail.com']}
+{'com.animoca.google.starGirlHalloween14': ['Star Girl: Spooky Styles', '7447928909958861714', '1,000,000+', 'http://stargirlapps.com/', 'support@stargirlapps.com']}
+{'com.bitorchestra.namethatgame': ['Video Game Music Quiz', '8124044864290112388', '10,000+', 'http://www.8bitorchestra.com', 'nick@8bitorchestra.com']}
+{'com.aprende.ingles': ['Habla Inglés con 1100 palabras', 'rdn89', '500,000+', 'http://www.appstop.es/', 'roldan1989@gmail.com']}
+{'com.lcmobileapp.battlelist': ['Battle List - Word Challenge', 'lcmobileapp79', '100,000+', 'http://gabitrueftp1.com/privacy/privacypolicy.htm', 'luis95051@yahoo.com']}
+{'com.asmolgam.famouspeople': ['Famous People - History Quiz about Great Persons', 'Andrey+Solovyev', '1,000,000+', 'https://asmolgam.com/games/', 'asmolgam@gmail.com']}
+{'com.radboogie.rmlq': ['Rock and Metal Logo Quiz', 'Rad+Boogie', '5,000+', None, 'games@radboogie.com']}
+{'com.quizapps.millionaire.es': ['Quien Quiere Ser Millonario 2019 - Preguntas Quiz', '7519557655435453895', '10,000+', 'https://quizaplications.com/millonario.html', 'quiz.aplications@gmail.com']}
+{'com.kokskeks.sfufi.harrytest': ['Hogwarts Quiz', 'Rodriguez+Vl', '1,000+', 'https://quizpolicy.blogspot.com', 'wowrodriga@gmail.com']}
+{'com.truemindgame.quizlogoicehockey': ['Logo Ice Hockey Quiz', 'True+Mind+Game', '100,000+', 'https://truemindgame.gitlab.io/Logo-Ice-Hockey-Quiz/privacy-policy.html', 'truemindgamecontact@gmail.com']}
+{'com.longevitylabs.battleroyaleemotequiz': ['Battle Royale Emote Dance Quiz', '4624381442951499510', '1,000+', 'http://longevitylabs.co', 'longevitylabs@gmail.com']}
+{'appinventor.ai_mazapps444.HVAC_Quiz': ['HVAC Quiz', 'MazApps', '100,000+', 'http://maz-apps.com/', 'mazapps444@gmail.com']}
+{'com.ACA.biblequiz': ['Bible Trivia Quiz Free', 'ACA+Developers', '10,000+', 'http://acadevelopers.com', 'support@acadevelopers.com']}
+{'com.erdeljacsoft.wouldyourather': ['Would You Rather? - Toughest Questions', 'Erdeljac+Apps', '1,000+', 'https://sites.google.com/view/wouldyourather-toughestquestio/home', 'erdeljac.antonio@gmail.com']}
+{'logo.quiz.answers': ['Answers for Logo Quiz', '8605109639613934504', '50,000+', 'https://www.facebook.com/pages/Logo-Quiz-Answers/437538529758413', 'swimator@gmail.com']}
+{'com.buzzpowder.oxquiz': ['OX Quiz Survival Online', '7641566915213611060', '100,000+', 'https://sites.google.com/site/buzzpowder1privacy/', 'buzzpowder1@gmail.com']}
+{'com.softstar.Richman': ['Richman 4 fun', 'SOFTSTAR+ENTERTAINMENT+INC.', '1,000,000+', 'http://www.legame.tw/?4', 'cs@legame.tw']}
+{'com.asmolgam.europe': ['European Countries - Maps, Flags and Capitals Quiz', 'Andrey+Solovyev', '500,000+', 'http://asmolgam.com/geography/', 'asmolgam@gmail.com']}
+{'com.tuneajuegos.minoviavirtual': ['Mi Novia Virtual en Español', 'TuneaJuegos', '50,000+', 'http://www.tuneajuegos.com/privacy-policy/', 'info@franquicia-global.com']}
+{'com.freeapps.terminer.omgtrivia': ['OMG - Best Time Killer Trivia', 'Terminer+-+Free+Apps+and+Games', '5,000+', None, 'sattharzakeer@gmail.com']}
+{'info.starfish.d': ['Starfish Reality', 'Ovals+World', '100+', 'http://bit.ly/2EczTzE', 'yulia.zyilkova@bk.ru']}
+{'com.us.geography.quiz.geo.trivia': ['US Geography Quiz – American Geo Quiz Trivia', 'Smart+Quiz+Apps', '5,000+', 'https://smartquizapps.wixsite.com/privacy-policy', 'smartquizappsdev@gmail.com']}
+{'com.alexagame.carbrand': ['Guess the Car Brand 2018 !', 'AlexaGames', '500,000+', None, 'alexayuf@gmail.com']}
+{'com.appsvatika.quizapp': ['QuizApp : Free Trivia Questions.', 'AppsVatika', '1,000+', 'http://appsvatika.com', 'appsvatika@gmail.com']}
+{'com.aplicacionmovil.juegofotospalabra': ['4 Fotos 1 Palabra (Nuevo)', '4917733371518451424', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'german-gonz@hotmail.com']}
+{'com.MegaQuiz.GameCharacters': ['Guess the Game Character Quiz', 'Mega+Quiz+Games', '10,000+', 'https://heynaugames.com/privacypolicy', 'megaquizgames@gmail.com']}
+{'com.tuneajuegos.miamigavirtual': ['Mi Amiga Virtual en Español', 'TuneaJuegos', '10,000+', 'http://www.tuneajuegos.com/privacy-policy/', 'info@franquicia-global.com']}
+{'com.namoideas.guess.the.restaurant': ['Guess the Restaurant 2', 'Namo+Ideas', '10,000+', None, 'namoideas@gmail.com']}
+{'com.nigmalab.logoquiz3d': ['3D Logo Quiz', 'NigmaLab', '100,000+', 'http://www.nigmalab.com', 'nigmalab@gmail.com']}
+{'com.vvgames.adivinalacanciondereggaeton2018': ['Guess the reggaeton 2018 song', 'V%26V+Games', '10,000+', 'http://veigames.blogspot.com/', 'margaritaportalrivera@gmail.com']}
+{'com.edustudionu.funbrainmathpuzzles': ['Fun Brain Math Puzzles', '5378383302081288834', '100+', 'https://docs.google.com/document/d/1AvITNijDAFbSgeTBZgTxZe2xJqAQWmrhy1MRudYHBcs/edit?usp=sharing', 'edustud10appsendok@gmail.com']}
+{'com.smartsitestudio.bible': ['Holy Bible Quiz - Hours of Fun', 'Ivan+M', '10,000+', 'http://smartsitestudio.com/', 'info@smartsitestudio.com']}
+{'ru.fnight.ponyquiz': ['Pony Quiz', '8643011923864802955', '10,000+', 'https://vk.com/fnight', 'sysanov@mail.ru']}
+{'com.asmolgam.flowers': ['Flowers - Botanical Quiz about Beautiful Plants', 'Andrey+Solovyev', '100,000+', 'http://asmolgam.com/games/', 'asmolgam@gmail.com']}
+{'com.wFriendsTVShowTrivia_5333275681': ['Guess What- Friends Triva', 'The+False+God,+Inc', '10,000+', 'http://www.appsgeyser.com/privacy/app/', 'thefalsegod3007@gmail.com']}
+{'com.tgw.donttouch': ["Don't Touch The Red Button!", '6974500422961138818', '1,000+', 'http://www.tgwgames.com', 'contact@tgwgames.com']}
+{'ua.nslteam.ww2quest': ['WW2 Quiz (World War 2 History)', 'NSL+team', '50,000+', 'http://nsldevelopment.besaba.com/', 'nsldevelopers@gmail.com']}
+{'com.cagemyrv.jeopardyscorekeeper': ['Score Keeper for Jeopardy', 'CageMyRV', '5,000+', None, 'stefanbfritz@gmail.com']}
+{'com.yiyou.game.trickythree': ['Tricky Challenge 3', 'Yiugame', '500,000+', 'http://173.199.115.184/privacy.html', 'lihongyang@yiugame.com']}
+{'com.SmallFactory.ProjectKPOP': ['Kpop Quiz:Guess the Kpop', 'Small+Factory', '50,000+', 'https://twitter.com/small_factorygo', 'littlex2factory@gmail.com']}
+{'com.hotarugames.thesupernaturaltriviagame': ['Supernatural Trivia Game (Unofficial)', 'HotaruGames', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'stephanie@hotarucs.com']}
+{'com.ArcticGameStudios.TrivialTrivia': ['Trivial Trivia - Family Fun', 'Arctic+Game+Studios', '5,000+', 'http://arcticgamestudios.com/', 'service.arcticgamestudios@gmail.com']}
+{'com.markdelavictoria.guessthedreamworksanimation': ['Guess the Dreamworks Animation', 'Markie%26Wynie', '1,000+', 'https://quickappninja.com/game-privacy-policy.html', 'markallendelavictoria@gmail.com']}
+{'com.fjimenez.resuelveacertijos': ['Resuelve Acertijos - adivinanzas y rompecabezas', '5724470991251012704', '1,000,000+', 'https://www.youtube.com/c/ResuelveAcertijosJuegodeplaystore', 'resuelveacertijos@gmail.com']}
+{'com.gasax.ffquiz': ['Free Fire Quiz - Ponte a prueba', '7905065862575971257', '1,000+', 'https://carlosgasa.github.io/json_api_images/Privacy%20Policy.pdf', 'cgalindo.yunius@gmail.com']}
+{'com.mukeshlekhak.guessthepokemon': ['Guess the Pokemon', 'Softmissile', '1,000+', 'http://www.mukeshlekhak.com.np', 'freelancernepal143@gmail.com']}
+{'com.zenzen.quiztriviabenten': ['Quiz for Ben 10', 'ZEN+ZEN', '10,000+', None, 'diperal@gmail.com']}
+{'com.bmllc.rebus': ['Rebus Logic Game', 'Bosphorus+Mobile+LLC', '1,000+', 'https://bosphorusmobile.com', 'store@bosphorusmobile.com']}
+{'com.pocketalpha.quiz.got': ['You Know Nothing: Game of Thrones Quiz', 'Pocket+Alpha', '1,000+', 'https://pocketalphaapps.wixsite.com/pocketalpha/blog/you-know-nothing-game-of-thrones-fan-quiz', 'pocketalphaapps@gmail.com']}
+{'com.cretudaniel.guesstherobloxgame': ['Guess the Roblox Game', 'Cretu+Daniel', '500+', None, 'noname@mail.com']}
+{'com.ClickAndPlay.TrueOrFalseENG': ['True or false', 'Rodny', '1,000+', None, 'j.suchomel3702@gmail.com']}
+{'com.simcoachgames.signaling': ['Construction Crane Signals', '8303261579726805387', '100+', 'http://www.simcoachgames.com/', 'android@etcedu.com']}
+{'com.gempro.CubicMahjong': ['Cubic Mahjong 3D', 'Apps+Gempro', '10,000+', 'https://www.facebook.com/GemproGame', 'omnideas@gmail.com']}
+{'com.aztrivia.music_trivia_1990s': ['1990s Music Trivia', 'AZ+Trivia', '1,000+', 'http://www.aztrivia.com', 'brett@aztrivia.com']}
+{'pl.swiatquizu.marvelquiz.android': ['Quiz for Marvel', 'World+of+Quiz', '10,000+', 'http://netstep.pl/apps/privacy-policy.html', 'netstep.gamedev@gmail.com']}
+{'com.markdelavictoria.guesstheavengers': ['Marvel Avengers', 'Markie%26Wynie', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'markallendelavictoria@gmail.com']}
+{'com.crowdedspaceinc.triviapolinesios': ['Polinesios Trivia', 'Crowdedplace', '100,000+', 'https://quickappninja.com/game-privacy-policy.html', 'deviceservicehelp@gmx.com']}
+{'com.jbr.hpquizv3': ['Fanquiz for Harry Potter', '6041626141630741910', '500,000+', 'http://plus.google.com/117129321306148602150', 'bjoern.rump93@gmail.com']}
+{'com.mirigames.adivina_soy_luna_juego': ['Adivina el personaje de Soy Luna', 'Mirigames', '5,000+', None, 'mirigames2020@gmail.com']}
+{'pl.swiatquizu.wrestlersquiz.android': ['Guess The Wrestler - Free Wrestling Quiz Game', 'World+of+Quiz', '1,000+', 'http://netstep.pl/apps/privacy-policy.html', 'netstep.gamedev@gmail.com']}
+{'com.guesscar.hotwheels': ['Hot Wheels: Guess The Car', '4954553893565434824', '10,000+', 'http://awetapps.blogspot.com', 'awetapps@gmail.com']}
+{'org.cambridgeenglish.bravi.quiz': ['Quiz your English', '7925454854089648018', '500,000+', 'http://www.cambridgeenglish.org', 'apphelp@cambridgeenglish.org']}
+{'com.spongetrivia.quizappnew': ['UnOfficial Spongebob Square Pants Trivia Game Quiz', 'Man+Of+War+Trivia', '500+', 'https://www.facebook.com/manofwartrivia/', 'stanescu.alin91@yahoo.com']}
+{'com.name.the.song.music.quiz.game': ['Name The Song Music Quiz Game', 'Smart+Quiz+Apps', '5,000+', 'https://smartquizapps.wixsite.com/privacy-policy', 'smartquizappsdev@gmail.com']}
+{'com.ngocmzjc.depyomkf.trainnhwpvq1009': ['1009 Game LBmzjc PVyomkf World', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.floppy.fanquizpoke': ['Quiz Poke', 'Floppy', '100,000+', 'http://loleros.esy.es/subidas/privacy_policy_qp.html', 'floppypc@gmail.com']}
+{'com.quizflix.trivia.quiz': ['Quizflix: General Knowledge Trivia Quiz Game 2019', 'Quizflix', '1,000+', 'http://www.quizflix.co.uk/', 'info@quizflix.co.uk']}
+{'hmas.category.quiz': ['Category Quiz (Trivia)', 'bauchschuss_deluxe', '1,000,000+', 'http://www.facebook.com/categoryquiz', 'categoryquiz@live.at']}
+{'com.longevitylabs.guesstheshoequiz': ['Guess the Shoe', '4624381442951499510', '1,000+', 'http://longevitylabs.co', 'longevitylabs@gmail.com']}
+{'com.CarrotCompany.AnimeOpeningQuiz': ['Anime Opening Quiz', 'Carrot+Company', '10,000+', 'https://vk.com/carrrotcompanycc', 'carrotorangelike@gmail.com']}
+{'com.qliq.doesshelikeme': ['Does She Like Me? Quiz Master', '6350897758177666039', '10,000+', 'http://facebook.com/qliqhq', 'support@qliqhq.com']}
+{'com.quizapps.millionaire.pl': ['Milionerzy 2019 - quiz polska wersja Free', '7519557655435453895', '50,000+', 'https://quizaplications.com/milionerzy.html', 'quiz.aplications@gmail.com']}
+{'com.KitMew.MyKpopQuiz': ['Kpop Quiz PRO', 'KitMew', '100,000+', None, 'kitmewxx@gmail.com']}
+{'com.lcmobileapp.guesstheyoutubers': ["Who's the Youtuber?", 'lcmobileapp79', '10,000+', 'http://gabitrueftp1.com/privacy/privacypolicy.htm', 'luis95051@yahoo.com']}
+{'com.raubtiersquad.adivinaelyoutuber': ['Adivina el Youtuber', 'FAGON+GAMES', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'facundo_gonzalez7@hotmail.com']}
+{'com.brainfall.brainfall': ['BrainFall', 'BrainFall+Media', '10,000+', 'http://www.brainfallmedia.com', 'accounts@brainfall.com']}
+{'com.ngochksf.depzppja.traiwocxrsb1169': ['1169 Game OIhksf EQzppja Story', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocerhq.depdstbs.traistgmnox1014': ['1014 Game UYerhq SVdstbs Story', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocqxod.deplckma.traizzmrapc1010': ['1010 Game OUqxod TJlckma Maria Ozava', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.tututuApps.BTSMUSICQUIZ': ['BTS MUSIC QUIZ', 'tututu+Apps', '5,000+', 'https://vk.com/id72804302', 'nikzakom@gmail.com']}
+{'com.indroidsoft.ultimatequizforfriends': ['Ultimate Quiz for FRIENDS', 'INDroid+Soft', '10,000+', 'https://sites.google.com/view/ultimate-quiz-for-friends/privacy-policy', 'indroidsoft@gmail.com']}
+{'com.trivnow.app': ['Trivnow - Trivia Night', 'TrivNow+LLC', '1,000+', 'https://trivnow.com', 'contact@trivnow.com']}
+{'com.longevitylabs.tangatestyourmind': ['uLOL - Test Your Dirty Mind', '4624381442951499510', '500+', 'http://longevitylabs.co', 'longevitylabs@gmail.com']}
+{'com.mlbfanquiz.mlbfanquiz': ['MLB Fan Quiz', '6883674820441526627', '100+', 'http://www.sportsfanquiz.com', 'robbieelias1@gmail.com']}
+{'com.drspower.battleroyalweaponquiz': ['Battle Royale Weapon Quiz 2', 'DRS+GOLD', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'drspower12@gmail.com']}
+{'emoji.quiz.scratch.logo.guess.puzzle': ['Emoji Quiz. Scratch and guess trivia games', '4898984495339363497', '5,000+', 'http://enrasoftapps.blogspot.com/2018/05/eu-user-consent-policy.html', 'enrasoft@gmail.com']}
+{'com.aztrivia.tv_trivia_1980s': ["1980's TV Trivia", 'AZ+Trivia', '1,000+', 'http://www.aztrivia.com', 'brett@aztrivia.com']}
+{'com.sopelus.lovetest': ['Who will you marry', 'Sopelus+Studio', '10,000+', 'https://dogwiki.ru/privacy_policy_sopelus.html', 'developer.sopelus@gmail.com']}
+{'com.biblia.para_chicos': ['La Biblia para Niños - Aprender de Dios', 'Trivia-Quiz', '1,000+', 'http://www.3vecestu.net/privacidad.txt', 'trivias2030@gmail.com']}
+{'com.mtarapower.iqapp': ['The Unbeatable Game - IQ Tricky Test', '5946367015670781013', '500,000+', 'http://mtarapower.com/', 'dilip.semwal@mtarapower.com']}
+{'com.zawie.wouldyourather': ['Would you rather- Fortnite Quiz', 'Zawie+Apps', '5,000+', 'http://zawie.cba.pl/wyrf.html', 'zar.kuba@gmail.com']}
+{'com.completa.rima': ['Completa la rima', 'ShaNa', '10,000+', 'https://www.facebook.com/LaBancaRapera/', 'chaparrando@gmail.com']}
+{'com.aztrivia.tv_trivia_1970s': ['1970s TV Trivia', 'AZ+Trivia', '1,000+', 'http://www.aztrivia.com', 'brett@aztrivia.com']}
+{'com.quiz.guess.vampire.diaries': ['Guess the Character The Vampire Diaries quiz', 'Geek+Play', '1,000+', 'https://quickappninja.com/game-privacy-policy.html', 'maestrosgeeks@gmail.com']}
+{'com.keavila.theofficequotequiz': ['The Office: Quote Quiz (Official)', 'kevin_avila', '10+', None, 'kavila@cargas.com']}
+{'nextDayService.Quiz.BTS_QUIZ_RE': ['BTS QUIZ', '%EB%82%B4%EC%9D%BC%EB%8F%84%EC%9A%B0%EB%AF%B8', '100,000+', None, 'nextdayhelper@gmail.com']}
+{'com.licketycut.hqhelper': ['HQ Trivia Helper', '5564280905307453336', '10,000+', 'http://www.licketycut.com/apps/', 'licketycutapps@gmail.com']}
+{'com.yuyu.guesspokemon': ['Guess The Pokemon Quiz', 'Yuyu+School', '10,000+', 'http://appsmoment.net/google/Guess%20The%20Pokemon%20Quiz.html', 'dengyilin7@gmail.com']}
+{'com.nbafanquiz.nbafanquiz': ['NBA Fan Quiz', '6883674820441526627', '500+', 'http://www.sportsfanquiz.com', 'robbieelias1@gmail.com']}
+{'com.eshanisenavirathne.guesstheoriginalscharacters': ['The Originals TV Show  Quiz (Fan Made)', 'Elixir+Games', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'chaturaravinda@gmail.com']}
+{'com.keenangrant.guessthepokemontrivia': ['Guess the Pokemon Trivia', 'app-one', '1,000+', 'https://quickappninja.com/game-privacy-policy.html', 'barsisqo@gmail.com']}
+{'com.bmllc.songpics': ['4 Pics 1 Song - Lyrics Quiz', 'Bosphorus+Mobile+LLC', '1,000+', 'https://bosphorusmobile.com', 'store@bosphorusmobile.com']}
+{'com.discipleskies.triviawheel': ['Science Trivia Wheel', '4927475277388535854', '10,000+', 'http://www.discipleskies.com', 'support@discipleskies.com']}
+{'com.top.nineties.music.trivia.quiz.game': ['Top 90s Music Trivia Quiz Game', 'Smart+Quiz+Apps', '10,000+', 'https://smartquizapps.wixsite.com/privacy-policy', 'smartquizappsdev@gmail.com']}
+{'com.mary.jeanphilippe.capitale': ['Capitals of the countries - Quiz', 'Jean-Philippe+MARY', '50,000+', 'https://jeanphilippemary.wordpress.com', 'jeanphilippe.mary@gmail.com']}
+{'com.sater.fortnitetriviaquiz': ['Fortnite Trivia Quiz', 'Sater', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'contact.sater@gmail.com']}
+{'com.alegre.studios.trivialain': ['Trivia Party', 'Alegre+Studios', '10,000+', 'http://alegrestudios.tk', 'alegrecarcamusadevelop@gmail.com']}
+{'com.chemistry.game.fun.trivia.science.quiz': ['Chemistry Quiz Games - Fun Trivia Science Quiz App', 'Smart+Quiz+Apps', '50,000+', 'https://smartquizapps.wixsite.com/privacy-policy', 'smartquizappsdev@gmail.com']}
+{'com.MonsterPlanet.QuizPlanetGameofThrones': ['QUIZ PLANET - Game Of Thrones!', '6735675002523082167', '10,000+', 'http://www.monsterplanet.co.kr', 'monpl77@monsterplanet.co.kr']}
+{'com.larrywolf.walkingdeadquiz': ['The Walking Dead Quiz', 'Larry+Berry', '100+', 'https://www.youtube.com/channel/UCfcCPl9P-2iLGXzguqU-77g', 'larry_wolf08@yahoo.com']}
+{'com.alexagame.carlogo': ['Guess the Car Logo 2018 !', 'AlexaGames', '50,000+', None, 'alexayuf@gmail.com']}
+{'air.com.peoresnada.casimillonario': ['Almost Millionaire', '7190698173876843750', '1,000,000+', 'http://peoresnada.com', 'xmorpher_peoresnada@yahoo.com']}
+{'com.asmolgam.worldcities': ['Cities of the World Photo-Quiz - Guess the City', 'Andrey+Solovyev', '500,000+', 'http://asmolgam.com/geography/', 'asmolgam@gmail.com']}
+{'com.bonaliza.rollingball': ['Rolling Ball Bounce on the sky', 'WellDone+Apps', '100,000+', 'https://www.facebook.com/notes/welldone-apps/rolling-ball-bounce-on-the-sky/560342061065249/', 'welldoneapps@hotmail.com']}
+{'com.Junkyard.whichonereal': ['Which One is the Real?', 'Junkyard', '500+', 'https://junkyardapp.blogspot.com/2018/10/which-one-is-real-privacy-policy.html', 'junkyardplaystore@gmail.com']}
+{'com.anjaostrbenka.harrypottercharacterquiz': ['Harry Potter character quiz', 'Anja', '10,000+', 'https://quickappninja.com/game-privacy-policy.html', 'miss-fabulous-96@hotmail.com']}
+{'com.mixogames.uodfull': ['Pick & Tick', 'MixoGames+Ltd.', '500+', 'http://mixogames.com', 'support@mixogames.com']}

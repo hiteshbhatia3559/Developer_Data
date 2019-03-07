@@ -1,0 +1,131 @@
+{'com.becloser': ['Be Closer', 'KAYA+APPS+PUB', '100,000+', 'https://kayaapps.com/policy', 'publisherkayaapps@gmail.com']}
+{'com.pink.piano.kid.flower.real.tiles': ['Real Pink Piano - Piano Simulator for Kids', 'kdraa', '50,000+', 'https://sites.google.com/view/pinkpiano/trang-ch%E1%BB%A7', 'kdraa.games@gmail.com']}
+{'com.plusan.azimg.istablu': ['whatsplus 2019 - last seen tracker', 'zatar', '10,000+', None, 'haj.rotwi@gmail.com']}
+{'org.unclewilliam.hyti': ['Ava - Kid Mode Lock, Kid Security, Screen Time App', 'Screen+Time+with+Ava+%26+UncleWilliam.org', '5,000+', 'http://www.screentimewithava.com', 'help@unclewilliam.org']}
+{'com.bottlesodes': ['Bottlesodes TV', 'Bottlesode+Films+Inc.', '50+', 'http://www.bottlesodes.tv/contact', 'ottsupport@vimeo.com']}
+{'com.securly.pnphub': ['Securly Home', 'Securly+Inc.', '10,000+', 'http://www.securly.com', 'app-feedback@securly.com']}
+{'org.kulturecity.app': ['KultureCity', 'KultureCity', '1,000+', 'http://www.kulturecity.org', 'support@kulturecity.org']}
+{'com.wachanga.babycare': ['Baby Breastfeeding Tracker. Newborn Baby Care App', 'Wachanga', '500,000+', 'https://wachanga.com/page/privacy', 'team@wachanga.com']}
+{'com.babyphoto': ['Baby Photo', 'BabyPhotoApp.com', '10,000+', 'http://www.babyphotoapp.com/', 'support@babyphotoapp.com']}
+{'com.grand.robot.transform.tech.comic.topusrobot.policecarshooting.transform.cityrescue.battle.game': ['US Robot Police Car Transforming 19', 'Robot+Transform+Tech', '10,000+', 'https://robottransformtech.wixsite.com/website/about', 'Robottransformtech@gmail.com']}
+{'com.divisity.kidscraftideas': ['Kids Craft Ideas', 'Divisity', '500,000+', 'http://divisity.com', 'us@divisity.com']}
+{'com.johny.johnyjohnyyespapa': ['Johny Johny Yes Papa Nursery Rhyme - offline Video', 'KidsZooly', '1,000,000+', 'http://babyzooly.blogspot.com', 'babyzooly@gmail.com']}
+{'com.sentry.kid': ['Sentry Kid', 'LidrTech+Ltd.', '10,000+', 'https://www.sntry.io/', 'developer@sntry.org']}
+{'com.grdhmae.gameandtoysfamilyfunny': ['Game & Toys Family Funny Review', 'Family+Video+Gaming', '10,000+', 'https://toyreviewvideo.blogspot.com/2018/09/privacy-policy-of-toys.html?fbclid=IwAR1O-OlpdlcBAZR3plo0iwRiGNBQPaKM-Jii3vbgAFnLmv6HN-0DvCJrqNs', 'chymkhongcanh123@gmail.com']}
+{'net.baby.doll.song4': ['New Cooking Toys Videos', 'SYG+ANAK', '1,000,000+', None, 'pracemol@yahoo.com']}
+{'com.pink.piano.kid.flower.real.tiles': ['Real Pink Piano - Piano Simulator for Kids', 'kdraa', '50,000+', 'https://sites.google.com/view/pinkpiano/trang-ch%E1%BB%A7', 'kdraa.games@gmail.com']}
+{'com.appclose.androidapp': ['AppClose - the #1 co-parenting app', 'AppClose,+Inc', '50,000+', 'https://appclose.com/', 'talktous@appclose.com']}
+{'com.plusan.azimg.istablu': ['whatsplus 2019 - last seen tracker', 'zatar', '10,000+', None, 'haj.rotwi@gmail.com']}
+{'org.blubblub.app.speechblubs': ['Speech Blubs: Language Therapy', 'Blub+Blub+Inc.', '10,000+', 'https://blubblub.org/', 'hi@blubblub.org']}
+{'ar.com.megaingenieria.emobi.locator': ['Family Locator GPS Tracker Child - Chat - ToDo 360', 'emobi.com.ar', '10,000+', 'http://emobi.com.ar/', 'emobi.com.ar@gmail.com']}
+{'app.geoloc': ['GeoLocator Parental Control. Child Safety Location', 'GeoLoc', '100,000+', 'https://geoloc.app', 'q@geoloc.app']}
+{'com.bitguardian.parentalcontrol': ['Bit Guardian Parental Control - Secure & Safe Kids', '5992089298965809645', '10,000+', 'https://parentalcontrol.bit-guardian.com/', 'gplay@bit-guardian.com']}
+{'com.fantasticactiongames.ExtremeCarStunts': ['Car Stunts : Extreme Crazy Car Stunts', '8512667409063377145', '50,000+', 'https://fantasticactiongames.blogspot.com/2018/11/privacy-policy.html', 'ramzansh111@yahoo.com']}
+{'com.baby.names.book.free': ['Baby Names Book for Free', 'Free+Internet+Radio+Online+AM+FM++AbuelaJuanApps', '1,000+', 'https://myappterms.com/reader.php?lang=en', 'abuelajuanapps@gmail.com']}
+{'net.creaplay.nursingtimer': ['Nursing Timer Tracker', 'Creaplay', '500,000+', 'http://www.creaplay.net', 'jhcho@creaplay.net']}
+{'com.weebly.faebir.safebabymontrial': ['Baby Monitor', 'faebir', '100,000+', 'http://faebir.weebly.com', 'faebir.sbm@gmail.com']}
+{'com.tokyocoldJewel.diamondgame.toyBoyMatch3': ['Toy Match', 'Gems+Candy+Candy', '10,000+', 'https://sites.google.com/site/gemscandycandy/', 'gemscandycandy@gmail.com']}
+{'com.inikworld.growthbook': ['Growth Chart, Development Milestones & Vaccination', 'Growth+Book', '10,000+', 'https://www.growthbookapp.com', 'growthbookapp@gmail.com']}
+{'com.locker.kids': ['Parental Control - App Time Limit - Remote Lock', 'Jane+Moore+Group', '10,000+', 'https://sites.google.com/view/kids-locker-privacy', 'moorestacey26@gmail.com']}
+{'com.seacloud.bc': ['Baby Connect (activity log)', 'Seacloud+Software', '100,000+', 'https://www.babyconnect.com', 'support@babyconnect.com']}
+{'com.momsoncall.scheduler': ['Moms on Call Scheduler', 'Moms+on+Call+LLC', '1,000+', 'https://momsoncall.com', 'store@momsoncall.com']}
+{'uk.co.christianhypnobirthing.androidoverview': ['Christian Hypnobirthing', 'Tara+Newton-Wordsworth', '500+', 'http://www.christianhypnobirthing.com', 'info@christianhypnobirthing.com']}
+{'com.urbandroid.babysleep.unlock': ['Baby Sleep PRO', '9219179332656617922', '10,000+', 'https://sites.google.com/site/sleepasandroid/', 'petr@nalevka.com']}
+{'com.fourteenlox.android': ["Who's Your Daddy? First Time Dad's Pregnancy Guide", 'Who%27s+Your+Daddy', '1,000+', 'http://www.whosyourdaddyapp.com/', 'whosyourdaddyplaystoreapp@gmail.com']}
+{'com.babyled.kitchen': ['Baby Led Kitchen', 'fluffyegg', '1,000+', 'https://babyledkitchen.co.uk', 'jo@babyledkitchen.co.uk']}
+{'com.friendpackages.friendlien': ['Friendliens', 'Friendliens', '50+', 'http://www.Friendliens.club', 'friendliennetwork@gmail.com']}
+{'com.MilkStack.myapp': ['MilkStack', 'Dylan+Standridge', '100+', 'https://sites.google.com/site/milkstackprivacypolicy/privacy', 'milkstackapp@gmail.com']}
+{'au.com.penguinapps.android.babyfeeding.client.android.pro': ['Feed Baby Pro - Baby Tracker', '8558223608151028037', '50,000+', 'https://www.feedbaby.com.au', 'support@penguinapps.com.au']}
+{'net.nannynotes': ['NannyNotes - Baby tracker and child daily sheet', 'Nathaniel+Keeley', '1,000+', 'http://www.nannynotes.net', 'team@nannynotes.net']}
+{'net.cleverbit.Nature': ['Nature for Kids - Flashcards', 'CLEVERBIT', '10,000+', 'http://cleverbit.net', 'info@cleverbit.net']}
+{'com.hifamily.hidaddy': ['HiDaddy', 'HiMommy', '1,000+', 'https://www.freeprivacypolicy.com/privacy/view/c2d7110be5326786ff30f54ad13e9766', 'support@himommyapp.com']}
+{'com.domustechnica.tww.br': ['As Semanas Magicas', 'Domus+Technica', '10,000+', 'http://www.thewonderweeks.com', 'support.android@thewonderweeks.com']}
+{'com.domustechnica.tww.tr': ['Harika Haftalar', 'Domus+Technica', '1,000+', 'http://www.thewonderweeks.com', 'support.android@thewonderweeks.com']}
+{'com.aquro.littlefoodie': ['Little Foodie', 'Littlefoodie', '500+', 'http://www.littlefoodie.se', 'info@littlefoodie.se']}
+{'com.ionicframework.myapp309864': ['THE RED CARD BLUE CARD GAME', 'THE+RED+CARD+BLUE+CARD+GAME', '10+', 'http://www.redcardbluecardgame.com', 'redcardbluecardgame@gmail.com']}
+{'com.JLB.DairyBar': ['DairyBar', 'Jennifer+Brandes', '50+', 'http://www.dairybarapp.com', 'support@dairybarapp.com']}
+{'com.BabyName.pro': ['Baby Name Together PRO', 'Linkinet', '500+', 'http://www.babynametogether.com/', 'contact@linkinet.eu']}
+{'com.momsoncall.TBD': ['Toddler By Design', 'Moms+on+Call+LLC', '100+', 'https://momsoncall.com', 'store@momsoncall.com']}
+{'com.lenastudio.nuttri.pro': ['Nuttri Plus - Baby Food: Guide to starting solids', 'MultiMension+Inc.', '10+', 'https://www.nuttriapp.com/', 'nuttri.app@gmail.com']}
+{'innmov.babymanager.awesome': ['Baby Manager Awesome - Breastfeeding Tracker', 'Baby+Manager+Ltd.', '1,000+', 'http://babymanagerapp.com', 'innmovsoftware@gmail.com']}
+{'com.mythicowl.parentinghero': ['Parenting Hero - Become a wiser parent', '5555280587639828558', '1,000+', 'http://www.mythicowl.com', 'contact@mythicowl.com']}
+{'cz.master.penny': ['Baby Monitor Annie PRO: Video Cloud Nanny Camera', '7473133955449750675', '100+', 'https://new.anniebabymonitor.com/', 'support@anniebabymonitor.com']}
+{'com.jamesots.android.contractiontimerdonate': ['Contraction Timer Donate', 'James+Ots', '1,000+', 'http://jamesots.com/android', 'android@jamesots.com']}
+{'com.birthdaypartychecklistpro.app.birthdaypartychecklistpro': ['Birthday Party Checklist (PRO)', '7900570662535820867', '5+', 'http://s-ka-paid.com/apps/', 'skapaid@gmail.com']}
+{'oryx.kortex.locateme': ['CheckOnMe', '7026272823489449757', '10,000+', 'https://getoryx.tk/', 'hasan.oryx@gmail.com']}
+{'com.daycaredailiesapp': ['DaycareDailies - Baby tracker and daily sheet', 'Nathaniel+Keeley', '500+', 'http://www.daycaredailiesapp.com', 'team@daycaredailiesapp.com']}
+{'org.findmykids.app': ['Find My Kids: Child GPS-watch & Phone Tracker', '8499633777811096304', '5,000,000+', 'https://findmykids.org', 'support@findmykids.org']}
+{'org.blubblub.app.speechblubs': ['Speech Blubs: Language Therapy', 'Blub+Blub+Inc.', '10,000+', 'https://blubblub.org/', 'hi@blubblub.org']}
+{'com.glow.android.nurture': ['Pregnancy App & Baby Bump Tracker - Glow Nurture', '5645706041873155457', '500,000+', 'https://glowing.com', 'info@glowing.com']}
+{'com.saferkid.parentapp': ['Text Monitoring Parental Control App: SaferKid', 'SaferKid,+Inc.', '10,000+', 'https://www.saferkid.com', 'support@saferkid.com']}
+{'com.glow.android.baby': ['Glow Baby Breastfeeding Tracker, Nursing Timer App', '5645706041873155457', '100,000+', 'https://glowing.com', 'info@glowing.com']}
+{'com.lifecake.android': ['Lifecake. Childhood lives here', 'Lifecake+LTD', '1,000,000+', 'http://www.lifecake.com', 'support@lifecake.com']}
+{'com.sentry.parental': ['Sentry Parental Control', 'LidrTech+Ltd.', '50,000+', 'https://www.sntry.io', 'support@sntry.io']}
+{'con.netspark.mobile': ['Parental Control Light', 'NetSpark', '100,000+', 'https://www.netsparkmobile.com/', 'support@netsparkmobile.com']}
+{'com.liveyap.timehut': ['Peekaboo Moments – Babybook, memories & moments', 'Bithouse,Inc.', '1,000,000+', 'http://peekaboomoments.com', 'contact@timehut.us']}
+{'com.bitguardian.parentalcontrol': ['Bit Guardian Parental Control - Secure & Safe Kids', '5992089298965809645', '10,000+', 'https://parentalcontrol.bit-guardian.com/', 'gplay@bit-guardian.com']}
+{'com.huckleberry_labs.app': ['Huckleberry: Baby Sleep, Diaper & Feeding Tracker', 'Huckleberry+Labs', '10,000+', 'http://www.huckleberrysleep.com', 'support@huckleberry-labs.com']}
+{'com.becloser': ['Be Closer', 'KAYA+APPS+PUB', '100,000+', 'https://kayaapps.com/policy', 'publisherkayaapps@gmail.com']}
+{'com.mcafee.security.safefamily': ['Safe Family – Screen Time & Parental Control App', 'McAfee+LLC', '100,000+', 'http://family.mcafee.com/', 'Mobile_Support@mcafee.com']}
+{'com.nighp.babytracker_android': ['Baby Tracker - Newborn Feeding, Diaper, Sleep Log', 'NIGHP+SOFTWARE', '500,000+', 'http://nighp.com/babytracker/babytracker_android.html', 'babytracker@nighp.com']}
+{'com.seacloud.bc': ['Baby Connect (activity log)', 'Seacloud+Software', '100,000+', 'https://www.babyconnect.com', 'support@babyconnect.com']}
+{'com.kaspersky.safekids': ['Parental Control & Kids GPS: Kaspersky SafeKids', '4802704994144789464', '500,000+', 'http://www.kaspersky.com', 'mobilesupport@kaspersky.com']}
+{'com.eset.parental': ['ESET Parental Control', '7608143481226674529', '100,000+', 'http://www.eset.com', 'parental@eset.com']}
+{'app.geoloc': ['GeoLocator Parental Control. Child Safety Location', 'GeoLoc', '100,000+', 'https://geoloc.app', 'q@geoloc.app']}
+{'com.ionic.soaringsafe': ['SoaringSafe Parental Control App and App Blocker', 'HJB+Ventures', '1,000+', 'http://www.soaringsafe.com', 'support@soaringsafe.com']}
+{'com.lenastudio.nuttri.pro': ['Nuttri Plus - Baby Food: Guide to starting solids', 'MultiMension+Inc.', '10+', 'https://www.nuttriapp.com/', 'nuttri.app@gmail.com']}
+{'com.becloser': ['Be Closer', 'KAYA+APPS+PUB', '100,000+', 'https://kayaapps.com/policy', 'publisherkayaapps@gmail.com']}
+{'com.babycenter.pregnancytracker': ['Pregnancy Tracker & Countdown to Baby Due Date', 'BabyCenter', '10,000,000+', 'http://www.babycenter.com', 'customerservice@babycenter.com']}
+{'com.hp.pregnancy.lite': ['Pregnancy +', '6809109784060370658', '10,000,000+', 'http://www.health-and-parenting.com', 'support@health-and-parenting.com']}
+{'org.pbskids.danieltigerforparents': ['Daniel Tiger for Parents', '8332149447945516079', '100,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'org.findmykids.app': ['Find My Kids: Child GPS-watch & Phone Tracker', '8499633777811096304', '5,000,000+', 'https://findmykids.org', 'support@findmykids.org']}
+{'us.mitene': ['FamilyAlbum - Easy Photo & Video Sharing', '6810769518504152980', '1,000,000+', 'https://mitene.us/', 'support@mitene.us']}
+{'com.amazon.tahoe': ['Amazon FreeTime – Kids’ Videos, Books, & TV shows', 'Amazon+Mobile+LLC', '1,000,000+', 'https://www.amazon.com/gp/product/B01I499BNA/?ref=FTU_AND_GPS', 'feedback-amazon-app-android@amazon.com']}
+{'com.divisity.kidschannels': ['Kids Videos', 'Divisity', '500,000+', 'http://divisity.com', 'us@divisity.com']}
+{'net.baby.doll.song4': ['New Cooking Toys Videos', 'SYG+ANAK', '1,000,000+', None, 'pracemol@yahoo.com']}
+{'com.amila.parenting': ['Baby tracker - feeding, sleep and diaper', '5094777365301165062', '500,000+', 'http://amila.io', 'developers.amila@gmail.com']}
+{'com.nighp.babytracker_android': ['Baby Tracker - Newborn Feeding, Diaper, Sleep Log', 'NIGHP+SOFTWARE', '500,000+', 'http://nighp.com/babytracker/babytracker_android.html', 'babytracker@nighp.com']}
+{'com.jamesots.android.contractiontimer': ['Contraction Timer', 'James+Ots', '1,000,000+', 'http://jamesots.com/android', 'android@jamesots.com']}
+{'com.tmobile.familycontrols': ['T-Mobile® FamilyMode™', 'T-Mobile+USA', '100,000+', 'http://t-mobile.com', 'GooglePlaySupport@T-Mobile.com']}
+{'com.urbansitter.android': ['UrbanSitter - Find Babysitters', '4694825267105963856', '100,000+', 'https://www.urbansitter.com/', 'playstore@urbansitter.com']}
+{'com.appclose.androidapp': ['AppClose - the #1 co-parenting app', 'AppClose,+Inc', '50,000+', 'https://appclose.com/', 'talktous@appclose.com']}
+{'com.glow.android.nurture': ['Pregnancy App & Baby Bump Tracker - Glow Nurture', '5645706041873155457', '500,000+', 'https://glowing.com', 'info@glowing.com']}
+{'mobi4hobby.babynames': ['Baby Names', 'Mobi4Hobby', '100,000+', None, 'mobi4hobby.apps@gmail.com']}
+{'com.grdhmae.gameandtoysfamilyfunny': ['Game & Toys Family Funny Review', 'Family+Video+Gaming', '10,000+', 'https://toyreviewvideo.blogspot.com/2018/09/privacy-policy-of-toys.html?fbclid=IwAR1O-OlpdlcBAZR3plo0iwRiGNBQPaKM-Jii3vbgAFnLmv6HN-0DvCJrqNs', 'chymkhongcanh123@gmail.com']}
+{'com.divisity.kidscraftideas': ['Kids Craft Ideas', 'Divisity', '500,000+', 'http://divisity.com', 'us@divisity.com']}
+{'com.hatchbaby.rest': ['Hatch Baby Rest', 'Hatch+Baby', '50,000+', 'http://www.hatchbaby.com', 'support@hatchbaby.com']}
+{'com.glow.android.baby': ['Glow Baby Breastfeeding Tracker, Nursing Timer App', '5645706041873155457', '100,000+', 'https://glowing.com', 'info@glowing.com']}
+{'com.preemptivetechnologies.daddyup': ['Daddy Up', 'Sycamore+Spur', '50,000+', 'https://www.daddyup.com', 'dev@sycamorespur.com']}
+{'com.johny.johnyjohnyyespapa': ['Johny Johny Yes Papa Nursery Rhyme - offline Video', 'KidsZooly', '1,000,000+', 'http://babyzooly.blogspot.com', 'babyzooly@gmail.com']}
+{'com.pictarine.photoprint': ['Photo Print: Photo Gifts Card, Poster, Canvas', '6264712726613180683', '1,000,000+', 'http://pictarine.com', 'rose@pictarine.com']}
+{'com.orange.memory.game.learn.kids': ['Match Game -  Play & Learn', 'Orange+Studios+Games', '100,000+', 'http://www.orangestudios.wirez.com.ar', 'orangegstudios@gmail.com']}
+{'com.wachanga.babycare': ['Baby Breastfeeding Tracker. Newborn Baby Care App', 'Wachanga', '500,000+', 'https://wachanga.com/page/privacy', 'team@wachanga.com']}
+{'com.sunny.monster.maker': ['Monster Maker', 'Sunny+Kid+Games', '10,000+', 'http://sunny.wirez.com.ar/privacy_policy.html', 'sunnykidgames@gmail.com']}
+{'com.robot.rampage.simulator': ['Robot Rampage Simulator', 'Game+Giant', '10,000+', 'https://gamgiant.blogspot.com/2018/12/game-giant-privacy-policy-we-respect.html', 'naseerah32w@gmail.com']}
+{'paStudio.BabyPanda.toyCrushJourney': ['Toy Home Match', 'Wonder+Mobi+Game', '50,000+', 'https://sites.google.com/view/wondermobi/home', 'sapporocross@gmail.com']}
+{'com.gmail.bigmeapps.formulafeedingandcare': ['BabyAppy: formula feeding, sleep and diapers', 'BigMeApps', '10,000+', 'https://bigmeapps.github.io/PrivacyNotice/', 'formulafeeding.bigmeapps@gmail.com']}
+{'com.sinyee.babybus.vegetable': ['Vegetable Fun', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'app.gpsme': ['Family GPS tracker KidsControl', '6687539553449035845', '100,000+', 'https://kid-control.com', 'help@kid-control.com']}
+{'com.pddring.stickerchart': ['Potty Train Sticker Chart', 'P+Dring', '10,000+', 'http://tools.withcode.uk/sticker', 'dringp@fulford.york.sch.uk']}
+{'apprenticen.pornblockapp': ['Porn Block App', 'Apprenticen', '10,000+', None, 'vipnirala123.vn@gmail.com']}
+{'br.com.rogerionapoleao.acalmabebe': ['Calms Baby With Womb Sound', 'Rog%C3%A9rio+Napole%C3%A3o+Jr.', '100,000+', 'http://rogerionapoleao.com.br', 'rogerionj@gmail.com']}
+{'cz.master.babyjournal': ['Baby Journal: Milestones & Moments, Child Growth', '7473133955449750675', '10,000+', 'http://www.anniebabyjournal.com', 'id.google@master.cz']}
+{'foreignchildrensongs.kocak.com.foreignchildrensongs': ['Children Songs (No Internet)', 'KBLab', '5,000+', None, 'baykoc64@gmail.com']}
+{'com.getgalore.consumer': ['Care.com Explore', 'Galore', '1,000+', 'https://www.care.com/explore', 'max@getgalore.com']}
+{'com.mmproductions.pregnancyChecklist': ['Pregnancy Checklist', 'M.M+Productions', '1,000+', 'http://mmproductionprivacy.blogspot.ro/2017/02/privacy-policy.html', 'mmproductions@yahoo.com']}
+{'com.birthdaypartychecklist.app.birthdaypartychecklist': ['Birthday Party Checklist', '7900570662535820867', '1,000+', 'http://s-ka-paid.com/apps/', 'skapaid@gmail.com']}
+{'com.andromo.dev535138.app530249': ['Como Quedar Embarazada', '4640401199548744772', '50,000+', None, 'francisziliezar@gmail.com']}
+{'com.babynames.baby_names_meaning': ['Bump - Baby name with meanings', 'Pixster+Studio', '100+', 'https://www.pixsterstudio.com/', 'social@pixsterstudio.com']}
+{'com.dwarfstar.fireworkshd': ['Fireworks HD - 3D Fireworks for Kids -', 'DwarfStar', '1,000+', None, 'dwarfstar.dev@gmail.com']}
+{'at.tomdrive.babyshowergameslite': ['Baby Shower Games Lite', '8455971067894986907', '1,000+', 'http://www.tomdrive.at', 'support@tomdrive.at']}
+{'com.labs108.teddy': ['Parentship: Best Coparenting App for happier life!', 'labs108+Inc.', '1,000+', 'http://www.parentship.co', 'parentship@labs108.com']}
+{'com.ombiel.campusm.infantsleep': ['Infant Sleep Info', 'Durham+University', '1,000+', 'http://www.isisonline.org.uk', 'isis.online@dur.ac.uk']}
+{'com.atchoumandco.baby.babyapp': ['Baby Things List', 'Atchoum+%26+Co', '5,000+', None, 'atchoum.and.co@gmail.com']}
+{'com.stewardsofchildren': ['Stewards of Children Toolkit', 'Ericsson+-+eLearning+Team', '1,000+', 'http://www.ericsson.com', 'dhanamurugan.arumugam@ericsson.com']}
+{'com.parenta.parentportal': ['Parent Portal', 'Parenta+Group+Ltd', '5,000+', 'http://www.parenta.com', 'contact@parenta.com']}
+{'easyphone.babymonitor': ['Baby Monitor alarm using phone with audio cries', 'Mariaholepa', '500+', 'http://callreecordooo.blogspot.jp/2017/12/privacy-policy.html', 'khoicuhen@gmail.com']}
+{'com.StatesApps.BreastfeedingTipsGuide': ['Breastfeeding Tips and Guide', 'StatesApps', '5,000+', None, 'michealjohnsonandi@gmail.com']}
+{'how.to.increase.milk.supply.ttf': ['How to Increase Milk Supply - Tips and Knowledge', 'TUTORIFY', '100+', 'https://app-in-minutes.com/application/privacypolicy?id=5bd172d275ade', 'orvalwekawulusanyub@gmail.com']}
+{'infertility.cureget.pregnant': ['Infertility Cure Get Pregnant', 'FluffyCuteApps', '1,000+', 'http://fluffycuteapps.blogspot.com/p/privacy-policy.html', 'ulfaharl13@gmail.com']}
+{'com.Take.Care.Pet.Sugar.tricks.tips': ['Pet Sugar Glider Care Guide', 'Parenting+Pets+Care+Tips', '5+', 'https://sites.google.com/view/parenting-privacypolicy/home', 'parenting.pets.care.tips@gmail.com']}
+{'com.stefanroobol.pregnancyweight': ['Pregnancy Weight Tracker', '9113272601344012936', '10,000+', None, 'roobol@gmail.com']}

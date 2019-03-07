@@ -1,0 +1,1273 @@
+{'com.godaddy.gdm.smartline': ['SmartLine Second Phone Number', 'GoDaddy+Operating+Company,+LLC', '100,000+', 'https://godaddy.com/smartline', 'smartlineandroid@godaddy.com']}
+{'com.squareup.apos': ['Square Appointments', '4878871734928263649', '10,000+', 'https://square.com/help', 'support@squareup.com']}
+{'com.onpoint.cellcast.metropcs': ['MetroGo', 'OnPoint+Digital,+Inc.', '5,000+', 'http://www.mlearning.com', 'aboyette@onpointlearning.com']}
+{'com.steady.steadyapp.com': ['Steady - Find Work. Earn Money', 'Steady+Platform,+Inc.', '100,000+', 'http://steadyapp.com', 'help@steadyapp.com']}
+{'com.windstream.residential': ['MyWin by Windstream', 'Windstream+Communications', '10,000+', 'http://www.windstream.com', 'windstreammobile@gmail.com']}
+{'com.azure.authenticator': ['Microsoft Authenticator', '6720847872553662727', '10,000,000+', 'http://msdn.microsoft.com/en-us/library/azure/dn858223.aspx', 'noreply@microsoft.com']}
+{'com.invoicesimple.contractor.android': ['Contractor estimate & invoice maker', 'Invoice+Simple', '1,000+', 'https://www.invoicesimple.com', 'support@invoicesimple.com']}
+{'com.mobileiron': ['Mobile@Work', 'MobileIron', '1,000,000+', 'http://www.mobileiron.com/android', 'sales@mobileiron.com']}
+{'com.fedex.ida.android': ['FedEx', 'FedEx', '1,000,000+', 'http://mobilesolutions.fedex.com/for-android', 'mobile@fedex.com']}
+{'com.sherpa.npew2019': ['Natural Products Expo', 'Sherpa+Solutions', '1,000+', 'http://www.sherpa-solutions.com/', 'sherpasolutions.android@gmail.com']}
+{'com.usps.myusps_mobile_app_android': ['Informed Delivery®', 'United+States+Postal+Service%C2%AE', '100,000+', 'https://my.usps.com/', 'mobilesupport@usps.gov']}
+{'com.ups.mobile.android': ['UPS Mobile', 'UPS', '5,000,000+', 'http://www.ups.com/android', 'mobiledev@ups.com']}
+{'com.usps': ['USPS MOBILE®', 'United+States+Postal+Service%C2%AE', '1,000,000+', 'http://www.usps.com', 'mobilesupport@usps.gov']}
+{'com.logmein.gotowebinar': ['GoToWebinar', 'LogMeIn,+Inc.', '1,000,000+', 'https://support.logmein.com/gotowebinar', 'gotowebinar-feedback@logmein.com']}
+{'com.sheehyautostores.dealerapp': ['Sheehy Auto Stores', 'Sheehy+Auto+Stores+App', '5,000+', 'http://www.sheehy.com', 'sheehyautostoresapp@gmail.com']}
+{'com.dice.app.jobs': ['Tech Jobs, Skills & Salary: Find your Future', 'Dice+Inc.', '100,000+', 'http://www.dice.com', 'techsupport@dice.com']}
+{'com.rsa.rsaconference': ['RSA Conference Multi-Event', 'RSA+Security', '5,000+', 'https://www.rsaconference.com', 'mobileapp@rsa.com']}
+{'com.gracechurch.khv7op': ['Shepherds’ Conference', 'Grace+Community+Church+of+the+Valley', '1,000+', 'http://gracechurch.org', 'web@gracechurch.org']}
+{'com.goodwill.goodwill_app': ['Goodwill Auctions', 'Goodwill+Industries+NCPA', '100,000+', 'http://www.fundgoodwill.com', 'webmaster@goodwillinc.org']}
+{'com.soundconcepts.revitalu': ['revital U', 'Sound+Concepts,+Inc.', '5,000+', 'http://mybuildersystem.com/#Support', 'support@mysecureoffice.com']}
+{'com.markate.markatepro': ['Markate for Business', 'Markate+Inc.', '1,000+', 'https://www.markate.com', 'support@markate.com']}
+{'com.crowdcompass.app4815162342': ['CrowdCompass AttendeeHub', 'CrowdCompass+by+Cvent', '500,000+', 'http://www.crowdcompass.com', 'support@crowdcompass.com']}
+{'com.controltec.kindersignwashington': ['KinderSign (Washington)', 'Controltec,+Inc.', '100+', 'http://www.controltec.biz', 'support@controltec.com']}
+{'au.com.entegy.ebleadretrieval': ['Lead Retrieval for Eventbrite', 'Powered+by+Entegy', '1,000+', 'https://entegy.com.au/', 'poweredby@entegy.com.au']}
+{'unclaimed.money': ['Unclaimed Money', '7758635825238926683', '100,000+', 'http://appsbay.co.uk', 'legalcentral@googlemail.com']}
+{'com.waypoint.waypoint': ['Waypoint Analytical', 'WPA+Corp+Dev', '100+', 'http://waypointanalytical.com/', 'support@waypointanalytical.com']}
+{'com.guarana.neuvoo': ['Jobs by neuvoo', 'neuvoo', '100,000+', 'https://neuvoo.com/', 'android@neuvoo.com']}
+{'com.greengagemobile': ['Nudge Rewards', 'Nudge+Rewards', '10,000+', 'http://nudgerewards.com', 'support@nudgerewards.com']}
+{'com.rapidfunnel': ['RapidFunnel', 'RapidFunnel,+Inc.', '10,000+', 'http://www.rapidfunnel.com', 'support@rapidfunnel.com']}
+{'com.keypointintelligence.bliq': ['bliQ', 'Keypoint+Intelligence', '100+', 'http://www.keypointintelligence.com', 'cjones@keypointintelligence.com']}
+{'com.elementfleet.xfdandroid': ['Xcelerate for Drivers', 'Element+Corporation', '5,000+', 'https://www.elementfleet.com/about-us/contact-us/driver-contact-us', 'Customercareus.fleet@elementcorp.com']}
+{'acti.android.ActiveMobileClient': ['ACTi Mobile Client', 'ACTi+Corporation', '50,000+', 'http://www.acti.com/chd', 'android-support@acti.com']}
+{'fax.app': ['Fax: Send fax from phone, receive fax mobile app', 'Amplify%C2%B7', '10,000+', 'https://www.ifaxapp.com', 'admin@crowdedroad.com']}
+{'com.app_mnrwa.layout': ['Minnesota Rural Water Association', 'App+Embark', '100+', 'http://www.appembark.com', 'kurt@appembark.com']}
+{'com.eventready.tug2019': ['TUG Connects 2019', 'Event+Ready', '10+', 'http://www.eventready.com', 'info@eventready.com']}
+{'com.quickmobile.multievent.eventready2013': ['Event Ready', '4631465000030912292', '1,000+', 'http://www.quickmobile.com/contact/support', 'support@quickmobile.com']}
+{'com.controltec.kindersmartwashington': ['KinderSmart (Washington)', 'Controltec,+Inc.', '100+', 'http://www.controltec.biz', 'support@controltec.com']}
+{'events.socio.app515': ['VSRA Conferences', 'Socio+Labs+Inc', '10+', 'https://socio.events', 'support@socio.events']}
+{'com.crowdcompass.appM69VrDfMOK': ['ABB Events', 'ABB+Information+Systems+AG', '1,000+', 'http://www.crowdcompass.com/contact-support.shtml', 'support@crowdcompass.com']}
+{'com.helloprosper.android': ['Prosper', 'Hello+Prosper+Inc.', '100+', 'https://helloprosper.com', 'sam@helloprosper.com']}
+{'com.videomaker.postermaker': ['Intro Maker, Video Editor, Story Maker', '4632290146912595245', '10,000+', 'https://sites.google.com/view/digitalmarketingtools/home', 'jna.appmakerz@gmail.com']}
+{'com.v8apps.cardelivery': ['Simple Car Delivery', 'V8+Apps', '50+', 'http://www.SimpleCarDelivery.com', 'support@simpledealersuite.com']}
+{'mobile.apprBNRhZ1LQW': ['NCECA Events App', 'NCECA', '50+', 'http://www.nceca.net', 'candice@nceca.net']}
+{'mobile.appiSrRlNygF9': ['Key2Act Synergy', 'KEY2ACT', '10+', 'http://www.key2act.com', 'wennsoft.development@gmail.com']}
+{'com.jitjatjo.android.worker': ['Jitjatjo Talent - Flex Work', 'Jitjatjo', '10,000+', 'http://www.jitjatjo.com/talent.html', 'ts@jitjatjo.com']}
+{'app.resumebuildermaker.resumemakerfreecvmakertemplatesbuilder': ['Resume Builder:Free CV Maker,With PDF,WORD Format', 'Zeus+App+Studio', '500,000+', 'http://www.fortitudeinfotech.com', 'jarvisbeta0608@gmail.com']}
+{'com.servisuite.mobile': ['ServiSuite 2.0', 'Harris+Barrick+Software', '10+', 'https://servisuite.com', 'info@servisuite.com']}
+{'com.rbauction.RitchieBros': ['Ritchie Bros.', 'Ritchie+Bros.', '50,000+', 'https://www.rbauction.com', 'csg@rbauction.com']}
+{'com.loginext.tracknext': ['TrackNext | Delivery Routing & Tracking', '8560142974951141462', '10,000+', 'http://loginextsolutions.com/', 'support@loginextsolutions.com']}
+{'com.spotme.eventspace': ['Eventspace by SpotMe', 'SpotMe', '10,000+', 'http://www.spotme.com', 'apppublishing@spotme.com']}
+{'a2z.Mobile.Event5475': ['Pizza Expo/Artisan Bakery Expo', 'a2z,+Inc.', '500+', 'http://www.a2zinc.net/Show6/Public/Content505.aspx', 'appsupport@a2zinc.net']}
+{'com.panasonic.MobileSoftphone': ['Panasonic Mobile Softphone', 'Panasonic+Corporation', '10,000+', 'https://panasonic.net/cns/office/products/pbx/products/application/', 'no-reply-bcmbsftphon@gg.jp.panasonic.com']}
+{'com.codc.confxsn0o5': ['DC Blockchain Summit 2019', 'KitApps,+Inc.', '10+', 'http://www.attendify.com', 'info@attendify.com']}
+{'com.mpeventapps.mbnpsm2019': ['NPSM 2019', 'Cadence-Inc', '100+', 'http://www.cadence-inc.com', 'stevea@cadence-inc.com']}
+{'cvmaker.pk.resumemaker': ['Free resume maker CV maker templates formats app', 'Resume+Maker', '10,000+', 'https://awesomeresumemaker.tumblr.com/post/182732137134/privacy-policy-free-resume-maker-cv-maker', 'resumemaker.5d@gmail.com']}
+{'com.intel.hrsummit13895': ['Intel Events', 'Intel+Corporation', '5,000+', 'http://www.intel.com', 'customersupport@doubledutch.me']}
+{'whid.usb.injector': ['WHID Mobile Connector', 'Paul+Amar', '50+', 'http://whid.ninja', 'paul.amar.fr@gmail.com']}
+{'com.bedpage': ['Bedpage', 'BEDPAGE', '100,000+', 'http://www.argalon.net/', 'prashantlakshya@gmail.com']}
+{'com.sap.fiori.client': ['SAP Fiori Client', 'SAP+SE', '100,000+', 'http://help.sap.com/fiori-client/', 'sap.fiori.client@sap.com']}
+{'com.mallcommapp.mallofamerica': ['MOA Tenant Hub', 'Toolbox+Group', '100+', 'http://www.toolboxgroup.global', 'david.fuller@toolboxmarketing.com']}
+{'com.ripl.android': ['Ripl: Make Videos from Photos for Social Media Ads', '5979242633604160560', '500,000+', 'https://www.ripl.com', 'feedback@ripl.com']}
+{'com.ncura.eventapp': ['NCURA', 'NCURA', '10+', 'http://www.ncura.edu', 'info@ncura.edu']}
+{'com.jobskout': ['Hire & Freelance with Job Skout', 'Bravatech', '5+', 'http://www.jobskout.com', 'support@bravatech.com']}
+{'com.ok.expo': ['Oklahoma Youth Expo 2019', 'Oklahoma+Youth+Expo', '100+', 'http://okyouthexpo.com', 'jd@okyouthexpo.org']}
+{'com.crowdcompass.appChHzck1EAd': ['TCA Annual Convention', 'Truckload+Carriers+Association', '100+', 'https://www.truckload.org/', 'truckloadapp@gmail.com']}
+{'com.lbxco.commandapp': ['Link-Belt Excavators Toolbox', 'LBX+Company', '50+', 'https://lbxco.com', 'apps@lbxco.com']}
+{'com.tmobile.techphd': ['Tech PHD', 'Technical+Services', '50,000+', 'https://www.mytechphd.com/contact', 'support@pocketgeek.com']}
+{'com.justphonebook.jpbandroid': ['Pobuca Connect - Contacts app', 'Pobuca', '1,000+', 'https://pobu.ca', 'hello@pobu.ca']}
+{'air.com.mapyourshow.WTS18MobileApp': ['The Work Truck Show 2019', 'Map+Your+Show', '500+', 'http://www.mapyourshow.com/', 'support@mapyourshow.com']}
+{'com.app.shovelerapp': ['Shovler: Snow Shoveling & Snow Removal', 'Shovler+Inc.', '10,000+', 'https://shovler.com', 'admin@shovler.com']}
+{'mobile.appYCg07VeCCe': ['MIC Colorado', None, '10+', 'https://www.mic-colorado.org', 'admin@mic-colorado.org']}
+{'com.remine': ['Remine', 'Remine', '5,000+', 'http://www.remine.com', 'mobile@remine.com']}
+{'com.karshypr.cust': ['KarShypr', 'Karshypr', '10+', 'http://www.Karshypr.com', 'Support@Karshypr.com']}
+{'com.redhead.velox': ['Velox Insurance', 'RedHead+Mobile+Apps', '5,000+', 'http://redheadmobileapps.com', 'redheadmobileapps@gmail.com']}
+{'com.houseofgigs': ['house of gigs', 'House+of+gigs', '50,000+', 'https://houseofgigs.io', 'max@houseofgigs.io']}
+{'com.wework.mobile': ['WeWork', 'WeWork+Companies,+Inc.', '100,000+', 'https://www.wework.com', 'feedback@wework.com']}
+{'com.bravuratech.APSMeetings': ['Meetings@APS', 'Bravura+Technologies', '10,000+', 'http://www.bravuratechnologies.com', 'support@bravuratechnologies.com']}
+{'mobile.appjgj2ZErI5i': ["Qualtrics X4 Summit '19", 'Qualtrics+Inc.', '1,000+', 'http://www.qualtrics.com', 'mobileengineers@qualtrics.com']}
+{'com.benefitfocus.MMx': ['Mercer Marketplace Benefits', 'Mercer+%28US%29+Inc', '10,000+', 'http://www.mercermarketplace.com', 'MMx.OperationalStandards@mercer.com']}
+{'mobile.appmVlXRrrO81': ['GALA 2019', 'GALA+2019', '10+', 'https://www.gala-global.org', 'jdipietro@gala-global.org']}
+{'com.eventready.gama2019': ['GAMA 2019', 'Event+Ready', '50+', 'http://www.eventready.com', 'info@eventready.com']}
+{'com.j2.efax': ['eFax – Send Fax from Phone', 'j2+Cloud+Services,+Inc', '1,000,000+', 'http://www.efax.com/features/efax-mobile-app?VID=56885&utm_source=Google_Play&utm_medium=Store&utm_campaign=Google_Playstore', 'android@efax.com']}
+{'com.tkmx.nevetica.app': ['NéVetica', 'N%C3%A9Vetica', '100+', 'http://nevetica.com', 'nevetica.worker@gmail.com']}
+{'events.socio.app350': ['My NASPA', 'Socio+Labs+Inc', '500+', 'https://socio.events', 'support@socio.events']}
+{'com.easy4u.scanner': ['Easy Scanner - Camera to signed PDF', '8281696871670304543', '1,000,000+', 'https://www.bfery.com/', 'support@bfery.com']}
+{'com.conduit.app_7d68b748ba3840e7910db415979f4218.app': ['Natures Garden', 'Candle+Soap+Fragrance+Oil', '5,000+', 'http://www.naturesgardencandles.com/', 'naturesgarden1997@gmail.com']}
+{'com.shapr': ['Shapr – Meaningful Networking', 'Shapr', '500,000+', 'http://www.shapr.co', 'support-android@shapr.net']}
+{'mobile.appekAwDk8Er3': ['Women Impact Tech', 'Andiamo', '50+', 'http://www.andiamogo.com', 'brian.schuppel@andiamogo.com']}
+{'mobile.appnrAn94n4dR': ['ACE2019', 'American+Council+on+Education', '50+', 'https://www.acenet.edu/', 'web@acenet.edu']}
+{'com.equipovision.mediadist': ['eVision', 'Signature+EquipoVision,+LLC', '100,000+', 'http://www.equipovision.com', 'equipodevel@gmail.com']}
+{'com.mastercard.caprizagsbc': ['Mastercard GBSC To Go', 'Capriza', '500+', 'http://www.capriza.com', 'mayank@capriza.com']}
+{'com.utilityservices.epaystub': ['ePaystub', 'Lifecycle+Mobile', '50,000+', 'https://portal.utilservcorp.com', 'admin@lifecyclemobile.com']}
+{'com.crowdcompass.appr7WHXXf3vI': ['SHM Events', 'Society+of+Hospital+Medicine', '1,000+', 'http://www.hospitalmedicine.org', 'it@hospitalmedicine.org']}
+{'com.iaai.csatoday': ['CSAToday by IAA', 'Insurance+Auto+Auctions,+Inc.', '10,000+', 'https://m.csatoday.iaai.com/Info/Assistance', 'supportdesk@IAAI.com']}
+{'com.crowdcompass.appPtHUJyvt2w': ['OFC Conference', 'The+Optical+Society', '1,000+', 'https://www.ofcconference.org', 'custserv@osa.org']}
+{'com.alex.dancerresources': ['The Dancers Resources', 'The+Dancer%27s+Resource+Inc.', '500+', 'http://appcdn.media/privacy/?app=The%20Dancers%20Resource', 'thedancersresource@gmail.com']}
+{'co.ingaged.androidapp.fbisd': ['FBISD LiveWell', 'Fort+Bend+ISD', '500+', 'https://www.enspire.me/privacy-policy/', 'webservices@fortbendisd.com']}
+{'com.itrustpro.pro': ['iTrust PRO - Generate Leads & Be a PRO!', 'iTrust+Ventures+LLC', '1,000+', 'https://www.itrustpro.com', 'support@itrustpro.com']}
+{'mobile.appaqWrQsuzzs': ['NRMCA', 'NRMCA', '50+', 'http://www.nrmca.org', 'mcallahan@nrmca.org']}
+{'com.xtremenation': ['XTreme Nation', 'Jeremy+Francis', '10+', 'http://xtremenation.us', 'francisj12@icloud.com']}
+{'jujama.com.hunterhotel': ['HunterHotelConference', 'Jujama,+Inc.', '100+', 'http://www.jujama.com', 'nadia@jujama.com']}
+{'mobile.appivOLZpKHqE': ['CICA International Conference', 'Captive+Insurance+Companies+Association', '10+', 'http://cicaworld.com', 'info@cicaworld.com']}
+{'theilluminati.a45waystomakemoney': ['45 Ways to Make Money', '5672127464696277811', '50,000+', 'http://theilluminati63.blogspot.in/p/45-ways-to-make-money-privacy-policy.html', 'illuminati635257@gmail.com']}
+{'com.inadev.kicc': ['KI Call Center', 'INADEV+Corp', '100+', 'http://www.inadev.com', 'support@inadev.com']}
+{'com.lumitechnologies.meetoo': ['Meetoo', 'Meetoo+Ltd', '100,000+', 'http://www.meetoo.com/', 'hello@meetoo.com']}
+{'com.carbonrepro.BullseyeTDP': ['Bullseye TDP', 'BullseyeEngagement', '10+', 'http://www.bepms.com', 'mgr@bepms.com']}
+{'com.arise.emarise2019': ['Arise 2019', 'A-Gas+in+the+Americas', '10+', 'http://www.agasamericas.com', 'marketing1@agas.com']}
+{'com.goomeoevents.expoantad': ['EXPO ANTAD', '8355875439663822850', '500+', 'http://www.ipsight.net', 'contacto@ipsight.net']}
+{'mobile.appY8ZCitMAiC': ['ASSA ABLOY Events', 'ASSA+ABLOY+Americas', '10+', 'https://www.assaabloydss.com/en/local/dss/', 'jeremy.goeden@assaabloy.com']}
+{'com.zerista.shoptalkeurope': ['Shoptalk 2019', 'Zerista,+Inc', '1,000+', 'https://zerista.com', 'support@zerista.com']}
+{'com.kayle_cs': ['CattleSort', 'CattleSort,+Inc.', '100+', 'http://www.cattlesort.com', 'Info@cattlesort.com']}
+{'com.spc.testitapp': ['TestIT', 'SPC+-+Top+Ramdor', '100+', 'http://www.ramdor.co.il/', 'bniya.bit@mnet.co.il']}
+{'com.meetmax.agcconferences': ['AGC Conferences', 'MeetMax', '50+', 'https://www.meetax.com', 'dcurtis@twst.com']}
+{'com.porttime': ['Port Time', 'Justin+Beuck', '50+', 'https://justinbeuck.github.io/', 'justinbeuck@gmail.com']}
+{'com.hyland.android.client': ['OnBase Mobile', 'Hyland+Software+Inc.', '10,000+', 'http://www.onbase.com/en/product/onbase/access/mobile-clients.aspx', 'Support@OnBase.com']}
+{'com.dteenergy.mydte': ['DTE Energy', 'DTE+Energy+Corporate+Services,+LLC', '500,000+', 'http://www.dteenergy.com', 'Digital_Assist@dteenergy.com']}
+{'com.czur.global.cloud': ['CZUR', 'CZUR', '100+', 'http://www.czurtek.com/', 'czurtek@gmail.com']}
+{'com.compusystems.exhibitor': ['CompuLEAD', 'CompuSystems,+Inc.', '50,000+', 'http://www.compusystems.com/compulead-smart.php', 'exhibitor-support@compusystems.com']}
+{'com.ubercab.driver': ['Uber Driver', '7908612043055486674', '50,000,000+', 'http://www.uber.com', 'support@uber.com']}
+{'com.app.douxbisoux': ['DOUX BISOU', 'Doux+Bisou', '10+', 'https://appcdn.media/privacy/?app=DOUXBISOU', 'madelinecarver@yahoo.com']}
+{'com.squareup': ['Square Point of Sale - POS', '4878871734928263649', '10,000,000+', 'https://square.com/help', 'support@squareup.com']}
+{'com.monsanto.field.TargetSprayEnterprise': ['RRXtend Spray', 'Monsanto+Company', '5,000+', 'http://www.monsanto.com', 'mobile.appstore@monsanto.com']}
+{'com.clearify': ['Clearify', 'ClearTrackHR', '50+', 'http://www.cleartrackhr.com', 'info@cleartrackhr.com']}
+{'co.good.android': ['Good&Co: Culture Fit Jobs', '4746366221977349389', '1,000,000+', 'https://good.co', 'help@good.co']}
+{'com.wdjk.mc': ['MF-CASH', 'Trisha+Dutta', '10,000+', 'http://www.mymfcash.com/', 'Frances.Watkins9493@gmail.com']}
+{'messenger.chat.messenger.messanger.messager.mesenger.mesenger': ['Free Messenger', 'Nabili+inc', '10,000+', 'https://docs.google.com/document/d/1IyEoP_lZJDZugKQNY7L_DFGbgucgptrRBagAZU0d_hk/edit?usp=sharing', 'Nabili@lick.com']}
+{'com.afreserve.peerreferral': ['Get 1 Now/Share Your Adventure', 'US+Air+Force+Reserve', '1,000+', 'https://get1now.us', 'tech@blainewarren.com']}
+{'a2z.Mobile.Event4841': ['F&B NY19', 'a2z,+Inc.', '100+', 'http://www.a2zinc.net/Show6/Public/Content505.aspx', 'appsupport@a2zinc.net']}
+{'com.kubi.kucoin': ['KuCoin', 'Mek+Global+Limited', '50,000+', 'https://www.kucoin.com', 'mobile@kucoin.com']}
+{'com.betterthing.trucking': ['Better Thing: Truck Driving Jobs Find You', 'BetterThing', '10,000+', 'http://www.betterthing.com', 'support@betterthing.com']}
+{'com.FixLaundry.Activity': ['Fixlaundry Service Request', 'WASH+Multifamily+Laundry+Systems,+LLC', '5,000+', 'http://www.washlaundry.com', 'washapps@washlaundry.com']}
+{'com.wwdb': ['WWG', 'World+Wide+Group,+LLC', '50,000+', 'http://www.wwdb.com', 'support@wwdb.com']}
+{'com.tapcrowd.theinstituteofinternalauditors6098': ['IIA Events', 'Aventri', '1,000+', 'http://www.tapcrowd.com', 'apps@tapcrowd.com']}
+{'com.apprisemobile.honda': ['HAM Manufacturing The Spot', 'TheIRapp,+LLC', '1,000+', 'http://www.theirapp.com', 'support@theirapp.com']}
+{'com.duosecurity.duomobile': ['Duo Mobile', 'Duo+Security,+Inc.', '1,000,000+', 'https://guide.duo.com/', 'support@duosecurity.com']}
+{'app.ayerco': ['Ayerco Missouri', 'Patron+Points,+Inc', '500+', 'http://patronpoints.com/PatronPoints/privacy_policy.htm', 'dev@patron-points.com']}
+{'com.gemalto.mpassplus': ['SafeNet MobilePASS+', 'Gemalto+PL', '100,000+', 'http://www.safenet-inc.com/sas', 'support@safenet-inc.com']}
+{'com.texterity.android.PMNetwork': ['PM Network', 'GTxcel', '10,000+', 'http://www.GTxcel.com', 'android-submission-support@GTxcel.com']}
+{'org.iiar': ['IIAR', 'International+Institute+of+Ammonia+Refrigeration', '1,000+', 'http://www.iiar.org/', 'mobileapp@iiar.org']}
+{'com.w73081a6b1f7.app': ['2019 Aeroxchange Conf', 'Aeroxchange', '50+', 'https://support.appdocumentation.com/terms/', 'marketing@aeroxchange.com']}
+{'com.mpeventapps.dellretail19': ['Dell@Retail 2019', 'Meeting+Play', '100+', 'http://www.MeetingPlay.com', 'hello@meetingplay.com']}
+{'jujama.com': ['Jujama Connect', 'Jujama,+Inc.', '5,000+', 'http://www.jujama.com', 'nadia@jujama.com']}
+{'com.truelancer.app': ['Search Jobs & Hire Freelancer', 'Truelancer.com', '100,000+', 'http://www.truelancer.com', 'support@truelancer.com']}
+{'com.propertyware.mobile': ['Propertyware Mobile', 'RealPage+Incorporated', '10,000+', 'http://www.propertyware.com/propertyware-mobile/', 'adam.silverthorne@realpage.com']}
+{'com.fwa.confj5mgp8': ['FWA - Pirates!', 'KitApps,+Inc.', '1,000+', 'http://www.attendify.com', 'info@attendify.com']}
+{'com.a1294648895504b300396544a.a21135053a': ['Free Mobile Phone Service.', 'Mobile+Phone+Wealth', '100,000+', 'http://tempowireless.com/privacy.html', 'mobilephonewealth@gmail.com']}
+{'com.workyard.app': ['Workyard', 'Workyard', '1,000+', 'https://www.workyard.com', 'info@workyard.com']}
+{'co.betterup.betterup': ['BetterUp', 'BetterUp,+Inc.', '1,000+', 'https://www.betterup.co', 'developers@betterup.co']}
+{'com.altametrics.ersdashboard': ['Altametrics DAR', 'Altametrics', '100+', 'http://www.altametrics.com', 'development@altametrics.com']}
+{'com.wayup_rn': ['WayUp', 'WayUp', '10,000+', 'https://www.wayup.com', 'mobile@wayup.com']}
+{'keyboard.theme.k820016623': ['Black Green Crystal Keyboard Theme', 'Glossy+Themes+Launcher', '1,000+', 'http://penmousedesigntech.com', 'glossythemes@gmail.com']}
+{'com.vl.infotrax.legalshield': ['LS Engage', 'Infotrax+Systems', '10,000+', 'http://www.lsengage.com/', 'infotraxsysdev@gmail.com']}
+{'com.digitalmarketing.slideshowmaker': ['Marketing Slideshow Maker For Business', '8983953568983045767', '10,000+', 'https://sites.google.com/view/digitalmarketingtools/home', 'sbg.appolu@gmail.com']}
+{'co.uk.crosbyassociates.engageapp.rtahub': ['RTA Info Hub', 'Engage+Solutions+Group', '50+', 'https://www.employeeapp.com/', 'digital.accounts@engagesolutionsgroup.com']}
+{'com.paptap.pt428060': ['Rocket Pride', 'Outside+Insights+Consulting', '50+', 'https://bobile.com/app/428060/rocket-pride', 'marisehlers@gmail.com']}
+{'com.tripbuilder.ache365': ['ACHE 365', 'TripBuilder,+Inc.', '500+', 'http://www.tripbuildermedia.com', 'support@tripbuildermedia.com']}
+{'com.cpse.eventapp': ['CPSE Excellence Conference', 'Center+for+Public+Safety+Excellence,+Inc.', '10+', 'http://www.cpse.org', 'info@cpse.org']}
+{'com.avodigy.gccaevents': ['GCCA Events', 'Eventpedia', '100+', 'http://www.avodigy.com', 'info@avodigy.com']}
+{'mobile.appeWV2KzI7WP': ['2019 CCSA Conference', 'California+Charter+Schools+Association', '10+', 'http://www.charterconference.org', 'help@ccsa.org']}
+{'com.airwatch.workspace': ['AirWatch Container', 'VMware+Workspace+ONE', '100,000+', 'https://www.vmware.com/', 'airwatch.android@gmail.com']}
+{'com.sideline.phone.number': ['Sideline - Second Phone Number - Work or Personal', 'Pinger,+Inc', '5,000,000+', 'http://www.sideline.com', 'support@sideline.com']}
+{'com.app_ensignalinc.layout': ['Ensignal', 'TracPoint+Apps', '10,000+', 'http://tracpoint.com', 'tracpointapps@gmail.com']}
+{'com.socialchorus.bhah.android.googleplay': ['LEO by MGM Resorts', 'MGM+Resorts+International', '1,000+', 'http://www.mgmresorts.com', 'mmlvdev@gmail.com']}
+{'com.invoicehome.invoicehome': ['Invoice Maker & Billing App', 'Invoice+Home', '500,000+', 'https://invoicehome.com', 'support@invoicehome.com']}
+{'com.napnap.eventapp': ['NAPNAP Conferences', 'NAPNAP', '100+', 'http://www.napnap.org', 'mstickel@napnap.org']}
+{'com.app.iqvis.nvolv.swta': ['SWTA', 'NVOLV', '100+', 'http://nvolv.co', 'hasan@getnvolv.com']}
+{'com.zerista.Zerista': ['YourEvent – Powered by Zerista', 'Zerista,+Inc', '5,000+', 'https://zerista.com', 'android@zerista.com']}
+{'com.kronos.mobile.android': ['Kronos Mobile', 'Kronos+Incorporated', '1,000,000+', 'http://www.kronos.com/', 'WorkforceMobile@Kronos.com']}
+{'com.esurance.drivesense': ['DriveSense mobile by Esurance', 'Esurance', '100,000+', 'http://www.esurance.com/drivesense', 'mobiledevelopment@esurance.com']}
+{'com.appfolio.appfolio_property_manager': ['AppFolio Property Manager', '6409979379413406734', '10,000+', 'https://www.appfolio.com', 'dev-feedback+mobile_app@appfolio.com']}
+{'co.timesquared.timetracker': ['Time Tracker: hours tracker, time sheet & work log', 'Time+Squared', '1,000+', 'https://timesquared.co', 'hello@timesquared.co']}
+{'com.bg.logomaker': ['Ultimate Logo Maker', 'Apps+You+Love', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'bhavesh.optimumbrew@gmail.com']}
+{'com.etouches.loopdevents': ['Aventri Events', 'Aventri', '10,000+', 'https://www.aventri.com/', 'mobileapps@aventri.com']}
+{'com.slido.app': ['Slido', 'sli.do+s.r.o', '100,000+', 'http://www.sli.do', 'support@sli.do']}
+{'app.westernoil': ['Western Oil Petro-Mart', 'Patron+Points,+Inc', '100+', 'http://patronpoints.com/PatronPoints/privacy_policy.htm', 'dev@patron-points.com']}
+{'com.box.android': ['Box', 'Box', '10,000,000+', 'http://www.box.com/ref/android_appstore_companylink', 'android-support@box.com']}
+{'com.wi_vod.itstrucker': ['Truckstop – Trucking, Loads, Freight,Fuel,Payments', 'Truckstop.com', '100,000+', 'http://www.truckstop.com', 'mobilefeedback@truckstop.com']}
+{'com.omnitracs.hos': ['HOURSGo', 'Omnitracs,+LLC', '500+', 'http://www.omnitracs.com', 'mobilecastdev@gmail.com']}
+{'org.cryptodiamonds.btcgains2': ['BTC GAINS 2 - EARN FREE BTC', 'AlexFer33', '1,000+', 'http://affi.cryptoplanets.org/btcgains/privacy.html', 'alexfer33.trader@gmail.com']}
+{'com.envoy.passport': ['Envoy Passport', 'Envoy,+Inc.', '10,000+', 'https://envoy.com/passport', 'feedback@envoy.com']}
+{'us.signonthego.signonthego': ['SignOnTheGo', 'SignOnTheGo,+LLC', '5,000+', 'https://www.signonthego.us/', 'info@signonthego.us']}
+{'com.mobitech3000.jotnotfax.android': ['JotNot Fax - Fax from your phone', 'MobiTech+3000+LLC', '10,000+', 'http://www.jotnot.com/fax.html', 'support@jotnot.com']}
+{'ie.decaresystems.mobile.android.avon.dealaday': ['Avon On the Go', 'New+Avon+LLC', '100,000+', 'http://www.youravon.com', 'hector.cedeno@avonusa.com']}
+{'com.saloncentric.app': ['SalonCentric', 'SalonCentric,+Inc.', '100,000+', 'http://www.saloncentric.com', 'b2beCommerce@saloncentric.com']}
+{'com.linkedin.leap': ['LinkedIn Elevate', '6860682062931868151', '50,000+', 'http://www.linkedin.com/', 'elevate-android@linkedin.com']}
+{'com.viventium.viventium': ['Viventium', 'Viventium+Software+Inc', '10,000+', 'https://www.viventium.com/', 'Support@Viventium.com']}
+{'com.epson.tmassistant': ['Epson TM Print Assistant', 'Seiko+Epson+Corporation', '10,000+', 'http://global.epson.com/other_products/point_of_sale_index.htm', 'feedback-bsapps1@exc.epson.co.jp']}
+{'mobile.appCh6rXmpkcL': ['Lennox Events', 'Lennox+Industries', '100+', 'http://www.lennox.com/residential/', 'netadmin@powercreative.com']}
+{'com.app.cnac': ['CNAC', 'Byrider+Developer', '10,000+', 'http://www.cnac.com', 'byriderdev@jdbyrider.com']}
+{'com.salesforce.chatter': ['Salesforce', '4788706135661893559', '1,000,000+', 'https://www.salesforce.com/mobile', 'salesforce1help@salesforce.com']}
+{'com.roamdata.player.android.threex.sage': ['Sage Mobile Payments', 'ROAM+Data', '10,000+', 'http://www.mysagemobile.com', 'mobilesupport@sagepayments.com']}
+{'com.bluejeansnet.Base': ['BlueJeans for Android', 'BlueJeans+Network', '500,000+', 'https://www.bluejeans.com/mobileapps/android', 'android@bluejeans.com']}
+{'com.tsengvn.pcs': ['Mobile Express', 'PCS+Development', '5,000+', 'http://www.pcssoft.com/PrivacyPolicy.htm', 'dat@pcssoft.com']}
+{'com.amazon.relay': ['Amazon Relay', 'Amazon+Mobile+LLC', '10,000+', 'http://www.amazon.com/', 'relay-feedback@amazon.com']}
+{'com.org.btcgains': ['BTCGAINS - EARN FREE BTC', 'AlexFer33', '10,000+', 'http://affi.cryptoplanets.org/WfHbDz2J3LgFDFhN8S7KcyJneEdcbtcgains/privacy.html', 'alexfer33.trader@gmail.com']}
+{'com.fbr161.trackerfree': ['Mobile Tracker Free (English)', 'FBR161', '500+', None, 'fbr161play@gmail.com']}
+{'com.mha.businesssummit2019': ['MHA Business Summit 2019', 'MHAINC.COM', '100+', 'https://www.quickmobile.com/contact/support', 'gplaymhainc@gmail.com']}
+{'com.usaclean.usa_cleanqucikhelp': ['USA-CLEAN EQ-Help', 'USA-CLEAN,+Inc.', '100+', 'http://www.usaclean.com', 'info@usaclean.com']}
+{'com.tapcrowd.ihs3000008412019': ['CERAWeek', 'IHSMarkit', '100+', 'https://www.etouches.com/event-software/privacy-policy', 'byron@yakamazi.co.uk']}
+{'directenergy.mobileoam': ['Direct Energy Account Manager', 'Direct+Energy', '50,000+', 'http://www.directenergy.com/app', 'customerhelp@directenergy.com']}
+{'com.google.android.apps.meetings': ['Hangouts Meet', '5700313618786177705', '1,000,000+', 'https://support.google.com/a/answer/7126817', 'apps-help@google.com']}
+{'com.vscorp.receipt.maker': ['Receipt Maker', 'Maito+Labs', '10,000+', 'https://receiptmaker-22e50.firebaseapp.com', 'maito.labs@gmail.com']}
+{'com.thegrizzlylabs.geniusscan.free': ['Genius Scan - PDF Scanner', '8352227414721318036', '1,000,000+', 'http://www.thegrizzlylabs.com', 'android.support@thegrizzlylabs.com']}
+{'com.joinhomebase.homebase.homebase': ['Homebase Free Employee Scheduling', '5959335544576785738', '500,000+', 'http://www.joinhomebase.com', 'info@joinhomebase.com']}
+{'com.pruvit': ['Prüvit Pulse', 'Pruvit+Ventures,+Inc.', '10,000+', 'http://www.pruvitnow.com', 'support@pruvithq.com']}
+{'com.bluecrewjobs.bluecrew': ['BlueCrew', 'BlueCrew,+Inc', '50,000+', 'https://bluecrewjobs.com', 'support@bluecrewjobs.com']}
+{'com.simplescan.scanner': ['Simple Scan - Free PDF Scanner App', 'Easy+inc.', '1,000,000+', 'https://sites.google.com/view/simple-scanner', 'simple.scanner@outlook.com']}
+{'com.voltage.mobile.securemail.ui': ['Voltage SecureMail', 'Voltage+Security', '500,000+', 'http://www.voltage.com/products/securemail/securemail-mobile-edition/', 'android-support@voltage.com']}
+{'com.pingboard': ['Pingboard', 'Pingboard', '10,000+', 'https://www.pingboard.com', 'help@pingboard.com']}
+{'com.macrovideo.v380': ['V380', '%E5%B9%BF%E5%B7%9E%E5%B8%82%E5%AE%8F%E8%A7%86%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8', '1,000,000+', 'http://www.macro-video.com', 'V380technical@gmail.com']}
+{'com.artygeekapps.app7548': ['W & H Application', '6248722584279913796', '1,000+', 'https://geekapps.com', 'contact@geekapps.com']}
+{'air.com.nextlot.mobile.webcast.steffes': ['Steffes', 'NextLot,+Inc.', '1,000+', 'http://nextlot.com', 'googleplay@nextlot.com']}
+{'com.tapcrowd.mkusapp300000470': ['Mary Kay Events - USA', 'Aventri', '5,000+', 'http://www.etouches.com', 'apps@tapcrowd.com']}
+{'com.mobiquityinc.ycf816177': ['Yankee Fundraising', 'The+Yankee+Candle+Company,+Inc.', '100,000+', 'http://www.yankeecandlefundraising.com', 'info@yankeecandle.com']}
+{'com.hp.calwin.benefits': ['CalWIN Mobile Application', 'HP+MyBenefits+CalWIN+Mobile', '50,000+', 'http://www.calwin.org/', 'calwinmail@calwin.org']}
+{'com.biinc.mobile.client': ['BI SmartLINK', 'BI+Incorporated', '10,000+', 'https://bi.com/products-and-services/bi-smartlink/', 'info@bi.com']}
+{'com.ontrac.android': ['Street Invoice', 'Street+Invoice+LLC', '100,000+', 'http://www.StreetInvoice.com', 'Support@StreetInvoice.com']}
+{'com.milestonesys.mobile': ['Milestone Mobile', 'Milestone+Systems+A/S', '100,000+', 'https://milestonesys.com', 'po@milestone.dk']}
+{'com.upshift.androidcustomer': ['Upshift', 'Upshift', '10,000+', 'http://upshift.work', 'contact@upshift.work']}
+{'com.deltek.tess.time': ['GovCon Time & Expense', 'Deltek', '100,000+', 'http://www.deltek.com', 'deltekdevelopment@gmail.com']}
+{'thereviewsolution.bbb': ['Your Reviews', '6226725590203496634', '5,000+', 'http://www.TheReviewSolution.com', 'stores@thereviewsolution.com']}
+{'com.amway.americas.NA.businesscenter': ['Amway™ Business Center', 'Amway+Corp.', '50,000+', 'http://www.amway.com', 'customer.service@amway.com']}
+{'com.intel.intelchromebook': ['Intel® RXT for Chromebook', 'Intel+Corporation', '100+', 'http://www.intel.com', 'appgov@intel.com']}
+{'com.xpo.drivermobile.lastmile': ['DeliverXPO', 'XPO+Logistics+inc', '100+', 'http://xpo.com', 'DriveXPOFeedback@xpo.com']}
+{'com.marykay.marykayandroid': ['Mary Kay myCustomers+', 'Mary+Kay,+Inc.', '50,000+', 'http://www.marykay.com', 'digitalsupport@marykayinc.com']}
+{'com.sieena.pdi3': ['PDI Mobile Connect', 'Political+Data+Inc', '10,000+', 'http://www.politicaldata.com', 'kingston.pdi@gmail.com']}
+{'com.winsight.cru19': ['Winsight Events', 'Zerista,+Inc', '50+', 'https://zerista.com', 'android@zerista.com']}
+{'com.devicemagic.androidx.forms': ['Forms', 'Device+Magic+Inc', '100,000+', 'https://www.devicemagic.com', 'support@devicemagic.com']}
+{'com.perksatwork.feedback': ['Feedback - Perks at Work', 'Next+Jump+Inc.', '1,000+', 'http://www.perksatwork.com', 'mobilesupport@nextjump.com']}
+{'com.ninefolders.hd3': ['Nine - Email & Calendar', '9Folders+Inc.', '1,000,000+', 'http://www.9folders.com', 'support@9folders.com']}
+{'com.tapapp.rex': ['TAP App Security', 'Dr.+Matthew+Miraglia', '1,000+', 'http://tapappsecurity.com/', 'Matthew@tapappsecurity.com']}
+{'com.AppInstitute.s9e3d': ['Social Work Mate', 'Social+Work+Mate,+Inc.', '500+', 'http://www.socialworkmate.com', 'socialworkmate@gmail.com']}
+{'com.axonify.axonify': ['Axonify', 'Axonify+Inc.', '100,000+', 'http://www.axonify.com', 'support@axonify.com']}
+{'com.earn.manywaytomakemoney': ['Many way to make money', 'Photolab+Infotech', '1,000+', 'http://way4weds.in/manywaytomakemoney/privacy_policy.html', 'photolabinfoch@gmail.com']}
+{'com.msdsonline.eBinder': ['SDS / Chemical Management', 'MSDSonline+Inc.', '10,000+', 'https://www.msdsonline.com', 'customerhelp@ehs.com']}
+{'com.hyperlocal.attendee': ['Attendee Hub', 'Hyplocal', '1,000+', 'https://hyperlocalplatform.com', 'support@hyperlocalplatform.com']}
+{'com.google.android.apps.primer': ['Google Primer', 'Google+Learn+Apps', '10,000,000+', 'https://www.yourprimer.com/?force_layout=True', 'hello@yourprimer.com']}
+{'com.menudrive.ChurchsChicken': ['CCDC', 'MenuDrive', '10,000+', 'https://ordernow.menudrive.com/churchschickendc', 'mobilerestaurantapp@gmail.com']}
+{'esub.android.app': ['eSUB Field Works', 'eSUB', '5,000+', 'http://eSUB.com', 'JustinW@esub.com']}
+{'com.sitrion.one.ehi': ['Pulse by Enterprise Holdings', 'Sitrion', '5,000+', 'http://www.sitrion.com', 'one.support@sitrion.com']}
+{'com.nokia.tribe': ['Nokia mobile Tribe', 'TeamStreamz+Pte+Ltd', '50,000+', 'http://www.teamstreamz.com', 'info@teamstreamz.com']}
+{'com.bstglobal.bst': ['BST10 Mobile', 'BST+Global', '1,000+', 'http://bstglobal.com', 'marketing@bstglobal.com']}
+{'com.boxer.email': ['Boxer - Workspace ONE', 'Boxer', '1,000,000+', 'https://www.vmware.com', 'support@getboxer.com']}
+{'com.attendify.conf7ll905': ['Engel & Völkers Events', 'KitApps,+Inc.', '100+', 'http://www.attendify.com', 'info@attendify.com']}
+{'com.wwm.nightowlx': ['Night Owl X', 'Night+Owl+SP+LLC', '100,000+', 'http://www.nightowlsp.com', 'support@nightowlspsupport.com']}
+{'com.bcaapps.scanner': ['Cam Scanner | Document Scanner Pro', 'bcaapps', '500,000+', 'http://bcappsdev.blogspot.com/p/privacy-policy-privacy-policy-documents.html', 'bcaappsdev@gmail.com']}
+{'com.cct.iVerifyCheque': ['iVerify-Check', 'Counterfeit+Combat+Technology', '10,000+', 'http://veirfycct.com', 'support@verifycct.com']}
+{'com.jjkeller.kmb': ['KellerMobile™', 'J.+J.+Keller+%26+Associates,+Inc.', '50,000+', 'http://www.jjkellermobile.com/contact', 'support@jjkeller.com']}
+{'com.pegasustranstech.transflonow': ['TRANSFLO Mobile', 'Pegasus+TransTech', '100,000+', 'http://www.transflomobile.com', 'support@transflo.com']}
+{'com.xpo.DriveXPO': ['Drive XPO: Find and book loads', 'XPO+Logistics+inc', '5,000+', 'https://www.drivexpoapp.com', 'DriveXPOFeedback@xpo.com']}
+{'com.smartlinx6.ess': ['SmartLinx Go', 'Smartlinx+Solutions,+LLC.', '100+', 'http://www.smartlinxsolutions.com', 'support@smartlinxsolutions.com']}
+{'com.dav.conflbepqk': ['Veterans Winter Sports Clinic', 'KitApps,+Inc.', '100+', 'http://www.attendify.com', 'info@attendify.com']}
+{'com.Forewarn.ForewarnApp': ['FOREWARN', 'Forewarn+LLC', '5,000+', 'http://www.forewarn.com', 'support@forewarn.com']}
+{'com.superr_mobile_app': ['Superr Easy Scheduling', 'Superr,+Inc.', '1,000+', 'https://superr.io', 'hi@superr.io']}
+{'com.vehicleLog.vehicleLog': ['VehicleLog - Free Mileage, Fuel & Expense Log Book', 'IJM+Mobile+Development', '1,000+', None, 'IJMmobileDev@gmail.com']}
+{'com.branchmessenger': ['Branch: Get Paid Before Payday, Schedule Work', 'Branch+Messenger', '100,000+', 'http://www.branchapp.com', 'hi@branchapp.com']}
+{'business.letterheadmaker': ['Letterhead Maker Business letter pad template Logo', 'Splendid+App+Maker', '10,000+', 'https://sites.google.com/view/splendidappmaker/home', 'splendidappmaker@gmail.com']}
+{'com.flyerdesigner.logocreator': ['Logo Maker - Graphic Design & Free Logo Creator', 'stylish+app+world', '100,000+', 'https://sites.google.com/view/stylish-app-world', 'divyeshkhunt@gmail.com']}
+{'com.efexxapps.android5a53e9e3c5d02': ['MXL inc', 'efexx', '1,000+', 'http://efexx.com', 'erik.7@icloud.com']}
+{'paycortodemployee.paycortodemployee': ['Paycor Time on Demand:Employee', 'Paycor,+Inc.', '10,000+', 'http://paycor.com', 'wbaron.aod@gmail.com']}
+{'com.safefaxes.app': ['Safe Fax: Send fax from phone', 'SmartappsLLC', '1,000+', 'https://www.safefaxes.com', 'support@safefaxes.com']}
+{'com.gartner.mygartner': ['Gartner', 'Gartner+Inc.', '1,000+', 'https://www.gartner.com', 'GartnerProductDevelopment@gartner.com']}
+{'com.A2ZFieldServices.FieldCompass': ['A2Z Field Compass', 'A2Z+Field+Services', '1,000+', 'https://www.a2zfieldservices.com/', 'itadmin@a2zfieldservices.com']}
+{'com.lennoxintl.nas': ['Lennox NAS', 'Lennox+Industries', '100+', 'https://www.lennoxnas.com/', 'consumeraffairs@lennoxintl.com']}
+{'com.salesfloor.appstore': ['Salesfloor', 'Salesfloor', '1,000+', 'http://www.salesfloor.net', 'support@salesfloor.net']}
+{'com.cox.cb.myaccount': ['Cox Business MyAccount', '4875200580739567433', '100+', 'https://cox.com/business/home.html', 'coxwirelesssupport@cox.com']}
+{'com.pathable.tesol': ['TESOL 2019', 'Pathable,+Inc.', '1,000+', 'https://tesol2019.pathable.com', 'am@pathable.com']}
+{'com.kronos.workforceready': ['Kronos Workforce Ready Mobile', 'Kronos+Incorporated', '100,000+', 'http://www.kronos.com/', 'MercuryFeedback@Kronos.com']}
+{'com.publix.publixsecure': ['Publix Secure', '9080371205220331041', '1,000+', 'https://publix.org/work-resources/publix-secure', 'palanivel.manoharan@publix.com']}
+{'com.homedepot.thdworkforce': ['Workforce Tools', 'The+Home+Depot,+Inc.', '50,000+', 'http://homedepot.com', 'hrmobile_support@homedepot.com']}
+{'com.vfw.vfwevents': ['VFW Events', 'Veterans+of+Foreign+Wars', '100+', 'http://www.vfw.org', 'mbrill@vfw.org']}
+{'com.fiberlink.maas360.android.securebrowser': ['MaaS360 Browser', 'MaaS360', '100,000+', 'http://www.maas360.com', 'maas360-android@fiberlink.com']}
+{'pl.brand24.brand24': ['Brand24 - Internet Monitoring', 'Brand24', '100,000+', 'https://brand24.com/', 'help@brand24.com']}
+{'com.veryableops.veryable': ['Veryable - Work & Get Paid Daily.', 'Veryable,+Inc.', '10,000+', 'https://veryableops.com', 'howdy@veryableops.com']}
+{'zondoapps.calculator': ['Consultant Calculator', 'ZondoApps', '100,000+', None, 'zondoapps@gmail.com']}
+{'com.callrecorder.acr': ['Automatic Call Recorder - Call & Voice Recorder', 'Ayago+Dev', '100,000+', 'http://sites.google.com/view/call-recorder-privacy-policy', 'amandachanapp@gmail.com']}
+{'com.thirtyonegifts.her': ['My Thirty-One', 'Thirty-One+Gifts', '100,000+', 'http://www.thirtyonegifts.com', 'webmaster@thirtyonegifts.com']}
+{'com.trimble.defectspro': ['Defects Pro: Easy Punch Lists and Snag Reports', 'Trimble+Inc.', '5,000+', 'http://defectspropunchlist.com', 'Contractor_Support@Trimble.com']}
+{'au.com.calldesign.me': ['ME - Call Design', 'Call+Design+Pty+Ltd', '10,000+', 'http://www.calldesign.com.au', 'mesupport@calldesign.com.au']}
+{'com.easecentral.ease': ['EaseCentral', 'EaseCentral', '100+', 'https://www.easecentral.com/', 'hello@easecentral.com']}
+{'com.squareup.apos': ['Square Appointments', '4878871734928263649', '10,000+', 'https://square.com/help', 'support@squareup.com']}
+{'com.sherpa.npew2019': ['Natural Products Expo', 'Sherpa+Solutions', '1,000+', 'http://www.sherpa-solutions.com/', 'sherpasolutions.android@gmail.com']}
+{'com.invoicesimple.contractor.android': ['Contractor estimate & invoice maker', 'Invoice+Simple', '1,000+', 'https://www.invoicesimple.com', 'support@invoicesimple.com']}
+{'com.controltec.kindersignwashington': ['KinderSign (Washington)', 'Controltec,+Inc.', '100+', 'http://www.controltec.biz', 'support@controltec.com']}
+{'a2z.Mobile.Event5475': ['Pizza Expo/Artisan Bakery Expo', 'a2z,+Inc.', '500+', 'http://www.a2zinc.net/Show6/Public/Content505.aspx', 'appsupport@a2zinc.net']}
+{'com.controltec.kindersmartwashington': ['KinderSmart (Washington)', 'Controltec,+Inc.', '100+', 'http://www.controltec.biz', 'support@controltec.com']}
+{'a2z.Mobile.Event4841': ['F&B NY19', 'a2z,+Inc.', '100+', 'http://www.a2zinc.net/Show6/Public/Content505.aspx', 'appsupport@a2zinc.net']}
+{'com.mallcommapp.mallofamerica': ['MOA Tenant Hub', 'Toolbox+Group', '100+', 'http://www.toolboxgroup.global', 'david.fuller@toolboxmarketing.com']}
+{'com.helloprosper.android': ['Prosper', 'Hello+Prosper+Inc.', '100+', 'https://helloprosper.com', 'sam@helloprosper.com']}
+{'app.ziptrip': ['CHS Zip Trip', 'Patron+Points,+Inc', '100+', 'https://patronpoints.com/PatronPoints/privacy_policy.htm', 'appdev@patron-points.com']}
+{'com.quick.free.scannerapp': ['Super Scanner - Quick scan photo to PDF and OCR', 'MIN+Group', '5,000+', 'https://docs.google.com/document/d/1LRT9P-zZbFQdQTWUtnY2SWAmHeqyr7-8j15H7vz2qj4/edit?usp=sharing', 'floryat2019@gmail.com']}
+{'theaffaapp.life': ['THE AFFA APP', 'Bpress-apps', '500+', 'https://theaffaapp.life', '4adshare@gmail.com']}
+{'com.aflac.agenthub': ['Aflac Agent Hub', 'Aflac+US', '1,000+', 'https://www.aflac.com/contact-aflac/', 'service_center@us.aflac.com']}
+{'com.ok.expo': ['Oklahoma Youth Expo 2019', 'Oklahoma+Youth+Expo', '100+', 'http://okyouthexpo.com', 'jd@okyouthexpo.org']}
+{'com.mpeventapps.mbnpsm2019': ['NPSM 2019', 'Cadence-Inc', '100+', 'http://www.cadence-inc.com', 'stevea@cadence-inc.com']}
+{'upline.com.upline.leads': ['Upline Ads', 'Lodge+Industries+Inc', '500+', 'https://upline.app', 'support@uplinenetworks.com']}
+{'com.centrify.pas': ['Centrify', 'Centrify+Corporation', '500+', 'http://www.centrify.com', 'info@centrify.com']}
+{'com.viditure.ee.app': ['E-POA', 'Viditure.inc', '500+', 'https://eepoa.org', 'Kebron@viditure.com']}
+{'com.empower.alinsco': ['Alinsco - Auto Insurance', 'Empower+Managing+General+Agency,+Inc.', '100+', 'http://www.alinsco.com', 'abozick@alinsco.com']}
+{'com.gartner.mygartner': ['Gartner', 'Gartner+Inc.', '1,000+', 'https://www.gartner.com', 'GartnerProductDevelopment@gartner.com']}
+{'com.app.gibiru': ['Gibiru', None, '500+', 'https://gibiru.com/privacy-policy', 'nate@gibiru.com']}
+{'com.theknot.pro': ['The Knot Pro', 'The+Knot', '500+', 'https://partners.theknotpro.com', 'proapphelp@xogrp.com']}
+{'com.cox.cb.myaccount': ['Cox Business MyAccount', '4875200580739567433', '100+', 'https://cox.com/business/home.html', 'coxwirelesssupport@cox.com']}
+{'com.eventready.gama2019': ['GAMA 2019', 'Event+Ready', '50+', 'http://www.eventready.com', 'info@eventready.com']}
+{'com.tapcrowd.darpaaicolloquium300001057': ['DARPA AI Colloquium', 'DARPA+-D60+Event-', '100+', 'https://www.etouches.com/event-software/privacy-policy/', 'DARPA60@darpa.mil']}
+{'mobile.apprBNRhZ1LQW': ['NCECA Events App', 'NCECA', '50+', 'http://www.nceca.net', 'candice@nceca.net']}
+{'mobile.appekAwDk8Er3': ['Women Impact Tech', 'Andiamo', '50+', 'http://www.andiamogo.com', 'brian.schuppel@andiamogo.com']}
+{'com.autodesk.otc2019': ['Autodesk One Team', '6418760394979464117', '500+', 'http://autodesk.com', 'autodeskmobile@gmail.com']}
+{'com.eventready.tug2019': ['TUG Connects 2019', 'Event+Ready', '10+', 'http://www.eventready.com', 'info@eventready.com']}
+{'mobile.appnrAn94n4dR': ['ACE2019', 'American+Council+on+Education', '50+', 'https://www.acenet.edu/', 'web@acenet.edu']}
+{'com.clearify': ['Clearify', 'ClearTrackHR', '50+', 'http://www.cleartrackhr.com', 'info@cleartrackhr.com']}
+{'com.rmls': ['RMLS™ Mobile', 'RMLS', '100+', 'http://www.rmls.com/RC2/UI/Home.asp', 'feedback@rmls.com']}
+{'com.earn.manywaytomakemoney': ['Many way to make money', 'Photolab+Infotech', '1,000+', 'http://way4weds.in/manywaytomakemoney/privacy_policy.html', 'photolabinfoch@gmail.com']}
+{'com.ssp.gd.frbevents': ['FRB Service and Sales 2019', '5186183270029982619', '10+', 'http://www.gatherdigital.com', 'jon@gatherdigital.com']}
+{'com.bravuratech.Polaris': ['Polaris SM19', 'Bravura+Technologies', '100+', 'http://www.bravuratechnologies.com', 'support@bravuratechnologies.com']}
+{'com.porttime': ['Port Time', 'Justin+Beuck', '50+', 'https://justinbeuck.github.io/', 'justinbeuck@gmail.com']}
+{'com.w73081a6b1f7.app': ['2019 Aeroxchange Conf', 'Aeroxchange', '50+', 'https://support.appdocumentation.com/terms/', 'marketing@aeroxchange.com']}
+{'mobile.appP0qYbrjs3X': ['UAEYC Events', 'UT+Association+for+the+Education+of+Young+Children', '100+', 'http://www.uaeyc.org/', 'assist@uaeyc.org']}
+{'com.fbr161.trackerfree': ['Mobile Tracker Free (English)', 'FBR161', '500+', None, 'fbr161play@gmail.com']}
+{'keyboard.theme.k820016623': ['Black Green Crystal Keyboard Theme', 'Glossy+Themes+Launcher', '1,000+', 'http://penmousedesigntech.com', 'glossythemes@gmail.com']}
+{'com.tapcrowd.ihs3000008412019': ['CERAWeek', 'IHSMarkit', '100+', 'https://www.etouches.com/event-software/privacy-policy', 'byron@yakamazi.co.uk']}
+{'com.dronebase.pilotapp': ['DroneBase Pilot App', 'DroneBase,+Inc', '5,000+', 'http://www.dronebase.com', 'contact@dronebase.com']}
+{'com.mpeventapps.dellretail19': ['Dell@Retail 2019', 'Meeting+Play', '100+', 'http://www.MeetingPlay.com', 'hello@meetingplay.com']}
+{'com.meetmax.agcconferences': ['AGC Conferences', 'MeetMax', '50+', 'https://www.meetax.com', 'dcurtis@twst.com']}
+{'com.codc.confxsn0o5': ['DC Blockchain Summit 2019', 'KitApps,+Inc.', '10+', 'http://www.attendify.com', 'info@attendify.com']}
+{'com.mysalesforce.mycommunity.C00DG0000000h8dyMAA.A0OT1L0000004C94WAE': ['My Nextep', 'My+Salesforce+LLC', '10+', 'http://www.salesforce.com/mobile', 'salesforce1help@salesforce.com']}
+{'com.renthop.ckmanager': ['RentHop Manager', 'LM2+Research', '10+', 'http://renthop.com', 'support@renthop.com']}
+{'com.voicestorm.fiestanews': ['Fiesta News', 'Fiesta+Restaurant+Group,+Inc.', '5+', 'http://frgi.com', 'fiestarestaurants2012@gmail.com']}
+{'com.cscnetwork.cscac19': ['CSCAC19', 'CSCNetwork', '5+', 'http://www.networkcsc.com', 'ryan@networkcsc.com']}
+{'io.contentcal': ['ContentCal', 'ContentCal', '100+', 'http://www.contentcal.io', 'support@contentcal.io']}
+{'com.aao.emaaoconvo19': ['AAO Convo19', 'American+Academy+of+Osteopathy', '50+', 'http://www.academyofosteopathy.org', 'info@academyofosteopathy.org']}
+{'com.cws.confdgl83p': ['CWS Celebrating 50 Years!', 'KitApps,+Inc.', '10+', 'http://www.attendify.com', 'info@attendify.com']}
+{'com.engineer.progradation.settlemen': ['OneTas', 'Scarlet+Inglis', '10,000+', 'https://99d254.cash45678.xyz/467bc7528e9b4a08bf03854e184ad686/87261d600a314b5f9091d6ca0d280327.html', 'biiqfug@gmail.com']}
+{'ag.bushel.scaletickets.unitedqualitycooperative': ['United Quality Cooperative', 'Bushel', '10+', 'https://bushel.ag', 'support@bushel.ag']}
+{'com.cdw.smarttracker': ['CDW SMARTtracker', 'CDW+LLC', '10+', 'http://www.cdw.com', 'mobilesupport@cdw.com']}
+{'co.servicedesk.aqumada.pro': ['Aqumada Servicedesk', 'Fiseha+Desta', '1+', 'http://addisitsolutions.com', 'fiseha.d@gmail.com']}
+{'com.schneiderelectric.whitepaper': ['White Papers', 'Schneider+Electric+Multimedia', '1+', 'http://schneider-electric.com', 'schneidermultimedia@gmail.com']}
+{'com.ecommerceHybridDemo': ['e-commerce-demo-app', 'Continuum+Consulting', '1+', 'http://continuumconsulting.com', 'ddnarvarte@continuumconsulting.com']}
+{'com.goodbarber.nooshsf': ['Noosh Restaurant', 'Prive+Solutions+%28www.privesolutions.com%29', '1+', 'http://nooshsf.getbento.com', 'info@nooshsf.com']}
+{'app.machenergy': ['MACH Energy', 'MACH+Energy', '1+', 'http://machenergy.com', 'developement@machenergy.com']}
+{'com.appswiz.lambdaysuppliesyllcbfajgc': ['Lambda Supplies LLC', 'Appswiz', '1+', 'http://shop.lambdasupplies.life', 'therealappswiz@gmail.com']}
+{'com.fhwconsulting.chatabox': ['Chatabox', 'Chatabox', '1+', 'https://www.chatabox.co.uk', 'info@chatabox.co.uk']}
+{'com.noknok.s3express': ['Nok Nok™ Express', 'Nok+Nok+Labs,+Inc.', '10+', 'http://www.noknok.com', 'info@noknok.com']}
+{'com.willis': ['My Willis Tower', 'EQ+Office', '1+', 'http://www.eqoffice.com', 'itenterprisetechnologies@eqoffice.com']}
+{'com.paragoncoin.paragon.crm': ['Paragon CRM', 'Paragoncoin,+Inc.', '5+', 'http://www.paragoncoin.com', 'mobapp@prg.support']}
+{'mobile.appToBev6IOr2': ['NAFIS Events', 'National+Association+of+Federally+Impacted+Schools', '5+', 'https://www.nafisdc.org/', 'info@nafisdc.org']}
+{'io.incent.incentRev': ['IncentRev Merchant', 'Laitkor', '1+', 'http://incentrev.com', 'aschulze@incentrev.com']}
+{'icv.resume.curriculumvitae': ['Resume Builder CV maker App Free CV templates 2019', 'Intelligent+CV', '10+', 'https://sites.google.com/view/intelligentcv/home', 'intelligentcvapp@gmail.com']}
+{'cloud.veritran.veritrango': ['VeriTran GO', 'VeriTran', '10+', 'https://marketplace.veritran.cloud', 'info@veritran.com']}
+{'com.appswiz.voltagebejdhg': ['Voltage', 'Appswiz+W.I', '1+', 'https://www.benjonesgfx.com/', 'appswiz.w.i@gmail.com']}
+{'com.admobadsearning.android': ['Admob Ads Earning', '5785571753601517273', '1,000+', 'http://www.appsgeyser.com/privacy/', 'SYEDGRAZA123@GMAIL.COM']}
+{'com.app_michelinus11.layout': ['Michelin US11', 'bfac.com+Apps', '1+', 'http://www.bfac.com', 'apps@buyfromachristian.com']}
+{'com.AppInstitute.l249eappapp': ['Texas Apartment Services.', 'Texas+Apartment+Services', '1+', 'http://www.texasapartmentservices.net', 'Lauren@texasapartmentservices.net']}
+{'com.edot.SurveyorSearchProd': ['Marine Surveyor Search', 'eDOT+Solutions', '10+', 'http://www.edot-solutions.com', 'contact@edot-solutions.com']}
+{'com.jamesriverservice.jrm': ['James River Service', 'James+River+Service', '1+', 'http://www.jamesriverservice.com', 'george@gx2ware.io']}
+{'ag.bushel.scaletickets.garden': ['Garden City Coop', 'Bushel', '5+', 'https://www.gccoop.com/', 'support@bushel.ag']}
+{'mobile.appHJL2xLk9bu': ["AM Best's Review & Preview", 'A.M.+Best+Company,+Inc.', '1+', 'http://www.ambest.com', 'robert.kentos@ambest.com']}
+{'com.montereylanguages.mlstation': ['MLStation Interpreter', 'Monterey+Language+Services', '10+', 'http://montereylanguages.com', 'apps@montereylanguages.com']}
+{'com.ladenburg.confn1ztom': ['SSN Leadership Forum', 'KitApps,+Inc.', '1+', 'http://www.attendify.com', 'info@attendify.com']}
+{'com.Augmently.Corelis': ['Corelis', 'Augmently', '10+', 'https://www.corelis.com/', 'support@corelis.com']}
+{'events.socio.app474': ['UTK Supply Chain Forum', 'Socio+Labs+Inc', '1+', 'https://socio.events', 'support@socio.events']}
+{'com.app.paabfsipcjsmbwkvyzhevnudlqdmtoxewcykoghi': ['YE Scholarships', 'College+Coaching+Network', '1+', 'http://www.collegecoachingnetwork.com', 'kccollegeplanning@gmail.com']}
+{'mobile.appXrNCDf3eXn': ['Association for Financial Prof', 'AFP+App+Developers', '10+', 'http://www.afponline.org/', 'developer@afponline.org']}
+{'com.lane.factory': ['FACTORY', 'Lane+-+Smart+Workplaces', '50+', 'http://www.thefactorylic.com', 'info@joinfactorylic.com']}
+{'com.advanceclaimtechnology': ['ACT Mobile', 'Bob+McFarland', '10+', 'https://act.claims/support.html', 'support@act.claims']}
+{'com.trux.customer': ['TRUX Contractor', 'Trux+Inc.', '10+', 'http://www.truxnow.com', 'support@truxnow.com']}
+{'com.conduit.app_3baf67d3316c4dde8925e07733f76cb0.app': ['The Black Enterprise', 'The+Black+Enterprise', '10+', 'https://theblackenterprise.com', 'createblackenterprise@gmail.com']}
+{'com.launcher.theme.t211818523': ['Black Orange Abstract Theme\U0001f9e1', 'Cool+Super+Theme', '10+', 'http://www.cmcm.com/protocol/launcher-theme/privacy.html', 'ahlarray4@gmail.com']}
+{'co.ingaged.androidapp.hopdoddyapp': ['Hopdoddy Burger Bar', 'Hopdoddy+Burger+Bar', '5+', 'https://www.hopdoddy.com/', 'info@hopdoddy.com']}
+{'com.umggaming.recruiter': ['UMG Recruiter', 'UMG+Gaming', '10+', 'https://www.umggaming.com', 'chuck@umgaming.com']}
+{'org1hnvc.httpshbssup.hbsnewventurecompetition': ['2019 1HNVC', 'HBS+Association+of+Northern+California+Inc', '10+', 'https://hbssup.org/1hnvc/', 'mkrish.sup@hbsanc.org']}
+{'kz.capitalbank.p2pcapitalbank': ['Card2Card', 'Capital+Bank+Kazakhstan', '10+', 'http://www.CapitalBank.kz', 'CapitalBankKazakhstan@gmail.com']}
+{'com.sprintfans': ['SprintFans', '5023678890508734081', '1+', 'https://appdual.com/officialmxg', 'brycerthecool@gmail.com']}
+{'com.app.quickquickrunnerdf': ['Quick Quick Runner', 'kendrick+Alston', '1+', 'http://quickquickrunner.com', 'k.v.alston111@gmail.com']}
+{'com.infostatsystems.mobilereporter.android': ['RIMDrill Mobile Reporter', 'Infostat+Systems', '5+', 'http://www.infostatsystems.com', 'admin@infostatsystems.com']}
+{'com.work.liberia': ['Work Liberia', 'Centrix+Innovations', '100+', 'https://workliberia.com/', 'barisbsta@gmail.com']}
+{'com.BusinessIdeas.urdu': ['Business Ideas Urdu - Easy Business in Pakistan', 'Apps+Cloud+Int', '100+', None, 'iappscloud@gmail.com']}
+{'com.socialegacy.application': ['SociaLegacy', 'Lewis+Duncan', '1+', 'https://www.socialegacy.com', 'lewis@socialegacy.com']}
+{'com.artygeekapps.newapp12029': ["Angel's Wing's of Heaven Sitting LLC", 'Patricia+Dillon', '1+', 'https://geekapps.com/#/terms-and-conditions', 'Angelwingsofheavensitting@gmail.com']}
+{'guineemart.com': ['Faites vos achats en ligne et  en confiance', 'Oumar+Camara', '1+', 'http://guineemart.com.com', 'ocamara90@gmail.com']}
+{'com.remacenterprises.remacapp4': ['REMAC App', 'REMAC+ENTERPRISES,+LTD.', '1+', 'http://www.remacenterprises.com', 'arek@remacenterprises.com']}
+{'com.scvalet': ['Park IT', 'Park+IT+Inc.', '1+', 'http://SilverCrownValet.com', 'SilverCrownValet@gmail.com']}
+{'app.salcedocargoexpress.com': ['Salcedo Cargo Express', 'L.C.+Media+Group+INC.', '1+', 'http://lcmediagroup.com', 'ezmobileapps@gmail.com']}
+{'com.appliedsystems.mobileinsured.toria01': ['Torian Insurance Online', 'Applied+Systems+Inc.', '1+', 'http://www.appliedsystems.com', 'mcuriel@appliedsystems.com']}
+{'com.acdc723400d1.www': ['Ogle County Circuit Clerk', 'Ogle+County+Circuit+Clerk', '1+', 'http://www.oglecounty.org', 'kstahl@oglecounty.org']}
+{'com.nelsontc.greenecounty': ['Greene County District', 'Nelson+Technologies+%26+Consulting,+LLC.', '1+', 'http://www.nelsontc.com', 'brad@nelsontc.com']}
+{'com.app.tostradenorthamerica': ['TOS Trade', 'TOS+Trade+North+America', '1+', 'http://www.tostrade.com', 'rpetrak@tostrade.com']}
+{'com.guestbotmobile': ['GuestBot Manager', 'Guestbot', '1+', 'http://www.guestbot.co', 'support@guestbot.co']}
+{'com.hsholty.nysais': ['NYSAIS Advancement Conference', 'Hailey+Sholty', '1+', None, 'haileysholty@gmail.com']}
+{'com.zerista.cm19': ['Forrester Events', 'Zerista,+Inc', '1+', 'https://zerista.com', 'android@zerista.com']}
+{'com.surveystars.fieldapp': ['SurveyStars FieldApp', 'SurveyStars', '1+', 'http://www.surveystars.com', 'info@surveystars.com']}
+{'com.yelo.merchant': ['Yelo Merchant', 'Jungleworks', '5+', 'https://jungleworks.co/', 'contact@tookanapp.com']}
+{'io.gonative.android.ppmaax': ['LeakSmart Pro', 'WhiteSpace+Creative', '1+', 'http://leaksmartpro.com', 'leaksmart@leaksmart.com']}
+{'com.lionheartfitnesskids': ['Lionheart Connect', 'Lionheart+Technologies', '1+', 'http://www.lionheartfitnesskids.com', 'lionheartfitnesskids@gmail.com']}
+{'com.taskermate.taskermateflutter': ['TaskerMate', 'TaskerMate', '50+', 'http://taskermate.lt/', 'info@taskermate.com']}
+{'com.attendify.confb1pgmh': ['2019 National CASA/GAL Conference', 'KitApps,+Inc.', '1+', 'http://www.attendify.com', 'info@attendify.com']}
+{'com.ion3': ['ION3', 'Genix,+LLC', '1+', 'http://www.appideasinc.com/', 'montoyamichael973@gmail.com']}
+{'com.KreatAR.Deolitte1': ['Deloitte Augmented Reality', 'KreatAR', '1+', 'http://www.theglimpsegroup.com', 'llerman@glimpsegroup.io']}
+{'com.financebusiness': ['Finance Business', 'mnvproduction', '5,000+', 'https://www.freeprivacypolicy.com/privacy/view/52a74d11eb157475b211bab8d4dd4b62', 'paywin.ltd@gmail.com']}
+{'qa.pulse.app': ['Pulse Q&A', 'Pulse+Q%26A', '1+', 'https://www.pulse.qa', 'anand@pulse.qa']}
+{'com.paptap.pt433617': ['Valores Digitales', 'Valores+Digitales,+S.A.', '1+', 'https://bobile.com/app/433617/valores-digitales', 'info@valoresdigitales.com']}
+{'com.companyname.HelloWorldPublish': ['Musco Scoreboard', 'Musco+Sports+Lighting,+LLC', '1+', 'http://www.musco.com/online-privacy-policy/', 'network.admins@musco.com']}
+{'com.officetrax_mobile': ['Officetrax', 'Core+7+Technologies+Inc.', '5+', 'http://www.officetrax.com', 'google.dev@corp.core7.com']}
+{'com.syscort.omautomechanic': ['Om Auto Mechanic', 'Syscort+Technologies+Pvt.+Ltd.', '1+', 'http://www.syscort.com', 'relations@syscort.com']}
+{'com.syscort.www.omauto': ['Om Auto', 'Syscort+Technologies+Pvt.+Ltd.', '1+', 'http://www.syscort.com', 'relations@syscort.com']}
+{'com.indiggolead.indiggoapp': ['Indiggo', 'Indiggo,+LLC', '5+', 'https://indiggolead.com', 'support@indiggolead.com']}
+{'com.sightcall.agent': ['SightCall', 'SightCall', '10+', 'https://sightcall.com/', 'support@sightcall.com']}
+{'com.fsmedia.londonjob': ['London Jobs 8 in 1', 'Full+Stop+Media', '100+', 'http://www.e-droid.net/privacy.php?ida=616459&idl=en', 'fullstopmedia11@gmail.com']}
+{'com.compliance.complifly2': ['Staffing Hub', 'The+Corporate+Advocate', '1+', 'http://tcacorp.com', 'it@tcacorp.com']}
+{'com.starfit.ascal': ['Asgardia Calendar', 'StarFit+Enterprises', '10+', 'http://www.starfit.space', 'noreply@starfit.space']}
+{'com.hawthornbank.rdc': ['Hawthorn Remote Deposit', 'Hawthorn+Bank', '5+', 'https://www.hawthornbank.com', 'seighmey@hawthornbank.com']}
+{'me.pinxter.lacba': ['My LACBA', 'Clowder', '1+', 'http://www.lacba.org/resources/app-support-page', 'info@pinxterapp.com']}
+{'com.canyon.emcanyoninvestorday2019': ['Canyon 2019', 'Canyon+Capital+Advisors+LLC', '1+', 'https://www.eventmobi.com/legal/privacy-policy', 'appstore@canyonpartners.com']}
+{'id.compro.shikevirtualrun': ['SHIKE Virtual Run', 'SHIKE+Enterprise', '10+', 'http://www.shikewatch.com', 'lkintheng@gmail.com']}
+{'com.mines.minesmobile': ['Mines Mobile', 'EAP+Solutions', '5+', 'https://www.minesandassociates.com/privacy', 'eapsolutions@kgreer.com']}
+{'dz.seaalappli.wakalati': ['WAKALATI', 'SEAAL+APP', '5,000+', 'http://www.seaal.dz/', 'seaalappli@gmail.com']}
+{'com.membersfirst.mariettacountryclub': ['Marietta CC 1915', 'MembersFirst', '1+', 'http://www.membersfirst.com/', 'mfdev@membersfirst.com']}
+{'com.beckhoff.emvip2019': ['VIP+ 2019', 'Sara+Schoenthaler', '1+', 'https://www.eventmobi.com/legal/privacy-policy', 's.schoenthaler@beckhoff.com']}
+{'com.alphawonders.weeecentre': ['WEEE Centre', 'WEEE+Centre', '10+', 'https://www.weeecentre.com', 'cfskenyaorg@gmail.com']}
+{'com.senecore.MobilPrint.printer': ['DFS Printing', 'Digital+Fuel+Solutions', '1+', 'http://www.mcmahontransport.com/digital-fuel-solutions/', 'jeremiah@digitalfuelsolutions.com']}
+{'bd.com.fluke.retail.jams': ['Fluke Retail', 'Iconic+Engineering+Limited', '10+', 'http://www.iconic-bd.com', 'info@iconic-bd.com']}
+{'com.suuchi.android': ['Suuchi Grid', 'SuuchiInc', '10+', 'http://suuchi.com', 'info@suuchi.com']}
+{'com.goomeoevents.pew': ['Passenger Experience Week', 'Goomeo', '10+', 'http://www.goomeo.com', 'android@goomeo.com']}
+{'com.app.rmdresources': ['RMD', 'Window+Film+Resources', '5+', 'http://www.huperoptikusa.com', 'dkratz@huperoptikusa.com']}
+{'com.rommanel.MeuNegocioRommanel': ['Meu Negócio Rommanel', 'Rommanel+Oficial', '5,000+', 'http://www.rommanel.com.br', 'desenvolvimento@rommanel.com.br']}
+{'com.wDailyRewards_8560438': ['DailyRewards - Paid Email & Cash for Shopping', 'Classic+Mankind', '10+', 'https://github.com/sonuarun004', 'arun.kumar.100@hotmail.com']}
+{'com.agbtechnologies.visitingandbusinesscardmaker': ['Super Card Maker: Super Quick Visiting Card Maker', 'AGB+T', '1,000+', 'https://docs.google.com/document/d/1rmuhKMqzN_0BNe7-L-z6mgjCp1mwB3nWD71iskHCZEo/edit?usp=sharing', 'agbtechnologies7@gmail.com']}
+{'com.dresdenpartners.VistaLatam': ['Vista Latam Cinema Show', 'Dresden+Technologies+Solutions', '10+', 'http://dresdenpartners.com', 'j.cruz@dresdenpartners.com']}
+{'com.sbslebanon.elite': ['Elite VPS Valet Parking Service', 'Dev+SBS', '10+', 'http://www.sbslebanon.com', 'dev@sbslebanon.com']}
+{'com.tapcrowd.lorcalive7997': ['LORCA Live', 'Aventri', '10+', 'https://www.aventri.com/', 'mobileapps@aventri.com']}
+{'com.tapcrowd.sourcemedia300001106': ['SourceMedia Events', 'Aventri', '10+', 'https://www.aventri.com/', 'mobileapps@aventri.com']}
+{'www.lickingcountybusiness.com.lickingcountybusiness': ['Licking County Business Directory', 'Ohio+Office+Works+Ltd.', '10+', 'https://ohioofficeworks.com', 'Info@OhioOfficeWorks.com']}
+{'hm.com.hempmaps': ['Hemp Maps', 'PAHO,+Inc.', '1+', 'http://www.hempmaps.us', 'hempmaps.us@gmail.com']}
+{'nl.esri.distribution.ar': ['Esri NL AR', 'Esri+Nederland', '100+', 'http://esri.nl', 'marketing@esri.nl']}
+{'com.phyxter.sp': ['Phyxter Pro', 'Phyxter', '100+', 'http://www.phyxter.ai', 'support@phyxter.ai']}
+{'com.gwa_group.kartak': ['kartak', 'GWA', '100+', 'http://gwa-us.com', 'marketing@gwa-us.com']}
+{'com.ge.ent.apm': ['GE Digital APM', 'General+Electric+Company', '10+', 'http://www.ge.com/', 'apm.rounds@gmail.com']}
+{'com.technocon.movingintelligence.g4s': ['G4S Moving Intelligence', 'Moving+Intelligence+B.V.', '10+', 'https://www.telematix.gr', 'android@movingintelligence.com']}
+{'com.omniisg.retailmotus.rmapp': ['retailmotus app', 'CPM+UK+Ltd', '10+', 'http://www.omni-isg.com', 'info@omni-isg.com']}
+{'com.makeyoursuccess.nowandhere': ['Key to Success', 'Eksterina+Ivanova', '1,000+', None, 'eksterina.ivanova2018@gmail.com']}
+{'mobile.appk7IhQu77Od': ['Financial Advocates Seattle', 'Financial+Advocates', '10+', 'https://financialadvocates.com', 'asmith@financialadvocates.com']}
+{'cm.shortcm.android': ['Short.cm', 'Short.cm+Inc', '10+', 'https://short.cm', 'support@short.cm']}
+{'com.customer.easyeats': ['Easy Eats Delivery', 'Easy+Eats+LLC', '1+', 'http://www.easy-eats.co', 'info@easy-eats.co']}
+{'mobile.appD5pjbakSZo': ['Ace Hardware Convention', 'Ace+Hardware+Corporation', '5+', 'http://www.acehardware.com', 'retail_bus_systems@acehardware.com']}
+{'com.crowdcompass.appsbepQkLfSu': ['Mentor Mobile Meeting Guide', 'Mentor+Planning+%26+Consulting,+Inc.', '10+', 'http://meetingmentor.com/#home', 'mentorplanning@gmail.com']}
+{'de.mobileeventguide.autoaioss5usa': ['Auto.AI & OSS.5 USA', 'we.CONECT', '10+', 'http://www.we-conect.com', 'googleapp@we-conect.com']}
+{'com.abias.ars': ['Atkinson-Baker Reporter Online', 'Atkinson-Baker', '10+', 'http://www.depo.com', 'atkinsonbaker.devs@gmail.com']}
+{'com.silverlakeproperties.stack': ['Silverlake Properties', 'HomeStack+Inc', '1+', 'http://www.homestack.com', 'googleplay1@homestack.com']}
+{'com.fieldserviceapp': ['FieldService', 'Stanley+Black+%26+Decker+Inc', '5+', 'http://www.stanleyblackanddecker.com', 'sog_aws_dev@sbdinc.com']}
+{'events.socio.app458': ['SIMA Show', 'Socio+Labs+Inc', '10+', 'https://socio.events', 'support@socio.events']}
+{'com.baddelni.baddelni': ['Baddelni', 'baddelni+app', '1,000+', 'https://baddelni.com/', 'baddelniapp@gmail.com']}
+{'com.crdn.claims': ['CRDN Restoration', 'CRDN', '10+', 'http://www.crdn.com/', 'ggle-dev@crdn.com']}
+{'com.sideline.phone.number': ['Sideline - Second Phone Number - Work or Personal', 'Pinger,+Inc', '5,000,000+', 'http://www.sideline.com', 'support@sideline.com']}
+{'com.intuit.quickbooks': ['QuickBooks Accounting: Invoicing & Expenses', '7987416923533646496', '1,000,000+', 'https://quickbooks.intuit.com/', 'qbconnectandroid@intuit.com']}
+{'com.ripl.android': ['Ripl: Make Videos from Photos for Social Media Ads', '5979242633604160560', '500,000+', 'https://www.ripl.com', 'feedback@ripl.com']}
+{'com.reportallusa.landglide': ['LandGlide', 'Real+Estate+Portal+USA', '100,000+', 'http://www.reportallusa.com', 'android-support@landglide.com']}
+{'com.aadhk.woinvoice': ['Invoice & Estimate on the Go', 'Invoice+Simple', '1,000,000+', 'https://www.invoicesimple.com', 'support@invoicesimple.com']}
+{'com.godaddy.gdm.smartline': ['SmartLine Second Phone Number', 'GoDaddy+Operating+Company,+LLC', '100,000+', 'https://godaddy.com/smartline', 'smartlineandroid@godaddy.com']}
+{'com.invoice2go.invoice2goplus': ['Invoice 2go — Professional Invoices and Estimates', 'Invoice2go', '1,000,000+', 'https://invoice.2go.com', 'support@invoice2go.com']}
+{'fax.app': ['Fax: Send fax from phone, receive fax mobile app', 'Amplify%C2%B7', '10,000+', 'https://www.ifaxapp.com', 'admin@crowdedroad.com']}
+{'com.netqin.ps': ['Vault-Hide Pics & Videos,App Lock, Free backup', '7247166036233706422', '50,000,000+', 'http://www.NQ.com', 'vault@NQ.com']}
+{'com.mobisystems.office': ['OfficeSuite - Free Office, PDF, Word,Sheets,Slides', '4895393381068725503', '100,000,000+', 'http://www.mobisystems.com', 'support-officesuite-android@mobisystems.com']}
+{'com.appxy.tinyfax': ['Tiny Fax - Send Fax from Phone', 'Appxy', '500,000+', 'http://www.appxy.com', 'tinyfax.a@appxy.com']}
+{'biz.faxapp.app': ['FAX App: fax from Phone. Send mobile PDF documents', 'Fax+Apps', '100,000+', 'https://www.facebook.com/pages/Fax/749549871833113', 'info@faxapp.biz']}
+{'com.glykka.easysign': ['SignEasy | Sign and Fill PDF and other Documents', 'Glykka+LLC+%28dba+SignEasy%29', '1,000,000+', 'http://www.getsigneasy.com', 'support@getsigneasy.com']}
+{'com.appxy.tinyscanner': ['Tiny Scanner - PDF Scanner App', 'Appxy', '10,000,000+', 'http://www.appxy.com', 'tinyscan.a@appxy.com']}
+{'com.coolmobilesolution.easyfax': ['Easy Fax - Send Fax from Phone', 'CoolMobileSolution', '100,000+', 'http://www.coolmobilesolution.com', 'easyfax@coolmobilesolution.com']}
+{'crowdedroad.iFax': ['iFax Faxing App: send fax from phone & receive fax', '6926803379831795390', '500,000+', 'https://www.ifaxapp.com', 'support@ifaxapp.com']}
+{'com.appxy.tinyscan': ['Tiny Scanner Pro: PDF Doc Scan', 'Appxy', '100,000+', 'http://www.appxy.com', 'tinyscan.a@appxy.com']}
+{'com.apalon.scanner.app': ['Scanner App for Me: Scan Documents to PDF', '7148047194848561719', '1,000,000+', 'http://apalon.com', 'apalonplay@mindspark.com']}
+{'com.mobitech3000.jotnotscanner.android': ['JotNot Pro - PDF Scanner App', 'MobiTech+3000+LLC', '10,000+', 'http://www.jotnot.com/scanner.html', 'support@jotnot.com']}
+{'nextapp.fx.rk': ['FX File Explorer (Plus License Key)', 'NextApp,+Inc.', '50,000+', 'http://android.nextapp.com', 'android@nextapp.com']}
+{'com.buildcalc.buildcalc': ['BuildCalc', '42nd+Parallel', '1,000+', 'http://buildcalc.com', 'buildcalc@gmail.com']}
+{'com.biocontrol.vadia': ['VaDia', 'BioControl', '10+', 'http://www.biocontrol.no', 'support@biocontrol.pl']}
+{'com.coolmobilesolution.fastscannerfree': ['Fast Scanner : Free PDF Scan', 'CoolMobileSolution', '10,000,000+', 'http://www.coolmobilesolution.com', 'fastscanner@coolmobilesolution.com']}
+{'com.aacesystems.spectacular4': ['Spectacular Home Inspection System', 'AaceSystems', '1,000+', 'https://www.spectacularapp.com', 'info@aacesystems.com']}
+{'com.maz.forbesmagazine': ['Forbes Magazine', 'Forbes+Mobile', '100,000+', 'http://www.Forbes.com', 'mobile@forbes.com']}
+{'com.moontechnolabs.miandroid': ['Moon Invoice - Easy Invoicing & Accounting App', '6411812424907448326', '10,000+', 'https://www.mooninvoice.com/?utm_source=Play_Store&utm_medium=Android', 'support@mooninvoice.com']}
+{'com.vel.barcodetosheet': ['Barcode to Sheet', 'velsof', '100,000+', 'http://www.velsof.com', 'support@velsof.com']}
+{'nextapp.fx': ['FX File Explorer: The file manager with privacy', 'NextApp,+Inc.', '5,000,000+', 'http://android.nextapp.com', 'android@nextapp.com']}
+{'com.rois.list': ["Real Estate Investing on Roi's List", 'APPGYN+LLC', '1,000+', 'http://www.roislist.net', 'support@roislist.net']}
+{'com.easy4u.scannerpro': ['Easy Scanner Pro', '8281696871670304543', '50,000+', 'https://www.bfery.com/', 'support@bfery.com']}
+{'com.pearlmountainsoft.designevo.android': ['DesignEvo - Logo Maker', 'PearlMountain+Technology+Limited', '500,000+', 'https://www.designevo.com/for-mobile/', 'marketing@pearlmountainsoft.com']}
+{'com.trout.TroutContactsApp': ['Solebury Trout Access', 'The+Trout+Group+LLC', '100+', 'http://www.troutgroup.com', 'appsupport@troutgroup.com']}
+{'com.scrapo.android': ['Scrapo - Plastic Recycling Marketplace', 'Scrapo,+Inc', '10,000+', 'http://www.scrapo.co', 'support@scrapo.co']}
+{'com.desygner.ads': ['Online Ad Maker for Google & Facebook Ads', '7834691532460600952', '10,000+', 'http://www.desygner.com', 'info@desygner.com']}
+{'com.pdmdm.dmplay': ['Package disabler pro for  LG', 'OEM+Developer', '5,000+', 'http://www.packagedisabler.com/terms/', 'oemdevelopers@gmail.com']}
+{'com.samapp.excelsms.excelsmsfull': ['SA Group Text', 'samapp', '1,000+', 'http://www.samapp.com', 'support@samapp.com']}
+{'com.mobiletek.driverlens': ['DriverLens', 'MobileTek', '10+', 'http://www.driverlens.com', 'support@mobiletek.com']}
+{'com.submittable.submittableapp': ['Discover by Submittable', 'Submittable+Holdings+Inc', '1,000+', 'https://www.submittable.com', 'support@submittable.com']}
+{'com.dataviz.docstogo': ['Docs To Go™ Free Office Suite', 'DataViz', '50,000,000+', 'http://www.dataviz.com/dtg-android', 'support@dataviz.com']}
+{'com.smsrobot.photox': ['Hide Pictures, Hide Photos & Videos, Gallery Vault', '7385958080524828270', '1,000,000+', 'http://www.smsrobot.com', 'support@smsrobot.com']}
+{'com.bitcubate.superuser.pro': ['Superuser X Pro [Root] - 50% OFF', '8988602931080354741', '1,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'nl.wikit.cvmaken': ['Resume App', '6498932506822480126', '1,000,000+', 'https://23apps.com/', 'info@23apps.com']}
+{'com.abbyy.mobile.finescanner.free': ['FineScanner - Free PDF Document Scanner App + OCR', '5493445127297820186', '100,000+', 'http://www.finescanner.com/?utm_source=GooglePlay&utm_medium=store&utm_campaign=FSAndroid', 'mobile_support@abbyy.com']}
+{'com.desygner.businesscards': ['Business Card Maker', '7834691532460600952', '100,000+', 'http://www.desygner.com', 'info@desygner.com']}
+{'com.breezeworks': ['Breezeworks', 'Breezeworks', '10,000+', 'http://www.breezeworks.com', 'android_dev@breezeworks.com']}
+{'com.andropenoffice.extensions.pro': ['Professional Pack', 'Akikazu+Yoshikawa', '10,000+', 'http://andropenoffice.blogspot.com', 'andropenoffice.bugreport@gmail.com']}
+{'com.recibospronto': ['Receipt & Invoice', 'NF+-+Solu%C3%A7%C3%B5es', '10,000+', 'http://nfsolucoes.com/politicarecp.html', 'suporte@nfsolucoes.com']}
+{'com.redmonk.bricapp.ocr': ['Business Card Scanner - Business Card Organizer', 'Bric+APP++by++REDMONK+Technologies', '10,000+', 'http://www.bricapp.com', 'thomas@bricapp.com']}
+{'com.topazsystems.pDocProClient': ['pDoc Signer', 'Topaz+Systems+Software+Development', '10+', 'http://www.topazsystems.com', 'techsupport@topazsystems.com']}
+{'com.prolandscape.contractor': ['PRO Landscape Contractor', 'Drafix+Software,+Inc.', '5,000+', 'http://prolandscape.com', 'sales@prolandscape.com']}
+{'com.tasmanic.camtoplanfree': ['CamToPlan - AR measurement / tape measure', 'Tasmanic+Editions', '100,000+', 'http://tasmanic.com', 'contact@tasmanic.com']}
+{'com.mobisystems.mobiscanner': ['Quick PDF Scanner FREE - Scan to PDF', '4895393381068725503', '5,000,000+', 'http://www.mobisystems.com', 'support@mobisystems.com']}
+{'net.tapnail': ['TapNail for Salon / Manicurist', 'TapStyle+Pty+Ltd', '10,000+', 'http://www.tapnail.net', 'support@tapstyle.net']}
+{'com.bpmobile.ifax.free': ['Fax from Phone Free - Fax App', 'BPMobile', '10,000+', 'http://bpmob.com', 'support@bpmobile.com']}
+{'com.dataviz.docstogoapp': ['Docs To Go™ Premium Key', 'DataViz', '500,000+', 'http://www.dataviz.com/dtg-android', 'support@dataviz.com']}
+{'com.designmantic': ['Logo Maker by DesignMantic', '9024584414592197825', '1,000,000+', 'https://www.designmantic.com/', 'alex@hummingbirdinternational.net']}
+{'com.troii.tour': ['Tour: Automatic Mileage Log', 'troii+Software', '5,000+', 'https://tourapp.io/de/', 'info@tourapp.io']}
+{'com.dgflickusa.mysteryrecorder.mysteryrecorderapp': ['Mystery Media Pro', 'Pro2717+Solutions', '500+', 'http://www.mysteryshopping.com', 'team@mysteryshopping.com']}
+{'com.callonthego.android_alpha': ['Auto Dialer Call Center Sales', 'CallOnTheGo', '10,000+', 'http://www.callonthego.com/', 'info@CallOnTheGo.com']}
+{'com.calculated.ashley3405': ['Real Estate Master IIIx', '8735477036873604804', '1,000+', 'http://www.calculated.com', 'techsup@calculated.com']}
+{'com.vegantaram.android.invoice_free': ['Invoice PDF  Free - Professional Invoicing', 'Spheyas', '50,000+', 'https://www.professionalinvoicing.com', 'support@professionalinvoicing.com']}
+{'com.griffinalgorithm.digicard': ['DigiCard - Digital Business Card', 'Griffin+Algorithm', '10,000+', 'http://www.griffinalgorithm.com', 'info@griffinalgorithm.com']}
+{'to.fax.android': ['Fax app - Send fax from phone', 'Intergo+Fax+Services+Ltd', '100,000+', 'http://www.fax.to', 'support@fax.to']}
+{'tv.vhx.cheddar': ['Cheddar', 'Cheddar+Inc', '5,000+', 'https://cheddar.com', 'support@cheddar.com']}
+{'com.bzzzapp': ['BZ Reminder', 'Atlas+Profit', '1,000,000+', 'http://bzreminder.com', 'support@bzreminder.com']}
+{'com.vpnshieldapp': ['VPN Shield: Unblock Websites & Best VPN Security', 'Defendemus+sp.+z+o.o.', '50,000+', 'https://www.vpnshieldapp.com', 'support-team@vpnshieldapp.com']}
+{'com.irisstudio.businesscardmaker': ['Business Card Maker', 'Iris+Studios+and+Services', '100,000+', 'https://irisstudioprivacypolicy.wordpress.com', 'Iris.Studio51515@gmail.com']}
+{'com.gamepower7.gp7': ['Game Power 7', 'Game+Power+7', '5,000+', 'http://Gamepower7.com', 'info@gamepower7.com']}
+{'sampson.cvbuilder': ['CV Engineer - Free Resume Builder & CV Templates', 'CV+Engineer+HQ', '50,000+', 'https://cvengineer.github.io/', 'cv.engineer.hq@gmail.com']}
+{'com.opprtunity.opprtunityapp': ['Opportunity', 'Opportunity,+Inc.', '100,000+', 'https://www.myopportunity.com', 'support@myopportunity.com']}
+{'com.visiting.businesscardmaker': ['Business Card Maker Free Visiting Card Maker photo', 'Splendid+App+Maker', '1,000,000+', 'https://sites.google.com/view/splendidappmaker/home', 'splendidappmaker@gmail.com']}
+{'com.vscorp.receipt.maker': ['Receipt Maker', 'Maito+Labs', '10,000+', 'https://receiptmaker-22e50.firebaseapp.com', 'maito.labs@gmail.com']}
+{'com.sanish.rigfinderV2': ['RigFinder - North Dakota', 'SanishMobile+LLC', '1,000+', 'http://www.sanishmobile.com', 'support@sanishmobile.com']}
+{'com.scanbizcards': ['ScanBizCards Lite - Scan Card', 'ScanBiz+Mobile+Solutions+LP', '500,000+', 'http://support.circleback.com', 'help@circleback.com']}
+{'com.nektony.vsdviewer': ['VSD Viewer for Visio Drawings', 'Nektony', '5,000+', 'https://nektony.com/products/visio-viewer-android', 'support@nektony.com']}
+{'com.soundconcepts.purebiz': ['PURE Biz', 'Sound+Concepts,+Inc.', '1,000+', 'http://soundconcepts.com/', 'support@mysecureoffice.com']}
+{'com.humanoidapps.milestraconline': ['MilesTrac Online', 'HumanoidApps', '5,000+', 'http://www.humanoidapps.com', 'humanoidapps@gmail.com']}
+{'com.ultimate.bt': ['Ultimate Control BT', 'Empower+Sound', '500+', 'http://www.UltBT.com', 'brian@empowersound.com']}
+{'com.texterity.android.MITSMR': ['MIT Sloan Management Review', 'MIT+Sloan+Management+Review', '5,000+', 'http://sloanreview.mit.edu', 'smr-web@mit.edu']}
+{'com.coffeeenterprise': ['Shyft - Shift Swap, Schedule, Team Messaging', 'Shyft+Technologies+Inc.', '100,000+', 'https://www.myshyft.com', 'hello@myshyft.com']}
+{'com.controlj.mobile.eqtv2.oem': ['Equipment Touch (OEM)', 'United+Technologies+Corporation', '50+', 'http://automatedlogic.com', 'automatedlogicapps@gmail.com']}
+{'com.kayle_cs': ['CattleSort', 'CattleSort,+Inc.', '100+', 'http://www.cattlesort.com', 'Info@cattlesort.com']}
+{'com.luckydroid.mementoprokey': ['Memento PRO License Key', 'LuckyDroid', '10,000+', 'http://mementodatabase.com', 'support@mementodatabase.com']}
+{'com.videoflyermaker': ['Flyers, Advertisement, Marketing Video Maker', 'Photo+Studio+%26+Picture+Editor+Lab', '50,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'nirav.optimumbrew@gmail.com']}
+{'com.powerednow.fieldservices': ['Powered Now: Job Management, Invoicing, Quoting', 'Powered+Now', '10,000+', 'http://www.powerednow.com', 'support@powerednow.com']}
+{'com.liid.androidv2': ['LIID for CRM', 'Liid+Oy', '1,000+', 'http://www.liid.com', 'development@liid.com']}
+{'com.bpmobile.iscanner.pro': ['iScanner - Portable PDF Scanner App', 'BPMobile', '10,000+', 'http://bpmob.com', 'support@bpmobile.com']}
+{'com.indymobileapp.document.scanner': ['Clear Scan: Free Document Scanner App,PDF Scanning', 'Indy+Mobile+App', '5,000,000+', 'https://sites.google.com/view/clearscanner/privacy-policy', 'clearscanner@gmail.com']}
+{'com.optimumbrewlab.businesscardmaker': ['Digital Business Card Maker', 'Photo+Studio+%26+Picture+Editor+Lab', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'nirav.optimumbrew@gmail.com']}
+{'com.bpmobile.ifax.pro': ['Fax from Phone - Send Fax App', 'BPMobile', '1,000+', 'http://bpmob.com', 'support@bpmobile.com']}
+{'com.economist.hummingbird': ['The Economist GBR', '5059535972638766074', '50,000+', 'http://www.economist.com', 'remybecher@economist.com']}
+{'com.origa.salt': ['SALT - Watermark, resize & add text to photos', 'Salt+App', '1,000,000+', 'http://saltapp.me', 'info@saltapp.me']}
+{'com.wwongdev.outlookwebmobile': ['OWM for Outlook Email OWA', 'WWO+Development', '100,000+', None, 'wwodevelopment@gmail.com']}
+{'invoice.easy.peasy': ['Invoices & Estimates Maker', 'Invoice+Easy+Peasy', '1,000+', 'http://telegra.ph/Privacy-Policy-12-22', 'invoice.easy.peasy@gmail.com']}
+{'com.sycorpcalcpro.app': ['Sycorp Calc Pro', 'Sycorp+Environmental', '1,000+', 'https://www.sycorp.ca/mobile-apps/', 'apps@sycorp.ca']}
+{'com.xactware.estimateon': ['EstimateON', 'Xactware+Solutions,+Inc.', '500+', 'http://estimateon.com', 'GooglePlay@xactware.com']}
+{'com.rapidtech.hourstracking': ['Work Hours Tracking & Billing', 'Rapid+Technolabs', '50,000+', 'http://www.rapidtechnolabs.com/privacy-policy/', 'rapidtechnolabs@gmail.com']}
+{'com.dw.contacts': ['DW Contacts & Phone & SMS', 'DWP', '10,000+', 'http://wiki.dw-p.net/DW_Contacts_%26_Phone', 'support@dw-p.net']}
+{'com.bg.logomaker': ['Ultimate Logo Maker', 'Apps+You+Love', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'bhavesh.optimumbrew@gmail.com']}
+{'com.siyami.apps.cr': ['Client Records:Free CRM, Customer Contacts & Leads', 'Siyami+Apps,+LLC', '100,000+', 'https://www.facebook.com/siyamiapps/', 'support@siyamiapps.com']}
+{'com.xyzmo.signature.standalone': ['xyzmo Signature Capture', 'Namirial+GmbH', '50,000+', 'http://www.xyzmo.com', 'xyzmo.significant@gmail.com']}
+{'de.minirechnung': ['Invoice & Estimate Maker - Billdu', 'Billdu+LTD', '10,000+', 'http://www.billdu.com/', 'support@billdu.com']}
+{'com.aadhk.restpos': ['Restaurant Point of Sale | Cash Register - W&O POS', 'aadhk', '100,000+', 'https://www.wnopos.com', 'support@wnopos.com']}
+{'com.ezclocker': ['ezClocker: Employee Time Tracking and Scheduling', 'ezNova+Technologies+DBA+ezClocker', '10,000+', 'https://ezclocker.com', 'support@ezclocker.com']}
+{'com.amwcalculator': ['Amway Business Calculator', 'YENA+Software+CIS', '10,000+', 'http://amwcalculator.com/', 'office@amwcalculator.com']}
+{'com.scanbizcards.key': ['ScanBizCards Premium', 'ScanBiz+Mobile+Solutions+LP', '10,000+', 'http://support.circleback.com', 'help@circleback.com']}
+{'com.magneticonemobile.businesscardreader.hubspotcrm': ['Business Card Reader for HubSpot CRM', '5281746353975253291', '10,000+', 'http://magneticonemobile.com', 'contact@magneticonemobile.com']}
+{'uk.org.blurt.businessplanbuilder': ['Business Plan Quick Builder', '5822547169936380282', '100,000+', 'http://www.businessplanquickbuilder.com', 'lewperren@googlemail.com']}
+{'com.freework.mobile': ['Freework - Timesheet, Time Card, Time Tracking', 'Freework+GmbH', '10,000+', 'http://www.freework.com', 'hi@freework.com']}
+{'vivekagarwal.playwithdb': ['Table Notes', '7651025713677848624', '100,000+', 'https://www.tablenotes.net/', 'vik17ag@gmail.com']}
+{'com.smapps.android.bills': ['Bills Organizer with Sync', 'SMobileApps', '10,000+', 'https://smobileapps.wixsite.com/privacy/billsorganizer', 'smobileapps@gmail.com']}
+{'com.mds.tplus': ['Timesheet PDF', 'Mobile+and+Database+Solutions', '10,000+', 'http://www.mobileanddata.com.au', 'admin@mobileanddata.com.au']}
+{'com.kgopc.rewardsconverter': ['Rewards Converter App', '7108442110450275899', '1,000+', 'https://www.rewardsconvertor.com', 'support@rewardsconvertor.com']}
+{'com.hvac.flat_ratelite': ['HVAC Flat Rate Invoice', 'ExactCharge+Industries', '5,000+', 'http://www.mymobileworkorders.com', 'exch@comcast.net']}
+{'com.ghostpattern.gwmail': ['GW Mail', 'Ghost+Pattern+Software', '10,000+', 'http://ghostpattern.com/Ghost_Pattern/Android.html', 'support@ghostpattern.com']}
+{'com.jotomi.dictation.full': ['Dictate + Connect (Dictamus)', 'JOTOMI+GmbH', '1,000+', 'https://www.dictate-connect.com/downloads/Privacy_Policy_Android_EN.pdf', 'dictamus-android@jotomi.com']}
+{'com.bg.brochuremaker': ['Brochure Maker, Leaflets & Flyer Builder', 'Apps+You+Love', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'bhavesh.optimumbrew@gmail.com']}
+{'com.payrollguru.paycheckcalculator.full': ['Payroll Guru', 'Payrollguru,+Inc.', '5,000+', 'http://www.payrollguru.mobi', 'support@payrollguru.mobi']}
+{'com.tendant.app': ['Tendant', 'Real+Capture+LLC+%28Tendant%29', '100+', 'https://www.tendant.com', 'ops@tendant.com']}
+{'com.ServiceProg': ['Field Service mobile app low cost For repair techs', 'ServiceProg', '50+', 'http://serviceprog.com', 'info@serviceprog.com']}
+{'com.vayoo.appVayoo': ['Vayoo for Hosts', '7817917502353713757', '10,000+', 'http://www.vayoo.com', 'support@vayoo.com']}
+{'com.reallyvision.realvisors9': ['2018 Endoscope PROFESSIONAL', 'Real.Visor', '500+', 'http://www.realvisor.ru', '7927313@gmail.com']}
+{'com.fourpoint2018.pro': ['4 Point Inspection 2018', 'Inspection+apps', '100+', 'https://sites.google.com/view/inspection-apps/home/privacy-policy', 'jeffrey.herrera@gmail.com']}
+{'com.actualsoftware.faxcover.pro': ['FaxCover Pro Create Cover Page', 'Actual+Software+Inc.', '1,000+', 'http://www.broadcast-fax.com', 'googledev@actualsoftware.com']}
+{'com.berrywing.scantospreadsheet': ['Scan to Spreadsheet', '5212299916017772486', '10,000+', 'http://berrywing.com', 'softwaresupport@berrywing.com']}
+{'ro.bino.inventory': ['Mobile Inventory', '5951591287292813848', '50,000+', 'http://www.mobileinventory.net', 'support@mobileinventory.net']}
+{'com.buddy.breeding.breedingbuddy': ['Breeding Buddy', 'Infinity+Tracker+Apps', '500+', 'https://breedingbuddyapp.wixsite.com/website', 'breeding.buddy.app@gmail.com']}
+{'com.sohmware.invoice': ['Invoice pro', 'Invoice+pro', '100,000+', 'https://invoice.pro', 'support@invoicepro.mobi']}
+{'ezcalc.android': ['EZcalc Diamonds', 'ADIRsoft', '1,000+', 'http://www.adirsoft.com', 'ezcalcdiamonds@gmail.com']}
+{'com.pdp.deviceowner': ['Package Disabler Pro ( Owner APP) All Android', 'policedeveloper', '1,000+', 'http://www.packagedisabler.com', 'packagedisabler@gmail.com']}
+{'com.lori.hrcards': ['HR Cards: HRCI SHRM Exam Prep', 'HR+Topics', '100+', 'http://www.hrtopics.com', 'lori@hrtopics.com']}
+{'com.nra.productmarketingmaker': ['Ad Maker, Digital Marketing Advertisement Design', 'Photo+Studio+%26+Picture+Editor+Lab', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'nirav.optimumbrew@gmail.com']}
+{'com.app.forevertext': ['4EverText', '4Ever+Tech+LLC', '100+', 'http://www.4evertext.com', 'support@4evertechllc.com']}
+{'com.bitcubate.root.busybox.complete': ['BusyBox X [Root]', '8988602931080354741', '500,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.clearvisions.explorer': ['Root Power Explorer [Root Explorer]', '5290032069370349950', '1,000,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.deputy.android': ['Deputy: Shift Scheduler & Staff Planner', 'Deputy.com', '100,000+', 'http://www.deputy.com', 'android-support@deputy.com']}
+{'com.getresponse.beam': ['Beam: Social Media Video Posts & Slideshows', '5053419609952754733', '10,000+', 'https://www.getbeam.com/', 'support@getbeam.com']}
+{'com.spotlightsix.timeclockbasic': ['TimeClock Connect : Time Tracking and Invoicing', 'Spotlight+Six+Software+LLC', '100,000+', 'https://timeclockconnect.com', 'support@spotlightsix.com']}
+{'com.royalapplications.royaltsd': ['Royal TSD', 'Michael+Rumpler', '100+', 'https://www.royalapplications.com/ts/android/features', 'android@royalts.com']}
+{'com.tasmanic.camtoplan': ['CamToPlan', 'Tasmanic+Editions', '100,000+', 'http://www.camtoplan.com', 'contact@tasmanic.com']}
+{'com.viv.itimepunchpluslite': ['iTimePunch Plus Work Hour Tracker & Time Clock App', 'Double+Down+Software+LLC', '500+', 'http://itimepunchplus.com', 'support@doubledownsoftwarellc.com']}
+{'aquaApi.big_commerce.admin': ['Store Manager for BigCommerce', '8383578312965358093', '5,000+', 'http://aquaapi.io', 'info@aquaapi.com']}
+{'com.neptunetg.r900rftest': ['NGO', 'Neptune+Technology+Group+Inc.', '1,000+', 'http://www.neptunetg.com', 'hhsupp@neptunetg.com']}
+{'com.twofortyfouram.locale': ['Locale', 'two+forty+four+a.m.+LLC', '50,000+', 'https://www.twofortyfouram.com/support/', 'up@244.am']}
+{'com.trimble.defectspro': ['Defects Pro: Easy Punch Lists and Snag Reports', 'Trimble+Inc.', '5,000+', 'http://defectspropunchlist.com', 'Contractor_Support@Trimble.com']}
+{'com.vaysystem.vaymodels': ['VayModels - Become a model worldwide', '5599408000907945930', '1,000+', 'http://www.vaysystem.com', 'info@vaysystem.com']}
+{'com.digitalvideobrochuremaker': ['Video Brochures, Branding Video Editor', '4632290146912595245', '50,000+', 'https://sites.google.com/view/digitalmarketingtools/home', 'jna.appmakerz@gmail.com']}
+{'com.callonthego.texthubapp': ['Text(SMS) Marketing by TextHub', 'TextHub', '1,000+', 'http://www.texthub.com/', 'Mark@TextHub.com']}
+{'com.zappoint.zappoint': ['Business Card Organizer', 'zappoint', '50,000+', 'http://www.zappoint.com/', 'zack@zappoint.com']}
+{'com.soundconcepts.zija': ['The Natural Health Revolution', 'Sound+Concepts,+Inc.', '1,000+', 'http://soundconcepts.com/', 'support@mysecureoffice.com']}
+{'com.bitcubate.android.su.installer': ['Superuser X Free [Root]', '8988602931080354741', '500,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.ksharkapps.rootcheck.rootchecker.pro': ['Root Checker Pro - 90% OFF launch Sale', '5290032069370349950', '10,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.propertymanager': ['Rental Property Manager', 'Android4Canada', '1,000+', 'http://www.property-manager-app.com', 'android4canada@gmail.com']}
+{'com.app.hdoempartsanddiagrams': ['Harley OEM Parts Stream App', 'HD+OEM+Parts+App', '1,000+', 'https://www.facebook.com/HarleydavidsonOEMpartsApp/', 'blaketaylor1985@gmail.com']}
+{'com.rollerbannermaker': ['Banner Maker, Ad Maker, Web Banners, Graphic Art', '8983953568983045767', '500,000+', 'https://sites.google.com/view/digitalmarketingtools/home', 'sbg.appolu@gmail.com']}
+{'com.mterp.printcheque.unlocker': ['Cheque Printing Unlocker', 'manitech', '10+', 'http://nakoda-erp.dynet.com', 'nakoda.softwares@gmail.com']}
+{'com.vybesoftwarellc.leiamail': ['Leia Mail: Custom Email at Your Business Domain', 'Vybe+Software+LLC', '1,000+', 'https://heyleia.com/mail', 'marchand@vybesoftware.com']}
+{'com.thirtyxi.handsfreetime': ['Easy Hours Timesheet Timecard', '30xi+LLC', '500+', 'http://easyhours.30xi.com', 'easyhours@30xi.com']}
+{'com.appzio.proficienttrader': ['Proficient Trader – Stock Trading App', 'Proficient+Trader', '500+', 'http://proficient-trader.com', 'Proficienttrader@modernstrategic.com']}
+{'com.dotcreation.outlookmobileaccesslite': ['Mobile Access for Outlook OWA', 'KMC', '10,000+', 'https://plus.google.com/u/0/+OMALKMC/posts/4rD5DsBZpGN', 'kmcchu@gmail.com']}
+{'com.bookkeeper': ['Book Keeper - Accounting, GST Invoicing, Inventory', '7763572332649219375', '500,000+', 'http://bookkeeperapp.net/', 'support@bookkeeperapp.net']}
+{'com.momobills.billsapp': ['Invoices/Billing Software. 200,000+ Downloads', 'Sharayu+Software+Private+Limited', '100,000+', 'https://www.momobills.com/privacypolicy.txt', 'momobills.help@gmail.com']}
+{'com.vecal.vcorganizer': ['VCOrganizer Pro', 'Vecal+Company', '5,000+', 'http://www.vecal.biz', 'support@vecal.biz']}
+{'com.bitcubate.busybox.pro': ['BusyBox X Pro [Root] - 50% OFF', '8988602931080354741', '1,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.bitcubate.bash.pro': ['Bash Shell Pro [Root] - 50% OFF', '8988602931080354741', '500+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'nl.industrialit.warehousemanagement': ['Inventory Management', '7435610616554905355', '50,000+', 'http://www.industrialit.nl', 'support@industrialit.nl']}
+{'net.intricare.enterprisedevicekiosklockdown': ['Gokiosk - Kiosk Lockdown Android', 'Intricare+Technologies', '10,000+', 'https://intricare.net', 'info@intricare.net']}
+{'com.grapholite.diagramspro': ['Grapholite Diagrams Pro', 'Aphalina', '1,000+', 'http://grapholite.com', 'support@grapholite.com']}
+{'com.plangrid.android': ['PlanGrid Construction Management Software', 'PlanGrid', '100,000+', 'http://www.plangrid.com', 'support@plangrid.com']}
+{'com.trimble.workzone': ['Contractor WorkZone - Business Management Tool', 'Trimble+Inc.', '10,000+', 'http://www.contractorworkzone.com', 'support@contractorworkzone.com']}
+{'com.xlabz.Brandee': ['Brandee - Free Logo Maker & Graphics Creator', '6647722227098001928', '100,000+', 'http://www.xlabz.com/', 'support@xlabz.com']}
+{'com.sypartners.superpowers': ['Superpowers by SYPartners', 'SYPartners+LLC', '500+', 'https://www.sypartners.com/terms-privacy/', 'store@sypartners.com']}
+{'com.fortali.sketchcutpro': ['SketchCut PRO - Fast Cutting', 'TaLi+Software', '10,000+', 'https://www.talisoftware.com/kopiya-privacy-policy-en', 'talisoft@yandex.ru']}
+{'com.logomaker.app': ['SALT Logo Maker - Create a logo in seconds', 'Salt+App', '10,000+', 'https://firebasestorage.googleapis.com/v0/b/salt-29ed0.appspot.com/o/web_pages%2FSALT_Privacy_Policy.htm?alt=media&token=d5a37c65-223f-4ad0-9341-527324209f10', 'info@saltapp.me']}
+{'com.magneticonemobile.businesscardreader.multicrm': ['Business Card Reader - CRM Pro', '5281746353975253291', '500+', 'http://magneticonemobile.com', 'contact@magneticonemobile.com']}
+{'com.tarushi.shopit': ['Shop IT - Stealth Notes', 'Tarushi+Software+Solutions+Pvt+Ltd', '1,000+', 'http://tarushi-shopit.com/', 'saketh.tarushi@gmail.com']}
+{'com.scottsware.ezbidandroid': ['ezBid', 'Scott+Gustafson', '1,000+', 'http://www.scottsware.com/ezccs', 'ezbid_android@scottsware.com']}
+{'com.Clearview': ['iClearview', 'Clearview+CCTV', '1,000+', 'http://www.clearviewcctv.com', 'le@clearviewcctv.com']}
+{'com.zumasys.accutermmobile': ['AccuTerm Mobile', 'Zumasys+Inc.', '500+', 'http://www.zumasys.com', 'support@zumasys.com']}
+{'net.idscan.android.veriscan': ['VeriScan - ID Verification Scanner by IDScan.net', 'Abycus', '5,000+', 'http://www.IDScan.net', 'info@IDScan.net']}
+{'com.soundconcepts.isatoolstogo': ['IsaTools', 'Sound+Concepts,+Inc.', '10,000+', 'https://myisatools.soundconcepts.com/about#Support', 'support@mysecureoffice.com']}
+{'com.intsig.BCRLatam': ['CamCard - BCR (Western)', 'INTSIG', '50,000+', 'http://www.camcard.com', 'android_support@intsig.com']}
+{'com.snappii_corp.construction_estimator_and_bidding_app': ['Construction Estimator App', '7848899517346361101', '100,000+', 'https://www.snappii.com', 'prototype@snappii.com']}
+{'com.studio.topfax': ['Top Fax - scan & send fax from phone', 'top+Inc.', '5,000+', 'https://sites.google.com/view/top-fax', 'topfax@outlook.com']}
+{'com.leader_clips.momentum': ['GoMentum', 'Leaderclips+Inc.', '1,000+', 'http://GoMentumCentral.com/support', 'contact@leaderclips.com']}
+{'com.lefebure.ntripclient': ['Lefebure NTRIP Client', 'Lefebure+Design', '10,000+', 'http://lefebure.com', 'Lance@Lefebure.com']}
+{'com.magneticonemobile.phone2crm.onepage': ['Call Tracker for OnePageCRM', '5281746353975253291', '1,000+', 'http://magneticonemobile.com', 'contact@magneticonemobile.com']}
+{'com.httpsAdvanSales.AdvanSales8': ['Social Media, Auto Dialer, Docs Sign, SMS Bulk CRM', 'Bryantw', '50+', 'http://advansales.com', 'Nextbars@gmail.com']}
+{'com.apps.resumebuilderapppro': ['Resume Builder App Pro', 'Rishi+Kapoor', '1+', 'http://www.FriendFin.com', 'friendfinapp@gmail.com']}
+{'silicon.valley.coin': ['Silicon Valley Coin (SLVC) - Tech Cryptocurrency', 'Jafar+Najafov', '0+', 'http://slvc.xyz', 'hello@slvc.xyz']}
+{'com.oncore.TimeMasterAndroid': ['Time Master - Time Tracking', 'On-Core+Software+LLC', '500+', 'http://on-core.com', 'info@on-core.com']}
+{'payme.valioman.gmail.com': ['PayMe', 'Petko+Ivanov', '1,000+', None, 'app.payme@gmail.com']}
+{'com.ksharkapps.storage.cleanerlite': ['Alpha Cleaner VIP [Boost & Optimize] - 50% OFF', 'KShark+Apps+%28Growth42%29', '500+', 'http://www.ksharkapps.com', 'support@ksharkapps.com']}
+{'com.secore.privacyshield': ['Antivirus & Mobile Security', 'Privacy+Lab', '1,000,000+', 'http://www.babable.com/', 'wangavcom@gmail.com']}
+{'com.ksharkapps.filebrowser': ['Ultra Explorer Pro [PREMIUM] - 50% OFF', 'KShark+Apps+%28Growth42%29', '500+', 'http://www.ksharkapps.com', 'support@ksharkapps.com']}
+{'com.appxy.tinycalendar': ['Tiny Calendar - Calendar App', 'Appxy', '100,000+', 'http://www.appxy.com', 'tinycalendar.a@appxy.com']}
+{'com.nokoprint': ['NokoPrint - Mobile Printing', 'Albafate', '10,000+', 'http://nokoprint.com/privacy.html', 'support@nokoprint.com']}
+{'lawn.care1': ['Lawn Care Software', 'Mobile+Software+and+Games', '5+', 'http://www.binaryhouse.com/category/lawn-care-business-software', 'support@binaryhouse.com']}
+{'awtoolbox.droid': ['AW Toolbox', 'Analog+Way', '100+', 'http://www.analogway.com', 'awtouchapp@analogway.com']}
+{'com.grymala.photoscannerpdftrial': ['Prime PDF Scanner – Camera Scanner and OCR', '6255378953981435017', '1,000,000+', 'https://grymala.by/', 'team@grymala.by']}
+{'com.cellbotics.intakepro': ['InTake Pro by Cellbotics', 'CellBotics', '50+', 'https://cellbotics.com/intake-pro', 'info@cellbotics.com']}
+{'com.myfinny.rnfelevate': ['R+F Elevate', 'Finny+Inc.', '1,000+', 'https://1echo.us', 'support@1echo.us']}
+{'com.icrewmobileapp.icrew': ['iCrew Mobile', 'Crew+Mobile+Software+Solutions+LLC', '1,000+', 'https://www.icrewmobileapp.com', 'hello@icrewmobileapp.com']}
+{'partl.workinghours': ['WorkingHours — Time Tracking / Timesheet', '7796429557402406688', '10,000+', 'https://timopartl.com', 'partl@outlook.com']}
+{'com.hhghelper': ['American Mover', 'Source37', '1,000+', 'http://hhghelper.com', 'info@hhghelper.com']}
+{'com.meonria.posshoptabletpro': ['Point of Sale Cash RegisterPRO', 'Meonria', '1,000+', 'http://www.cashregister-app.com', 'meonria@gmail.com']}
+{'com.worldsbusinesscard.appOne': ['Clinck - digital business card', 'Clinck', '5,000+', 'http://clinck.me', 'info@clinck.me']}
+{'co.epxx.touch12i': ['Touch Fin Financial Calculator', 'EPx', '1,000+', 'https://www.facebook.com/rpnemulators/', 'epxx@epxx.co']}
+{'com.profatm.timesheet': ['Green Timesheet - shift work log and payroll app', 'ProfAutomation+Ltd.', '10,000+', 'http://profatm.com/privacy-policy-of-green-timesheet/', 'info@profatm.com']}
+{'com.apgsolutionsllc.APGSOLUTIONSLLC0001': ['Track My Mileage', 'APG+Solutions,+LLC', '10,000+', 'http://www.trackmymileage.net', 'droidsupport@apgsolutionsllc.com']}
+{'au.com.logiskate.android.espresso': ['SuperFastPoS Point of Sale POS', 'Logiskate', '10,000+', 'http://www.superfastpos.com', 'support@superfastpos.com']}
+{'softmaker.applications.textmaker.hd': ['Office HD: TextMaker FULL', 'SoftMaker+Software+GmbH', '5,000+', 'http://www.softmaker.com', 'sales@softmaker.de']}
+{'com.xyzmo.signature': ['SIGNificant E-Signing Client', 'Namirial+GmbH', '100,000+', 'http://www.xyzmo.com', 'office@xyzmo.com']}
+{'com.invoiceready': ['Invoice Ready — Professional Invoice & Estimate', 'Invoice+Ready', '5,000+', 'http://www.invoiceready.com', 'support@invoiceready.com']}
+{'shu.gear.calwatchdigital': ['GCD Provider', '9119051711844257493', '50,000+', 'http://sasgis.ru/privacy-policy/shu-apps/', 'shuisky@gmail.com']}
+{'com.dgsd.android.ShiftTracker': ['Shift Tracker Pro', 'DGSD', '1,000+', None, 'dgsoftwaredevelopment@gmail.com']}
+{'com.lifebythedrop': ['Life By The Drop', 'Life+By+The+Drop', '100+', 'https://www.facebook.com/lifebythedropapp/', 'lifebythedropapp@gmail.com']}
+{'at.tomtasche.reader': ['OpenDocument Reader - for LibreOffice documents', 'Thomas+Taschauer', '5,000,000+', 'https://blog.tomtasche.at/p/openoffice-document-reader_9.html', 'tomtasche+reader@gmail.com']}
+{'push.plus.avtech.com': ['EagleEyes(Plus)', 'AVTECH', '10,000+', 'http://www.avtech.com.tw', 'avtech.tw@gmail.com']}
+{'net.tappos': ['TapPOS Inventry Sales manager', 'TapStyle+Pty+Ltd', '1,000+', 'http://www.tapstyle.net', 'support@tapstyle.net']}
+{'me.freeroam.vmwpad': ['vmwPAD', 'freeroam.me', '1,000+', 'http://freeroam.me', 'support@freeroam.me']}
+{'com.nchsoftware.expressinvoice': ['Express Invoice Plus', 'NCH+Software', '100+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'com.interactive.businesscard': ['Interactive Contact', 'Robert+Russo', '5+', 'http://www.interactivecontact.com', 'webmaster@localplicity.com']}
+{'com.changeguidesllc.changepocketguide': ['Change Pocket Guide', 'Change+Guides+LLC', '10+', 'http://www.changeguidesllc.com/home/', 'sheri.schweppe@changeguidesllc.com']}
+{'com.anandsystems.asifd': ['ASI FrontDesk Hotel PMS', 'Anand+Systems+Inc', '50+', 'http://www.AnandSystems.com', 'info@AnandSystems.com']}
+{'com.netqin.mm': ['Call Blocker Free - Blacklist', '7247166036233706422', '10,000,000+', 'http://www.NQ.com', 'android@NQ.com']}
+{'com.GG.CallRecorder': ['Call Recorder - IntCall', 'Telestar', '500,000+', 'http://www.intcall.info/callrec', 'callrecorderinfo@gmail.com']}
+{'com.mm.android.direct.cspssplus': ['SCS Pro', 'CCTV+Security+Pros', '500+', 'http://www.cctvsecuritypros.com', 'jgo@cctvsecuritypros.com']}
+{'com.flyerdesigner.logocreator': ['Logo Maker - Graphic Design & Free Logo Creator', 'stylish+app+world', '100,000+', 'https://sites.google.com/view/stylish-app-world', 'divyeshkhunt@gmail.com']}
+{'com.wingpanit.app.simpleinvoicing': ['Simple Invoicing - Easy Mobile Invoices Free', 'Simple+Business', '10,000+', 'http://Simpleinvoicingapp.com', 'SimpleBusinessABC@gmail.com']}
+{'com.riontech.ordercalculator': ['Quick Calculator for Arbonne', 'Above+the+Clouds+Apps', '1,000+', None, 'abovethecloudsapps@gmail.com']}
+{'com.penpower.bcr.worldcard.lite': ['WorldCard Mobile Lite', 'Penpower+Inc.', '100,000+', 'http://worldcard.penpowerinc.com/product.asp?sn=242', 'Android@penpowerinc.com']}
+{'shipedge.rep': ['Shipedge Pro Warehouse Management Inventory System', 'SHIPEDGE', '1,000+', 'http://shipedge.com', 'sales@shipedge.com']}
+{'com.procoit.kioskbrowser': ['Kiosk Browser Lockdown', 'ProCo+IT', '50,000+', 'http://www.android-kiosk.com', 'support@android-kiosk.com']}
+{'com.hammerprice.lk': ['Hammer Price', 'Live+Auction+Results,+LLC', '1,000+', 'http://www.hammerpricelive.com', 'support@hammerpricelive.com']}
+{'com.soundconcepts.mannatech': ['Mannatech+', 'Sound+Concepts,+Inc.', '5,000+', 'http://mybuildersystem.com/#Support', 'support@mysecureoffice.com']}
+{'com.Invoice.maker': ['Invoice and Billing App - Estimate On the Go', 'Glowing+Stars+Apps+%26+Games', '5,000+', 'http://invoicesongo.com/', 'invoicesongo@gmail.com']}
+{'com.acquirednotions.spconnect3': ['SPConnect', 'AcquiredNotions+Inc.', '50,000+', 'http://www.acquirednotions.com', 'spconnect@acquirednotions.com']}
+{'air.com.aptitudetest.aptitudetrainer2': ['Aptitude Test Trainer', 'Seliant', '10,000+', 'http://www.aptitude-test.com', 'contact@aptitude-test.com']}
+{'boss.sales.accounting.crm.business.trade.debit.invoice.profit_1c': ['Bookkeeping & Inventory Management. Sales tracker', '1C-Rarus+Ltd.', '100,000+', 'https://www.boss-app.com', 'help@boss-app.com']}
+{'com.WooCommerce.MobileAssistant': ['Mobile Assistant for WooCommerce', 'eMagicOne', '10,000+', 'http://emagicone.com', 'mobile@emagicone.com']}
+{'com.us.esign': ['E-Sign MD', 'IndicaOnline+Inc', '10+', 'http://indicaonline.com', 'support@indicaonline.com']}
+{'com.app_pocketsafetytrainer.layout': ['Interface Safety Design', 'Interface+Safety+Design', '10+', 'http://PocketSafetyTrainer.com', 'info@pocketsafetytrainer.com']}
+{'com.gridbuddy.hbuddy': ['HVAC Buddy®', 'Powertrade+Services+LLC', '10,000+', 'http://hvac-buddy.com/', 'support@powertrade.com']}
+{'com.kolayrandevu.isletme': ['SalonAppy - Manage Your Beauty Business Easily', 'Kolay+Randevu+%C4%B0nternet+Hizmetleri+A%C5%9E', '10,000+', 'https://www.salonappy.com', 'contact@salonappy.com']}
+{'com.maz.cityjournal': ['City Journal', 'MAZ+Digital+Inc.', '500+', 'http://www.mazdigital.com', 'support@mazdigital.com']}
+{'com.nulana.android.remotix': ['Remotix VNC, RDP, NEAR (Remote Desktop)', 'Nulana', '1,000+', 'http://nulana.com/remotix-android/', 'support@nulana.com']}
+{'com.magzter.cioreview': ['CIO Review', 'Magzter+Inc.', '100+', 'http://www.magzter.com', 'help@magzter.com']}
+{'com.maz.combo1126': ['HBR Global', 'Harvard+Business+Review', '500+', 'http://hbr.org', 'knewman@hbr.org']}
+{'com.spotlightsix.timeclock3': ['TimeClock Connect Pro - Time Tracking & Invoicing', 'Spotlight+Six+Software+LLC', '10,000+', 'http://www.spotlightsix.com', 'support@spotlightsix.com']}
+{'com.maz.adweek': ['Adweek', 'ADWEEK', '5,000+', 'http://www.adweek.com/', 'audience.development@adweek.com']}
+{'com.uprosim': ['Triple Leveraged UPRO market timing', 'Alphabry', '1+', 'https://forecastmark.wixsite.com/forecastone', 'alphabry1@gmail.com']}
+{'com.acquirereviews': ['Acquire Reviews: Get Customer Reviews', 'Nickell,+Inc.', '50+', 'https://acquirereviews.com', 'acquirereviews@gmail.com']}
+{'com.swiftomatics.royalpos': ['Royal POS Point of Sale for Restaurant & Retail', '6789611923385883076', '5,000+', 'http://royalpos.in', 'admin@royalpos.in']}
+{'appinventor.ai_ekremertekin28.performansplanlama': ['UH-1H Performance Planning ppc', 'EymenApp', '100+', None, 'eymenapp@gmail.com']}
+{'com.onesoftmob.calc1.free': ['Accounting calc / spreadsheet', 'Eric+Joy%C3%A9', '100,000+', 'http://calc-1-fr.onesoftmob.com', 'calc1@onesoftmob.com']}
+{'co.hotplate.instalogo': ['InstaLogo Logo Creator', 'PocketSoft+Kft', '10,000+', 'http://instalogocreator.com/', 'support@instalogocreator.com']}
+{'com.iq.android': ['Interview Simulator Premium', '6009779601174841172', '100+', 'http://www.interviewsimulator.com/', 'support@villatech.com.au']}
+{'com.mlmmaster.mlm': ['MLM Master', 'MLM+Master', '50,000+', 'http://mlmmaster.com', 'office@mlmmaster.com']}
+{'com.cagneymoreau.constructionlightsensor': ['Foot Candle Light Meter', 'Signal+Hill+Technology', '500+', 'http://conststudy.com', 'info@conststudy.com']}
+{'com.pixelsdo.concretecalculatorpro': ['Concrete Calculator Pro', '6880473948813098012', '100+', 'http://www.pixelsdo.com', 'pixelsdo@gmail.com']}
+{'mobi.infolife.itipdonate': ['Tip Calculator Donate Version', 'INFOLIFE+LLC', '100+', 'http://infolife.mobi', 'mars@infolife.mobi']}
+{'com.smapps.android.birthdaycalendar': ['Birthday Calendar', 'SMobileApps', '1,000+', 'https://smobileapps.wixsite.com/privacy/birthday-cal-privacy', 'smobileapps@gmail.com']}
+{'com.maximumsoft.ftg.two_x': ['Forms-2-Go', 'MaximumSoft+Corp.', '5,000+', 'http://www.forms-2-go.biz', 'sales@maximumsoft.com']}
+{'co.wooproducts': ['WProducts for WooCommerce', 'Tyler+Buchea', '100+', 'http://wproducts.co', 'tyler@wproducts.co']}
+{'com.inoguru.app.email': ['InoMail - Email app', 'InoGuru', '1,000+', 'http://inomail.wordpress.com', 'support@inoguru.com']}
+{'com.fragmob.taraathome': ['TaraConnect', 'Fragmob', '100+', 'http://www.taraathome.com', 'admin@taraathome.com']}
+{'app.easy.account.pro': ['Easy Accounting Pro – Simple Expense Bookkeeping', '6427813808949464893', '10+', 'http://shreesoftech.com/privacypolicy.php', 'info@shreesoftech.com']}
+{'com.pivotradio.bhrs': ['BHRS', 'Baptist+Heritage+Revival+Society', '1+', 'http://baptistheritagerevivalsociety.net', 'baptistheritagerevivalsociety@gmail.com']}
+{'com.appxy.tinyscan': ['Tiny Scanner Pro: PDF Doc Scan', 'Appxy', '100,000+', 'http://www.appxy.com', 'tinyscan.a@appxy.com']}
+{'com.elmklmsamsung.batteryaddon': ['Package Disabler Pro+ (Samsung)', 'policedeveloper', '10,000+', 'https://www.packagedisabler.com', 'packagedisabler@gmail.com']}
+{'com.dynamixsoftware.printershare.premium': ['PrinterShare Premium Key', '7687136110608797526', '500,000+', 'http://www.printershare.com/mobile.sdf', 'support@printershare.com']}
+{'com.stafflinq.mobile': ['StaffLinQ', 'ROSnet', '10,000+', 'http://www.stafflinq.com', 'stafflinqsupport@rosnet.com']}
+{'com.simplescan.scanner.pro': ['Simple Scan Pro - PDF scanner', 'Easy+inc.', '10,000+', 'https://sites.google.com/view/simple-scanner', 'simple.scanner@outlook.com']}
+{'com.intsig.BizCardReader': ['CamCard - Business Card Reader', 'INTSIG', '100,000+', 'http://www.camcard.com', 'android_support@intsig.com']}
+{'com.sitefinder.wellsitenavigatorusa': ['Wellsite Navigator USA', 'SiteFinder+GPS', '10,000+', 'http://sitefindergps.com', 'info@sitefindergps.com']}
+{'com.ctuit.onthefly': ['On The Fly™', 'Compeat+%7C+Ctuit', '5,000+', 'http://www.ctuit.com', 'client_services@ctuit.com']}
+{'com.appxy.tinyfaxplus': ['Tiny Fax+: Send Fax from Phone', 'Appxy', '5,000+', 'http://www.appxy.com', 'tinyfax.a@appxy.com']}
+{'com.piksoft.turboscan': ['TurboScan: scan documents and receipts in PDF', '6914911790744547365', '100,000+', 'http://www.turboscanapp.com/android.html', 'android@turboscanapp.com']}
+{'nextapp.fx.rk': ['FX File Explorer (Plus License Key)', 'NextApp,+Inc.', '50,000+', 'http://android.nextapp.com', 'android@nextapp.com']}
+{'com.mobitech3000.jotnotscanner.android': ['JotNot Pro - PDF Scanner App', 'MobiTech+3000+LLC', '10,000+', 'http://www.jotnot.com/scanner.html', 'support@jotnot.com']}
+{'com.coolmobilesolution': ['Fast Scanner Pro: PDF Doc Scan', 'CoolMobileSolution', '10,000+', 'http://www.coolmobilesolution.com', 'fastscanner@coolmobilesolution.com']}
+{'com.mobisystems.editor.office_registered': ['OfficeSuite Pro + PDF', '4895393381068725503', '1,000,000+', 'http://www.mobisystems.com/mobile/products-mp.html?platform=16', 'support-officesuite-android@mobisystems.com']}
+{'com.scanbizcards.key': ['ScanBizCards Premium', 'ScanBiz+Mobile+Solutions+LP', '10,000+', 'http://support.circleback.com', 'help@circleback.com']}
+{'com.pdmdm.dmplay': ['Package disabler pro for  LG', 'OEM+Developer', '5,000+', 'http://www.packagedisabler.com/terms/', 'oemdevelopers@gmail.com']}
+{'com.smapps.android.bills': ['Bills Organizer with Sync', 'SMobileApps', '10,000+', 'https://smobileapps.wixsite.com/privacy/billsorganizer', 'smobileapps@gmail.com']}
+{'com.pdp.deviceowner': ['Package Disabler Pro ( Owner APP) All Android', 'policedeveloper', '1,000+', 'http://www.packagedisabler.com', 'packagedisabler@gmail.com']}
+{'com.p5sys.android.jump': ['Jump Desktop (RDP & VNC)', 'PhaseFive+Systems', '10,000+', 'https://jumpdesktop.com', 'support@jumpdesktop.com']}
+{'com.mobisystems.fonts': ['OfficeSuite Font Pack', '4895393381068725503', '100,000+', 'http://www.mobisystems.com', 'support@mobisystems.com']}
+{'com.actualsoftware.faxcover.pro': ['FaxCover Pro Create Cover Page', 'Actual+Software+Inc.', '1,000+', 'http://www.broadcast-fax.com', 'googledev@actualsoftware.com']}
+{'org.kman.AquaMail.UnlockerMarket': ['Aqua Mail Pro', '4895393381068725503', '100,000+', 'https://www.mobisystems.com/aqua-mail/', 'support@aqua-mail.com']}
+{'com.andropenoffice.extensions.pro': ['Professional Pack', 'Akikazu+Yoshikawa', '10,000+', 'http://andropenoffice.blogspot.com', 'andropenoffice.bugreport@gmail.com']}
+{'com.easy4u.scannerpro': ['Easy Scanner Pro', '8281696871670304543', '50,000+', 'https://www.bfery.com/', 'support@bfery.com']}
+{'com.bpmobile.iscanner.pro': ['iScanner - Portable PDF Scanner App', 'BPMobile', '10,000+', 'http://bpmob.com', 'support@bpmobile.com']}
+{'com.ICRSSPro': ['IC Realtime ICRSS Pro', 'ICRealtime', '10,000+', 'http://www.icrealtime.com', 'support@icrealtime.com']}
+{'com.sycorpcalcpro.app': ['Sycorp Calc Pro', 'Sycorp+Environmental', '1,000+', 'https://www.sycorp.ca/mobile-apps/', 'apps@sycorp.ca']}
+{'com.submittable.submittableapp': ['Discover by Submittable', 'Submittable+Holdings+Inc', '1,000+', 'https://www.submittable.com', 'support@submittable.com']}
+{'com.samapp.excelsms.excelsmsfull': ['SA Group Text', 'samapp', '1,000+', 'http://www.samapp.com', 'support@samapp.com']}
+{'com.wwongdev.outlookwebmobile': ['OWM for Outlook Email OWA', 'WWO+Development', '100,000+', None, 'wwodevelopment@gmail.com']}
+{'com.intsig.BCRLatam': ['CamCard - BCR (Western)', 'INTSIG', '50,000+', 'http://www.camcard.com', 'android_support@intsig.com']}
+{'com.sitefinder.wellsitenavigatorusatx1': ['Wellsite Navigator Texas', 'SiteFinder+GPS', '500+', 'http://sitefindergps.com', 'support@sitefindergps.com']}
+{'com.payrollguru.paycheckcalculator.full': ['Payroll Guru', 'Payrollguru,+Inc.', '5,000+', 'http://www.payrollguru.mobi', 'support@payrollguru.mobi']}
+{'com.safetyjabber.pgptools': ['PGPTools', '5154212838120775861', '1,000+', 'http://safetyapps.zone/pgptools.html', 'support@safetyjabber.com']}
+{'com.sypartners.superpowers': ['Superpowers by SYPartners', 'SYPartners+LLC', '500+', 'https://www.sypartners.com/terms-privacy/', 'store@sypartners.com']}
+{'com.nektony.vsdviewer': ['VSD Viewer for Visio Drawings', 'Nektony', '5,000+', 'https://nektony.com/products/visio-viewer-android', 'support@nektony.com']}
+{'com.calculated.ashley3405': ['Real Estate Master IIIx', '8735477036873604804', '1,000+', 'http://www.calculated.com', 'techsup@calculated.com']}
+{'com.ksharkapps.rootcheck.rootchecker.pro': ['Root Checker Pro - 90% OFF launch Sale', '5290032069370349950', '10,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.vearexperts.vinanalyzer': ['VIN Trucks', 'VEAR+Inc.', '100+', 'http://www.vearexperts.com', 'areagan@vistaeng.com']}
+{'com.ghostpattern.gwmail': ['GW Mail', 'Ghost+Pattern+Software', '10,000+', 'http://ghostpattern.com/Ghost_Pattern/Android.html', 'support@ghostpattern.com']}
+{'com.app.hdoempartsanddiagrams': ['Harley OEM Parts Stream App', 'HD+OEM+Parts+App', '1,000+', 'https://www.facebook.com/HarleydavidsonOEMpartsApp/', 'blaketaylor1985@gmail.com']}
+{'me.freeroam.vmwpad': ['vmwPAD', 'freeroam.me', '1,000+', 'http://freeroam.me', 'support@freeroam.me']}
+{'udk.android.reader.lite': ['ezPDF Reader Lite for PDF View', '5390714630102483222', '10,000+', 'http://www.unidocs.com', 'androidunidocs@gmail.com']}
+{'com.thirtyxi.handsfreetime': ['Easy Hours Timesheet Timecard', '30xi+LLC', '500+', 'http://easyhours.30xi.com', 'easyhours@30xi.com']}
+{'com.riontech.ordercalculator': ['Quick Calculator for Arbonne', 'Above+the+Clouds+Apps', '1,000+', None, 'abovethecloudsapps@gmail.com']}
+{'com.calculated.ashley3415': ['Qualifier Plus IIIx', '8735477036873604804', '5,000+', 'http://www.calculated.com', 'techsupport@calculated.com']}
+{'com.buildcalc.buildcalc': ['BuildCalc', '42nd+Parallel', '1,000+', 'http://buildcalc.com', 'buildcalc@gmail.com']}
+{'com.royalapplications.royaltsd': ['Royal TSD', 'Michael+Rumpler', '100+', 'https://www.royalapplications.com/ts/android/features', 'android@royalts.com']}
+{'com.SuarezFun.LawnBidEstimator': ['Lawn Care Estimator (Business)', 'SuarezFun', '1,000+', None, 'SuarezFun.Apps@gmail.com']}
+{'com.safusion.android.businesscalendar': ['Business Calendar Event TODO', 'S+App+Fusion', '1,000+', None, 'sappfusion@gmail.com']}
+{'com.dataviz.docstogoapp': ['Docs To Go™ Premium Key', 'DataViz', '500,000+', 'http://www.dataviz.com/dtg-android', 'support@dataviz.com']}
+{'com.reallyvision.realvisors9': ['2018 Endoscope PROFESSIONAL', 'Real.Visor', '500+', 'http://www.realvisor.ru', '7927313@gmail.com']}
+{'com.dw.contacts': ['DW Contacts & Phone & SMS', 'DWP', '10,000+', 'http://wiki.dw-p.net/DW_Contacts_%26_Phone', 'support@dw-p.net']}
+{'com.abbyy.mobile.bcr': ['Business Card Reader Pro - Business Card Scanner', '5493445127297820186', '50,000+', 'http://www.abbyybcr.com/en/?utm_source=googleplay&utm_medium=bcr-pro-page&utm_campaign=bcr-android', 'mobile_support@abbyy.com']}
+{'com.lori.hrcards': ['HR Cards: HRCI SHRM Exam Prep', 'HR+Topics', '100+', 'http://www.hrtopics.com', 'lori@hrtopics.com']}
+{'com.aquaphoenix.aliquotapp': ['Aliquot', 'AquaPhoenix+Scientific', '100+', 'http://aquaphoenixsci.com', 'support@aliquotapp.com']}
+{'com.bswim.workshifts': ['Work Shifts', 'BsWiM', '5,000+', 'https://www.facebook.com/pages/Work-Shifts/219226621450733', 'bswim777@gmail.com']}
+{'com.dgsd.android.ShiftTracker': ['Shift Tracker Pro', 'DGSD', '1,000+', None, 'dgsoftwaredevelopment@gmail.com']}
+{'com.cagneymoreau.constructionlightsensor': ['Foot Candle Light Meter', 'Signal+Hill+Technology', '500+', 'http://conststudy.com', 'info@conststudy.com']}
+{'com.mm.android.direct.cspssplus': ['SCS Pro', 'CCTV+Security+Pros', '500+', 'http://www.cctvsecuritypros.com', 'jgo@cctvsecuritypros.com']}
+{'com.tasmanic.camtoplan': ['CamToPlan', 'Tasmanic+Editions', '100,000+', 'http://www.camtoplan.com', 'contact@tasmanic.com']}
+{'com.dotcreation.outlookmobileaccesslite': ['Mobile Access for Outlook OWA', 'KMC', '10,000+', 'https://plus.google.com/u/0/+OMALKMC/posts/4rD5DsBZpGN', 'kmcchu@gmail.com']}
+{'com.Clearview': ['iClearview', 'Clearview+CCTV', '1,000+', 'http://www.clearviewcctv.com', 'le@clearviewcctv.com']}
+{'com.jaredshack.androidtime': ['Time Card for Android', 'Jared%27s+Coding+Shack', '10,000+', 'http://jaredscodingshack.abits.biz/atc/', 'androidtimecardsupport@gmail.com']}
+{'com.berrywing.scantospreadsheet': ['Scan to Spreadsheet', '5212299916017772486', '10,000+', 'http://berrywing.com', 'softwaresupport@berrywing.com']}
+{'com.jotomi.dictation.full': ['Dictate + Connect (Dictamus)', 'JOTOMI+GmbH', '1,000+', 'https://www.dictate-connect.com/downloads/Privacy_Policy_Android_EN.pdf', 'dictamus-android@jotomi.com']}
+{'com.twofortyfouram.locale': ['Locale', 'two+forty+four+a.m.+LLC', '50,000+', 'https://www.twofortyfouram.com/support/', 'up@244.am']}
+{'com.abbyy.mobile.finescanner': ['FineScanner Pro - PDF Document Scanner App + OCR', '5493445127297820186', '5,000+', 'http://www.finescanner.com/?utm_source=GooglePlay&utm_medium=store&utm_campaign=FSAndroid', 'mobile_support@abbyy.com']}
+{'purchase.order.pdf.maker.pro': ['Purchase Order PO Maker PRO', '5393919272634285850', '50+', 'http://www.SendGroupSMS.com', 'support@sendgroupsms.com']}
+{'gmin.app.reservations.hr2g': ['Customer Appointments 4', 'GIMIN+Studio', '10+', 'http://www.gimin.eu', 'mobile-apps@gimin.eu']}
+{'aptora.mobile': ['Aptora Mobile II', 'Aptora+Corporation', '500+', 'http://www.aptora.com/software/field-service-management-software/', 'marketing@aptora.com']}
+{'co.wooproducts': ['WProducts for WooCommerce', 'Tyler+Buchea', '100+', 'http://wproducts.co', 'tyler@wproducts.co']}
+{'com.hik.wpc': ['Pull Out Calc', 'Oilfield-Apps.com', '50+', 'http://www.oilfield-apps.com', 'oilandgasapps@gmail.com']}
+{'com.safetyjabber.pgpfiles': ['PGPFiles', '5154212838120775861', '100+', 'http://safetyapps.zone/pgpfiles.html', 'support@safetyjabber.com']}
+{'softmaker.applications.textmaker.hd': ['Office HD: TextMaker FULL', 'SoftMaker+Software+GmbH', '5,000+', 'http://www.softmaker.com', 'sales@softmaker.de']}
+{'com.lxrmarketplace.bigcommerce': ['Bigcommerce Mobile Dashboard', '6823044152448265521', '500+', 'http://www.lxrmarketplace.com', 'appsupport@lxrmarketplace.com']}
+{'no.gar.glink5250': ['Glink 5250', 'Gallagher+%26+Robertson', '100+', 'http://www.gar.no', 'support@gar.no']}
+{'com.seapps.android.bills': ['Bills Manager & Daily Reminder', 'Sail+Euphoric+Media', '100+', 'https://saileuphoric.wixsite.com/privacy/bills-manager', 'saileuphoric@gmail.com']}
+{'com.ssmt.android.billstracker': ['Bills Tracker - BillsOnMobile', '9198875821443465849', '1,000+', 'https://ssmobiletech.wixsite.com/privacy', 'ssmobiletech@gmail.com']}
+{'com.curvefitcalc': ['Curve Fitting & Matrix Solver', 'mobile-sciences', '50+', 'http://mobile-sciences.com', 'mobilesciences@yahoo.com']}
+{'com.sfa.android.moneywise': ['MoneyWise Home Budget Expenses', 'Smart+Finance+Apps', '1,000+', None, 'sfinanceapps@gmail.com']}
+{'com.WebOutlook': ['Web Access for Outlook Email', 'AndroCyborg', '10,000+', 'http://www.androcyborg.com', 'jaycyborg@gmail.com']}
+{'com.nchsoftware.expressinvoice': ['Express Invoice Plus', 'NCH+Software', '100+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'com.sisware.partnerxemobile': ['Partner XE Mobile', 'SIS+LLC', '100+', 'http://www.partnerxe.net', 'service@sisware.com']}
+{'jp.ne.shira.csv.viewer.core': ['CSV Viewer Core', 'SimpleAppStd.', '100+', 'https://sastd.com/', 'toshio.shiratori@sastd.com']}
+{'com.chw.DroidAIMSpro': ['DroidAIMS PRO', 'CHW', '10,000+', 'http://dutydroid.me.pn/DroidAIMS%20-%20Privacy%20Policy.pdf', 'DroidAIMS@gmail.com']}
+{'appinventor.ai_skysalsoftware.StairsTools': ['Stairs Tools', 'MobeaSoftware', '1,000+', None, 'mobeasoftware@gmail.com']}
+{'com.onesoftmob.calc1.full': ['Calculator quotation business', 'Eric+Joy%C3%A9', '500+', 'http://calc-1-fr.onesoftmob.com/', 'calc1@onesoftmob.com']}
+{'com.ks.rrrtones': ['Ring Ring Ringtones', 'XEPOSOFT', '1,000+', None, 'xeposoft@gmail.com']}
+{'com.nulana.android.remotix': ['Remotix VNC, RDP, NEAR (Remote Desktop)', 'Nulana', '1,000+', 'http://nulana.com/remotix-android/', 'support@nulana.com']}
+{'com.ghostpattern.gwcalendar': ['GW Calendar', 'Ghost+Pattern+Software', '10,000+', 'http://ghostpattern.com/Ghost_Pattern/Android.html', 'support@ghostpattern.com']}
+{'net.bealsystems.ADUserManager': ['ActiveDir Manager', 'BealSystems', '5,000+', 'http://www.bealsystems.net', 'andyrbeal@gmail.com']}
+{'com.penpower.bcr.worldcard': ['WorldCard Mobile', 'Penpower+Inc.', '10,000+', 'http://worldcard.penpowerinc.com/product.asp?sn=242', 'Android@penpowerinc.com']}
+{'de.foobarsoft.calendareventreminder': ['Calendar Event Reminder (CER)', 'invalidobject.com', '10,000+', 'http://blog.invalidobject.com/android-app-calender-event-reminder', 'frank.egger@gmail.com']}
+{'com.vecal.vcorganizer': ['VCOrganizer Pro', 'Vecal+Company', '5,000+', 'http://www.vecal.biz', 'support@vecal.biz']}
+{'com.gridbuddy.hbuddy': ['HVAC Buddy®', 'Powertrade+Services+LLC', '10,000+', 'http://hvac-buddy.com/', 'support@powertrade.com']}
+{'com.mins.tracker.activity': ['Package Tracker Pro', 'Minstech+Software', '10,000+', 'http://www.pdexpress.net', 'android_app@live.com']}
+{'com.itsapp2you.decodingq': ['Decoding Q', 'Decoding+Q', '100+', 'http://decodingq.com', 'info@decodingq.com']}
+{'com.j2eeknowledge.viewer.csv.pro': ['CSV Viewer Pro', 'A.M.+Web+Expert+Inc.', '1,000+', 'http://www.youtube.com/user/amwebexpert#p/u', 'amwebexpert@gmail.com']}
+{'com.rcptones.android': ['Office Phone Ringtones HD', 'RCP+Tones', '10,000+', 'http://rcptones.com', 'android@rcptones.com']}
+{'com.globalsoftware.printshare': ['PrintShare', 'Global+Science+Developments', '100+', 'http://kaanseniyesin.wixsite.com/apps-policy/scanitall-privacy-policy', 'kaanseniyesin@hotmail.com']}
+{'com.judylynn.register': ['Cash Register Express', 'Judy+Lynn+Software,+Inc.', '10+', 'http://www.judylynn.com', 'elliot.pludwinski@judylynn.com']}
+{'com.indeed.android.jobsearch': ['Indeed Job Search', 'Indeed+Jobs', '50,000,000+', 'http://www.indeed.com/help', 'android@indeed.com']}
+{'us.zoom.videomeetings': ['ZOOM Cloud Meetings', 'zoom.us', '10,000,000+', 'http://zoom.us', 'info@zoom.us']}
+{'com.ubercab.driver': ['Uber Driver', '7908612043055486674', '50,000,000+', 'http://www.uber.com', 'support@uber.com']}
+{'com.azure.authenticator': ['Microsoft Authenticator', '6720847872553662727', '10,000,000+', 'http://msdn.microsoft.com/en-us/library/azure/dn858223.aspx', 'noreply@microsoft.com']}
+{'com.adpmobile.android': ['ADP Mobile Solutions', 'ADP,+LLC', '10,000,000+', 'http://www.adp.com/gomobile', 'ADPmobile_feedback@ADP.com']}
+{'com.duosecurity.duomobile': ['Duo Mobile', 'Duo+Security,+Inc.', '1,000,000+', 'https://guide.duo.com/', 'support@duosecurity.com']}
+{'com.ziprecruiter.android.release': ['Job Search by ZipRecruiter', '7516171781015428735', '5,000,000+', 'https://www.ziprecruiter.com/jobs', 'android@ziprecruiter.com']}
+{'com.lyft.android.driver': ['Lyft Driver', '6629245766506578153', '1,000,000+', 'http://www.lyft.com/drive-with-lyft', 'support@lyft.com']}
+{'com.ups.mobile.android': ['UPS Mobile', 'UPS', '5,000,000+', 'http://www.ups.com/android', 'mobiledev@ups.com']}
+{'com.Slack': ['Slack', 'Slack+Technologies+Inc.', '10,000,000+', 'http://slack.com', 'feedback@slack.com']}
+{'com.squareup': ['Square Point of Sale - POS', '4878871734928263649', '10,000,000+', 'https://square.com/help', 'support@squareup.com']}
+{'com.microsoft.teams': ['Microsoft Teams', '6720847872553662727', '1,000,000+', 'http://aka.ms/microsoftteams', 'mstandstore@microsoft.com']}
+{'com.godaddy.gdm.smartline': ['SmartLine Second Phone Number', 'GoDaddy+Operating+Company,+LLC', '100,000+', 'https://godaddy.com/smartline', 'smartlineandroid@godaddy.com']}
+{'com.fedex.ida.android': ['FedEx', 'FedEx', '1,000,000+', 'http://mobilesolutions.fedex.com/for-android', 'mobile@fedex.com']}
+{'com.glassdoor.app': ['Glassdoor Job Search, Salaries & Reviews', 'Glassdoor+Inc.', '5,000,000+', 'https://www.glassdoor.com', 'glassdoorinc@gmail.com']}
+{'com.usps': ['USPS MOBILE®', 'United+States+Postal+Service%C2%AE', '1,000,000+', 'http://www.usps.com', 'mobilesupport@usps.gov']}
+{'com.snagajob.jobseeker': ['Snag - Jobs Hiring Now', '5023482540302634439', '1,000,000+', 'http://www.snag.co', 'mobile@snag.co']}
+{'com.logmein.gotowebinar': ['GoToWebinar', 'LogMeIn,+Inc.', '1,000,000+', 'https://support.logmein.com/gotowebinar', 'gotowebinar-feedback@logmein.com']}
+{'com.workday.workdroidapp': ['Workday', 'Workday,+Inc.', '1,000,000+', 'http://www.workday.com', 'android.developer@workday.com']}
+{'com.steady.steadyapp.com': ['Steady - Find Work. Earn Money', 'Steady+Platform,+Inc.', '100,000+', 'http://steadyapp.com', 'help@steadyapp.com']}
+{'com.metropcs.service.vvm': ['Visual Voicemail by MetroPCS', 'Metro,+a+brand+of+T-Mobile+USA,+Inc', '50,000,000+', 'http://www.metropcs.com', 'metropcsappstore@gmail.com']}
+{'com.microsoft.windowsintune.companyportal': ['Intune Company Portal', '6720847872553662727', '5,000,000+', 'http://go.microsoft.com/fwlink/?LinkID=821962', 'wintunedroidfbk@microsoft.com']}
+{'com.microsoft.office.lync15': ['Skype for Business for Android', '6720847872553662727', '10,000,000+', 'http://go.microsoft.com/fwlink/?LinkId=291335', 'SFBAndroidApp@microsoft.com']}
+{'com.facebook.pages.app': ['Facebook Pages Manager', 'Facebook', '50,000,000+', 'http://www.facebook.com/FacebookPages', 'android-support@fb.com']}
+{'com.kronos.mobile.android': ['Kronos Mobile', 'Kronos+Incorporated', '1,000,000+', 'http://www.kronos.com/', 'WorkforceMobile@Kronos.com']}
+{'com.bedpage': ['Bedpage', 'BEDPAGE', '100,000+', 'http://www.argalon.net/', 'prashantlakshya@gmail.com']}
+{'com.intuit.quickbooks': ['QuickBooks Accounting: Invoicing & Expenses', '7987416923533646496', '1,000,000+', 'https://quickbooks.intuit.com/', 'qbconnectandroid@intuit.com']}
+{'com.squareup.apos': ['Square Appointments', '4878871734928263649', '10,000+', 'https://square.com/help', 'support@squareup.com']}
+{'com.jobrapp.jobr': ['Monster Job Search', 'Monster+Worldwide', '1,000,000+', 'https://www.monster.com', 'infoplaystore@monster.com']}
+{'com.fiverr.fiverr': ['Fiverr - Freelance Services', 'Fiverr', '5,000,000+', 'http://www.fiverr.com', 'support@fiverr.com']}
+{'com.appxy.tinyscanner': ['Tiny Scanner - PDF Scanner App', 'Appxy', '10,000,000+', 'http://www.appxy.com', 'tinyscan.a@appxy.com']}
+{'com.ultimatesoftware.ultipromobile': ['UltiPro', 'The+Ultimate+Software+Group,+Inc.', '500,000+', 'https://www.ultimatesoftware.com/mobileappsupport', 'ultiproinfo@ultimatesoftware.com']}
+{'com.sideline.phone.number': ['Sideline - Second Phone Number - Work or Personal', 'Pinger,+Inc', '5,000,000+', 'http://www.sideline.com', 'support@sideline.com']}
+{'com.google.android.apps.meetings': ['Hangouts Meet', '5700313618786177705', '1,000,000+', 'https://support.google.com/a/answer/7126817', 'apps-help@google.com']}
+{'com.ripl.android': ['Ripl: Make Videos from Photos for Social Media Ads', '5979242633604160560', '500,000+', 'https://www.ripl.com', 'feedback@ripl.com']}
+{'unclaimed.money': ['Unclaimed Money', '7758635825238926683', '100,000+', 'http://appsbay.co.uk', 'legalcentral@googlemail.com']}
+{'com.concur.breeze': ['SAP Concur', 'Concur', '1,000,000+', 'http://www.concur.com/', 'Androidmobilefeedback@concur.com']}
+{'com.gotomeeting': ['GoToMeeting – Video Conferencing & Online Meetings', 'LogMeIn,+Inc.', '1,000,000+', 'https://www.gotomeeting.com/', 'android@gotomeeting.com']}
+{'com.walmart.wfm': ['My Walmart Schedule', 'Walmart', '500,000+', None, 'gwfmmwsmsup@wal-mart.com']}
+{'com.cisco.webex.meetings': ['Cisco Webex Meetings', 'Cisco+Systems,+Inc.', '10,000,000+', 'http://www.webex.com/products/web-conferencing/mobile.html', 'androidmarket@cisco.com']}
+{'com.walmartone.android': ['WM1', 'Walmart', '1,000,000+', 'https://us.walmartone.com/en/walmart/legal/privacy/', 'WalmartOneSupport@walmart.com']}
+{'com.airwatch.androidagent': ['Intelligent Hub', 'VMware+Workspace+ONE', '5,000,000+', 'https://www.vmware.com/', 'support@air-watch.com']}
+{'com.pgac.general.droid': ['The General® Insurance', 'The+General+Automobile+Insurance+Services,+Inc.', '100,000+', 'http://www.thegeneral.com', 'PGCAndroidDeveloper@pgac.com']}
+{'com.goodwill.goodwill_app': ['Goodwill Auctions', 'Goodwill+Industries+NCPA', '100,000+', 'http://www.fundgoodwill.com', 'webmaster@goodwillinc.org']}
+{'com.hirevue.candidate.generic': ['HireVue for Candidates', 'HireVue', '1,000,000+', 'http://www.hirevue.com', 'support@hirevue.com']}
+{'com.usps.myusps_mobile_app_android': ['Informed Delivery®', 'United+States+Postal+Service%C2%AE', '100,000+', 'https://my.usps.com/', 'mobilesupport@usps.gov']}
+{'com.joinhomebase.homebase.homebase': ['Homebase Free Employee Scheduling', '5959335544576785738', '500,000+', 'http://www.joinhomebase.com', 'info@joinhomebase.com']}
+{'com.paypal.merchant.client': ['PayPal Business: Send Invoices and Track Sales', 'PayPal+Mobile', '1,000,000+', 'https://www.paypal.com/us/webapps/mpp/business-app', 'mobile-apps@paypal.com']}
+{'com.crewapp.android.crew': ['Crew - Free Messaging and Scheduling', 'Speramus,+Inc.', '1,000,000+', 'https://crewapp.com/', 'help@crewapp.com']}
+{'com.google.android.apps.vega': ['Google My Business - Connect with your Customers', '5700313618786177705', '10,000,000+', 'http://www.google.com/business', 'local-mobile-app-support@google.com']}
+{'com.coolmobilesolution.fastscannerfree': ['Fast Scanner : Free PDF Scan', 'CoolMobileSolution', '10,000,000+', 'http://www.coolmobilesolution.com', 'fastscanner@coolmobilesolution.com']}
+{'com.bg.flyermaker': ['Flyers, Posters, Adverts, Graphic Design Templates', 'Apps+You+Love', '1,000,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'bhavesh.optimumbrew@gmail.com']}
+{'com.paylocity.paylocitymobile': ['Paylocity Mobile', 'Paylocity', '500,000+', 'http://www.paylocity.com', 'mobilefeedback@paylocity.com']}
+{'net.itx.paychex': ['Paychex Flex', 'Paychex,+Inc', '1,000,000+', 'http://www.paychex.com/support/paychex-online-mobile/', 'app_support@paychex.com']}
+{'com.thisclicks.wiw': ['When I Work Scheduling', 'When+I+Work,+Inc.', '1,000,000+', 'http://wheniwork.com/?ref=play', 'support@wheniwork.com']}
+{'com.whova.event': ['Whova - Event & Conference App', 'Whova', '100,000+', 'https://www.whova.com', 'support@whova.com']}
+{'com.logmein.joinme': ['join.me - Simple Meetings', 'LogMeIn,+Inc.', '1,000,000+', 'https://join.me', 'androidfeedback@join.me']}
+{'com.simpleapp.fax': ['Simple Fax Free page - Send Fax from Phone', 'Easy+inc.', '100,000+', 'https://sites.google.com/view/easyinc-simplefax', 'simple.fax@outlook.com']}
+{'prod.ideaction.cellhelmet_registration': ['cellhelmet Registration', 'cellhelmet.com', '50,000+', 'http://cellhelmet.com', 'customer.service@cellhelmet.com']}
+{'com.google.android.apps.giant': ['Google Analytics', '5700313618786177705', '1,000,000+', 'http://support.google.com/analytics/', 'analytics-app-feedback@google.com']}
+{'com.bg.socialcardmaker': ['Social Media Graphic Design & Post Maker', 'Apps+You+Love', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'bhavesh.optimumbrew@gmail.com']}
+{'com.glip.mobile': ['RingCentral', 'RingCentral', '100,000+', 'https://www.ringcentral.com', 'support@glip.com']}
+{'com.workingbricks.rentitapp': ['Rent4Me - Rent Anything you want!', 'Rent4Me+Inc', '10,000+', 'https://rent4me.org', 'support@rent4me.org']}
+{'com.sherpa.npew2019': ['Natural Products Expo', 'Sherpa+Solutions', '1,000+', 'http://www.sherpa-solutions.com/', 'sherpasolutions.android@gmail.com']}
+{'com.ringcentral.android': ['RingCentral Phone', 'RingCentral', '500,000+', 'http://www.ringcentral.com', 'rcmobilefeedback@ringcentral.com']}
+{'com.legalshield.MembersOnly': ['LegalShield - Legal Protection', 'LegalShield+Corporation', '100,000+', 'http://www.legalshield.com', 'MemberServices@LegalShield.com']}
+{'com.cribasoft.HoursTrackerFree.Android': ['HoursTracker: Time tracking for hourly work', 'cribasoft,+LLC', '500,000+', 'http://www.hourstrackerapp.com', 'androidsupport@cribasoft.com']}
+{'com.homedepot.thdworkforce': ['Workforce Tools', 'The+Home+Depot,+Inc.', '50,000+', 'http://homedepot.com', 'hrmobile_support@homedepot.com']}
+{'com.facebook.adsmanager': ['Facebook Ads Manager', 'Facebook', '1,000,000+', 'https://www.facebook.com/help/ads-manager-app', 'android-support@fb.com']}
+{'crowdedroad.iFax': ['iFax Faxing App: send fax from phone & receive fax', '6926803379831795390', '500,000+', 'https://www.ifaxapp.com', 'support@ifaxapp.com']}
+{'com.amway.americas.NA.businesscenter': ['Amway™ Business Center', 'Amway+Corp.', '50,000+', 'http://www.amway.com', 'customer.service@amway.com']}
+{'com.advanceautoparts.vehiclemanager': ['Advance Professional', 'Advance+Auto+Parts,+Inc.', '100,000+', 'http://www.advancepro.com', 'service@advance-auto.com']}
+{'org.ehub1100.eh.ui': ['eHub', 'TEAM+Software', '100,000+', 'http://www.teamsoftware.com', 'supportstaff@teamsoftware.com']}
+{'com.cisco.anyconnect.vpn.android.avf': ['AnyConnect', 'Cisco+Systems,+Inc.', '1,000,000+', 'http://www.cisco.com/go/anyconnect', 'ac-mobile-feedback@cisco.com']}
+{'com.freeconferencecall.fccmeetingclient': ['Free Conference Call', 'FreeConferenceCall.com', '500,000+', 'http://freeconferencecall.com', 'support@freeconferencecall.com']}
+{'gov.ga.dds.gadds': ['DDS 2 GO', 'Georgia+Department+of+Driver+Services', '50,000+', 'http://dds.georgia.gov', 'GroupITWebDevelopers@dds.ga.gov']}
+{'com.citrix.Receiver': ['Citrix Workspace', 'Citrix+Systems,+Inc', '5,000,000+', 'http://forums.citrix.com/forum.jspa?forumID=996', 'android@citrix.com']}
+{'com.servicemagic.pros': ['HomeAdvisor Pro', '7362938701606542071', '100,000+', 'http://www.homeadvisor.com/rfs/aboutus/contactInformation.jsp', 'prosapp@homeadvisor.com']}
+{'com.pegasustranstech.transflonowplus': ['TRANSFLO Mobile+', 'Pegasus+TransTech', '100,000+', 'http://www.transflomobile.com', 'support@transflo.com']}
+{'com.invoicesimple.contractor.android': ['Contractor estimate & invoice maker', 'Invoice+Simple', '1,000+', 'https://www.invoicesimple.com', 'support@invoicesimple.com']}
+{'plus.fax.android': ['FAX.PLUS - Free Secure Online Fax | Send & Receive', 'Alohi+SA', '100,000+', 'https://www.fax.plus', 'info@fax.plus']}
+{'com.rsa.rsaconference': ['RSA Conference Multi-Event', 'RSA+Security', '5,000+', 'https://www.rsaconference.com', 'mobileapp@rsa.com']}
+{'com.thumbtack.pro': ['Thumbtack for Professionals', 'Thumbtack', '500,000+', 'https://www.thumbtack.com', 'support@thumbtack.com']}
+{'com.intsig.BCRLite': ['CamCard Free - Business Card R', 'INTSIG', '10,000,000+', 'http://www.camcard.com', 'android_support@intsig.com']}
+{'com.yammer.v1': ['Yammer', 'Yammer,+Inc.', '1,000,000+', 'http://help.yammer.com', 'android-help@microsoft.com']}
+{'com.invoicehome.invoicehome': ['Invoice Maker & Billing App', 'Invoice+Home', '500,000+', 'https://invoicehome.com', 'support@invoicehome.com']}
+{'com.cp.mpos': ['Chase Mobile Checkout', 'JPMorgan+Chase', '500,000+', 'https://chase.com/merchantservices', 'MobileSupport@chase.com']}
+{'com.ubercab.freight': ['Uber Freight', '7908612043055486674', '100,000+', 'https://www.uberfreight.com/', 'freight@uber.com']}
+{'com.mobisystems.fileman': ['File Commander - Manager, Explorer and FREE Drive.', '4895393381068725503', '100,000,000+', 'http://www.mobisystems.com', 'support-fc@mobisystems.com']}
+{'com.upwork.android': ['Upwork: Easily connect on the go', 'Upwork+Global+Inc.', '1,000,000+', 'https://www.upwork.com', 'android-feedback@upwork.com']}
+{'com.amazon.atozm': ['Amazon A to Z', 'Amazon+Mobile+LLC', '100,000+', 'http://atoz.amazon.work/', 'hubfeedback@amazon.com']}
+{'com.loopnet.android': ['LoopNet - Commercial Real Estate Search', 'LoopNet.com', '500,000+', 'http://www.loopnet.com', 'help@loopnet.com']}
+{'com.eventbrite.organizer': ['Eventbrite Organizer', 'Eventbrite', '500,000+', 'https://www.eventbrite.com/support/articleredirect?anum=30714', 'support@eventbrite.com']}
+{'com.equipovision.mediadist': ['eVision', 'Signature+EquipoVision,+LLC', '100,000+', 'http://www.equipovision.com', 'equipodevel@gmail.com']}
+{'com.bluejeansnet.Base': ['BlueJeans for Android', 'BlueJeans+Network', '500,000+', 'https://www.bluejeans.com/mobileapps/android', 'android@bluejeans.com']}
+{'com.humanity.apps.humanityV3': ['Humanity - Employee Scheduling', 'Humanity.com+Inc', '100,000+', 'https://www.humanity.com/', 'info@humanity.com']}
+{'com.iaai.android': ['IAA Buyer Salvage Auctions', 'Insurance+Auto+Auctions,+Inc.', '500,000+', 'http://www.iaai.com', 'cservice@iaai.com']}
+{'com.aadhk.time': ['Timesheet - Time Card - Work Hour', 'aadhk', '1,000,000+', 'http://www.androidappshk.com', 'timesheet.workhour@gmail.com']}
+{'biz.binarysolutions.fasp': ['Fill and Sign PDF Forms', 'Binary+Solutions', '1,000,000+', 'http://binarysolutions.biz/fill-and-sign-pdf-forms-for-android/', 'support+fasp@binarysolutions.biz']}
+{'com.kubra.xcel': ['Xcel Energy', 'Xcel+Energy+Inc.', '100,000+', 'http://www.kubra.com', 'mobile@kubra.com']}
+{'com.whentowork.webview': ['w2w : WhenToWork Mobile App', 'When2Work', '500,000+', 'http://www.whentowork.com', 'apps@when2work.com']}
+{'com.aristoz.resumebuilder': ['Resume builder Free CV maker templates formats app', '5743425139129312513', '1,000,000+', 'http://206.189.128.245/aristoz-policy/policy-resume.html', 'aristozapps@gmail.com']}
+{'com.bluecrewjobs.bluecrew': ['BlueCrew', 'BlueCrew,+Inc', '50,000+', 'https://bluecrewjobs.com', 'support@bluecrewjobs.com']}
+{'com.windstream.residential': ['MyWin by Windstream', 'Windstream+Communications', '10,000+', 'http://www.windstream.com', 'windstreammobile@gmail.com']}
+{'com.apptivatellc.iSS': ['iSecretShop - Mystery Shopping', 'Apptivate+LLC', '100,000+', 'http://www.isecretshop.com', 'support@isecretshop.com']}
+{'com.fiberlink.maas360.android.control': ['MaaS360 MDM for Android', 'MaaS360', '1,000,000+', 'http://www.maas360.com', 'maas360-android@fiberlink.com']}
+{'nway.android.mapme': ['Phone Tracker, Vehicle Tracking, MapME.net', 'Axtia+Technologies', '10,000+', 'https://www.mapme.net', 'support@mapme.net']}
+{'cvmaker.pk.resumemaker': ['Free resume maker CV maker templates formats app', 'Resume+Maker', '10,000+', 'https://awesomeresumemaker.tumblr.com/post/182732137134/privacy-policy-free-resume-maker-cv-maker', 'resumemaker.5d@gmail.com']}
+{'com.sevenshifts.android': ['7shifts Employee Scheduling', '7shifts', '100,000+', 'http://www.7shifts.com', 'info@7shifts.com']}
+{'com.j2.myfax': ['MyFax - send fax from phone', 'MyFax', '100,000+', 'http://www.myfax.com/free-30-day-trial.aspx?VID=69363&utm_source=Google_Play&utm_medium=Store&utm_campaign=Google_Playstore', 'android@myfax.com']}
+{'com.gemalto.mpassplus': ['SafeNet MobilePASS+', 'Gemalto+PL', '100,000+', 'http://www.safenet-inc.com/sas', 'support@safenet-inc.com']}
+{'com.mailchimp.mailchimp': ['Mailchimp - Marketing Platform for Small Business', 'Mailchimp', '500,000+', 'http://mailchimp.com/features/mailchimp-mobile/', 'mobilehelp@mailchimp.com']}
+{'com.dteenergy.mydte': ['DTE Energy', 'DTE+Energy+Corporate+Services,+LLC', '500,000+', 'http://www.dteenergy.com', 'Digital_Assist@dteenergy.com']}
+{'net.slideshare.mobile': ['LinkedIn SlideShare', '6860682062931868151', '10,000,000+', 'http://www.slideshare.com', 'android_feedback@slideshare.com']}
+{'com.deputy.android': ['Deputy: Shift Scheduler & Staff Planner', 'Deputy.com', '100,000+', 'http://www.deputy.com', 'android-support@deputy.com']}
+{'com.branchmessenger': ['Branch: Get Paid Before Payday, Schedule Work', 'Branch+Messenger', '100,000+', 'http://www.branchapp.com', 'hi@branchapp.com']}
+{'com.nightowl.connect': ['Night Owl Connect', 'Night+Owl+SP+LLC', '50,000+', 'http://www.nightowlsp.com', 'support@nightowlspsupport.com']}
+{'mag.com.bluetoothwidget.free': ['Bluetooth Audio Widget Battery FREE', 'magdelphi', '1,000,000+', 'http://magdelphi.ru/', 'magdelphi@gmail.com']}
+{'com.reportallusa.landglide': ['LandGlide', 'Real+Estate+Portal+USA', '100,000+', 'http://www.reportallusa.com', 'android-support@landglide.com']}
+{'com.tasmanic.camtoplanfree': ['CamToPlan - AR measurement / tape measure', 'Tasmanic+Editions', '100,000+', 'http://tasmanic.com', 'contact@tasmanic.com']}
+{'com.jobsdirectorymena.voooow': ['Now Hiring', 'On+The+Way+Guide', '100,000+', 'https://www.facebook.com/nowhiring4all', 'ontheway.guide@gmail.com']}
+{'com.firstdata.clovergo': ['Clover Go', '6522779905413547755', '100,000+', 'http://www.firstdata.com/clovergo', 'app@clovergo.com']}
+{'com.nee.fpl': ['FPL', 'NextEra+Energy,+Inc', '100,000+', 'https://www.fpl.com/', 'ETHICS&COMPLIANCE@nee.com']}
+{'com.macrovideo.v380': ['V380', '%E5%B9%BF%E5%B7%9E%E5%B8%82%E5%AE%8F%E8%A7%86%E7%94%B5%E5%AD%90%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8', '1,000,000+', 'http://www.macro-video.com', 'V380technical@gmail.com']}
+{'com.infinisource.iSolvedTime.Mobile': ['iSolved Go', 'Infinisource', '100,000+', 'https://www.isolvedhcm.com/', 'iSolvedGo_Feedback@infinisource.com']}
+{'com.cisco.wx2.android': ['Cisco Webex Teams', 'Cisco+Systems,+Inc.', '500,000+', 'https://www.webex.com', 'webex_comm@webex.com']}
+{'com.employbridge.prologistix': ['ProLogistix', 'EmployBridge,+LLC', '100,000+', 'http://www.prologistix.com', 'onlinefeedback@employbridge.com']}
+{'com.irisstudio.businesscardmaker': ['Business Card Maker', 'Iris+Studios+and+Services', '100,000+', 'https://irisstudioprivacypolicy.wordpress.com', 'Iris.Studio51515@gmail.com']}
+{'com.app.c4yourself': ['C4Yourself', 'California+Statewide+Automated+Welfare+System+C-IV', '100,000+', 'https://www.c4yourself.com/c4yourself/C4YourselfPrivacyNotice.jsp', 'MobileAppSupport@c-iv.org']}
+{'com.appxy.tinyfax': ['Tiny Fax - Send Fax from Phone', 'Appxy', '500,000+', 'http://www.appxy.com', 'tinyfax.a@appxy.com']}
+{'com.piksoft.turboscan.free': ['TurboScan: scan documents & receipts in PDF', '6914911790744547365', '1,000,000+', 'http://www.turboscanapp.com', 'android@turboscanapp.com']}
+{'com.squareup.payroll': ['Square Payroll', '4878871734928263649', '10,000+', 'https://squareup.com/payroll', 'help@help-messaging.squareup.com']}
+{'com.microsoft.msapps': ['PowerApps', '6720847872553662727', '100,000+', 'http://www.powerapps.com', 'pamobsup@microsoft.com']}
+{'com.glykka.easysign': ['SignEasy | Sign and Fill PDF and other Documents', 'Glykka+LLC+%28dba+SignEasy%29', '1,000,000+', 'http://www.getsigneasy.com', 'support@getsigneasy.com']}
+{'com.airwatch.browser': ['Web - Workspace ONE', 'VMware+Workspace+ONE', '1,000,000+', 'https://www.vmware.com/', 'browserfeedback@air-watch.com']}
+{'com.employbridge.selectstaffing': ['Select – Workforce Specialists', 'EmployBridge,+LLC', '50,000+', 'http://www.select.com', 'onlinefeedback@employbridge.com']}
+{'com.jobtoday.app': ['JOB TODAY: Find Jobs, Build a Career & Hire Staff', 'JOB+TODAY+S.A.', '1,000,000+', 'http://jobtoday.com/', 'info@jobtoday.com']}
+{'com.documentmanager.documentviewer': ['Document Manager App', 'Smart+Zone+Apps', '500,000+', 'https://document5239907.wordpress.com/2018/10/23/privacy-policy/', 'szoneapps@gmail.com']}
+{'com.facebook.workchat': ['Workplace Chat by Facebook', 'Facebook', '1,000,000+', 'http://www.workplace.com', 'android-support@fb.com']}
+{'com.app.shovelerapp': ['Shovler: Snow Shoveling & Snow Removal', 'Shovler+Inc.', '10,000+', 'https://shovler.com', 'admin@shovler.com']}
+{'com.intuit.intuitgopayment': ['QuickBooks GoPayment', '7987416923533646496', '1,000,000+', 'http://www.gopayment.com', 'gopaymentfeedback@intuit.com']}
+{'com.invoice2go.invoice2goplus': ['Invoice 2go — Professional Invoices and Estimates', 'Invoice2go', '1,000,000+', 'https://invoice.2go.com', 'support@invoice2go.com']}
+{'housecall.pros': ['Housecall Pro', 'Codefied+Inc.', '100,000+', 'https://housecallpro.com', 'support@housecallpro.com']}
+{'com.samsung.carrier.elite': ['Samsung Elite', '4670314572380601657', '50,000+', 'http://www.samsungelite.com', 'samsungelite@sea.samsung.com']}
+{'com.comed.mobile': ['ComEd - An Exelon Company', 'An+Exelon+Corporation', '100,000+', 'http://www.comed.com', 'comedappsupport@exeloncorp.com']}
+{'co.good.android': ['Good&Co: Culture Fit Jobs', '4746366221977349389', '1,000,000+', 'https://good.co', 'help@good.co']}
+{'com.safeauto.phone': ['SafeAuto', 'SafeAuto+Webmaster', '100,000+', 'http://www.safeauto.com', 'webmaster@safeauto.com']}
+{'com.expresspros.ExpressJobs': ['ExpressJobs Job Search & Apply', 'Express+Services,+Inc', '50,000+', 'http://www.expresspros.com', 'appservices@expresspros.com']}
+{'com.appxy.hourskeepernew': ['Hours Keeper - Time Tracking', 'Appxy', '100,000+', 'http://www.appxy.com', 'hourskeeper.a@appxy.com']}
+{'org.uet.repostanddownloadimageinstagram': ['03/2019 - Easy Repost', '6896520975268523863', '100,000+', 'https://smarttouch2017.wordpress.com', 'hopnv.1611@gmail.com']}
+{'com.optimumbrewlab.businesscardmaker': ['Digital Business Card Maker', 'Photo+Studio+%26+Picture+Editor+Lab', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'nirav.optimumbrew@gmail.com']}
+{'com.hrbl.mobile.android.ordering': ['Herbalife POS', 'Herbalife+International+of+America,+Inc.', '100,000+', 'http://www.herbalife.com', 'possupport@herbalife.com']}
+{'com.seta.tollroaddroid.app': ['The Toll Roads', 'The+Toll+Roads', '100,000+', 'http://www.thetollroads.com/', 'mobileapp@thetollroads.com']}
+{'com.grasshopper.dialer': ['Grasshopper', 'Grasshopper+Group+LLC', '100,000+', 'http://grasshopper.com', 'mobile@grasshopper.com']}
+{'com.dotloop.mobile': ['dotloop', '9009299467586107971', '100,000+', 'http://www.dotloop.com', 'androidfeedback@dotloop.com']}
+{'com.veryableops.veryable': ['Veryable - Work & Get Paid Daily.', 'Veryable,+Inc.', '10,000+', 'https://veryableops.com', 'howdy@veryableops.com']}
+{'com.unwirednation.notifications.android.ushipnew': ['uShip', 'uShip+Inc.', '500,000+', 'http://www.uship.com', 'androidapp@uship.com']}
+{'com.mokinetworks.bamboohr': ['BambooHR', 'BambooHR', '100,000+', 'http://www.bamboohr.com', 'support@bamboohr.com']}
+{'com.bravuratech.APSMeetings': ['Meetings@APS', 'Bravura+Technologies', '10,000+', 'http://www.bravuratechnologies.com', 'support@bravuratechnologies.com']}
+{'com.zmobileapps.postermaker': ['Poster Maker: Creative Arts, Flyer, Ads Page Maker', 'Z+Mobile+Apps', '500,000+', 'https://zmobileapps.wordpress.com', 'adit.zoom1@gmail.com']}
+{'sampson.cvbuilder': ['CV Engineer - Free Resume Builder & CV Templates', 'CV+Engineer+HQ', '50,000+', 'https://cvengineer.github.io/', 'cv.engineer.hq@gmail.com']}
+{'com.dat.fm.carrier': ['DAT Load Board for Truckers', '8357666982993726886', '100,000+', 'http://dat.com', 'tlb-feedback@dat.com']}
+{'com.amazon.relay': ['Amazon Relay', 'Amazon+Mobile+LLC', '10,000+', 'http://www.amazon.com/', 'relay-feedback@amazon.com']}
+{'com.teamup.teamup': ['Teamup Calendar', 'Teamup+Solutions+AG', '100,000+', 'http://www.teamup.com', 'support@teamup.com']}
+{'com.zoho.invoicegenerator': ['Free Invoice Generator - Zoho', '6811281457353247126', '100,000+', 'https://www.zoho.com/invoice/invoice-generator.html?src=google_play', 'support+mobile@zohoinvoice.com']}
+{'com.attendify.app': ['Attendify', 'KitApps,+Inc.', '100,000+', 'https://attendify.com', 'support@attendify.com']}
+{'com.neighbfav.neighborfavor.runner': ['Favor Runner', 'NeighborFavor,+Inc.', '50,000+', 'https://apply.favordelivery.com/', 'contact@favordelivery.com']}
+{'com.simplenexus.loans.client.s__2933': ['FairwayNow', 'Fairway+Independent+Mortgage+Corp', '50,000+', 'http://simplenexus.com', 'support@simplenexus.com']}
+{'com.digitalmarketing.slideshowmaker': ['Marketing Slideshow Maker For Business', '8983953568983045767', '10,000+', 'https://sites.google.com/view/digitalmarketingtools/home', 'sbg.appolu@gmail.com']}
+{'com.employbridge.resourcemfg': ['ResourceMFG', 'EmployBridge,+LLC', '100,000+', 'http://www.resourcemfg.com', 'onlinefeedback@employbridge.com']}
+{'questionlogix.logomakerfree': ['Logo Maker Free', 'Question+Logix', '1,000,000+', 'https://logohubapps.000webhostapp.com/Logo%20Maker%20free%20Policy.html', 'brainlogx512@gmail.com']}
+{'com.tapdir.resumebuilder': ['Top Resume Pdf Builder for freshers and experience', 'Tapdir+Apps', '50,000+', None, 'tapdir.apps@gmail.com']}
+{'com.bitcubate.android.su.installer': ['Superuser X Free [Root]', '8988602931080354741', '500,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.gigsmart.worker': ['GIGSMART Get Gigs', 'GigSmart,+Inc.', '10,000+', 'https://www.gigsmart.com', 'support@gigsmart.com']}
+{'com.txuenergy.txuapplication': ['TXU Energy', 'TXU+Energy+Retail+Company+LLC', '50,000+', 'http://www.txu.com', 'wss_as@txu.com']}
+{'com.bcaapps.scanner': ['Cam Scanner | Document Scanner Pro', 'bcaapps', '500,000+', 'http://bcappsdev.blogspot.com/p/privacy-policy-privacy-policy-documents.html', 'bcaappsdev@gmail.com']}
+{'com.amazon.chime': ['Amazon Chime', 'Amazon+Mobile+LLC', '100,000+', 'https://chime.aws/', 'chime-android-feedback@amazon.com']}
+{'com.maverik.rewards': ['Maverik Rewards', 'Maverik,+Inc', '100,000+', 'http://www.maverik.com', 'webmaster@maverik.com']}
+{'com.successfactors.android': ['SuccessFactors', 'SuccessFactors', '1,000,000+', 'http://www.successfactors.com/mobile', 'mobile-public@sap.com']}
+{'com.tmobile.techphd': ['Tech PHD', 'Technical+Services', '50,000+', 'https://www.mytechphd.com/contact', 'support@pocketgeek.com']}
+{'com.videomaker.postermaker': ['Intro Maker, Video Editor, Story Maker', '4632290146912595245', '10,000+', 'https://sites.google.com/view/digitalmarketingtools/home', 'jna.appmakerz@gmail.com']}
+{'com.spotme.eventspace': ['Eventspace by SpotMe', 'SpotMe', '10,000+', 'http://www.spotme.com', 'apppublishing@spotme.com']}
+{'com.hirewire.hirewire': ['Hirewire - Job Search', 'Hirewire,+Inc.', '100,000+', 'http://www.hirewire.com', 'support@hirewire.com']}
+{'com.pearlmountainsoft.designevo.android': ['DesignEvo - Logo Maker', 'PearlMountain+Technology+Limited', '500,000+', 'https://www.designevo.com/for-mobile/', 'marketing@pearlmountainsoft.com']}
+{'com.hubspot.android': ['HubSpot (CRM & Sales)', 'HubSpot', '100,000+', 'https://www.hubspot.com/', 'hellomobile@hubspot.com']}
+{'com.Primerica': ['Primerica App', 'Primerica%C2%AE', '100,000+', 'http://www.primericaonline.com', 'pol_feedback@primerica.com']}
+{'com.stripe.android.dashboard': ['Stripe Dashboard', 'Stripe,+Inc.', '50,000+', 'https://www.stripe.com', 'androiddashboard@stripe.com']}
+{'com.pegasustranstech.transflonow': ['TRANSFLO Mobile', 'Pegasus+TransTech', '100,000+', 'http://www.transflomobile.com', 'support@transflo.com']}
+{'com.logmein.g2acustomer': ['GoToAssist Customer', 'LogMeIn,+Inc.', '100,000+', 'https://support.logmeininc.com/gotoassist-remotesupport', 'support@gotoassist.com']}
+{'com.microsoft.powerbim': ['Microsoft Power BI–Business data analytics', '6720847872553662727', '500,000+', 'http://www.powerbi.com/', 'mpbisup@microsoft.com']}
+{'com.wework.mobile': ['WeWork', 'WeWork+Companies,+Inc.', '100,000+', 'https://www.wework.com', 'feedback@wework.com']}
+{'com.server.auditor.ssh.client': ['Termius - SSH/SFTP and Telnet client', '7000838566987489017', '500,000+', 'https://www.termius.com', 'android@termius.com']}
+{'com.barclubstats2': ['Bar & Club Stats - ID Scanner', 'Bar+%26+Club+Stats+ID+Scanner', '100,000+', 'http://www.barandclubstats.com', 'info@barandclubstats.com']}
+{'com.tvt.superliveplus': ['SuperLive Plus', 'Peng+Antai', '500,000+', 'http://www.baidu.com', 'chenliangmail@hotmail.com']}
+{'com.greenshades.mobile.android': ['GreenEmployee', 'Greenshades+Software', '100,000+', 'http://www.greenshades.com', 'appfeedback@greenshades.com']}
+{'com.waveapps.sales': ['Invoice by Wave', 'Wave+HQ', '100,000+', 'http://www.waveapps.com', 'rahim@waveapps.com']}
+{'com.rbauction.RitchieBros': ['Ritchie Bros.', 'Ritchie+Bros.', '50,000+', 'https://www.rbauction.com', 'csg@rbauction.com']}
+{'com.srpnet.custsvcs.srpmpower': ['SRP M-Power', 'Salt+River+Project', '50,000+', 'http://www.srpnet.com', 'myaccountsupport@srpnet.com']}
+{'com.reflexis.android.rws.ess': ['Reflexis ESS', 'Reflexis+Systems', '50,000+', 'https://www.reflexisinc.com/', 'android.reflexis1@gmail.com']}
+{'secureauth.android.token': ['SecureAuth Authenticate', 'SecureAuth', '100,000+', 'http://www.secureauth.com', 'support@secureauth.com']}
+{'com.unifocus.lms': ['UniFocus', 'UniFocus,+LP', '50,000+', 'http://www.unifocus.com/training/Mobile2.0-video-tutorials', 'cmcnutt@unifocus.com']}
+{'com.achievers.client': ['Achievers', 'Achievers+LLC', '100,000+', 'http://www.achievers.com/contactus', 'memberexperience@achievers.com']}
+{'com.comfreight.mobile': ['Find Truck Loads - Free Load Boards For Freight', 'ComFreight', '50,000+', 'https://comfreight.com', 'support@comfreight.com']}
+{'com.coned.conedison': ['Con Edison', 'Con+Edison', '50,000+', 'https://www.coned.com/en', 'APPSupport@coned.com']}
+{'com.eBusiness': ['Waste Management Mobile', 'Waste+Management', '100,000+', 'https://www.wm.com', 'webmaster@wm.com']}
+{'com.BuilderTREND.btMobileApp': ['Buildertrend', 'Buildertrend', '100,000+', 'https://www.buildertrend.com', 'support@buildertrend.com']}
+{'com.jbhunt.JBH360Carrier': ['Carrier 360 by J.B. Hunt', 'J.B.+Hunt+Transport,+Inc.', '50,000+', 'http://www.jbhunt.com', '360MobileSupport@jbhunt.com']}
+{'nextapp.fx': ['FX File Explorer: The file manager with privacy', 'NextApp,+Inc.', '5,000,000+', 'http://android.nextapp.com', 'android@nextapp.com']}
+{'com.plangrid.android': ['PlanGrid Construction Management Software', 'PlanGrid', '100,000+', 'http://www.plangrid.com', 'support@plangrid.com']}
+{'com.fleetcor.prepaidcard': ['Comdata Prepaid', 'Fleetcor+Technologies', '100,000+', 'http://www.comdata.com/payment-solutions/corporate-employee-payments/index', 'mobile@comdata.com']}
+{'com.verizon.onetalk': ['One Talk', 'Verizon+-+VZ', '50,000+', 'https://www.verizonwireless.com/biz/solutions-and-services/one-talk/', 'onetalk@verizon.com']}
+{'com.trinet.hrpmobile': ['TriNet', 'TriNet+Group,+Inc.', '50,000+', 'https://www.trinet.com/contact-us', 'trinetmobile@trinet.com']}
+{'com.vistaprint.mycard': ['mycard: Send your Vistaprint business card', '6531426463678863223', '50,000+', 'https://mycard.vistaprint.com', 'mycard@vistaprint.com']}
+{'business.card.maker.scopic': ['Business Card Maker & Creator', '5801011190684159526', '1,000,000+', 'http://lightcreativelab.com/policy.html', 'lf.creativelab@gmail.com']}
+{'com.ninefolders.hd3': ['Nine - Email & Calendar', '9Folders+Inc.', '1,000,000+', 'http://www.9folders.com', 'support@9folders.com']}
+{'com.micen.buyers.activity': ['Made-in-China.com B2B App (for Buyer)', 'Focus+Technology+Co.,+Ltd.', '500,000+', 'http://www.made-in-china.com', 'focus.android.dev@gmail.com']}
+{'com.picsel.tgv.app.smartoffice': ['SmartOffice - View & Edit MS Office files & PDFs', 'Artifex+Software+Inc.', '1,000,000+', 'http://smartoffice.artifex.com/', 'sosupport@artifex.com']}
+{'com.phonegap.clockshark': ['ClockShark - Time Clock App', 'ClockShark,+LLC', '50,000+', 'https://www.clockshark.com', 'hello@clockshark.com']}
+{'com.saloncentric.app': ['SalonCentric', 'SalonCentric,+Inc.', '100,000+', 'http://www.saloncentric.com', 'b2beCommerce@saloncentric.com']}
+{'com.uattend': ['uAttend', 'Processing+Point+Inc', '100,000+', 'http://www.uattend.com', 'vm@processingpoint.com']}
+{'com.appfolio.appfolio_property_manager': ['AppFolio Property Manager', '6409979379413406734', '10,000+', 'https://www.appfolio.com', 'dev-feedback+mobile_app@appfolio.com']}
+{'business.letterheadmaker': ['Letterhead Maker Business letter pad template Logo', 'Splendid+App+Maker', '10,000+', 'https://sites.google.com/view/splendidappmaker/home', 'splendidappmaker@gmail.com']}
+{'com.client.rxcamview': ['RXCamView', 'Yang+DaJun', '100,000+', 'http://www.rxcam.com', 'kingdon578@gmail.com']}
+{'com.pmg.hpprotrain': ['HP ProTrain', 'PMG+Asia+Pacific+Pte+Ltd', '50,000+', 'http://www.pmgasia.com', 'admin@hpprotrain.com']}
+{'com.ctuit.shiftit': ['Radar Schedules', 'Compeat+%7C+Ctuit', '100,000+', 'http://www.ctuit.com', 'client_services@ctuit.com']}
+{'com.xpo.DriveXPO': ['Drive XPO: Find and book loads', 'XPO+Logistics+inc', '5,000+', 'https://www.drivexpoapp.com', 'DriveXPOFeedback@xpo.com']}
+{'com.SwipeClock.SCeConnect': ['TimeWorksPlus', 'SwipeClock', '100,000+', 'http://www.swipeclock.com', 'support@swipeclock.com']}
+{'com.Tableau.TableauApp': ['Tableau Mobile', 'Tableau+Software', '100,000+', 'https://www.tableau.com', 'MobileSupport@tableau.com']}
+{'com.getjobber.jobber': ['Jobber - Field Service Software', 'Jobber+Software', '50,000+', 'http://getjobber.com/?utm_source=google&utm_medium=app_store', 'support@getjobber.com']}
+{'com.printful.app': ['Printful', 'Printful', '10,000+', 'https://www.printful.com', 'support@printful.com']}
+{'com.enlightment.appslocker': ['App Lock', 'lovekara', '10,000,000+', 'http://blog.163.com/lovekara0417', 'innovative_app@163.com']}
+{'bookipi.invoice.maker.estimate.billing': ['Free Invoice Maker App', 'Bookipi+-+Billing+Estimate', '10,000+', 'https://bookipi.com', 'support@help.bookipi.com']}
+{'com.controltec.kindersignwashington': ['KinderSign (Washington)', 'Controltec,+Inc.', '100+', 'http://www.controltec.biz', 'support@controltec.com']}
+{'com.notarize.signer': ['Notarize', 'Notarize,+Inc', '10,000+', 'https://www.notarize.com', 'support@notarize.com']}
+{'com.siriusxm.dealer': ['SiriusXM Dealer', 'Sirius+XM+Radio+Inc.', '50,000+', 'http://siriusxm.com', 'dealerquestions@siriusxm.com']}
+{'com.sherpa.iha2019': ['IH + HS 2019', 'Sherpa+Solutions', '1,000+', 'http://www.sherpa-solutions.com/', 'sherpasolutions.android@gmail.com']}
+{'com.ameren.mobile': ['Ameren Mobile', 'Ameren+Corporation', '100,000+', 'http://www.ameren.com', 'CorpComm@ameren.com']}
+{'com.linkedin.android.salesnavigator': ['LinkedIn Sales Navigator', '6860682062931868151', '100,000+', 'https://business.linkedin.com/sales-solutions', 'salesnavigatormobile@linkedin.com']}
+{'com.facebook.analytics': ['Facebook Analytics', 'Facebook', '100,000+', 'https://analytics.facebook.com', 'android-support@fb.com']}
+{'com.vinsolutions.vinconnect': ['VinSolutions Connect', 'Vinsolutions', '10,000+', 'http://vinsolutions.com/', 'support@vinsolutions.com']}
+{'com.freshbooks.andromeda': ['FreshBooks -Invoice+Accounting', 'FreshBooks+Cloud+Accounting', '100,000+', 'https://freshbooks.com', 'support@freshbooks.com']}
+{'com.chegal.alarm': ['Reminders', 'Chegal', '100,000+', 'http://reminders.chegal.org.ua', 'sir.chegal@gmail.com']}
+{'a2z.Mobile.Event5475': ['Pizza Expo/Artisan Bakery Expo', 'a2z,+Inc.', '500+', 'http://www.a2zinc.net/Show6/Public/Content505.aspx', 'appsupport@a2zinc.net']}
+{'com.oneq.askvert': ['1Q', '1Q,+LLC', '500,000+', 'https://1q.com', 'info@1q.com']}
+{'com.towbook.mobile': ['Towbook', 'Towbook', '50,000+', 'http://www.towbook.com', 'android@towbook.com']}
+{'com.ncr.hsr.pulse': ['Pulse', 'NCR', '100,000+', 'https://www.ncr.com/home/privacy-policy', 'communication.pulse@ncr.com']}
+{'com.aps.apsconsumerapp': ['Arizona Public Service', 'Arizona+Public+Service', '50,000+', 'http://www.aps.com', 'APSMobileDEV@apsc.com']}
+{'com.amazon.aws.console.mobile': ['AWS Console', 'AWS+Mobile+LLC', '100,000+', 'http://aws.amazon.com/console/mobile', 'aws-appstore@amazon.com']}
+{'com.lycadigital.lycamobileusa': ['Lycamobile USA', 'Lyca+Digital', '10,000+', 'http://www.lycadigital.com', 'lycamapps@gmail.com']}
+{'com.easy4u.scanner': ['Easy Scanner - Camera to signed PDF', '8281696871670304543', '1,000,000+', 'https://www.bfery.com/', 'support@bfery.com']}
+{'com.fiberlink.maas360.android.pim': ['MaaS360 Mail', 'MaaS360', '100,000+', 'http://www.maas360.com', 'maas360-android@fiberlink.com']}
+{'com.panopto.androidapp': ['Panopto', 'Panopto,+Inc.', '100,000+', 'http://support.panopto.com/', 'support@panopto.com']}
+{'iSurvey.Android': ['Merchandiser by Survey.com', 'Survey.com', '100,000+', 'https://survey.com', 'support@survey.com']}
+{'com.sds.emm.cloud.knox.samsung': ['Samsung Knox Manage', 'Samsung+SDS+INC.', '100,000+', 'https://www.samsungknox.com/en/support', 'knoxmanage@samsungknox.com']}
+{'com.mudassirnowsheer.visiting.card.maker': ['Free Business Card Maker-Visiting Card Maker 2019', 'GoldPub+Inc.', '10,000+', 'https://termsfeed.com/privacy-policy/dd579fc2bf3ad8de07eb42f3457b3cdd', 'goldpubinc.feedback@gmail.com']}
+{'cm.confide.android': ['Confide', 'Confide', '500,000+', 'https://getconfide.com/', 'support@getconfide.com']}
+{'com.sentrilock.sentrismart': ['SentriSmart', 'SentriLock', '100,000+', 'http://www.sentrilock.com', 'support@sentrilock.com']}
+{'com.app_cellplus.layout': ['Cellular Plus', 'TracPoint+Apps', '100,000+', 'http://tracpoint.com', 'tracpointapps@gmail.com']}
+{'com.pkg.ir': ['IamResponding (IaR)', 'Emergency+Services+Marketing+Corp.,+Inc.', '100,000+', 'http://www.iamresponding.com', 'support@emergencysmc.com']}
+{'com.adswipe.jobswipe': ['JobSwipe - Find a job today.', 'Jobswipe', '100,000+', 'http://www.jobswipe.net', 'contact@jobswipe.net']}
+{'com.manageengine.adssp.passwordselfservice': ['ADSelfService Plus', 'ManageEngine', '100,000+', 'http://www.adselfserviceplus.com/mobile', 'support@adselfserviceplus.com']}
+{'com.interview.qa.nxtech': ['Interview Questions Answers', '9179986977006721720', '1,000,000+', 'http://nxtechnp.com/ans/privacy.html', 'lobelyboy025@gmail.com']}
+{'com.weenysoft.word2pdf': ['Word to PDF Converter', 'Weeny+Software', '1,000,000+', 'http://www.aconvert.com/app/', 'gear@geardownload.com']}
+{'org.kman.AquaMail': ['Aqua Mail - Email App', '4895393381068725503', '1,000,000+', 'https://www.mobisystems.com/aqua-mail/', 'support@aqua-mail.com']}
+{'com.fiberlink.maas360.android.docs': ['MaaS360 Docs', 'MaaS360', '500,000+', 'http://www.maas360.com', 'maas360-android@fiberlink.com']}
+{'zeyt.mob': ['TotalHRWorks', 'Workforce+Ready', '100,000+', 'http://saashr.com', 'support@saashr.com']}
+{'com.serveture.hiredynamics': ['Work4HD', 'Serveture', '10,000+', 'https://hiredynamics.com', 'jrohn@serveture.com']}
+{'com.bitcubate.root.busybox.complete': ['BusyBox X [Root]', '8988602931080354741', '500,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.workpop.app': ['Job Search by Workpop', 'Workpop+Inc', '50,000+', 'http://www.workpop.com', 'support@workpop.com']}
+{'com.studio.topscanner': ['Top Scanner - Free PDF Scanner App', 'top+Inc.', '100,000+', 'https://sites.google.com/view/topscanner', 'topscanner@outlook.com']}
+{'com.fleetmatics.eld': ['REVEAL ELD Logbook', 'Verizon+Connect', '50,000+', 'http://www.verizonconnect.com', 'reveal.support@verizonconnect.com']}
+{'com.zenefits.android.apps.people': ['Zenefits', 'Zenefits', '50,000+', 'http://www.zenefits.com', 'mobile@zenefits.com']}
+{'com.usfoods.mobile': ['US Foods', 'US+Foods,+Inc.', '100,000+', 'http://www.usfoods.com', 'userfeedback@usfoods.com']}
+{'ban.card.payanywhere': ['PayAnywhere - Credit Card Reader & Point of Sale', 'North+American+Bancard', '500,000+', 'http://www.payanywhere.com', 'custservice@payanywhere.com']}
+{'com.mobiquityinc.ycf816177': ['Yankee Fundraising', 'The+Yankee+Candle+Company,+Inc.', '100,000+', 'http://www.yankeecandlefundraising.com', 'info@yankeecandle.com']}
+{'com.freelancer.android.messenger': ['Freelancer: Experts from Programming to Photoshop', 'Freelancer.com', '1,000,000+', 'http://www.freelancer.com', 'cx.android@freelancer.com']}
+{'com.zoho.crm': ['Zoho CRM - Sales & Marketing', '6811281457353247126', '500,000+', 'https://www.zoho.com/crm/', 'support@zohomobile.com']}
+{'com.copart.transportation': ['Copart Transportation', 'Copart', '5,000+', 'https://www.copart.com/towproviders/', 'brian.rush@copart.com']}
+{'com.biinc.mobile.client': ['BI SmartLINK', 'BI+Incorporated', '10,000+', 'https://bi.com/products-and-services/bi-smartlink/', 'info@bi.com']}
+{'com.globoforce.android': ['Globoforce Mobile', 'Globoforce+Ltd', '100,000+', 'http://www.globoforce.com', 'customerservice@globoforce.com']}
+{'com.esharesinc.android': ['Carta Mobile', 'Carta+Securities+LLC', '10,000+', 'https://carta.com', 'android@esharesinc.com']}
+{'com.deltek.vision.time': ['Deltek Vision Time & Expense', 'Deltek', '100,000+', 'http://www.deltek.com', 'deltekdevelopment@gmail.com']}
+{'com.whapps.erp': ['Applaud – Employee Engagement', 'Whapps,+LLC', '500+', 'http://online-rewards.com', 'googleplay@online-rewards.com']}
+{'com.pared.android.work': ['Pared Pros - Find Restaurant Jobs and Work Gigs', 'Pared,+Inc.', '10,000+', 'https://www.pared.com/talent', 'pros@pared.com']}
+{'com.acinfotech.matrix.activity': ['Matrix eServices Mobile', 'Matrix+Absence+Management+Inc', '50,000+', 'http://www.matrixcos.com', 'matrixcosmobile@gmail.com']}
+{'com.onelogin.protect': ['OneLogin Protect', 'OneLogin+Inc', '50,000+', 'http://www.onelogin.com', 'support@onelogin.com']}
+{'com.bg.brochuremaker': ['Brochure Maker, Leaflets & Flyer Builder', 'Apps+You+Love', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'bhavesh.optimumbrew@gmail.com']}
+{'com.fbsdata.flexmls': ['Flexmls Pro', 'FBS,+Inc.', '100,000+', 'http://www.flexmls.com', 'app-testing@flexmls.com']}
+{'com.zoho.forms.a': ['Mobile Forms App - Zoho Forms', '6811281457353247126', '100,000+', 'http://www.zoho.com/forms', 'support@zohoforms.com']}
+{'com.adesa.marketplace': ['Marketplace', 'ADESA', '50,000+', 'http://www.adesa.com/home', 'customerconnection@adesa.com']}
+{'com.netgear.insight': ['NETGEAR Insight', 'NETGEAR,+Inc', '50,000+', 'http://www.netgear.com', 'netgear.android@gmail.com']}
+{'com.exelon.mobile.peco': ['PECO - An Exelon Company', 'An+Exelon+Corporation', '50,000+', 'https://www.peco.com/', 'PECOMobileApp@exeloncorp.com']}
+{'com.rollerbannermaker': ['Banner Maker, Ad Maker, Web Banners, Graphic Art', '8983953568983045767', '500,000+', 'https://sites.google.com/view/digitalmarketingtools/home', 'sbg.appolu@gmail.com']}
+{'com.appimpulse.timestation': ['TimeStation', 'TimeStation,+LLC', '100,000+', 'http://www.mytimestation.com', 'Support@MyTimeStation.com']}
+{'com.propay.mobile': ['ProPay – Accept Credit Cards', 'ProPay+Inc', '100,000+', 'http://www.propay.com', 'customerservice@propay.com']}
+{'com.citrix.mail.droid': ['Citrix Secure Mail', 'Citrix', '500,000+', 'http://www.citrix.com/products/xenmobile/overview.html', 'xenmobile2@citrix.com']}
+{'com.gracechurch.khv7op': ['Shepherds’ Conference', 'Grace+Community+Church+of+the+Valley', '1,000+', 'http://gracechurch.org', 'web@gracechurch.org']}
+{'com.soundconcepts.revitalu': ['revital U', 'Sound+Concepts,+Inc.', '5,000+', 'http://mybuildersystem.com/#Support', 'support@mysecureoffice.com']}
+{'com.gigsmart.requester': ['GIGSMART Get Workers', 'GigSmart,+Inc.', '5,000+', 'https://www.gigsmart.com', 'support@gigsmart.com']}
+{'com.soundconcepts.youngliving': ['YL Share', 'Sound+Concepts,+Inc.', '10,000+', 'http://mytoolspresenter.com/', 'support@mysecureoffice.com']}
+{'com.zoho.expense': ['Expense Reporting and Approval - Zoho', '6811281457353247126', '100,000+', 'https://www.zoho.com/expense/?utm_source=appstore&utm_medium=mobileapplisting&utm_content=supportwebsite&utm_campaign=googleplay', 'support@zohoexpense.com']}
+{'com.axiscare': ['AxisCare Mobile', 'AxisCare', '10,000+', 'http://www.axiscaresales.com', 'dev@axiscare.com']}
+{'com.peoplenet.mobilepunch': ['Peoplenet Mobile', 'Peoplenet', '50,000+', 'http://www.peoplenet.com/', 'Support@Peoplenet.com']}
+{'com.etouches.loopdevents': ['Aventri Events', 'Aventri', '10,000+', 'https://www.aventri.com/', 'mobileapps@aventri.com']}
+{'com.yei.app': ['YouEarnedIt', 'YouEarnedIt', '10,000+', 'http://youearnedit.com', 'support@youearnedit.com']}
+{'com.stockmanagment.next.app': ['Stock and Inventory Simple', '5311396783099201809', '100,000+', 'http://chester-sw.com/privacy-stock-inventory.html', 'chester.software@gmail.com']}
+{'com.comdata.onroadmobile': ['Comdata OnRoad', 'Comdata+Mobile+Apps', '5,000+', 'http://www.comdata.com', 'comchekmobilesupport@comdata.com']}
+{'com.syscocorp.omxmvp': ['Sysco Mobile', 'Sysco+Corporation', '50,000+', 'http://www.sysco.com', '000-MS-MTCluster@corp.sysco.com']}
+{'pathway.schoox': ['Pathway by Chick-fil-A', 'Schoox,+Inc.', '10,000+', 'http://www.schoox.com', 'mobile@schoox.com']}
+{'com.mobitech3000.jotnotfax.android': ['JotNot Fax - Fax from your phone', 'MobiTech+3000+LLC', '10,000+', 'http://www.jotnot.com/fax.html', 'support@jotnot.com']}
+{'co.deliv.blackdog': ['Deliv - Driver Delivery App', 'Deliv+Engineering', '10,000+', 'http://deliv.co', 'support@deliv.co']}
+{'com.srpnet.custsvc.srppower': ['SRP Power', 'Salt+River+Project', '50,000+', 'http://www.srpnet.com', 'myaccountsupport@srpnet.com']}
+{'com.safetyculture.iauditor': ['iAuditor - Safety and Quality Inspections', '6392907720726114453', '100,000+', 'https://safetyculture.com/iauditor', 'support@safetyculture.com']}
+{'com.wickr.pro': ['Wickr Pro', 'Wickr+Inc', '100,000+', 'https://wickr.com', 'info@wickr.com']}
+{'com.enphaseenergy.myenlighten': ['Enphase Enlighten', 'Enphase+Energy', '50,000+', 'http://www.enphase.com', 'mobile-apps-support@enphaseenergy.com']}
+{'com.comdata.comchekmobile': ['Comchek Mobile', 'Comdata+Mobile+Apps', '10,000+', 'http://www.comdata.com', 'comchekmobilesupport@comdata.com']}
+{'com.taxbot': ['Taxbot - Mileage & Expenses', 'Taxbot', '100,000+', 'http://taxbot.com/', 'support@taxbot.com']}
+{'com.applaudsoft.wabi.virtual_number': ['Wabi - Virtual Number for WhatsApp Business', 'Applaud+Soft', '100,000+', 'http://www.wabi-app.com', 'applaud.soft@gmail.com']}
+{'com.nvenergy.eServicesMobile': ['NV Energy', 'NV+Energy,+Inc.', '50,000+', 'https://www.nvenergy.com', 'MyAccountSupport@nvenergy.com']}
+{'com.benefitfocus.myhrit': ['Benefitfocus®', 'Benefitfocus', '50,000+', 'https://www.benefitfocus.com', 'support@benefitfocus.com']}
+{'uk.org.blurt.businessplanbuilder': ['Business Plan Quick Builder', '5822547169936380282', '100,000+', 'http://www.businessplanquickbuilder.com', 'lewperren@googlemail.com']}
+{'com.dataviz.docstogo': ['Docs To Go™ Free Office Suite', 'DataViz', '50,000,000+', 'http://www.dataviz.com/dtg-android', 'support@dataviz.com']}
+{'com.legalshield.MyIDShield': ['IDShield', 'LegalShield+Corporation', '100,000+', 'http://www.myidshield.com', 'idshield@legalshield.com']}
+{'com.anymeeting.meetingpro': ['Intermedia AnyMeeting', '5813178803728306679', '100,000+', 'http://www.anymeeting.com', 'androidsupport@anymeeting.com']}
+{'com.shifthound.shifthound': ['ShiftHound', 'ShiftHound,+Inc.', '50,000+', 'http://shifthound.com', 'support@shifthound.com']}
+{'com.boxstorm.boxstormmobile': ['Boxstorm - Free Inventory Management Software', 'Fishbowl', '5,000+', 'http://www.boxstorm.com', 'support@boxstorm.com']}
+{'com.onsource.kemperinspection': ['Kemper Photo Inspection', 'OnSource+Online', '50,000+', 'http://onsourceonline.com', 'tschneider@onsourceonline.com']}
+{'com.milestonesys.mobile': ['Milestone Mobile', 'Milestone+Systems+A/S', '100,000+', 'https://milestonesys.com', 'po@milestone.dk']}
+{'x1Trackmaster.x1Trackmaster': ['AppSheet', 'AppSheet', '100,000+', 'http://appsheet.com', 'support@appsheet.com']}
+{'com.smartlinxsolutions.ess': ['WorkLinx Mobile', 'Smartlinx+Solutions,+LLC.', '10,000+', 'http://www.smartlinxsolutions.com', 'mobile@smartlinxsolutions.com']}
+{'com.opcity': ['Opcity', 'Opcity,+Inc.', '10,000+', 'https://www.opcity.com', 'support@opcity.com']}
+{'com.kw.kelle': ['Kelle', 'Keller+Williams+Realty+International+%28KWRI%29', '10,000+', 'http://www.kw.com', 'KWRImobile@gmail.com']}
+{'com.cat.corelink': ['Cat® App: Fleet Management', 'Caterpillar+Inc.', '1,000+', 'http://yardclub.com', 'support@catdigitallabs.com']}
+{'com.passportparking.opsmobile': ['Passport OpsMan Mobile', 'Passport+Labs,+Inc.', '5,000+', 'http://passportparking.com', 'info@passportparking.com']}
+{'com.ionicframework.ionicapp410897': ['Podium - Customer Interaction Platform', 'Podium+Corporation,+Inc.', '50,000+', 'http://www.podium.com', 'mobile@podium.com']}
+{'com.virtualassist.avc': ['Virtual Assist', 'ARITY,+LLC', '10,000+', 'https://www.allstate.com/support/mobile-apps.aspx', 'aritymobileappdistribution@gmail.com']}
+{'com.sap.fiori.client': ['SAP Fiori Client', 'SAP+SE', '100,000+', 'http://help.sap.com/fiori-client/', 'sap.fiori.client@sap.com']}
+{'com.wrike': ['Wrike - Project Management', 'Wrike+Inc.', '500,000+', 'https://www.wrike.com', 'support@team.wrike.com']}
+{'subway.schoox': ['University of SUBWAY®', 'Schoox,+Inc.', '100,000+', 'http://www.schoox.com', 'mobile@schoox.com']}
+{'com.clickworker.clickworkerapp': ['clickworker', 'clickworker+GmbH', '50,000+', 'https://www.clickworker.com', 'app@clickworker.com']}
+{'com.workjam.workjam': ['WorkJam', 'WorkJam,+Inc.', '10,000+', 'http://www.workjam.com', 'google-play@workjam.com']}
+{'com.fortinet.android.ftm': ['FortiToken Mobile', 'Fortinet', '100,000+', 'http://www.fortinet.com', 'android@fortinet.com']}
+{'com.zoho.accounts.oneauth': ['Zoho OneAuth - Multi Factor Authenticator', '6811281457353247126', '50,000+', 'https://www.zoho.com/accounts/oneauth.html', 'support@zohoaccounts.com']}
+{'com.fxo.pol': ['FedEx Office', 'FedEx+Office', '100,000+', 'http://www.fedex.com/us/office/mobile-printing.html', 'gomobile@fedex.com']}
+{'com.app_imarketslive.layout': ['iMarketsLive', 'G3+WORLDWIDE', '100,000+', 'http://www.g3worldwide.com', 'mobile@g3worldwide.com']}
+{'com.opentable.guestcenter': ['GuestCenter for Restaurant Owners and Managers', 'OpenTable', '10,000+', 'https://guestcenter.opentable.com', 'cylons@opentable.com']}
+{'com.utilityservices.epaystub': ['ePaystub', 'Lifecycle+Mobile', '50,000+', 'https://portal.utilservcorp.com', 'admin@lifecyclemobile.com']}
+{'com.microsoft.crm.crmphone': ['Dynamics 365 for Phones', '6720847872553662727', '100,000+', 'http://www.microsoft.com', 'dynmobisup@microsoft.com']}
+{'com.gappstudio.docxread.docxreader': ['Docx Reader', 'Gapp+Studios', '1,000,000+', 'http://amsacht.com', 'admin@amsacht.com']}
+{'app.bailbooks.com': ['Bailbooks Defendant App', 'Bailbooks+Mobile+Apps', '10,000+', 'http://www.bailbooks.com', 'gary@bailbooks.com']}
+{'com.ProfitBandit': ['Profit Bandit - Sell on Amazon', 'SellerEngine++Software', '100,000+', 'http://sellerengine.com/profit-bandit/', 'profitbandit@sellerengine.com']}
+{'com.sew.swg': ['Southwest Gas', 'Smart+Energy+Systems', '1,000+', 'https://www.swgas.com/', 'webmaster@swgas.com']}
+{'com.zendesk.android': ['Zendesk Support', '6989846973087460570', '100,000+', 'https://support.zendesk.com/', 'support@zendesk.com']}
+{'com.remine': ['Remine', 'Remine', '5,000+', 'http://www.remine.com', 'mobile@remine.com']}
+{'to.go': ['Flock - Team Chat & Collaboration App', 'Riva', '100,000+', 'http://flock.com', 'android@flock.com']}
+{'com.ar.augment': ['Augment - 3D Augmented Reality', '6861455536102207589', '1,000,000+', 'http://augment.com', 'contact@augment.com']}
+{'theilluminati.a45waystomakemoney': ['45 Ways to Make Money', '5672127464696277811', '50,000+', 'http://theilluminati63.blogspot.in/p/45-ways-to-make-money-privacy-policy.html', 'illuminati635257@gmail.com']}
+{'com.jive.android.jiveone': ['Jive Mobile', 'Jive+Communications,+Inc', '10,000+', 'http://jive.com', 'android_apps@getjive.com']}
+{'com.epson.tmassistant': ['Epson TM Print Assistant', 'Seiko+Epson+Corporation', '10,000+', 'http://global.epson.com/other_products/point_of_sale_index.htm', 'feedback-bsapps1@exc.epson.co.jp']}
+{'com.melaleuca.DocumentUpload': ['Melaleuca Quick Send', 'Melaleuca,+Inc', '10,000+', 'http://www.melaleuca.com', 'info@melaleuca.com']}
+{'com.amazon.enterprise.access.android': ['AEA – Amazon Employees', 'Amazon+Mobile+LLC', '5,000+', 'http://www.amazon.com/', 'feedback-amazon-app-android@amazon.com']}
+{'com.workyard.app': ['Workyard', 'Workyard', '1,000+', 'https://www.workyard.com', 'info@workyard.com']}
+{'com.local.usajobsapp': ['USAJOBS Notification', 'The+Top+Development', '50,000+', None, 'thetopdev@gmail.com']}
+{'com.anymeeting.meetingpro': ['Intermedia AnyMeeting', '5813178803728306679', '100,000+', 'http://www.anymeeting.com', 'androidsupport@anymeeting.com']}
+{'com.microsoft.android.bingplaces': ['Bing places for business', '6720847872553662727', '10,000+', 'http://www.microsoft.com', 'bpmobileapp@microsoft.com']}
+{'com.controltec.kindersmartwashington': ['KinderSmart (Washington)', 'Controltec,+Inc.', '100+', 'http://www.controltec.biz', 'support@controltec.com']}
+{'mine.com.app': ['CloudMining & Bitcoin Mining - Cloud Bitcoin Miner', 'myfavoritedev', '100,000+', 'http://bitcoinminer.website/', 'resupteamspa@gmail.com']}
+{'com.medallia.mm3': ['Medallia Mobile 3', 'Medallia,+Inc.', '10,000+', 'http://www.medallia.com', 'info@medallia.com']}
+{'com.eventmobi.multieventapp.meaidfa33d52eb4374fdb891ab905fa3a72e7': ['EventMobi', 'EventMobi', '50,000+', 'http://www.eventmobi.com', 'support@eventmobi.com']}
+{'air.com.mapyourshow.WTS18MobileApp': ['The Work Truck Show 2019', 'Map+Your+Show', '500+', 'http://www.mapyourshow.com/', 'support@mapyourshow.com']}
+{'com.swipeclock.mobile': ['TimeWorksPlus Employee', 'SwipeClock', '1,000+', 'http://www.swipeclock.com', 'productmanagement@swipeclock.com']}
+{'com.rhodescomputerservices.taxestogo': ['TaxesToGo', 'Rhodes+Computer+Services', '10,000+', 'http://www.taxestogo.com', 'rhodescomputerservices@gmail.com']}
+{'com.cardflight.swipesimple': ['SwipeSimple', 'CardFlight', '50,000+', 'http://www.swipesimple.com', 'support@cardflight.com']}
+{'com.amwayrc': ['Amway Resource Center', 'Amway+Corp.', '10,000+', 'http://www.amway.com', 'customer.service@amway.com']}
+{'com.nextiva.nextivaapp.android': ['Nextiva App', 'Nextiva+Communications', '10,000+', 'http://www.nextiva.com/products/voip-app.html', 'support@nextiva.com']}
+{'com.rrpub.truckdrivingjobs': ['Truck Driving Jobs', 'Randall-Reilly', '10,000+', 'http://rrpub.com', 'mobileapps@randallreilly.com']}
+{'com.ksharkapps.androidterminal': ['Terminal Emulator Free', '8988602931080354741', '100,000+', 'http://ksharkapps.com', 'support@ksharkapps.com']}
+{'com.eagleview.mobile': ['EagleView', 'EagleView+Technologies', '50,000+', 'http://www.eagleview.com', 'android@eagleview.com']}
+{'com.citrix.browser.droid': ['Citrix Secure Web', 'Citrix', '500,000+', 'http://www.citrix.com/products/xenmobile/overview.html', 'xenmobile2@citrix.com']}
+{'com.zoho.invoice': ['Invoice & Time Tracking - Zoho', '6811281457353247126', '100,000+', 'https://www.zoho.com/invoice/?utm_source=appstore&utm_medium=mobileapplisting&utm_content=supportwebsite&utm_campaign=googleplay', 'support+mobile@zohoinvoice.com']}
+{'com.logmein.lg.rescuesecurity.signed': ['Rescue Add-On: LG', 'LogMeIn,+Inc.', '50,000+', 'https://secure.logmeinrescue.com', 'rescueandroid@logmein.com']}
+{'com.coffeeenterprise': ['Shyft - Shift Swap, Schedule, Team Messaging', 'Shyft+Technologies+Inc.', '100,000+', 'https://www.myshyft.com', 'hello@myshyft.com']}
+{'com.jjkeller.kmb': ['KellerMobile™', 'J.+J.+Keller+%26+Associates,+Inc.', '50,000+', 'http://www.jjkellermobile.com/contact', 'support@jjkeller.com']}
+{'com.taketheinterview.android.cm': ['Convey On-Demand', 'Take+The+Interview', '50,000+', 'https://www.conveyiq.com/', 'aschafer@conveyiq.com']}
+{'com.crowdcompass.appPtHUJyvt2w': ['OFC Conference', 'The+Optical+Society', '1,000+', 'https://www.ofcconference.org', 'custserv@osa.org']}
+{'com.zoho.books': ['Accounting App - Zoho Books', '6811281457353247126', '100,000+', 'https://www.zoho.com/books/?utm_source=appstore&utm_medium=mobileapplisting&utm_content=supportwebsite&utm_campaign=googleplay', 'support+mobile@zohobooks.com']}
+{'com.app.yardbook': ['Yardbook', 'Yardbook', '10,000+', 'https://www.yardbook.com', 'support@yardbook.com']}
+{'com.phonegap.justenergy': ['My Just Energy', 'Just+Energy+Texas', '50,000+', 'http://www.justenergy.com', 'appdev@justenergy.com']}
+{'com.proliant.mobile': ['Proliant Mobile', 'Proliant,+Inc', '10,000+', 'http://www.proliant.com', 'support@proliant.com']}
+{'com.ironplanet.main': ['IronPlanet', 'IronPlanet,+Inc.', '10,000+', 'http://www.ironplanet.com', 'MobileSupport@ironplanet.com']}
+{'com.itrustpro.pro': ['iTrust PRO - Generate Leads & Be a PRO!', 'iTrust+Ventures+LLC', '1,000+', 'https://www.itrustpro.com', 'support@itrustpro.com']}
+{'air.com.implix.clickmeetingmobile': ['ClickMeeting Webinars', 'ClickMeeting+Sp.+z+o.o.', '1,000,000+', 'http://clickmeeting.com', 'support@clickmeeting.com']}
+{'com.cccis.cccone': ['CCC ONE Repair Facility', 'CCC+Information+Services+Inc.', '50,000+', 'http://www.cccis.com', 'tsemailsupport@cccis.com']}
+{'com.insperity.escmobile': ['Insperity Mobile', 'Insperity', '50,000+', 'http://www.insperity.com', 'web_support@insperity.com']}
+{'com.Kelly.Kellyjobs': ['Kelly Jobs -Find Jobs Near Me', 'Kelly+Services', '50,000+', 'http://kellyservices.com/kellyjobsapp/', 'salesforce@kellyservices.com']}
+{'com.jobflex.android': ['Invoice Maker & Simple Contractor Billing Estimate', 'JobFLEX', '100,000+', 'http://www.job-flex.com', 'support@job-flex.com']}
+{'com.symplicity.csmandroid': ['Symplicity Jobs and Careers', '5105489372443551209', '10,000+', 'http://www.symplicity.com', 'info@symplicity.com']}
+{'com.microsoft.rdc.android.beta': ['Microsoft Remote Desktop Beta', '6720847872553662727', '100,000+', 'http://go.microsoft.com/fwlink/p/?LinkId=324281', 'rdandrbe@microsoft.com']}
+{'com.rivs.jobseeker': ['RIVS Apply', 'RIVS', '50,000+', 'https://www.rivs.com', 'support@rivs.com']}
+{'com.imdb.pro.mobile.android': ['IMDbPro', 'IMDb', '10,000+', 'https://pro.imdb.com/', 'imdbproapps@gmail.com']}
+{'com.tvt.network': ['SuperLivePro', 'Peng+Antai', '1,000,000+', 'http://www.baidu.com', '7281398@qq.com']}
+{'com.idbsys.mobile': ['Generations Homecare System', 'Integrated+Database+Systems,+Inc.', '10,000+', 'http://www.idb-sys.com', 'support@idb-sys.com']}
+{'com.criteriacorp.jobflare.jobflare': ['JobFlare for Job Search – Play Games. Get Hired.', 'Criteria+Corp', '5,000+', 'http://www.jobflare.com', 'support@jobflare.com']}
+{'com.regus': ['Regus offices & meeting rooms', 'Regus+Group+Services+Ltd', '100,000+', 'http://www.regus.com', 'customer.service@regus.com']}
+{'com.altametrics.zipschedulesers': ['Altametrics Schedules', 'Altametrics', '10,000+', 'http://www.altametrics.com', 'development@altametrics.com']}
+{'com.invoiceasap.nativeapp': ['Invoice ASAP,  for Invoicing', 'invoiceASAP', '100,000+', 'http://www.invoiceasap.com', 'paul@invoiceasap.com']}
+{'com.compusystems.exhibitor': ['CompuLEAD', 'CompuSystems,+Inc.', '50,000+', 'http://www.compusystems.com/compulead-smart.php', 'exhibitor-support@compusystems.com']}
+{'com.fleetmatics.presentation.mobile.android.sprite': ['Reveal Manager', 'Verizon+Connect', '100,000+', 'http://www.fleetmatics.com', 'infoUSA@fleetmatics.com']}
+{'com.booking.hotelmanager': ['Pulse for Booking.com Partners', '8601716327451933581', '1,000,000+', 'http://www.booking.com/pulse', 'customer.service@booking.com']}
+{'com.paloaltonetworks.globalprotect': ['GlobalProtect', 'Palo+Alto+Networks', '100,000+', 'http://www.paloaltonetworks.com/globalprotect', 'support@paloaltonetworks.com']}
+{'com.smsrobot.photox': ['Hide Pictures, Hide Photos & Videos, Gallery Vault', '7385958080524828270', '1,000,000+', 'http://www.smsrobot.com', 'support@smsrobot.com']}
+{'com.icanvass': ['SPOTIO - Door to Door Tracking', 'Spotio', '50,000+', 'http://spotio.com/', 'support@spotio.com']}
+{'com.claimxperience.videocollaboration.app': ['ClaimXperience', 'Xactware+Solutions,+Inc.', '10,000+', 'http://www.claimxperience.com', 'GooglePlay@xactware.com']}
+{'net.ersp.mobileConnect': ['eRSP Mobile Connect', 'Kaleida+Systems,+Inc', '10,000+', 'http://www.kaleidasystems.com', 'ersp@kaleidasystems.com']}
+{'directenergy.mobileoam': ['Direct Energy Account Manager', 'Direct+Energy', '50,000+', 'http://www.directenergy.com/app', 'customerhelp@directenergy.com']}
+{'com.biworldwide.spotme': ['@event', 'BI+WORLDWIDE+Event+Solutions', '1,000+', 'http://www.biworldwide.com/en/contact/', 'appsupport@biworldwide.com']}
+{'com.vscorp.receipt.maker': ['Receipt Maker', 'Maito+Labs', '10,000+', 'https://receiptmaker-22e50.firebaseapp.com', 'maito.labs@gmail.com']}
+{'com.tchadv.ltddys': ['Determine Your Success', 'Direct+Sales+Mobile', '50,000+', 'http://directsalesmobile.com/', 'dev@directsalesmobile.com']}
+{'com.powerdms.android.powerdms': ['PowerDMS Mobile', '5135120021179264003', '10,000+', 'https://www.powerdms.com/mobile-app/', 'support@powerdms.com']}
+{'com.naviabenefits.NaviaBenefitsMobile': ['MyNavia Benefits', 'Navia+Benefit+Solutions', '5,000+', 'http://www.naviabenefits.com/', 'customerservice@naviabenefits.com']}
+{'com.express.inspection': ['Express Vehicle Inspection', 'OnSource+Online', '100,000+', 'http://onsourceonline.com', 'tschneider@onsourceonline.com']}
+{'com.aep.customerapp.apco': ['Appalachian Power', 'American+Electric+Power', '10,000+', 'https://AppalachianPower.com', 'appsupport@aep.com']}
+{'com.mobileiron.anyware.android': ['MobileIron Go', 'MobileIron', '100,000+', 'http://mobileiron.com/products/cloud', 'info-cloud@mobileiron.com']}
+{'com.unique.bluetoothpos': ['MSR-BTX6', 'Postech', '10,000+', 'http://www.posunitech.com', 'info@posunitech.com']}
+{'com.redarbor.computrabajo': ['CompuTrabajo Ofertas de Empleo', 'DGNET+LTD.', '5,000,000+', 'http://www.computrabajo.com', 'mobile@computrabajo.com']}
+{'com.trimble.workzone': ['Contractor WorkZone - Business Management Tool', 'Trimble+Inc.', '10,000+', 'http://www.contractorworkzone.com', 'support@contractorworkzone.com']}
+{'com.wsc.scm_mobile': ['My Utility Connect', 'Smart+Energy+Systems', '500+', 'https://u1.smartcmobile.com/wsc/default.aspx', 'customerservice@uiwater.com']}
+{'com.deltek.tess.time': ['GovCon Time & Expense', 'Deltek', '100,000+', 'http://www.deltek.com', 'deltekdevelopment@gmail.com']}
+{'com.corvusgps.evertrack': ['GPS Vehicle Tracker - EverTrack', '8406869985720700985', '100,000+', 'https://corvusgps.com', 'admin@corvusgps.com']}
+{'com.ontrac.android': ['Street Invoice', 'Street+Invoice+LLC', '100,000+', 'http://www.StreetInvoice.com', 'Support@StreetInvoice.com']}
+{'com.salesforce.authenticator': ['Salesforce Authenticator', '4788706135661893559', '100,000+', 'http://www.salesforce.com', 'authenticator-feedback@salesforce.com']}
+{'com.cisco.bce': ['Business Class Email (BCE)', 'Cisco+Systems,+Inc.', '100,000+', 'http://www.cisco.com', 'androidmarket@cisco.com']}
+{'com.jora.android': ['Jora Jobs - Job Search, Vacancies & Employment', 'Job+Seeker+Pty+Ltd', '1,000,000+', 'https://au.jora.com/', 'support@jora.com']}
+{'com.safefaxes.app': ['Safe Fax: Send fax from phone', 'SmartappsLLC', '1,000+', 'https://www.safefaxes.com', 'support@safefaxes.com']}
+{'com.aw.ec': ['Employee Portal Payroll Relief', 'Payroll+Relief', '5,000+', 'http://www.accountantsworld.com', 'developer@accountantsworldllc.com']}
+{'com.tapcrowd.mkusapp300000470': ['Mary Kay Events - USA', 'Aventri', '5,000+', 'http://www.etouches.com', 'apps@tapcrowd.com']}
+{'ironark.com.charge': ['Charge - Stripe Card Payments', 'SureSwift+Capital', '5,000+', 'https://chargestripe.com', 'hello@chargestripe.com']}
+{'com.medallia.mobile': ['Medallia Mobile 2', 'Medallia,+Inc.', '100,000+', 'http://www.medallia.com', 'info@medallia.com']}
+{'com.samsung.android.knox.enrollment': ['Knox Deployment', '5200379633052405703', '500,000+', 'https://www.samsungknox.com/me', 'knox.kc@samsung.com']}
+{'com.probooks.freeinvoicemaker': ['Free Invoice Maker', 'Invoice+and+PDF+Labs', '10,000+', 'https://www.probooks.com', 'contact@probooks.com']}
+{'com.swipejobs.jobstack.customer': ['JobStack | Customer', 'PeopleReady,+Inc.', '50,000+', 'http://www.peopleready.com/', 'appsupport@trueblue.com']}
+{'com.bankofamericamerchantservices.clovergo': ['CloverGo-BofA MerchantServices', 'Bank+of+America+Merchant+Services', '50,000+', 'http://merch.bankofamerica.com', 'support@clover.com']}
+{'us.signonthego.signonthego': ['SignOnTheGo', 'SignOnTheGo,+LLC', '5,000+', 'https://www.signonthego.us/', 'info@signonthego.us']}
+{'com.mobisystems.mobiscanner': ['Quick PDF Scanner FREE - Scan to PDF', '4895393381068725503', '5,000,000+', 'http://www.mobisystems.com', 'support@mobisystems.com']}
+{'com.pdf.suite.app.word2pdfconverter': ['Word to PDF - Convert Word to PDF Free', 'MMA+-+Modern+Mobile+Apps', '50,000+', 'https://github.com/kelvio/pdf/wiki/Privacy-Policy', 'juankuzniewski.app@gmail.com']}
+{'com.advanced.rootchecker': ['Root/Su Checker Free [Root]', '5290032069370349950', '1,000,000+', 'http://www.ksharkapps.com', 'support@ksharkapps.com']}
+{'com.ninefolders.hd3.work': ['Nine Work for Android Enterprise', '9Folders+Inc.', '100,000+', 'http://www.9folders.com', 'support@9folders.com']}
+{'com.sk.businesscardmaker': ['Business Card Maker, Free Visiting Card Maker 2019', 'Nilesh+Jain', '100,000+', 'https://sites.google.com/view/3martians', 'nilesh.sanghavi92@gmail.com']}
+{'com.skiracer.topo_android_market': ['Hunting Gps Maps w/ Property Lines, Topos & Trails', 'Gps+Nautical+Charts', '10,000+', 'http://www.toposports.com', 'support@toposports.com']}
+{'com.fiberlink.maas360.android.secureviewer': ['MaaS360 Secure Viewer', 'MaaS360', '100,000+', 'http://www.maas360.com', 'maas360-android@fiberlink.com']}

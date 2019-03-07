@@ -1,0 +1,927 @@
+{'com.easy.cool.next.home.screen': ['Bolt Launcher - Charging Show & Themes', 'Color+Phone+Studios', '5,000,000+', 'http://cdn.appcloudbox.net/fingerstudioscom/apps/livephone/privacy.html', 'developer2@hyper-speed.net']}
+{'com.hbo.hbonow': ['HBO NOW: Stream TV & Movies', 'HBO+NOW', '10,000,000+', 'http://order.hbonow.com', 'support@hbonow.com']}
+{'com.bongolight.pixelcoloring': ['Pixel Art: Color by Number, Pixel Color(Pixel Pop)', 'Magic+Arts', '1,000,000+', 'http://cdn.appcloudbox.net/magicarts/apps/androidpixel/privacy.html', 'magicart.feedback@gmail.com']}
+{'com.HBO': ['HBO GO: Stream with TV Package', 'Home+Box+Office+Inc.', '10,000,000+', 'https://help.hbogo.com/', 'hbogohelp@hbo.com']}
+{'com.love.match63': ['Great Love Communication', 'Good+Game+TM', '1,000+', 'https://waplog.com/home/privacy_policy', 'goodgametmdev@gmail.com']}
+{'free.music.player.tube.songs.stream': ['Free Music – Online Unlimited Music For Free', 'Free+Music+For+You', '1,000+', 'https://s3.amazonaws.com/freemusicplayer/Privacy+Policy.html', 'developer20190226@gmail.com']}
+{'com.nbcuni.nbc.thevoice': ['The Voice Official App on NBC', 'NBCUniversal+Media,+LLC', '1,000,000+', 'http://www.nbc.com/the-voice', 'thevoiceappfeedback@nbcdigital.zendesk.com']}
+{'com.gogo.kissanime': ['KissAnime Watch - GogoAnime TV', 'KissAnime+Android', '1,000+', None, 'kissanime.watch@gmail.com']}
+{'com.cinemaxx.app': ['Movie HD Cinemaxx', 'SmartHub+Mobile', '1,000+', 'https://privacypolicies.com/privacy/view/3222ef5c25d0ba8c65ef5966821f58c0', 'boyyatandroid@gmail.com']}
+{'com.doapps.id3153': ['Mardi Gras Parade Tracker WALA', 'KMOV-TV,+Inc', '10,000+', 'http://www.kmov.com', 'kmovmobileops@gmail.com']}
+{'com.bydeluxe.d3.android.program.starz': ['STARZ', 'Starz+Entertainment,+LLC', '10,000,000+', 'http://www.starz.com', 'help@starz.com']}
+{'com.xfinity.cloudtvr': ['Xfinity Stream', 'Comcast', '10,000,000+', 'http://xfinity.com/x1', 'Xfinity_TVApp@comcast.com']}
+{'com.arcsys.tictactoe.lite.free.puzzle.games': ['Tic Tac Toe glow - Free Puzzle Game', '7105367870106447069', '10,000,000+', 'http://www.arclitebd.com', 'ihoque85@gmail.com']}
+{'org.gamatech.androidclient.app': ['Atom Tickets - Movie Showtimes & Tickets', 'Atom+Tickets,+LLC', '1,000,000+', 'http://www.atomtickets.com', 'support@atomtickets.com']}
+{'com.yahoo.apps.yahooapp': ['Yahoo - News, Mail, Sports', '5536369398281991413', '500,000+', 'https://www.yahoo.com', 'mobile-services@oath.com']}
+{'com.mentormate.android.inboxdollars': ['InboxDollars', 'InboxDollars', '1,000,000+', 'http://www.inboxdollars.com', 'mobilesupport@inboxdollars.com']}
+{'com.oath.flamingo': ['Yahoo Play — Pop news & trivia', '5536369398281991413', '10,000+', 'https://policies.oath.com/us/en/oath/privacy/index.html', 'yahooplay.support@verizonmedia.com']}
+{'free.horoscope.palm.zodiac': ['Free horoscope - Zodiac Signs & Palmistry', 'Reshape+team', '10,000+', 'https://docs.google.com/document/d/1FyW88pj3lt4kgsEFxQBfxUh3XeA6h4XeUvKS6p2iWQ0/edit?usp=sharing', 'karddina5@gmail.com']}
+{'hyt.likfoinapps': ['Likes on Instagram', 'Darnocorpcom', '5,000+', None, 'darnocorpcom@gmail.com']}
+{'com.dailyhoroscopeplus.tarotcard': ['Daily Tarot Plus 2019 - Free Tarot Card Reading', 'Tap+Genius+Ltd.', '500,000+', 'http://tgtgpr.appcloudbox.net/pc/new-privacy-android.html', 'developer2@tapgenius.me']}
+{'com.amc': ['AMC Theatres', 'AMC+Theatres', '1,000,000+', 'http://www.amctheatres.com', 'appsupport@amctheatres.com']}
+{'com.turner.tnt.android.networkapp': ['Watch TNT', 'Turner+Entertainment+Networks', '1,000,000+', 'http://www.tntdrama.com/help.html', 'TBS.TNT.Apps@turner.com']}
+{'com.nbcuni.nbc': ['The NBC App', 'NBCUniversal+Media,+LLC', '5,000,000+', 'http://www.nbc.com', 'nbcappfeedback@nbcdigital.zendesk.com']}
+{'com.outfit7.talkingben': ['Talking Ben the Dog', '5630538819012062144', '100,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'freemusic.offline.player.music.free.apps.songs': ['Free Music Player', 'Zenter+Team', '1,000,000+', 'https://docs.google.com/document/d/e/2PACX-1vTaNwjyx5Hupc1z-F-aKaKYLBO1xpyNQtFuzGqJ1c_4AFOy8K4Mlo_VxcEwGQaztYadwCBIBfhP-twD/pub', 'fadjar89y@outlook.com']}
+{'com.univision.univisionnow': ['Univision NOW - TV en vivo y on demand en español', 'Univision+Communications+Inc.', '1,000,000+', 'http://www.univisionnow.com', 'support@univisonnow.com']}
+{'com.outfit7.tomlovesangelafree': ['Tom Loves Angela', '5630538819012062144', '100,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'me.zepeto.main': ['ZEPETO', 'SNOW+Corporation', '10,000,000+', 'https://zepeto.me/', 'zepeto.me@gmail.com']}
+{'com.watchmovieshd.mostreams': ['Watch Free Movies - Full Cinema HD', 'Movies+Stream+Dev', '100,000+', 'http://nujumpakbll.xyz/privacypolicy/index.html', 'hisefaeck005@gmail.com']}
+{'com.color.call.flash.colorphone.theme.rotatingaperture': ['Rotating Aperture Caller Screen', 'Simple+User+Design+Tech+Group', '1,000,000+', 'https://1drv.ms/w/s!AifHGnFj88jTgQNtLFs6MfEhULRR', 'myfeedback001@gmail.com']}
+{'com.fandango': ['Fandango Movie Tickets & Times', '7423484006267934328', '10,000,000+', 'http://www.fandango.com/', 'androidappcomments@fandango.com']}
+{'com.hdmovielive.linecootohub': ['HD Movies Free 2019 - Updated Movies', 'UmAworldz', '1,000+', 'https://hdmoviesfreeupdatedmovies.blogspot.com/2019/02/this-privacy-policy-has-been-compiled.html', 'Akshaykumar77760oo@gmail.com']}
+{'air.com.bmapps.princesshouseholdchores': ['Princess House Hold Chores', 'bmapps', '1,000,000+', 'http://www.girlyplay.com/privacy-policy.html', 'raczandreinicolaedev@gmail.com']}
+{'com.metro.minus1': ['MetroPlay', 'Metro,+a+brand+of+T-Mobile+USA,+Inc', '1,000,000+', 'http://www.metropcs.com', 'google-play-support@t-mobile.com']}
+{'com.discovery.idsgo': ['Investigation Discovery GO', 'Discovery+Communications', '1,000,000+', 'https://www.investigationdiscoverygo.com/about/', 'DGO_Feedback@discovery.com']}
+{'com.prankdesk.ghostinphotoprank': ['Ghost in Photo', 'Prankdesk', '5,000,000+', 'http://ghostinphoto.com', 'admin@prankdesk.com']}
+{'sounds.buttons.run': ['Run Button', 'Web.Apps', '100,000+', 'https://sites.google.com/view/illuminationsoundbutton', 'nlazmi@gmail.com']}
+{'com.influx.marcus.theatres': ['Marcus Theatres - Tickets and More', 'Marcus+Theatres', '10,000+', 'http://www.marcustheatres.com', 'mtcdev@marcustheatres.com']}
+{'games.paveldogreat.fluidsimfree': ['Fluid Simulation Free', '7596352546733505681', '10,000+', 'https://www.paveldogreat.games', 'support@paveldogreat.games']}
+{'com.google.vr.apps.ornament.content.stickers.japanese_phrases': ['Playground: Japanese Phrases', 'Developed+with+Google', '1,000+', 'https://developers.google.com/ar/', 'apps-help@google.com']}
+{'com.ascella.paintbynumber': ['Relax Color - Antistress coloring book for adults', 'Ascella+Apps', '1,000+', 'http://ascellamobile.com', 'ascellamobilegp@gmail.com']}
+{'com.love.match52': ['Love Math Forever', 'Rich+Developer+Team+X', '1,000+', 'https://waplog.com/home/privacy_policy', 'melihovapps98@gmail.com']}
+{'com.androidrocker.voicechanger': ['Voice Changer', 'AndroidRock', '10,000,000+', 'http://arvoicechangerprivatepolicy.blogspot.com/2016/07/voice-changer-privacy-policy.html', 'androidrocker@163.com']}
+{'com.guide.freerobuxgenerator2019.robloxtips': ['Free Robux Now - Earn Robux Free Instructions 2019', 'Kristina+Pullen', '5,000+', None, 'usialanjut@gmail.com']}
+{'com.quotations.soullove': ['Soul Love', 'Cheng+Nana', '10,000+', 'http://zwyinsiye123line.appkjhhg.com', 'chengnana1227@gmail.com']}
+{'com.vbuckercoolapps.vbucksforbattleroyaleeasytips': ["v bucks battle royale free (It's intended prank)", 'Vbuckercool+Apps', '100,000+', 'https://vbuckercoolapps.blogspot.com/2018/10/privacy-policy.html', 'seymorallahverdi@gmail.com']}
+{'com.sweet.affection': ['Sweet Affection', 'HongYu', '100,000+', 'http://privacystatement.cnwvaelly.com', 'hongyy1227@gmail.com']}
+{'com.tvazteca.laacademia': ['TV Azteca Conecta', 'TV+AZTECA', '500,000+', 'http://www.tvazteca.com', 'appsazteca@tvazteca.com.mx']}
+{'punch.meme.effect.button.sound': ['Punch Button Meme', 'Meme+Button+Labs', '5,000+', 'https://strattonapps.com/privacy-policy/', 'bumtegompre@gmail.com']}
+{'air.com.bmapps.rainbowicecreamcooking': ['Rainbow Ice Cream Cooking', 'bmapps', '5,000,000+', 'http://www.girlyplay.com/privacy-policy.html', 'raczandreinicolaedev@gmail.com']}
+{'com.devsoft.android.ClapClapToFindPhone': ['Clap phone finder', 'devsoftapp', '5,000,000+', 'http://devsoftapp.com/privacy-policy/', 'devsoftapp@outlook.com']}
+{'com.affinity.rewarded_play': ['Rewarded Play: Earn FREE Gift Cards Playing Games', 'Influence+Mobile,+Inc.', '10,000+', 'http://influencemobile.com', 'support@louderrewards.com']}
+{'com.loopnow.kamino': ['Firework - Social mobile TV', 'Loop+Now+Technologies,+Inc.', '500,000+', 'https://fireworktv.com', 'developer@loopapps.com']}
+{'com.renderedideas.skaterkid': ['Skater Kid', '6256141919349101796', '10,000,000+', 'http://www.renderedideas.com', 'support@renderedideas.com']}
+{'air.com.rosytales.fashiongirlhairsalon': ['Fashion Girl Hair Salon', 'rosytales', '1,000,000+', 'http://www.rosy-tales.com', 'rosytalesdev@gmail.com']}
+{'code.brm.freegiftcode': ['Free Gift Code Generator', 'NavriVeja', '100,000+', None, 'hardik3062018@gmail.com']}
+{'com.secureappinc.movies': ['Movies Online for Free', 'Secure+App+Inc', '100,000+', 'http://www.secureappinc.com/usnews/privacy-policy/', 'secureappinc@gmail.com']}
+{'com.playcus.crst': ['Cross Stitch: Coloring Art', '7965470541443925887', '100,000+', 'https://playcus.com', 'coloringart@playcus.com']}
+{'ru.appstime.likeme': ['LikeMe - free followers and likes!', 'CoolApps+LLC', '500,000+', 'https://manfe513.wixsite.com/website-2', 'appsmanfe@gmail.com']}
+{'real.free.instant.followers': ['BoostFollowers: Get More Followers using Hashtags', 'Free+Followers+Pro', '50,000+', 'https://sites.google.com/view/free-real-insant-followers', 'free.followers.gp@gmail.com']}
+{'spinmaster.coingames.spingames': ['Free Spins for Coin Master - Daily Coin Links', 'BeefJerkyDev', '5,000+', 'http://beefjerkydevandroid.dreamhosters.com/privacy_policy.html', 'beefjerkydev@gmail.com']}
+{'com.fidgetspinnercoloringbookfromuv.android': ['Fidget Spinner Coloring Book & Drawing Game', 'UVTechnoLab', '1,000,000+', 'http://uvtechnolab.com', 'uvtechnolab@gmail.com']}
+{'air.net.chicworld.fantasyicecreamfactory': ['Fantasy Ice Cream Factory', 'Chic+World', '1,000,000+', 'http://www.chicworld.net', 'chicworlddev@gmail.com']}
+{'com.hulu.plus': ['Hulu: Stream TV, Movies & more', 'Hulu', '10,000,000+', 'http://www.hulu.com', 'mobilesupport@hulu.com']}
+{'estadio.sport3': ['Liga Pro play - en vivo', 'CNT+Sport+co', '1,000+', None, 'yoselynsinch20@gmail.com']}
+{'com.aqibmehedi.tflix': ['Tflix Free Movies', 'Tesla+Dream+Soft', '10,000+', 'https://www.linkedin.com/in/aqibmehedi/', 'aqibmehedi007@gmail.com']}
+{'com.spincoin.masterr.mobileappsfarm': ['Daily free spin and coins Links', 'MobileAppsFarm', '50,000+', 'https://mobileappsfarm.blogspot.com', 'mobileappsfarm@gmail.com']}
+{'com.electricfoal.buildingsformcpe': ['Buildings for Minecraft', 'Addons+for+Minecraft', '1,000,000+', 'https://www.iubenda.com/privacy-policy/8072677', 'kerisar@gmail.com']}
+{'make.money.cash.ganar.dinero': ['Make Money Online: Free Cash App', 'Finance+apps+by+MoneyBoy+-+Crypto+%2B+Forex', '100,000+', 'https://moneyboy377172107.wordpress.com/money-apps-privacy-policy/', 'tuliosandalio@gmail.com']}
+{'com.chatting.app.a.chat.big.small': ['Chat Roulette', 'Chatroulette+and+meet+new+people+-+just+chatting', '10,000+', 'http://just-chatting.ucoz.net/privacy_policy.html', '2020413@gmail.com']}
+{'com.freerobux.tips2019.unlimited': ['How to get free Robux - Tips & Guide 2019', 'Toolvibto', '5,000+', 'https://allgames-cheats.online', 'elhamouchisafa@gmail.com']}
+{'com.cw.fullepisodes.android': ['The CW', 'The+CW+Network', '5,000,000+', 'https://support.cwtv.com', 'cwappfeedback@cwtv.com']}
+{'mobi.ifunny': ['iFunny – fresh memes, gifs and videos', 'iFunny+Inc.', '10,000,000+', 'http://ifunny.co/', 'support@ifunny.co']}
+{'tv.kweli.android': ['kweli', 'kweliTV,+Inc.', '1,000+', 'http://www.uscreen.tv', 'sales@uscreen.tv']}
+{'com.upfaithandfamily': ['UP Faith & Family', 'UP+TV', '100,000+', 'http://upfaithandfamily.com', 'support+upfaithandfamily@vhx.tv']}
+{'com.cbs.app': ['CBS - Full Episodes & Live TV', 'CBS+Interactive,+Inc.', '10,000,000+', 'http://www.cbs.com', 'cbs-android-app-feedback@cbsinteractive.com']}
+{'jackhil.pixel.art.masks.color.number': ['Color By Number Pixel Art Moonlight Hero', 'Jack+Hill+Dev', '500,000+', 'https://jackhilljh8.blogspot.com/2018/10/privacy-policy.html', 'Jackhilljh8@Gmail.Com']}
+{'com.appcraft.unicorn': ['UNICORN - Color by Number Pixel Art Games', '7908938613795124450', '10,000,000+', 'http://www.appsx.lv', 'support@appsx.lv']}
+{'com.putlockers9.sorrytobotheryouputlockers.putlockersproxy.movie2019downloadplayer.showboxpro': ['MOVIE BOX - FREE FULL MOVIES 2019 HD VIDEO PLAYER', 'Wallpaper+Pro', '10,000+', None, 'krikilalex@gmail.com']}
+{'com.amazon.amazonvideo.livingroom': ['Prime Video - Android TV', 'Amazon+Mobile+LLC', '5,000,000+', 'http://www.primevideo.com', 'feedback-amazon-app-android@amazon.com']}
+{'net.movie.tv.showbox': ['Free Movies & TV Shows', 'HD+lite', '10,000+', None, 'slamapps0@gmail.com']}
+{'com.hd_box.popularmovies': ['Free Movies & Tv Shows', 'MegaMovies', '50,000+', 'https://sites.google.com/view/movies-shows-privacy', 'nickapps20@gmail.com']}
+{'com.vtoes.guns.mod.weapons.edition': ['Guns mod', 'Vtoes+bedwars', '1,000+', 'https://sites.google.com/view/vtoes-app/', 'lesaviktorov5@gmail.com']}
+{'com.funnykids.shows': ['Funny Kids Shows', 'NVD+app', '100,000+', 'https://nvdapp123.blogspot.com', 'quangub75@gmail.com']}
+{'com.moviebillionearn.streamingmovie': ['HD Movies Free 2019 - Movies Streaming Online', 'Aimee+cox', '1,000+', 'http://104.237.2.206/privacypolice.php', 'tajamkaleng78@gmail.com']}
+{'com.priyanshuagrawal.freespinsandcoins': ['Free Spins and Coins', 'Priyanshu+Agrawal', '1,000+', 'http://www.priyanshuagrawal.com', 'priyanshuagrawal@gmail.com']}
+{'us.theworstapps.straightouttamememaker': ['Straight Outta Meme Maker', '6476905874773827322', '1,000,000+', 'https://321fetch.github.io/privacy/', '321fetch@gmail.com']}
+{'com.rhythmnewmedia.tmz': ['TMZ', 'Warner+Bros.+International+Enterprises', '1,000,000+', 'http://www.tmz.com', 'googleplay.support@tmz.com']}
+{'com.series.peliculasgratis': ['Series y Peliculas Gratis', 'Erickson', '500+', 'http://seriesgratis.club', 'info@seriesgratis.club']}
+{'com.gamesentity.halloween.zombie.dead.target': ['Real zombie hunter - FPS shooting in Halloween', '4688201469897781893', '1,000,000+', 'https://www.gamesentity.com', 'info@gamesentity.com']}
+{'com.newmessaging.chattingapps': ['Free Video Calls All-in-one - Social Video Message', 'Plommy+Mobile+Apps', '10,000+', 'https://www.appcalibre.com/#/privacy-policy', 'plommyapps@gmail.com']}
+{'com.vmn.android.comedycentral': ['Comedy Central', 'Comedy+Central', '1,000,000+', 'http://www.cc.com/', 'help@cc.com']}
+{'com.telemundo.awe': ['Telemundo – Capítulos Completos', 'NBCUniversal+Media,+LLC', '1,000,000+', 'http://www.telemundo.com', 'support@nbctve.zendesk.com']}
+{'phkfree.coin.link': ['Daily Free coins and spins for CM', 'Beloved+Horizon', '1,000+', 'http://coinmaster.hol.es', 'hardik.admaster@gmail.com']}
+{'com.moviesonlineplayer.moviesapps': ['FREE Movies 2019 - HD Movie BOX', 'Dimosthenis+Michelakis', '1,000+', None, 'kudagembala6@gmail.com']}
+{'com.esmart.dailyfreespin.freecoinlink': ['Spins and Coins - Daily Free New Links', 'eSmart+World+Infotech', '1,000+', 'https://sites.google.com/view/esmartworldinfotech/', 'esmartworldinfotech@gmail.com']}
+{'com.discovery.discoverygo': ['Discovery GO', 'Discovery+Communications', '1,000,000+', 'https://www.discoverygo.com/about', 'DGO_Feedback@discovery.com']}
+{'com.sbgtv.stirr': ['STIRR', 'Sinclair+Digital+Interactive+Solutions', '10,000+', 'http://stirr.com', 'stirrcontent@sbgtv.com']}
+{'net.respawners': ['Respawners', '%C4%B0hsan+Kahramano%C4%9Flu', '100+', 'https://www.respawners.net', 'respawnersapp@gmail.com']}
+{'com.spin.earncoin.freespinandcoins': ['Free Spin Links and Coin Collector - Free Spin', 'Melto', '10,000+', 'http://sharebyme.com', 'kvboghani@gmail.com']}
+{'htr.fofokofolapp': ['Followers +', 'Vrkocberker', '1,000+', None, 'Vrkocberker@gmail.com']}
+{'com.tubitv': ['Tubi - Free Movies & TV Shows', '9005207387328486775', '10,000,000+', 'https://tubitv.com', 'support@tubi.tv']}
+{'guns.for.minecraft': ['Guns for Minecraft', 'Tolkumpeet+Nutlekopum', '1,000,000+', None, 'getnumahkuup@gmail.com']}
+{'com.derogstudios.justdoitbuttons': ['JUST DO IT!Buttons[Soundboard]', 'AndroIDevelopment', '100,000+', 'http://derogsstudios.wixsite.com/home', 'derogs.studios@gmail.com']}
+{'com.energystar.app': ['New HD Movies 2019', 'Energy+Star', '10,000+', 'https://privacypolicies.com/privacy/view/79d869c2b4b43b60c9af1018937d7573', 'ariningcintiawulandari@gmail.com']}
+{'com.zztube.hdvideos': ['ZZTube: HD Videos for Pleasure', 'HD+Video+Group', '500+', 'http://hdvideos.site/privacy-policy', 'zzvideo.hd@gmail.com']}
+{'com.love.match51': ['Cool Love Math', 'Rich+Developer+Team+X', '1,000+', 'https://waplog.com/home/privacy_policy', 'melihovapps98@gmail.com']}
+{'com.bt42.cartoonworld': ['Cartoon World', 'BT42+Studio', '100,000+', 'https://bt42app.blogspot.com', 'toughguyyt@gmail.com']}
+{'air.com.wowsomesphere.colorfulcottoncandy': ['Colorful Cotton Candy', 'WowsomeSphere', '1,000,000+', 'http://www.wowsomesphere.com', 'wowsomespheredev@gmail.com']}
+{'com.facemetrics.asmr': ['TeasEar - ASMR Slime Triggers', 'Facemetrics+Limited', '10,000+', 'https://facemetrics.io', 'facemetrixmsq@gmail.com']}
+{'com.Unicorn.coloringbookms': ['Unicorn Coloring Pages For Kids', '5546595460859967892', '100,000+', 'https://docs.google.com/document/d/e/2PACX-1vQQKvB2gx0a5981JtJGAT0YeTuRTTIxeeRHSdZMyct3s8iSnImBkfJHkmecsc3bwrbN1wDzr97L9WRT/pub', 'lkhamaridell@gmail.com']}
+{'com.mildredfuller2019.rbx35fre': ['Free Robux - New Tips & Tricks Get Robux Free', 'Petitclercyo', '1,000+', None, 'robuxforallrbx@provinix.com']}
+{'com.maximax.fullmoviesonline': ['Full Movies Online', 'MaxiMax', '1,000+', 'https://maximax88.blogspot.com/2019/02/privacy-policy.html', 'maximaxfr88@gmail.com']}
+{'com.tozelabs.tvshowtime': ['TV Time - #1 Show Tracker', 'Toze+Labs', '5,000,000+', 'http://www.tvtime.com', 'support@tvtime.com']}
+{'com.udirc.director': ['Protocol Director APP', 'Protocol', '100,000+', 'http://www.protocolny.com', 'info@protocolny.com']}
+{'com.predict.horoscope.daily.zodiac.sign': ['Horoscope Pro -  Free Zodiac Sign Reading', 'Horoscope+Team', '1,000,000+', 'https://docs.google.com/document/d/1oa4nBgDJODczWuKnZAN3HvRKNzek3wMkEIiLW5poX0Y/edit?usp=sharing', 'horoscope.pro2019@gmail.com']}
+{'com.gillettegroup.webappone': ["D'Junction", 'Gillette+Group', '10,000+', 'http://www.triniplay.com', 'gilletteservices@gmail.com']}
+{'com.wwe.universe': ['WWE', 'WWE,+Inc.', '10,000,000+', 'https://www.wwe.com', 'appfeedback@wwe.com']}
+{'com.iacreative.areyoupsychic': ['Are You Psychic', '6773173586121777372', '100,000+', 'http://iacreative.com.au', 'support@iacreative.com.au']}
+{'com.app.reward.free.money.make.quickcash.us': ['Quick cash - Get money', 'Free+money+Reward+app+-+make+quick+money+earn+cash', '1,000+', 'https://docs.google.com/document/d/1aG2irnqTAZw4_FCqUPuTZ5h2i_n9KqkSZbmAooGenpc/edit?usp=sharing', 'ewamazur1993@gmail.com']}
+{'com.dmr.asiancrush': ['AsianCrush - Movies & TV', 'Digital+Media+Rights', '10,000+', 'https://www.asiancrush.com', 'support@asiancrush.com']}
+{'com.plays.prod': ['Plays', 'PlaysTV', '100+', 'https://plays.tv', 'greg@plays.tv']}
+{'air.com.glammyclub.homemadedessertscooking': ['Homemade Desserts Cooking', 'GlammyClub', '1,000,000+', 'http://www.glammyclub.com', 'glammyclubdev@gmail.com']}
+{'com.freediamonds.diamon': ['Comprar diamantes para free fire guía y tips 2019', 'StudioAppFtc', '1,000+', 'https://sites.google.com/view/diamantes-para-free-fire/accueil', 'StudioAppFtc@gmail.com']}
+{'com.beansprites.ringpopscandyFREE': ['Ring Pop & Rock Candy Maker - Rainbow Cooking Kids', 'Beansprites+LLC', '100,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.green.alien.dance.button': ['Green alien dance button', 'Sirma+App', '500,000+', 'https://docs.google.com/document/d/1OZR1LUMO0csE41vjMlOAyKQo8FyYyxrpOHnaSv-MnOA/edit?usp=sharing', 'android@trendingapps.com']}
+{'com.wavemining.emoji.elite': ['Elite Emoji', 'Emoji+Guide', '1,000,000+', 'http://www.londonchatbotagency.com/', 'justsayit@wavemining.com']}
+{'com.rasetvbox.rasetviptvbox': ['RaseTv', 'Rasetv+Apps', '1,000+', 'http://www.rasetv.com.mx', 'rasetvapps@gmail.com']}
+{'com.yunbu.coloring.creative.free': ['Coloring Creative - Color by Numbers & Pixel Art', 'draw+in+fun', '1,000,000+', 'http://www.yunbu.me/hk/privacy_policy.html', 'yunbuhk@gmail.com']}
+{'com.mustread': ['Mustread Chat Story: Scary Stories, Ghost Stories', 'Wowmaking', '500,000+', 'https://wowmaking.net/', 'publisher@wowmaking.net']}
+{'com.freespin.coinnowlinkz': ['Coins and Spins - Free Daily Links', 'one+interapps', '100+', None, 'munir.kadiri.11@gmail.com']}
+{'com.cerdillac.introcreator': ['Fort Intro Maker for YouTube - make Fortnite intro', 'cerdillac', '500,000+', 'http://www.tribiecommunity.com', 'cerdillaczhang@gmail.com']}
+{'com.google.android.play.games': ['Google Play Games', '5700313618786177705', '1,000,000,000+', 'http://play.google.com/store/apps/category/GAME', 'apps-help@google.com']}
+{'com.laugh.talking.goat': ['Talking Goat', '5246300199446996632', '100,000+', 'http://timeslily.com/privacy-policy-for-talking-pet/', 'carmichael894156@gmail.com']}
+{'com.dpcorp.bruhbutton': ['Bruh Button', 'DPCORP', '500,000+', 'https://docs.google.com/document/d/1cHetb4dHWwaJ-D9IRyuHbiGtNrp3zQf7y-U7Z6Lgck4/edit?usp=sharing', 'aleim16@gmail.com']}
+{'com.lemoapps.lm': ['Free Latest Movies', 'Lemo+Apps', '100+', 'https://lemoappsprivacypolicy.blogspot.com/2019/02/privacy-policy.html', 'lemotechapps@gmail.com']}
+{'com.colorjoy.Learn.to.draw.glow.flowers': ['Learn To Draw Glow Flower', 'ColorJoy', '1,000,000+', 'http://coloring.hk/colorjoy_privacy.html', 'eyewind.org@hotmail.com']}
+{'com.diannacapus2019.rbxat45': ['Free Robux for RBX - New Tips 2019', 'Domijo', '1,000+', None, 'freerobux@allgamestipsforall.com']}
+{'com.ohiolottery.mobileapp': ['Ohio Lottery', 'Marcus+Thomas+LLC', '500,000+', 'http://ohiolottery.com', 'northlichdev@gmail.com']}
+{'com.arkeo.prx.dixiehorn': ['Dixie Horn', 'Arkeo', '100,000+', 'http://prxmedia.nl/privacypolicy3.html', 'remkom14@gmail.com']}
+{'com.inapp.jigsaw.puzzles.jigsaw1000': ['Jigsaw1000 - Jigsaw puzzles', 'incolor', '1,000,000+', 'http://www.incolor.cc', 'incolor.feedback@hotmail.com']}
+{'com.movies.shows.hdi': ['HD Movies  2019', 'appnovia', '10,000+', None, 'appskillers19@gmail.com']}
+{'com.lotteryapp.giveaways': ['Lottery App', 'avila1983magazinek', '500+', 'https://lotteryapp.apptracking.info/kWLd9JzD?p=privacy', 'avila1983magazinek@gmail.com']}
+{'de.twokit.video.tv.cast.browser.roku': ['Video & TV Cast | Roku Remote & Movie Stream App', '6284879872961307001', '1,000,000+', 'http://video-tv-cast.com/roku', 'info@video-tv-cast.com']}
+{'com.pro.mega.shows.series.free': ['The Mega Shows: Series', '9078544235446475748', '1,000+', 'https://www.freeprivacypolicy.com/privacy/view/67426330b7cb0aa1309b49f2a03eb0b4', 'yuvannithis1@gmail.com']}
+{'com.winkypinky.mylittlepugcareandplay': ['My little Pug - Care and Play', '5641067919817566915', '100,000+', 'http://www.winkypinky.com', 'winkypinkdev@gmail.com']}
+{'com.sceneonetvapp': ['SceneOneTV App', 'SceneOne.Tv', '50,000+', 'http://www.sceneone.tv', 'info@sceneone.tv']}
+{'com.gonoodle.gonoodle': ['GoNoodle - Kid Movement & Mindfulness Videos!', 'GoNoodle', '1,000,000+', 'https://www.gonoodle.com', 'hello@gonoodle.com']}
+{'com.christmasphotoframes.ut': ['Christmas Photo Frame - Montage', 'Ruchit+Appzone', '10,000+', 'http://andyzoneinfotech.com/Privacy_policy/Christmas_Photo_Frame_Montage.html', 'ruchitapps@gmail.com']}
+{'com.magicdoodleart.quickdrawingapp': ['Doodle Art: Magic Drawing App', '5726034089055626621', '500,000+', 'https://www.peaksel.com/', 'PeakselGames@gmx.com']}
+{'button.till.dead.dance.your': ['Dance TIll Your Dead Dog Button', 'Meme+Button+Labs', '100,000+', 'https://strattonapps.com/privacy-policy', 'bumtegompre@gmail.com']}
+{'derp.sound.meme.button': ['Derp Meme Button', 'Meme+Button+Labs', '10,000+', 'https://strattonapps.com/privacy-policy/', 'bumtegompre@gmail.com']}
+{'air.net.chicworld.cuteladylabradorcaring': ['Cute Lady Labrador Caring', 'Chic+World', '1,000,000+', 'http://www.chicworld.net', 'chicworlddev@gmail.com']}
+{'com.funlab.numbercoloring.pixelart': ['Pixel - Color by Number & Art Coloring Pages', 'fun.lab', '5,000,000+', 'http://forumvs.com/policy_numbercoloring.html', 'funlabapps@gmail.com']}
+{'com.hello.CarzyShoppingGo': ['Carzy Shopping Go', 'Gina+Star', '10,000+', 'https://sites.google.com/view/gamesprivacypolicy', 'ginastarwork@hotmail.com']}
+{'com.creative.sandbox.number.drawning.coloring': ['Colors by Number ® - No.Draw', 'Creative+APPS', '10,000,000+', 'http://creative100.cc/privacy.html', 'creative.feedback@hotmail.com']}
+{'com.hello.inspirationalstoryofcelebrities': ['Inspiration Story Of Celebrities', 'Gina+Star', '500,000+', 'https://sites.google.com/view/gamesprivacypolicy', 'ginastarwork@hotmail.com']}
+{'com.clairmillenniumapps.kidsfunnymemes': ['Kids Funny Memes', 'clair+millennium+apps', '100,000+', 'https://clairmillenniumapps.blogspot.my/2017/05/privacy-policy-for-appsdeveloped-by.html', 'maslinahclair@gmail.com']}
+{'com.hello.StarPartyCelebrityFeast': ['Star Party - Celebrity Feast', 'Gina+Star', '100,000+', 'https://sites.google.com/view/gamesprivacypolicy', 'ginastarwork@hotmail.com']}
+{'com.gameicreate.crazybffprincesspjnightoutparty': ['Crazy BFF Princess PJ Night Out Party', 'GameiCreate', '500,000+', 'https://gameicreate.wordpress.com/', 'Gameicreate@gmail.com']}
+{'wind.hero.simulator.games': ['Immortal Tornado Hero Vegas Crime Vice Mafia Sim', '5116458776459376240', '1,000+', 'http://policy.unitytapjoy.com/privacy.html', 'sirankestips@gmail.com']}
+{'com.apexgames.streamersoundboard': ['Live Streamer Soundboard - Fortnite And Twitch', 'Concord+Games', '10,000+', 'http://icarusfallinggames.com', 'alexryan453@gmail.com']}
+{'com.mildredfuller2019.calarbx55': ['How To get Free Robux Today - guide & tips', 'Annpalyano', '100+', None, 'rbxtipsforall@protonmail.com']}
+{'air.net.chicworld.sweetrainbowkittycookies': ['Sweet Rainbow Kitty Cookies', 'Chic+World', '1,000,000+', 'http://www.chicworld.net', 'chicworlddev@gmail.com']}
+{'winupx.dances.emotes.battleroyale.dancechallenge': ['Dances from Fortnite', 'winupx', '50,000+', 'https://winupxprivacy.blogspot.com/2018/10/privacy-policy-you-acknowledge-that.html', 'winupx@winupx.com']}
+{'com.mikjay.animalringtones': ['Animals Sound Ringtones Real Free', 'JayBoxMedia', '1,000+', 'https://sites.google.com/site/jayboxmedia/', 'jayboxmedia@gmail.com']}
+{'com.byolegs.buttongreenfart': ['Green Fart Button', 'ByOlegs', '100,000+', 'http://www.byolegs.com', 'byolegs.com@gmail.com']}
+{'pt.jmdev.sinos_e_campainhas': ['Bells and Buzzers', '7184023278806578191', '500,000+', 'http://jetmob.x10.mx/ads/index.php?app=sinos_e_campainhas', 'jetmobile.dev@gmail.com']}
+{'com.AppKingdom.fivemonkeysvideos': ['Five Little Monkeys Videos', '6877909866297705507', '100,000+', None, 'manubla4@hotmail.com']}
+{'com.mildredfuller2019.broxla46': ['How To Get Free Robux - 2019 TIPS & TRICKS -', 'Genolina', '1,000+', None, 'rbxforallofus@allgemestips.com']}
+{'com.cookieswirlc.roblox.gaming.videos.cookie.fans': ['Crazy Cookie : Robloxe Swirl Videos', 'Cookie+Fans', '10,000+', None, 'apps.miankhan@gmail.com']}
+{'com.amenkhufu.tattoodesign': ['Tattoo Designs', 'MooAppMaster', '500,000+', 'http://www.chaichon.com/privacy-policy/tattoodesign.php', 'p.yupapin@gmail.com']}
+{'howard.alien.button.dance': ['Howard The Alien Button', 'Meme+Button+Labs', '50,000+', 'https://strattonapps.com/privacy-policy', 'bumtegompre@gmail.com']}
+{'com.hello.FashionShoesDesign': ['Fashion Shoes Design', 'Gina+Star', '50,000+', 'https://sites.google.com/view/gamesprivacypolicy', 'ginastarwork@hotmail.com']}
+{'com.nintendo.znca': ['Nintendo Switch Online', '7277267556905944956', '1,000,000+', 'https://www.nintendo.com/countryselector', 'NintendoSwitch_NintendoSwitchOnlineApp@mobile-support.nintendo.co.jp']}
+{'forqan.tech.babypuzzles_princess.ads': ['Princess Puzzles for Kids - FREE', '6797847443053504970', '1,000,000+', 'https://www.facebook.com/pages/Forqan-Smart-Tech/398958303521529?fref=ts', 'forqan.tech@gmail.com']}
+{'com.gameicreate.indiandesignersareesfashionsalonforwedding': ['Indian Designer Sarees Fashion Salon For Wedding', 'GameiCreate', '1,000,000+', 'http://www.gameicreate.com', 'Gameicreate@gmail.com']}
+{'com.loirdu.loiurditournament': ['New tips Lego Ninjago Tournament Helper', 'khardlos', '10,000+', None, 'khardols182@yahoo.com']}
+{'keyboard.theme.k840001622': ['Neon Music Headset Keyboard Theme', 'Arts+Themes+Launcher', '5,000+', 'http://penmousedesigntech.com', 'info@penmousedesigntech.com']}
+{'com.modernoptimumapps.hornandsirens': ['Horn and Sirens', 'ModernOptimumApps', '500,000+', 'https://modernoptimumapps.blogspot.com/2018/09/privacy-policy.html', 'modernoptimumapp@gmail.com']}
+{'com.sentinel.matchmaker': ['Snipe - Better Fortnite Duos and Squads', 'Sentinel+GG+Ltd.', '10,000+', 'https://snipe.gg', 'admin@snipe.gg']}
+{'com.planforbuckers.freevbx': ['V bucks 2k19 : Battle Royale Hints', 'ZS+Tech', '100+', 'https://sites.google.com/view/vxprivacy/home', 'wodemeng1114@gmail.com']}
+{'com.komnataquest.critiqet': ['Critiqet - escape room directory', 'Escape+room+directory+app', '1,000+', 'http://critiqet.com/', 'contact@critiqet.com']}
+{'com.epix.epix.now': ['EPIX NOW: Stream Movies & TV', 'EPIX+Entertainment', '10,000+', 'https://www.epixnow.com', 'support@epixnow.com']}
+{'faceapp.facemystery.learnmoreaboutyourself': ['HiddenMe - Aging Camera, Face Scanner', 'Colorfulnight', '10,000+', 'http://facemystery.com/HiddenMe_Privacy_Policy.html', 'face.mystery.official@gmail.com']}
+{'com.ibiss.mus.you': ['Mp3 Music Download', 'gusrywjd87', '100,000+', None, 'gusrywjd87@gmail.com']}
+{'com.handline.secrets.astrology.predictor': ['Astrology Predictor-Time Machine&Hand Lines Reader', 'Tina+Wang', '5,000+', 'http://d2prafqgniatg5.cloudfront.net/astrologypredictor/astrologypredictor_privacy.html', 'tinastudio2019@gmail.com']}
+{'future.me.old.baby.astrology': ['Future Me - Aging Scanner, Baby Prediction', 'FutureMe+Apps', '10,000+', 'http://resource.cdn.bbcget.com/FutureMe_Apps/FutureMe.html', 'fururemeapps@gmail.com']}
+{'com.love.match53': ['Great Love Calculator', 'Rich+Developer+Team+X', '10,000+', 'https://waplog.com/home/privacy_policy', 'melihovapps98@gmail.com']}
+{'free.horoscope.palm.zodiac': ['Free horoscope - Zodiac Signs & Palmistry', 'Reshape+team', '10,000+', 'https://docs.google.com/document/d/1FyW88pj3lt4kgsEFxQBfxUh3XeA6h4XeUvKS6p2iWQ0/edit?usp=sharing', 'karddina5@gmail.com']}
+{'com.kanimmedia.moesargi': ['Moe Sargi App', 'Kanimedia+Inc.', '5,000+', 'https://kanimmedia.com/', 'technology@kanimmedia.com']}
+{'com.putlockers9.sorrytobotheryouputlockers.putlockersproxy.movie2019downloadplayer.showboxpro': ['MOVIE BOX - FREE FULL MOVIES 2019 HD VIDEO PLAYER', 'Wallpaper+Pro', '10,000+', None, 'krikilalex@gmail.com']}
+{'com.google.vr.apps.ornament.content.stickers.childish': ['Playground: Childish Gambino', 'Developed+with+Google', '100,000+', 'https://developers.google.com/ar/', 'apps-help@google.com']}
+{'net.hereisalistofbestfreemovieapponandroid.entertainedthroughyourmobiledevices.FREEMOVIEAPPSTOWARCh': ['MOVIES for FREE Movie + TV Apps Player', 'Ninja+Project+INC', '10,000+', None, 'pramuditho69@gmail.com']}
+{'com.energystar.app': ['New HD Movies 2019', 'Energy+Star', '10,000+', 'https://privacypolicies.com/privacy/view/79d869c2b4b43b60c9af1018937d7573', 'ariningcintiawulandari@gmail.com']}
+{'com.wxyz.launcher3.theme.scaryleprechaun': ['Scary Leprechaun Launcher - Wallpapers and Icons', 'Themes,+Wallpapers+%26+Icons!', '10,000+', 'http://themeswallpapersicons.com', 'themeswallpapersicons@gmail.com']}
+{'com.hdmovielive.linecootohub': ['HD Movies Free 2019 - Updated Movies', 'UmAworldz', '1,000+', 'https://hdmoviesfreeupdatedmovies.blogspot.com/2019/02/this-privacy-policy-has-been-compiled.html', 'Akshaykumar77760oo@gmail.com']}
+{'com.ascella.paintbynumber': ['Relax Color - Antistress coloring book for adults', 'Ascella+Apps', '1,000+', 'http://ascellamobile.com', 'ascellamobilegp@gmail.com']}
+{'com.love.match63': ['Great Love Communication', 'Good+Game+TM', '1,000+', 'https://waplog.com/home/privacy_policy', 'goodgametmdev@gmail.com']}
+{'free.music.player.tube.songs.stream': ['Free Music – Online Unlimited Music For Free', 'Free+Music+For+You', '1,000+', 'https://s3.amazonaws.com/freemusicplayer/Privacy+Policy.html', 'developer20190226@gmail.com']}
+{'cz.digerati.iqtest': ['IQ test', 'digerati.cz', '100,000+', 'http://www.digerati.cz', 'iqtest@digerati.cz']}
+{'com.maximax.fm': ['Free Movies 2018', 'MaxiMax', '1,000+', 'https://maximax88.blogspot.com/2019/02/privacy-policy.html', 'maximaxfr88@gmail.com']}
+{'com.bellapps.drink.cocktail.mix': ['Drink Cocktail Mix', 'BellApps', '10,000+', 'https://docs.google.com/document/d/16tgZKNojbqjF52vrLjInMkmOuufdo64j34gYB9aTxL8/edit?usp=sharing', 'bellappsgames@gmail.com']}
+{'com.google.vr.apps.ornament.content.stickers.lovemoji': ['Playground: Love', 'Developed+with+Google', '10,000+', 'https://developers.google.com/ar/', 'apps-help@google.com']}
+{'com.hello.FashionShoesDesign': ['Fashion Shoes Design', 'Gina+Star', '50,000+', 'https://sites.google.com/view/gamesprivacypolicy', 'ginastarwork@hotmail.com']}
+{'futbol.fantassy.vivo': ['Estadio Sport en vivo', 'Estadio+tv+Co', '10,000+', None, 'juanca1993261@gmail.com']}
+{'air.com.winkypinky.labradorquadrupletsnewborncaring': ['Labrador Quadruplets Newborn Caring', '5641067919817566915', '50,000+', 'http://www.winkypinky.com', 'winkypinkdev@gmail.com']}
+{'com.maximax.fullmoviesonline': ['Full Movies Online', 'MaxiMax', '1,000+', 'https://maximax88.blogspot.com/2019/02/privacy-policy.html', 'maximaxfr88@gmail.com']}
+{'com.genius.police': ['My Police Girlfriend: Romance You Choose', '8451752379033790777', '1,000+', 'http://www.ge-nius.com/', 'support@gen-ius.com']}
+{'real.free.instant.followers': ['BoostFollowers: Get More Followers using Hashtags', 'Free+Followers+Pro', '50,000+', 'https://sites.google.com/view/free-real-insant-followers', 'free.followers.gp@gmail.com']}
+{'ru.brothersappsandgames.supersquishysimulatormakeantistress': ['Super Squishy Simulator - Make Antistress', 'Brothers+Apps+And+Games', '50,000+', 'https://docs.google.com/document/d/1e9wDNA2fk9SETfdRVJxZxuIHwNTOUS57BrZrjsaW_jw/edit', 'BrothersAppsAndGames@gmail.com']}
+{'com.hungpiale.mcpe.maps.helloneighbor': ['Map Hello Neighbor for MCPE', 'Raykiela', '5,000+', 'https://raykiela.blogspot.com/2019/03/privacy-policy.html', 'moilichloe@yahoo.com']}
+{'com.bt42.cartoonworld': ['Cartoon World', 'BT42+Studio', '100,000+', 'https://bt42app.blogspot.com', 'toughguyyt@gmail.com']}
+{'com.affinity.rewarded_play': ['Rewarded Play: Earn FREE Gift Cards Playing Games', 'Influence+Mobile,+Inc.', '10,000+', 'http://influencemobile.com', 'support@louderrewards.com']}
+{'com.cinemaxx.app': ['Movie HD Cinemaxx', 'SmartHub+Mobile', '1,000+', 'https://privacypolicies.com/privacy/view/3222ef5c25d0ba8c65ef5966821f58c0', 'boyyatandroid@gmail.com']}
+{'com.love.match55': ['Math for Love', 'Rich+Developer+Team+X', '1,000+', 'https://waplog.com/home/privacy_policy', 'melihovapps98@gmail.com']}
+{'air.com.girlyapps.mommyandlittlebabylaundryday': ['Mommy and Little Baby Laundry Day', 'girlyapps', '50,000+', 'http://www.girlyapps.com/', 'girlyappsdev@gmail.com']}
+{'com.gogo.kissanime': ['KissAnime Watch - GogoAnime TV', 'KissAnime+Android', '1,000+', None, 'kissanime.watch@gmail.com']}
+{'com.guide.freerobuxgenerator2019.robloxtips': ['Free Robux Now - Earn Robux Free Instructions 2019', 'Kristina+Pullen', '5,000+', None, 'usialanjut@gmail.com']}
+{'com.moviesfree2019.watchnewmovies': ['HD Movies 2019 - New Movies Online', 'Dumai+Zapin+Bertuah', '5,000+', 'http://sulardev.xyz/ppolice.php', 'undangankawin389@gmail.com']}
+{'bass.volume.booster.free': ['Volume Booster Pro 2019 - EQ - Free', 'Volume+Booster+Pro+Soft', '50,000+', 'https://sites.google.com/view/volboosterhq-privacy', 'volumeboostermaxpro@gmail.com']}
+{'com.hello.IamSuperStar': ['I am A Super Star', 'Gina+Star', '50,000+', 'https://sites.google.com/view/gamesprivacypolicy', 'ginastarwork@hotmail.com']}
+{'com.annoy.neighbor.pixel.craft': ['Annoy Your Neighbor 2019 New Game Pixel craft', 'Crafting+%26+Building+Mine+Yuliya+Craft+Studio+2019', '10,000+', 'https://docs.google.com/document/d/1apiIrEc8s_KkxYel9X8OEQAevZ9oaVdglF3CdSSw05w/edit?usp=sharing', 'auramenkay@gmail.com']}
+{'com.moviebillionearn.streamingmovie': ['HD Movies Free 2019 - Movies Streaming Online', 'Aimee+cox', '1,000+', 'http://104.237.2.206/privacypolice.php', 'tajamkaleng78@gmail.com']}
+{'com.gamesentity.halloween.zombie.dead.target2': ['Real zombie hunter 2: FPS Shooting in Halloween', '4688201469897781893', '10,000+', 'https://www.gamesentity.com', 'info@gamesentity.com']}
+{'com.appybuilder.bundeth02.a': ['Earn RB 2K19', 'Vuca', '5,000+', 'http://newrann.com/privacypolicy.html', 'vucavuca02@gmail.com']}
+{'com.zeetoben.watchfreemovies': ['Watch Free Movies', 'ZeetoBen', '500+', 'https://zeetobenprivacypolicy.blogspot.com/2019/02/privacy-policy.html', 'zeetoben87@gmail.com']}
+{'com.mediapro.entertainment.ringtone_wallpaper': ['Ringtones For Android Phone Free', 'Free+Ringtones+Wallpapers', '10,000+', 'https://sites.google.com/view/privacypolicyringforphone/home', 'hellokhoidev@gmail.com']}
+{'sound.meme.burp.prank.button': ['Burp Sound Button', 'Meme+Button+Labs', '5,000+', 'https://strattonapps.com/privacy-policy/', 'joaquinlopez4502@gmail.com']}
+{'com.moviehd.cotomovie': ['Free HD Moviebuzz 2019', 'Appzwinza', '1,000+', 'https://hdmovieproductivit.blogspot.com/2019/02/this-privacy-policy-has-been-compiled.html', 'Pradipkumar7210aa@gmail.com']}
+{'com.moviesonlineplayer.moviesapps': ['FREE Movies 2019 - HD Movie BOX', 'Dimosthenis+Michelakis', '1,000+', None, 'kudagembala6@gmail.com']}
+{'com.loirdu.loiurditournament': ['New tips Lego Ninjago Tournament Helper', 'khardlos', '10,000+', None, 'khardols182@yahoo.com']}
+{'hyt.likfoinapps': ['Likes on Instagram', 'Darnocorpcom', '5,000+', None, 'darnocorpcom@gmail.com']}
+{'com.google.vr.apps.ornament.content.stickers.japanese_phrases': ['Playground: Japanese Phrases', 'Developed+with+Google', '1,000+', 'https://developers.google.com/ar/', 'apps-help@google.com']}
+{'com.app.spechouse': ['SPECHOUSE', 'Spechouse+Creative//', '500+', 'https://www.teamspechouse.com', 'create@teamspechouse.com']}
+{'com.blade.shadowcloudgaming': ['Shadow', 'Blade+Group', '5,000+', 'http://shadow.tech', 'support@blade-group.com']}
+{'com.moviearchive.findamovietowatch': ['Good Movies to Watch - Latest Film Reviews Ratings', 'canmobiles2', '5,000+', 'https://www.appcalibre.com/#/privacy-policy', 'milosmobiles@gmail.com']}
+{'com.applegends.ringtones.free_songs': ['Ringtones Free Songs', 'Ringtones+Free+Apps', '10,000+', 'https://sites.google.com/view/privacy-policy-ringtonefree/home', 'hieutoducdev@gmail.com']}
+{'com.metro.minus1': ['MetroPlay', 'Metro,+a+brand+of+T-Mobile+USA,+Inc', '1,000,000+', 'http://www.metropcs.com', 'google-play-support@t-mobile.com']}
+{'com.kitchenfever.cookinggame': ['Kitchen Fever - Food Restaurant & Cooking Games', 'Cooking+Games+for+Girls+%26+Chef+Restaurant+Games', '10,000+', 'http://www.modulesden.com/content/6-game-privacy-policy', 'raptipatrinew@gmail.com']}
+{'com.hello.CarzyShoppingGo': ['Carzy Shopping Go', 'Gina+Star', '10,000+', 'https://sites.google.com/view/gamesprivacypolicy', 'ginastarwork@hotmail.com']}
+{'ch.cern.BigBangAR': ['Big Bang AR', '8256466388637009150', '1,000+', 'https://cern.ch/go/BigBangAR', 'big-bang-ar@cern.ch']}
+{'com.themovie.cuevana.mobil': ['Muevana Live', 'Muevana', '5,000+', 'https://www.themoviedb.org/documentation/api/terms-of-use', 'muevana@besosdeamor.info']}
+{'com.animefanz.tube': ['AnimeFanzTube', 'FleekSoftApps', '10,000+', 'https://fleeksoft.com', 'fleeksoft@gmail.com']}
+{'com.love.match51': ['Cool Love Math', 'Rich+Developer+Team+X', '1,000+', 'https://waplog.com/home/privacy_policy', 'melihovapps98@gmail.com']}
+{'fm.pinna.app': ['Pinna: podcasts, music & audio books for kids', 'Pinna+LLC', '1,000+', 'https://pinna.fm/contact-pinna', 'contact@pinna.fm']}
+{'com.hapo.android': ['Hapo - Funny Videos, GIFs & Photos', 'hapofun', '500,000+', 'https://www.hapoapp.com/h5/privacy', 'support@hapoapp.com']}
+{'net.joyplustech.android_mermaid29': ['Mermaid Secrets29–Secret Leak for little mermaid', 'JoyPlus+Technology+Co.,+Ltd.', '5,000+', 'http://www.joyplustech.net', 'info@joyplustech.net']}
+{'com.freerobux.tips2019.unlimited': ['How to get free Robux - Tips & Guide 2019', 'Toolvibto', '5,000+', 'https://allgames-cheats.online', 'elhamouchisafa@gmail.com']}
+{'com.fun.top.video': ['Bmate - Funny Videos, Gifs & WhatsApp Status', 'Fun.Studio', '500+', 'https://firebasestorage.googleapis.com/v0/b/just4fun-31361.appspot.com/o/polic.html?alt=media&token=ae700c5c-cd4a-41f7-a09e-c309d6ac3577', 'patricktim502@gmail.com']}
+{'com.vevovideo': ['Vevo Hollywood Song', 'Karmaa+Developer', '1,000+', 'https://bapspravachan0.blogspot.com/2019/02/privacy-policy-for-vevo-hollywood-songs.html', 'bapspravachan00@gmail.com']}
+{'air.com.rosytales.girlbikefixandwashingsalon': ['Girl Bike Fix and Washing Salon', 'rosytales', '10,000+', 'http://www.rosy-tales.com', 'rosytalesdev@gmail.com']}
+{'com.amaravatiapps.bodytemperaturemeasureapp.info': ['Body Temperature Measure App Info', 'Amaravathi+Apps', '1,000+', 'https://amaravathiapp.blogspot.com/2019/01/amaravathi-apps-privacy-policy.html', 'psupraja369@gmail.com']}
+{'com.genius.butler': ['Loyalty for Love: Romance You Choose', '8451752379033790777', '10,000+', 'http://www.ge-nius.com/', 'support@gen-ius.com']}
+{'tvpatoapp.app.lotsapp.tv': ['Nueva Tvpato2 2019', 'ST.sopotivi', '10,000+', None, 'wenoclyd@gmail.com']}
+{'com.dkspoke.freewatchplus': ['Film Roll - HD Movies Free Movies', 'Fagun+13', '1,000+', 'https://www.freeprivacypolicy.com/privacy/view/81ffe2e8ef046a61955865976193add6', 'pankajchetri225@gmail.com']}
+{'com.firepass.apps.paseelite': ['Pase Élite - Free Fire', 'FirePass', '50,000+', 'https://www.youtube.com/channel/UC0KMhlikNNYCZ09AtaGHJnw', 'paseelitefreefire@gmail.com']}
+{'com.miralotv.adder': ['MIRALO TV', 'Xatruch+Apps', '10,000+', 'https://www.xatruchapps.com', 'xatruchapps@gmail.com']}
+{'com.moviesnewfree.streamingapp': ['Watch New Movie - HD Movies 2019', 'IsofDeveloper', '1,000+', 'http://ngegasearning.xyz/privacypolice.php', 'asyrafasapdian@gmail.com']}
+{'com.guggy.bits': ['Bits - Tag Acting', 'Guggy', '100+', 'http://getbitsapp.com', 'support@guggy.com']}
+{'com.yhi.virtual.wild.horse.family.survival.simulator.game': ['Wild Horse Family Simulator : Horse Games', 'Vroom+-+Apps+%26+Games', '10,000+', 'http://www.youhandleit.com/privacy-policy.html', 'youhandleit@gmail.com']}
+{'com.love.match54': ['Great Love Calculator', 'Rich+Developer+Team+X', '1,000+', 'https://waplog.com/home/privacy_policy', 'melihovapps98@gmail.com']}
+{'aimbotforbattleroyale.epicaimbotpro': ['Aimbot Ultimate - Improve Aim Battle Royale Tips', 'DarioCalvoCastro', '1,000+', 'https://dariocalvo.blogspot.com/2019/02/privacy-policy-aimbot-pro.html', 'DarioCalvoCastro@gmail.com']}
+{'com.love.match52': ['Love Math Forever', 'Rich+Developer+Team+X', '1,000+', 'https://waplog.com/home/privacy_policy', 'melihovapps98@gmail.com']}
+{'com.gluwards.app': ['Gluwards - Ganar Dinero', 'DN+INC.', '10,000+', 'https://freyst.com/page/privacidad', 'danieldani2407@gmail.com']}
+{'yasanx.apex.legends.database.aldb': ['ALDB for Apex Legends', '5427160200036080377', '1,000+', 'http://yasan.me/Projects/OWDB/aldb_policy.html', 'yasandev@gmail.com']}
+{'com.popcorn.pelis': ['PopCorn Pelis V2', 'VaioApps', '50,000+', 'http://www.popcornpeliculas.online/politicas', 'popcornpelis2019@gmail.com']}
+{'vrmovies.vr360freevideos': ['VR Movies 360 videos 2019', 'Manuca+Macumba+Fitness+Apps', '10,000+', 'https://docs.google.com/document/d/12IUb_L2rxb3FZSPpfGWiuz3GWE_P2hxFutxE9Gr1h9E', 'macuna.macumba@gmail.com']}
+{'com.ayahsujana.imoviespro': ['HD Movies Pro 2019', 'Ayah+Sujana', '500+', 'http://ayahsujana.com', 'support@ayahsujana.com']}
+{'com.sx.idle.clicker.miner.empire': ['Miner Empire Idle Clicker Game', 'Studio-X+Games', '1,000+', 'http://www.studioxglobal.com', 'support@studioxglobal.com']}
+{'com.future.talisman': ['Future Talisman - Horoscope Daily', 'Bodistean+Mihail', '50,000+', 'http://future.talisman.iosdevsupport.biz', 'bodisteanm@gmail.com']}
+{'horoscope.zodiac.faceapp': ['Horoscope 2019 - Daily Horoscope & Zodiac Signs', 'daily+horoscope+2019', '5,000+', 'http://nh5.nagezan.net/wx/loveshow/withdraw/agreement.html', 'shenzhendl2018@sina.com']}
+{'com.premierm0v13free.stellaallinone': ['Watch New Movies 2019 - HD Movie Free Online', 'GoMediacreative', '1,000+', 'http://sulardev.xyz/privacypolice.php', 'mumucorp2018@gmail.com']}
+{'com.darshan.apexassistant': ['Assistant For Apex Legends', 'DB+Applications', '1,000+', 'https://darshanbhatta.com/', 'bhatta.darshan26@gmail.com']}
+{'com.geminiapps.wfhdm': ['Free Full  Movies', 'Gemni+Apps', '1,000+', 'https://gemniapps.blogspot.com/2019/01/gemni-apps-privacy-policy.html', 'gemni.apps@gmail.com']}
+{'com.chatting.app.a.chat.big.small': ['Chat Roulette', 'Chatroulette+and+meet+new+people+-+just+chatting', '10,000+', 'http://just-chatting.ucoz.net/privacy_policy.html', '2020413@gmail.com']}
+{'com.easycodes.vin': ['Funny Memes Stickers for WhatsApp - WAStickerApps', 'EasyCodes+BR', '10,000+', None, 'easycodes748@gmail.com']}
+{'nz.co.vista.android.movie.mjrtheatres': ['MJR Mobile', 'MJR', '100+', 'http://www.mjrtheatres.com', 'jkincaid@mjrtheatres.com']}
+{'appyDroid.WRAITH': ['WRAITH Spirit box - BETA', '6566624096284635603', '1,000+', 'https://www.facebook.com/androidghosthunters/', 'puggster2007@googlemail.com']}
+{'com.free.diamonds.guide.freefiregame.tips.arena': ['Guide Free Diamonds for Free Fire', 'App+Tips+and+Guides+Co', '10,000+', 'https://sites.google.com/view/privacy-policy-free-diamonds', 'apptips2019@gmail.com']}
+{'com.masyooo.tocasalon': ['Video Toca Hair Salon', 'masyooo', '1,000+', None, 'bogelrejo3@gmail.com']}
+{'com.morfinapps': ['Free Full Movies - Free Movies', 'Morfin+Apps', '500+', 'https://freefullmoviesfreemovies.blogspot.com/2019/02/privacy-policy.html', 'farhanbaig9502@gmail.com']}
+{'memes.random.sounboard.sounds': ['Memes Random Soundboard', 'Meme+Button+Labs', '1,000+', 'https://strattonapps.com/privacy-policy', 'joaquinlopez4502@gmail.com']}
+{'generatorapp.freepsncodes': ['Free PSN Codes Gift Cards - Unlimited Money Tips', 'RieraPardo', '5,000+', 'https://manuelrierapardo.blogspot.com/2019/01/privacy-policy.html', 'ManuelRieraPardo@gmail.com']}
+{'com.quiznbutton.bruh': ['Bruh Button 2019', 'TLA+Quiz+n+Button', '1,000+', None, 'quiznbutton@gmail.com']}
+{'com.suntechno.coinspinrewards': ['Daily Free Spins and coins', 'Sun+Techno', '10,000+', 'https://sites.google.com/view/suntechno/privacy-policy', 'suntechno42@gmail.com']}
+{'com.guide.robux.calc': ['Robux Free Guide - Robux booster Robux guide', 'Free+Rbx+Devs', '1,000+', 'https://freerbxdevs.blogspot.com/2019/02/policy.html', 'freerbxdevs@gmail.com']}
+{'com.high.schooltips': ['high school yandere simulator tips and tricks', 'ayoubjohn', '10,000+', 'https://sites.google.com/view/hhtpsgwdgh/accueil', 'Topfunnyvideo49@gmail.com']}
+{'com.lamobile.appone': ['Max Movies', 'Lamotu+Mobile', '1,000+', 'https://privacypolicies.com/privacy/view/31ab9647e2b80185bfc09fba2a0aa226', 'triadifikri007@gmail.com']}
+{'com.movie123.showboxxMoviebox': ['Free Full Movies - Movies To Watch Anytime', 'Show+worldz', '5,000+', 'https://worldshowappz.blogspot.com/2019/02/privacy-policy-show-apps-show-apps.html', 'Bhartsuthar7210@gmail.com']}
+{'com.appsorty.dailyfreespinandcoins': ['Daily Free Spins and coins', 'Appsorty+llc', '10,000+', 'https://sites.google.com/view/appsorty-privacypolicy/home', 'appsorty@gmail.com']}
+{'com.squad.snool.droproulette.apexlegends': ['Drop Roulette for Apex Legends', '9199475116534038259', '1,000+', 'https://wherewedropp.in/apexlegends', 'snoolsquad@gmail.com']}
+{'com.mildredfuller2019.rbx35fre': ['Free Robux - New Tips & Tricks Get Robux Free', 'Petitclercyo', '1,000+', None, 'robuxforallrbx@provinix.com']}
+{'estadio.sport3': ['Liga Pro play - en vivo', 'CNT+Sport+co', '1,000+', None, 'yoselynsinch20@gmail.com']}
+{'keyboard.theme.k840001622': ['Neon Music Headset Keyboard Theme', 'Arts+Themes+Launcher', '5,000+', 'http://penmousedesigntech.com', 'info@penmousedesigntech.com']}
+{'com.pudge.lovemagicpro': ['Love Magic Pro', 'Window+Studio', '100,000+', 'http://www.lovepr.xyz/policy', 'Hunterstuff6732@gmail.com']}
+{'com.tpk.video.kotlin': ['Free HD movies online 2019 - New Movies Every Day', 'OLPEntertainment', '500+', 'https://fupath.com.vn/policy.html', 'mcmcthuan@gmail.com']}
+{'com.abscbn.iwantv': ['iWant', 'ABS-CBN', '10,000,000+', 'http://iWant.ph', 'contactus@iwant.ph']}
+{'global.showtv.nmovies': ['Free HD Box Movies & TV Shows Online', 'Bricexdev', '500+', 'https://writer.zohopublic.com/writer/published/5uchy139eda1751be496abd0b5395b7ceca5a', 'bricexdev@gmail.com']}
+{'com.piupiuapps.coloringglitterunicorns': ['Unicorn Coloring Book Glitter', 'Piu+Piu+Apps', '1,000+', 'http://piupiuapps.com', 'piupiuapps@gmail.com']}
+{'com.airkast.tunekast1865_175': ['TOS The Mountain of Pure Rock', 'AirKast,+Inc.', '100+', 'http://www.airkast.com', 'support@airkast.com']}
+{'com.universal.thebox': ['Universal Box', 'rb_vid', '1,000,000+', 'https://s3.amazonaws.com/ma-buildsinfo/service-1133/files/PrivacyPolicy.htm', 'letsplayvideos2528@gmail.com']}
+{'com.app.television.mexicana.online': ['TV MX Online Televisión Mexicana en Linea', 'Mobile+Android+Solutions+Inc.', '1,000+', 'http://www.e-droid.net/privacy.php?ida=595615&idl=en', 'maxxigallardo1975@gmail.com']}
+{'com.giftcards.freegiftgenerator': ['Gift Cards Generator - Free Wallet', 'Gift+Codes+Generator', '1,000+', 'https://sites.google.com/view/gift-cards-generator/home', 'sagarpatel120219@gmail.com']}
+{'com.launcher.theme.t211819021': ['Cute Cartoon Night Owl Theme \U0001f989', 'Launcher+Theme+Designs', '100+', 'https://www.cmcm.com/protocol/launcher-theme/privacy.html', 'launcherthemedesigns@gmail.com']}
+{'com.SoreStudioApps.SoreWe': ["Why Don't We Full Songs Video", 'Sore+Studio+Apps', '100+', 'https://sorestudioapps.blogspot.com/2018/12/sore-studio-apps-privacy-policy.html', 'sorestudioapps@gmail.com']}
+{'com.sugarskullwallpaper.mexicanskull.cool.backgrounds.images.hd': ['Sugar Skull Wallpaper', 'Pinza', '100+', 'https://docs.google.com/document/d/1UoR8OUA_PvbDVGkddIHrccKb9lLD-FVwhvljqktbhiQ/edit', 'popysantikul@gmail.com']}
+{'org.artsplanet.android.yeastkenstamp': ['Yeastken Stickers Free', 'peso.apps.pub.arts', '5,000+', 'http://www.facebook.com/pages/Artsplanetweb/183983618349643', 'more.apps.info@gmail.com']}
+{'com.funchat.siwajo': ['Chat With Siwa JoJo - Fun Chat Prank', 'Chakinda', '50+', 'https://sites.google.com/view/undertalestickerswa/home', 'kindaartina@gmail.com']}
+{'green.man.guy.meme.screen': ['Green Man Dancing On Screen Prank', 'Labs+of+Meme+Apps', '100+', 'https://strattonapps.com/privacy-policy/', 'josepelblasco45@gmail.com']}
+{'com.sun.isfor.riders': ['arcade-sunset of the ride', 'croista', '100+', 'https://docs.google.com/document/d/1hTUyPVzZtYiGJgtpYIbl_Ceb8KiQqCdtRYlP5_2SObo/edit?usp=sharing', 'riders.for.all@outlook.com']}
+{'videotech.mobilenumbers': ['Girls Mobile Number: Girl Friend Search', 'Videotech+Apps', '10,000+', 'https://videotechapps.blogspot.com/', 'videotechapps@gmail.com']}
+{'ball.crystal.magic': ['Magic Crystal Ball - True Predictions Every Day', 'superbestfutureapps', '1,000+', 'http://crystalballnew.icu', 'papiroska1243@gmail.com']}
+{'com.pelisdc.aplicagrati': ['Peliculas de dc gratis', 'application+developer+2019', '500+', 'https://vannessacarranza1986.blogspot.com/2018/11/politica-de-privacidad-el-presente.html', 'vannessacarranza1986@gmail.com']}
+{'com.futbol.guatemala': ['Futbol de Guatemala En Vivo', '503dev', '100+', None, 'verydany05@gmail.com']}
+{'com.app.polyconnecta': ['Poly Connect', 'Poly+Connect+Team', '10+', 'https://appcdn.media/privacy/?app=Poly%20Connect', 'sionekafu@gmail.com']}
+{'com.aceexdev.newgirlwithearsskins': ['Girl With Ears Skins', 'Ace+EX+Dev', '50+', 'https://aceexdev.site123.me/privacy-policy', 'nutty.loveyes@yahoo.com']}
+{'rum.folfbfolfb': ['Followers Plus', 'Lipstatlipan', '1,000+', None, 'lipstatlipan@gmail.com']}
+{'com.malik.sajid.tomjerrycartoons': ['Tom & Jerry Cartoon Series : Full Videos', 'Malik+Sajid', '500+', None, 'smalik7418@gmail.com']}
+{'tv.shqippremium233': ['Shqip Tv Premium 2', 'DIO+APPS', '1,000+', None, 'goldaavgj97@gmail.com']}
+{'skins.worldbusdrivingsimulator5': ['Skins World Bus Driving Simulator', 'CRAT+DEVELOPER', '10,000+', 'http://rodrigogamer.com.br', 'rodrigogamer10@outlook.com']}
+{'com.ggodev.ateezlyrics': ['ATEEZ Lyrics (Offline)', '6219562371808711973', '100+', 'https://gorillagodev.wixsite.com/gorillagodev/', 'gorillagodev@gmail.com']}
+{'com.hbo.hbonow': ['HBO NOW: Stream TV & Movies', 'HBO+NOW', '10,000,000+', 'http://order.hbonow.com', 'support@hbonow.com']}
+{'com.netflix.mediaclient': ['Netflix', 'Netflix,+Inc.', '500,000,000+', 'http://www.netflix.com', 'playstore@netflix.com']}
+{'tv.twitch.android.app': ['Twitch: Livestream Multiplayer Games & Esports', 'Twitch+Interactive,+Inc.', '50,000,000+', 'http://www.twitch.tv', 'android@twitch.tv']}
+{'com.bydeluxe.d3.android.program.starz': ['STARZ', 'Starz+Entertainment,+LLC', '10,000,000+', 'http://www.starz.com', 'help@starz.com']}
+{'com.cyberstep.toreba.android': ['Crane Game Toreba', 'CyberStep,+Inc.', '1,000,000+', 'http://www.toreba.net', 'info+android@toreba.net']}
+{'com.cbs.app': ['CBS - Full Episodes & Live TV', 'CBS+Interactive,+Inc.', '10,000,000+', 'http://www.cbs.com', 'cbs-android-app-feedback@cbsinteractive.com']}
+{'com.showtime.standalone': ['SHOWTIME', 'Showtime+Digital+Inc.', '1,000,000+', 'http://www.showtime.com', 'contact@showtime.net']}
+{'com.wb.goog.dcuniverse': ['DC Universe - The Ultimate DC Membership', 'Warner+Bros.+International+Enterprises', '500,000+', 'https://www.dcuniverse.com/', 'support@dcuniverse.com']}
+{'com.lionsgate.pantaya': ['Pantaya', 'Pantaya', '1,000,000+', 'https://www.pantaya.com', 'dev@pantaya.com']}
+{'faceapp.facereading.horoscope.zodica.signs.astrology': ['Face Secret – Face Reading, Beauty Scan, Horoscope', 'Voyage+Photo+Lab', '10,000,000+', 'http://resource.cdn.bbcget.com/soft/file/term/1272/FaceReading_privacy.html', 'Facereadingtech@gmail.com']}
+{'com.viki.android': ['Viki: Korean Drama, Movies & Asian TV', 'Viki,+Inc', '10,000,000+', 'https://www.viki.com', 'help@viki.com']}
+{'com.horoscope.palmmaster': ['Horoscope & Palm Master-Palm Scanner and Aging', 'Horoscope+Master+Team', '1,000,000+', 'http://d2prafqgniatg5.cloudfront.net/HoroscopeMaster/HoroscopePalmMaster_statement.html', 'horoscopepalmmaster@gmail.com']}
+{'com.univision.univisionnow': ['Univision NOW - TV en vivo y on demand en español', 'Univision+Communications+Inc.', '1,000,000+', 'http://www.univisionnow.com', 'support@univisonnow.com']}
+{'com.daily.zodiac.signs.horoscope.palmistry': ['Zodiac Signs Master - Palmistry & Horoscope 2019', 'Horoscope+Tech+Team', '10,000,000+', 'http://d2prafqgniatg5.cloudfront.net/HoroscopeTechTeam/ZodiacSignsMaster_privacy.html', 'horoscopeplus2018@gmail.com']}
+{'com.boomerang.boomerangapp': ['Boomerang', 'Boomerang', '1,000,000+', 'https://www.boomerang.com', 'support@boomerang.com']}
+{'com.ten.mtodplay': ['MotorTrend: Stream Hot Car Shows', 'Motor+Trend+Group+LLC', '100,000+', 'https://www.motortrendondemand.com', 'support@motortrendondemand.zendesk.com']}
+{'com.topps.force': ['Star Wars™: Card Trader', '7474025739963323294', '500,000+', 'https://topps-support.zendesk.com/hc/en-us/requests/new?ticket_form_id=224127', 'support@topps.zendesk.com']}
+{'com.sumoing.recolor': ['Recolor - Coloring Book', 'Recolor', '5,000,000+', 'http://www.recolor.com', 'hello@recolor.com']}
+{'sandbox.art.sandbox': ['Sandbox Coloring', 'Alexey+Grigorkin', '10,000,000+', 'https://sandbox.love', 'alexey@grigorkin.com']}
+{'com.upfaithandfamily': ['UP Faith & Family', 'UP+TV', '100,000+', 'http://upfaithandfamily.com', 'support+upfaithandfamily@vhx.tv']}
+{'com.cbs.ott': ['CBS All Access', 'CBS+Interactive,+Inc.', '100,000+', 'http://www.cbs.com', 'cbs-android-app-feedback@cbsinteractive.com']}
+{'com.topps.slam': ['WWE SLAM: Card Trader', '7474025739963323294', '1,000,000+', 'http://www.topps.com/topps-apps/', 'support@topps.zendesk.com']}
+{'com.roosterteeth.roosterteeth': ['Rooster Teeth®', 'Rooster+Teeth', '100,000+', 'http://roosterteeth.com', 'firstsupport@roosterteeth.com']}
+{'com.dramafever.shudder': ['Shudder', 'Digital+Store+LLC', '100,000+', 'http://www.shudder.com', 'support-de@shudder.com']}
+{'com.feeln.android': ['Hallmark Movies Now', '7919471950646881911', '100,000+', 'http://www.hmnow.com', 'support@hmnow.com']}
+{'com.jibjab.android.messages.fbmessenger': ['JibJab', '5030631237943867779', '1,000,000+', 'https://www.jibjab.com', 'help@jibjab.com']}
+{'com.britbox.us': ['BritBox by BBC & ITV – Great British TV', 'BritBox,+LLC', '100,000+', 'https://www.britbox.com', 'help-us@britbox.com']}
+{'com.dailyhoroscope.facesecret': ['Face Secret Master – Horoscope 2019', 'Face+Secret+Master', '100,000+', 'http://bit.ly/2SQleBa', 'facesecretmaster@gmail.com']}
+{'com.collegehumor.chdropout': ['DROPOUT by CollegeHumor', 'DROPOUT+by+CollegeHumor', '50,000+', 'https://dropout.tv', 'support@info.dropout.tv']}
+{'com.science.yarnapp': ['Yarn - Chat Fiction', 'Science+Mobile+LLC', '5,000,000+', 'https://mammoth.la/apps/moreinfo/', 'hello@yarnapp.co']}
+{'com.fungamesforfree.colorfy': ['Colorfy: Coloring Book for Adults - Free', '8186084684070471579', '10,000,000+', 'http://www.colorfy.net', 'support+colorfyandroid@fungames-forfree.com']}
+{'com.dramafever.docclub': ['Sundance Now', 'Digital+Store+LLC', '100,000+', 'http://www.sundancenow.com', 'support@sundancenow.com']}
+{'com.naver.vapp': ['V LIVE - Star Live App\u200b\u200b', '6225315284672069550', '10,000,000+', 'http://vlive.tv', 'naver_market@naver.com']}
+{'com.aetnd.svod.lmc': ['Lifetime Movie Club', 'A%26E+Television+Networks+Mobile', '100,000+', 'http://www.lifetimemovieclub.com', 'lmc_support@aenetworks.com']}
+{'com.topps.walkingdead': ['The Walking Dead: Card Trader', '7474025739963323294', '100,000+', 'http://www.topps.com/topps-apps/', 'support@topps.zendesk.com']}
+{'com.pixign.premium.coloring.book': ['Premium Coloring Book - color by number for adults', 'WL+Pixign+Games', '500,000+', 'http://pixign.com', 'apps@pixign.com']}
+{'com.weieyu.yalla': ['Yalla-Free Voice Chat Rooms', 'Yalla+Technology+FZ-LLC', '10,000,000+', 'http://www.yalla.live', 'info@yalla.live']}
+{'com.acorn.tv': ['Acorn TV: World-class TV from Britain and Beyond', 'RLJ+Entertainment', '100,000+', 'https://www.acorn.tv', 'support@acorn.tv']}
+{'com.royal.jay.pock': ['5000 Followers Plus', 'Denn+God', '100,000+', 'https://docs.google.com/document/d/1Hg4KskHQHcdY9i-hV3_sm7huDXu8f2wVsWcIhcecfcw/edit?usp=sharing', 'jaydenn247@gmail.com']}
+{'com.appcraft.unicorn': ['UNICORN - Color by Number Pixel Art Games', '7908938613795124450', '10,000,000+', 'http://www.appsx.lv', 'support@appsx.lv']}
+{'com.vettv': ['VET Tv', 'VET+Tv', '10,000+', 'https://www.veterantv.tv/', 'ottsupport@vimeo.com']}
+{'com.mcprohosting.beam': ['Mixer – Interactive Streaming', '6720847872553662727', '5,000,000+', 'https://mixer.com', 'support@mixer.com']}
+{'com.brownsugar.apps.svod': ['Brown Sugar', 'Brown+Sugar:', '100,000+', 'http://www.brownsugar.com', 'support@brownsugar.com']}
+{'com.amctve.amcfullepisodes': ['AMC', 'AMC', '1,000,000+', 'https://www.amc.com', 'info-amc@amc.com']}
+{'com.creative.sandbox.number.drawning.coloring': ['Colors by Number ® - No.Draw', 'Creative+APPS', '10,000,000+', 'http://creative100.cc/privacy.html', 'creative.feedback@hotmail.com']}
+{'me.zepeto.main': ['ZEPETO', 'SNOW+Corporation', '10,000,000+', 'https://zepeto.me/', 'zepeto.me@gmail.com']}
+{'com.vimeo.android.videoapp': ['Vimeo', 'Vimeo+Inc', '10,000,000+', 'http://vimeo.com', 'support@vimeo.com']}
+{'air.com.cyberstep.toreba2d': ['Crane Game Toreba 2D', 'CyberStep,+Inc.', '100,000+', 'https://sp2d.toreba.net/', 'info-android@toreba.net']}
+{'com.genius.officevampire': ['Twilight Lovers: Romance You Choose', '8451752379033790777', '50,000+', 'http://www.ge-nius.com/', 'support@gen-ius.com']}
+{'com.master.social.tools.likes.for.likes': ['SocialMaster - Mega Followers Pro', 'Daniel+Sun34', '100,000+', 'https://docs.google.com/document/d/1VzjnY66GT5McB1v1x5VgzoDX8kv3TvL5DxGHRkDM75M/edit?usp=sharing', 'salayou555@gmail.com']}
+{'com.sandbox.number.coloringlife.free': ['Coloring Life - Color by Number Book', 'Metajoy', '1,000,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
+{'com.kiddoware.kidsplace': ['Kids Place - Parental Control', '8669878528475317483', '1,000,000+', 'http://www.kiddoware.com', 'support@kiddoware.com']}
+{'com.whatsfun.horoscope': ['Horoscope & Palmistry Master', 'WhatsFun', '10,000+', 'http://dy.51zhuanhongbao.com/horoscopepalmistrymaster_privacy.html', 'whatsfun2018@gmail.com']}
+{'com.nwz.ichampclient': ['IDOLCHAMP - Showchampion, Fandom, K-pop, Idol', 'MBCPLUS', '1,000,000+', 'http://wwww.idolchamp.co.kr/', 'mbcplus@mbcplus.com']}
+{'com.prankcalllabs.prankcallapp': ['Prank Call Free - Ownage Pranks', 'Ownage+Labs', '500,000+', 'https://www.ownagepranks.com', 'ownagelabs@gmail.com']}
+{'de.stryder_it.simdashboard': ['SIM Dashboard', '8048141916608733596', '100,000+', 'http://www.stryder-it.de/simdashboard', 'info@stryder-it.de']}
+{'com.handline.secrets.astrology.predictor': ['Astrology Predictor-Time Machine&Hand Lines Reader', 'Tina+Wang', '5,000+', 'http://d2prafqgniatg5.cloudfront.net/astrologypredictor/astrologypredictor_privacy.html', 'tinastudio2019@gmail.com']}
+{'com.univtec.onespotmediajamaica': ['1SpotMedia', 'Radio+Jamaica+Limited', '100,000+', 'http://www.1spotmedia.com', '1spotmediadev@gmail.com']}
+{'com.broadwayhd.app': ['BroadwayHD', 'BroadwayHD+LLC', '10,000+', 'https://www.broadwayhd.com', 'customer-service@broadwayhd.com']}
+{'com.genius.fakemarriage': ['My Fake Marriage', '8451752379033790777', '10,000+', 'http://www.ge-nius.com/', 'support@gen-ius.com']}
+{'com.raisedoutdoors.raisedoutdoorszype': ['Raised Outdoors', '7627599061607375948', '100+', 'http://www.raisedoutdoors.com', 'info@raisedhunting.com']}
+{'com.spacegame.paintbrush': ['Colorbox', 'Zentertain', '100,000+', 'http://www.zentertain.net', 'casual.support@zenjoy.net']}
+{'com.kujo.superpower': ['Super Power FX - Be a Superhero!', 'Kujo+Inc.', '100,000+', 'http://www.superpowerfx.com', 'kujomedia@gmail.com']}
+{'com.ionitech.airscreen': ['AirScreen - AirPlay & Google Cast & Miracast', 'Ionitech', '500,000+', 'http://www.airscreenapp.com', 'support-as@ionitech.cn']}
+{'com.ridetvgo': ['RIDE TV GO', 'RIDE+TV', '1,000+', 'http://ridetvgo.com', 'info@ridetvgo.com']}
+{'com.qhqc.starvoice': ['StarChat - Global Group Free Voice Chat Rooms', 'QiaHaoQingChun+Information+Technology+Co.,+Ltd.', '10,000+', 'http://www.starchat.live', 'qiahao2018@gmail.com']}
+{'com.megataps.app.yorkiemojis': ['Yorkie Emojis - yorkshire terrier dog stickers', '6415140717468547175', '1,000+', 'http://megataps.com', 'freddyg@megataps.com']}
+{'com.bigborisstudios.ghostcomradarpro': ['Ghostcom Radar Pro', '8642255748025584273', '100+', 'https://www.facebook.com/Ghostcomradar/', 'bigborisstudios@hotmail.com']}
+{'com.foolsdog.classic1910': ['Tarot!', 'The+Fool%27s+Dog', '1,000+', 'http://www.foolsdog.com/Classic1910/', 'support@foolsdog.com']}
+{'com.ghost.detector.radar.tracker.camera': ['Ghost Detector', 'PT.+DRAGON+GAME+STUDIO:+Games,+Horoscope+%26+Quizzes', '100,000+', 'http://www.dragongamestudio.com', 'info@dragongamestudio.com']}
+{'com.bi.slots.greatcat': ['Slot Machines - Great Cat Slots™ Free Vegas Pokies', 'Bad+Ibis+Games+Ltd', '100,000+', 'http://badibis.com', 'support@badibis.com']}
+{'de.twokit.castbrowser.pro': ['Video & TV Cast + Chromecast', '6284879872961307001', '10,000+', 'http://video-tv-cast.com', 'info@video-tv-cast.com']}
+{'com.voicelab.voicechanger': ['Voice Changer', 'VoiceTeam', '1,000+', 'http://site-1639550-7869-7477.strikingly.com/?open=privacy-policy', 'zerolabgroup@gmail.com']}
+{'com.kdanmobile.android.animationdeskcloud': ['Animation Desk – Make Your Animation and Cartoons', '8130748137413633357', '100,000+', 'http://www.kdanmobile.com/en/animation-desk/index_android.html', 'appservice@kdanmobile.com']}
+{'com.mojicollective.uldouz': ['Uldouz', 'Moji+Collective', '10,000+', 'http://www.mojicollective.com', 'mojicollective@gmail.com']}
+{'com.ryzenrise.mage': ['Glitch Video Editor Effect - MAGE', 'ryzenrise', '1,000,000+', 'http://www.wisharcbuilder.com', 'ryzengchang@gmail.com']}
+{'com.rostamimagic.inject': ['Inject 2', 'Rostami+Magic', '10,000+', 'http://www.rostamimagic.com', 'grostami@gmail.com']}
+{'mobi.byss.colorbynumber': ['Color by number - Unicorns Pixel Art', '7690092173980578394', '500,000+', 'http://byss.mobi', 'mk@byss.mobi']}
+{'tv.vhx.sodere': ['Sodere', 'CSS+LLC', '5,000+', 'http://sodere.vhx.tv', 'support@vhx.tv']}
+{'com.clay.kittencards': ['Kitten Cards', '5938076137530065045', '100,000+', 'http://clay.io', 'contact@clay.io']}
+{'com.gawkbox': ['GawkBox: Engage with your favorite Streamers!', 'Gawkbox', '5,000+', 'https://www.gawkbox.com', 'services@gawkbox.com']}
+{'com.animefanz.funanime': ['Funanime - Free Anime Online & Manga Rock for Fanz', 'Monkey+Mount+Apps', '100,000+', 'https://sites.google.com/view/monkey-mountain-privacy-policy/home', 'thien.tranhung0206@gmail.com']}
+{'com.onyxpathpublishing.onyxdice': ['Onyx Dice', 'Tabletop+Tools', '5,000+', 'https://www.facebook.com/OnyxDiceApp/', 'Tyler.j.perry1@gmail.com']}
+{'com.outerspacious.gunmoviefx': ['Gun Movie FX', 'Outerspacious+Software', '1,000+', 'http://www.gunmoviefx.com/android/', 'outerspacioussoftware@gmail.com']}
+{'com.fifthdimensiontouch.yesno': ['Pocket Fortune Teller 5D - Free Psychic Reading', 'Fifth+Dimension+Touch+LLC', '50,000+', 'http://www.fifthdimensiontouch.com', 'info@fifthdimensiontouch.com']}
+{'de.tvspielfilm': ['TV SPIELFILM - TV-Programm mit LIVE TV', 'TV+Spielfilm+Verlag+GmbH', '10,000,000+', 'https://live.tvspielfilm.de/', 'support@tvspielfilm.de']}
+{'com.d3p.officelove_en': ['FR: Office lovers', 'D3+PUBLISHER', '50,000+', 'http://www.d3p.co.jp/forbiddenromance/en.html', 'fr_support@d3p.co.jp']}
+{'com.bluelightdev.swiftkit.mobile': ['SwiftKit Mobile for RuneScape', 'Bluelight+Dev', '10,000+', 'http://www.bluelightdev.com', 'jason@bluelightdev.com']}
+{'com.bigborisstudios.ghostcomradarpro': ['Ghostcom Radar Pro', '8642255748025584273', '100+', 'https://www.facebook.com/Ghostcomradar/', 'bigborisstudios@hotmail.com']}
+{'arapps.jasongenova.soundboard': ['Jason Genova Official Soundboard App', 'AR++App+Development', '100+', 'https://app.termly.io/document/privacy-notice/2c1f6bfd-0a2d-4162-afa3-2b21513b459c', 'aa.mr.appdev@gmail.com']}
+{'com.scannerradio_pro': ['Scanner Radio Pro - Fire and Police Scanner', 'GordonEdwards.net+LLC', '100,000+', 'http://support.gordonedwards.net', 'android-support@gordonedwards.net']}
+{'info.wobamedia.mytalkingpet.plus': ['My Talking Pet', 'Woba+Media', '100,000+', 'http://wobamedia.info', 'hello@wobamedia.info']}
+{'com.zombodroid.MemeGeneratorFullGplay': ['Meme Generator PRO', '7550045746771355552', '100,000+', 'https://www.facebook.com/ZomboDroidMemeGenerator', 'zombodroid@gmail.com']}
+{'com.darkfoxlabs.ltsounds': ['LT.SOUNDS', 'DarkFox+Labs', '10,000+', 'http://darkfoxlabs.io', 'android@darkfoxlabs.io']}
+{'com.koushikdutta.cast.license': ['AllCast Premium', 'ClockworkMod', '500,000+', 'http://www.allcast.io/', 'allcast@clockworkmod.com']}
+{'com.magicfluids': ['Magic Fluids', '6174288693947257956', '50,000+', 'http://www.madscientist.pl/', 'magicfluids@madscientist.pl']}
+{'com.spudpickles.ghostradar': ['Ghost Radar®: LEGACY', 'Spud+Pickles', '100,000+', 'http://www.ghostradar.com/', 'spudpickles@gmail.com']}
+{'org.prx.talbot': ['This American Life', 'This+American+Life', '100,000+', 'http://www.thisamericanlife.org', 'web@thislife.org']}
+{'se.laxton.ghost': ['Ghost Tracker EMF EVP Recorder', 'LaxTon+Ghost+Sweden', '5,000+', 'http://www.laxton.se', 'info@laxton.se']}
+{'nl.ijsdesign.huedisco': ['Hue Disco', 'MediaVibe', '100,000+', 'http://www.mediavibe.nl', 'info@mediavibe.nl']}
+{'com.bigborisstudios.ghostcom_communicator_pro': ['Ghostcom Communicator Pro', '8642255748025584273', '10,000+', 'https://www.facebook.com/ghostcomapp/', 'bigborisstudios@hotmail.com']}
+{'com.ciskro.ultrasoundspoof': ['UltraSound Spoof', 'Ciskro+Apps', '10,000+', None, 'ciskroapps@gmail.com']}
+{'org.fortheloss.sticknodespro': ['Stick Nodes Pro - Stickfigure Animator', 'ForTheLoss+Games', '10,000+', 'http://StickNodes.com', 'games@fortheloss.org']}
+{'com.tidusjar.Ombi': ['Ombi', 'TidusJar', '1,000+', 'https://ombi.io', 'tidusjar@gmail.com']}
+{'com.exelerus.apps.ghostradio': ['Paranormal Ghost EVP/EMF Radio', 'Exelerus+Apps', '50,000+', 'http://paranormalsoftware.com/apps/ghostradio', 'support@paranormalsoftware.com']}
+{'com.incorporateapps.fakegps': ['Fake GPS Go Location Spoofer', '6068445124664238197', '100,000+', 'http://incorporateapps.com/privacy/mobile-privacy-policy-fake-gps-paid.html', 'support@incorporateapps.com']}
+{'com.redenes.lacuerda': ['Latin Chords (LaCuerda PRO)', 'LaCuerda', '50,000+', 'http://lacuerda.net', 'lacuerda.net@gmail.com']}
+{'xyz.mreprogramming.ultimateghostdetector': ['Ultimate Ghost Detector (real EMF, EVP recorder)', 'MRE+Programming', '1,000+', 'https://sites.google.com/site/mreprogramming/', 'mreprogramming@gmail.com']}
+{'com.printedpropshop.dokkos2': ['Dokk OS 2', 'beadybiddle', '10,000+', 'http://www.printedpropshop.com', 'yeknom09@gmail.com']}
+{'com.bigborisstudios.ghostcomradarpro': ['Ghostcom Radar Pro', '8642255748025584273', '100+', 'https://www.facebook.com/Ghostcomradar/', 'bigborisstudios@hotmail.com']}
+{'com.cherrycore.hue_wave': ['Hue Wave', 'Cherry+Core', '100+', 'https://simplesynth.000webhostapp.com/', 'kirschnerbenny@gmail.com']}
+{'com.mreprogramming.ultimateemfdetectorpro': ['Ultimate EMF Detector Pro', 'MRE+Programming', '10,000+', 'https://sites.google.com/site/mreprogramming/', 'mreprogramming@gmail.com']}
+{'com.spudpickles.gr.connect': ['Ghost Radar®: CONNECT', 'Spud+Pickles', '50,000+', 'http://www.ghostradar.com/app/ghost-radar-connect/', 'support@spudpickles.com']}
+{'com.berobo.android.police.scanner.pro': ['Police Scanner Radio PRO', 'BEROBO+%28Police+Scanner+Radio%29', '50,000+', 'http://berobo.com/?PoliceScannerRadioPRO', 'policescannerradiopro@berobo.com']}
+{'com.yudiz.idoser': ['I-Doser Premium', '6172927760485730448', '10,000+', 'http://www.i-doser.com', 'orders@i-doser.com']}
+{'com.criticalhitsoftware.scanner50': ['Police Scanner 5-0', 'Logicord+LLC', '50,000+', 'http://www.logicord.com', 'support@logicord.com']}
+{'com.icogno.cleverbot': ['Cleverbot', 'Icogno+Ltd', '100,000+', 'http://www.cleverbot.com', 'info@icogno.com']}
+{'com.foolsdog.classic1910': ['Tarot!', 'The+Fool%27s+Dog', '1,000+', 'http://www.foolsdog.com/Classic1910/', 'support@foolsdog.com']}
+{'com.ware.starblackout.eliter6ssoundboard': ['Elite R6SoundBoard', 'sTarBlakout', '100+', None, 'sTarBlackout.channel@gmail.com']}
+{'com.fantasyflightgames.swdice': ['Star Wars™ Dice', 'Fantasy+Flight+Games', '10,000+', 'http://fantasyflightgames.com', 'softwaresupport@fantasyflightgames.com']}
+{'com.theonlytvboxyouneed.www.totvboxapkcollection': ['ToTVBox APK Collection', 'Calibunga+Crew+Entertainment', '100+', 'http://www.totvbox.com', 'theonlytvboxyouneed@gmail.com']}
+{'com.blackdevelopers.familyxylophonenoads': ['Family Xylophone NoAds', '4747658071436615443', '100+', 'http://blackdevelopers.net', 'daniel@blackdevelopers.net']}
+{'com.ryzenrise.consultantass': ['Consultant Assistant', 'ryzenrise', '1,000+', 'http://www.wisharcbuilder.com', 'ryzengchang@gmail.com']}
+{'com.atomswitch.idm': ['InfinitasDM', 'Atom+Switch,+Inc.', '500+', 'http://www.infinitasdm.com', 'contact@atomswitch.com']}
+{'com.lyxoto.mcredstone': ['Redstone Builder for Minecraft PE', 'Lyxoto+Studios', '5,000+', None, 'dev.alexche@gmail.com']}
+{'com.MAF_DrawNamesFromHat.DrawNames.Pro': ['Draw Names From A Hat Pro', '8391150779610632008', '1,000+', 'http://www.miketheandroidfarmer.com/', 'androidappfarm@gmail.com']}
+{'com.zvboxandroid.game.candle.f.android': ['Red Candle+', 'Viktor+Z', '1,000+', 'https://docs.google.com/document/d/14yHVu66IQ84JAHrGpGPGYk5EknlQmtWcOJDekpw1VDk/edit?usp=sharing', 'zvzvmail@gmail.com']}
+{'net.sparknet.sheetyourself': ['Sheet Yourself for RPG', 'SparkNET+Interactive', '1,000+', 'http://sheetyourself.com/', 'google-dev@sparknet.net']}
+{'com.foolsdog.witches': ['Witches Tarot', 'The+Fool%27s+Dog', '1,000+', 'http://www.foolsdog.com/Witches/', 'support@foolsdog.com']}
+{'com.oceanhouse_media.ocardsbaisisoracle_app': ['Isis Oracle', '6785444890720651855', '100+', 'http://www.oceanhousemedia.com', 'support@oceanhousemedia.com']}
+{'com.digitalforcebag.dfb': ['Digital Force Bag', 'Craig+Squires+%26+Nick+Einhorn', '100+', 'http://www.einhorn.co.uk/', 'yoyomagic@me.com']}
+{'com.sticktexting.sticktextinglovinlife': ['Stick Texting - Lovin Life', 'Mitchell+Robiner', '500+', 'http://www.sticktexting.com', 'sticktexting@gmail.com']}
+{'com.mikiex.youtuze.pro': ['YouTuze Pro Kids for YouTube ™ Parental Control', 'Farmer+Crimper', '1,000+', 'https://sites.google.com/view/youtuzeprivacy', 'farmercrimper@gmail.com']}
+{'com.syntacapps.pick4.wheel.generator': ['Lottery Wheel Generator Pick 4', 'Syntacapps', '500+', 'http://www.lotteryappspro.com/', 'syntacapps@gmail.com']}
+{'com.ry.gc.donate': ['Donate', 'RY+Development%27s', '1+', None, 'ridhweekyogita@gmail.com']}
+{'com.foolsdog.decoratif': ["Ciro's Tarot Decoratif", 'The+Fool%27s+Dog', '10+', 'http://www.foolsdog.com/Decoratif', 'support@foolsdog.com']}
+{'com.oceanhouse_media.ocardsbadragonfae_app': ['Oracle of the Dragonfae', '6785444890720651855', '50+', 'http://www.oceanhousemedia.com', 'support@oceanhousemedia.com']}
+{'com.bodybabesclub.italianemojisapp': ['Italian Emoji', 'Svago+%26+Co', '1,000+', 'http://www.italianmoji.com', 'italianemoji@gmail.com']}
+{'com.fotobom.splitmoji': ['SplitMoji', 'Fotobom+Media,+Inc.', '100+', 'http://yourmoji.co', 'alaforge@scstan.com']}
+{'thunderstorm.scottdodson.io': ['Thunderstorm for LIFX', 'Scott+Dodson', '100+', 'http://thunderstorm.scottdodson.io', 'support@thunderstorm.scottdodson.io']}
+{'com.nonlineareducating.finaldraft101': ['Screenwriting in Final Draft', 'AskVideo.com', '100+', 'https://www.askvideo.com/course/final-draft-101-introduction-to-screenwriting', 'apps@askvideo.com']}
+{'com.spudpickles.gr.vnd': ['Ghost Radar®: VAMPIRES', 'Spud+Pickles', '1,000+', 'http://www.spudpickles.com/', 'support@ghostradar.com']}
+{'com.flowerpig.lwp.circuits': ['Circuit Board Live wallpaper', 'FlyingPigs', '5,000+', 'http://flyingpig.ivyro.net/?p=12', 'flyingpig.android@gmail.com']}
+{'com.spudpickles.ghostradartour': ['Ghost Radar®: TOUR', 'Spud+Pickles', '1,000+', 'http://www.ghostradar.com/', 'support@ghostradar.com']}
+{'com.snowpackstudios.paranormalghostdetectorpro': ['Paranormal Ghost Detector PRO', '7102336573067106468', '500+', 'http://www.snowpackstudios.com/', 'snowpackstudios@gmail.com']}
+{'com.barrylooney.android.GunnysReveille': ["Gunny Ermey's Alarm Clock", 'RLeeErmey.com', '1,000+', 'http://rleeermey.com', 'webmaster@rleeermey.com']}
+{'com.magnet.torrent.cat.pro2': ['Magnet Cat Pro', 'WeiHua+Wu', '100+', None, 'vivarwu@gmail.com']}
+{'com.mast.wgasc': ['WGASC Now!', 'DCP+Partners,+LLC', '100+', 'http://dcp-partners.com/now', 'info@dcp-partners.com']}
+{'com.planeta.BowieMobile': ['David Bowie is', 'Sony+Music+Entertainment%28Japan%29Inc.', '1,000+', 'https://davidbowieisreal.com', 'info@davidbowieisreal.com']}
+{'nl.mediavibe.huethunder': ['Hue Thunder', 'MediaVibe', '1,000+', 'http://www.mediavibe.nl', 'info@mediavibe.nl']}
+{'com.dysfunctional.apps.pcgencharactersheet': ['PCGen Character Importer', 'Dysfunctional+Apps', '1,000+', 'http://dysfunctionalapps.blogspot.co.uk/', 'dysfunctional.apps@gmail.com']}
+{'com.foolsdog.mysticdreamer': ['Mystic Dreamer', 'The+Fool%27s+Dog', '500+', 'http://www.foolsdog.com/MysticDreamer/', 'support@foolsdog.com']}
+{'com.dayglows.vivid.full': ['PlayTo Universal', 'Dayglows', '50,000+', 'http://www.playto.tv', 'info@playto.tv']}
+{'mobi.abaddon.awesomehue': ['Awesome Hue - #1 Philips Hue music app', '6359665007298287516', '50+', 'http://www.awesomehue.com', 'hello@awesomehue.com']}
+{'com.visionbooks.facestar': ['FacestarApp', '6850101783726670989', '5,000+', 'http://www.visionborne.us', 'info@visionborne.us']}
+{'com.softballmoji.emoji': ['SoftballMoji and Stickers', 'Liger+Creations', '100+', 'https://www.facebook.com/softballmoji/%20', 'admin@ligercreations.com']}
+{'com.gcdroid.prokey': ['GCDroid Pro Key - Geocaching', 'GCDroid', '1,000+', 'https://www.facebook.com/gcdroid', 'support@gcdroid.com']}
+{'id.kanalitnuk.minionpremium': ['Minion Premium Stickers', '7475178798194069425', '10+', 'http://kanalitnuk-studio.id', 'kanalitnuk.studio@gmail.com']}
+{'com.pixfabrik.livingworlds': ['Living Worlds – Mark Ferrari', 'Pixfabrik', '100+', 'http://pixfabrik.com/', 'ian@pixfabrik.com']}
+{'com.Beavis_is_cornholio.great': ['Beavis Sounds & Wallpapers', 'Blean', '10+', 'http://www.bleansn.de/policybsw.html', 'bleansn@googlemail.com']}
+{'net.deseta.emojis': ['Deseta Emojis', 'Mariam-Sena+Haile', '50+', 'http://www.deseta.net', 'inquiries@deseta.net']}
+{'com.sticktexting.sticktexting': ['Stick Texting The Emoji Killer', 'Mitchell+Robiner', '1,000+', 'http://www.sticktexting.com', 'sticktexting@gmail.com']}
+{'com.tapanilab.iconshowcase.glasredsilver': ['Red silver glas icon pack HD', 'TapaniLab', '100+', None, 'tapanilab@googlemail.com']}
+{'com.jinedesign.pendulumreadingpro': ['Pendulum Reading & Dowsing Pro', 'Jayasri+Nagrale', '100+', 'http://jinedesign.com/app-privacy-policy/', 'mycrystals@gmail.com']}
+{'com.mumbo.ghostdetectorpro': ['Ghost Detector Pro', 'Soneira+Apps', '100+', 'http://www.soneira-apps.com', 'anson_sequeira@hotmail.com']}
+{'com.foolsdog.mucha': ['Tarot Mucha', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/Mucha/', 'support@foolsdog.com']}
+{'com.clafou.woopwoop': ['Woop-Woop! Police Siren', 'Clafou', '100+', 'http://www.clafou.com', 'info@clafou.com']}
+{'pl.madscientist.fire': ['Magic Flames: Fire Sandbox (Magic Fluids Series)', '6174288693947257956', '1,000+', 'http://www.madscientist.pl/', 'support@madscientist.pl']}
+{'com.foolsdog.vampyres': ['The Tarot of Vampyres', 'The+Fool%27s+Dog', '500+', 'http://www.foolsdog.com/Vampyres/', 'support@foolsdog.com']}
+{'com.maxmpz.poweramp.skins.blackbordeaux': ['Poweramp skin Black Bordeaux', 'TapaniLab', '100+', None, 'tapanilab@googlemail.com']}
+{'nl.ijsdesign.huechristmas': ['Hue Christmas for Philips Hue', 'MediaVibe', '10,000+', 'http://www.mediavibe.nl', 'info@mediavibe.nl']}
+{'com.Cmoar.CmoarVirtualCinemaPro': ['Cmoar VR Cinema PRO', 'Pixel+Edge+Games', '10,000+', 'http://www.10antshill.com', 'sboczek@10antshill.com']}
+{'com.baretreemedia.trekmoji': ['TrekMoji', 'Bare+Tree+Media', '100+', 'http://baretreemedia.com', 'info@baretreemedia.com']}
+{'com.foolsdog.druidoracles': ['Druid Oracle Cards', 'The+Fool%27s+Dog', '1,000+', 'http://www.foolsdog.com/DruidOracles/', 'support@foolsdog.com']}
+{'com.hashhouseharrierssongbook': ['Hash House Harriers Songbook', 'Babak+Fakhamzadeh', '100+', 'http://hashhouseharrierssongbook.com', 'i@babakfakhamzadeh.com']}
+{'com.dirtyemojiapps.summer': ['Flirty Summer Emojis', 'Dirty+Emoji+Apps', '100+', None, 'dirtyemojiapps@gmail.com']}
+{'com.kappsmedia.justmoji': ['Justmoji', 'Kapps+Media+LLC', '5,000+', 'http://www.kappsmedia.com', 'info@kappsmedia.com']}
+{'com.beattheodds.daily3': ['Lucky Daily 3 Lotto Generator', 'Beat+the+Odds', '500+', None, 'beattheoddsgood@gmail.com']}
+{'com.dokdoapps.mybabyfireworkpro': ['My baby firework (Remove ad)', 'DOKDOAPPS', '1,000+', 'http://dokdoapps.com', 'support@dokdoapps.com']}
+{'com.gi.talkinggarfieldpremium': ['Talking Garfield Pro', '8714858389463466155', '500+', 'http://www.mytalkingtoys.com', 'android@generamobile.com']}
+{'com.foolsdog.deviantmoon': ['Deviant Moon Tarot', 'The+Fool%27s+Dog', '500+', 'http://www.foolsdog.com/DeviantMoon/', 'support@foolsdog.com']}
+{'com.gi.talkingpatopremium': ['Talking Pato Premium', '8378379050415836542', '5,000+', 'http://www.pocoyo.com', 'apps@zinkia.com']}
+{'com.slingmedia.slingPlayer': ['Slingplayer for Phones', 'Sling+Media+L.L.C.', '100,000+', 'http://support.slingbox.com/go/spm-android', 'spm@slingmedia.com']}
+{'com.letsdosimple.mytodayluckynumberpro': ['My Today Lucky Number Pro', 'Kavin+D', '5+', 'http://letsdosimple.com', 'kavind92@gmail.com']}
+{'eu.uvdb.game.africamappro': ['Map of Africa', 'Cygnus+Software', '5+', 'http://cygnus.uvdb.eu', 'cygnus@uvdb.eu']}
+{'nl.mediavibe.hueinspace': ['Hue In Space', 'MediaVibe', '100+', 'http://www.mediavibe.nl', 'info@mediavibe.nl']}
+{'com.shubhamchaudhari229.Bored_Button': ['Bored Button ! Press and be bored no more.', '8611076907190927414', '5+', 'http://ciamedia.com/terms-conditions/', 'apextora22@gmail.com']}
+{'com.quikthinking.aaemojis': ['African American Emojis', 'Quikthinking+Software', '100+', 'https://quikthinking.com/african-american-emojis.html', 'pdusa99@hotmail.com']}
+{'air.policelights2pro': ['Police Lights 2: PRO', '8770119409181130677', '10,000+', None, 'oriumgames@yandex.com']}
+{'com.snowpackstudios.anomalyaliendetectorpro': ['Anomaly - Alien Detector PRO', '7102336573067106468', '100+', 'http://www.snowpackstudios.com/', 'snowpackstudios@gmail.com']}
+{'nl.mediavibe.huehauntedhouse': ['Hue Haunted House', 'MediaVibe', '1,000+', 'http://www.mediavibe.nl', 'info@mediavibe.nl']}
+{'com.blackdevelopers.familypianonoads': ['Family Piano NoAds', '4747658071436615443', '50+', 'http://blackdevelopers.net', 'daniel@blackdevelopers.net']}
+{'com.doolmoji.custom.doolmoji': ['DOOLMoji', 'Sony+Pictures+Television', '500+', 'http://doolmojiapp.com', 'help@DOOLMojiApp.com']}
+{'mobi.moonc.marinechimer': ['MarineChimer', '8524367073505611493', '10+', 'https://www.moonc.mobi', 'info@moonc.mobi']}
+{'com.gapp.messengercolorpropro': ['Emoji & Color for Messenger (Pro version)', 'GHStudio', '1,000+', None, 'quaden2311@gmail.com']}
+{'io.scottdodson.thunderstorm.simulator': ['Thunderstorm Simulator', 'Scott+Dodson', '100+', 'http://simulator.thunderstorm.scottdodson.io', 'support@thunderstorm.scottdodson.io']}
+{'com.emojiworld.tennis': ['Tennis Emojis by Emoji World ™', 'Emoji+World+Apps', '50+', 'http://www.emojiworlds.com', 'emojiworldapps@gmail.com']}
+{'com.foolsdog.cirokipper': ["Ciro's Fin de Siècle Kipper", 'The+Fool%27s+Dog', '500+', 'http://www.foolsdog.com/CiroKipper/', 'support@foolsdog.com']}
+{'com.pixnabi.luis.burbumojiapp': ['Burbumoji', 'Angelique+Burbu', '1,000+', 'http://burbumoji.com/', 'info@burbumoji.com']}
+{'com.gravytraingames.santatrackerlite': ['Santa Video Call & Tracker - North Pole CC™', 'North+Pole+Command+Centre+Limited', '10,000+', 'http://www.tillmania.co.uk', 'sean@tillmania.co.uk']}
+{'com.zwoelfer.gpu_fluid_paid': ['Fluid Paint', 'Tristan+Bauer', '500+', 'https://plus.google.com/u/0/communities/114923194926180447460', 'tristanbauer85@gmail.com']}
+{'com.foolsdog.bonefire': ['Bonefire Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/Bonefire/', 'support@foolsdog.com']}
+{'com.foolsdog.paulina': ['Paulina Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/Paulina/', 'support@foolsdog.com']}
+{'o.yuvalanteby.soundboards_pro': ['movie ringtone and soundboard 2019 Pro', '5290094665935968552', '10+', None, 'developeacountish10@gmail.com']}
+{'xyz.sneakapeek.whatsapp.stikeez.bigmouth': ['Big Mouth Stikeez', 'Sneak-A-Peek', '100+', 'http://stikeez.sneakapeek.xyz/privacy-policy/', 'support@sneakapeek.xyz']}
+{'com.foxandsheep.train': ['Little Fox Train Adventures', '8749913084192358255', '500+', 'http://www.foxandsheep.com', 'apps@foxandsheep.com']}
+{'com.wb.it.vr': ['IT: Escape from Pennywise VR', 'Warner+Bros.+International+Enterprises', '1,000+', 'https://digitalsupport.warnerbros.com', 'wbvirtualreality@warnerbros.com']}
+{'com.kedronic.cbndinosaurs': ['Paint by Numbers - Dinosaurs +', '8382340851947772398', '500+', 'http://kedronic.com/cbn', 'support@kedronic.com']}
+{'com.beattheodds.pick3': ['Lucky Pick 3 Lotto Generator', 'Beat+the+Odds', '1,000+', 'http://www.luckylottogenerator.com', 'beattheoddsgood@gmail.com']}
+{'com.tarun.vintage.icons': ['Vintage 2 Icon Pack', '8567538234440435499', '100+', None, 'tarungupta7688@gmail.com']}
+{'co.starcarr.sonarr.submarine': ['Submarine: Sonarr Companion App', 'starcarr.co', '100+', None, 'submarine@starcarr.co']}
+{'com.syned0105.flammebriquet': ['Concert lighter flame', 'SYNED', '500+', 'https://sites.google.com/site/syned0105/', 'naej.syned@gmail.com']}
+{'com.foolsdog.gildedreverie': ['Gilded Reverie Lenormand', 'The+Fool%27s+Dog', '500+', 'http://www.foolsdog.com/GildedReverie/', 'support@foolsdog.com']}
+{'com.myorpheo.gct2': ['Grand Central Tour', 'MyOrpheo+/+Orpheo+Group', '500+', 'http://www.orpheogroup.com', 'info@orpheogroup.com']}
+{'air.air.org.thebluprint.code3.v1': ["Code3 Siren Simulator (Int'l)", 'Printed+Apps', '1,000+', 'http://www.thebluprint.org', 'apps@thebluprint.org']}
+{'com.redrabbitanimation.PonyStyleBox': ['Pony Style Box', '8749913084192358255', '1,000+', 'http://www.foxandsheep.com', 'contact@foxandsheep.com']}
+{'com.clerecsoft.stardatepro': ['Stardate Pro', 'ClerecSoft', '100+', 'http://www.clerecsoft.com/', 'clerecsoft@gmail.com']}
+{'com.ianpidgeon.magicspider': ['Magic Spider', 'Split+Second', '10,000+', 'http://www.mypetboris.com', 'support@mypetboris.com']}
+{'com.playfake.instafake.funsta.pro': ['Funsta Pro (Ad-Free)', 'Playfake', '10+', 'https://sites.google.com/view/playfake/privacy_policy', 'mohammedjunaiddia@gmail.com']}
+{'hbplay.tv': ['hbplay.tv - Watch 60 live Haitian TV', '5722636128916775863', '10+', 'http://www.hbplay.online', 'blancjeff@haitibroadcasting.net']}
+{'io.cordova.myapp2b926a': ['Grid Maps - Create random maps!', 'Daniel+Bne', '10+', None, 'GridMaps@outlook.com']}
+{'com.disney.djappisodesmmchacw_goo': ['Appisodes: Clubhouse World', 'Disney', '500+', 'http://help.disney.com', 'support@disneymobile.com']}
+{'com.vasosoft.android.vrcontroller': ['VR Controller', 'Vasosoft', '1,000+', 'http://vasosoft.com/vr', 'vasosoft@gmail.com']}
+{'de.funtabs.dart_v': ['Darts-Counter', 'FunTabs', '1,000+', 'http://www.FunTabs.de', 'info@funtabs.de']}
+{'air.com.dryginstudios.ifunfacepro': ['iFunFace Pro - Funny Videos HD', 'DryGin+Studios', '1,000+', 'http://www.ifunface.com', 'info@ifunface.com']}
+{'com.gi.talkingpocoyopremium': ['Talking Pocoyo Premium', '8378379050415836542', '10,000+', 'http://www.pocoyo.com', 'apps@zinkia.com']}
+{'com.colinodell.twsswidget': ["That's What She Said Widget", 'Colin+O%27Dell', '100+', 'http://www.colinodell.com', 'colinodell@gmail.com']}
+{'cyclone.kustom.pack': ['CYCLONE KLWP THEME', 'bwildner', '1+', None, 'bpwildner@gmail.com']}
+{'tv.iptelevision.iptv': ['IP Television - IPTV M3U', 'Paolo+Rossignoli', '10+', 'http://www.iptelevision.tv', 'android@iptelevision.tv']}
+{'com.app.viptvpt': ['TV Portuguesa (Sem Anúncios)', 'TVPORTUGUESA', '50+', None, 'apptvportuguesa@gmail.com']}
+{'com.blckadvnt.minecraftskincreator': ['Skin Creator for Minecraft', 'Block+Adventurer+L.L.C.', '5+', 'http://www.blockadventurer.com', 'blockadventurer@gmail.com']}
+{'com.amlo.samplestickerapp': ['AMLO Sticker Pack OFICIAL', 'El+Pueblo+Vence', '500+', 'http://www.twitter.com/ElPuebloVence', 'elpueblovence@gmail.com']}
+{'com.lmguide.lmguidestickerpack': ['LM Sticker pack', 'Aphorism', '500+', 'http://www.lm-guide.ovh', 'xshion13@gmail.com']}
+{'com.hayhouse.thelawofattraction': ['The Law of Attraction Cards- Esther & Jerry Hicks', 'Hay+House,+Inc.', '100+', 'http://www.hayhouse.com', 'hayhouse.dev@gmail.com']}
+{'com.jasminapps.mc': ['MCPE AddOns and Maps', 'Saliji+IT%26Media', '10+', 'http://jasminapps.ch', 'p.saliji@icloud.com']}
+{'com.ysoftware.gallifreyan': ['Gallifreyan Translator', 'ysoftware', '50+', 'http://ysoftware.ru', '123ysoftware@gmail.com']}
+{'com.salam.colorize': ['Colour old black and white photos using AI', 'Abdulsalam+Alhakami', '100+', 'http://www.salamalhakami.com', 'salamyem@gmail.com']}
+{'com.ts18.pv': ['Predator Vision VR', '6081126988914667908', '50+', 'http://www.testsignalhome.com', 'testsignal2016@gmail.com']}
+{'com.nexthrill.minitubepaidpatch': ['MiniTube Ads Free Patch', '9158279746530612356', '10+', 'https://www.facebook.com/nexthrillapps/', 'nexthrill@gmail.com']}
+{'com.thatsmyface.dawsonboard': ['Dawson Sounds!: A Shane Dawson Soundboard', 'That%27s+My+Face', '10+', None, 'thatsmyface12@gmail.com']}
+{'com.magnumlabs.tradeintheverse': ['Trade in the Verse', 'Magnum+Labs', '100+', 'http://www.magnumlabs.com.br', 'lima.magno@gmail.com']}
+{'net.digitalstb.ditv5': ['DITV 5.0', 'digitalstb.net', '100+', 'http://digitalstb.net', 'digitalstb.net@gmail.com']}
+{'com.andromo.dev512829.app765687': ['Shortwave Radio Pro', '9181293551019589929', '100+', 'http://radioappsusa.com', 'dave2011usa@gmail.com']}
+{'com.cowboyroulette.app': ['Roulette Strategy Pro', 'Cowboy+Tuga', '100+', 'https://www.youtube.com/channel/UCL8ZwnDBVoa3dYlJFwtbbsg', 'cowboytuga@gmail.com']}
+{'com.disney.djappisodesgab_goo': ['Appisodes: The Egg', 'Disney', '100+', 'https://help.disney.com/', 'support@disneymobile.com']}
+{'com.visionborne.faceoscar': ['FaceOscar', '6850101783726670989', '10,000+', 'http://www.facestarapp.com', 'info@facestarapp.com']}
+{'com.petslife.emoji': ['FrenchieMoji Stickers - French Bulldog Emojis', 'Alcove+Media+Inc', '100+', 'http://www.muttmad.com', 'shelley.peever@shaw.ca']}
+{'com.JustKrated.IgwritePaid': ['Igwrite - A writing and RPG toolkit', '5005315890439487843', '5+', 'http://www.justkrated.com/', 'justkrated@gmail.com']}
+{'com.goldenmoji.emojis': ['GoldenMoji', 'Attitude+Applied+LLC', '50+', 'http://www.fitojis.com/privacy-policy', 'info@emojidomination.com']}
+{'com.blackeyedpeas.mastersofthesuncomic': ['Masters of the Sun AR', 'I+Am+Bizzy+LLC', '1,000+', 'http://www.blackeyedpeas.com/', 'mastersofthesun@iambizzy.com']}
+{'com.joesdomain.motiontracker': ['Aliens Motion Tracker', '5138083956189500635', '100+', 'http://www.kmonkeygames.com', 'contact@kmonkeygames.com']}
+{'appinventor.ai_jannethfer1992.Dragon_TransformacionesDBS': ['Dragon Transformaciones', 'Aquiles+MobGames', '10+', None, 'alex22paul@gmail.com']}
+{'gp.com.turnersark.fakegpspaid': ['Fake GPS Location PRO', 'Adam+P+McNulty', '50,000+', 'http://www.docksidegraphics.co.uk', 'orders@docksidegraphics.co.uk']}
+{'com.icandygames.gsdmoji': ['GSDmoji German Shepherd emojis', 'iCandy-Games', '100+', 'http://www.icandy-games.com', 'mike@icandy-games.com']}
+{'com.andromo.dev296533.app482964': ['Guns Mod', 'Match+Games+Studios', '100+', 'http://www.boogygames.com/privacy-policy', 'gamebgapps@gmail.com']}
+{'io.scottdodson.soundstorm.aurora': ['Soundstorm for Aurora', 'Scott+Dodson', '100+', 'http://aurora.soundstorm.scottdodson.io', 'support@soundstorm.scottdodson.io']}
+{'com.makeitsostudios.aa.google': ['Utility for Axis & Allies Game', 'Make+It+So+Studios', '100+', 'http://www.makeitsostudios.com/', 'president@makeitsostudios.com']}
+{'com.bigfootmoji.emoji': ['BigfootMoji - Sasquatch Emojis', 'Tosh+inclusive', '100+', 'https://www.facebook.com/BigfootMoji-242699542805570/', 'outlandishappsllc@gmail.com']}
+{'com.tikgames.zaynmoji': ['ZAYNmoji', '7637387793395434865', '1,000+', 'http://www.tikgames.com', 'support@tikgames.com']}
+{'com.haresquared.weinermoji': ['Weinermoji - Dachshund Emoji', 'Hare+Squared,+LLC', '1,000+', 'https://www.facebook.com/weinermoji', 'support@haresquared.com']}
+{'eu.theoreticalmass.terminalwatchface': ['Terminal Watch Face', 'TheroreticalMass', '10+', None, 'contact@theoreticlmass.eu']}
+{'com.foolsdog.spellcasters': ['Modern Spellcaster’s Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/Spellcasters/', 'support@foolsdog.com']}
+{'com.appmoji.macmoji': ['MacMoji ™ by Conor McGregor', 'AppMoji,+Inc.', '5,000+', 'http://www.appmoji.com', 'info@appmoji.com']}
+{'org.impey.rclipolog': ['RC Flight and Battery Log', 'S.+Impey+Software', '100+', 'http://flightlog.impey.org', 'flightlog@impey.org']}
+{'com.foolsdog.nightsun': ['Night Sun Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/NightSun/', 'support@foolsdog.com']}
+{'com.dirtyemojiapps.party': ['Flirty Party Emojis', 'Dirty+Emoji+Apps', '100+', None, 'dirtyemojiapps@gmail.com']}
+{'oracle.rune': ['Runemantis', 'Rob+Henderson', '50+', None, 'kargach@gmail.com']}
+{'com.ivbasic.android.avbasic.pro': ['aVBasicPro', 'Crossword+Project', '10+', 'http://www.crosswordproject.com', 'support@ivbasic.com']}
+{'com.tecworks.terrorcave': ['Terror Cave VR', 'Jined', '10,000+', 'http://www.jined.com', 'jitec@katamail.com']}
+{'com.linitix.serist': ['SERIST - Your TV Show Tracker', '7149214532476371188', '1,000+', 'http://seristapp.com', 'seristapp@linitix.com']}
+{'com.larsklevan.buyorboost': ['Buy or Boost', 'Lars+Klevan', '100+', 'http://buyorboost.herokuapp.com/contact.html', 'tastybyte@gmail.com']}
+{'oracle.ogham': ['Oghamantis', 'Rob+Henderson', '100+', None, 'kargach@gmail.com']}
+{'appinventor.ai_payas1965.GeminusBox': ['GeminusBox', 'Brian+Holloway', '100+', 'http://soulseekersuk.weebly.com/', 'bigb_1969@hotmail.com']}
+{'com.video.player.premium': ['Video Player Premium', 'android+player', '500+', None, 'androidplayor@gmail.com']}
+{'com.danmacdonald.coloniespaid': ['Colonies in the Wild Frontier', 'Dan+MacDonald+Studios', '10+', 'http://danmacdonaldstudios.com', 'dan@danmacdonaldstudios.com']}
+{'com.aztechfilms.jake': ['Jake Mace Kung Fu & Tai-Chi', 'Aztech+Films', '100+', 'http://www.aztechfilms.co.uk', 'Mark@aztechfilms.co.uk']}
+{'com.foolsdog.visions': ["Ciro's Oracle of Visions", 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/Visions/', 'support@foolsdog.com']}
+{'re.hprod.guichard.christophe.appliSeb': ['Signature Card magic', 'Sebastien+LACOUR+Magic', '100+', None, 'lacourprod@gmail.com']}
+{'com.valander.predatorcallpro': ['Coyote calls Pro', 'Vstd', '100+', None, 'lehaap1979@gmail.com']}
+{'org.xbmc.cemc_pro': ['CEMC Pro', 'SP+Programming', '1,000+', None, 'cemc_gplay@gmx.com']}
+{'com.foolsdog.celticdragon': ['The Celtic Dragon Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/CelticDragon/', 'support@foolsdog.com']}
+{'com.foolsdog.urban': ['Urban Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/Urban/', 'support@foolsdog.com']}
+{'com.bonhuapps.misterios': ['Misterios sin resolver', 'BonhuApps', '10+', None, 'bonhuapps@gmail.com']}
+{'com.inyan.SoViGroup.android': ['Yin-Yang Oracle', 'SoViGroup', '10+', None, 'SoViGroup@mail.ru']}
+{'com.ajaxsoftmobile.android.ghostdetector': ['Ghost detector Pro (EMF)', 'Ajaxsoft+Mobile', '500+', 'http://ajaxsoftmobile.com', 'info@ajaxsoftmobile.com']}
+{'com.monotype.android.font.neosquirrel': ['NeoSquirrel™ Korean Flipfont', '4728843905962363624', '10+', 'http://www.monotypeimaging.com/productsservices/Flipfont.aspx', 'support@flipfont.mobi']}
+{'com.glidecreations.wonders_android': ['Brian Cox Wonders Compilation', 'HarperCollins+Publishers+Ltd', '1,000+', 'http://www.harpercollins.co.uk', 'android@harpercollins.co.uk']}
+{'ca.bc.lotterix.pick3.gold': ['Lotterix Pick 3', 'Lotterix', '100+', None, 'lotterix@outlook.com']}
+{'com.virtualavionics.vcdut7': ['Virtual CDU 777', 'Virtual+Avionics', '1,000+', 'http://www.virtualavionics.com.br', 'amauri@virtualavionics.com.br']}
+{'ch.appix.chuc': ['Schwiizerdütsch - Swiss German Words', 'Appix+AG', '500+', 'http://swissboox.ch', 'office@appix.ch']}
+{'com.ytweb': ['Cast2TV-PRO(ChromeCast etc)', 'YTMovies', '5,000+', 'http://www.ytmoviesapp.com', 'info@ytmoviesapp.com']}
+{'com.swatterco.vrstreamer': ['VR Streamer', 'SwatterCo', '5,000+', 'http://www.swatterco.com', 'swatterco@yahoo.com.au']}
+{'com.foolsdog.joiedevivre': ['Joie de Vivre Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/JoieDeVivre/', 'support@foolsdog.com']}
+{'com.maxmpz.poweramp.skins.NEONRED': ['NEON RED Poweramp skin V2', 'memscape', '1,000+', 'http://www.memscape.de', 'scapemem@googlemail.com']}
+{'uk.co.tricksapps.ultimateprediction': ['Ultimate Prediction Card Trick', 'TRicksApps', '100+', 'http://www.tricksapps.co.uk/', 'terryricks221@googlemail.com']}
+{'com.piepserapp.ipager': ['iPager - emergency firepager!', 'Manuel+Sedlmeier', '5,000+', 'http://www.piepser-app.de', 'feedback@piepser-app.de']}
+{'com.magictrick.app': ['Magic Trick #1: Best Card Prediction!', '8990386928037179723', '5,000+', 'https://www.magicapps.co', 'support@magicapps.co']}
+{'com.datscharf.beadstudio': ['Bead Studio', 'datscharf', '1,000+', None, 'datscharf@gmail.com']}
+{'com.foolsdog.crystalvisions': ['Crystal Visions Tarot', 'The+Fool%27s+Dog', '500+', 'http://www.foolsdog.com/CrystalVisions/', 'support@foolsdog.com']}
+{'es.blocknot.rpgchars': ['RPG Characters', 'Mattia+Roccoberton', '100+', 'https://www.blocknot.es', 'mat.droid@gmail.com']}
+{'com.PNMG.Railroad_Companion': ['Railroad Companion-Train Sound', 'Paradigm+North+Multimedia+Group', '500+', None, 'paradigmnorth@gmail.com']}
+{'com.bernermoji.emoji': ['BernerMoji - Bernese Emojis', 'Tosh+inclusive', '500+', 'http://www.facebook.com/bernermoji', 'outlandishappsllc@gmail.com']}
+{'com.foolsdog.shiningtribe': ['Shining Tribe Tarot', 'The+Fool%27s+Dog', '50+', 'http://www.foolsdog.com/ShiningTribe/', 'support@foolsdog.com']}
+{'com.ivy.arcardTrick': ['AR Card Trick', 'Firat+Kacmaz+%28IVY%29', '100+', 'http://www.worldpossible.co%20', 'firativerson@gmail.com']}
+{'com.gluck.tsfnextadwsmartmulti.theme.red.valentine': ['NEXT TSF LAUNCHER RED GOLD HEART VALENTINE THEME', 'SGluck', '50+', None, 'srecangluck@yahoo.com']}
+{'actionvr.net.ballooning2': ['VR Ballooning Virtual Reality', 'actionVR', '10+', 'http://actionvr.net', 'info@actionvr.net']}
+{'com.jmore007.ddsheet': ['Fifth Edition Sheet', 'Javier+Moreno+Vignote', '100+', None, 'javier.moreno.vignote@gmail.com']}
+{'com.foolsdog.pagancats': ['Tarot of Pagan Cats', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/PaganCats/', 'support@foolsdog.com']}
+{'com.foolsdog.scryingink': ['Scrying Ink Lenormand', 'The+Fool%27s+Dog', '500+', 'http://www.foolsdog.com/ScryingInk/', 'support@foolsdog.com']}
+{'local.drive.simplepointstrackerplus': ['Simple Points Tracker Plus - Star Realms counter', 'Dr.+Ive', '500+', None, 'drive.spt@gmail.com']}
+{'com.ACNE.LostCitiesScoring': ['Lost Cities Card Scoring', 'St%C3%A9phane+Cloutier', '10+', None, 'scloutier75@gmail.com']}
+{'com.emojifamily.emoji.keyboard.sticker.ThumbsUp': ['Thumbs Up Sticker Emoji Gif', '5769316720205135998', '100+', 'http://www.facebook.com/kkemojikeyboard', 'feedbackkeyboard@gmail.com']}
+{'com.g_art.munchkinlevelcounter.paid': ['Level Counter Paid', 'g.art', '100+', None, 'gart.app@gmail.com']}
+{'com.foolsdog.revelations': ['Revelations Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/Revelations/', 'support@foolsdog.com']}
+{'org.silentworks.fpscreator': ['FPS Maker 3D', '5844883844554262440', '5,000+', 'http://androidgamecreator.com/fpscreator/fps_maker_privacy_policy.html', 'silentworks.apps@gmail.com']}
+{'it.brigasso.bingocast': ['Bingo Cast (Auto-Caller)', 'Brigasso', '100+', None, 'brigasso@gmail.com']}
+{'us.videoservice.ctvg': ['Television Classics', 'VideoServices', '1,000+', 'http://www.videoservice.us', 'videosvc@gmail.com']}
+{'com.akilloren.ultradirectvremote': ['Ultra DirecTV Remote', 'Alan+Killoren', '100+', None, 'alank@alankilloren.com']}
+{'com.william_company.android': ['Back Alley Bridge Scorekeeper', 'Megiddo', '50+', 'http://saddlevest.com/contactus.php', 'MegiddoAppDeveloper@gmail.com']}
+{'com.yonkinapp.powerballpicker': ['PowerBall Picker', 'swengeer', '100+', 'http://yonkinapp.wix.com/powerballpicker', 'swengeer@gmail.com']}
+{'com.foolsdog.steampunk': ['Steampunk Tarot', 'The+Fool%27s+Dog', '1,000+', 'http://www.foolsdog.com/Steampunk/', 'support@foolsdog.com']}
+{'com.canyonart.iweaveit': ['Weave with iWeaveIt', 'Canyon+Art+LLC', '1,000+', 'http://www.weaveit.com', 'canyonartllc@gmail.com']}
+{'com.horses.livewallpaper': ['Horses Live Wallpaper HD', 'Fusion+Wallpaper', '10+', None, 'livewallpaper.apps@gmail.com']}
+{'com.rebrandsoftware.scoregeek': ['ScoreGeek', 'Rebrand+Software,+LLC', '1,000+', 'http://www.rebrandsoftware.com/ScoreGeek', 'mike@rebrandsoftware.com']}
+{'com.ideasynthesis.roguesavant.airzap.appletv.pro': ['AirZap: AppleTV', 'IdeaSynthesis+LLC', '100+', 'http://www.ideasynthesis.com', 'orders@ideasynthesis.com']}
+{'com.imagenuity.scorekeepr.bacon': ['Score Keeper BACON', 'Imagenuity', '500+', 'https://imagenuity.com/apps/scorekeepr?gp-skb', 'support-scorekeepr@imagenuity.com']}
+{'com.loudcrow.charliebrowngreatpumpkin': ["It's the Great Pumpkin, Charlie Brown", '5147340535550605570', '1,000+', 'http://www.loudcrow.com', 'droidsupport@loudcrow.com']}
+{'com.mahjonghelper.android': ['Mahjong Helper & Calculator', 'CyberDog+Software', '500+', 'http://www.mahjonghelper.com', 'info@mahjonghelper.com']}
+{'com.moviematepro': ['Movie Mate Pro', 'TGomews', '5,000+', 'https://www.facebook.com/movie7mate', 'movie7mate@gmail.com']}
+{'com.sandroids.houdini': ["Houdini's last magic trick", 'xApps', '1,000+', 'http://www.scoompa.com', 'contact+houdini@scoompa.com']}
+{'com.hhz.app.hhzpaint': ['HHZ Paint', 'HHZ+Soft', '100+', 'http://www.hhzsoft.com/', 'hhzsoft0@gmail.com']}
+{'com.monotype.android.font.logbarun': ['LogBarun™ Korean Flipfont', '4728843905962363624', '500+', 'http://www.flipfont.mobi', 'mike.leary@monotypeimaging.com']}
+{'com.blogspot.imapp.livewallpaper.snowingHill': ['Snowing Christmas Hill', 'INAPP', '50+', 'http://imapp.blogspot.com/', 'imapp.help@gmail.com']}
+{'ru.namegenerator.pro': ['D&D Names Generator (PRO)', 'Puzino+Yury', '1,000+', None, 'puzino.y.a@gmail.com']}
+{'com.andromo.dev17163.app234862': ['Random Name Generator Pro', 'ARC+Apps', '1,000+', 'https://sites.google.com/site/arcapplications/', 'contact.arcapps@gmail.com']}
+{'com.techroid.fakechatpro': ['Fake Chat Conversation (No Ads)', '9218870525169505081', '100+', 'https://facebook.com/asimkhanmak', 'masimmak1357@gmail.com']}
+{'com.tapanifirst.iconshowcase.AQUA': ['ICON PACK AQUA 3D blue black', 'tapanifirst', '50+', None, 'tapanifirst@gmail.com']}
+{'com.fotobom.LosEmojis': ['Los Emojis', 'Fotobom+Media,+Inc.', '500+', 'http://fotobommedia.com/', 'info@fotobom.com']}
+{'org.cocos.ClairvoyanceyHD': ['Clairvoyant HD - Psychic Test', 'Warped+Vision+Studio', '100+', None, 'warpedvisionstudio@gmail.com']}
+{'com.foolsdog.intoegypt': ['The Journey into Egypt Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/', 'support@foolsdog.com']}
+{'appinventor.ai_mmfrutos7878.Archangels_Pro': ['Archangels, Angels Cards Pro', '6812596749341547033', '1,000+', 'http://www.serialmmf.com', 'info@serialmmf.com']}
+{'com.storytoys.Chuggington.Book1.Paid.GooglePlay': ['Chug Patrol Kid Train: Ready to Rescue!', '8762313232916265908', '5,000+', 'http://storytoys.com', 'support@storytoys.com']}
+{'com.cory79.dungeonworldhelper': ['Dungeon World Helper', 'Cory79', '100+', None, 'cory.webmail@gmail.com']}
+{'com.emojis.alpaca': ['Alpaca Emojis +', 'Stomper+Studios', '100+', 'http://www.alpacaemojis.com/contact', 'support@alpacaemojis.com']}
+{'com.coskami.PaintVR': ['PAINT VR', '5203628428290492633', '1,000+', 'https://www.facebook.com/coskami', 'info@coskami.com']}
+{'com.NevermindCreations.PlanechasePro': ['Planechase & Archenemy Pro (MtG Tool)', 'Nevermind+Creations', '1,000+', 'http://nevermindcreations.de', 'm@nevermindcreations.de']}
+{'com.mhill.irblaster': ['IR Blaster', 'Mike+B.+Hill', '1,000+', None, 'mikehillandroid@gmail.com']}
+{'processing.test.ghosthunter': ['Ghost Hunter 1.1', 'Subversive+Circuits', '500+', 'http://www.subversivecircuits.co.uk/', 'jon@subversivecircuits.co.uk']}
+{'com.polyraw.magicroomdd': ['Magic Room', 'Polyrawdevelopment', '1+', 'http://polyraw.mygamesonline.org', 'polyrawdevelopment@gmail.com']}
+{'com.virusoft.soundboardmemesmexicanosvip': ['Soundboard Memes Mexicanos VIP - SIN ANUNCIOS', 'ViruSoft', '10+', None, 'am_virues@hotmail.com']}
+{'io.kuprel.yahtzeescorecard': ['Triple Yahtzee Score Sheet', 'kuprel', '10+', 'https://www.freeprivacypolicy.com/privacy/view/b06a18ef3432fa05fe5702117ce40b5b', 'brkuprel@gmail.com']}
+{'com.mughal.foxstickers': ['Cutie Fox Stickers-WAStickerApps', 'anaspk', '100+', None, 'anasnoman494@gmail.com']}
+{'com.mari05lim.wastickers': ['WA Stickers Geek', '6315019760268946779', '500+', 'https://www.tandera.online/wafigurinhas', 'mariodev@outlook.com.br']}
+{'com.invotyx.pugliepro': ['Puglie Pro Stickers for Whatsapp', 'Blitz-apps', '10+', 'http://www.invotyx.com', 'appwemake@gmail.com']}
+{'com.the.infographicsshowapp': ['The Infographics Show', '8150905894284111596', '5+', 'http://www.gears.pt', 'geral@gears.pt']}
+{'retro.gg': ['Retro Game Gear Emulator', 'Crisp+Concept', '10+', 'http://CrispConcept.com/', 'zigmaj@gmail.com']}
+{'pdc.wmwatch.MagicalMoon': ['Magical Moon Watch Face', 'Cyndi+Mainolfi', '1+', 'http://pixeldreamscapecreations.com', 'pixeldreamscapecreations@gmail.com']}
+{'com.gluck.tsfnextadwsmartmulti.theme.leather.tattoo': ['TSF ADW Go Apex Next LAUNCHER LEATHER TATTOO THEME', 'SGluck', '100+', None, 'srecangluck@yahoo.com']}
+{'com.theappcompany.trumpclinton': ['Trump/Clinton Election Emojis', 'The+APP+Company', '10+', 'http://theappcompany.com', 'nickm@theappcompany.com']}
+{'com.emojiworld.baseball': ['Baseball Emojis by Emoji World', 'Emoji+World+Apps', '100+', 'http://www.emojiworlds.com', 'emojiworldapps@gmail.com']}
+{'com.foolsdog.legacydivine': ['Legacy of the Divine Tarot', 'The+Fool%27s+Dog', '100+', 'http://www.foolsdog.com/LegacyDivine/', 'support@foolsdog.com']}
+{'com.shellware.arpro3': ['AR.Pro 3 for Parrot Drones', '6333924170363447993', '10,000+', 'http://www.shellware.com/BlogEngine.Web/page/ar-pro-3-for-bebop-drones', 'shell@shellware.com']}
+{'com.lepidusdevelopment.mlgairhorn': ['MLG Air Horn Widget', 'Steven+Mattera', '100+', 'http://www.lepidusdevelopment.com', 'steven@lepidusdevelopment.com']}
+{'uk.co.orionbooks.ksiiaab': ['KSI: I Am a...', '7249408216959199104', '100+', 'http://www.ksi-app.com', 'support@o-mobile.co.uk']}
+{'ly.appt.vampify': ['Vampify - Be a VAMPIRE', '9160370153281633718', '1,000+', 'http://www.vampify.com/', 'contact@appt.ly']}
+{'net.imontana.BroncoBuilder': ['Bronco Builder', 'iMontana.net', '100+', 'http://www.imontana.net/broncobuilder', 'scottmorrison68@gmail.com']}
+{'com.monotype.android.font.lograinday': ['LogRainday™ Korean Flipfont', '4728843905962363624', '1,000+', 'http://www.flipfont.mobi', 'support@flipfont.mobi']}
+{'scorgex.developer.munchkinbestcounterPro': ['Munch counter PRO', 'Dmitriy+Neumoin', '500+', None, 'skorgex@gmail.com']}
+{'com.netflix.mediaclient': ['Netflix', 'Netflix,+Inc.', '500,000,000+', 'http://www.netflix.com', 'playstore@netflix.com']}
+{'com.google.android.play.games': ['Google Play Games', '5700313618786177705', '1,000,000,000+', 'http://play.google.com/store/apps/category/GAME', 'apps-help@google.com']}
+{'com.hulu.plus': ['Hulu: Stream TV, Movies & more', 'Hulu', '10,000,000+', 'http://www.hulu.com', 'mobilesupport@hulu.com']}
+{'com.amazon.avod.thirdpartyclient': ['Amazon Prime Video', 'Amazon+Mobile+LLC', '100,000,000+', 'http://www.primevideo.com', 'aiv-android-feedback@amazon.com']}
+{'com.bitstrips.imoji': ['Bitmoji – Your Personal Emoji', 'Bitstrips', '100,000,000+', 'https://www.bitmoji.com', 'bitmoji-support@snap.com']}
+{'com.tubitv': ['Tubi - Free Movies & TV Shows', '9005207387328486775', '10,000,000+', 'https://tubitv.com', 'support@tubi.tv']}
+{'tv.pluto.android': ['Pluto TV - It’s Free TV', 'Pluto,+Inc.', '5,000,000+', 'https://support.pluto.tv', 'support@pluto.tv']}
+{'paint.by.number.pixel.art.coloring.drawing.puzzle': ['Paint By Number - Free Coloring Book & Puzzle Game', '8186440931703540103', '5,000,000+', 'http://www.dailyinnovation.biz/privacy.html', 'paint_support@dailyinnovation.biz']}
+{'com.emoticon.screen.home.launcher': ['IN Launcher - Love Emojis & GIFs, Themes', 'ONE+App+Team', '10,000,000+', 'http://cdn.appcloudbox.net/launchergroup/apps/cookie/privacy.html', 'developer3@smoothapps.me']}
+{'com.roku.remote': ['Roku', 'Roku+Inc.', '10,000,000+', 'http://www.roku.com', 'feedback@roku.com']}
+{'com.google.android.apps.youtube.kids': ['YouTube Kids', '5700313618786177705', '50,000,000+', 'https://support.google.com/youtubekids', 'ytkids-support@google.com']}
+{'com.hello.CakeCookingShop': ['Cake Cooking Shop', 'Gina+Star', '1,000,000+', 'https://sites.google.com/view/gamesprivacypolicy', 'ginastarwork@hotmail.com']}
+{'tv.twitch.android.app': ['Twitch: Livestream Multiplayer Games & Esports', 'Twitch+Interactive,+Inc.', '50,000,000+', 'http://www.twitch.tv', 'android@twitch.tv']}
+{'fart.button.sound.meme.effect': ['Fart Sound Button', 'Meme+Button+Labs', '1,000,000+', 'https://strattonapps.com/privacy-policy/', 'bumtegompre@gmail.com']}
+{'com.microsoft.xboxone.smartglass': ['Xbox', '6720847872553662727', '10,000,000+', 'http://support.xbox.com', 'xboxonandroid@microsoft.com']}
+{'com.bydeluxe.d3.android.program.starz': ['STARZ', 'Starz+Entertainment,+LLC', '10,000,000+', 'http://www.starz.com', 'help@starz.com']}
+{'freemusic.offline.player.music.free.apps.songs': ['Free Music Player', 'Zenter+Team', '1,000,000+', 'https://docs.google.com/document/d/e/2PACX-1vTaNwjyx5Hupc1z-F-aKaKYLBO1xpyNQtFuzGqJ1c_4AFOy8K4Mlo_VxcEwGQaztYadwCBIBfhP-twD/pub', 'fadjar89y@outlook.com']}
+{'air.com.vudu.air.DownloaderTablet': ['Vudu Movies & TV', 'VUDU', '10,000,000+', 'http://forum.vudu.com/', 'googleplay@vudu.com']}
+{'ru.brothersappsandgames.smashdiyslimefidgetslimy': ['Smash Diy Slime - Fidget Slimy', 'Brothers+Apps+And+Games', '10,000,000+', 'https://docs.google.com/document/d/1e9wDNA2fk9SETfdRVJxZxuIHwNTOUS57BrZrjsaW_jw/edit', 'BrothersAppsAndGames@gmail.com']}
+{'com.inapp.no.paint.color.by.number.coloring': ['No.Paint - Relaxing Coloring games', 'incolor', '5,000,000+', 'http://www.incolor.cc', 'incolor.feedback@hotmail.com']}
+{'com.nbcuni.nbc': ['The NBC App', 'NBCUniversal+Media,+LLC', '5,000,000+', 'http://www.nbc.com', 'nbcappfeedback@nbcdigital.zendesk.com']}
+{'me.zepeto.main': ['ZEPETO', 'SNOW+Corporation', '10,000,000+', 'https://zepeto.me/', 'zepeto.me@gmail.com']}
+{'com.qrcorde.scan.barcode.reader.generator': ['Coreader- QR Code & Barcode Scanner', 'Coreader+Group', '1,000,000+', 'https://1drv.ms/w/s!Aobgc5rNjSd3cHsi-5Jya1R5fUs', 'coreaderfeedback@gmail.com']}
+{'com.hbo.hbonow': ['HBO NOW: Stream TV & Movies', 'HBO+NOW', '10,000,000+', 'http://order.hbonow.com', 'support@hbonow.com']}
+{'com.horoscope.palmmaster': ['Horoscope & Palm Master-Palm Scanner and Aging', 'Horoscope+Master+Team', '1,000,000+', 'http://d2prafqgniatg5.cloudfront.net/HoroscopeMaster/HoroscopePalmMaster_statement.html', 'horoscopepalmmaster@gmail.com']}
+{'com.secureappinc.movies': ['Movies Online for Free', 'Secure+App+Inc', '100,000+', 'http://www.secureappinc.com/usnews/privacy-policy/', 'secureappinc@gmail.com']}
+{'com.digidust.elokence.akinator.freemium': ['Akinator', '9041369024808341661', '100,000,000+', 'http://www.elokence.com', 'support.android@akinator.com']}
+{'faceapp.facereading.horoscope.zodica.signs.astrology': ['Face Secret – Face Reading, Beauty Scan, Horoscope', 'Voyage+Photo+Lab', '10,000,000+', 'http://resource.cdn.bbcget.com/soft/file/term/1272/FaceReading_privacy.html', 'Facereadingtech@gmail.com']}
+{'com.scee.psxandroid': ['PlayStation App', '5810481673801929430', '50,000,000+', 'http://www.playstation.com/support/', 'psapp-contact@hq.scei.sony.co.jp']}
+{'com.easy.cool.next.home.screen': ['Bolt Launcher - Charging Show & Themes', 'Color+Phone+Studios', '5,000,000+', 'http://cdn.appcloudbox.net/fingerstudioscom/apps/livephone/privacy.html', 'developer2@hyper-speed.net']}
+{'com.digitalattic.cpsalbertsons2018': ['Shop, Play, Win!® MONOPOLY', 'Digital+Attic', '500,000+', 'https://shopplaywincodes.com/', 'gamesupport@shopplaywincodes.com']}
+{'com.disney.datg.videoplatforms.android.watchdc': ['DisneyNOW – Episodes & Live TV', 'Disney', '5,000,000+', 'http://watchdisneychannel.go.com/help', 'support@disneyabc.zendesk.com']}
+{'com.cbs.app': ['CBS - Full Episodes & Live TV', 'CBS+Interactive,+Inc.', '10,000,000+', 'http://www.cbs.com', 'cbs-android-app-feedback@cbsinteractive.com']}
+{'com.TWCableTV': ['Spectrum TV', 'Charter/Spectrum', '5,000,000+', 'http://www.charter.net/support/tv/spectrum-tv-app/', 'SpectrumApp@charter.com']}
+{'com.beansprites.rainbowicecreampopsiclesFREE': ['Rainbow Ice Cream & Popsicles', 'Beansprites+LLC', '1,000,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.fox.now': ['FOX NOW: Watch Live & On Demand TV & Sports', 'Fox+Broadcasting+Company', '5,000,000+', 'http://ask.fox.com', 'support@fox.com']}
+{'com.gonoodle.gonoodle': ['GoNoodle - Kid Movement & Mindfulness Videos!', 'GoNoodle', '1,000,000+', 'https://www.gonoodle.com', 'hello@gonoodle.com']}
+{'com.cb.salonfashion': ['Braided Hairstyle Salon Fashion Stylist', 'Creative+Bee', '1,000,000+', 'https://docs.google.com/document/d/1pZBFfpOCnNjQ1TM3MoFPYOwtgGXFLd1batxb28YfOls/edit?usp=sharing', 'createfeedback.bee1@gmail.com']}
+{'com.xfinity.cloudtvr': ['Xfinity Stream', 'Comcast', '10,000,000+', 'http://xfinity.com/x1', 'Xfinity_TVApp@comcast.com']}
+{'com.davexp.dollify': ['Dollify', 'Dave+XP', '5,000,000+', 'https://www.instagram.com/dave.xp/', 'dollifyapp@gmail.com']}
+{'com.detector.lie.game.prank': ['Lie Detector Test Prank', '8524665212274194051', '10,000,000+', 'http://www.eijoy.com', 'labizuo@gmail.com']}
+{'com.dailyhoroscopeplus.tarotcard': ['Daily Tarot Plus 2019 - Free Tarot Card Reading', 'Tap+Genius+Ltd.', '500,000+', 'http://tgtgpr.appcloudbox.net/pc/new-privacy-android.html', 'developer2@tapgenius.me']}
+{'com.google.android.apps.youtube.unplugged': ['YouTube TV - Watch & Record Live TV', '5700313618786177705', '1,000,000+', 'http://tv.youtube.com', 'youtube-support@google.com']}
+{'com.directv.dvrscheduler': ['DIRECTV', 'DIRECTV,+LLC', '10,000,000+', 'http://forums.directv.com', 'DTVfeedback@att.com']}
+{'com.bongolight.pixelcoloring': ['Pixel Art: Color by Number, Pixel Color(Pixel Pop)', 'Magic+Arts', '1,000,000+', 'http://cdn.appcloudbox.net/magicarts/apps/androidpixel/privacy.html', 'magicart.feedback@gmail.com']}
+{'com.scannerradio': ['Scanner Radio - Fire and Police Scanner', 'GordonEdwards.net+LLC', '10,000,000+', 'http://support.gordonedwards.net', 'android-support@gordonedwards.net']}
+{'com.predict.horoscope.daily.zodiac.sign': ['Horoscope Pro -  Free Zodiac Sign Reading', 'Horoscope+Team', '1,000,000+', 'https://docs.google.com/document/d/1oa4nBgDJODczWuKnZAN3HvRKNzek3wMkEIiLW5poX0Y/edit?usp=sharing', 'horoscope.pro2019@gmail.com']}
+{'com.hd_box.popularmovies': ['Free Movies & Tv Shows', 'MegaMovies', '50,000+', 'https://sites.google.com/view/movies-shows-privacy', 'nickapps20@gmail.com']}
+{'com.gotv.crackle.handset': ['Sony\xa0Crackle\xa0–\xa0Free TV & Movies', 'Sony+Crackle', '10,000,000+', 'http://www.sonycrackle.com', 'support@sonycrackle.com']}
+{'com.voice.changer.effect': ['Voice Changer -Super Voice Effects Editor Recorder', '8288140978486338370', '1,000,000+', 'http://smartdroid.bitballoon.com', 'zanqujia@gmail.com']}
+{'com.nick.android.nickjr': ['Nick Jr. - Shows & Games', 'Nickelodeon', '1,000,000+', 'http://www.nickjr.com/appsupport/', 'appsupport@nickjr.com']}
+{'com.eventbrite.attendee': ['Eventbrite - Discover popular events & nearby fun', 'Eventbrite', '10,000,000+', 'https://www.eventbrite.com/support/articleredirect?anum=11001', 'support@eventbrite.com']}
+{'com.mcprohosting.beam': ['Mixer – Interactive Streaming', '6720847872553662727', '5,000,000+', 'https://mixer.com', 'support@mixer.com']}
+{'com.disney.datg.videoplatforms.android.abc': ['ABC – Live TV & Full Episodes', 'ABC+Digital', '5,000,000+', 'http://abc.go.com/faq', 'support@abcsupport.zendesk.com']}
+{'com.funnelvision.fgteev': ['FGTeeV Videos', 'Blobby+Fish', '100,000+', 'http://blobbyfish.com/', 'blobbyfishgames@gmail.com']}
+{'com.HBO': ['HBO GO: Stream with TV Package', 'Home+Box+Office+Inc.', '10,000,000+', 'https://help.hbogo.com/', 'hbogohelp@hbo.com']}
+{'com.cw.fullepisodes.android': ['The CW', 'The+CW+Network', '5,000,000+', 'https://support.cwtv.com', 'cwappfeedback@cwtv.com']}
+{'com.dotc.latin.ime.tap': ['Flash Keyboard Emoji', 'Flashkeyboard+Team', '10,000,000+', 'http://api.gamesta.info/Skinprivacy.html', 'flashkeyboardteam@gmail.com']}
+{'com.arcsys.tictactoe.lite.free.puzzle.games': ['Tic Tac Toe glow - Free Puzzle Game', '7105367870106447069', '10,000,000+', 'http://www.arclitebd.com', 'ihoque85@gmail.com']}
+{'com.nickonline.android.nickapp': ['Nick', 'Nickelodeon', '10,000,000+', 'http://nick.com/appsupport/', 'appsupport@nick.com']}
+{'com.outfit7.talkinggingerfree': ['Talking Ginger', '5630538819012062144', '100,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'wrong.correct.app.button.buzzer': ['Buzzer Answer Button', 'Meme+Button+Labs', '500,000+', 'https://strattonapps.com/privacy-policy', 'bumtegompre@gmail.com']}
+{'com.sling': ['Sling TV: Get Live TV Streaming for $25/mo', 'Sling+TV,+L.L.C.', '5,000,000+', 'http://sling.com', 'feedback@sling.com']}
+{'com.vizio.vue.launcher': ['VIZIO SmartCast Mobile™', 'VIZIO', '1,000,000+', 'http://www.vizio.com', 'customersupport@vizio.com']}
+{'ru.iprado.spot': ['Spot it: Find the Difference', '7105367870106447069', '10,000,000+', 'http://tinysoft.sk', 'support@tinysoft.sk']}
+{'button.man.slender.meme': ['Slender Man Button Meme', 'Meme+Button+Labs', '100,000+', 'https://strattonapps.com/privacy-policy/', 'bumtegompre@gmail.com']}
+{'com.repulimallocca.mcpe.girlfriend': ['Girlfriend Mod for Minecr', 'Allocca+Zekin', '1,000,000+', 'https://alloccazekin.blogspot.com/2018/09/privacy-policy.html', 'Louisengakilonse@yahoo.com']}
+{'air.horn.mlg.sound.board': ['Air Horn MLG Soundboard', 'Meme+Button+Labs', '100,000+', 'https://strattonapps.com/privacy-policy/', 'bumtegompre@gmail.com']}
+{'com.outfit7.talkingben': ['Talking Ben the Dog', '5630538819012062144', '100,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.lionsgate.pantaya': ['Pantaya', 'Pantaya', '1,000,000+', 'https://www.pantaya.com', 'dev@pantaya.com']}
+{'com.playstation.mobile2ndscreen': ['PS4 Second Screen', '5810481673801929430', '5,000,000+', 'http://www.playstation.com/support/', 'psapp-contact@hq.scei.sony.co.jp']}
+{'com.weaponsounds.gunsound.arma.weapons': ['100 Weapons: Guns Sound', '100+Weapons+-+GunsSound', '1,000,000+', 'https://sites.google.com/view/ScaryPhotoEditor', 'wangxialiang2018@gmail.com']}
+{'com.gamesentity.halloween.zombie.dead.target': ['Real zombie hunter - FPS shooting in Halloween', '4688201469897781893', '1,000,000+', 'https://www.gamesentity.com', 'info@gamesentity.com']}
+{'com.no.color': ['No.Pix - Color Pixel Art Coloring Book,Draw Number', '7148680220855906998', '10,000,000+', 'https://sites.google.com/view/ideafun/', 'SunTingqwe@gmail.com']}
+{'chat.piano.noir.tiles.magic.ladybug': ['Piano Ladybug Noir', '9148650151333826854', '5,000,000+', 'https://sites.google.com/view/incrediblesstudios/home', 'incrediblesgames@mail.com']}
+{'air.com.rosytales.cuteunicorncaringanddressup': ['Cute Unicorn Caring and Dressup', 'rosytales', '1,000,000+', 'http://www.rosy-tales.com', 'rosytalesdev@gmail.com']}
+{'com.turner.tnt.android.networkapp': ['Watch TNT', 'Turner+Entertainment+Networks', '1,000,000+', 'http://www.tntdrama.com/help.html', 'TBS.TNT.Apps@turner.com']}
+{'nl.dactec.cringesoundboard.cringesoundsboard': ['Cringe Soundboard', 'DacTec', '100,000+', 'http://www.dactec.nl', 'info@dactec.nl']}
+{'com.beansprites.ringpopscandyFREE': ['Ring Pop & Rock Candy Maker - Rainbow Cooking Kids', 'Beansprites+LLC', '100,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.royal.jay.pock': ['5000 Followers Plus', 'Denn+God', '100,000+', 'https://docs.google.com/document/d/1Hg4KskHQHcdY9i-hV3_sm7huDXu8f2wVsWcIhcecfcw/edit?usp=sharing', 'jaydenn247@gmail.com']}
+{'jackhil.pixel.art.masks.color.number': ['Color By Number Pixel Art Moonlight Hero', 'Jack+Hill+Dev', '500,000+', 'https://jackhilljh8.blogspot.com/2018/10/privacy-policy.html', 'Jackhilljh8@Gmail.Com']}
+{'com.watchmovieshd.mostreams': ['Watch Free Movies - Full Cinema HD', 'Movies+Stream+Dev', '100,000+', 'http://nujumpakbll.xyz/privacypolicy/index.html', 'hisefaeck005@gmail.com']}
+{'gov.ca.lot.caLotteryApp': ['CA Lottery Official App', 'CA+Lottery', '1,000,000+', 'http://www.calottery.com/contact-us', 'customerservice@calottery.com']}
+{'org.gamatech.androidclient.app': ['Atom Tickets - Movie Showtimes & Tickets', 'Atom+Tickets,+LLC', '1,000,000+', 'http://www.atomtickets.com', 'support@atomtickets.com']}
+{'com.berobo.android.police.radio.scanner.se': ['Police Radio Scanner SE', 'BEROBO+%28Police+Scanner+Radio%29', '1,000,000+', 'http://berobo.com', 'policescannerse@berobo.com']}
+{'com.androidrocker.voicechanger': ['Voice Changer', 'AndroidRock', '10,000,000+', 'http://arvoicechangerprivatepolicy.blogspot.com/2016/07/voice-changer-privacy-policy.html', 'androidrocker@163.com']}
+{'com.zombodroid.MemeGenerator': ['Meme Generator Free', '7550045746771355552', '10,000,000+', 'http://www.facebook.com/ZomboDroidMemeGenerator', 'zombodroid@gmail.com']}
+{'roblox.death.sound.piano': ['Pro  Roblox Oof Piano - Death Sound Meme Piano', '5264140848717714089', '1,000,000+', 'https://sites.google.com/view/kiffer-industries/home', 'number.plate.review@gmail.com']}
+{'com.xsasoftware.policecarsimulator': ['American Police Car Driving', 'xsasoftware', '1,000,000+', 'http://xsasoftware.com', 'xsasoftware@gmail.com']}
+{'com.verizon.fios.tv': ['Fios TV', 'Verizon+Services+Corp.', '500,000+', 'http://www.verizon.com', 'fiostvapps@one.verizon.com']}
+{'com.dpcorp.whyyoualwayslying': ['Why You Always Lying', 'DPCORP', '1,000,000+', 'https://docs.google.com/document/d/1cHetb4dHWwaJ-D9IRyuHbiGtNrp3zQf7y-U7Z6Lgck4/edit?usp=sharing', 'aleim16@gmail.com']}
+{'com.outfit7.gingersbirthdayfree': ['Talking Ginger 2', '5630538819012062144', '50,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.valvesoftware.android.steam.community': ['Steam', 'Valve+Corporation', '50,000,000+', 'http://store.steampowered.com/about/mobile', 'steamandroidapp@valvesoftware.com']}
+{'com.discovery.discoverygo': ['Discovery GO', 'Discovery+Communications', '1,000,000+', 'https://www.discoverygo.com/about', 'DGO_Feedback@discovery.com']}
+{'air.com.bmapps.gossipgirlsdivasinhighschool': ['Gossip Girls Divas in Highschool', 'bmapps', '10,000,000+', 'http://www.girlyplay.com/privacy-policy.html', 'raczandreinicolaedev@gmail.com']}
+{'air.net.chicworld.truckandcarwashingsalon': ['Truck and Car Washing Salon', 'Chic+World', '1,000,000+', 'http://www.chicworld.net', 'chicworlddev@gmail.com']}
+{'com.foodnetwork.watcher': ['Food Network', 'Television+Food+Network+G.P.', '1,000,000+', 'http://www.foodnetwork.com', 'app-watchfoodnetwork@foodnetwork.com']}
+{'com.ideafun.paint.book': ['Paint.Book: Color by number & Relaxing Game', '7148680220855906998', '100,000+', 'https://sites.google.com/view/ideafun/', 'SunTingqwe@gmail.com']}
+{'com.hulu.livingroomplus': ['Hulu for Android TV', 'Hulu', '1,000,000+', 'http://hulu.com/plus', 'support@hulu.com']}
+{'com.babymariagames.puppypetdaycare': ['Puppy Pet Daycare', 'Baby+Maria+Games', '5,000,000+', 'https://privacypolicybabymaria.blogspot.com', 'babymariagame@gmail.com']}
+{'com.weaseldev.goat': ['Screaming Goat Air Horn', 'Weasel', '500,000+', 'http://weaselzone.com', 'dev@weaselzone.com']}
+{'com.game.talking.cat': ['Talking Cat', '5246300199446996632', '100,000+', 'http://timeslily.com/privacy-policy-for-talking-pet/', 'carmichael894156@gmail.com']}
+{'com.ryzenrise.thumbnailmaker': ['Thumbnail Maker for YouTube Videos', 'ryzenrise', '1,000,000+', 'http://www.wisharcbuilder.com', 'ryzengchang@gmail.com']}
+{'com.vmn.android.comedycentral': ['Comedy Central', 'Comedy+Central', '1,000,000+', 'http://www.cc.com/', 'help@cc.com']}
+{'com.cyberstep.toreba.android': ['Crane Game Toreba', 'CyberStep,+Inc.', '1,000,000+', 'http://www.toreba.net', 'info+android@toreba.net']}
+{'com.sms.littlecare': ['Little Mermaid Baby Care Ocean World', 'Sweet+Maker+Shop', '500,000+', 'https://docs.google.com/document/d/1jwjxclSNKv1QYR1DjzUJmHQxB57rmqRj-mdRA8R2nFA/edit?usp=sharing', 'feedback.sweet99maker@gmail.com']}
+{'com.apps4you.lighter': ['Virtual Lighter', '7713713929802184825', '5,000,000+', 'http://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.science.yarnapp': ['Yarn - Chat Fiction', 'Science+Mobile+LLC', '5,000,000+', 'https://mammoth.la/apps/moreinfo/', 'hello@yarnapp.co']}
+{'com.just4fun.virtualcola': ['Virtual Cola drinking', '7713713929802184825', '5,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.boomerang.boomerangapp': ['Boomerang', 'Boomerang', '1,000,000+', 'https://www.boomerang.com', 'support@boomerang.com']}
+{'com.nexttechgamesstudio.food.logos.sandbox.number.coloring.book.color.by.number.pixel.art': ['Food Logo Color by Number: Pixel Art Coloring Book', '7283749095064262617', '500,000+', 'https://web.facebook.com/notes/next-tech-games-studio/next-tech-games-studio-short-form-mobile-privacy-policy/290810591413723/?_rdc=1&_rdr', 'ayshawahhab@gmail.com']}
+{'com.love.match53': ['Great Love Calculator', 'Rich+Developer+Team+X', '10,000+', 'https://waplog.com/home/privacy_policy', 'melihovapps98@gmail.com']}
+{'com.appsogen.meme.creator': ['Meme Generator - Create funny memes', 'Generic+Apps', '1,000,000+', 'https://docs.google.com/document/d/18QNMTrEsL2LbRQ6CRR0zs2qpzi5fj1koRS9DS8BrOls/pub', 'appsogen@gmail.com']}
+{'com.uproargames.memesoundboard2017': ['Meme Soundboard 2019', '6289768667756396269', '1,000,000+', 'http://zeptars.com', 'contact@zeptars.com']}
+{'com.cinemark.mobile': ['Cinemark Theatres', 'Cinemark+USA,+Inc.', '1,000,000+', 'https://www.cinemark.com/contact-us', 'sitesupport@cinemark.com']}
+{'com.viki.android': ['Viki: Korean Drama, Movies & Asian TV', 'Viki,+Inc', '10,000,000+', 'https://www.viki.com', 'help@viki.com']}
+{'com.wikia.singlewikia.fortnite': ['Fandom for: Fortnite', '8251921813603442996', '1,000,000+', 'http://fandom.com', 'apps@wikia-inc.com']}
+{'com.sandbox.coloring.numbercoloring.game.free': ['InDraw - Color by Number Pixel Art', 'ColorFun+Games', '1,000,000+', 'https://sites.google.com/view/sandbox-coloring-book', 'hi@colorfungames.com']}
+{'com.ubisoft.uplay': ['Ubisoft Club', '4647998716943242763', '1,000,000+', 'http://uplay.com/', 'android.support@ubisoft.com']}
+{'smart.tv.wifi.remote.control.samcontrol': ['Remote for Samsung TV | Smart & WiFi Direct', 'Backslash', '5,000,000+', 'https://www.freeprivacypolicy.com/privacy/view/7da59e6e6cfff68aaf6b8722da185f45', 'backslashou@gmail.com']}
+{'com.gamelead.street.archer.run': ['Street Archer Run', 'GameLead', '5,000,000+', 'http://www.gameleadx.com', 'gamelead223@gmail.com']}
+{'peanut.button.rapper.jelly.banana': ['Rapper Banana Jelly Meme Button', 'Meme+Button+Labs', '100,000+', 'https://strattonapps.com/privacy-policy', 'bumtegompre@gmail.com']}
+{'org.retropixel.GhostRadarDetector': ['Ghost Detector Radar Simulator', '5580023962412385785', '1,000,000+', 'https://firstclassmedia.co', 'support@firstclassmedia.co']}
+{'com.movies.shows.hdi': ['HD Movies  2019', 'appnovia', '10,000+', None, 'appskillers19@gmail.com']}
+{'com.arkeo.prx.dixiehorn': ['Dixie Horn', 'Arkeo', '100,000+', 'http://prxmedia.nl/privacypolicy3.html', 'remkom14@gmail.com']}
+{'com.google.android.apps.youtube.gaming': ['YouTube Gaming', '5700313618786177705', '10,000,000+', 'https://gaming.youtube.com', 'youtube-support@google.com']}
+{'com.colorjoy.Learn.to.draw.glow.flowers': ['Learn To Draw Glow Flower', 'ColorJoy', '1,000,000+', 'http://coloring.hk/colorjoy_privacy.html', 'eyewind.org@hotmail.com']}
+{'com.mandg.funny.rollingicon': ['Rolling icons - App and photo icons', 'mandgFunny', '5,000,000+', 'http://www.mandgtech.com/', 'mandgtech@126.com']}
+{'com.fakecallkidspolice': ['Fake Call Kids Police', 'GameAndro', '1,000,000+', 'https://hihrjobs.wixsite.com/gameandro/privacy-policy', 'gameandrosupp@gmail.com']}
+{'button.till.dead.dance.your': ['Dance TIll Your Dead Dog Button', 'Meme+Button+Labs', '100,000+', 'https://strattonapps.com/privacy-policy', 'bumtegompre@gmail.com']}
+{'com.hamilton.app': ['Hamilton — The Official App', 'Hamilton+Uptown+LLC', '500,000+', 'https://hamiltonmusical.com', 'appsupport@baselinetheatrical.com']}
+{'com.meniapps.loudpolice.sirensound.policesiren.light': ['Loud Police Siren Sound - Police Siren Light', 'NomiDroid', '1,000,000+', 'https://docs.google.com/document/d/1YozhrFkLeq7sholq7IqhiqRhEiZGkZAKDB1eZU1zpnk/edit?usp=sharing', 'qaisershieko@gmail.com']}
+{'com.lory.HiddenObjects.EnchantedForest.Free.Game': ['Enchanted Forest Of The Fantasy World', '8193574052088468807', '100,000+', 'https://loryapps.com/', 'support@loryapps.com']}
+{'com.poly.art.coloring.color.by.number': ['LoPoly –  Puzzle art game', 'Color+Apps+For+Free', '5,000,000+', 'https://sites.google.com/view/colorappsforfree', 'color.app.feedback@hotmail.com']}
+{'de.twokit.video.tv.cast.browser.lg': ['Video & TV Cast | LG Smart TV - HD Video Streaming', '6284879872961307001', '1,000,000+', 'http://video-tv-cast.com/lg-smart-tv', 'info@video-tv-cast.com']}
+{'com.craftblockstudio.modsforminecraftpe': ['Mods for Minecraft PE', '5713672414955811747', '1,000,000+', 'https://vk.com/multi_craft_studio', 'multicraft.studio@mail.ru']}
+{'com.dvd.kryten': ['DVD Netflix', 'DVD.com,+a+Netflix+Company', '100,000+', 'https://dvd.netflix.com', 'androidhelp@dvd.com']}
+{'com.siwalusoftware.dogscanner': ['Dog Scanner', 'Siwalu+Software', '500,000+', 'http://www.siwalusoftware.com', 'dogscanner@siwalusoftware.com']}
+{'com.tgif.girly.lock.screen.wallpaper.with.quotes': ['Girly Lock Screen Wallpaper with Quotes', '6636036929415414830', '10,000,000+', 'https://thaliadev.wixsite.com/thaliaapps', 'tgifthalia@gmail.com']}
+{'com.hoteltarvr': ['Hotel Transylvania 3 Virtual Reality Activity App!', 'Sony+Pictures+Home+Entertainment', '50,000+', 'http://www.sonypictures.com/mobile', 'app_support@spe.sony.com']}
+{'com.bluesky.best_ringtone.free2017': ['Free Ringtones 2019', 'Time+Cable', '5,000,000+', 'https://sites.google.com/view/privacy-policy-of-time-cable', 'crystahoger25@gmail.com']}
+{'com.nbcu.tve.bravo': ['Bravo', 'NBCUniversal+Media,+LLC', '500,000+', 'http://www.bravotv.com/faq', 'support@nbctve.zendesk.com']}
+{'com.talking.smileys': ['Talking Smileys: Animated Emojis & Cute Emoticons', 'DTIdeas', '100,000+', 'https://get-talking-smileys.com', 'danopost@live.com']}
+{'com.magicfluids.demo': ['Magic Fluids Free', '6174288693947257956', '5,000,000+', 'http://www.madscientist.pl/', 'magicfluids@madscientist.pl']}
+{'com.mametlabs.freeskin': ['Daily Free Skins for Battle Royale 2019', '7835850181725537221', '10,000+', 'https://sites.google.com/view/free-skin/beranda', 'mamet.labs@gmail.com']}
+{'com.pokemon.pokemonplayhouse': ['Pokémon Playhouse', 'The+Pok%C3%A9mon+Company+International', '1,000,000+', 'http://www.pokemon.com', 'pokemonusa@gmail.com']}
+{'com.bouncetv.apps.network': ['Bounce TV', 'Brown+Sugar:', '500,000+', 'http://www.bouncetv.com', 'support@bouncetv.com']}
+{'to.button.meme.be.continued': ['To Be Continued Button Meme', 'Meme+Button+Labs', '100,000+', 'https://strattonapps.com/privacy-policy/', 'bumtegompre@gmail.com']}
+{'net.hereisalistofbestfreemovieapponandroid.entertainedthroughyourmobiledevices.FREEMOVIEAPPSTOWARCh': ['MOVIES for FREE Movie + TV Apps Player', 'Ninja+Project+INC', '10,000+', None, 'pramuditho69@gmail.com']}
+{'com.nexttechgamesstudio.guns.voxel.pixel.art.color.by.number.coloring.book': ['Guns 3D Color by Number - Weapons Voxel Coloring', '7283749095064262617', '100,000+', 'https://www.facebook.com/notes/next-tech-games-studio/next-tech-games-studio-short-form-mobile-privacy-policy/290810591413723/?_rdc=2&_rdr', 'ayshawahhab@gmail.com']}
+{'org.sneath.dadjokes': ['Dad Jokes', 'Tim+Sneath', '100,000+', None, 'tim@sneath.org']}
+{'in.fulldive.shell': ['Fulldive VR - Virtual Reality', 'Fulldive+VR+App+%26+Browsing+apps', '5,000,000+', 'http://fulldive.com', 'support@fulldive.com']}
+{'com.spinthewheeldecider': ['Spin The Wheel - Random Picker', 'Trs+Games+%26+Apps', '100,000+', 'http://spinthewheel.app', 'contact@spinthewheel.app']}
+{'com.colorpixart.glitter.colorbynumber.happy.free.game': ['Glitter Color by Number Free Game', '6264027101562187795', '50,000+', 'https://www.colorpixart.com', 'colorpixart@gmail.com']}
+{'net.topmessaging.freetextnow.textingetcall': ['Free Text Now - Calling And Texting App', 'Text+Droid+Labs', '50,000+', None, 'rimelhassouni2018@gmail.com']}
+{'de.twokit.video.tv.cast.browser.samsung': ['Video & TV Cast | Samsung TV - HD Movie Streaming', '6284879872961307001', '5,000,000+', 'http://video-tv-cast.com/samsung-smart-tv', 'info@video-tv-cast.com']}
+{'com.kayenworks.mcpeaddons': ['Addons for Minecraft', 'Kayen+Works', '1,000,000+', 'https://kayenworks.com/mcpeaddons/privacy.html', 'addons@kayenworks.com']}
+{'com.energystar.app': ['New HD Movies 2019', 'Energy+Star', '10,000+', 'https://privacypolicies.com/privacy/view/79d869c2b4b43b60c9af1018937d7573', 'ariningcintiawulandari@gmail.com']}
+{'net.flixster.android': ['Movies by Flixster, with Rotten Tomatoes', 'Flixster+Inc.', '10,000,000+', 'http://www.fandango.com/privacypolicy', 'android@flixster-inc.com']}
+{'com.scaryhorroreditor.photocreation': ['Scary Masks Photo Editor Halloween Horror', 'Ultimative+Developer+Face+Whats+2016', '500,000+', None, 'vanessabruehter@gmail.com']}
+{'com.SuperpowerFXEffects.SpecialEffectsForPictures': ['Super Power Photo Effects - Superhero Photo Editor', 'New+Creative+Apps+for+Adults+and+Kids', '1,000,000+', 'https://aleksjankovic91.wixsite.com/newcreativeapps/privacy-policy', 'aleksjankovic91@gmail.com']}
+{'com.funnyring.ringtone_free.for_android': ['Ringtones Free For Android', 'Ringtone+Downloader', '100,000+', 'https://sites.google.com/view/privacy-policy-ringdownloader/', 'malvinatoline89@gmail.com']}
+{'com.bettermods.minecraft.mods.pixelmon': ['Pixelmon Mod for Minecraft', 'Better+Mods', '1,000,000+', 'https://sites.google.com/view/ourcompany-privacy', 'bettermods1989@gmail.com']}
+{'button.knuckles.ugandan.meme': ['Ugandan Knucles Button Meme', 'Meme+Button+Labs', '100,000+', 'https://strattonapps.com/privacy-policy', 'bumtegompre@gmail.com']}
+{'com.lyxoto.master.forminecraftpe': ['Block-Master for Minecraft PE (Pocket Edition)Free', 'Lyxoto+Studios', '1,000,000+', 'https://www.iubenda.com/privacy-policy/11005282', 'dev.alexche@gmail.com']}
+{'com.sprint.fng': ['Sprint Spot', 'Sprint', '10,000,000+', 'http://www.sprint.com/support', 'spot_support@mobitv.com']}
+{'com.luzajkb.toptoyreviewvideo': ['Top Toy Review', 'Toy+Review+Studio', '50,000+', 'http://ladiapp.com', 'hoangtiennam0109@gmail.com']}
+{'com.pixite.pigment': ['Pigment - Adult Coloring Book', 'Pixite+LLC', '1,000,000+', 'http://pigmentapp.co', 'android@pigmentapp.co']}
+{'com.maxprod.dadjokes': ['Dad Jokes', 'Max+Prod.', '10,000+', 'https://sites.google.com/view/funny-jokes-privacy-policy/', 'maxproductions.contact@gmail.com']}
+{'com.tvguidemobile': ['TV Guide', 'TV+Guide', '1,000,000+', 'http://www.tvguide.com/', 'TVGOLAndroidFeedback2@tvguide.com']}
+{'air.com.winkypinky.DaisyBunnyDivaLife': ['Daisy Bunny', '5641067919817566915', '1,000,000+', 'http://www.winkypinky.com', 'winkypinkdev@gmail.com']}
+{'com.bundawall.marshmellowwbesthdwallpaper': ['999+ Marshmellow Wallpaper HD Pictures 4k', 'Bluar+Creation', '50,000+', 'https://bluarcreation.blogspot.com/p/privacy-policy.html', 'udinrozaki@gmail.com']}
+{'aestheticphotoeditor.vaporwavephotostickers': ['Aesthetic Photo Editor: Vaporwave Stickers', 'Magic+Photo+Lab', '500,000+', 'https://magicphotolabnew.wixsite.com/mysite', 'magicphotolabnew@gmail.com']}
+{'com.Stenson.AnimateIt': ['Animate it!', 'Stenson', '5,000,000+', 'http://animateit.ru/', 'pavelg73@mail.ru']}
+{'com.dramafever.shudder': ['Shudder', 'Digital+Store+LLC', '100,000+', 'http://www.shudder.com', 'support-de@shudder.com']}
+{'com.harman.ble.jbllink': ['JBL Connect', 'Harman+Consumer,+Inc.', '1,000,000+', 'http://www.jbl.com', 'appsupport@harman.com']}
+{'com.inapp.incolor': ['InColor - Coloring Book for Adults', 'incolor', '1,000,000+', 'http://www.incolor.cc', 'incolor.feedback@hotmail.com']}
+{'com.ryzenrise.storyhighlightmaker': ['Highlight Cover Maker for Instagram Story', 'ryzenrise', '1,000,000+', 'http://www.wisharcbuilder.com', 'ryzengchang@gmail.com']}
+{'com.bbg.nyc.city.crime.cops.gang.wars': ['NYC City Crime Cops Gang Wars', 'Black+Birds+Games', '100,000+', 'http://blackstargameofficial.blogspot.com/2018/07/introduction-black-star-game-makes-fun.html', 'feedbackblackstar@gmail.com']}
+{'bmf.bongo.cat': ['Bongo Cat - Musical Instruments', 'BlueManFive', '1,000,000+', 'https://cdn.rawgit.com/BlueManFive/PrivacyPolicy/196149b2/privacy_policy_bongo.html', 'bluemanfive@protonmail.com']}
+{'apps.movie': ['HD Movies Now | TV Show, LIVE TV & Originals', 'CellCare+Developers', '1,000,000+', 'http://www.e-droid.net/privacy.php?ida=191609&idl=en', 'shiyaspk84@gmail.com']}
+{'com.nexttechgamesstudio.logos.sandbox.number.coloring.book.color.by.number.pixel.art': ['Logo Color by Number - Pixel Art, Sandbox Coloring', '7283749095064262617', '500,000+', 'https://web.facebook.com/notes/next-tech-games-studio/next-tech-games-studio-short-form-mobile-privacy-policy/290810591413723/?_rdc=1&_rdr', 'ayshawahhab@gmail.com']}
+{'ru.gamingapps7.supersequinsimulatordiyflip': ['Super Sequin Simulator - DIY Flip', 'Gaming+Apps+7', '5,000,000+', 'https://docs.google.com/document/d/1lIWuRw8JfZYq08FIEY_W373Hboj4nd1NOsHOO4PmbLI/edit', 'GamingApps777@gmail.com']}
+{'com.fidgetspinnercoloringbookfromuv.android': ['Fidget Spinner Coloring Book & Drawing Game', 'UVTechnoLab', '1,000,000+', 'http://uvtechnolab.com', 'uvtechnolab@gmail.com']}
+{'com.quidd.quidd': ['Quidd - Collect Stickers, Cards, GIFs, & MORE!', 'Quidd+Inc.', '1,000,000+', 'http://www.myquidd.com', 'support@myquidd.com']}
+{'com.cw.seed.android': ['CW Seed', 'The+CW+Network', '1,000,000+', 'https://support.cwtv.com', 'cwappfeedback@cwtv.com']}
+{'com.lsecars.Theodd1sout_Soundboard_free': ['TheOdd1sOut Soundboard', '7165599939364126283', '50,000+', 'https://privacypolicies.com/privacy/view/b9f792478212d45c5cbc68e288b9a021', 'homelesstimmysbadgames@gmail.com']}
+{'like.follow.tag': ['Real Followers for Instagram', 'Time+New', '500,000+', 'https://newtime1.wordpress.com/2017/11/06/first-blog-post/', 'newtime116@gmail.com']}
+{'com.techsoftin.gammerswallpaper': ['Wallpaper for Gamers 4K', 'TechSoftIN', '1,000,000+', 'http://adbuxx.com/privacypolicy', 'vidsharerequest@gmail.com']}
+{'aup.baixar.musicas.gratis': ['AUP Download free browser', 'Baixar+gr%C3%A1tis', '10,000,000+', 'http://www.baixargratis.co/', 'migflores82@gmail.com']}
+{'com.future.king.areyousureaboutthat': ['Are You Sure About That Button', 'FutureKing', '50,000+', None, 'futureking.business@gmail.com']}
+{'com.rhythmnewmedia.tmz': ['TMZ', 'Warner+Bros.+International+Enterprises', '1,000,000+', 'http://www.tmz.com', 'googleplay.support@tmz.com']}
+{'com.wonderfulgames.halloweencatthemepark3d': ['Halloween Cat Theme Park 3D', 'Wonderful+Games+AG', '1,000,000+', 'http://www.facebook.com/wonderfulgamesag', 'info@wonderfulgames.com']}
+{'com.firemarkstudio.bongocatmusicalinstruments': ['Bongo Cat Musical Instruments', 'Fire+Mark+Studio', '100,000+', None, 'firemarkstudio@gmail.com']}
+{'com.google.vr.apps.ornament.content.stickers.avengers': ['Playground:\u2008Marvel Studios Avengers', 'Developed+with+Google', '100,000+', 'https://developers.google.com/ar/', 'apps-help@google.com']}
+{'com.ethinkstore.hiddenfeelings': ['Hidden Feeling -Quotes Images Collection', 'E+Think+Store', '100,000+', 'http://ethinkstore.blogspot.com/', 'ethinkstore31@gmail.com']}
+{'de.twokit.video.tv.cast.browser.roku': ['Video & TV Cast | Roku Remote & Movie Stream App', '6284879872961307001', '1,000,000+', 'http://video-tv-cast.com/roku', 'info@video-tv-cast.com']}
+{'com.mustread': ['Mustread Chat Story: Scary Stories, Ghost Stories', 'Wowmaking', '500,000+', 'https://wowmaking.net/', 'publisher@wowmaking.net']}
+{'com.landon.callvideoclown.googlelite': ['Video Call from Killer Clown', '5283307072452267974', '1,000,000+', 'http://dualverse.com', 'contact@dualverse.com']}
+{'com.battle.royale.fortnitesemotes.fort.nites.dances.emotes': ['Funny Dance Emotes Season 6 For Battle Royale', 'COM+Dance+Emotes+SS6', '500,000+', 'https://sites.google.com/view/danceemotespolicy', 'BTP.danceemotes.LLC88@gmail.com']}
+{'com.incorporateapps.fakegps.fre': ['Fake GPS GO Location Spoofer Free', '6068445124664238197', '10,000,000+', 'http://incorporateapps.com/privacy/mobile-privacy-policy-fake-gps-free.html', 'support@incorporateapps.com']}
+{'com.wastedbutton.gtasounds': ['Wasted Sound Button', 'AndroNerd+Industries', '100,000+', 'https://tinyurl.com/y8dohgtc', 'peterernter123@gmail.com']}
+{'com.udirc.director': ['Protocol Director APP', 'Protocol', '100,000+', 'http://www.protocolny.com', 'info@protocolny.com']}
+{'com.outfit7.talkingangelafree': ['Talking Angela', '5630538819012062144', '100,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.iboattech.doll': ['Cute Doll Avatar Maker: Make Your Own Doll Avatar', 'iBoattech', '50,000+', 'https://iboattech.blogspot.com/2018/11/privacy-policy.html', 'gamemaster2018@163.com']}
+{'com.huya.nimo': ['Nimo TV – Play. Live. Share.', 'Nimo+TV', '5,000,000+', 'http://nimo.tv', 'feedback@nimo.tv']}
+{'com.splice.ludwigvonpoopen.daesoundboard': ['Daequan Soundboard', 'Splice+Studios', '1,000,000+', None, 'yohaw1@gmail.com']}
+{'com.snowpackstudios.realghostdetector': ['Real Ghost Detector - Radar', '7102336573067106468', '1,000,000+', 'http://snowpackstudios.com', 'snowpackstudios@gmail.com']}
+{'com.piviandco.agingbooth': ['AgingBooth', 'PiVi+%26+Co', '10,000,000+', 'http://www.piviandco.com', 'androidfeedback@piviandco.com']}
+{'com.caesars.playbytr': ['Caesars Rewards', 'Caesars+Entertainment', '500,000+', 'https://www.caesars.com/myrewards', 'Totalrewards@custhelp.com']}
+{'live.videostar.app': ['Video Star - Real short videos', 'Pinoless+Doo', '50,000+', 'http://videostar.live', '8797550@qq.com']}
+{'tv.remote.control.sonytv': ['TV Remote for Sony TV (WiFi & IR remote control)', 'Dev+Null', '1,000,000+', 'https://eibicidiii.000webhostapp.com/tv.remote.control.sonytv/', 'eibicidiii@gmail.com']}
+{'ru.coder1cv8.snake': ['Money or Death - snake attack!', '9164312557033604636', '1,000,000+', 'http://ogurecapps.blogspot.com', 'coder1cv8@gmail.com']}
+{'com.africasunrise.skinseed': ['Skinseed for Minecraft', 'Africa+Sunrise', '1,000,000+', 'https://skinseedapp.com/', 'contact@africasunrise.com']}
+{'selfie.photo.apps.costumeconstructiontoys': ['Costume Ninja - Construction Toys', 'Selfie+Photo+Apps', '100,000+', 'https://docs.google.com/document/d/17Phqvzwfe8vS4XNvMmuZzrd_gKetfiFNFV2844nr1vw/edit?usp=sharing', 'selfiephotoapps@gmail.com']}
+{'com.nexttechgamesstudio.princess.hair.saloon.color.by.number': ['Hair Saloon Color by Number - Girls Fashion Games', '7283749095064262617', '500,000+', 'https://web.facebook.com/notes/next-tech-games-studio/next-tech-games-studio-short-form-mobile-privacy-policy/290810591413723/?_rdc=1&_rdr', 'ayshawahhab@gmail.com']}
+{'com.piupiuapps.coloringbynumbersunicorns': ['Unicorn Color by Number', 'Piu+Piu+Apps', '50,000+', 'http://piupiuapps.com', 'piupiuapps@gmail.com']}
+{'mobi.byss.voxelator': ['Voxly - Color by Number 3D', '7690092173980578394', '5,000,000+', 'http://byss.mobi', 'mk@byss.mobi']}
+{'com.Rubiconjeep.channelapp': ['Classic Cartoon Channel', 'Taman+Langit+Studio', '50,000+', 'https://docs.google.com/document/d/1WjX0BKRj-UikEIZTbhqdmHJ1oD-BVeD7nTqMGj6q6KM/edit?usp=sharing', 'aburizki7@gmail.com']}
+{'com.laugh.talking.kids': ['Talking Kids', '5246300199446996632', '50,000+', 'http://timeslily.com/privacy-policy-for-talking-pet/', 'carmichael894156@gmail.com']}
+{'com.kidga.pathman': ['Paxman', '6924435167672710117', '100,000+', 'http://kidga.com', 'kidga.games.lt@gmail.com']}
+{'com.tozelabs.tvshowtime': ['TV Time - #1 Show Tracker', 'Toze+Labs', '5,000,000+', 'http://www.tvtime.com', 'support@tvtime.com']}
+{'com.setodio.fortload': ['Guide for Fortnite ( BattleRoyale )', 'Setodio', '500,000+', 'https://docs.google.com/document/d/1GgYaI7CXmuhjUqRVqN0RBlrP4xXegjcr7x9MBdcUFFQ/edit?usp=sharing', 'setodio.com@gmail.com']}
+{'com.xycore.BabyMaker': ['Baby Maker: predicts baby face', 'xyCore', '1,000,000+', 'http://xycore.weebly.com', 'xycore01@gmail.com']}
+{'sounds.buttons.hagayy': ['Ha! Gayy Sound Button', 'Web.Apps', '10,000+', 'https://sites.google.com/view/illuminationsoundbutton', 'nlazmi@gmail.com']}
+{'com.ratara.ffm': ['Free Full Movies', 'Ratara+Studios', '10,000+', 'https://ratarastudiosprivacypolicy.blogspot.com/2018/12/privacy-policy-last-updated-dec-10-2018.html', 'ratara.apps@gmail.com']}
+{'com.microsoft.xboxone.smartglass.beta': ['Xbox beta', '6720847872553662727', '1,000,000+', 'http://support.xbox.com', 'xboxonandroid@microsoft.com']}
+{'com.turndownforwhat.soundbuttons': ['Turn Down For What Button: Thug Life Sounds', 'Andre+Neuber', '100,000+', 'https://tinyurl.com/yb9tvpc2', 'andre.neuber85@gmail.com']}
+{'net.yeastudio.colorfil': ['ColorFil - Adult Coloring Book', '5754805195306006507', '5,000,000+', 'http://www.yeastudio.net', 'help@yeastudio.net']}
+{'ee.kaader.colortouch': ['Color Touch Free', 'Ragnar+Vutt', '1,000,000+', None, 'ragnar.vutt@gmail.com']}
+{'skidannet.characters': ['How to draw cartoon characters', 'SkidanNet', '500,000+', 'https://yadi.sk/i/8BX4qayAe6l0pg', 'alekskidan@gmail.com']}
+{'com.magicdoodleart.quickdrawingapp': ['Doodle Art: Magic Drawing App', '5726034089055626621', '500,000+', 'https://www.peaksel.com/', 'PeakselGames@gmx.com']}
+{'com.crema.instant': ['Instant Buttons: The Best Soundboard', 'CremaApps', '10,000,000+', 'http://www.cremagames.com', 'cremaapps@gmail.com']}
+{'com.sharif.funnyringtone': ['Super Funny Ringtones App', 'SHARIF+APP', '10,000+', 'https://docs.google.com/document/d/1EW32Z6P0m1kH65fJKwmXZMe-wtfPY2mde6wrimsnwjI/edit', 'sharifbennett84@gmail.com']}
+{'com.zeptars.soundbuttons2': ['100 Sound Buttons 2', '6289768667756396269', '500,000+', 'http://zeptars.com', 'contact@zeptars.com']}
+{'kamehameha.dragon.button.sound.meme': ['Kamehameha Effect Button KI', 'Meme+Button+Labs', '50,000+', 'https://strattonapps.com/privacy-policy', 'bumtegompre@gmail.com']}
+{'com.philo.philo': ['Philo Edu', 'Philo,+Inc.', '100,000+', 'http://philo.com/', 'support@philo.com']}

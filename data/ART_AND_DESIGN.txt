@@ -1,0 +1,512 @@
+{'com.patrick.cheese.photo': ["St.Patrick's Day Live Wallpaper HD", 'TOP5+Wallpaper+HD', '500+', 'https://github.com/idolFirstScreen/privacyPolicy/blob/master/privacyPolicy', 'goldsmartcorp@gmail.com']}
+{'com.wp.seasoneight': ['Battle Royale Wallpapers HD (Season 8)', 'Nameless+Studios', '500+', None, 'namelesss.studios@gmail.com']}
+{'com.coloring.book.drawing': ['Colorico — Coloring Book for Adults and kids', 'Draw+To+Learn+Games', '100+', 'http://privacy-policy.mozello.com/blog/', 'drawtolearngames@gmail.com']}
+{'adelsow.sonicexe.wallpapers': ["Art Sonic'exe Wallpapers", 'Liz+Pavao', '1,000+', 'https://sites.google.com/view/ljdiiz', 'millhouse271@gmail.com']}
+{'com.mindmaxfondos.acefamilywallpaper': ['Ace Family HD Wallpaper', 'mindmax', '500+', 'https://sites.google.com/view/arbahokdemo/privacy-policy', 'mindmax.basi@gmail.com']}
+{'com.animate.goanimate': ['GoAnimate', 'Waqar+Studio', '1,000+', None, 'waqar008009@gmail.com']}
+{'stitch.wallpapershd.poskarob': ['Stitch Wallpapers HD', 'melstonge5', '1,000+', 'https://sites.google.com/view/magadani', 'melstonge5@gmail.com']}
+{'com.mindmaxfondos.vyqwaintwallpaper': ['Vy Qwaint and Chad Wild Clay Wallpaper HD', 'mindmax', '100+', 'https://sites.google.com/view/arbahokdemo/privacy-policy', 'mindmax.basi@gmail.com']}
+{'com.pixel.art.unicorn.panda.cartoon.book.coloring.color.number': ['Unicorn Panda Pixel Art - Number Coloring Books', 'kdraa', '5,000+', 'https://sites.google.com/view/unicronn/trang-ch%E1%BB%A7', 'kdraa.games@gmail.com']}
+{'io.fnx.draw': ['Drawing References: Portraits and Poses', 'fnx.io', '1,000+', 'https://www.drawingreferencesapp.com/', 'support@fnx.io']}
+{'keyboard.theme.k820016480': ['Diamond RIP Skull Keyboard Theme', 'Glossy+Themes+Launcher', '10,000+', 'http://penmousedesigntech.com', 'glossythemes@gmail.com']}
+{'com.winricklabs.pixmap_client': ['Pixmap: Pixel Art Editor MMO', 'winrickLabs', '500+', 'http://winricklabs.com', 'pixmapwinricklabs@gmail.com']}
+{'com.bestwalls.superheroesartwork': ['Superheroes Artworks HD & 4K Wallpapers', 'Apphics+Technologies', '500+', 'http://apphicssuperheroswallpapers.xyz/privacy_policy.html', 'bestwalls.xyz@gmail.com']}
+{'com.VanguardStudio.jakepaulwallpaper': ['Jake Paul Wallpaper HD', 'VangguardInc', '100+', 'https://vangguardinc.blogspot.com/2019/02/privacy-policy.html', 'hasiltawaduk@gmail.com']}
+{'com.iboattech.avatar.cute': ['Cute Avatar Maker: Make Your Own Cute Avatar', 'iBoattech', '1,000+', 'https://iboattech.blogspot.com/2018/11/privacy-policy.html', 'gamemaster2018@163.com']}
+{'com.launcher.theme3d.t600003104': ['Neon Butterfly Lotus Glitter Theme', 'Glossy+Themes+Launcher', '5,000+', 'http://penmousedesigntech.com', 'glossythemes@gmail.com']}
+{'com.bible.cheese.photo': ['Bible Screen - Bible Verses Auto Changer Screen', 'TOP5+Wallpaper+HD', '100+', 'https://github.com/idolFirstScreen/privacyPolicy/blob/master/privacyPolicy', 'goldsmartcorp@gmail.com']}
+{'keyboard.theme.k820016683': ['Neon Polysphere Keyboard Theme', '5634546613748420065', '100+', 'http://penmousedesigntech.com', 'penmousedesigntech@gmail.com']}
+{'com.redberry.colorkitchentoolv2': ['Kitchen Cooking Coloring - kids Coloring Game', '6938298709975174416', '10,000+', 'https://redberrygames.blogspot.com/2018/10/privacy-policy-redberry-games-we.html', 'helmotawakil5@gmail.com']}
+{'com.bts.jungkook.kpop.livewallpaper.pro': ['BTS Live Wallpaper - BTS Live Photo 2019', '0.69', '5,000+', 'http://hanh.com', 'hanhta03@gmail.com']}
+{'kpop.btsarmy.jungkook.wallpaper.hd': ['BTS Wallpapers KPOP - BTS Wallpaper 2019', 'Alexander+Galstyan', '5,000+', 'http://dantri.com.vn', 'o31yxzzb5w@mailinator.com']}
+{'theme.abstract.galaxy.fold.wallpaper': ['Theme for galaxy\xa0fold change\xa0your smartphone FREE', 'xuzuoqin', '1,000+', 'https://sites.google.com/view/xuzuoqim9306/', 'xuzuoqin9306@gmail.com']}
+{'com.bkbrosstudio.Fruitcoloring': ['Fruit Coloring Book & Learn to Draw Glow', '6163901925804830786', '5,000+', 'https://moabgames007.blogspot.com/2018/11/privacy-policy-bkbros-studio-we.html', 'lhamidymostafa@gmail.com']}
+{'juryriginc.ben10wallpapers': ['Ben 10 Omniverse Wallpaper', 'vanshanu+raj', '1,000+', None, 'rajsamiksha3@gmail.com']}
+{'com.PaulGeorge.wallpapers.images.pictures': ['Paul George Wallpapers', 'Latest+DIY', '100+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'com.VanguardStudio.rebeccazamolowallpaper': ['Rebecca Zamolo Wallpaper HD', 'VangguardInc', '50+', 'https://vangguardinc.blogspot.com/2019/02/privacy-policy.html', 'hasiltawaduk@gmail.com']}
+{'com.edenapp.edenkapp.edenkap': ['Chad wild Wallpapers | Backgrounds HD', 'Edenkapp', '100+', 'https://sites.google.com/view/edenkapp', 'edenkapp@gmail.com']}
+{'bustling.modern.city.live.wallpaper': ['Bustling modern city live wallpaper', 'gaopei', '1,000+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'theme.colorful.bright.huawei.mate.x.fold.beautiful.classic.launcher.wallpaper': ['Theme for Mate X shine\xa0at\xa0your android device NOW', 'xuzuoqin', '1,000+', 'https://sites.google.com/view/xuzuoqin9306/', 'xuzuoqin9306@gmail.com']}
+{'jojosiwawallpaper.itsjojosiwa.selfiewithjojosiwa': ["Selfie with Jojo Siwa - It'sJojoSiwa", 'Relax+Mind+Ever', '100+', 'https://relexminds.blogspot.com/2019/02/privacy-policy-relax-mind-apps.html', 'relaxmindever@gmail.com']}
+{'com.DEVRYAN.spongebob': ['How To Draw Cartoon Characters', 'DEV+RYAN', '1,000+', 'https://privacypolicies.com/privacy/view/3c139700d26f0d915ae576d5ded9ae8e', 'bloodreaper456@gmail.com']}
+{'theme.animal.abstract.colorful.neon.butterflies.launcher.wallpaper': ['Abstract colorful neon butterflies theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'theme.fantasy.sci.fi.moon.lake.natural.night.wallpaper.launcher': ['Fantasy bright moon night and lake natural theme', 'songyan', '500+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'theme.colorful.bright.abstract.flower.petals.neon.launcher.wallpaper': ['Colorful abstract flower petals neon bright theme', 'wangyuanyuan', '500+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'theme.lovely.smart.blurry.yellow.kitten.animal.pet.launcher.wallpaper': ['Lovely smart blurry yellow kitten animal pet theme', 'wangyuanyuan', '500+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'theme.cute.hand.drawn.ice.cream.illustration.launcher.wallpaper': ['Cute theme Hand drawn ice cream illustration', 'wangyuanyuan', '500+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'com.grande.cheese.photo': ['Ariana Grande Wallpapaer & Music', 'TOP5+Wallpaper+HD', '100+', 'https://github.com/idolFirstScreen/privacyPolicy/blob/master/privacyPolicy', 'goldsmartcorp@gmail.com']}
+{'keyboard.ricksanchez': ['Rick Sanchez Keyboard', 'Cube+Inc', '100+', 'https://docs.google.com/document/d/1Nac63LVo1RWDjl-Xfi59kTiPU83zZy9Di0SzL_en6UE/edit?usp=sharing', 'Dreamstudio1007@gmail.com']}
+{'com.enovo.brucelee': ['Bruce Lee Wallpapers', 'ENOVO', '50+', 'https://sites.google.com/view/privacypolicybrucelee', 'sasuki162212@gmail.com']}
+{'com.drawingapp.narutovol4': ['Naruto Step Draw Vol 4', '8494578054926941034', '10+', 'http://www.codelistpro.com', 'aerogames49@gmail.com']}
+{'com.woodworking.projects.thatsell': ['Woodworking Projects That Sell', 'WoodProjects', '10+', 'https://docs.google.com/document/d/1jSeatIsiZwKsiF36TONqLf8DP8WwzNpPddyjQdpc5W0/edit?usp=sharing', 'sonialacobacoba@gmail.com']}
+{'theme.space.galaxy.in.the.darkness.hands.holding.planet.launcher.wallpaper': ['Abstract space galaxy hands holding planet theme', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.emotion.feeling.ear.wallpaper.cute.zebra.launcher': ['Ear Wallpaper Pretty Cute Pink Zebra theme', 'songyan', '100+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'soy.wallpaper.luna': ['Soy Luna Wallpapers HD 4K', 'Utilities++App', '500+', 'https://sites.google.com/view/soyluna-wallpaper/home', 'k06736chan@gmail.com']}
+{'theme.abstract.simple.dandelion.pink.minimal.wallpaper': ['Crystal pink dandelion flower theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'com.drawingapp.narutovol1': ['Naruto Step Draw Vol 1', '8494578054926941034', '50+', 'http://www.codelistpro.com', 'aerogames49@gmail.com']}
+{'com.BenSimmons.wallpapers.images.pictures': ['Ben Simmons Wallpapers', 'Latest+DIY', '10+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'theme.pink.hand.drawn.cute.natural.landscape.wallpaper.launcher': ['Pink hand drawn cute theme | natural landscape', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.flower.plant.rose.circling.shaped.flower.wallpaper': ['Colorful Circling shaped flower theme', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'abstract.ethereal.white.landscape.live.wallpaper': ['Abstract ethereal white landscape live wallpaper', 'guoxiashi', '1,000+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'theme.emotion.feeling.red.dew.female.charm.wallpaper': ['Dew drops on pink petals flower theme', 'tingtingtheme', '50+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.abstract.neon.streamer.smooth.gradient.phone.launcher.wallpaper': ['Abstract neon streamer smooth gradient phone theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'com.coloring.valentine.love': ['Love Coloring Pages 2019', '6899156217157872611', '100+', 'https://coloringbookappplay.blogspot.com/p/privacy-policy-coloring-app-builds-this.html', 'mewahrumah0@gmail.com']}
+{'com.loldolls.House.surprisedolls': ['Lol Dolls House!', 'JAGAME+LOL+Dolls', '10+', 'https://suportjaber.wordpress.com/2018/11/27/privacy-policy/', 'aj1670773@gmail.com']}
+{'com.draw.supersaiyangoku': ['How to Draw Super Saiyan Characters in DBZ', 'Nubenu', '100+', 'https://docs.google.com/document/d/1M_WCEqObJVAOIwG4KWDdr8dR0-z07qT5FLuszCXQf2w/edit?usp=sharing', 'ibnun569@gmail.com']}
+{'theme.rose.flower.beautiful.natural.water.love.wallpaper.launcher': ['Rose theme | flower beautiful natural water love', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'beautiful.cosmic.nebula.live.wallpaper': ['Beautiful cosmic nebula live wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'com.coloring.kpop.bts.blackpink': ['oppa doll coloring pages', '6899156217157872611', '500+', 'https://coloringbookappplay.blogspot.com/p/privacy-policy-coloring-app-builds-this.html', 'mewahrumah0@gmail.com']}
+{'theme.pets.animal.creative.design.art.character.love.wallpaper': ['Creative design art character love theme', 'songyan', '500+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'com.DerrickRose.wallpapers.images.pictures': ['Derrick Rose Wallpapers', 'Latest+DIY', '50+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'com.desainpisau.salwadeveloper': ['knife design', 'salwadeveloper', '100+', None, 'bayikecobong22@gmail.com']}
+{'com.warrior.marblewithquotewallpapershd': ['Marble Wallpapers With Quotes', 'Wallpaper+Warrior', '10+', 'https://wallpaperwarrior.blogspot.com/2019/02/privacy-policy-for-app-from-wallpaper.html', 'wallpaper.warrior@gmail.com']}
+{'theme.sports.game.wonder.woman.fan.arts.andriod.wallpaper': ['Bling Queen theme Wonder woman fan art', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.natural.abstract.cartoon.galaxy.blue.sky.nature.launcher.wallpaper': ['Abstract cartoon galaxy blue sky nature theme', 'wangshuai', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'wangshuai8801@gmail.com']}
+{'theme.space.galaxy.nebula.blue.light.future.wallpaper.launcher': ['Space galaxy theme | nebula blue light future', 'songyan', '50+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'theme.construction.building.bright.sea.landscape.wallpaper': ['Landscape Bright Light Building Sea theme', 'songyan', '100+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'theme.animals.beast.pet.cute.bird.eating.fruits.launcher.wallpaper': ['Animal cute bird eating fruits theme', 'xiayuzuo', '500+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.lonely.moon.blue.space.galaxy.launcher.starry.sky.wallpaper': ['Lonely Theme Blue Space Galaxy triangle', 'tingtingtheme', '500+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'fleurica.drawing.book.kids': ['Coloring Book', 'Fleurica', '100+', 'https://www.fleurtechnologies.com/', 'fleuricaapps@gmail.com']}
+{'spectacular.red.blue.nebula.live.wallpaper': ['Spectacular red blue nebula live wallpaper', 'guoxiashi', '100+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'com.video.soyluna.wallpaper.draw': ['Soy Luna World', 'Drawing+Group+Limited', '100+', 'https://sites.google.com/view/soylunaworld', 'sarahhollow0000@gmail.com']}
+{'com.itzy.cheese.photo': ['ITZY Wallpaper HD KPOP', 'TOP5+Wallpaper+HD', '1,000+', 'https://github.com/idolFirstScreen/privacyPolicy/blob/master/privacyPolicy', 'goldsmartcorp@gmail.com']}
+{'com.VanguardStudio.kylerandmadwallpaper': ['Kyler and Mad Wallpaper HD', 'VangguardInc', '5+', 'https://vangguardinc.blogspot.com/2019/02/privacy-policy.html', 'hasiltawaduk@gmail.com']}
+{'live.wallpaper.eiffel.tower.night.light.show.launcher': ['Eiffel Tower Night Light Show Live Wallpaper', 'guoxiashi', '1,000+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'theme.high.tech.cropped.colorful.fog.smoke.blurry.red.blue.tech.launcher.wallpaper': ['Colorful fog blurry red and blue tech theme', 'songyan', '10+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'theme.fashion.skull.bone.pop.white.beard.wallpaper': ['Fashion  White Beard Skull Bone Theme', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'com.jojosiwahd.wallpaper2019': ['jojo siwa wallpaper HD 2019', 'sunshineapps', '10+', None, 'mouniapplication@gmail.com']}
+{'theme.abstract.simple.smooth.gradient.business.simple.launcher.wallpaper': ['Abstract smooth gradient business simple theme', 'songyan', '100+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'com.howtodraw.dbz.entertainmentspot': ['How To Draw Goku Anime', 'The+Entertainment+Spot', '100+', 'https://sites.google.com/view/entertainment-spot-privacy/', 'lucas.para93@gmail.com']}
+{'theme.sea.beach.fantasy.boy.most.beautiful.night.wallpaper': ['Fantasy boy under most beautiful night theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'liive.wallpaper.waterfall.nature.scenery.launcher': ['Waterfall nature scenery live wallpaper', 'yushu', '50+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'yushu9306@gmail.com']}
+{'theme.abstract.cabin.valley.illustration.launcher.wallpaper': ['Cartoon anime inn in the valley Abstract theme', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.natural.sunrise.in.the.sea.shining.sunshine.launcher.wallpaper': ['Nature sunrise in the sea shining sunshine theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'live.wallpaper.underwater.world.turtle.sea': ['Underwater World Live Wallpaper | Turtle sea', 'yushu', '50+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'yushu9306@gmail.com']}
+{'live.wallpaper.anime.girl.white.skirt': ['Anime Girl Live Wallpaper in White Skirt', 'gaopei', '10+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'com.rinbowrangerk.tlg': ['Rainbow Rangers Coloring Book', 'J-A', '10+', 'http://www.ossoce.com', 'jaaydi.abdelkhaleq@gmail.com']}
+{'live.wallpaper.pink.love.cute.launcher': ['Pink Love Cute Live Wallpaper', 'guoxiashi', '1,000+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'dangerous.shark.catching.live.wallpaper': ['Dangerous shark catching up live wallpaper', 'guoxiashi', '100+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'live.wallpaper.flying.peach.blossom.launcher': ['Flying peach blossom live wallpaper', 'guoxiashi', '500+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'com.StephenCurry.wallpapers.images.pictures': ['Stephen Curry Wallpapers', 'Latest+DIY', '50+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'theme.beautiful.natural.scenery.mountain.lake.launcher.wallpaper': ['Beautiful natural scenery mountain lake theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'theme.abstract.simple.hand.painted.green.lush.forest.launcher.wallpaper': ['Hand painted green lush forest theme', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.train.station.sunset.landscape.wallpaper.launcher': ['Train station theme in the sunset | landscape', 'tingtingtheme', '500+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'com.DemarDerozan.wallpapers.images.pictures': ['DeMar DeRozan Wallpapers', 'Latest+DIY', '10+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'shining.starry.purple.galaxy.live.wallpaper': ['Shining Starry Purple Galaxy Live Wallpaper', 'gaopei', '50+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'color.water.drops.vibrate.live.wallpaper': ['Color water drops vibrate live wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'city.romance.night.light.lake.theme': ['City of Romance Theme Night Light', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'com.justcreativeclub.kawaiischoolsuppliescoloringbook': ['Cute Kawaii School Supplies Coloring Book', 'Just+Creative+Club', '50+', 'https://sites.google.com/view/justcreativeclub/home', 'justcreativeculub@gmail.com']}
+{'com.philosofy.nvn.philosofy': ['Philosofy', 'NvN', '10+', None, 'thenvnsahu@gmail.com']}
+{'theme.colorful.night.starry.galaxy.outdoor.light.wallpaper.launcher': ['Colorful night starry galaxy theme | outdoor light', 'xiayuzuo', '50+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.colorful.purple.starry.sky.launcher.wallpaper': ['Colorful theme Purple starry sky', 'tingtingtheme', '10+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.abstract.art.system.default.green.linear.wallpaper.launcher': ['Abstract art theme | system default green linear', 'tingtingtheme', '1,000+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'com.wallpop.soynnluna': ['Soy Luna Wallpaper HD', '4781977509318117935', '100+', 'https://blogkubloging.blogspot.com/2018/07/wallpaper-permission-privacy-policy.html', 'langserbasatu@gmail.com']}
+{'com.Woodworking.Projects.plans2': ['Woodworking Projects Plans 2', 'WoodProjects', '10+', 'https://docs.google.com/document/d/1jSeatIsiZwKsiF36TONqLf8DP8WwzNpPddyjQdpc5W0/edit?usp=sharing', 'sonialacobacoba@gmail.com']}
+{'theme.natural.fascinating.scenery.pure.lake.stone.launcher.wallpaper': ['Nature fascinating scenery pure lake stone theme', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.graffiti.street.art.Chinese.landscape.painting.art.wallpaper': ['Chinese Landscape Painting Art theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'theme.emotion.feeling.a.stitching.square.dog.drawing.wallpaper': ['Staying cute dog theme art drawing', 'qiaohun', '50+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'anime.plant.rose.bloom.live.wallpaper': ['Anime Plant Rose Bloom Live Wallpaper', 'guoxiashi', '50+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'app.catalog.maker.alpi': ['Alpi online catalog maker – catalog maker app', 'Faradata', '100+', 'http://faradatagroup.com/', 'info@faradatagroup.ir']}
+{'com.pixel.streetl.art.anime': ['Pixel Art Street Fighter', 'Nice+Food+LTD', '10+', 'https://sites.google.com/view/pixel-art-street-fighter', 'jjjjimmy2468@gmail.com']}
+{'com.DAVIS.DAVISARAPP2019': ['DAVIS AR 2019 - Architecture', 'DAVIS', '1+', 'http://www.thedavisexperience.com', 'mdoty@thedavisexperience.com']}
+{'theme.romantic.lovers.with.cats.cartoon.anime.launcher.wallpaper': ['Romantic lovers with cats cartoon anime theme', 'wangshuai', '10+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'wangshuai8801@gmail.com']}
+{'theme.pets.animal.neon.mask.wallpaper': ['Magic art boy mask neon theme', 'qiaohun', '50+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'com.awesomewallpapers.ReyMysterio': ['Rey Mysterio Wallpapers', 'Awesome_Wallpapers', '10+', 'https://sites.google.com/view/awesomewallpapersapps/your-page-title', 'muproleatnu@gmail.com']}
+{'com.gta.hellboy.angels.crime': ['Satan Devil Adventure: Less Angels Crime City', 'Huy+Bang+Nguyen', '10+', 'https://unity3d.com/legal/privacy-policy', 'bangnh0@gmail.com']}
+{'theme.charming.beautiful.girl.female.sexy.lady.launcher.wallpaper': ['Charming beautiful girl female sexy lady theme', 'qiaohun', '50+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'com.LaliluleloDeveloper.EverAfterHighWallpapers': ['Ever After High Wallpapers', 'Treban+Daleg', '100+', 'https://tosallforapp.blogspot.com/2019/01/privacy-policy.html', 'trebandaleg@gmail.com']}
+{'com.howtodraw.mylittlepony2.entertainmentspot': ['How To Draw Equestria Pony Girls', 'The+Entertainment+Spot', '50+', None, 'lucas.para93@gmail.com']}
+{'learntodraw.drawpokemon.pokemon': ['Learn How to Draw Pokemon Step by Step', 'Draw+Pokemon+%26+Cartoon+Step+by+Step', '10+', None, 'socialrock04@gmail.com']}
+{'com.coloring.food.ham.panecake': ['Food Coloring Pages', '6899156217157872611', '10+', 'https://coloringbookappplay.blogspot.com/p/privacy-policy-coloring-app-builds-this.html', 'mewahrumah0@gmail.com']}
+{'theme.animals.beast.pet.cute.naughty.two.cats.wallpaper': ['Animal theme Cute naughty two cats', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.graffiti.pineapple.lemon.illustration.launcher.wallpaper': ['Graffiti art theme Pineapple lemon wallpaper', 'xiayuzuo', '50+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.colorful.cutting.geometry.launcher.wallpaper': ['Colorful theme Cutting geometry', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'com.ChadWild_Best.Wallpapers_HD': ['Best Wallpapers for Chad Wild HD 2019', 'JafART', '5+', 'http://ibnuaplikasi.blogspot.com', 'Ulilaplikasi@gmail.com']}
+{'theme.emotion.feeling.pink.cupcake.dessert.food.wallpaper': ['Pink Cupcake Dessert food theme', 'wangyuanyuan', '100+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'theme.cartoon.girl.galaxy.cute.bling.pretty.wallpaper.launcher': ['Cartoon girl theme | galaxy cute bling pretty', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.emotion.feeling.luxury.elegant.white.racing.cool.car.launcher.wallpaper': ['Luxury elegant white racing cool car theme', 'songyan', '500+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'com.JrSmith.wallpapers.images.pictures': ['JR Smith Wallpapers', 'Latest+DIY', '5+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'com.FeliceDev.JaehyunNCTwallpaperHD': ['Jaehyun NCT wallpaper HD', 'FeliceDev', '50+', 'http://felicedev.blogspot.com/2018/10/privacy-policy-felice-dev.html', 'rusliferlianto@gmail.com']}
+{'inyanreturns.apphowtodrawcars': ['How to Draw Cars', 'bafomet', '10+', 'https://docs.google.com/document/d/19mTGQlLD9O2AFFmun42kBcaU5Tj4rdfIrV1O6pISX00/edit?usp=sharing', 'librovichandrey@gmail.com']}
+{'com.irmastudio.Superherocoloring': ['Superhero Coloring', 'Irma+Studio', '50+', 'https://docs.google.com/document/d/e/2PACX-1vSsHNgDtMqDvzdzklEsODzhWKcE0wFvyHMS_OYDMp4HCuxFRZxSWtQdXvZuLcaK8q9RmavOKxlFUczJ/pub', 'irma.way012@gmail.com']}
+{'name.art.focus.filter': ['Name art focus filter effects', 'Yajurved+Developers', '1,000+', 'https://sites.google.com/view/yajurved004privacy', 'yajurved004developers@gmail.com']}
+{'darkness.galaxy.star.love.live.wallpaper': ['Darkness galaxy star love live wallpaper', 'guoxiashi', '100+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'keyboard.theme.k820016415': ['Love Diamond Glitter Clock Keyboard Theme', 'Arts+Themes+Launcher', '1,000+', 'http://penmousedesigntech.com', 'info@penmousedesigntech.com']}
+{'com.mindmaxfondos.OdellBeckhamJrWallpapers': ['Odell Beckham HD wallpaper', 'mindmax', '10+', 'https://sites.google.com/view/arbahokdemo/privacy-policy', 'mindmax.basi@gmail.com']}
+{'com.lawdev.wallpaperdororo': ['Wallpaper Dororo for free', 'LawDev', '500+', 'https://lawdevprivacypolicy.blogspot.com/2019/01/privacy-policy.html', 'myfela300@gmail.com']}
+{'cool.water.drops.ripples.live.wallpaper': ['Cool water drops ripples live wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'theme.flower.crisp.green.aloe.plant.launcher.wallpaper': ['Flower theme Crisp green aloe', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.cute.beautiful.hand.drawn.girl.launcher.wallpaper': ['Cute theme Beautiful hand drawn little girl', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.war.fight.peace.cool.red.car.street.light.wallpaper': ['Cool red car under the street light theme', 'xiayuzuo', '500+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'com.biduthuhi.itzy.wallpaper': ['ITZY - Best wallpaper 2019 2K HD Full HD', 'Biduthuhi+Studio', '500+', 'https://biduthuhi.github.io/privacypolicy/itzy-wallpaper', 'biduthuhi@gmail.com']}
+{'theme.flower.plant.rose.pure.and.elegant.lotus.bloom.launcher.wallpaper': ['Pure and elegant lotus bloom theme', 'songyan', '100+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'com.VinceCarter.wallpapers.images.pictures': ['Vince Carter Wallpapers', 'Latest+DIY', '10+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'com.KevinDurant.wallpapers.images.pictures': ['Kevin Durant Wallpapers', 'Latest+DIY', '50+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'theme.colorful.bright.lake.surface.light.natural.light.wallpaper.launcher': ['Colorful lake surface theme | light natural light', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.abstract.flying.dandelion.illustration.launcher.wallpaper': ['Abstract theme Flying dandelion illustration', 'songyan', '100+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'theme.flower.hand.painted.symmetrical.flower.launcher.wallpaper': ['Flower theme Hand Painted Symmetrical flower', 'wangyuanyuan', '100+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'beautiful.flower.petals.rain.live.wallpaper': ['Beautiful flower petals rain live wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'com.launcher.theme3d.t600003166': ['Burning Fire Lion Gravity Theme', 'Arts+Themes+Launcher', '1,000+', 'http://penmousedesigntech.com', 'info@penmousedesigntech.com']}
+{'com.wastickerapps.holi_stickers': ['Holi Stickers For WhatsApp 2019 - WAStickerApps', '7528193460434906619', '100+', None, 'mytechworld4@gmail.com']}
+{'com.AntonioBrowns.wallpapers.images.pictures': ['Antonio Brown Wallpapers', 'Latest+DIY', '1+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'com.Raphtalians.whydontwewallpaper': ["Why Don't We Wallpapers HD", 'Raptalians', '10+', 'https://raptalians.blogspot.com/p/blog-page.html', 'blendidatur@gmail.com']}
+{'theme.hand.pink.astronaut.star.wallpaper': ['Hand Drawing Pink Astronaut Star theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'colorful.brilliant.fluorescent.smoke.live.wallpaper': ['Colorful brilliant fluorescent fog live wallpaper', 'gaopei', '5+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'com.materialviewinc.drawamericandollgirls': ['How To Draw American Doll Girls', '7231017060480621835', '100+', 'https://www.instagram.com/materialviewinc/', 'developer-support@materialviewinc.com']}
+{'com.draw.footballclublogo': ['How to Draw Football Club Logos Easily', 'Nubenu', '100+', 'https://docs.google.com/document/d/1M_WCEqObJVAOIwG4KWDdr8dR0-z07qT5FLuszCXQf2w/edit?usp=sharing', 'ibnun569@gmail.com']}
+{'com.Frostpeakgames.SNABLAB': ['SNABLAB', 'Liz+Frost', '50+', 'https://frostdragonliz.itch.io/', 'lizfrostdragon@gmail.com']}
+{'theme.emotion.leaf.anime.beautiful.girl.wallpaper': ['Beautiful Anime Autumn Girl Leaf theme', 'xiayuzuo', '50+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.high.tech.cool.shining.high.speed.racing.car.launcher.wallpaper': ['Cool shining high speed racing car theme', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'theme.aurora.snow.blue.light.natural.earth.wallpaper.launcher': ['Aurora Snow Theme | blue light natural earth', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'com.Bushracreative.kimtaehyuunggkpoppp': ['Kim Taehyung BTS V Wallpapers Kpop HD New', 'Bushracreative', '10+', None, 'Bushracreative@gmail.com']}
+{'com.CarmeloAnthony.wallpapers.images.pictures': ['Carmelo Anthony Wallpapers', 'Latest+DIY', '10+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'rolling.clouds.live.wallpaper': ['Rolling clouds live wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'net.posix.rdcstickersapp': ['RDC Stickers - WAStickerApps', 'POSIX+Inc.', '100+', 'https://www.posix-inc.net/', 'contact@posix-inc.net']}
+{'com.Priceless_BedroomPhotoFrame_NewImageMaker2019': ['Bedroom Photo Frame_New Image Maker', 'Priceless+Apps+Studio', '1,000+', 'https://pricselessappsstudio.blogspot.com/2019/01/priceless-apps-studio-ltd.html', 'manik.smnazrulislam@gmail.com']}
+{'com.agileapps.HowToDrawTattoosShapes': ['Learn how to draw tattoos shapes step by step', 'Agile+Apps+Solution', '10+', None, 'agileappsdev@gmail.com']}
+{'blue.tech.ball.bright.live.wallpaper': ['Blue tech ball bright live wallpaper', 'guoxiashi', '100+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'theme.space.galaxy.nebula.shining.star.andriod.wallpaper': ['Space galaxy theme shining star', 'wangyuanyuan', '100+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'chodev.wallpapper.com.pantspattern': ['Pants Pattern', 'Chodev+Design', '100+', 'https://docs.google.com/document/d/e/2PACX-1vSCUFRS9QqCvkazVIFdaXlbWvhKQRA4iaT8Lc3rAOGWf1npwoWeKuxKTrQJxuZGy9XDiCQqB5MXnGNT/pub', 'abdulmufit503@gmail.com']}
+{'cool.polygon.deep.in.the.beam.live.wallpaper': ['Cool polygon deep in the beam live wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'theme.colorful.astronaut.falling.deep.space.launcher.wallpaper': ['Colorful theme Astronaut falling into deep space', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'com.rndev.cutesuperheroes': ['How To Draw Superheroes Cute', 'RNdev', '10+', None, 'muhammadraihan.mr2@gmail.com']}
+{'com.zezo.logomaker': ['Logo Maker - Create Your Logo', '5752362033137841935', '100+', 'https://sites.google.com/view/zezoo/privacy-policy', 'zeidan614@gnail.com']}
+{'theme.beautiful.flower.red.purple.plant.natural': ['Beautiful flower theme | Red purple Plant Natural', 'wangyuanyuan', '100+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'com.free.woodworking.plans2019': ['Free Woodworking Plans 2019', 'WoodProjects', '10+', 'https://docs.google.com/document/d/1jSeatIsiZwKsiF36TONqLf8DP8WwzNpPddyjQdpc5W0/edit?usp=sharing', 'sonialacobacoba@gmail.com']}
+{'cool.laser.ripple.live.wallpaper': ['Cool laser ripple live wallpaper', 'gaopei', '50+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'crystal.water.drops.vibrate.abstract.live.wallpaper': ['Crystal Water Drops Vibrate Live Wallpaper', 'gaopei', '500+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'theme.colorful.aurora.fantasy.lake.night.sky.wallpaper.launcher': ['Colorful aurora theme | fantasy lake night sky', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.natural.earth.plant.green.nature.flowers.love.life.hope.launcher.wallpaper': ['Plant green nature flowers love life hope theme', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'theme.cool.anime.cartoon.girl.fantasy.launcher.wallpaper': ['Cool anime cartoon girl fantasy theme', 'xiayuzuo', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'xiayuzuo@gmail.com']}
+{'grassland.snowy.mountains.live.wallpaper': ['Grassland and snowy mountains live wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'simple.abstract.lines.live.wallpaper': ['Simple abstract lines live wallpaper', 'yushu', '10+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'yushu9306@gmail.com']}
+{'cute.year.animal.catching.ball.live.wallpaper': ['Cute animal catching ball live wallpaper', 'guoxiashi', '10+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'flowing.starry.sky.live.wallpaper': ['Flowing starry sky live wallpaper', 'gaopei', '10+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'com.drawingapp.narutovol3': ['Naruto Step Draw Vol 3', '8494578054926941034', '10+', 'http://www.codelistpro.com', 'aerogames49@gmail.com']}
+{'com.drawingapp.narutovol7': ['Naruto Step Draw Vol 7', '8494578054926941034', '10+', 'http://www.codelistpro.com', 'aerogames49@gmail.com']}
+{'beautiful.natural.building.sunset.live.wallpaper': ['Beautiful Natural Building Sunset live wallpaper', 'gaopei', '10+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'com.kamenrider.wallpapergood': ['Super Kamen Wallpaper Hero', 'Jodie+W+Stabinski', '100+', 'https://www.app-in-minutes.com/application/privacypolicy?id=5b72256415a40', 'pantastidak658@gmail.com']}
+{'justcreativeclub.learnhowtodraw.cutesweetfooddessertscakes': ['Learn to Draw Sweet Food, Desserts & Cakes', 'Just+Creative+Club', '5+', 'https://sites.google.com/view/justcreativeclub/home', 'justcreativeculub@gmail.com']}
+{'microbots.flyermaker': ['Flyers, Poster, Adverts, Stickers & Graphic Design', 'Micro+Bots', '10+', 'https://microbotsandroid.blogspot.com', 'awaisrajpoot848@gmail.com']}
+{'com.KiwiLane.PlayToCreate': ['Kiwi Lane Play To Create Design Template Checklist', 'Kiwi+Lane', '5+', 'http://kiwilane.com', 'happyentertainmentgames@gmail.com']}
+{'com.GraffitiLetters.turubarokah': ['Graffiti Letters', 'turubarokah', '1+', 'https://docs.google.com/document/d/1jntS6y4uZVvr-aShYMxNNmZJNVnwkFqF0PHSQVQj_bI/edit?usp=sharing', 'samsuledroide@gmail.com']}
+{'com.andromo.dev741887.app928005': ['How to Draw Cute Boys', 'Drawing+Fun', '5+', 'https://docs.google.com/document/d/1COFiEyt5APyPSr5nTNjzcWaBVt6DaB17YcpcYQBIncs/edit?usp=sharing', 'anaksolehjawatimur@gmail.com']}
+{'com.Bushracreative.lisablcakpingss': ['Lisa Blackpink Wallpaper KPOP', 'Bushracreative', '10+', None, 'Bushracreative@gmail.com']}
+{'little.fresh.boy.let.go.of.dreams.live.wallpaper': ['Little fresh boy let go of dreams live wallpaper', 'guoxiashi', '10+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'stepbystepsewing.leccionescostura.cursoaprendercoser': ['Easy sewing step by step online', 'Petra+Gil', '100+', 'https://docs.google.com/document/d/19bR_TUh4Oa6MEzVzG14SszfZroqeQRzuXqJgRTjY_Yg/edit?usp=sharing', 'petragil91@outlook.com']}
+{'theme.war.fight.peace.auspicious.yin.and.yang.squid.wallpaper': ['Auspicious Yin And Yang carp theme', 'wangyuanyuan', '100+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'cute.elf.at.sea.rowing.wallpaper': ['Cute elf at sea rowing live wallpaper', 'gaopei', '10+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'theme.hand.drawing.woman.sunset.launcher.wallpaper': ['Hand drawing theme Woman watching the sunset', 'tingtingtheme', '50+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'com.keyboardthemesnow.neymarthehd': ['Keyboard Neymar Jr For Theme HD', 'GO+RC_StyleApps', '10+', 'https://gorcstyleappsprivacypolicyr.blogspot.com/2019/02/privacy-policy-privacy-policy-of-go.html', 'aeraj291mon@gmail.com']}
+{'live.wallpaper.night.fireworks.festival': ['Night fireworks live wallpaper | festival', 'gaopei', '50+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'sunset.ocean.live.wallpaper': ['Sunset and ocean live wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'com.FlowerGarden.Papath': ['Flower Garden Design', 'Papath', '10+', 'https://sites.google.com/site/papathsprivacypolicy/', 'ppurwa1766@gmail.com']}
+{'com.awesomewallpapers.LeroySane': ['Leroy Sane Wallpaper HD', 'Awesome_Wallpapers', '100+', 'https://sites.google.com/view/awesomewallpapersapps/your-page-title', 'muproleatnu@gmail.com']}
+{'com.woodworking.projects.plans5': ['Woodworking Projects Plans 5', 'WoodProjects', '1+', 'https://docs.google.com/document/d/1jSeatIsiZwKsiF36TONqLf8DP8WwzNpPddyjQdpc5W0/edit?usp=sharing', 'sonialacobacoba@gmail.com']}
+{'com.JimmyButler.wallpapers.images.pictures': ['Jimmy Butler Wallpapers', 'Latest+DIY', '10+', 'https://docs.google.com/document/d/1a8F5dSNaKNJP7nxcdkfxU3lyjA9af-oCvDKneTnr8rY/', 'tumglepamet@gmail.com']}
+{'com.omgpaint.omg': ['OMG Paint', 'Hoku+Designers', '10+', 'http://hokudesigners.com', 'hokudesigners@gmail.com']}
+{'com.healthinsurance.arasapps.americanapps.colorfulsmokewall': ['Colorful Smoke Wallpaper – HD Wallpaper', 'aras+apps', '1+', 'https://privacypolicies.com/privacy/view/160e30ce525b144428d74179191fd7b9', 'aras.appsdeveloper@gmail.com']}
+{'com.best.easy.DiyHomeDecorIdeasApp': ['DIY Home Decor Ideas 2019', 'RidhoAndika', '5+', 'https://docs.google.com/document/d/1KjEJVYbbbiOouMLilzVSfNhfa7dTSpAByxYBhSHrvII/edit', 'jrwanfauzi81@gmail.com']}
+{'theme.pets.animal.obese.elephant.playing.game.launcher.wallpaper': ['Obese elephant playing game theme', 'songyan', '50+', 'http://api-launcher.cy-security.com/client/v2/theme/privacy.html', 'songyan9209@gmail.com']}
+{'com.vsp.vmarchitectureframe': ['Wall Art', 'Sojitra+House', '100+', None, 'sagarsojitra098@gmail.com']}
+{'com.CrafFromShells.JunaidiAPK': ['Craf From Shells', 'JunaidiAPK', '5+', 'https://docs.google.com/document/d/1HdMtoQ-b7UV82brQoUQf7_6PQ5PSSV7NcQxDg2GkNMk/edit?usp=sharing', 'Junaidi97c@gmail.com']}
+{'rough.waves.beat.the.reef.live.wallpaper': ['Rough waves beat the reef live wallpaper', 'guoxiashi', '10+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'theme.emotion.feeling.bright.neon.planet.fantasy.tech.launcher.wallpaper': ['Bright neon planet fantasy tech theme', 'wangyuanyuan', '100+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'theme.natural.earth.anime.cartoon.hand.draw.sky.concept.launcher.wallpaper': ['Anime cartoon hand draw sky concept theme', 'tingtingtheme', '100+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'bench.under.the.maple.tree.boy.live.wallpaper': ['Bench under the maple tree boy live wallpaper', 'guoxiashi', '100+', 'http://api-launcher.guoxiashi91.xyz/client/v2/theme/privacy.html', 'guoxiashi9108@gmail.com']}
+{'theme.construction.building.city.ferris.wheel.neon.landscape.light.launcher': ['City Ferris Wheel Neon Theme | landscape light', 'wangyuanyuan', '100+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'theme.colorful.bright.sunset.lake.sunshine.flash.light.wallpaper.launcher': ['Sunset lake theme | colorful sunshine flash light', 'tingtingtheme', '500+', 'http://api-launcher.tako.one/client/v2/theme/privacy.html', 'xtingting870@gmail.com']}
+{'com.sou.sou.degindst': ['LAROUI Embroidery', 'Dev+LAR', '500+', None, 'dentdev2020@gmail.com']}
+{'theme.life.enjoyable.morning.breakfast.bread.fruit.launcher.wallpaper': ['Life enjoyable morning breakfast bread fruit theme', 'wangyuanyuan', '100+', 'http://api-launcher.applockforfree.com/client/v2/theme/privacy.html', 'wyuanyuan91@gmail.com']}
+{'anime.quiet.night.beach.live.wallpaper': ['Anime Quiet Night Beach Live Wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'summer.little.yellow.flowers.bloom.live.wallpaper': ['Summer Little Yellow Flowers Bloom Live Wallpaper', 'gaopei', '100+', 'http://api-launcher.gaopei88.xyz/client/v2/theme/privacy.html', 'gaopei8812@gmail.com']}
+{'com.yourcompanyname.xperia1': ['Tema-SXP Xperia 1', '5305782302339588477', '1,000+', 'https://www.facebook.com/Mega-Temas-%C6%A6%C9%97-1788095521470543/', 'plebello05@gmail.com']}
+{'com.sec.penup': ['PENUP - Share your drawings', '5200379633052405703', '50,000,000+', 'https://www.penup.com/intro', 'penup.voc@samsung.com']}
+{'com.coloringbook.fruitsdrawingbook': ['Fruits Coloring Book & Drawing Book - Kids Game', 'Bitty+Apps', '5,000,000+', 'http://bittyapps.blogspot.in/p/blog-page.html', 'tinymonster1989@gmail.com']}
+{'com.iphone.xs.launcher.ios12.theme': ['XS Launcher for Phone XS Max - Stylish OS 12 Theme', '5280984369230066583', '100,000+', 'https://www.facebook.com/poplockerteam', 'poplockerteam@gmail.com']}
+{'com.figames.adultcoloring': ['Adults Coloring Book - Mandala Coloring', 'Fi+Games', '100,000+', 'http://figames.mobi/privacy/', 'info.figames@gmail.com']}
+{'keyboard.theme.k820016683': ['Neon Polysphere Keyboard Theme', '5634546613748420065', '100+', 'http://penmousedesigntech.com', 'penmousedesigntech@gmail.com']}
+{'com.surprisedollslol.loldollsurpriseeggs': ['Dressup Dolls Babydoll', '5248967846346446293', '100,000+', 'https://sites.google.com/view/magicglitterapps/privacy-policy', 'olivergarcia.studio@gmail.com']}
+{'com.coloring.book.drawing': ['Colorico — Coloring Book for Adults and kids', 'Draw+To+Learn+Games', '100+', 'http://privacy-policy.mozello.com/blog/', 'drawtolearngames@gmail.com']}
+{'com.valentine.stickers': ['Romantic Couple Stickers - WhatsApp WAStickerApps', '7528193460434906619', '50,000+', None, 'mytechworld4@gmail.com']}
+{'com.bkbrosstudio.Fruitcoloring': ['Fruit Coloring Book & Learn to Draw Glow', '6163901925804830786', '5,000+', 'https://moabgames007.blogspot.com/2018/11/privacy-policy-bkbros-studio-we.html', 'lhamidymostafa@gmail.com']}
+{'io.fnx.draw': ['Drawing References: Portraits and Poses', 'fnx.io', '1,000+', 'https://www.drawingreferencesapp.com/', 'support@fnx.io']}
+{'com.txt.cheese.photo': ['TXT(TOMORROW X TOGETHER) Wallpaper KPOP', 'TOP5+Wallpaper+HD', '1,000+', 'https://github.com/idolFirstScreen/privacyPolicy/blob/master/privacyPolicy', 'goldsmartcorp@gmail.com']}
+{'com.wp.seasoneight': ['Battle Royale Wallpapers HD (Season 8)', 'Nameless+Studios', '500+', None, 'namelesss.studios@gmail.com']}
+{'com.optimumbrewlab.invitationcardmaker': ['Invitation Maker, Birthday & Wedding Invitations', 'Photo+Studio+%26+Picture+Editor+Lab', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'nirav.optimumbrew@gmail.com']}
+{'co.madseven.launcher.theme.comics': ['Apolo Comics - Theme, Icon pack, Wallpaper', '8644884162358965696', '10+', 'http://madseven.co/', 'ydeleflie@madseven.co']}
+{'com.apps3DMannequins.CatMannequin': ['Cat Mannequin', '3D+Mannequins', '500,000+', 'http://3dmannequins.com', '3dmannequins@gmail.com']}
+{'com.mark.calligraphy': ['Calligrapher', 'Mark+Tushkevich', '500,000+', 'https://docs.google.com/document/d/e/2PACX-1vTs1diZIeLrJpLkQ2221SzsVDveCElpPTmv8KqzRW5M9oBvby21li8aApzPZBcYaStPIbrdh2NNJb7v/pub', 'mark60493@gmail.com']}
+{'com.workSPACE.Fraksl': ['Fraksl', 'workSPACE', '500,000+', 'http://www.fraksl.com/', 'info@fraksl.com']}
+{'com.beinghindu.forwhatsapp': ['Being Hindu - WaStickersApp-MahaShivRatri Stickers', '6418065277210166381', '10,000+', 'http://surajmahajan.wordpress.com', 'artek.suraj@gmail.com']}
+{'de.unp3rf3ct.JoinsTheBattleGenerator': ['... Joins the Battle! - Meme Generator', 'Mr.+Unp3rf3ct', '100,000+', None, 'contact.mrunp3rf3ct@gmail.com']}
+{'com.designlogoideas.inojon': ['Design Logo Ideas', 'inojon', '10,000+', 'https://privacypolicies.com/privacy/view/389d4bb9a5f2bbbf9033d6c82ad7773a', 'jonibrilianfauzi@gmail.com']}
+{'ps.battle.royale': ['Battle Royale Wallpapers Art', 'Beldev', '50,000+', None, 'Belleuzir@gmail.com']}
+{'theme.animal.abstract.colorful.neon.butterflies.launcher.wallpaper': ['Abstract colorful neon butterflies theme', 'qiaohun', '100+', 'http://api.u-launcher.com/client/v2/theme/privacy.html', 'qiaohun8903@gmail.com']}
+{'com.bestwalls.superheroesartwork': ['Superheroes Artworks HD & 4K Wallpapers', 'Apphics+Technologies', '500+', 'http://apphicssuperheroswallpapers.xyz/privacy_policy.html', 'bestwalls.xyz@gmail.com']}
+{'com.VanguardStudio.jakepaulwallpaper': ['Jake Paul Wallpaper HD', 'VangguardInc', '100+', 'https://vangguardinc.blogspot.com/2019/02/privacy-policy.html', 'hasiltawaduk@gmail.com']}
+{'com.dabdaagames.drawing.cute.surprise.dolls': ['Drawing Cute Surprise Dolls', 'Dabdaa+Games', '10,000+', 'http://www.dabdaagames.com/Privacy-Policy/', 'dabdaagames@gmail.com']}
+{'com.mayankstudios.signature.logomaker.design': ['Signature Logo Maker - Company Design', 'Hridhan+Studios', '100,000+', 'http://www.hridhanstudio.com', 'surya.rajput1810@gmail.com']}
+{'com.go.jojosiwa.wallpaper': ['Jojo Siwa Wallpaper Go', 'gotogood', '1,000+', 'https://sites.google.com/view/jojo-siwa-wallpaper-go', 'jimmytang201901@gmail.com']}
+{'com.infokombinat.howtodraweasy': ['How To Draw Easy step by step', 'Infokombinat', '50,000+', 'http://www.infokombinat.com/', 'developer.infokombinat@gmail.com']}
+{'com.piupiuapps.coloringmandala3': ['Mandala Coloring Book', 'Piu+Piu+Apps', '1,000+', 'http://piupiuapps.com', 'piupiuapps@gmail.com']}
+{'air.com.KalromSystems.SandDrawLite': ['Sand Draw Sketch Drawing Pad: Creative Doodle Art', '5101937198185715525', '1,000,000+', 'http://sanddraw.me', 'support@kalromsystems.com']}
+{'com.instadev.cardibwallpaper': ['Cardi B Wallpaper', 'Instadev', '100,000+', 'http://instadevelop.blogspot.co.id/2017/10/privacypolicyinstadev.html', 'lailiwildan@gmail.com']}
+{'com.blondea.artcoloring': ['ColorArt: Masterpiece Coloring Page for Grown-Ups', 'BLONDEA', '10,000+', 'http://blondea.com/privacy-policy/', 'hi@blondea.com']}
+{'com.nxccontrols.wasticker': ['wastickerapps - All New Stickers For WhatsApp', 'NXC+Controls', '100,000+', 'http://wastickerapps.pro', 'info@wastickerapps.pro']}
+{'com.ticticgames.coloringbnails1': ['Nails Art: Girls Fashion Coloring Book', '5517054645876426707', '10,000+', 'http://rrrcolor.blogspot.com/2018/05/privacy-policy.html', 'ssivertami@gmail.com']}
+{'com.IngressStudio.xxxtentacion': ['XXXTENTACION Wallpaper HD [RIP]', 'IngressStudio', '100,000+', 'https://ingressstudio.blogspot.com/2018/11/privacy-policy.html', 'lwajeega@gmail.com']}
+{'hd.youngby.wallpaper': ['Young Boy Wallpaper - Wallpapers HD', 'DeveloperArte', '50,000+', 'https://sites.google.com/view/developerarte', 'developerarte312@gmail.com']}
+{'com.bugyter.buugywal.wallget': ['LadyBug Wallpapers  | HD Backgrounds', 'Illy_wall_cleve', '10,000+', 'https://sites.google.com/view/llady', 'illycleve8@gmail.com']}
+{'com.ohe.btsm': ['How To Draw BTS Members', 'Ohe+Studio', '10,000+', None, 'vadlan47narendra@gmail.com']}
+{'com.continuum.freepostmaker': ['Free Poster Maker - Poster Designer and Creator', 'continuum', '10,000+', 'https://docs.google.com/document/d/e/2PACX-1vTppD1DdlJopiNKnAK_d5h4CBfczuliyXEUxUKgfIuSWvZ68-bIUNguitZfCojRDvpU18z5Codhqv8_/pub', 'mastersolutions007@gmail.com']}
+{'com.adelyra.youngboy': ['NBA YoungBoy Wallpapers HD', 'Adelyra+Network', '1,000+', 'https://docs.google.com/document/d/1w4_ajDqeq1ieH8_Okwa9r49paQZhb5Z75YehNu3Lxew/edit?usp=sharing', 'sallyadelyra22@gmail.com']}
+{'com.RealisticDrawingTutorial.shobirinapps': ['Realistic Drawing Tutorial', 'shobirinapps', '10,000+', 'https://docs.google.com/document/d/10GNAuX5vajjLdvpgxz5vDtrJdrUuKDUfbYpctQQhh34/edit?usp=sharing', 'mshobirin080888@gmail.com']}
+{'com.chad.wild.wallpaper.lol.studio': ['Chad Wild Clay Wallpaper 2019', '4kwallpaper+studio', '10,000+', 'https://sites.google.com/view/cladwildclaywallpaper2019', 'tong181130@gmail.com']}
+{'com.dim.odd1wallpapers': ['TheOdd1sOut Wallpapers - The Odd1sOut', 'Soft-me', '100+', 'https://sites.google.com/view/theodd1soutwallpapers-theodd1s/home', 'khalidgamedev@gmail.com']}
+{'com.wallsstudio.jungkook': ['Jungkook BTS Wallpaper Kpop', 'Walls+Studio', '10,000+', 'https://sites.google.com/site/wallsstudioapps/', 'kpopstudio0@gmail.com']}
+{'com.madcat.easyposer': ['Easy Poser', '6964306245292491680', '5,000,000+', 'http://madcatgames.tistory.com/15', 'madcat.help@gmail.com']}
+{'com.newwallpapers.forhtnitefhd': ['New Forthnaite Wallpaper HD 2019', 'AYM+Creative', '500+', None, 'aymcreative19@gmail.com']}
+{'com.sandbox.numbercoloring.pixelart': ['Pixel Box - Color by Number & Art Pages', 'Aleaf+Games', '1,000,000+', 'http://forumvs.com/policy_numbercoloring2.html', 'aleafgames@gmail.com']}
+{'com.lifsimple.bts': ['BTS Wallpapers HD - KPOP', 'Dawn+Inc', '10,000+', 'https://sites.google.com/view/policy-dawn-inc-app/', 'devpro.fit.hust@gmail.com']}
+{'com.VanguardStudio.vladandnikitawallpaper': ['Vy Qwaint Wallpapers HD Fans', 'VangguardInc', '100+', 'https://vangguardinc.blogspot.com/2019/02/privacy-policy.html', 'hasiltawaduk@gmail.com']}
+{'com.brlibrarywallpaper.app': ['Battle Royale Wallpaper Gamers Coolest Wallpaper', 'IowaApps', '500+', 'http://myappterms.com/reader.php?lang=es', 'rustudiowradio75@gmail.com']}
+{'com.HowtoDrawTattoos.molimo': ['How to Draw Tattoos', 'Molimo+Janae', '50,000+', None, 'bekaskaleng92@gmail.com']}
+{'com.vintro.tattoo.maker.art.design': ['Tattoo Maker - Tattoo design - Tattoo on my photo', '5141208227687717850', '100,000+', 'https://www.facebook.com/notes/vintro-media-photo-editor/tattoo-workshop-privacy-policy/2242263569391371/', 'vodichthienha1008@gmail.com']}
+{'com.zahyakarin.BTSWallpapersKPOPNewHD': ['BTS Wallpapers KPOP New HD', 'Zahya+Karin+Studios', '100,000+', 'http://privacypolicyzahyakarin.blogspot.co.id/2018/05/privacy-policy.html', 'bjeleknya@gmail.com']}
+{'udenity.draw.animals': ['How to draw animals', 'Udenity', '10,000+', 'https://sites.google.com/view/udenity/privacy-policy', 'serge.udenko.dev@gmail.com']}
+{'co.theguru.sch': ['Space Center Houston', 'The+Guru+LLC', '1,000+', 'http://www.theguru.co', 'hsrole@theguru.co']}
+{'logohub.iconmaker.brandslogo.logomaker3d.letterslogo3d': ['3D Logo Maker', 'QuestionSoft.inc', '10,000+', None, 'logohubapps@gmail.com']}
+{'com.vn.goforoid.wallpaper.galaxy': ['Galaxy Wallpapers Ultra HD', '6995104029796966680', '1,000+', 'http://gofordroid.net/wallpaper_app/app_5/privacy_policy.html', 'publisher.goforoid.studio@gmail.com']}
+{'questionlogix.logomaker3d.d3logomaker.logomakerfree': ['3D Logo Maker 2019', 'Question+Logix', '10,000+', None, 'brainlogx512@gmail.com']}
+{'com.muhapps.goku.wallpaper.art.hdgoku': ['Goku Wallpaper Art', 'Muhapps', '5,000+', None, 'muhapps.snip@gmail.com']}
+{'com.leprechaun.live.wallpaper.pretty.and.cute.wallpapers': ['leprechaun live wallpaper', '5240694266252186992', '1,000+', 'https://www.applovin.com/privacy', 'prettyandcutewallpapersllc@gmail.com']}
+{'com.app.nihon': ['Nihon - Japanese Traditional Colors', '8691110953531522833', '5+', 'https://docs.google.com/document/d/1lGdjzBYmovvPgwmAfSc2b4qE5wrPIw7MIs--cqFy-2s/edit?usp=sharing', 'jing1downey@gmail.com']}
+{'com.livingsketchbook3': ['Living Sketchbook Vol. 3', 'The+Dinotopia+Store', '10+', 'http://gurneyjourney.blogspot.com', 'gurneyjourney@gmail.com']}
+{'fuiv12.kustom.pack': ['FUI v12', '8575809503896778156', '10+', None, 'nikolaus.ddd@gmail.com']}
+{'com.studionaranja.Stars': ['Stars', 'Studio+Naranja', '10+', None, 'naranjadev@gmail.com']}
+{'com.canva.editor': ['Canva: Graphic Design & Logo, Flyer, Poster maker', 'Canva', '10,000,000+', 'https://www.canva.com/', 'android-app@canva.com']}
+{'app.over.editor': ['Over: Edit & Add Text to Photos', '6959526238859339120', '100,000+', 'https://www.madewithover.com', 'helloandroid@overhq.com']}
+{'com.vblast.flipaclip': ['FlipaClip - Cartoon animation', 'Visual+Blasters+LLC', '10,000,000+', 'http://flipaclip.us', 'flipaclip@visualblasters.com']}
+{'pl.planmieszkania.android': ['Floor Plan Creator', 'Marcin+Lewandowski', '5,000,000+', 'http://floorplancreator.net', 'support@floorplancreator.net']}
+{'com.brakefield.painter': ['Infinite Painter', '8161093088993848231', '1,000,000+', 'http://www.infinitestudio.art/', 'support@infinitestudio.art']}
+{'com.madcat.easyposer': ['Easy Poser', '6964306245292491680', '5,000,000+', 'http://madcatgames.tistory.com/15', 'madcat.help@gmail.com']}
+{'com.adobe.spark.post': ['Adobe Spark Post: Graphic design made easy', '4734916851270416020', '1,000,000+', 'http://spark.adobe.com/', 'hellopost@adobe.com']}
+{'jp.ne.ibis.ibispaintx.app': ['ibis Paint X', 'ibis+mobile+inc.', '10,000,000+', 'https://ibispaint.com/', 'mob-paint-support@ibis.ne.jp']}
+{'com.bytestorm.artflow': ['ArtFlow: Paint Draw Sketchbook', '8912554627117291225', '1,000,000+', 'http://artflowstudio.com', 'bjanusz@artflowstudio.com']}
+{'com.sonymobile.sketch': ['Sketch - Draw & Paint', '4851747018805076305', '100,000,000+', 'http://sketch.sonymobile.com', 'SketchSupport@sonymobile.com']}
+{'com.eyewind.paperone': ['PaperColor : Paint Draw Sketchbook & PaperDraw', 'Colorfit', '10,000,000+', 'http://www.eyewind.org/en/colorfit_privacy.html', 'eyewind.color@hotmail.com']}
+{'com.weirdhat.roughanimator': ['RoughAnimator - animation app', 'WeirdHat', '10,000+', 'http://www.roughanimator.com/', 'weirdhat@weirdhat.com']}
+{'com.medibang.android.paint.tablet': ['MediBang Paint - Make Art !', '5466859474658028637', '10,000,000+', 'http://medibangpaint.com/', 'support@medibang.com']}
+{'com.ambientdesign.artrage.playstore': ['ArtRage: Draw, Paint, Create', '5098404652381278867', '50,000+', 'https://www.artrage.com', 'support@ambientdesign.com']}
+{'com.creative.colorfit.mandala.coloring.book': ['Colorfit - Drawing & Coloring', 'Creative+APPS', '1,000,000+', 'http://creative100.cc/privacy.html', 'creative.feedback@hotmail.com']}
+{'com.tophatch.concepts': ['Concepts - Sketch, Design, Illustrate', '5559012024609166266', '10,000+', 'https://concepts.app', 'concepts@tophatch.com']}
+{'com.blondeagames.art.coloring.book': ['Coloring Book For Adults 2019 - ColorWolf', 'BLONDEA', '1,000,000+', 'https://www.facebook.com/groups/1675100542784614/', 'hi@blondea.com']}
+{'com.brakefield.idfree': ['Infinite Design', '8161093088993848231', '1,000,000+', 'http://www.infinitestudio.art/', 'support@infinitestudio.art']}
+{'com.PixelStudio': ['Pixel Studio - Pixel art editor, GIF animation', '8755201370269345476', '100,000+', 'http://vk.com/hippogames', 'hippogamesunity@gmail.com']}
+{'com.pinklebelle.blushcoloring': ['Blush : Coloring Book', 'Anggi+Saputra', '10,000+', 'http://gamelabb.com/index.php/privacy-policy/', 'info@gamelabb.com']}
+{'com.workSPACE.Fraksl': ['Fraksl', 'workSPACE', '500,000+', 'http://www.fraksl.com/', 'info@fraksl.com']}
+{'com.teazel.coloring': ['Coloring', 'Teazel+Ltd', '1,000,000+', 'https://www.teazel.com', 'coloring@teazel.com']}
+{'ice.lenor.nicewordplacer.app': ['Word Cloud', 'Smart+Puffin', '1,000,000+', 'http://smartpuffin.com/wordcloud/', 'smart.puffin.dev@gmail.com']}
+{'com.cadTouch.androidFull': ['CAD Touch Pro', 'cadTouch+Software', '10,000+', 'http://www.cadtouch.com', 'support@cadtouch.com']}
+{'com.apps3DMannequins.DinosaurMannequins': ['Dinosaur Mannequins', '3D+Mannequins', '50,000+', 'http://3dmannequins.com', '3dmannequins@gmail.com']}
+{'com.psd.viewer': ['PSD (Photoshop) File Viewer', 'Mob+Apps+Development', '100,000+', 'https://psd-viewer.firebaseapp.com/privacy_policy.html', 'mymobappsdev@gmail.com']}
+{'com.ioslauncher.pro': ['X Launcher Pro: PhoneX Theme, OS11 Control Center', 'Launcher+Developer', '10,000+', 'https://webgenie-team.github.io/iOSLauncherPrivacyPolicy/pro.htm', 'ioslauncher@163.com']}
+{'com.tiedye.color.free.pixelart': ['Tie Dye 2 - Color by number. Best coloring pages.', 'OleMilk+Games', '100,000+', 'https://sites.google.com/view/tie-dye-privacy-policy/main', 'olemilk2@gmail.com']}
+{'com.merg3d.android.coloredpencilpicker': ['Colored Pencil Picker: The Ultimate Drawing Tool', 'Kristian+Olidana', '1,000+', 'http://www.merg3d.com', 'kristian.olidana@gmail.com']}
+{'com.phone.ulauncher.pro.no.ad': ['U Launcher Pro-NO ADS', 'Moboapps+Dev+Team', '500+', 'http://moboapps.io/ulauncherlite_privacy_policy/privacy.policy.html', 'Moboappsdev@gmail.com']}
+{'com.nra.flyermaker': ['Flyer Maker, Poster Maker, Graphic Design', 'Photo+Studio+%26+Picture+Editor+Lab', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'nirav.optimumbrew@gmail.com']}
+{'com.blondea.artcoloring': ['ColorArt: Masterpiece Coloring Page for Grown-Ups', 'BLONDEA', '10,000+', 'http://blondea.com/privacy-policy/', 'hi@blondea.com']}
+{'color.by.number.pixel.art.sandbox.paint.draw.free': ['Pixelz - Color by Number Pixel Art Coloring Book', 'ColorFun+Games', '500,000+', 'https://sites.google.com/view/sandbox-coloring-book', 'hi@colorfungames.com']}
+{'com.wallpicture.full': ['WallPicture - Art room design photography frame', 'Milan+Zarecky', '100+', 'http://www.wallpictureapp.com', 'contact@wallpictureapp.com']}
+{'com.optimumbrewlab.invitationcardmaker': ['Invitation Maker, Birthday & Wedding Invitations', 'Photo+Studio+%26+Picture+Editor+Lab', '100,000+', 'https://sites.google.com/view/mobile-privacy-policy/home', 'nirav.optimumbrew@gmail.com']}
+{'com.nevato75.artmodel': ['Art Model - 3D Pose tool and morphing tool', '8401031402574408270', '1,000+', 'http://codelunatics.com', 'nevato75@gmail.com']}
+{'com.artware.ArtP': ['ArtPose Pro', 'Artware+Apps', '500+', 'http://www.art-pose.com', 'artpose.app@gmail.com']}
+{'com.axis.drawingdesk.v3': ['Drawing Desk: Draw Paint Color Doodle & Sketch Pad', '4Axis+Technologies', '500,000+', 'http://drawingdeskapp.com', 'hello@4axissolutions.com']}
+{'com.tapblaze.coloring.book.mandala': ['Colorflow: Adult Coloring & Mandala', '7300020765194314153', '100,000+', 'http://www.tapblaze.com', 'support@tapblaze.com']}
+{'com.zalivka.animation': ['Draw Cartoons 2 PRO', 'Drawing+Cartoons+Ltd', '10,000+', 'https://docs.google.com/document/d/1mbVsod0gwqWF3v12EFeR3UQ00ZihuMCBiQ3uSa1mNdk/edit#heading=h.1cvvkcc3hih5', 'drawingcartoonsltd+fat@gmail.com']}
+{'com.figuromo.colorminiscollections': ['ColorMinis Collection -Making 3D art coloring real', '7065409552873165205', '1,000,000+', 'http://www.figuromo.com', 'support@colorminis.com']}
+{'com.codelunatics.posemakerpro': ['Pose Maker Pro - 3D art poser app', '8401031402574408270', '1,000+', 'https://posemakerpro.com', 'contact@codelunatics.com']}
+{'shareae.com.aepro': ['GREEN SCREEN HD', 'zbc+tv', '50+', None, 'zbctv.org@gmail.com']}
+{'com.JohnnyByrnes.PoseBook3DBySilver': ['PoseBook 3D by Silver', 'Johnny+Byrnes', '10,000+', 'http://silvertoonsapps.com', 'apps@silvertoonsapps.com']}
+{'jp.co.psoft.zenbrushfree': ['Zen Brush', 'PSOFT+MOBILE', '100,000+', 'http://psoftmobile.net/', 'info@psoft.co.jp']}
+{'com.spaceplunge.artplungeddfull': ['Art Plunge', 'Space+Plunge', '100+', 'http://www.spaceplunge.com/#artplunge', 'spaceplunge@gmail.com']}
+{'com.ew.coloring.animal': ['2018 for Animals Coloring Books', 'ColorJoy', '100,000+', 'http://coloring.hk/colorjoy_privacy.html', 'colorjoy.feedback@outlook.com']}
+{'com.jdpapps.paintmandalas': ['Mandalas coloring pages (+200 free templates)', '8933575792593715746', '1,000,000+', 'http://www.quarzoapps.com', 'hola@quarzoapps.com']}
+{'com.tattoo.maker.design.app': ['Tattoo Maker', 'Focus+apps', '5,000,000+', 'https://sites.google.com/view/focus-apps-privacy-policy/', 'focusapps@hotmail.com']}
+{'uk.co.shingler.watercolourreference2': ['Watercolour Reference', 'Speak+to+the+Geek', '100+', 'http://www.speaktothegeek.co.uk/watercolourreference', 'support@speaktothegeek.co.uk']}
+{'jp.ne.ibis.ibispaintx.app': ['ibis Paint X', 'ibis+mobile+inc.', '10,000,000+', 'https://ibispaint.com/', 'mob-paint-support@ibis.ne.jp']}
+{'com.canva.editor': ['Canva: Graphic Design & Logo, Flyer, Poster maker', 'Canva', '10,000,000+', 'https://www.canva.com/', 'android-app@canva.com']}
+{'com.color.call.flash.colorphone.theme.colorfulpapers': ['Colorful Papers Caller Screen', 'Simple+User+Design+Tech+Group', '1,000,000+', 'https://1drv.ms/w/s!AifHGnFj88jTgQRROu-pfGyQJNBz', 'myfeedback001@gmail.com']}
+{'com.adobe.spark.post': ['Adobe Spark Post: Graphic design made easy', '4734916851270416020', '1,000,000+', 'http://spark.adobe.com/', 'hellopost@adobe.com']}
+{'com.abdelmonem.TattoPhoto': ['Tattoo Maker - Love Tattoo', '6440659997390941373', '1,000,000+', 'https://sites.google.com/view/droidyapps/privacy-policy', 'abdelmonemezzat1994@gmail.com']}
+{'com.surprisedollslol.loldollsurpriseeggs': ['Dressup Dolls Babydoll', '5248967846346446293', '100,000+', 'https://sites.google.com/view/magicglitterapps/privacy-policy', 'olivergarcia.studio@gmail.com']}
+{'com.vblast.flipaclip': ['FlipaClip - Cartoon animation', 'Visual+Blasters+LLC', '10,000,000+', 'http://flipaclip.us', 'flipaclip@visualblasters.com']}
+{'com.sonymobile.sketch': ['Sketch - Draw & Paint', '4851747018805076305', '100,000,000+', 'http://sketch.sonymobile.com', 'SketchSupport@sonymobile.com']}
+{'com.jojo.siwa.wallpaper.lol.studio': ['Jojo Siwa Wallpaper 2019', '4kwallpaper+studio', '50,000+', 'https://sites.google.com/view/jojosiwawallpaper2019', 'tong181130@gmail.com']}
+{'com.IngressStudio.xxxtentacion': ['XXXTENTACION Wallpaper HD [RIP]', 'IngressStudio', '100,000+', 'https://ingressstudio.blogspot.com/2018/11/privacy-policy.html', 'lwajeega@gmail.com']}
+{'hd.lucaandmarco.wallpaper': ['Lucas and Marcus wallpapers HD', 'DeveloperArte', '100,000+', 'https://sites.google.com/view/developerarte', 'developerarte312@gmail.com']}
+{'com.eyewind.paperone': ['PaperColor : Paint Draw Sketchbook & PaperDraw', 'Colorfit', '10,000,000+', 'http://www.eyewind.org/en/colorfit_privacy.html', 'eyewind.color@hotmail.com']}
+{'com.cool_art_drawing.peli': ['Cool Art Drawing Ideas', 'Peli+Ngacengan', '100,000+', 'https://www.caraflashandroid.com/', 'alisha.shazfa2016@gmail.com']}
+{'com.vehicledrawingbook.android': ['vehicles coloring book & drawing book - kids Game', 'Bitty+Apps', '1,000,000+', 'http://bittyapps.blogspot.in/p/blog-page.html', 'tinymonster1989@gmail.com']}
+{'com.laura.fashiondesign': ['Fashion Design Flat Sketch', 'Laura+P%C3%A1ez', '1,000,000+', 'http://www.fashiondesignapp.com', 'app@laurapaez.com']}
+{'com.johna.moor.visiting.card.maker': ['Business Card Designer : Visiting Card Maker', 'Johna+Moor', '50,000+', 'https://sites.google.com/site/johnamoorprivacypolicy/', 'Anthonyjashua30@gmail.com']}
+{'drawing.eye': ['How to draw Eye', 'Apps+to+how+to+draw', '50,000+', 'https://sites.google.com/view/howto-draweye', 'nounoumobileapp@gmail.com']}
+{'info.bppacomics.lazydog': ['LazyDog calligraphy and cursive writing practice', 'I.H', '100,000+', 'https://docs.google.com/document/d/1NGJhhF3-5SJyqKzETtRZfkxVkX_G0BThQgsqmiz9sUE/edit?usp=sharing', 'blaufrog@gmail.com']}
+{'com.aiTeam.logoMakers': ['Logo Maker - Logo Creator & Poster Maker', 'AI-Team', '500,000+', 'https://sites.google.com/view/aiteam/privacy-policy', 'ai.team.labs@gmail.com']}
+{'dressup.snow.anime.fever': ['Dress Up: Anime Fever', 'Snow.JR', '100,000+', 'https://twitter.com/SnowJr1437', 'kalentine.snow@gmail.com']}
+{'com.lordval.lilbabywallpaper': ['Lil Baby Wallpaper', 'Lordval', '1,000+', 'http://wallpaperzonas.blogspot.com/2018/11/privacy-policy.html', 'robertunshesouu@gmail.com']}
+{'com.StephenCurry.pictures.backgrounds.photos.images.hd.free.sports': ['Stephen Curry Wallpapers', 'New+HD+Wallpapers', '10,000+', 'https://docs.google.com/document/d/1FikWkfwNnCyXm6mslbHzOknQD7a58Om-H6rME0u-FJ0/', 'ceoltrekmut@gmail.com']}
+{'com.messdev.dobretwinswallpaperhd': ['Art Dobre Twins Wallpaper HD', 'Messdev', '10,000+', 'https://messdeve.blogspot.com/2018/05/privacy-policy.html', 'memnpunyaiwajag@gmail.com']}
+{'com.psma.logomaker': ['Swift Logo Maker Logo Designer', 'photoshop+mobile+apps', '50,000+', 'https://photoshopmobileapps.wordpress.com', 'ankitdeveloperpbh@gmail.com']}
+{'com.GrafitiAlfabet.Megabor': ['Grafiti Alfabet', 'megabor', '50,000+', 'https://docs.google.com/document/d/1ClSHUmVS6g1rEmQ8dO4pxe3WDlPL2XxBF4p0AcdCxnQ/edit?usp=sharing', 'ariesbor507@gmail.com']}
+{'com.iphone.xs.launcher.ios12.theme': ['XS Launcher for Phone XS Max - Stylish OS 12 Theme', '5280984369230066583', '100,000+', 'https://www.facebook.com/poplockerteam', 'poplockerteam@gmail.com']}
+{'com.dabdaagames.drawing.cute.chibi.celebrities': ['Drawing Cute Famous Stars', 'Dabdaa+Games', '10,000+', 'http://www.dabdaagames.com/Privacy-Policy/', 'dabdaagames@gmail.com']}
+{'com.bugyter.buugywal.wallget': ['LadyBug Wallpapers  | HD Backgrounds', 'Illy_wall_cleve', '10,000+', 'https://sites.google.com/view/llady', 'illycleve8@gmail.com']}
+{'com.johncenawallpapers.johncenawallpapers': ['John Cena HD WWE Wallpapers - Wrestling Wallpapers', 'Muzi+Productions', '10,000+', None, 'meetquiz@gmail.com']}
+{'fonteee.typography.quotes.text.swag': ['Text on Photo - Fonteee', 'Fonteee', '1,000,000+', 'http://www.hcimc.com/privacy.html', 'fonteee1@gmail.com']}
+{'com.AdultColoring.colorbynumber': ['Color By Number deviantart Pixel Art 2019', '5546595460859967892', '5,000+', 'https://docs.google.com/document/d/e/2PACX-1vS6ZnbgTUS0uBc0kBmEIaCnZqzkTualGzBsCHDP_wKLIEi9sB_j8s93PRGAEb2dn_-8MBGdxAnqL3Gy/pub', 'lkhamaridell@gmail.com']}
+{'com.pinklebelle.blushcoloring': ['Blush : Coloring Book', 'Anggi+Saputra', '10,000+', 'http://gamelabb.com/index.php/privacy-policy/', 'info@gamelabb.com']}
+{'com.professioneldev.mandalaspixelcolor': ['Mandalas Color By Number Pixel Art', 'Professional+Dev.app', '1,000+', None, 'josedominguez.js20@gmail.com']}
+{'com.infokombinat.coloringadults': ['Coloring Book for Adults Anti-Stress', 'Infokombinat', '50,000+', 'http://www.infokombinat.com/', 'developer.infokombinat@gmail.com']}
+{'com.kidspaint.kaushalmehra.drawingfun': ['Kids Paint Free - Drawing Fun', 'Beste+Apps', '100,000+', 'https://besteappsworld.wordpress.com/', 'besteapplications@gmail.com']}
+{'com.feandroyuya.coolartdrawingideas': ['Cool Art Drawing Ideas', 'Fe_Andro_Yuya', '50,000+', 'https://docs.google.com/document/d/14S6R-X30zZKg3nrFRUD8rGcMIzDTMtrzWlzhkMo3nCA/edit?usp=sharing', 'yulianinourma@gmail.com']}
+{'com.jdpapps.paintmandalas': ['Mandalas coloring pages (+200 free templates)', '8933575792593715746', '1,000,000+', 'http://www.quarzoapps.com', 'hola@quarzoapps.com']}
+{'com.psd.viewer': ['PSD (Photoshop) File Viewer', 'Mob+Apps+Development', '100,000+', 'https://psd-viewer.firebaseapp.com/privacy_policy.html', 'mymobappsdev@gmail.com']}
+{'com.tophatch.concepts': ['Concepts - Sketch, Design, Illustrate', '5559012024609166266', '10,000+', 'https://concepts.app', 'concepts@tophatch.com']}
+{'com.adobe.comp': ['Adobe Comp CC', '4734916851270416020', '100,000+', 'http://www.adobe.com/', 'PCT-Android-Market@adobe.com']}
+{'com.art_drawing.dev3': ['300 Art Drawing Ideas', 'Home+Design+Solutions', '100,000+', 'https://www.hargaponsel.net/', 'developer.tiga@gmail.com']}
+{'com.onetap.bit8painter': ['8bit Painter - Pixel Art Drawing App', 'OneTap+Japan', '500,000+', 'https://onetap.jp/en/', 'support@onetap.jp']}
+{'raviansolution.logomaker3d.d3logomaker.logomakerfree.logomaker': ['3D Logo Maker', 'RaviansSolutions.Inc', '10,000+', None, 'irfanfareed690@gmail.com']}
+{'com.e3games.numbercoloring.pixelart': ['Pixel Draw - Number Art Coloring Book', '8840924357018375805', '500,000+', 'http://forumvs.com/policy_numbercoloring3.html', 'kidsappboxmobile@gmail.com']}
+{'com.librarywallpaper.app': ['XXXTentacion Wallpaper – Ghetto HD Wallpaper 2019', 'Library+Apps', '5,000+', 'http://myappterms.com/reader.php?lang=es', 'rustudiowradio75@gmail.com']}
+{'kenmaz.net.animemaker': ['AnimeMaker', 'kenmaz.net', '1,000,000+', 'http://anime.kenmaz.net', 'kentaro.matsumae+animemaker@gmail.com']}
+{'com.blondeagames.coloris': ['Coloring Book for Adults Free', 'Gum+Games', '50,000+', 'http://gumgamesapp.com', 'support@gumgamesapp.com']}
+{'com.vintro.tattoo.maker.art.design': ['Tattoo Maker - Tattoo design - Tattoo on my photo', '5141208227687717850', '100,000+', 'https://www.facebook.com/notes/vintro-media-photo-editor/tattoo-workshop-privacy-policy/2242263569391371/', 'vodichthienha1008@gmail.com']}
+{'com.games.tecdroid.mspaintclassic': ['MS - The Paint Classic', 'Tec+Droid', '10,000+', 'http://v3.ms-paint-classic.appspot.com/privacy-policy.html', 'appstecdroid@gmail.com']}
+{'com.AlmeerAlfatih.DobreTwinsWallpapers': ['Dobre Twins Wallpapers HD Background', 'Almeer+Alfatih', '5,000+', 'http://privacypolicyalmeeralfatih.blogspot.com/2018/09/privacy-policy.html', 'gelisaresah3@gmail.com']}
+{'com.AlmeerAlfatih.OdellBeckhamJrWallpapers': ['Odell Beckham Jr Wallpapers HD', 'Almeer+Alfatih', '10,000+', 'http://privacypolicyalmeeralfatih.blogspot.com/2018/09/privacy-policy.html', 'gelisaresah3@gmail.com']}
+{'com.wp.seasoneight': ['Battle Royale Wallpapers HD (Season 8)', 'Nameless+Studios', '500+', None, 'namelesss.studios@gmail.com']}
+{'com.materialviewinc.drawcutegirl': ['How To Draw Cute Girls', '7231017060480621835', '100,000+', 'https://www.instagram.com/materialviewinc/', 'developer-support@materialviewinc.com']}
+{'com.certificatemaker': ['Certificate Maker, Design a Custom Certificate', '8983953568983045767', '50,000+', 'https://sites.google.com/view/digitalmarketingtools/home', 'sbg.appolu@gmail.com']}
+{'com.overheadgames.epicgenerator': ['ePic Character Generator', 'Overhead+Games', '5,000+', 'https://www.epicgenerator.net', 'support@epicgenerator.net']}
+{'com.coolstickers.wastickerappslove': ['Love Stickers - WAStickerApps', 'Awsm+Aps', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/7c401994bc18a7084396d918a6aad4f5', 'wastickerapps.arabia503@gmail.com']}
+{'com.teazel.christian.coloring': ['Christian Coloring', 'Teazel+Ltd', '5,000+', 'http://www.teazel.com', 'info@teazel.com']}
+{'com.vipapps.invitation': ['Invitation Card Designer', 'vipapps', '100,000+', 'https://goo.gl/p3Ht2p', 'vipapps.market@gmail.com']}
+{'com.MasyourbaeStudio.whydontwewallpaper': ["Why Don't We Wallpapers HD", 'MasyourbaeStudio', '5,000+', 'https://masyourbae.blogspot.com/p/privacy-policy-masyourbaestudio-built.html', 'rasionklam66@gmail.com']}
+{'com.SimpleHairstyleTutorialStepByStep.prakasapp': ['Simple Hairstyle Tutorial', 'prakasapp', '100,000+', 'https://docs.google.com/document/d/1fLWCu7XxD--UOySJs0GNRWb42WMKrn7q8oyviQ_wrCw/edit?usp=sharing', 'sitimartina554@gmail.com']}
+{'com.justafan.btshdwallpaper': ['BTS WALLPAPER HD FOR ARMY 2019', '7000847081333295129', '10,000+', 'https://www.facebook.com/justafan01/', 'techiurus@gmail.com']}
+{'com.JohnCena.pictures.backgrounds.photos.images.hd.free.sports': ['John Cena Wallpapers', 'New+HD+Wallpapers', '10,000+', 'https://docs.google.com/document/d/1FikWkfwNnCyXm6mslbHzOknQD7a58Om-H6rME0u-FJ0/', 'ceoltrekmut@gmail.com']}
+{'udenity.draw.animals': ['How to draw animals', 'Udenity', '10,000+', 'https://sites.google.com/view/udenity/privacy-policy', 'serge.udenko.dev@gmail.com']}
+{'com.aak.things': ['How To Draw Cute Things', 'RNDapps', '100,000+', None, 'rizkysepulauraya@gmail.com']}
+{'com.trippy.lost': ['T R I P P Y † - Aesthetic Filters Photo Glitch Art', '7555325798188342949', '50,000+', 'http://hy.com', 'yassine.kaissi1@gmail.com']}
+{'com.sanketika.easyorigamiideas': ['Easy Origami Ideas', 'Sanketika', '500,000+', 'https://www.sanketika.net', 'sanketika.developers@gmail.com']}
+{'com.diytech.drawsignature': ['Draw Signature', '8553431922523540184', '50,000+', 'https://diytechpro.com', 'rahib.ali@gmail.com']}
+{'com.romanreigns.hdwallpapers3': ['Roman Reigns Wallpapers HD', 'arbc+modeles', '50,000+', 'http://pickdown.website/privacy-policy.html', 'healthylife4007@gmail.com']}
+{'com.sk.socialmediapostmaker': ['Cover Photo Maker - Banners & Thumbnails Designer', 'Nilesh+Jain', '10,000+', 'https://sites.google.com/view/3martians', 'nilesh.sanghavi92@gmail.com']}
+{'com.AndyFront.JerkyMotion': ['Jerky Motion', 'Andy+Front', '500,000+', 'https://sites.google.com/view/jerkymotion', 'jerkymotionapp@gmail.com']}
+{'com.pragma.mirrordrawing': ['Mirror Drawing Maker', '5609913392815792467', '10,000+', 'http://www.pragmainfotech.com', 'jay@pragmainfotech.com']}
+{'com.sweefitstudios.drawkawaii': ['How to Draw Kawaii Drawings', '8890723712967774017', '1,000,000+', 'http://www.sweefitstudios.com/', 'sweefit.studios@gmail.com']}
+{'howtodraw.pokemon.stepbystep': ['How to Draw Pokemon Step by Step', 'Draw+Pokemon+%26+Cartoon+Step+by+Step', '10,000+', None, 'socialrock04@gmail.com']}
+{'prime.nnkhire.mytextwallpaper': ['MyText - Text Wallpaper Maker, Focus on your Goals', '6812684529346551020', '10,000+', None, 'onlyonenac@gmail.com']}
+{'com.bhima.logoart': ['Logo Maker & Logo Design Generator', 'Bhima+Apps', '1,000,000+', 'https://bhimaapps.blogspot.in/2017/02/privacy-policy.html', 'bhimaapps.help@gmail.com']}
+{'uk.photoscar.toon.editor': ['Photo Cartoon Editor & Effects : Cartoon Yourself', 'Lab.studio2017', '1,000,000+', 'https://sites.google.com/view/privacy-policy20171806/accueil', 'support@photo_cartoon.com']}
+{'com.pixilart.app': ['Pixilart - Create pixel art on the go & socialize', 'Pixilart', '10,000+', 'https://www.pixilart.com', 'support@pixilart.com']}
+{'com.redberry.coloringfruits': ['Fruits and Vegetables Coloring Game', '6938298709975174416', '100,000+', 'https://redberrygames.blogspot.com/2018/10/privacy-policy-redberry-games-we.html', 'helmotawakil5@gmail.com']}
+{'com.fortniteallseasonart.fortnite.wallpapers.skin.emote.free': ['New Fort Battle Royal Wallpapers - 4K Backgrounds', 'HICHAM', '500+', 'https://sites.google.com/view/appsforestltd/home', 'Applovin1@gmail.com']}
+{'raviansolutions.logomaker3d.logomakerfree': ['3D Logo Maker 2019', 'RaviansSolutions.Inc', '5,000+', 'https://logohubapps.000webhostapp.com/privacy_policy.html', 'irfanfareed690@gmail.com']}
+{'ktech.sketchar': ['SketchAR: How to draw with augmented reality', 'SketchAR,+UAB', '100,000+', 'http://sketchar.tech', 'hi@sketchar.tech']}
+{'com.sketchart.easydrawingideas': ['Easy Drawing Ideas', 'Sketch+Art', '100,000+', 'https://sites.google.com/view/privacy-policy-7', 'ash.divano@gmail.com']}
+{'com.devilsline.trippieredd': ['Trippie Redd Wallpaper HD', 'DevilsLine+Inc.', '5,000+', 'http://devilslineinc.blogspot.co.id/2018/05/privacy-policy-of-devilslineinc.html', 'berukuranraksasa@gmail.com']}
+{'com.materialviewinc.drawdrink': ['How To Draw Drinks', '7231017060480621835', '10,000+', 'https://www.instagram.com/materialviewinc/', 'developer-support@materialviewinc.com']}
+{'com.meltinglogic.pixly': ['Pixly - Pixel Art Editor', 'Gustavo+Maciel', '100,000+', 'http://pixly.meltinglogic.com', 'gustavo@meltinglogic.com']}
+{'com.tool.painting.sketch_mirror.mirrordrawing': ['Mirror Drawing - Make Mirror DP, mirror pic, paint', 'UttamApps+Developer', '1,000+', 'http://uttamappdev.blogspot.com', 'uttamappsdeveloper@gmail.com']}
+{'com.infokombinat.howtodrawkawaii': ['How To Draw Kawaii', 'Infokombinat', '500,000+', 'http://www.infokombinat.com/', 'developer.infokombinat@gmail.com']}
+{'com.appsforest.lockscreen.fortnite.free': ['4K  FBR Wallpapers Lock Screen -Battle Royal', 'HICHAM', '500+', 'https://sites.google.com/view/appsforestltd/home', 'Applovin1@gmail.com']}
+{'com.pixel.draw.art.coloring.book': ['Coloring Book - Paint By Number 2018', 'Diary+Your+Everyday', '5,000+', 'https://sites.google.com/view/coloringbookpaintnumber', 'diaryeveryday.notelyme@gmail.com']}
+{'learn.to.draw.glow.animal': ['Draw Glow Animals', 'Draw+apps+for+free', '1,000,000+', 'http://drawapps.cc/privacy.html', 'draw.app@hotmail.com']}
+{'id.delta.edge': ['EDGE WALLPAPER [CREATOR]', '7416405647553149189', '50,000+', 'http://deltalabsstudio.com', 'deltalabsstudio@gmail.com']}
+{'com.depa.flagmaker': ['Flag Maker', 'DP+Development', '5,000+', 'http://github.com/deeepaaa', 'depasquale.a@tuta.io']}
+{'com.levitman.letsdraw': ["Let's Draw", 'Levitman', '500,000+', 'https://www.iubenda.com/privacy-policy/8044726', 'levitman.apps@gmail.com']}
+{'canlee.lucas.marcus': ['Wallpapers for Lucas and Marcus', 'CanLee+AppDev', '1,000+', 'https://canleeappdev.blogspot.com/', 'yaqout.touqay@gmail.com']}
+{'com.Superhero.Color.by.Number': ['Superheroes Color by Number', 'Art+of+Pixel+Apps', '1,000+', 'https://sites.google.com/view/superheroes-color-by-number/accueil', 'art.of.pixel.2019@gmail.com']}
+{'com.apptrends.photovideomakerwithmusic.photo.video.maker.music.slideshow.editor': ['Photo Video Maker with Music - Video Editor', 'AppTrends', '1,000,000+', 'https://sites.google.com/site/apptrends9/home/privacy-policy', 'shdwallpaper@gmail.com']}
+{'app.poster.maker.postermaker.flyer.designer': ['Poster Maker, Banner, Flyer, Ads, Card Designer', 'Technozer+Solution', '100,000+', 'http://phpstack-165541-479065.cloudwaysapps.com/ideaX/policy.html', 'technozer07@gmail.com']}
+{'constructionsolution.com.diy': ['DIY Ideas', 'constructionsolution', '100,000+', 'http://alambuilders.biz', 'constructionsolution30@gmail.com']}
+{'com.winricklabs.pixmap_client': ['Pixmap: Pixel Art Editor MMO', 'winrickLabs', '500+', 'http://winricklabs.com', 'pixmapwinricklabs@gmail.com']}
+{'com.vayne.animewallpapernew': ['Anime Wallpaper', 'Banto515', '100,000+', 'https://docs.google.com/document/d/1QGF1POohM2xYuptlWG_0LoTPytTnFFaPhJDEBgDSCn0/edit', 'mitsuha515@gmail.com']}
+{'com.noer.rikimortwallpaper': ['Rick & Morty Wallpaper Ultra HD', 'maria+espinoza', '1,000+', 'https://sites.google.com/view/maria-espinoza/beranda', 'info.mariaespinoza@gmail.com']}
+{'com.tokyoghoulwallpapershd2018.tokyoghoulwallpaper9': ['Tokyo Ghoul Wallpapers HD', 'Unity+Studio+9', '10,000+', 'https://unity-studio-9.webflow.io/', 'xpfusion@gmail.com']}
+{'com.cutebearwallpaper.realiswallpaperhd.cutebear.app294628': ['Cute Bear Wallpapers', 'Realis+Wallpaper+HD', '10,000+', 'https://yudialfiano903817.wixsite.com/privacypolicy', 'realiswallpaperhd@yahoo.com']}
+{'com.energysh.drawtutor': ['Anime Drawing Tutorial Maker - DrawShow Tutor', 'DrawShow+Anime+Studio', '10,000+', 'http://www.drawshow.com', 'drawshowstudio@gmail.com']}
+{'com.bestwalls.superheroesartwork': ['Superheroes Artworks HD & 4K Wallpapers', 'Apphics+Technologies', '500+', 'http://apphicssuperheroswallpapers.xyz/privacy_policy.html', 'bestwalls.xyz@gmail.com']}
+{'com.weddingcard.maker.creator': ['Stylish Wedding Invitation Card Maker 2018', 'NN+Centrex+Solutions', '100,000+', 'https://docs.google.com/document/d/1mo39bjWRkbKvDxzD2DTze5LcmCxfqHp3aDW_mzqi538/edit?usp=sharing', 'juanmeraza17@gmail.com']}
+{'com.novateam.textart.textstyle': ['Text Style, Text Art - Stylish Text - Fancy Text', 'OneDollar', '100,000+', 'https://novaprivacy.wixsite.com/privacy', 'novateam192@gmail.com']}
+{'com.mmicunovic.papercopy': ['Papercopy', '5420836866696796046', '5,000+', 'http://mmicunovic.com', 'milos@mmicunovic.com']}
+{'com.iboattech.avatar.cute': ['Cute Avatar Maker: Make Your Own Cute Avatar', 'iBoattech', '1,000+', 'https://iboattech.blogspot.com/2018/11/privacy-policy.html', 'gamemaster2018@163.com']}
+{'text3d.photos.lite': ['3D Text On Pictures - Logo & Name Art', 'Native,+Inc.', '500,000+', 'https://islamicurdu.wordpress.com', 'rawodatulatfal@gmail.com']}
+{'com.launcher.theme.t211811277': ['Scary Clown Theme\U0001f921', 'Comic+Legends+Theme', '10,000+', 'http://www.cmcm.com/protocol/launcher-theme/privacy.html', 'ahlarray3@gmail.com']}
+{'com.wingtyg.wngtywal.wallapp': ['Wengie Wallpapers  | HD Backgrounds', 'Illy_wall_cleve', '1,000+', 'https://sites.google.com/view/wegii', 'illycleve8@gmail.com']}
+{'com.HarleyQuinn.sevastar': ['Harley Quinn HD Wallpapers', 'sevastar', '10,000+', None, 'muhsin1353@gmail.com']}
+{'com.funkoder.marcusandlucaswallpaper': ['Wallpapers for Lucas and marcus', 'funkoder', '1,000+', 'https://sites.google.com/view/privacypolicyfunkoder/wallpaper-ml', 'funkoder@gmail.com']}
+{'com.nsoft.calligraphy.nameart': ['Calligraphy Name', '7538275800704317349', '500,000+', 'https://nsoftinc.wordpress.com/privacy-policy/', 'solitairegame123@gmail.com']}
+{'com.gzlh.drawanimals': ['How to draw animals', 'drawings+apps', '10,000+', None, 'loufranighita8@gmail.com']}
+{'com.kidscoloringbook.android': ['Coloring book moana', 'extragames', '1,000,000+', 'https://sites.google.com/view/extragames065/privay-policy', 'extragame065@gmail.com']}
+{'com.aak.drawdrink': ['How To Draw Drink', 'RNDapps', '100,000+', None, 'rizkysepulauraya@gmail.com']}
+{'com.reallymake.android.pottery': ['Really Make–Virtually Create Pottery & Ceramic Art', 'ReallyMake+LLC', '100,000+', 'http://www.reallymake.com', 'support@reallymake.com']}
+{'com.bagestudio.posemax': ['Pose Max', 'BG+Studio', '5,000+', 'http://bagestudio.com/privacy-policy.htm', 'developer@bagestudio.com']}
+{'com.apps3DMannequins.WolfMannequin': ['Wolf Mannequin', '3D+Mannequins', '100,000+', 'http://3dmannequins.com', '3dmannequins@gmail.com']}
+{'com.NufiWardh.xxxtentacionwallpaper': ['XXXTentacion Wallpaper HD', 'NufiWardh', '1,000+', 'https://nufiwardhdeveloper.blogspot.com/2018/12/privacy-policy.html', 'jedmena126@gmail.com']}
+{'com.ew.coloring.animal': ['2018 for Animals Coloring Books', 'ColorJoy', '100,000+', 'http://coloring.hk/colorjoy_privacy.html', 'colorjoy.feedback@outlook.com']}
+{'com.apps3DMannequins.FemaleMannequin': ['Female Mannequin', '3D+Mannequins', '50,000+', 'http://3dmannequins.com', '3dmannequins@gmail.com']}
+{'com.VanguardStudio.jakepaulwallpaper': ['Jake Paul Wallpaper HD', 'VangguardInc', '100+', 'https://vangguardinc.blogspot.com/2019/02/privacy-policy.html', 'hasiltawaduk@gmail.com']}
+{'com.gemallo.photopixel': ['Color By Numbers  Pixel Art Sandbox Coloring Book', 'Space+Captain', '10,000+', 'http://gemallodreams.blogspot.com/p/at-gemallo-we-take-your-privacy-very.html', 'gemalloapps2@ail.com']}
+{'com.Playrion.AirlinesPainter': ['Airlines Painter', '6457893425161276771', '100,000+', 'https://www.airlines-manager.com', 'marion@airlines-manager.com']}
+{'com.infokombinat.howtodrawdinosaurs': ['How To Draw Dinosaurs', 'Infokombinat', '100,000+', 'http://www.infokombinat.com/', 'developer.infokombinat@gmail.com']}
+{'com.myz.ice': ['How To Draw Cute Ice Cream', 'MyzID', '10,000+', None, 'ardanshadow@gmail.com']}
+{'com.MasyourbaeStudio.billieeilishwallpaper': ['Billie Eilish Wallpaper HD', 'MasyourbaeStudio', '5,000+', 'https://masyourbae.blogspot.com/p/privacy-policy-masyourbaestudio-built.html', 'rasionklam66@gmail.com']}
+{'com.Flowers.Arrangement.Images': ['Flowers Arrangement 2019', '7717068664800828599', '100,000+', 'http://mrdevv2017.com', 'mrdevv2017@gmail.com']}
+{'com.womenmotivationquotes.hannapp': ['women motivation quotes', 'hannapp', '5,000+', 'https://docs.google.com/document/d/1R7F1xM406aamzu30bLuE_tGi0PM-ebuWddm1c_IvIW0/edit?usp=sharing', 'hannapertiwi121@gmail.com']}
+{'com.kalainbrawn.coloringprettycure': ['How to Color Pretty Cure', 'kalainbrawn', '5,000+', 'https://sites.google.com/view/kalaindevprivacypolicy', 'kalain.brawn.dev@gmail.com']}
+{'com.newwallpapers.forhtnitefhd': ['New Forthnaite Wallpaper HD 2019', 'AYM+Creative', '500+', None, 'aymcreative19@gmail.com']}
+{'hd.wallpaper.littlenighmare.nzrl': ['Little Nighmare Wallpaper', 'NZrl+Elv', '10,000+', 'https://docs.google.com/document/d/1TceWHjZCvDHeQ06DziaxLfr1EcaBlZeclCbBJR04Gt8/edit?usp=sharing', 'aisyahmardiyah95@gmail.com']}
+{'com.DriveStudios.NancyBakerCahillStudio': ['4th Wall', 'Drive+Studios', '500+', 'http://nancybakercahill.com', 'driveeffects.com@gmail.com']}
+{'art.teamlab.exhibitions.app': ['teamLab', 'teamLab+Inc.', '100,000+', 'https://teamlab.art/app/', 'info@team-lab.com']}
+{'com.paperorigami.origamivideos': ['Paper Origami 2019', 'Noobs+Strikes', '50,000+', 'https://codechunks1.github.io/index.html', 'noobstrik3632@gmail.com']}
+{'com.bughats.HowToDrawLoveHearts': ['How To Draw Love Hearts', 'Bughats', '100,000+', 'http://www.saranailmu.com', 'bughats04@gmail.com']}
+{'com.DIYPaperCraftIdeas.Esmut': ['DIY Paper Craft Ideas', 'Esmut', '100,000+', 'https://sites.google.com/site/esmutsprivacypolicy/', 'semutmencariberkah@gmail.com']}
+{'com.aamirki.mappium': ['Mappium Map Maker', 'Aamir+KI', '10,000+', 'http://annotatedusconstitution.com/mappiumprivacypolicy', 'aamirkislam@gmail.com']}
+{'com.tapblaze.coloring.book.mandala': ['Colorflow: Adult Coloring & Mandala', '7300020765194314153', '100,000+', 'http://www.tapblaze.com', 'support@tapblaze.com']}
+{'com.infokombinat.paperplane': ['Paper Plane Origami Instructions', 'Infokombinat', '100,000+', 'http://www.infokombinat.com/', 'developer.infokombinat@gmail.com']}
+{'com.appinfo.babydrawing': ['Drawing Pad', 'App+Info+Solution', '10,000+', None, 'app.info.solution@gmail.com']}
+{'com.sunny.halloween.coloring.book': ['Halloween Coloring Book', 'Sunny+Kid+Games', '100,000+', 'https://twitter.com/sunnykidgames', 'sunnykidgames@gmail.com']}
+{'com.galaxy.photocloneeditor': ['Photo Clone Editor', 'Galaxy+Launcher', '50,000+', 'https://sites.google.com/site/galaxylauncherapps/privacy-policy', 'galaxylaunchers@gmail.com']}
+{'com.domobile.aut.cuniverse': ['AppLock Theme Universe', 'AppLock@DoMobile', '100,000+', 'http://www.domobile.com', 'support@domobile.com']}
+{'ma.photoscar.toon.effect': ['Éditeur Cartoon Photo', 'Lab.studio2017', '100,000+', 'https://sites.google.com/view/privacy-policy20171806/accueil', 'support@Photo-Cartoon.com']}
+{'com.fortnitewallpapers.ultra.hdfortnite.wallpapers.free': ['HD Fort Art Battle Royal Wallpapers', 'HICHAM', '1,000+', 'https://sites.google.com/view/creativescastlestudio/home', 'Applovin1@gmail.com']}
+{'com.tozoappx.logoMakerFree': ['Logo Maker Free', 'ZoTo+Appx', '100,000+', 'https://docs.google.com/document/d/e/2PACX-1vRTaOQS0kcVEvy0kXJiLj-7S8giMB3TMXahI6T4ar48QmLr3jYrKgWWkbimuWKZe20lTjozIBhjjIvw/pub', 'zotoappx@gamil.com']}
+{'com.drawstadiowolvesart.wolvesdrawingtutos': ['How to Draw Wolves - Easy Drawing Step by Step', 'Lessons+step+by+step+drawing+tutorials', '10,000+', 'https://sites.google.com/view/pp-drawing-applications-2019', 'lahcen.lkhroubo@gmail.com']}
+{'com.DesainKotakSpeakerFullBass.herison': ['Full Bass Speaker Box Design', 'Herisonapp', '10,000+', 'https://docs.google.com/document/d/1tk4ld9tvkjy5UXFeE0dmywVVlVymABN_54cKMvJmGeg/edit?usp=sharing', 'dherison03@gmail.com']}
+{'com.AuladiProApps.BokuNoHeroAcademiaWallpaper': ['Boku No Hero Academia Wallpaper', '7572890533542981655', '1,000+', 'https://docs.google.com/document/d/e/2PACX-1vTS5hj2qOtI7uBPCvhAgv5iAItgMzclWXS9lObicaNFJMGAukwFJjfNYF1i4793kSsdbYTiRkqTYCrx/pub', 'auladikoe@gmail.com']}
+{'com.abdelmonem.writeonimage': ['Designer Pro - Write On Picture', '6440659997390941373', '500,000+', 'https://sites.google.com/view/droidyapps/privacy-policy', 'abdelmonemezzat1994@gmail.com']}
+{'com.metajunky.glitterpaint': ['Glitter Paint', 'Metajunky+Studios', '500,000+', 'http://www.metajunky.com', 'metajunky.studios@gmail.com']}
+{'com.AlmeerAlfatih.StephenCurryWallpapers': ['Stephen Curry Wallpapers HD', 'Almeer+Alfatih', '10,000+', 'http://privacypolicyalmeeralfatih.blogspot.com/2018/09/privacy-policy.html', 'gelisaresah3@gmail.com']}
+{'com.FlastDroid.LetteringDesignsAlphabet': ['Lettering Designs Alphabet', 'Flast+Droid', '50,000+', 'https://docs.google.com/document/d/1XrrRuFwpfvo9l93EK75E61Nf7pHOagzi9QzFRpmDpu4/pub', 'panjangkacang164@gmail.com']}
+{'com.weirdhat.roughanimator': ['RoughAnimator - animation app', 'WeirdHat', '10,000+', 'http://www.roughanimator.com/', 'weirdhat@weirdhat.com']}
+{'com.ambientdesign.artrage.playstore': ['ArtRage: Draw, Paint, Create', '5098404652381278867', '50,000+', 'https://www.artrage.com', 'support@ambientdesign.com']}
+{'com.ioslauncher.pro': ['X Launcher Pro: PhoneX Theme, OS11 Control Center', 'Launcher+Developer', '10,000+', 'https://webgenie-team.github.io/iOSLauncherPrivacyPolicy/pro.htm', 'ioslauncher@163.com']}
+{'com.phone.ulauncher.pro.no.ad': ['U Launcher Pro-NO ADS', 'Moboapps+Dev+Team', '500+', 'http://moboapps.io/ulauncherlite_privacy_policy/privacy.policy.html', 'Moboappsdev@gmail.com']}
+{'com.ioslauncher.prime': ['X Launcher Prime: With OS Style Theme & No Ads', 'Launcher+Developer', '5,000+', 'https://webgenie-team.github.io/iOSLauncherPrivacyPolicy/prime.htm', 'ioslauncher@163.com']}
+{'die.diewithme': ['Die With Me', 'Dries+Depoorter', '10,000+', 'https://www.driesdepoorter.be', 'mail@driesdepoorter.be']}
+{'de.isegrim.threadorganizer': ['Cross Stitch Thread Organizer', 'IsegrimStitches', '1,000+', None, 'isegrim.apps@gmail.com']}
+{'com.SpiritRealm.CameraLucidaAR': ['Camera Lucida AR', 'Spirit+Realm+Games', '1,000+', 'https://mrsnrhms.github.io/CameraLucidaAR/', 'SpiritRealmGames@gmail.com']}
+{'com.zalivka.animation': ['Draw Cartoons 2 PRO', 'Drawing+Cartoons+Ltd', '10,000+', 'https://docs.google.com/document/d/1mbVsod0gwqWF3v12EFeR3UQ00ZihuMCBiQ3uSa1mNdk/edit#heading=h.1cvvkcc3hih5', 'drawingcartoonsltd+fat@gmail.com']}
+{'com.nevato75.artmodel': ['Art Model - 3D Pose tool and morphing tool', '8401031402574408270', '1,000+', 'http://codelunatics.com', 'nevato75@gmail.com']}
+{'com.iphone.xs.launcher.prime.ios12.theme': ['XS Launcher Prime | Stylish OS Theme Phone XS Max', '5280984369230066583', '10,000+', 'https://www.facebook.com/poplockerteam', 'poplockerteam@gmail.com']}
+{'com.mark.calligrapherpro': ['Calligrapher Pro', 'Mark+Tushkevich', '1,000+', None, 'mark60493@gmail.com']}
+{'com.artware.ArtP': ['ArtPose Pro', 'Artware+Apps', '500+', 'http://www.art-pose.com', 'artpose.app@gmail.com']}
+{'com.cadTouch.androidFull': ['CAD Touch Pro', 'cadTouch+Software', '10,000+', 'http://www.cadtouch.com', 'support@cadtouch.com']}
+{'com.JindoBlu.HandDraw3D': ['Hand Draw 3D Pose Tool', '8369547020914796683', '1,000+', 'http://jindoblu.altervista.org/', 'blujindo@gmail.com']}
+{'com.bigpantsgroup.notanizer': ['NotanIzer', 'bigpantsgroup', '100+', 'http://www.bigpantsgroup.com', 'damon@bigpantsgroup.com']}
+{'air.WeddingDressDesign': ['Wedding Dress Design', 'AzaleasDolls', '1,000+', 'http://azaleasdolls.com', 'azaleasdolls@yahoo.com']}
+{'com.lee.VRDrawing': ['VR Painter', '6722520191413703609', '100+', 'http://www.funwave.co.kr', 'funwave2014@gmail.com']}

@@ -1,0 +1,1028 @@
+{'music.downloader.player.free.online.offlline.songs.musical': ['Free Music APP - Offline Music Player', 'Trending+Music+Studio', '10,000+', 'https://sites.google.com/view/music-cloud-free-player/home', 'zushimekuretsu97@gmail.com']}
+{'music.basss.booster.effect.equalizer': ['Equalizer -- Bass Booster & Volume EQ &Virtualizer', 'iJoysoft', '100,000+', 'https://appprivacy.oss-us-east-1.aliyuncs.com/AppPrivacy.txt', 'smartchen2015@gmail.com']}
+{'free.trending.music.songs.offline.player.downloader.tube.freemusic.musical': ['Free Trending Music - Music Player', 'Enjoy+Time+Team', '1,000+', 'https://sites.google.com/view/freetrendingmusic/%E9%A6%96%E9%A1%B5', 'sheltertb@gmail.com']}
+{'com.musicdownloader.downloadmusic.audiodownloader.freemp3': ['Music downloader - Best music downloader 2019', '5442271158867847331', '5,000+', 'https://sites.google.com/site/blackmobilestarpolicy/', 'black.mobile19star@gmail.com']}
+{'free.mp3.music.download.lab.lite': ['Free Mp3 Music Downloader', 'music+video+download+%26+play+tube+studio', '50,000+', 'https://musicvideo-lab.github.io/privacy-policy.html', 'musicvideocooldownload@gmail.com']}
+{'com.mp3.mattyb.free': ['MattyB', 'Marcil', '50+', None, 'Marcil3laurent@gmail.com']}
+{'eu.theusefulapps.mychordbooklite': ['Guitar Songbook Lite', 'thePandaApps', '50+', None, 'balazpeters@gmail.com']}
+{'com.nb_again.young_boy.songs': ['NBA Young Boy Songs And Lyrics 2019', 'pacific+team+studio', '10+', 'https://github.com/chihablog/young/projects', 'chihab.lough@gmail.com']}
+{'com.prawisudadev.xxx.tentaction.song2019': ['All Song xXxTentaction 2019', 'Prawisuda+dev.', '100+', 'http://cobaajadulu.xyz/privacy_policy_xxx_song_prawisuda.html', 'prawisuda30@gmail.com']}
+{'com.bestringtones.sevenrings': ['7 rings ringtone', '6337821368075053078', '100+', 'https://sites.google.com/view/privacypolicywinnajnd/', 'winna1994c@gmail.com']}
+{'com.player.tmkapps.lilwayne': ['Lil Wayne Hits/Lyrics - Without internet', 'notorious.tmk', '100+', 'https://sites.google.com/view/notorioustmk/notorious-tmk-privacy-policy', 'notorious.tmk@gmail.com']}
+{'com.freemusicapps.mp3download': ['Music download : mp3 player & video downloader', 'Amazing+Apps+Devs', '500+', None, 'moad.superDbz910@gmail.com']}
+{'com.kradioapp.univisiondeportesgratisapp': ['Univision Deportes Gratis App', 'KRADIOAPP', '10+', 'https://www.facebook.com/notes/best-apps/privacy-policy-for-mobile-applications/2289646447945614', 'carlosehp@gmail.com']}
+{'com.mp3.bad.bunny': ['Bad Bunny', 'Marcil', '10+', None, 'Marcil3laurent@gmail.com']}
+{'com.player.tmkapps.lilskies': ['LiL Skies Hits/Lyrics - Without internet', 'notorious.tmk', '5+', 'https://sites.google.com/view/notorioustmk/notorious-tmk-privacy-policy', 'notorious.tmk@gmail.com']}
+{'com.advenz.himnarioantiguo': ['Antiguo Himnario Adventista 1962', 'Advenz', '50+', 'http://www.advenz.com', 'soporte@advenz.com']}
+{'com.galaxymusicplayer.galaxymusic': ['S10 Music Player - Mp3 player style S10 Galaxy', 'Galaxy+Media+Tool', '5,000+', 'https://goo.gl/vCLu89', 'ducanhnguyen12a@gmail.com']}
+{'com.andromo.dev810056.app917765': ['Blues R&B Swingout Songs (without internet)', 'Wiam+elhafi', '10+', None, 'Elhafiwiam@gmail.com']}
+{'com.bestringtones.maroon': ['Girls like you - ringtone', '6337821368075053078', '100+', 'https://sites.google.com/view/privacypolicywinnajnd/', 'winna1994c@gmail.com']}
+{'com.shamarapp.androidapp': ['Shamar', 'Shamar', '100+', 'http://shamarawards.com', 'shamarawards@gmail.com']}
+{'com.billieeilish.insurence': ['Billie Eilish - Bury a Friend Offline Song Lyrics', '7418739133023302250', '100+', 'https://karamaik.blogspot.com/2019/01/privacy-policy.html', 'karamaikbana1212@gmail.com']}
+{'com.mp3.billie.eilish': ['Billie Eilish', 'Marcil', '50+', None, 'Marcil3laurent@gmail.com']}
+{'com.andromo.dev410805.app928350': ['KATZ Radio', 'Stretch+Productions', '1+', 'http://www.katzradio.org/', 'rrmccraw@gmail.com']}
+{'com.fujitsu.sbika.nba': ['NBA Youngboy Songs', 'Medioapp', '10+', 'https://sites.google.com/view/medioapp/privacy-policy', 'ayoubelomrani12@gmail.com']}
+{'com.musiceditor.mp3cutter.mp3editor': ['MP3 Cutter Ringtone Maker, Audio Cutter And Editor', 'Alfried+Billy', '1,000+', 'http://bit.ly/2GxpiDi', 'alfriedbilly1108@gmail.com']}
+{'com.begood_insurance.michael_jackson_music_songs_lyrics_videos': ['Michael Jackson All Songs', '4973389796559225127', '50+', 'https://sites.google.com/view/tiflsaeid', 'mm4738433@gmail.com']}
+{'com.rapgodproject.beats': ['Rap God Free Version', 'Studio+Life+Productions', '10+', 'http://studiolifepro.com', 'studiolifepro@gmail.com']}
+{'com.exlivinapps.labuenalamalayelfeoradioappfmusa': ['La Buena La Mala Y El Feo Radio App FM USA Free', '4834436202531924883', '5+', 'https://exlivinapps.blogspot.com/', 'apps@exlivinapps.com']}
+{'eu.mobilesoft.bequiet': ['Be Quiet! - Volume control', '4684894861933048299', '1,000+', 'http://www.mobilesoft.eu', 'info@mobilesoft.eu']}
+{'com.Alfadani.johndenver': ['John Denver Songs, Video, Mp3 and Lyric', 'Alfadani+Studio', '100+', 'https://alfadanistudio.blogspot.com/', 'dicky.kartika@gmail.com']}
+{'com.seniorapps.thebuzz945houston': ['94.5 The Buzz', 'Senior+App', '10+', 'http://politicasprivacidadapps.blogspot.com/2017/10/politicas-de-privacidad-desarrolladores.html', 'castillo.marfil.antonio@gmail.com']}
+{'com.rbd2019.Orlando': ['RBD Mp3', 'MundodeAplicacionesJA', '100+', 'http://www.e-droid.net/privacy.php?ida=596161&idl=es', 'thefamilyhappy4@gmail.com']}
+{'com.sexlainicapps.soundtrackofzmobies': ['Zombies Soundtrack', 'Sexlainic+Apps', '10+', None, 'senxlanic@yahoo.com']}
+{'com.lgsmartapps.wefm961viberadiostationtrinidadandtobagohd': ['96.1 WEFM Vibe Radio Station Trinidad and Tobago', 'lgsmartapps', '10+', 'http://lgsmartapp.blogspot.es/1525469746/privacy-policy-for-mobile-applications/', 'vjimprovement1987@gmail.com']}
+{'com.thegreatestclassichits.johnnycash': ['Johnny Cash song lyrics - Greatest Hits 50s - 2019', 'ABDUL1986GAFUR', '10+', 'https://thegreatestclassichits.blogspot.com/2019/02/comthegreatestclassichitsjohnnycash.html', 'abdul1986gafur@gmail.com']}
+{'com.satiation.xylophonepm': ['Easy Xylophone', 'Satiation+Light', '100+', 'http://satiation.in/privacypolicy.html', 'mayankswapp@gmail.com']}
+{'free.music.offline.music.player.downloader.songs.musi.freemusic': ['Free Music - Music APP,  Offline Music', 'Music+Offline+Team', '100,000+', 'https://sites.google.com/view/privacy-policy-of-music/home', 'foeossoy@gmail.com']}
+{'music.downloader.player.free.online.offlline.songs.musical': ['Free Music APP - Offline Music Player', 'Trending+Music+Studio', '10,000+', 'https://sites.google.com/view/music-cloud-free-player/home', 'zushimekuretsu97@gmail.com']}
+{'com.smule.singandroid': ['Smule - The #1 Singing App', 'Smule', '100,000,000+', 'http://www.smule.com', 'support+googleplaystore@smule.com']}
+{'com.clearchannel.iheartradio.controller': ['iHeartRadio - Free Music, Radio & Podcasts', '8821283674927730745', '50,000,000+', 'http://iheart.com', 'android@iheartradio.com']}
+{'equalizer.power.bass.booster.player.music.eq': ['Music Bass Equalizer Booster & Volume Up', 'Music+Carnival', '1,000,000+', 'https://bit.ly/2CO80jv', 'lemontreedtt@gmail.com']}
+{'com.google.android.music': ['Google Play Music', '5700313618786177705', '1,000,000,000+', 'http://play.google.com/music/', 'apps-help@google.com']}
+{'com.sirius': ['SiriusXM', 'Sirius+XM+Radio+Inc', '10,000,000+', 'http://siriusxm.com/streaming', 'listenercare@siriusxm.com']}
+{'musicplayer.equalizer.bassbooster.theme': ['Music Player - Audio Player with Best Sound Effect', 'Dreams+Room', '1,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Dreeam_Room/MusicPrivacy.txt', 'panjiaqiong@gmail.com']}
+{'sound.booster.surround.equalization': ['Music Surround Equalization-Bass &Equalization+', 'Music+Surround+Equalization+Dev', '100,000+', 'https://bit.ly/2D5mquS', 'webxgh7@gmail.com']}
+{'free.trending.music.songs.offline.player.downloader.tube.freemusic.musical': ['Free Trending Music - Music Player', 'Enjoy+Time+Team', '1,000+', 'https://sites.google.com/view/freetrendingmusic/%E9%A6%96%E9%A1%B5', 'sheltertb@gmail.com']}
+{'com.voice.music.tone.changer.must.have': ['Voice Changer Voice Recorder - Editor & Effect', '4634047496794859154', '500,000+', 'https://sites.google.com/view/handytools', 'iHandyToolBox@gmail.com']}
+{'com.sofeh.android.musicstudio3': ['ORG 2019', '6947556644764074972', '50,000,000+', 'http://www.sofeh.com', 'support@sofeh.com']}
+{'com.ezapp.online.offline.musicplayer.free': ['Music Plus - Online & Offline Music Player', 'EZ+MUSIC+INC.', '10,000+', 'https://sites.google.com/view/ezmusicinc', 'backmanbjarredwisemanrandell@gmail.com']}
+{'com.dsgrmgmusica': ['Free Music MP3 Download', 'Day%C4%B1+Mobile+App.', '50,000+', None, 'Aufatihs@gmail.com']}
+{'com.admousic.freemusictest.downloadccmusicmp3': ['Mp3 Music Download', 'Mp3+Music+Downloader+apps.', '5,000+', None, 'mensdamm@gmail.com']}
+{'free.music.tube.player': ['Free Music for YouTube', 'Crazy+Free+Music', '1,000,000+', 'https://goo.gl/RZ6AK1', 'topfreemusicteam@gmail.com']}
+{'com.mwm.guitar': ['Guitar - play music games, pro tabs and chords!', '6775629480928024144', '5,000,000+', 'http://musicworldmedia.com/', 'support-guitar@mwmapps.com']}
+{'com.musicdownload.videodownloaderv2': ['Download Music Mp3', 'Music+Downloader+-+Player+Studio', '10,000+', 'http://theory.stanford.edu/~korolova/link_privacy_CIKM08.pdf', 'kevinlibre.studio@gmail.com']}
+{'com.fanlyric.fanflyric': ['Lyrics FNAF 1 2 3 4 5 6 Songs Free', 'Best+App+Pro+Studio', '500,000+', 'http://bit.ly/2IfrmfU', 'bumetroplum@gmail.com']}
+{'voice.recorder.soundrecorder': ['Voice Recorder - Audio Recorder', '6776354245234746269', '100,000+', 'https://soundrecorder.weebly.com/', 'nice_team@foxmail.com']}
+{'com.stitcher.app': ['Stitcher - Podcasts & Radio - News, Comedy, & More', 'Stitcher,+Inc', '5,000,000+', 'http://stitcher.com', 'feedback@stitcher.com']}
+{'com.whimmusic2018.android': ['Free Music Download', 'Whim+Music', '100,000+', None, 'whim.music.info@gmail.com']}
+{'com.goldenvoice.stagecoach': ['Stagecoach Festival', 'Goldenvoice+Concerts', '10,000+', 'http://www.stagecoachfestival.com/', 'support@greencopper.com']}
+{'com.chebdev.trapdrumpadsguru': ['Trap Drum Pads Guru', 'chebdev', '1,000,000+', 'http://drumpadsguru.com', 'chebdev@gmail.com']}
+{'volume.sound.booster.equalizer': ['High Loud Volume Booster (Super Sound Booster)', 'ALASKA+TEAM+Inc', '10,000+', None, 'appstechdevelopers101@gmail.com']}
+{'com.music.bass.equalizer.volume.booster.pro': ['Equalizer Pro & Bass Booster', 'Tango+Beats', '1,000,000+', 'https://bit.ly/2IMBzSE', 'Xiaoyy1006@gmail.com']}
+{'com.app.lainvasoraatlanta': ['La invasora Atlanta', 'Sky+Communications', '100+', 'http://www.lainvasoradenver.com', 'tony@lainvasoradenver.com']}
+{'com.cma.cmafest': ['CMA Fest 2019', 'CMA+Country+Music+Association', '50,000+', 'http://www.CMAworld.com', 'countrymusicassoc@gmail.com']}
+{'bass.ultra.booster.free': ['Bass Booster Pro 2019 - Take your bass to the max', 'Volume+Booster+Pro+Soft', '1,000+', 'https://sites.google.com/view/volboosterhq-privacy', 'volumeboostermaxpro@gmail.com']}
+{'com.ringtonemakerpro.android': ['RingTone Maker Pro, MP3 Cutter', 'Best+Ringtone+%26+Smart+Apps', '50,000+', 'https://sites.google.com/view/ringtonemakerpropp/', 'smartappprolab@gmail.com']}
+{'com.google.android.apps.youtube.music': ['YouTube Music - Stream Songs & Music Videos', '5700313618786177705', '100,000,000+', 'https://music.youtube.com', 'ytmusic-support@google.com']}
+{'com.radio.m9fb320005': ["Jenn's 311 Radio", 'Jennifer+Murtha', '50+', 'http://jenns311radio.com', 'info@jenns311radio.com']}
+{'com.bestringtonesapps.newringtones': ['New Ringtones 2019', '8950393860599764952', '1,000,000+', 'https://www.facebook.com/pages/Best-Ringtones-Apps/1018443861508951', 'jancicdjordje84@gmail.com']}
+{'com.hoichoiradio.canada': ['Canada Radio App-Stations', '7735221045865868659', '1+', 'http://www.hoichoiradio.com', 'info@hoichoiradio.com']}
+{'com.suralive.irelandradios': ['Ireland Radio FM AM', 'ATPRO+Ravi', '0+', 'http://audiovarr.blogspot.com/p/privacy-policy.html', 'audiovarr@gmail.com']}
+{'music.rock.roll.volbeat.classic': ['Rock Music: Popular Online & Offline Classic Music', 'Music+Network+Team', '100,000+', 'http://www.rockmusicpro.com/', 'zhelevainna@gmail.com']}
+{'com.touchtunes.android': ['TouchTunes', 'Touchtunes+Interactive+Networks', '1,000,000+', 'http://www.touchtunes.com', 'touchtunes-support@touchtunes.com']}
+{'com.rcommunications.app1025': ['Radio Para Mi', 'R+Communications', '10,000+', 'http://rcommunications.com', 'info@rcommunications.com']}
+{'com.wlmx.player': ['Radio Fiesta WLMX', 'Brian+M.+Johnson', '10+', 'http://www.gladesmedia.com', 'brian@gladesmedia.com']}
+{'com.yy.musicfm.global': ['Free Music - Unlimited offline Music download free', 'Free+music+player+creator', '10,000+', 'https://docs.google.com/document/d/13k1w_xyq9AWdl8lYjUnG3OB4_378kt7uMoJ9a8mSUEs', 'ryousuke903903@gmail.com']}
+{'com.tsm.catcountry1073': ["Cat Country 107.3 - WPUR - South Jersey's Country", 'Townsquare+Media,+Inc.', '1,000+', 'http://catcountry1073.com', 'ask.catcountry1073@townsquaredigital.com']}
+{'com.developer.awarnock.guitarcapo': ['Guitar Capo', 'Alan+Warnock', '1,000+', None, 'awarnock.developer@gmail.com']}
+{'com.theorchard.OrchardGo': ['OrchardGo', 'The+Orchard+Enterprises+NY,+Inc.', '100+', 'http://www.theorchard.com', 'bugs@theorchard.com']}
+{'com.tsm.x97': ['97X - The Quad Cities Classic Rock Station (WXLP)', 'Townsquare+Media,+Inc.', '1,000+', 'http://97x.com/', 'ask.97x@townsquaredigital.com']}
+{'com.ssx.somesing': ['SOMESING Beta - My Hand Carry Karaoke with kpop', 'EMEL+Ventures+Inc.', '1,000+', 'https://somesing.io/', 'dev@somesing.io']}
+{'com.rastographics.wiop.app': ['WIOP Radio', 'Rastographics', '100+', 'https://wiop1063fm.com/', 'joel@rastographics.com']}
+{'acoustic.guitar.simple': ['Acoustic Guitar Simulator App', 'AppTechGroup', '1,000,000+', 'http://app-techgroup.com/terms.php', 'favapplications@gmail.com']}
+{'com.appsmakerstore.sndsradio': ['SNDS Radio', 'Stamped+N+Da+Streetz+Inc.,', '1,000+', 'http://www.djmeat.com', 'djmeat305@gmail.com']}
+{'com.tamilradios.android': ['Tamil FM Radio', 'Appkoder', '500,000+', 'http://appkoder.blogspot.in/', 'appkoder@gmail.com']}
+{'net.manoloworks.new_zealand_radio_wellington_kapiti_coast_wairarapa_north_island': ['Wellington Radio Stations - New Zealand', 'ManoloWorks', '50+', 'https://arely.net/Privacy_Policy.html', 'florinmnl@gmail.com']}
+{'com.xallsongs.jojosiwa': ['Jojo Siwa All Songs', 'X-All-Songs', '10,000+', None, 'ahmedzinini18@gmail.com']}
+{'com.wxef.player': ['979 XFM', 'Premier+Broadcasting,+WXEF/WKJT', '1,000+', 'http://www.thexradio.com', 'wayne@thexradio.com']}
+{'com.appums.music_pitcher': ['432 Player - Listen to Pure Music', 'Appum+Studios', '100,000+', 'http://www.432player.com', 'contact@appums.com']}
+{'com.mp3.music.downloader.unlimited': ['Free download any song, any mp3', 'Music+Downloader+%26+Music+Player', '10,000+', 'https://docs.google.com/document/d/1bseWPSq1rtIStT-A7yhf5F7MEqBctAikVahL_GoWflI/edit?usp=sharing', 'mp3download.store@gmail.com']}
+{'mp3.musicplayer.audioplayer': ['Music Player- MP3 Player Free Music App', 'ES+Applications', '5,000+', 'https://music-player-22ae4.firebaseapp.com/', 'eaapps1391@gmail.com']}
+{'com.babyfirst.radio': ['BabyFirst Music: Nursery Rhymes for Kids', '4773270709540091084', '100,000+', 'http://www.babyfirsttv.com', 'mobile-support@bf-tv.com']}
+{'com.tsm.tasteofcountry': ['Taste of Country - Latest Country Music News', 'Townsquare+Media,+Inc.', '10,000+', 'http://tasteofcountry.com', 'ask.tasteofcountry@townsquaredigital.com']}
+{'com.radiosonline.fmradiousa': ['FM Radio USA - AM FM Radio Apps For Android', '9027484493681647753', '100+', 'https://sites.google.com/view/uprisinglabs/privacy-policy', 'uprisingdeveloper@gmail.com']}
+{'com.andromo.dev784331.app911084': ['Never Broken Again – YoungBoy Mp3 Offline', 'Adeles+Studios', '1,000+', 'https://adelesstudios.blogspot.com/2019/01/never-broken-again-youngboy-mp3-offline.html', 'diams0218@gmail.com']}
+{'com.tsm.kekb999': ['99.9 KEKB - Grand Junction Country Radio', 'Townsquare+Media,+Inc.', '500+', 'http://kekbfm.com', 'ask.999kekb@townsquaredigital.com']}
+{'com.tsm.gbf103': ['103GBF - Evansville (WGBF)', 'Townsquare+Media,+Inc.', '1,000+', 'http://103gbfrocks.com', 'ask.therivercityrocker@townsquaredigital.com']}
+{'com.lsnziud.slowrnbsoulmixradio': ['Slow Jams RnB Soul Mix & Radio', '6100835598713899560', '1,000+', 'https://slowjamrnb.blogspot.com/2019/02/permissions.html', 'haivinh0001@gmail.com']}
+{'com.jojo.siwa.allsong.devlop': ['JoJo Siwa All Songs 2019', 'Sempet+Developer', '100,000+', 'http://sempetdeveloper.blogspot.com', 'asrul.masyura@gmail.com']}
+{'vuulm.mobile.app': ['Vuulm Mixtapes and Music', 'Vuulm+Media+Inc.', '1,000+', 'https://www.vuulm.com', 'hello@vuulm.com']}
+{'com.tsm.mix1043': ['Mix 104.3 - Grand Junction Pop Radio (KMXY)', 'Townsquare+Media,+Inc.', '100+', 'http://mix1043fm.com', 'ask.mix1043fm@townsquaredigital.com']}
+{'com.lampa.SaVaVoiceRecorder': ['Best Voice Recorder - 2019', 'Argus+Programi', '10,000+', 'https://sites.google.com/view/savavoicerecorder', 'argus.programi@gmail.com']}
+{'pl.netigen.guitarstuner': ['Best Guitar Tuner', '6225048255144253010', '100,000+', 'http://netigen.pl', 'mobile@netigen.pl']}
+{'com.app.laimperialfm': ['La Imperial Fm', 'La+Imperial+Broadcast+System', '50+', 'http://www.laimperialfm.com', 'laimperialfm@gmail.com']}
+{'net.nugs.multiband': ['nugs.net - live music streaming', 'nugs.net', '50,000+', 'http://nugs.net', 'contact@nugs.net']}
+{'com.lianqinba.lian': ['Lian - Smart Violin Practice Partner', 'Mango+Future', '1,000+', 'https://www.lianpractice.com', 'lian@17lianqin.cn']}
+{'com.tsm.quickcountry965': ['Quick Country 96.5 - Rochester (KWWK)', 'Townsquare+Media,+Inc.', '1,000+', 'http://quickcountry.com', 'tamara.gruhot@townsquaremedia.com']}
+{'com.tsm.kixfm1057': ['105.7 KIX FM - Sedalia Country Radio (KXKX)', 'Townsquare+Media,+Inc.', '100+', 'http://kxkx.com', 'ask.kix1057@townsquaredigital.com']}
+{'com.musicproductions.hubblemusicapp': ['Deep Field', 'Eric+Whitacre+Inc', '5,000+', 'http://www.ericwhitacre.com', 'megan@musicprods.co.uk']}
+{'com.volumebooster.bassbooster.musicplayer.equalizermusic': ['Volume Booster and Bass booster with Music Player', 'Kvm+Volume', '10,000+', 'https://sites.google.com/view/vl-bt/', 'kvmvolumebooster@gmail.com']}
+{'com.ga.motownmusicradio': ['Motown Music Radio Stations', 'Best+GA+Apps', '50,000+', 'https://docs.google.com/document/d/1ciuHKMYC7aJBNxX1zMitaHrgYTX2dZ6rSvW2oMmXZ94/pub', 'hipno.html99@gmail.com']}
+{'bass.equalizer': ['Equalizer - Bass Booster & Volume Booster', 'DotDotDog', '1,000,000+', 'https://privacypolicy.oss-us-west-1.aliyuncs.com/Point/privacyPolicy.txt', 'pointdotdog@gmail.com']}
+{'com.jack.mymusiczone.savetolocal.mp3.download': ['Free Music Downloader', 'Music+%26+Video+Tool+Studio', '100+', None, 'jack.us.make@gmail.com']}
+{'com.radio.m626a9485b': ['LRS102.com The Walrus', 'Jim+Coyle', '100+', 'http://www.lrs102.com', 'skinnyj@LRS102.com']}
+{'com.app.brboldiesradio': ['BRB Radio', 'Robert+Saenz', '10,000+', 'http://BRBradio.com', 'brboldiesradio@yahoo.com']}
+{'com.chebdev.dubstepdrumpadsguru': ['Dubstep Drum Pads Guru', 'chebdev', '1,000,000+', 'http://drumpadsguru.com', 'chebdev@gmail.com']}
+{'com.tmxdigital.oldiesmusicradio': ['50s 60s 70s Oldies Music Radio', 'tmxdigital', '1,000+', 'http://www.herramientaswebonline.com/', 'tumaxarmando@gmail.com']}
+{'com.ntacticsoftware.pianofy': ['Pianofy - Create Your Piano Sound', 'nTactic+Software', '100+', 'https://ntacticsoftware.wordpress.com/pianofy-privacy-policy/', 'ntactisoftware@gmail.com']}
+{'salihsoytasyalilijadid2147.com': ['ya lili ya lila new klip offline', 'falimira', '100,000+', None, 'sametevcann@gmail.com']}
+{'eu.theusefulapps.mychordbooklite': ['Guitar Songbook Lite', 'thePandaApps', '50+', None, 'balazpeters@gmail.com']}
+{'com.fender.play': ['Guitar Lessons, Bass & Ukulele | Fender Play', 'Fender+Digital,+LLC', '500,000+', 'http://www.fender.com', 'google@fendergarage.com']}
+{'co.seqvence.seqvence2.free': ['SEQVENCE Music Studio', '6879597266114477352', '1,000+', 'http://www.seqvence.co', 'info@seqvence.co']}
+{'com.app.altasierrabroadcasting': ['Kern River Radio', 'NicholasMag89', '10+', 'https://www.kernriverradio.com', 'nicholas@magarett.info']}
+{'com.appselite.oldiesradiostationforfree': ['Oldies Radio Station For Free', 'AppsEliteGlobal', '100,000+', 'http://appseliteglobal.blog210.com', 'appsglobal25@gmail.com']}
+{'com.cherubi.hipmusic': ['HIP Music: Music Player – Music Equalizer', 'Cherubi+Team', '5,000+', 'https://cherubipolicy.my-free.website/', 'cherubi.support@gmail.com']}
+{'com.soundboardguys.muffin': ['Muffin Time Meme Song Button', '4792710627909473683', '10,000+', 'http://www.soundboardguys.com', 'Soundboardguys@gmail.com']}
+{'music.download.downloader.music.mp3.songs.downloader': ['Music Downloader- Free Music Download', 'STAK+Studios', '100+', 'http://funmasala-tabish.blogspot.com/2018/09/privacy-policy-for-stak-studios.html', 'tabish54@hotmail.com']}
+{'com.mwm.sampler': ['Beat Maker Pro - music maker drum pad', '6775629480928024144', '1,000,000+', 'http://musicworldmedia.com/', 'support-drumpad@mwmapps.com']}
+{'musicplayer.musicapps.music.mp3player': ['Music Player - MP3 Player, Audio Player', 'InShot+Inc.', '10,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.miwi.heavy.metal.guitar': ['Heavy Guitar : Virtual Heavy Guitar Pro', '6936456172963391485', '100,000+', 'https://kiiwiii.webnode.com', 'hh.codes@gmail.com']}
+{'audiosmaxs.music.equalizer.bassbooster.virtualizer': ['Bass Booster For Media Player', '5189648535951667453', '50,000+', 'https://sites.google.com/site/audiosmax/', 'audiosmaxs@gmail.com']}
+{'com.autotunevoicechanger.voicerecorder.soundeffects': ['Auto Tune Voice Changer - Singing App', 'New+Apps+for+Millennials', '500+', 'https://newappsformillenni.wixsite.com/website', 'newappsformillennials@gmail.com']}
+{'com.E.L.I.lab.dev3939.andapps054': ["The Best 80's Hits", 'DC+ELI', '100,000+', 'http://www.epiclabinnovations.com', 'epic.lab.innovations@gmail.com']}
+{'com.app.nill.firstmp3': ['Free Mp3 Download Music', 'Nillapp', '500,000+', 'https://devportal.jamendo.com/api_terms_of_use', 'nill.appstudio@gmail.com']}
+{'com.soundcorset.client.android': ['Tuner & Metronome', 'Soundcorset', '10,000,000+', 'https://www.soundcorset.com', 'support@soundcorset.com']}
+{'song.top_new_best_songs': ['Songs Download App Free', 'Listen+Mp3+Song+Free', '5,000+', 'https://sites.google.com/view/song-top-new-songs/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F', 'awakewm@gmail.com']}
+{'com.andromo.dev746621.app889958': ["Greatest 60's Songs", 'DB+Music+Dev.', '1,000+', None, 'db.musicapp.dev@gmail.com']}
+{'mp3.online.player.music.downloader': ['Mp3 Music Downloader Player & Download on SD', 'Free+Music+Player+MP3+SD+Downloader', '100+', 'http://artikusmusic.xyz/privacy.html', 'freemusicplayermp3downloader@yahoo.com']}
+{'com.musicplayerinstrumentalcc': ['MP3 Music Download', 'Davangleful', '500,000+', None, 'powelljacoponima@gmail.com']}
+{'com.ferry.ton': ['Toni Braxton Full Songs and Lyrics', 'Taragak+Studio', '500+', 'https://taragakstudio.blogspot.com/p/privacy-policy.html', 'ferrysikumbangcika@gmail.com']}
+{'com.bestradioapp.countrymusicradio': ['Country Music Radio', 'BestRadioApp', '500+', 'https://www.iubenda.com/privacy-policy/20644995', 'bestradioapp@gmail.com']}
+{'com.helge.kpopyoutube': ['K-POP Tube - Popular & Recent', 'Helge+Apps', '100,000+', 'https://helgeapps.github.io/Policy/', '8helge8@gmail.com']}
+{'com.vipringtones.cardibringtones': ['Cardi B Ringtones Free', 'VIP+Ringtones', '500+', 'https://sites.google.com/view/vip-ringtones-privacypolicy/', 'clarkstvapp@gmail.com']}
+{'com.volumecontrol.speakerbooster.volumebooster.musicequalizer': ['Volume Booster Pro: Bass Booster & Music Equalizer', '4731553930170108783', '1,000+', 'https://sites.google.com/site/nebanstudiopolicy/', 'neban.studio1411@gmail.com']}
+{'new.bass.boost2019': ['Music Equalizer Amplifier Volume Basse Booster', 'Bigg+Apps', '100,000+', 'https://sites.google.com/view/stras/privacy-policy', 'loving.moral@gmail.com']}
+{'com.play.tubemusic': ['Play Tube', 'MsoftApps', '100,000+', 'https://docs.google.com/document/d/1EInDTqjRCy-gfOyiokmBFcltqIcywj-nPTo_C73Y2H8/edit', 'playtubevideomusic2018@gmail.com']}
+{'com.atpc': ['Free Music Player, Music Downloader, Offline MP3', '6577981237362163650', '10,000,000+', 'https://bit.ly/atplayer', 'at.music.player@gmail.com']}
+{'com.bad.bunny.anicive': ['Bad bunny Caro - 2019 canciones', 'ANICIVE', '5,000+', 'https://sites.google.com/view/anicive-privacy-policy/anicive-apps', 'istitmarnajih@gmail.com']}
+{'net.andromo.dev58853.app253625': ['Best Country Ringtones - Top Country Songs', '7366972575063845266', '1,000,000+', 'http://bestringtoneapps.net/privacy-policy/', 'jordan.r.n.82@gmail.com']}
+{'com.qflhoig.rnbmusicradio': ['RnB Music', 'DHGroup', '5,000+', 'http://ladiapp.com/feature', 'huyen110394@gmail.com']}
+{'com.vipringtones.btsringtonesfree': ['BTS Ringtones Free 2019', 'VIP+Ringtones', '500+', 'https://sites.google.com/view/vip-ringtones-privacypolicy/', 'clarkstvapp@gmail.com']}
+{'com.thredamp.kalimbasim': ['Kalimba', '3DAMP', '100,000+', None, 'threedamp@gmail.com']}
+{'com.livenation.mobile.android.na': ['Live Nation At The Concert', 'Live+Nation+Worldwide,+Inc.', '1,000,000+', 'http://www.livenation.com', 'mobilefeedback@livenation.com']}
+{'com.cracktivezenisqqt.mirtday.leddzapen.fzrq': ['Dj Studio 8 - Mix Song and Bass', 'TpStudio', '1,000+', 'https://sites.google.com/view/tpstudio-privacypolicy/', 'Nguyenthinhung04071991@gmail.com']}
+{'com.hansun.welasi.musicmp3juice': ['Mp3 Juice Online Free Music Download', 'dapurbundaid', '1,000+', None, 'dapurbundaindo@gmail.com']}
+{'com.mini.jackpaul.all_songs.famsdev': ['Mini Jake Paul All Song 2019', 'Family+Dev', '100+', 'https://aiuwpuspita.blogspot.com', 'aiuw.ap3@gmail.com']}
+{'com.jblemus.musicdownloadr.hdsoundd': ['SLX Music -  Free Mp3', 'JBLSound+%26+System.std', '50,000+', 'https://www.freeprivacypolicy.com/privacy/view/cb585793fcfbb2377ce5b7459ce3f87e', 'jblmusicfree@support.com']}
+{'com.iphone8.ringtones': ['Ringtones for iphone 8', 'magic+Apps', '1,000+', 'http://freegujaratiringtone.blogspot.com/2017/03/gujarati-ringtone-application-privacy.html', '2015kpanchal@gmail.com']}
+{'feniksenia.app.speakerbooster11': ['Headphones Loud Volume Booster', 'FeniKsenia', '500,000+', 'https://vk.com/doc267169157_476582456', 'feniksenia26@gmail.com']}
+{'com.ozunademusica.chleh2018': ['Ozuna de Música Sin internet 2019', 'chleh2018', '500+', 'http://chleh2018.blogspot.com/2018/06/privacy-policy.html', 'gorbapress@gmail.com']}
+{'free.app.music.player.songs': ['Free Music: Songs', 'Le%27s+Studio', '1,000,000+', 'http://eatable-price.surge.sh', 'vincenttan.1999@gmail.com']}
+{'com.wkxn.player': ['The BigKD! WKXN-WZKD', 'Fanantix', '100+', 'http://Fanantix.com', 'keith.walters@fanantix.com']}
+{'com.pts.showman.the_greatest': ['the greatest  showman songs and lyrics', 'pacific+team+studio', '500+', 'https://github.com/chihablog/great/projects', 'chihab.lough@gmail.com']}
+{'com.tsm.b106': ['B106 - Hip-Hop Radio - Killeen/Temple (KOOC)', 'Townsquare+Media,+Inc.', '1,000+', 'http://myb106.com', 'ask.b106@townsquaredigital.com']}
+{'itunes.android.synctunesultimate': ['Sync iTunes to android Free', 'Heapsoft', '100,000+', 'http://www.synctunes.net', 'heapsoft.tech@gmail.com']}
+{'com.preytaes.volumebooster': ['Super Loud Volume Booster', 'PeaSoft', '500,000+', 'https://peasoft.tumblr.com/', 'rowan3638@gmail.com']}
+{'olkamusic.eminems': ['Eminem Greatest Hits 2019 Music Offline', 'olkamusic', '500+', 'https://sites.google.com/view/eminem-greatest-hits/accueil', 'raguragui666@gmail.com']}
+{'com.musicplayer.s9musicplayer.s9music.mp3player': ['S9 Music Player – Mp3 Player for Galaxy S9/S9+', '4977390947180820116', '100,000+', 'https://sites.google.com/site/animatormaker68/', 'animationmaker68.animator@gmail.com']}
+{'soundvolume.equalizerbooster.bassmusic': ['Equalizer booster bass music PRO 2019', 'SANCHIZ', '100,000+', 'https://sites.google.com/view/sanchiz/sanchiz-privacy-poliy', 'mokhlisshamdi123456@gmail.com']}
+{'com.lastgeneration.radio1010winsnewsradioapp': ['1010 Wins News Radio App', 'lastgeneration', '500+', 'https://alexpetit2019.blogspot.com/2018/12/privacy-policy-for-apps.html', 'alexpetit2019@gmail.com']}
+{'com.ambientmixerfree': ['Ambient Mixer Music', 'ambient-mixer.com', '50,000+', 'http://www.ambient-mixer.com/', 'time2help@ambient-mixer.com']}
+{'com.jri.player.mp3': ['Free Music Download Player by JRY', 'Bergsten+Zioula', '50,000+', 'https://www.iubenda.com/privacy-policy/94573600', 'petilakibergsten@gmail.com']}
+{'com.photovideoeditor.piano': ['Real Piano - Piano keyboard 2018', 'App+Street+Studio', '1,000,000+', 'http://photoeditorvideomakerapps.blogspot.in/', 'photovideoeditor701@gmail.com']}
+{'com.fillobotto.mp3tagger': ['Automatic Tag Editor', 'fillobotto', '1,000,000+', 'http://automatag.com/', 'support@automatag.com']}
+{'com.mangoplay.cardibbrunomars_pleaseme': ['Cardi B & Bruno Mars - Please Me', '8749244372249110186', '50+', None, 'mangoplayservices@gmail.com']}
+{'com.opalastudios.kondzilla': ['SUPER PADS KondZilla - Become a Brazilian Funk Dj', '9139020305591924823', '50,000+', 'http://opalastudios.com', 'hello@opalastudios.com']}
+{'com.gva.alenwtoen': ['Loudest Ringtones Ever', 'LogiTek', '1,000+', 'https://sites.google.com/view/privacy-policy-for-logitek/', 'Tranvannhan19051994@gmail.com']}
+{'com.topmusic.musicplayer.mp3player.freemusic': ['Music Player for Samsung Galaxy - Mp3 player', '8194515165872838784', '1,000,000+', 'https://sites.google.com/site/qdprivacypolicy/', 'quality.difference@gmail.com']}
+{'xyz.gizmostudio.narutoshippudensongs': ['Naruto Shippuden Songs', '4946270808607178069', '500+', 'https://gizmostudio.xyz', 'TheGizmoStudio@gmail.com']}
+{'com.publicdailyappsstudio.videoplayermp4': ['Video Player All Format & Full HD Video Player Pro', 'Public+Daily+Apps+Studio', '1,000+', 'https://docs.google.com/document/d/1y9QzuQUb0qCxob7nWIgJvQBCVaLUyGikSCMby-GO5l8/edit', 'sajjadmalik00891@gmail.com']}
+{'com.tubeplayer.stream.freemusic': ['Free Music - Online Music Player & YouTube Music', '5425943717807682156', '100,000+', 'https://marni.group/main/', 'rossellinii686@gmail.com']}
+{'com.ozzapps.radiosdemusicarockclasico': ['Classic Rock Music Radios', 'OzzApps', '10,000+', 'http://ozzapps.com/privacidad/', 'ozzapps007@gmail.com']}
+{'com.caterpillar264.audiocuentosinfantiles': ['AudioCuentos Infantiles Gratis En Español', 'Oscargarcia', '100,000+', 'https://www.facebook.com/notes/carlos-fernando-cano/politicas-de-privacidad/10208979128347472/', 'Rogersmithlopez@gmail.com']}
+{'com.jacobsmedia.kkbq': ['The New 93Q Houston', 'Cox+Media+Group+Inc.', '50,000+', 'http://www.thenew93q.com/', 'mobile@coxinc.com']}
+{'com.soundbooster.equalizerpro.audioeq.bassboosteddownload.volumeup.extremebass': ['Equalizer Sound Booster-7x Extreme Bass &Volume Up', 'Dev+Mastery', '10,000+', 'https://sites.google.com/view/devmastery/accueil', 'alexandrastiborova@gmail.com']}
+{'com.proactivoap.bajarvideosymusicagratisamicelularguide': ['Bajar Videos Y Musica Gratis A Mi Celular Guide', 'ViajeEspiritual', '100,000+', 'https://appschulasdev.wordpress.com/politicas-de-privacidad-appschulasdev/', 'viajeespiritualdev@gmail.com']}
+{'com.kist2.player': ['Radio Bronco 107.7', 'Point+Broadcasting+LLC', '100+', 'http://pointbroadcastingllc.com/', 'brian.davis@pointbroadcastingllc.com']}
+{'tonosdellamada.top': ['Tonos De llamada 2019', 'RingtonesMobi', '50,000+', 'https://sites.google.com/view/ringtonesmobi', 'app@ringtonesmobil.com']}
+{'ru.demax.rhythmerr': ['Rhythm Trainer', 'Demax', '100,000+', 'https://www.iubenda.com/privacy-policy/8181121', 'support+rhythmerr@demax.ru']}
+{'com.psokixn.mixtapesandmixtapezmusicradio': ['Free Mixtapes & Mixtapez Music Radio', 'DHGroup', '500+', 'http://ladiapp.com/feature', 'huyen110394@gmail.com']}
+{'koka.tiktok.AustralianTikTok': ['Tik Tok Videos', 'Sri+Android+Technology', '1,000+', None, 'alsaraapp@gmail.com']}
+{'converter.downloadfree.music.mp3': ['Download Mp3 Music', 'Download+World', '5,000+', 'https://downloadmp3musicfree.weebly.com/', 'alvarosaenz2020@gmail.com']}
+{'com.maz.drumheadmag': ['Drumhead Mag', 'Drumhead+Mag', '500+', 'http://www.drumheadmagazine.com', 'josie@drumheadmag.com']}
+{'com.bestringtones.queenringtones': ['Queen - Ringtones', '6337821368075053078', '1,000+', 'https://sites.google.com/view/privacypolicywinnajnd/', 'winna1994c@gmail.com']}
+{'com.anuel.songs.anicive': ['Anuel AA - Secreto  2019  offline songs', 'ANICIVE', '1,000+', 'https://sites.google.com/view/anicive-privacy-policy/anicive-apps', 'istitmarnajih@gmail.com']}
+{'org.keysforkids.dailydevotional': ['Keys for Kids Ministries', 'Keys+for+Kids', '10,000+', 'https://www.keysforkids.org', 'info@keysforkids.org']}
+{'fm.surfr.android.app': ['Surfr Music', 'Surfr+LLC', '100+', 'https://www.surfr.fm/', 'support@surfr.fm']}
+{'it.mm.android.sweetlullabies': ['Sweet Lullabies ~ Voice & Piano', 'mikdroid', '100,000+', 'http://mikdroidapps.com/privacy/privacy_policy_sweet_lullabies.html', 'mikdroid.lab@gmail.com']}
+{'com.cardi.b.allsongs.famdev': ['Cardi B All Songs 2019', 'Family+Dev', '500+', 'https://aiuwpuspita.blogspot.com', 'aiuw.ap3@gmail.com']}
+{'com.NBAyoungboy2019.gooddev': ['NBA Young Boy 2019', 'Jantan+Dev', '100+', 'https://jantandev.blogspot.com/', 'RedRosecollection@gmail.com']}
+{'com.kdkt.player': ['KDKT SportsRadio', 'DSN+Radio', '500+', 'http://www.kdktsports.com', 'info@kdktsports.com']}
+{'com.binghuo.audioeditor.mp3editor.musiceditor.pro': ['Music Editor Pro', 'Audio+Editor', '100+', 'https://sites.google.com/view/binghuostudio-musiceditor', 'binghuostudio@gmail.com']}
+{'com.subsplashconsulting.s_CJKHMH_1': ['WHOLETONES ACTIV', 'WHOLETONES', '10+', 'http://wholetones.com', 'apps@wholetones.com']}
+{'com.appbadger.stylusphone': ['Stylusphone 3D', 'AppBadger', '10+', 'http://appbadger.com', 'appbadger@gmail.com']}
+{'com.readspeaker.rspeakttsenginevoices.james': ['James American English TTS', 'ReadSpeaker', '10+', 'http://www.readspeaker.com', 'info@readspeaker.com']}
+{'com.soglacho.tl.sspro.music': ['Music Player style S10 EDGE (PRO)', '5453033126642634422', '1+', 'https://docs.google.com/document/d/e/2PACX-1vR5y8hfZjN1O-3HQx5NjltA4paVQxijj0r9ddUQbTc8Awms9-EYGqSUONWYQfI-CAuKHnix0gNeKatj/pub', 'trongluan.bkhn@gmail.com']}
+{'com.innovativepracticetools.drdrone': ['Dr. Drone', 'Eddie+Ludema', '50+', 'https://www.facebook.com/innovativepracticetools/', 'eludema@gmail.com']}
+{'free.mp3.music.download.lab.vip': ['Free Mp3 Music Downloader for VIP', 'free+music+video+download+lab', '5+', 'https://musicvideodl-lab.github.io/privacy-policy', 'freemusicvideodownload.lab@gmail.com']}
+{'com.IamSteez.TheBeats': ['Platinum Loops Vol.1', 'STEEZ+SOFTWARE+%26+SOUND', '5+', 'https://iamsteez.wordpress.com/', 'steez787@gmail.com']}
+{'white.poweramp.vis': ['WHITE POWERAMP VISUALIZATION', 'PowerMilk', '10+', None, 'lakifear@gmail.com']}
+{'com.freemasteringdemos.app': ['Free Mastering Demonstrations', 'Vinatea+Communications', '1+', 'https://musicmasteringonline.com', 'mastering@musicmasteringonline.com']}
+{'mp.visualizer.pro.music': ['AVV Visualizer ( Pro) Music Player', 'FLASH+TECH', '100+', 'https://www.freeprivacypolicy.com/privacy/view/66f26733e7174e60333d44b69ac40f73', 'govindsingh991054@gmail.com']}
+{'com.readspeaker.rspeakttsenginevoices.ashley': ['Ashley American English TTS', 'ReadSpeaker', '5+', 'http://www.hoyaspeech.com', 'info@readspeaker.com']}
+{'com.rfo.harpejji': ['Harpejji', '7736972930987439260', '500+', 'http://www.festivusparty.com', 'mookieapps@gmail.com']}
+{'com.pandora.android': ['Pandora Music', 'Pandora', '100,000,000+', 'http://www.pandora.com', 'pandora-support@pandora.com']}
+{'com.clearchannel.iheartradio.controller': ['iHeartRadio - Free Music, Radio & Podcasts', '8821283674927730745', '50,000,000+', 'http://iheart.com', 'android@iheartradio.com']}
+{'com.smule.singandroid': ['Smule - The #1 Singing App', 'Smule', '100,000,000+', 'http://www.smule.com', 'support+googleplaystore@smule.com']}
+{'tunein.player': ['TuneIn: NBA Radio, Music, Sports & Podcasts', '5756372639482561977', '100,000,000+', 'http://tunein.com/support/android/', 'android-support@tunein.com']}
+{'com.ultimateguitar.tabs': ['Ultimate Guitar: Chords & Tabs', '7532879156454387436', '5,000,000+', 'http://www.ultimate-guitar.com/', 'support-androidugt@ultimate-guitar.com']}
+{'com.joytunes.simplypiano': ['Simply Piano by JoyTunes', '9173704920238080377', '5,000,000+', 'https://www.joytunes.com', 'hello@joytunes.com']}
+{'com.edjing.edjingdjturntable': ['edjing Mix: DJ music mixer', '6775629480928024144', '10,000,000+', 'http://www.edjing.com', 'support@edjing.com']}
+{'com.imageline.FLM': ['FL Studio Mobile', '8228703397536036345', '100,000+', 'http://www.flstudiomobile.com', 'mobilesupport@image-line.com']}
+{'com.fender.play': ['Guitar Lessons, Bass & Ukulele | Fender Play', 'Fender+Digital,+LLC', '500,000+', 'http://www.fender.com', 'google@fendergarage.com']}
+{'com.stitcher.app': ['Stitcher - Podcasts & Radio - News, Comedy, & More', 'Stitcher,+Inc', '5,000,000+', 'http://stitcher.com', 'feedback@stitcher.com']}
+{'net.nugs.multiband': ['nugs.net - live music streaming', 'nugs.net', '50,000+', 'http://nugs.net', 'contact@nugs.net']}
+{'com.smule.magicpiano': ['Magic Piano by Smule', 'Smule', '50,000,000+', 'http://www.smule.com', 'support+googleplaystore@smule.com']}
+{'com.jb.go.musicplayer.mp3player': ['GO Music Plus Player- Free Music, Radio, MP3', 'GOMO+Limited', '10,000,000+', 'http://www.gomo.com/', 'golauncher@goforandroid.com']}
+{'com.starmakerinteractive.starmaker': ['StarMaker: Free to Sing with 50M+ Music Lovers', '8580624130716533255', '10,000,000+', 'http://www.starmakerstudios.com', 'appsupport@starmakerinteractive.com']}
+{'com.magix.android.mmjam': ['Music Maker JAM', 'JAM+Just+Add+Music+GmbH', '10,000,000+', 'https://www.justaddmusic.net/en/', 'support@justaddmusic.net']}
+{'net.nugs.livephish': ['LivePhish', 'nugs.net', '50,000+', 'http://www.livephish.com', 'help@livephish.com']}
+{'com.agminstruments.drumpadmachine': ['Drum Pad Machine - Make Beats', '7473634688510685864', '10,000,000+', 'https://easybrain.com/', 'support@easybrain.com']}
+{'com.mwm.drum': ['Drums: real drum set music games to play and learn', '6775629480928024144', '5,000,000+', 'http://musicworldmedia.com/', 'support-drums@mwmapps.com']}
+{'com.komspek.battleme': ['Battle Me: Rap Maker and Hip Hop Studio. Community', 'BattleMe', '1,000,000+', 'http://www.bttl.me', 'battleme.app@gmail.com']}
+{'com.gismart.drum.pads.machine': ['Drum Pads - Beat Maker Go', '6462287121578018300', '5,000,000+', 'https://gismart.com/beatmaker/', 'support@gismart.com']}
+{'radiotime.player': ['TuneIn Radio Pro - Live Radio', '5756372639482561977', '1,000,000+', 'http://tunein.com/support/android/', 'android-support@tunein.com']}
+{'com.horadrim.android.sargam': ['Sargam - Discover Music', 'Sargam+team', '1,000,000+', 'http://m.singit.vip/webview/v17/privacy/index-in.html', 'appsupport@singit.vip']}
+{'com.musescore.playerlite': ['MuseScore: view and play sheet music', 'MuseScore', '1,000,000+', 'https://musescore.com/groups/musescore-android', 'support@musescore.com']}
+{'com.audiomack': ['Audiomack | Download New Music', '6125644571795195171', '10,000,000+', 'http://www.audiomack.com', 'support@audiomack.com']}
+{'com.anghami': ['Anghami - The Sound of Freedom', 'Anghami', '10,000,000+', 'http://www.anghami.com', 'support@anghami.com']}
+{'com.gaana': ['Gaana Music - Hindi Tamil Telugu MP3 Songs Online', 'Gamma+Gaana+Ltd', '100,000,000+', 'http://gaana.com', 'feedback@gaana.com']}
+{'com.coulddog.loopsbycdub': ['Loops By CDUB', 'The+C-Dub+Brand', '10,000+', 'http://www.LoopsByCdub.com', 'loopsbycdub@gmail.com']}
+{'com.rhapsody': ['Napster Music', 'Rhapsody+International,+Inc', '10,000,000+', 'http://help.naspter.com', 'help@napster.com']}
+{'com.audioaddict.di': ['DI.FM Radio: Addictive Electronic Music', '7961242804719675600', '1,000,000+', 'http://www.di.fm', 'mobileapps@di.fm']}
+{'com.amp.android': ['AmpMe - Speaker Booster', 'AmpMe+Inc', '5,000,000+', 'http://ampme.com', 'support@ampme.com']}
+{'com.gamesworkshop.blacklibraryaudio': ['Black Library Audio', 'Games+Workshop', '10,000+', 'http://www.warhammerdigital.com/app-privacy-policy.html', 'gwapps@gwplc.com']}
+{'com.planeth.gstomper': ['G-Stomper Studio', '5200192441928542082', '10,000+', 'https://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.synthesia.synthesia': ['Synthesia', 'Synthesia+LLC', '5,000,000+', 'https://synthesia.app', 'support@synthesiagame.com']}
+{'com.hccp.biblegatewayaudio': ['Bible Audio', 'HarperCollins+Christian+Publishing', '10,000+', 'http://www.harpercollinschristian.com', 'hccp-emedia@harpercollins.com']}
+{'com.ikmultimediaus.android.amplitubefullse': ['AmpliTube / Samsung Pro Audio', 'IK+Multimedia+US,+LLC', '1,000+', 'http://www.ikmultimedia.com/amplitubeandroid/', 'android.support@ikmultimedia.com']}
+{'com.bitcount.cleartune': ['Cleartune - Chromatic Tuner', 'Bitcount+ltd.', '100,000+', 'http://www.bitcount.com/', 'support@bitcount.com']}
+{'com.doubleTwist.cloudPlayerPro': ['CloudPlayer™ Platinum cloud music player', '5131935316667995009', '5,000+', 'http://www.doubletwist.com', 'android-support@doubletwist.com']}
+{'com.mixvibes.beatsnap': ['Beat Snap - Make Beats & Music', '4863789631992005995', '100,000+', 'http://www.mixvibes.com', 'support@mixvibes.com']}
+{'com.pandora.android.atv': ['Pandora Music for TV', 'Pandora', '500,000+', 'http://www.pandora.com', 'pandora-support@pandora.com']}
+{'com.eventide.h9': ['H9 Control', 'Eventide+Inc', '5,000+', 'http://www.eventideaudio.com', 'support@eventide.com']}
+{'com.rhmsoft.pulsar.pro': ['Pulsar Music Player Pro', '7810508122505278882', '10,000+', 'http://rhmsoft.com/pulsar', 'support@rhmsoft.com']}
+{'com.sapien.android.musicmate': ['Music Mate', 'Sapien+Mobile,+LLC', '100,000+', 'http://www.sapienmobile.com', 'info@sapienmobile.com']}
+{'ru.yandex.music': ['Yandex Music — listen and download', '9141303443900639327', '10,000,000+', 'http://music.yandex.com/', 'app-music@support.yandex.ru']}
+{'com.openlabs.stagelight': ['Stagelight: Audio and MIDI DAW', 'Open+Labs+Music+Software', '500,000+', 'http://www.openlabs.com', 'mobile@openlabs.com']}
+{'com.ikmultimediaus.android.amplitubese': ['AmpliTube Free/SamsungProAudio', 'IK+Multimedia+US,+LLC', '100,000+', 'http://www.ikmultimedia.com/amplitubeandroid/', 'android.support@ikmultimedia.com']}
+{'com.fillobotto.mp3tagger': ['Automatic Tag Editor', 'fillobotto', '1,000,000+', 'http://automatag.com/', 'support@automatag.com']}
+{'com.neuratron.notateme': ['NotateMe', 'Neuratron+Ltd', '5,000+', 'http://www.neuratron.com', 'sales@neuratron.com']}
+{'com.nanjoran.ilightshow': ['iLightShow for Philips Hue / LIFX / Nanoleaf', 'Nicolas+Anjoran', '50,000+', 'https://ilightshow.net', 'contact@ilightshow.net']}
+{'com.hungama.myplay.activity': ['Hungama Music - Stream & Download MP3 Songs', '8077531523695446125', '10,000,000+', 'http://www.hungama.com', 'appsupport@hungama.com']}
+{'com.nchsoftware.pocketwavepad': ["WavePad Master's Edition", 'NCH+Software', '1,000+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'com.redkaraoke.party': ['Karaoke Party by Redkaraoke', '4771853382896208153', '100,000+', 'http://www.redkaraoke.com', 'android@redkaraoke.com']}
+{'nightradio.sunvox': ['SunVox', 'Alexander+Zolotov', '10,000+', 'http://warmplace.ru/soft/sunvox', 'nightradio@gmail.com']}
+{'musicplayer.musicapps.music.mp3player': ['Music Player - MP3 Player, Audio Player', 'InShot+Inc.', '10,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.onkyo.jp.hfplayer_unlocker': ['Onkyo HF Player Unlocker', 'Onkyo+Corporation', '10,000+', 'http://www.onkyo.com/', 'onkyo.android.dev@onkyo.com']}
+{'com.mmm.trebelmusic': ['TREBEL Free Music - Unlimited Music Downloader App', 'M%26M+Media,+Inc.', '1,000,000+', 'https://www.trebel.io', 'hello@trebelmusic.com']}
+{'com.app.slh': ['Setlist Helper and Song Book', 'www.setlisthelper.com', '100,000+', 'http://www.setlisthelper.com', 'support@setlisthelper.com']}
+{'com.harmonynetwork.singsharp': ['Learn to Sing - Sing Sharp', 'Music+Education-+Learn+how+to+Sing+Training+Lesson', '1,000,000+', 'http://www.singsharpapp.com', 'info@singsharpapp.com']}
+{'com.sofeh.android.musicstudio3': ['ORG 2019', '6947556644764074972', '50,000,000+', 'http://www.sofeh.com', 'support@sofeh.com']}
+{'com.phascinate.precisevolume': ['Precise Volume (+ EQ/Booster)', '6542821740579667061', '1,000,000+', 'http://phascinate.com', 'support@phascinate.com']}
+{'com.mixvibes.crossdjapp': ['Cross DJ Pro - Mix your music', '4863789631992005995', '100,000+', 'http://www.mixvibes.com', 'support@mixvibes.com']}
+{'kmcilvai.perfectpoet': ['Lyric Notepad - Write Song Lyrics, Poetry, & Rap', 'Kenny+Mc', '100,000+', 'http://kenny-mc.com/privacy_policy.html', 'kennys.applications@gmail.com']}
+{'play.music.youngtunes': ['YoungTunes - Mp3 video streamer', 'YoungTunes+Dev', '100,000+', 'https://server.yougtunes.net/privacy_statement/', '122758537@qq.com']}
+{'uk.co.avoir.accord': ['Braw Bagpipe Tuner', 'Avoir+Technology', '10,000+', 'http://www.brawsound.com', 'support@brawsound.com']}
+{'com.jetappfactory.jetaudio': ['jetAudio HD Music Player', 'Team+Jet', '10,000,000+', 'https://www.facebook.com/jetappfactory', 'jetaudio@jetappfactory.com']}
+{'com.n7mobile.nplayer': ['n7player Music Player', '4717034007793529190', '10,000,000+', 'http://n7player.com', 'support-n7player@n7mobile.com']}
+{'com.maurobattisti.drumgenius': ['Drumgenius', 'Mauro+Battisti', '50,000+', 'http://www.projazzlab.com', 'drumgenius@libero.it']}
+{'au.com.lehrastudio.lehrastudiopro': ['Lehra Studio Pro', 'Aman+Kalyan', '100,000+', 'http://www.lehrastudio.com', 'support@lehrastudio.com']}
+{'com.ninebuzz.jamtracks': ['Guitar Jam Tracks Scales Buddy', 'Ninebuzz', '10,000+', 'http://www.ninebuzz.com', 'android@ninebuzz.com']}
+{'com.opalastudios.pads': ['SUPER PADS - Become a DJ', '9139020305591924823', '10,000,000+', 'https://www.facebook.com/SuperPadsApp', 'hello@opalastudios.com']}
+{'com.optek.guitartunes': ['Guitar Tunes™', 'Optek+Music+Systems,+Inc.', '50,000+', 'https://www.guitartunes.com', 'support@guitartunes.com']}
+{'io.stellio.player': ['Stellio Player', 'Stellio+Soft', '1,000,000+', 'https://stellio.ru', 'stellio.play@gmail.com']}
+{'infinity.heart.radio': ['Heart Love Beat Radio Music Station', '6325599273538470117', '5,000+', 'http://wrpfo.blogspot.com/2018/08/privacy-policy.html', 'wrpfo3eloper@outlook.com']}
+{'escapemusic.android.a262': ['Osric Chau', 'escapex+Limited', '1,000+', 'http://www.escapex.com', 'support@escapex.com']}
+{'com.blogspot.hu2di.volume.up.booster.pro': ['Volume Up 2018 - Volume Booster (No Ads)', '8438721745013257053', '500+', 'https://hu2di.blogspot.com', 'contact.hu2di@gmail.com']}
+{'com.splendapps.voicerec': ['Voice Recorder Pro', '8546574316005690870', '10,000,000+', 'http://splendapps.com/', 'support@splendapps.com']}
+{'com.andrwq.recorder': ['Smart Recorder – High-quality voice recorder', 'SmartMob', '10,000,000+', 'http://help.smartmobdev.com/', 'contact@smartmobdev.com']}
+{'com.finestandroid.guitartabs': ['Guitar Tabs X', '8284336514388410206', '100,000+', 'http://bialamusic.com/', 'bialata@yahoo.com']}
+{'com.wiseschematics.reeq01': ['RE Equalizer', '6976192343062494733', '10,000+', 'http://shuntcorp.net/wiseschematics', 'wiseschematics@gmail.com']}
+{'com.envelopedevelopment.loopz': ['Loopz - Best Drum Loops!', 'Black+Envelope+Development', '500,000+', 'http://pauldavids.nl', 'envelopedevelopment@gmail.com']}
+{'com.andymstone.metronome': ['Metronome Beats', '4635242855942916199', '10,000,000+', 'http://www.stonekick.com/', 'support@stonekick.com']}
+{'com.fitness22.sleeppillow': ['White Noise Sleep Sounds: rain, nature, and more', '6419234961105920523', '100,000+', 'http://fitness22.com', 'support@fitness22.com']}
+{'com.ikmultimediaus.android.irigrecorder3': ['iRig Recorder 3', 'IK+Multimedia+US,+LLC', '10,000+', 'http://www.ikmultimedia.com', 'ikus_android@ikmultimedia.com']}
+{'com.musictopia.ProMicrophone': ['Pro Microphone', 'Music+Topia,+LLC', '500,000+', 'http://musictopia.club/', 'developer@musictopia.club']}
+{'com.fragileheart.mp3editor': ['Music Editor', '4686007665185340811', '1,000,000+', 'https://sites.google.com/view/smart-mobile-tools', 'ngocquyennguyen.bk.22@gmail.com']}
+{'com.ikmultimediaus.android.ezvoice': ['EZ Voice', 'IK+Multimedia+US,+LLC', '10,000,000+', 'http://www.ikmultimedia.com/products/ezvoiceandroid/', 'ikus_android@ikmultimedia.com']}
+{'com.lotuz.NotationPad': ['Notation Pad - Sheet Music Score Composer', 'Song+Studio', '100,000+', 'http://www.notationpad.com', 'notationpad@gmail.com']}
+{'com.appsstation.oldtimeradioshows': ['Old Time Radio Shows', 'Apps+Station', '500+', 'http://oldtimeradioshows.co', 'oldtimeradio.app@gmail.com']}
+{'com.internet.radio.fm.podcast': ['Smart Radio FM - Free Music, Internet & FM radio', 'Mahakal+Studio', '1,000,000+', 'https://docs.google.com/document/d/1cZoEuZPb3pjGM91bmzhs63cO7lrosnsjtrfziDqNBKg/edit?usp=sharing', 'beibeizhang1999@gmail.com']}
+{'org.xssembler.chordsandtabspro': ['Guitar chords and tabs PRO', 'Xssemble', '10,000+', 'https://chords-and-tabs.net/privacy-policy/', 'contact@xssemble.com']}
+{'com.audioaddict.rr': ['Rock Radio', '7961242804719675600', '1,000,000+', 'http://www.rockradio.com', 'support@rockradio.com']}
+{'cs.example.studiomusic': ['Studio music - garage band', 'VencaSoft', '10,000+', 'http://vencasoft.eu', 'Venca.job@gmail.com']}
+{'com.ikmultimediaus.android.iklipstage': ['iKlip Stage', 'IK+Multimedia+US,+LLC', '10,000+', 'http://www.ikmultimedia.com', 'ikus_android@ikmultimedia.com']}
+{'com.zuidsoft.loopstation2': ['LoopStation - Looper', 'Zuidsoft', '500,000+', 'https://www.facebook.com/loopstationapp/', 'renezuidhof@gmail.com']}
+{'com.rockrelay.synth.dx7.piano': ['Rockrelay Synth FM', '5025842839984489052', '100,000+', 'http://www.rockrelay.com/', 'rockrelay.apps@gmail.com']}
+{'com.justinguitar.app.TimeTrainer': ['Time Trainer Metronome', 'justinguitar', '10,000+', 'http://www.justinguitar.com', 'justin@justinguitar.com']}
+{'com.alexandernaut.arpio': ['ARPIO a new musical instrument', 'Alexandernaut', '1,000,000+', 'http://www.alexandernaut.com', 'arpio@alexandernaut.com']}
+{'escapemusic.android.a071farruko': ['Farruko', 'escapex+Limited', '100,000+', 'http://www.escapex.com', 'support@escapex.com']}
+{'org.radialtheater.audiocues': ['Audio Cues', 'Radial+Theater', '5,000+', 'http://radialtheater.org', 'radialtheater@gmail.com']}
+{'com.planeth.vabeast': ['G-Stomper VA-Beast Synthesizer', '5200192441928542082', '1,000+', 'https://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.seemayr.midicontroller': ['MIDI Controller', 'Dominik+Seemayr', '5,000+', 'http://www.seemayr.at/subdomains/MidiController/privacyPolicy.html', 'seemayr@me.com']}
+{'com.toth.loopplayer': ['Loop Player - A B Repeat Player', '8642920880336872623', '10,000+', 'http://www.arpytoth.com', 'arpytoth@gmail.com']}
+{'com.jamstring.acousticbluespro': ['20 Acoustic Blues Solos', '8577426266096753031', '1,000+', 'http://www.jamstring.com', 'jamstringapps@gmail.com']}
+{'com.mikrosonic.RD3X': ['RD4 Groovebox', '7514440941315214742', '10,000+', 'http://www.mikrosonic.com', 'support@mikrosonic.com']}
+{'com.jaradgray.infinitepads': ['Infinite Pads', 'Happy+Little+Apps', '5,000+', 'https://jgendeavors.com/', 'support@jgendeavors.com']}
+{'com.jamstring.newbluesjampro': ['Blues Guitar Jam Tracks', '8577426266096753031', '1,000+', 'http://www.jamstring.com', 'jamstringapps@gmail.com']}
+{'com.appgeneration.itunerfree': ['myTuner Radio App: FM Radio + Internet Radio Tuner', '6873380610601889920', '5,000,000+', 'https://mytuner-radio.com', 'help@mytuner.mobi']}
+{'com.musicalarms.spotify': ['Mornings - Alarm for Spotify', '6731505799014744793', '5,000+', 'http://musicalarms.com', 'hello@musicalarms.com']}
+{'com.ivoox.app': ['Podcast & Radio iVoox', '5137950355033534074', '5,000,000+', 'http://www.ivoox.com', 'info@ivoox.com']}
+{'com.bytebolt.midiloops': ['MIDI Voyager Pro', 'bytebolt', '10,000+', None, 'info@bytebolt.com']}
+{'sa.broadcastmyselfpro': ['BroadcastMySelf/Pro', 'NovaStreamApps', '5,000+', 'https://novastreamapps.blogspot.fr/', 'novastreamapps@gmail.com']}
+{'com.fxsound.android.dfxplayer.full': ['DFX Music Player Enhancer Pro', 'FXsound.com', '10,000+', 'http://www.fxsound.com', 'support@dfxsupport.zendesk.com']}
+{'com.android.DroidLivePlayer': ['XiiaLive™ Pro - Internet Radio', 'Visual+Blasters+LLC', '50,000+', 'http://www.xiialive.com', 'xiialive@visualblasters.com']}
+{'rolling.stone.magazine': ['Rolling Stone Magazine', 'Wenner+Media,+LLC', '10,000+', 'http://www.rollingstone.com/services/privacypolicy', 'alvin.ling@wennermedia.com']}
+{'de.zorillasoft.musicfolderplayer.donate': ['Music Folder Player Full', 'ZorillaSoft', '50,000+', 'http://zorillasoft.de', 'help.zorillasoft@gmail.com']}
+{'org.android.kunulee.podsmaster': ['Podroid (Using Airpod on android like iphone)', 'Keonwoo+Lee', '10,000+', 'https://blog.naver.com/kunukunu/221405253043', 'kunulee90@gmail.com']}
+{'com.nll.asr.license': ['ASR License', '8530342249973296088', '10,000+', 'http://nllapps.com/apps/asr/', 'asr@nllapps.com']}
+{'com.doctorcompas.doctorcompas': ['Doctor Compás', 'Doctor+Comp%C3%A1s', '5,000+', 'http://www.doctorcompas.com', 'support@doctorcompas.com']}
+{'com.serg.chuprin.tageditor': ['AutoTagger - batch tag editor', 'Sergey+Chuprin', '100,000+', 'http://gregam7m.beget.tech/privacy-policy.txt', 'gregamer@gmail.com']}
+{'com.adambellard.timeguru': ['Time Guru Metronome', 'Avi+Bortnick', '10,000+', 'http://avibortnick.net/time-guru/', 'timeguruvoxbeat@gmail.com']}
+{'com.inverseai.noice_reducer': ['Mp3, WAV Noise Reducer~ Noise Free Audio Converter', 'Inverse.AI', '50,000+', 'https://www.inverseai.com/', 'inverseaibd@gmail.com']}
+{'com.mrgreensoft.nrg.player': ['NRG Player music player', '7956077786547091834', '10,000,000+', 'http://nrgplayer.com', 'mail@nrgplayer.com']}
+{'com.mobtower.spotify.timer': ['Sleep Timer for Spotify, Music, and Video', 'Mobile+Tower', '500,000+', 'http://mobtower.com', 'support@mobtower.com']}
+{'br.com.rodrigokolb.realdrum': ['Real Drum - The Best Drum Pads Simulator', '7590815180117612946', '50,000,000+', 'http://www.kolbapps.com', 'kolbapps@gmail.com']}
+{'co.seqvence.seqvence2.free': ['SEQVENCE Music Studio', '6879597266114477352', '1,000+', 'http://www.seqvence.co', 'info@seqvence.co']}
+{'com.shaunchurch.songwriter.app': ["Songwriter's Notebook", 'Sweetview+Studio', '1,000+', 'http://songwritersnotebook.co', 'shaun@shaunchurch.com']}
+{'de.bluegaspode.squeezeplayer': ['SqueezePlayer', 'Stefan+Hansel+Solutions+UG+%28haftungsbeschr%C3%A4nkt%29', '10,000+', 'http://www.squeezeplayer.com', 'support@squeezeplayer.com']}
+{'org.ishafoundation.app.chants': ['Isha Chants', 'Isha+Foundation', '100,000+', 'http://isha.sadhguru.org/mobile-apps/?utm_source=android&utm_medium=playstore&utm_campaign=ishachants', 'apps@ishafoundation.org']}
+{'com.orangebikelabs.orangesqueeze': ['Orange Squeeze', 'Orange+Bike+Labs', '10,000+', 'http://www.orangebikelabs.com', 'info@orangebikelabs.com']}
+{'com.fingercharts.flute': ['Complete Fingerings for the Flute', 'fingercharts.com', '10,000+', 'https://www.fingercharts.com/flute', 'feedback@fingercharts.com']}
+{'com.creativemusicapps.mixpads.launchpad.free': ['MixPads - Drum pad & DJ Audio Mixer', 'Creative+music+dj+apps+%26+games', '1,000,000+', 'http://creativemusicapps.com/privacy.html', 'creativemusicapps@gmail.com']}
+{'com.spotlite.sing': ['Spotlite', 'SPOTLITE+MEDIA+INC.', '1,000,000+', 'http://spotlite.me', 'dev@spotlite.me']}
+{'com.folderplayerpro': ['Folder Player Pro', 'Peter+Shashkin', '5,000+', 'http://folderplayer.com', 'peter@shashkin.com']}
+{'com.oimvo.discdj': ['DiscDj 3D Music Player - 3D Dj Music Mixer Studio', 'GameG', '5,000,000+', 'https://www.facebook.com/GameG-Apps-1617973734949921/', 'gameg.team@gmail.com']}
+{'sport.dj': ['Sport DJ', 'Game+Day+Apps', '1,000+', 'http://www.gamedayapps.net', 'support@gamedayapps.net']}
+{'ca.rebootsramblings.musicboss': ['Music Boss for Pebble - Control Your Music', '5718145362546363015', '50,000+', 'http://www.rebootsramblings.ca/musicbossforpebble/', 'rebootsramblings@gmail.com']}
+{'com.stonekick.tuner': ['Pitched Tuner', '4635242855942916199', '1,000,000+', 'http://www.stonekick.com', 'support@stonekick.com']}
+{'biz.bookdesign.librivox.pro': ['LibriVox Audio Books Supporter', '5126808648358756703', '10,000+', 'http://www.bookdesign.biz/', 'support@bookdesign.biz']}
+{'com.soundapps.volumebooster.pro': ['Volume Booster Pro', 'Boosted.+Sound+-+apps+for+music+lovers', '5,000+', 'https://github.com/qmediapps/privacy/blob/master/Privacy_Policy_paid.md', 'picguess.game@gmail.com']}
+{'com.nagmalive.nagmaliveandroid': ['NagmaLive', 'Jason+Fellin', '100+', 'http://nagmalive.com', 'support@nagmalive.com']}
+{'com.binitex.pianocompanion': ['Piano Chords, Scales, Progression Companion PRO', '4985164453676857421', '10,000+', 'http://www.songtive.com/products/piano-companion', 'pianocompanion.android@songtive.com']}
+{'com.zuidsoft.loopstationpremium': ['LoopStation Premium', 'Zuidsoft', '1,000+', 'https://www.facebook.com/loopstationapp/', 'renezuidhof@gmail.com']}
+{'com.tritoninteractive.remuda': ['Remuda - USB Guitar Amplifier Control App', 'Triton+Interactive', '1,000+', 'http://www.tritonsw.com', 'support@tritonsw.com']}
+{'com.ventismedia.android.mediamonkey': ['MediaMonkey', 'Ventis+Media,+Inc.', '500,000+', 'http://www.mediamonkey.com', 'support@mediamonkey.com']}
+{'com.groovemixer.tiw': ['GrooveMixer Pro – Beat Studio', '5064460190768781910', '5,000+', 'https://flexbyte.com', 'support@flexbyte.com']}
+{'com.taalmala.android': ['TaalMala', 'TaalMala.com', '100,000+', 'http://www.taalmala.com', 'service@taalmala.com']}
+{'vbaudio.vbanreceptor': ['VBAN Receptor', '5289662796852823610', '500+', 'http://www.vb-audio.com', 'vincent.burel@vb-audio.com']}
+{'com.rabugentom.chord': ['Chord! (Guitar Chord Finder)', 'RabugenTom', '50,000+', 'http://getchord.com', 'Support.Android@getchord.com']}
+{'music.volume.equalizer.bassbooster.virtualizer.pay': ['EQ & Bass Booster Pro - metal', 'METAL+-+CAM', '1,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/KX_AppTeam/privacy.txt', 'KX.AppTeam@gmail.com']}
+{'com.qodeSter.global.dsp.unlocker': ['Equalizer Ultra Pro Unlocker', 'QodeSter+Media+UK', '10,000+', 'http://qodester.azurewebsites.net/privacy.html', 'qodesteruk@googlemail.com']}
+{'be.tmde.musicvisualizer': ['Music Visualizer', '8144116374836693624', '500,000+', 'http://www.tmdigitalentertainment.com', 'tim.michels@gmail.com']}
+{'com.tradlessons.hohner.tablet.gcfsqueezebox': ['Hohner-GCF Button Accordion', '6637692141130410254', '5,000+', 'http://www.tradlessons.com/HohnerSqueezeBox.html', 'seisiuneer@gmail.com']}
+{'com.promusicsoftware.metrodrummer': ['Metrodrummer metronome and drum machine', '6811378963839386870', '100,000+', 'http://www.promusicsoftware.com', 'info@promusicsoftware.com']}
+{'com.mixingstudio.mixmusic': ['Mixtapes Music', '5729828931341254345', '10,000+', 'https://djmusicfree.com', 'support@djmusicfree.com']}
+{'jp.pioneer.mle.android.mixtrax': ['MIXTRAX App', 'PIONEER+CORPORATION', '10,000+', 'http://pioneer.jp/privacy/', 'mixtrax_support@post.pioneer.co.jp']}
+{'netroken.android.persistalternate': ['Volume Control +', 'Netroken', '10,000+', 'http://netroken.ca/privacypolicy', 'support@netroken.ca']}
+{'com.bluebamboostudios.REMX': ['REMX: Music Maker', 'Blue+Bamboo+Studios', '100,000+', 'http://www.bluebamboostudios.com', 'support@bluebamboostudios.com']}
+{'com.wmu': ['Warm Me Up for singers', 'Warm+Me+Up', '1,000+', 'http://www.warm-me-up.com', 'warmmeup@me.com']}
+{'media.adfree.music.mp3player': ['Music Plus - MP3 Player', 'iJoysoft', '1,000+', 'https://s3.amazonaws.com/ijoysoftprivacy/MusicPlayerPrivacy.txt', 'smartchen2015@gmail.com']}
+{'com.fragileheart.recorder': ['MP3 Recorder', '4686007665185340811', '100,000+', 'https://sites.google.com/view/smart-mobile-tools', 'ngocquyennguyen.bk.22@gmail.com']}
+{'com.stereomatch.voice.changer.gaming': ['Voice Changer for Gaming: PC PS4 XBox 2ndPhone', 'StereoMatch', '50,000+', 'http://www.stereomatch.com/blog/voice-changer-for-gaming-real-time-voice-changer-for-gaming/', 'amazingaudiomp3recorder@stereomatch.com']}
+{'nl.drievier.beatonal': ['Beatonal - Easy Music Maker', 'drievier', '50,000+', 'http://beatonal.com/', 'info@beatonal.com']}
+{'com.gimmemobile': ['Gimme Radio: Free Metal Music', 'Gimme+Radio+Inc.', '10,000+', 'https://www.gimmeradio.com', 'info@gimmeradio.com']}
+{'com.tedrasoft.music.maker': ['Music Maker', 'Tedra+Apps', '500,000+', 'http://tedrasoft.com', 'tedrasoft@gmail.com']}
+{'com.nonlineareducating.flstudio11101': ['Intro Course For FL Studio', 'AskVideo.com', '100+', 'https://www.askvideo.com/course/fl-studio-101-introducing-fl-studio', 'apps@askvideo.com']}
+{'com.ikmultimediaus.android.igrandpianofull': ['iGrand Piano', 'IK+Multimedia+US,+LLC', '1,000+', 'http://www.ikmultimedia.com/igrandpianoandroid', 'android.support@ikmultimedia.com']}
+{'com.readspeaker.rspeakttsenginevoices.james': ['James American English TTS', 'ReadSpeaker', '10+', 'http://www.readspeaker.com', 'info@readspeaker.com']}
+{'soundbirth.fr.app.gr.aum310': ['SoundBirth', '7010297041472909070', '1,000+', 'https://www.sound-birth.com/app', 'support@sound-birth.com']}
+{'tm.alashow.datmusic': ['datmusic', 'Alashov+Berkeli', '1,000+', 'https://datmusic.xyz', 'me@alashov.com']}
+{'com.palvesoft.loop_pad_dj_electro_music': ['Loop Pad DJ Electro Music Simulator', '6679280967228582929', '100,000+', 'http://www.palvesoft.com', 'palvesoft@gmail.com']}
+{'com.planeth.gstomperbignord3chordsbundle': ['G-Stomper BIG Nord3 Crd Bundle', '5200192441928542082', '100+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.hoboman313.huegasm': ['Huegasm for Philips Hue Lights', 'Nidratech+Ltd', '10,000+', 'http://www.huegasm.com/', 'huegasm.app@gmail.com']}
+{'com.swarsystems.ishala': ['iShala', 'Swar+Systems', '1,000+', 'http://www.swarsystems.com', 'support@swarsystems.com']}
+{'ablal.ballet4': ['Ballet Class', 'Balletto.net', '50,000+', 'http://www.balletclass.eu', 'staff@balletto.net']}
+{'com.paullipnyagov.rhythms': ['Rhythms - Learn How To Make Beats And Music', '8209495314763865910', '100,000+', 'http://www.drumpads24.com/rhythms', 'rhythms.app.help+android@gmail.com']}
+{'com.sheet.music': ['My Sheet Music - Sheet music viewer, music scanner', '4953443365699999896', '10,000+', 'http://freetexthost.com/o2dxdwfinn', 'stei2348@gmail.com']}
+{'com.planeth.rhythmkey': ['G-Stomper Rhythm Premium Key', '5200192441928542082', '1,000+', 'https://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'github.popeen.dsub': ['Booksonic - Audiobook Streamer', 'Popeen', '1,000+', 'http://booksonic.org', 'support@ptjwebben.se']}
+{'com.playermusic.musicplayerapp': ['Mp3 Player', '5136376168253225090', '10,000,000+', 'https://www.facebook.com/themp3player/', 'developer@bitsplayer.com']}
+{'com.RK.voiceover': ['VoiceOver - Record and Do More.', 'ResonanceVista', '500,000+', 'http://resonancevista.com/', 'support@resonanceVista.com']}
+{'me.rocks.grainstorm': ['Grainstorm', 'The+Secret+Laboratory', '50,000+', 'http://grainstorm.rocks.me', 'grainstorm@rocks.me']}
+{'shashank066.AlbumArtChanger.Pro': ['Album Art Changer Pro', 'OCD+Apps', '1,000+', 'https://shashank066.github.io/Album-Art-Changer-Pro/', 'droidprosuppo@gmail.com']}
+{'net.metapps.watersounds': ['Rain Sounds - Sleep & Relax', 'Relaxio', '1,000,000+', 'http://www.relaxio.net/', 'hello.relaxio+rain@gmail.com']}
+{'com.pulp.snoreraser': ['SnorEraser', 'AudEscapes,+Inc.', '1,000+', 'https://snoreraser.com', 'customer_care@snoreraser.com']}
+{'com.andymstone.metronomepro': ['Metronome Beats Pro', '4635242855942916199', '10,000+', 'http://www.stonekick.com/', 'support@stonekick.com']}
+{'com.fotoable.free.music': ['Free Music for YouTube Music - Music Player', 'Tool+Box+Studio', '10,000,000+', 'https://cdn-freemusic.fotoable.net/privacy.html', '13639402@qq.com']}
+{'de.ufxmedia.ufxloops': ['uFXloops Music Studio', 'ufxmedia', '500,000+', 'https://www.ufxloops.com', 'support@ufxloops.com']}
+{'air.FlamencoCompas': ['Flamenco Compas', 'Trianilla', '100+', 'http://www.flamencocompas.es', 'info@trianilla.com']}
+{'com.herman.ringtone.paid': ['Ringtone Maker Pro', 'Dongfu+He', '10,000+', 'https://ringtone-maker.appspot.com/FAQ.html', 'ringtone.sky@gmail.com']}
+{'com.otrplayer': ['Old Time Radio Player (no ads)', 'Mobile+Software+Design,+LLC', '5,000+', 'http://mobilesoftwaredesign.com', 'dave@mobilesoftwaredesign.com']}
+{'com.smartsong.seventhclassic': ['SmartSong', '%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%86%A1', '100,000+', 'http://www.smartsong.co.kr', 'ss7thdev@gmail.com']}
+{'com.audiofix.hearboost': ['Hear Boost: Enhanced Microphone & Recording Volume', 'Future+Moments', '1,000+', 'http://future-moments.com/', 'info@micswap.com']}
+{'wearablesoftware.wearspotifyplayer': ['Wear Spotify For Wear OS (Android Wear)', '9027257451638050761', '100,000+', 'http://www.wearable-software.com/', 'support@wearable-software.com']}
+{'com.music.star.startag': ['Star Music Tag Editor', 'Star+Music+Studio', '5,000,000+', None, 'playerstarmusic@gmail.com']}
+{'com.appsforamps.thr': ['THR Librarian', 'Apps+For+Amps', '5,000+', None, 'apps4amps@gmail.com']}
+{'com.ikmultimediaus.android.irigrecorderfull': ['iRig Recorder', 'IK+Multimedia+US,+LLC', '1,000+', 'http://www.ikmultimedia.com/irigrecorderandroid/', 'android.support@ikmultimedia.com']}
+{'com.bestoq.compressmp3folder': ['Compress MP3 Pro', 'Bestoq', '500+', 'http://www.bestoq.com', 'contact@bestoq.com']}
+{'com.carvalhosoftware.musicplayer': ['Music Player HD+ Equalizer', 'Carvalho+Apps', '1,000,000+', 'https://pastebin.com/MmmMEnPz', 'carvalhosoftware@gmail.com']}
+{'com.teq.guitarjam': ['Backing Tracks Guitar Jam', '6149513805465092634', '10,000+', 'https://guitarjamallstyles.com/', 'smakarovpro@gmail.com']}
+{'com.musicplayer.musicana.pro': ['Musicana Pro Music Player', 'Sebin+Paul', '500+', 'https://sites.google.com/site/musicana96/', 'sebinpaul96@gmail.com']}
+{'com.salsarhythm': ['Salsa Rhythm', 'Uri+Shaked', '10,000+', 'http://www.SalsaRhythmSoftware.com/', 'support@SalsaRhythmSoftware.com']}
+{'com.soundlim.panotuner': ['Pano Tuner - Chromatic Tuner', 'Kaleloft+LLC', '1,000,000+', 'http://panoapps.net/', 'support@kaleloft.com']}
+{'com.tohsoft.ringtone.maker.pro': ['Ringtone Maker Pro', 'music+player+-+video+player', '100,000+', 'https://sites.google.com/view/free-ringtone-maker', 'app.ringtones@tohsoft.com']}
+{'com.thiiird.drgn': ['Dragon - Synth Drum Machine', 'thIIIrd', '500+', 'http://thiiird.com', 'me@thiiird.com']}
+{'ringtone.maker.mp3.cutter.audio': ['MP3 Cutter and Ringtone Maker', 'InShot+Inc.', '1,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.tadaoyamaoka.vocalpitchmonitornoad': ['Vocal Pitch Monitor (No Ad)', 'TadaoYamaoka', '1,000+', 'http://hp.vector.co.jp/authors/VA046927/', 'tadaoyamaoka@gmail.com']}
+{'best.poweramp.vis': ['BEST POWERAMP VISUALIZATION', 'PowerMilk', '100+', None, 'lakifear@gmail.com']}
+{'com.frozenape.tempolite': ['Metronome: Tempo Lite', 'Frozen+Ape', '500,000+', 'http://www.frozenape.com', 'tempoandroid@frozenape.com']}
+{'jrtstudio.music.ad.blocker': ['Music Player for Android Pro', '8177774334723216869', '5,000+', 'http://www.jrtstudio.com', 'Music.Player@jrtstudio.com']}
+{'com.normalware.bebot': ['Bebot - Robot Synth', 'Normalware', '1,000+', 'http://normalware.com/', 'support@normalware.com']}
+{'com.apptrio.hi_fi_status': ['Hi-Fi Status(LG)', '7980043509581610980', '10,000+', 'http://down.happymobiles.co.kr/public_personal_information', 'apptriohelp@gmail.com']}
+{'com.chrisladd.chordbank': ['ChordBank: Guitar Chords', 'Christopher+Ladd', '50,000+', 'http://www.chordbank.com', 'support@chordbank.com']}
+{'com.jamstring.countrylickspro': ['63 Country Guitar Licks', '8577426266096753031', '1,000+', 'http://www.jamstring.com', 'jamstringapps@gmail.com']}
+{'com.jamstring.backingtrackbuilder': ['Backing Track Builder', '8577426266096753031', '50,000+', 'http://www.jamstring.com', 'jamstringapps@gmail.com']}
+{'com.tradlessons.hohner.tablet.ead': ['Hohner-EAD Button Accordion', '6637692141130410254', '5,000+', 'http://www.tradlessons.com/HohnerSqueezeBox.html', 'seisiuneer@gmail.com']}
+{'com.nchsoftware.mixpad_free': ['MixPad Multitrack Mixer Free', 'NCH+Software', '500,000+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'com.sincereapps.casa.free': ['Piano Chords and Scales', 'Sincere+apps', '50,000+', 'http://www.chordsandscales.co', 'sincere.apps@gmail.com']}
+{'com.punktumsoft.android.guitarnotetrainer': ['Guitar Note Trainer', 'Punktum+Soft', '1,000+', 'http://www.punktumsoft.com', 'punktum.soft@gmail.com']}
+{'mp3.musicplayer.audioplayer': ['Music Player- MP3 Player Free Music App', 'ES+Applications', '5,000+', 'https://music-player-22ae4.firebaseapp.com/', 'eaapps1391@gmail.com']}
+{'com.dkro.wavplayer': ['WavPlayer', 'Dennis+Lockshine', '50,000+', 'http://dkro2010.com/', 'dkro2010@gmail.com']}
+{'com.bandmate.pro': ['Bandmate Chromatic Tuner Pro', 'Bandmate', '1,000+', 'http://bandmatetuner.com/', 'bandmatetuner@gmail.com']}
+{'com.morphyre.android': ['Morphyre Music Visualizer', 'Morphyre', '1,000+', 'http://www.morphyre.com', 'contact@morphyre.com']}
+{'nz.co.mattfraser.beeflat': ['BeeFlat Bagpipe Tuner', '4828832124953488612', '100+', 'http://www.beeflattuner.com', 'matt@beeflattuner.com']}
+{'dk.theawe.ro': ['Ro - Spatialized Audio Calmness, Relaxation & ASMR', 'AWE+Interactive', '100+', 'https://www.listenro.com', 'hello@theawe.dk']}
+{'com.igigbook.app.igigbook': ['iGigBook Sheet Music Manager', 'Black+And+White+Software', '1,000+', 'http://forum.igigbook.com', 'help@igigbook.com']}
+{'com.hudsonmusic.bookstore': ['Hudson Music', 'Hudson+Music+LLC', '500+', 'http://www.hudsonmusic.com', 'books@hudsonmusic.com']}
+{'com.nchsoftware.switchand': ['Switch Plus Edition', 'NCH+Software', '100+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'peterkhlopenkov.rapbeat': ['Rap Beat Maker - Freestyle Hip Hop', '8202416247251974203', '50,000+', 'https://peterkhlopenkov.github.io', 'peterkhlopenkov@hotmail.com']}
+{'com.app.toptrack': ['TopTrack - Promote your music', 'TopTrack+LLC', '5,000+', 'http://www.toptrackartist.com', 'info@toptrackartist.com']}
+{'com.soundapps.equalizer.volumebooster.bassbooster.pro': ['Boosted. Equalizer Pro', 'Boosted.+Sound+-+apps+for+music+lovers', '1,000+', 'https://github.com/qmediapps/privacy/blob/master/Privacy_Policy_paid.md', 'picguess.game@gmail.com']}
+{'com.krisdb.wearcasts': ['Wear Casts - Podcast Player for Wear OS', '4836782574551165348', '10,000+', 'https://sites.google.com/view/wear-casts/home/privacy', 'krisdb@live.com']}
+{'com.kekstudio.easychord': ['Easy Chord: Progression Editor and Creator', 'Andrii+Kotliarenko', '10,000+', 'https://theoryformusic.com/privacy-policy/', 'successportable@gmail.com']}
+{'com.readspeaker.rspeakttsenginevoices.sophie': ['Sophie American English TTS', 'ReadSpeaker', '100+', 'http://www.rspeak.com', 'info@readspeaker.com']}
+{'com.appgeneration.itunerpro': ['myTuner Radio Pro', '6873380610601889920', '10,000+', 'https://mytuner-radio.com', 'help@mytuner.mobi']}
+{'net.ninjatune.ninjaJamm': ['Ninja Jamm', 'Ninja+Tune', '100,000+', 'http://www.ninjajamm.com', 'info@ninjajamm.com']}
+{'com.ehzstudios.spotifys7edgepanel': ['Edge Panel for Spotify Music', 'Edge+Master', '1,000+', None, 'edgemaster500@gmail.com']}
+{'com.humbeatz.humbeatz': ['HumBeatz', 'AmpTrack+Technologies+AB', '100+', 'http://www.humbeatz.com', 'support@humbeatz.com']}
+{'fm.mystage.note_recognition': ['Note Recognition - Convert Music into Sheet Music', '8254440210764684774', '100,000+', 'https://note-recognition.com', 'mystage-google@mystage.fm']}
+{'com.Vaytricks.BeatMachine': ['Beat Machine - Audio Sequencer', 'Vaytricks', '100,000+', 'http://Vaytricks.com', 'vaytricks@gmail.com']}
+{'com.skrivarna.fakebook.android': ['Fakebook Pro: Real Book and PDF Sheet Music Reader', '4765745939296717828', '10,000+', 'http://www.skrivarna.com', 'fakebook@skrivarna.com']}
+{'escapemusic.android.e001': ['Kairat Nurtas', 'escapex+Limited', '10,000+', 'http://www.escapex.com', 'support@escapex.com']}
+{'equalizer.bassbooster.pro.musicplayer': ['Fx Music Player Full', 'Fx+Music+Player', '1,000+', 'http://www.bassbooster.in', 'support@bassbooster.in']}
+{'media.plus.music.musicplayer': ['Music Player +', 'Mobile_V5', '10,000+', 'https://s3-us-west-2.amazonaws.com/mobilev5dev/MusicPlayerPrivacy.txt', 'mobilev5.dev@gmail.com']}
+{'com.mercurymobilesolutions.harrypotterringtone': ['Harry Potter Ringtone', 'Ringtone+App', '1,000+', 'http://www.mercurymobilesolutions.com', 'support@mercurymobilesolutions.com']}
+{'de.g_apps.dulcimer_chords.pro': ['Dulcimer Chords', 'g-apps', '100+', 'http://g-apps.de', 'info@g-apps.de']}
+{'com.pandora.android': ['Pandora Music', 'Pandora', '100,000,000+', 'http://www.pandora.com', 'pandora-support@pandora.com']}
+{'com.spotify.music': ['Spotify - Music and Podcasts', 'Spotify+Ltd.', '100,000,000+', 'https://www.spotify.com', 'android-support@spotify.com']}
+{'com.google.android.apps.youtube.music': ['YouTube Music - Stream Songs & Music Videos', '5700313618786177705', '100,000,000+', 'https://music.youtube.com', 'ytmusic-support@google.com']}
+{'free.music.offline.music.player.downloader.songs.musi.freemusic': ['Free Music - Music APP,  Offline Music', 'Music+Offline+Team', '100,000+', 'https://sites.google.com/view/privacy-policy-of-music/home', 'foeossoy@gmail.com']}
+{'com.soundcloud.android': ['SoundCloud - Music & Audio', 'SoundCloud', '100,000,000+', 'http://soundcloud.com/mobile', 'help@soundcloud.com']}
+{'com.agminstruments.drumpadmachine': ['Drum Pad Machine - Make Beats', '7473634688510685864', '10,000,000+', 'https://easybrain.com/', 'support@easybrain.com']}
+{'com.clearchannel.iheartradio.controller': ['iHeartRadio - Free Music, Radio & Podcasts', '8821283674927730745', '50,000,000+', 'http://iheart.com', 'android@iheartradio.com']}
+{'com.amazon.mp3': ['Amazon Music', 'Amazon+Mobile+LLC', '100,000,000+', 'http://amazon.com/amazonmusicunlimited', 'digital-music-android-feedback@amazon.com']}
+{'com.amazon.dee.app': ['Amazon Alexa', 'Amazon+Mobile+LLC', '10,000,000+', 'http://www.amazon.com/', 'echo-support@amazon.com']}
+{'com.internet.radio.fm.podcast': ['Smart Radio FM - Free Music, Internet & FM radio', 'Mahakal+Studio', '1,000,000+', 'https://docs.google.com/document/d/1cZoEuZPb3pjGM91bmzhs63cO7lrosnsjtrfziDqNBKg/edit?usp=sharing', 'beibeizhang1999@gmail.com']}
+{'equalizer.power.bass.booster.player.music.eq': ['Music Bass Equalizer Booster & Volume Up', 'Music+Carnival', '1,000,000+', 'https://bit.ly/2CO80jv', 'lemontreedtt@gmail.com']}
+{'com.apple.android.music': ['Apple Music', 'Apple+Inc.', '10,000,000+', 'http://www.apple.com', 'support@apple.com']}
+{'com.audiomack': ['Audiomack | Download New Music', '6125644571795195171', '10,000,000+', 'http://www.audiomack.com', 'support@audiomack.com']}
+{'com.shazam.android': ['Shazam', 'Apple,+Inc.', '100,000,000+', 'http://www.shazam.com', 'android.support@shazamteam.com']}
+{'com.bestringtonesapps.freeringtonesforandroid': ['Free Ringtones for Android™', '8950393860599764952', '10,000,000+', 'https://www.facebook.com/pages/Best-Ringtones-Apps/1018443861508951', 'jancicdjordje84@gmail.com']}
+{'mb32u.music.player.free.download': ['Free Music App(Download Now):MP3 Player MixerBox', 'MixerBox%C2%A9+-+Music+%26+MP3+Player+App+Free+Download', '1,000,000+', 'http://mixerbox.com', 'support@mixerbox.com']}
+{'com.aurora.music': ['Free Music Player – Online & Offline MP3 Player', 'AURORA+STUDIO', '1,000,000+', 'https://docs.google.com/document/d/1vK-fLhJtqIafHW0xgvLoVUQMqtY0YlOlzb-Cytjm4lo/edit?usp=sharing', 'onlyjavajd@gmail.com']}
+{'com.edjing.edjingdjturntable': ['edjing Mix: DJ music mixer', '6775629480928024144', '10,000,000+', 'http://www.edjing.com', 'support@edjing.com']}
+{'com.smule.singandroid': ['Smule - The #1 Singing App', 'Smule', '100,000,000+', 'http://www.smule.com', 'support+googleplaystore@smule.com']}
+{'com.musicstreaming.freemusic': ['Free Music', 'Free+Music+-+%F0%9F%8E%B5%F0%9F%8E%B5', '10,000,000+', None, 'tediousbaby@gmail.com']}
+{'com.media.bestrecorder.audiorecorder': ['Voice Recorder', '7149891497244951725', '10,000,000+', 'https://sites.google.com/view/voicerecorderpivacy', 'summer.mobile.apps@gmail.com']}
+{'com.atpc': ['Free Music Player, Music Downloader, Offline MP3', '6577981237362163650', '10,000,000+', 'https://bit.ly/atplayer', 'at.music.player@gmail.com']}
+{'com.mwm.drum': ['Drums: real drum set music games to play and learn', '6775629480928024144', '5,000,000+', 'http://musicworldmedia.com/', 'support-drums@mwmapps.com']}
+{'com.mmm.trebelmusic': ['TREBEL Free Music - Unlimited Music Downloader App', 'M%26M+Media,+Inc.', '1,000,000+', 'https://www.trebel.io', 'hello@trebelmusic.com']}
+{'sound.booster.surround.equalization': ['Music Surround Equalization-Bass &Equalization+', 'Music+Surround+Equalization+Dev', '100,000+', 'https://bit.ly/2D5mquS', 'webxgh7@gmail.com']}
+{'com.sirius': ['SiriusXM', 'Sirius+XM+Radio+Inc', '10,000,000+', 'http://siriusxm.com/streaming', 'listenercare@siriusxm.com']}
+{'com.google.android.music': ['Google Play Music', '5700313618786177705', '1,000,000,000+', 'http://play.google.com/music/', 'apps-help@google.com']}
+{'tunein.player': ['TuneIn: NBA Radio, Music, Sports & Podcasts', '5756372639482561977', '100,000,000+', 'http://tunein.com/support/android/', 'android-support@tunein.com']}
+{'com.aspiro.tidal': ['TIDAL Music - Hifi Songs, Playlists, & Videos', '9118636446845177720', '10,000,000+', 'http://tidal.com', 'support@tidal.com']}
+{'music.equalizer.bass.volume.booster': ['Music Equalizer-Bass Booster&Volume Up', 'Music+Forya', '500,000+', 'https://bit.ly/2OU9DhZ', 'talentedrussel20@gmail.com']}
+{'free.music.player.tube.songs.musicbox.imusic': ['Free Music Box - Unlimited Music', 'TifanyG.Dev', '1,000,000+', 'https://docs.google.com/document/d/e/2PACX-1vS0ARXk4cRmzkCn2Vv4cgMZgg_WMexjQTKx1D_e2KZFsoKQRXbrbUF470YB36RFwa-cN0KT4Iirnrr1/pub', 'huangsiyuer@gmail.com']}
+{'com.live.radio.pop.music.fm.free': ['Melody Radio - Live radio, Music & Free FM', 'XLaier+Group', '1,000,000+', 'https://docs.google.com/document/d/1aXJwTd-NanRLvNnRyp-SHFInzTo2ccbGIOGssFnQFeY/edit?usp=sharing', 'Xinxlaier@gmail.com']}
+{'com.streema.simpleradio': ['Simple Radio - Free Live FM AM Radio', '5322927662824790872', '10,000,000+', 'https://www.streema.com/mobile', 'simple@streema.com']}
+{'com.music.bass.equalizer.volume.booster.pro': ['Equalizer Pro & Bass Booster', 'Tango+Beats', '1,000,000+', 'https://bit.ly/2IMBzSE', 'Xiaoyy1006@gmail.com']}
+{'com.stitcher.app': ['Stitcher - Podcasts & Radio - News, Comedy, & More', 'Stitcher,+Inc', '5,000,000+', 'http://stitcher.com', 'feedback@stitcher.com']}
+{'com.electronica.musicaelectronica': ['Electronic music', 'InnovaApps+Developers', '500,000+', 'https://www.facebook.com/notes/juan-araya/pol%C3%ADticas-de-privacidad/123357074860629?_rdc=2&_rdr', 'juangabriel.araya.chavez@gmail.com']}
+{'com.jb.go.musicplayer.mp3player': ['GO Music Plus Player- Free Music, Radio, MP3', 'GOMO+Limited', '10,000,000+', 'http://www.gomo.com/', 'golauncher@goforandroid.com']}
+{'com.whimmusic2018.android': ['Free Music Download', 'Whim+Music', '100,000+', None, 'whim.music.info@gmail.com']}
+{'acoustic.guitar.simple': ['Acoustic Guitar Simulator App', 'AppTechGroup', '1,000,000+', 'http://app-techgroup.com/terms.php', 'favapplications@gmail.com']}
+{'com.yinc.offline.music.player': ['Free Music - Offline Music Player & Bass Booster', 'Yammy+Inc.', '100,000+', 'https://sites.google.com/view/mrgeneral', 'abrahamjoycedwendellsimon@gmail.com']}
+{'com.bandlab.bandlab': ['BandLab - Music Studio & Social Network', '8375301961782396369', '1,000,000+', 'https://www.bandlab.com', 'support@bandlab.com']}
+{'com.ultimateguitar.tabs': ['Ultimate Guitar: Chords & Tabs', '7532879156454387436', '5,000,000+', 'http://www.ultimate-guitar.com/', 'support-androidugt@ultimate-guitar.com']}
+{'music.downloader.player.free.online.offlline.songs.musical': ['Free Music APP - Offline Music Player', 'Trending+Music+Studio', '10,000+', 'https://sites.google.com/view/music-cloud-free-player/home', 'zushimekuretsu97@gmail.com']}
+{'com.touchtunes.android': ['TouchTunes', 'Touchtunes+Interactive+Networks', '1,000,000+', 'http://www.touchtunes.com', 'touchtunes-support@touchtunes.com']}
+{'com.color.call.flash.colorphone.theme.cupidarrow': ['Cupid Arrow Caller Screen', 'Simple+User+Design+Tech+Group', '1,000,000+', 'https://1drv.ms/w/s!AifHGnFj88jTgQKjVfdrdmohvL40', 'myfeedback001@gmail.com']}
+{'com.bose.monet': ['Bose Connect', 'Bose+Corporation', '1,000,000+', 'http://www.bose.com', 'BoseAppSupport@Bose.com']}
+{'speaker.audio.tools.speaker.booster': ['super loud volume booster , speaker booster  2019', 'dusters007', '1,000,000+', 'http://www.dusters007.com', 'volumebooster-dusters@gmail.com']}
+{'com.sofeh.android.musicstudio3': ['ORG 2019', '6947556644764074972', '50,000,000+', 'http://www.sofeh.com', 'support@sofeh.com']}
+{'musicplayer.equalizer.bassbooster.theme': ['Music Player - Audio Player with Best Sound Effect', 'Dreams+Room', '1,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Dreeam_Room/MusicPrivacy.txt', 'panjiaqiong@gmail.com']}
+{'vr.audio.voicerecorder': ['voice recorder', '5961211893873529920', '5,000,000+', 'https://sites.google.com/view/privacyvoicerecorder', 'olympic.game.studio@gmail.com']}
+{'com.jazarimusic.voloco': ['Voloco: Auto Voice Tune + Harmony', 'RESONANT+CAVITY', '5,000,000+', 'http://resonantcavity.com/support', 'support@resonantcavity.com']}
+{'net.andromo.dev58853.app253629': ["Today's Hit Ringtones - Free New Music Ringtones", '7366972575063845266', '1,000,000+', 'http://bestringtoneapps.net/privacy-policy/', 'jordan.r.n.82@gmail.com']}
+{'com.radio.fmradio': ['Radio FM', 'RadioFM', '10,000,000+', 'http://appRadioFM.com', 'support@appRadioFM.com']}
+{'audio.sound.effect.bass.virtrualizer.equalizer': ['Bass Booster & Equalizer', 'Coocent', '10,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/KuXunAppTeam/privacy.txt', 'KuXun.AppTeam@gmail.com']}
+{'com.radiocom': ['RADIO.COM | Sports, Music, News, Talk & Podcasts', 'Entercom+Communications', '1,000,000+', 'http://radio.com', 'support@radio.com']}
+{'com.joytunes.simplypiano': ['Simply Piano by JoyTunes', '9173704920238080377', '5,000,000+', 'https://www.joytunes.com', 'hello@joytunes.com']}
+{'com.musicplayer.music': ['Default Music Player', 'JAYAVELU+V', '50,000,000+', 'http://fifomedia.com/musicplayer.txt', 'jayavelu.viswanathan@gmail.com']}
+{'deezer.android.app': ['Deezer Music Player: Songs, Radio & Podcasts', 'Deezer+Mobile', '100,000,000+', 'http://www.deezer.com/', 'support@deezer.com']}
+{'com.musicplayer.playermusic': ['Music Player', 'Music+Player.', '1,000,000+', 'https://www.facebook.com/audifymusicplayer/', 'feedback@audifyplayer.com']}
+{'com.bandsintown': ['Bandsintown Concerts', 'Bandsintown', '5,000,000+', 'https://www.bandsintown.com', 'support_android@bandsintown.com']}
+{'com.jojo.siwa.allsong.devlop': ['JoJo Siwa All Songs 2019', 'Sempet+Developer', '100,000+', 'http://sempetdeveloper.blogspot.com', 'asrul.masyura@gmail.com']}
+{'com.gismart.drum.pads.machine': ['Drum Pads - Beat Maker Go', '6462287121578018300', '5,000,000+', 'https://gismart.com/beatmaker/', 'support@gismart.com']}
+{'com.mwm.guitar': ['Guitar - play music games, pro tabs and chords!', '6775629480928024144', '5,000,000+', 'http://musicworldmedia.com/', 'support-guitar@mwmapps.com']}
+{'com.voice.music.tone.changer.must.have': ['Voice Changer Voice Recorder - Editor & Effect', '4634047496794859154', '500,000+', 'https://sites.google.com/view/handytools', 'iHandyToolBox@gmail.com']}
+{'com.andromo.dev731714.app796900': ['SLOW JAMS R&B SOUL MIX', 'Yusuke+Saitama', '100,000+', None, 'omayma.fatima.9@gmail.com']}
+{'com.livenation.mobile.android.na': ['Live Nation At The Concert', 'Live+Nation+Worldwide,+Inc.', '1,000,000+', 'http://www.livenation.com', 'mobilefeedback@livenation.com']}
+{'com.magix.android.mmjam': ['Music Maker JAM', 'JAM+Just+Add+Music+GmbH', '10,000,000+', 'https://www.justaddmusic.net/en/', 'support@justaddmusic.net']}
+{'com.xxx.tentaction.musique2018': ['xXxTentaction - Best Songs', 'Souhail+EL+Ghrousi', '500,000+', 'https://sites.google.com/view/xxxtentaction-privacy-policy/accueil', 'souhailgr39@gmail.com']}
+{'com.best.free.ringtones': ['Best Free Ringtones', '8390883489843643746', '1,000,000+', 'http://simonlevy8732.wixsite.com/freeusefullapps', 'simonlevy8732@gmail.com']}
+{'my.googlemusic.play': ['My Mixtapez Music', 'My+Mixtapez+-+Top+Music+apps', '10,000,000+', 'http://mymixtapez.com', 'info@mymixtapez.com']}
+{'eop.everyone.piano.usb.keyboard': ['Piano Extreme: USB Keyboard', '4619189391945421469', '1,000,000+', 'https://www.facebook.com/PianoExtreme', 'guitartabsapps@gmail.com']}
+{'com.soundcorset.client.android': ['Tuner & Metronome', 'Soundcorset', '10,000,000+', 'https://www.soundcorset.com', 'support@soundcorset.com']}
+{'com.jojo.jojosiwasongs2': ['All Songs Jojo Siwa', 'Lite+MSF', '50,000+', None, 'maituananh12051989@gmail.com']}
+{'com.melodis.midomiMusicIdentifier.freemium': ['SoundHound - Music Discovery & Hands-Free Player', 'SoundHound+Inc.', '100,000,000+', 'https://soundhound.com/soundhound', 'help@soundhound.com']}
+{'com.fundevs.app.mediaconverter': ['Video MP3 Converter', 'FunDevs+LLC', '100,000,000+', 'http://www.fundevs.com', 'support@fundevs.com']}
+{'com.amp.android': ['AmpMe - Speaker Booster', 'AmpMe+Inc', '5,000,000+', 'http://ampme.com', 'support@ampme.com']}
+{'com.nextradioapp.nextradio': ['NextRadio Free Live FM Radio', 'NextRadio', '10,000,000+', 'http://nextradioapp.com', 'support@nextradioapp.com']}
+{'com.play.tubemusic': ['Play Tube', 'MsoftApps', '100,000+', 'https://docs.google.com/document/d/1EInDTqjRCy-gfOyiokmBFcltqIcywj-nPTo_C73Y2H8/edit', 'playtubevideomusic2018@gmail.com']}
+{'com.djit.apps.stream': ['Free music for YouTube: Stream', '6775629480928024144', '10,000,000+', 'http://streamplayer.io/', 'support@streamplayer.io']}
+{'com.mwm.sampler': ['Beat Maker Pro - music maker drum pad', '6775629480928024144', '1,000,000+', 'http://musicworldmedia.com/', 'support-drumpad@mwmapps.com']}
+{'com.smule.magicpiano': ['Magic Piano by Smule', 'Smule', '50,000,000+', 'http://www.smule.com', 'support+googleplaystore@smule.com']}
+{'com.sonos.acr': ['Sonos Controller for Android', 'Sonos,+Inc', '5,000,000+', 'http://www.sonos.com/android', 'support@sonos.com']}
+{'com.tubeplayer.stream.freemusic': ['Free Music - Online Music Player & YouTube Music', '5425943717807682156', '100,000+', 'https://marni.group/main/', 'rossellinii686@gmail.com']}
+{'com.im.music.player': ['Free Music Player - Equalizer & Bass Booster', 'Infiniton+Mobile', '100,000+', 'https://sites.google.com/view/infinitomobile/homepage', 'cassidykatieylady@gmail.com']}
+{'com.Project100Pi.themusicplayer': ['Pi Music Player - Mp3 Player', '%F0%9F%8C%9F100Pi+Labs', '10,000,000+', 'http://100pilabs.com/', 'support@100pilabs.com']}
+{'com.itbuilds.musicplayer': ['Offline Music Player - Local, Without Wifi', 'itbuilds', '100,000+', 'https://www.freeprivacypolicy.com/privacy/view/10ee3baaee6ac514b9f628d67b05848b', 'igorkurijak@hotmail.com']}
+{'com.soundbrenner.pulse': ['The Metronome by Soundbrenner', '5483824196951830916', '1,000,000+', 'http://www.soundbrenner.com', 'support@soundbrenner.com']}
+{'com.slacker.radio': ['Slacker Radio', 'Slacker+Inc.', '50,000,000+', 'http://www.slacker.com', 'support-android@slacker.com']}
+{'com.dywx.larkplayer': ['Lark Player —— YouTube Music & Free MP3 Top Player', 'Mobiuspace+Tech+Top+Player', '50,000,000+', 'https://www.facebook.com/larkplayerofficial/', 'larkplayer@dayuwuxian.com']}
+{'free.music.tube.player': ['Free Music for YouTube', 'Crazy+Free+Music', '1,000,000+', 'https://goo.gl/RZ6AK1', 'topfreemusicteam@gmail.com']}
+{'com.andromo.dev58853.app253616': ['Best Rap Ringtones - Free Hip Hop Ringtones 2019', '7366972575063845266', '1,000,000+', 'http://bestringtoneapps.net/privacy-policy/', 'jordan.r.n.82@gmail.com']}
+{'com.appselite.oldiesradiostationforfree': ['Oldies Radio Station For Free', 'AppsEliteGlobal', '100,000+', 'http://appseliteglobal.blog210.com', 'appsglobal25@gmail.com']}
+{'com.soundboardguys.hitmiss': ['Hit or Miss Soundboard', '4792710627909473683', '50,000+', 'https://www.soundboardguys.com', 'Soundboardguys@gmail.com']}
+{'me.rapchat.rapchat': ['Rapchat - Rap Music Studio with Auto Vocal Tune', '7127160967849610936', '1,000,000+', 'http://rapchat.me', 'support@rapchat.me']}
+{'com.todayshitringtones.best_ring_tones': ["Today's Hit Ringtones Pro Free Ringtones Wallpaper", '7366972575063845266', '100,000+', 'http://bestringtoneapps.net/privacy-policy/', 'jordan.r.n.82@gmail.com']}
+{'com.soundcloud.creators': ['SoundCloud Pulse: for Creators', 'SoundCloud', '1,000,000+', 'http://soundcloud.com', 'help@soundcloud.com']}
+{'com.dsgrmgmusica': ['Free Music MP3 Download', 'Day%C4%B1+Mobile+App.', '50,000+', None, 'Aufatihs@gmail.com']}
+{'com.opalastudios.pads': ['SUPER PADS - Become a DJ', '9139020305591924823', '10,000,000+', 'https://www.facebook.com/SuperPadsApp', 'hello@opalastudios.com']}
+{'music.basss.booster.effect.equalizer': ['Equalizer -- Bass Booster & Volume EQ &Virtualizer', 'iJoysoft', '100,000+', 'https://appprivacy.oss-us-east-1.aliyuncs.com/AppPrivacy.txt', 'smartchen2015@gmail.com']}
+{'com.musicplayer.player.mp3player.white': ['Music Player', 'mytechnosound', '10,000,000+', 'http://termsofservice-mytechsound.blogspot.in/2017/03/music-player.html', 'mytechnosound@gmail.com']}
+{'com.fanlyric.fanflyric': ['Lyrics FNAF 1 2 3 4 5 6 Songs Free', 'Best+App+Pro+Studio', '500,000+', 'http://bit.ly/2IfrmfU', 'bumetroplum@gmail.com']}
+{'com.media.music.mp3.musicplayer': ['Music player', '5961211893873529920', '1,000,000+', 'https://sites.google.com/view/ogsprivacy', 'olympic.game.studio@gmail.com']}
+{'com.madebyappolis.spinrilla': ['Spinrilla - Hip-Hop Mixtapes & Music', 'Spinrilla', '10,000,000+', 'https://spinrilla.com', 'android@spinrilla.com']}
+{'com.iflytek.freeringtones': ['Free Ringtones and Ringtones Maker', 'Best+Free+Ringtones', '100,000+', 'http://ifreeringtones.com', '905143321@qq.com']}
+{'com.fender.play': ['Guitar Lessons, Bass & Ukulele | Fender Play', 'Fender+Digital,+LLC', '500,000+', 'http://www.fender.com', 'google@fendergarage.com']}
+{'com.andrwq.recorder': ['Smart Recorder – High-quality voice recorder', 'SmartMob', '10,000,000+', 'http://help.smartmobdev.com/', 'contact@smartmobdev.com']}
+{'musicplayer.musicapps.music.mp3player': ['Music Player - MP3 Player, Audio Player', 'InShot+Inc.', '10,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.photovideoeditor.piano': ['Real Piano - Piano keyboard 2018', 'App+Street+Studio', '1,000,000+', 'http://photoeditorvideomakerapps.blogspot.in/', 'photovideoeditor701@gmail.com']}
+{'com.bestringtonesapps.birdcallssoundsandringtones': ['Bird Calls, Sounds & Ringtones', '8950393860599764952', '1,000,000+', 'https://www.facebook.com/pages/Best-Ringtones-Apps/1018443861508951', 'jancicdjordje84@gmail.com']}
+{'com.admousic.freemusictest.downloadccmusicmp3': ['Mp3 Music Download', 'Mp3+Music+Downloader+apps.', '5,000+', None, 'mensdamm@gmail.com']}
+{'com.radio.pandrastations': ['Free Panorama Music & Radio Stations', 'PanraStations', '10,000+', 'https://sites.google.com/view/pandramusicradio', 'kapanradiodora@gmail.com']}
+{'com.playermusic.musicplayerapp': ['Mp3 Player', '5136376168253225090', '10,000,000+', 'https://www.facebook.com/themp3player/', 'developer@bitsplayer.com']}
+{'com.country.music.ringtones': ['Best Country Ringtones Offline', 'PHA+Inc', '50,000+', 'https://androidsohostore.blogspot.com/2018/11/best-country-ringtones-offline-privacy.html', 'minhchung.9755@gmail.com']}
+{'com.pioneer.alternativeremote': ['Pioneer ARC', 'PIONEER+CORPORATION', '1,000,000+', 'http://pioneer.jp/privacy/index-e.html', 'car_apps_info@db.pioneer.co.jp']}
+{'com.andromo.dev784331.app911084': ['Never Broken Again – YoungBoy Mp3 Offline', 'Adeles+Studios', '1,000+', 'https://adelesstudios.blogspot.com/2019/01/never-broken-again-youngboy-mp3-offline.html', 'diams0218@gmail.com']}
+{'bass.eq.music.player.theme': ['Equalizer FX', 'HowarJran', '100,000+', 'http://wetcac.blogspot.com/2018/05/privacy-policy.html', 'howarJran@gmail.com']}
+{'com.search.music.mp3.musicplayer': ['Music player', 'creative+%26+quality+std', '5,000,000+', 'https://sites.google.com/view/creativeplayer', 'creative.mobileapps.std@gmail.com']}
+{'com.cholaykurchaliapps.piano_real.learning_keyboard_2018': ['Piano Real Learning Keyboard 2019', 'CholayKurchaliApps', '500,000+', 'https://docs.google.com/document/d/1nhkN9kjZO3Uq9EmVFrclm56FWIgEJa_D_C_SwV9z4YQ/edit', 'engr.nekdilkhan@gmial.com']}
+{'com.rhapsody': ['Napster Music', 'Rhapsody+International,+Inc', '10,000,000+', 'http://help.naspter.com', 'help@napster.com']}
+{'com.threeheads.tuny.music.player.youtube': ['Free Songs & Free Music Videos (Download Now)', 'THS+-+Free+Music+Apps', '1,000,000+', 'https://sites.google.com/view/privacypolicy-ths', 'threeheadskiev@gmail.com']}
+{'com.marshmelloremixmp3offline.xzerow': ['DJ Marshemello Mp3 Offline', '8387260500923108291', '10,000+', 'https://arifasnews.wordpress.com', 'kejutansenang@gmail.com']}
+{'com.jaybirdsport.audio': ['Jaybird MySound', 'Jaybird+LLC.', '500,000+', 'http://www.jaybirdsport.com/', 'support@jaybirdsport.com']}
+{'br.com.rodrigokolb.realguitar': ['Real Guitar - Guitar Playing Made Easy.', '7590815180117612946', '10,000,000+', 'http://www.kolbapps.com', 'kolbapps@gmail.com']}
+{'com.andromo.dev746621.app852808': ['Greatest Rock Songs All Time', 'DB+Music+Dev.', '50,000+', None, 'db.musicapp.dev@gmail.com']}
+{'com.emf.klove': ['K-LOVE', 'Educational+Media+Foundation', '1,000,000+', 'http://www.klove.com/', 'klove@klove.com']}
+{'com.starmusic.playermp3': ['Star Music - Free Music Player', 'APODO+MUSIC', '1,000,000+', 'https://sites.google.com/view/starmusicprivacy', 'apodo678@gmail.com']}
+{'com.trends.anew': ['Trending Music', 'Apps+int', '10,000+', 'https://sites.google.com/view/pudev/privacy-policy', 'rodiongorbachevskiy99@gmail.com']}
+{'com.freeradioGuatemala': ['Guatemala Radio Stations FM', '8127580200659645902', '100,000+', 'https://radiolongo.com/privacy-policy-of-radio-fm.html', 'rmizuki203@gmail.com']}
+{'com.anbu.ringtonemaker': ['MP3 Cutter and Ringtone Maker', 'Lakshmanan+Anbalagan', '10,000,000+', 'https://anbalaganlakshmanancom.wordpress.com/2016/12/31/mp3-cutter-and-ringtone-makerprivacy-policy/', 'laxman.anbu@gmail.com']}
+{'com.korrisoft.ringtone.maker': ['Call Ringtone Maker – MP3 & Music Cutter', '5511903698132849539', '1,000,000+', 'http://ciamedia.com/privacy-policy/', 'sappalodapps@gmail.com']}
+{'com.samsung.android.soundassistant': ['SoundAssistant', '5200379633052405703', '500,000+', 'http://www.samsung.com/sec/', 'audiocore@samsung.com']}
+{'com.kodarkooperativet.blackplayerfree': ['BlackPlayer Music Player', '5284643674100261978', '10,000,000+', 'https://www.iubenda.com/privacy-policy/8041966', 'support@blackplayer.se']}
+{'com.emelianov.audio': ['OffTop Studio: Record, Rap & Sing over Beats', 'Deep+Thought+LLC', '100,000+', 'http://offtop.com', 'dave@offtop.co']}
+{'xtkspn.lofi': ['Lo-Fi Radio - Work, Study, Chill', 'XTK:SPN+Rooftop+Studio', '100,000+', 'http://lofi.maisbaixo.com/privacy_policy.html', 'xtk.spn@gmail.com']}
+{'escapemusic.android.a082mandyrain': ['Mandy Rain', 'escapex+Limited', '50,000+', 'http://www.escapex.com', 'support@escapex.com']}
+{'freemusic.download.musicplayer.mp3player': ['Free Music Player - MP3 Player', 'InShot+Inc.', '500,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.mixcloud.player': ['Mixcloud - Radio & DJ mixes', 'Mixcloud', '1,000,000+', 'https://www.mixcloud.com/', 'support@mixcloud.com']}
+{'in.krosbits.musicolet': ['Musicolet Music Player [Free, No ads]', '8059182133280644587', '1,000,000+', 'http://krosbits.in/musicolet', 'musicolet@krosbits.in']}
+{'com.binghuo.audioeditor.mp3editor.musiceditor': ['Music Editor', 'Audio+Editor', '100,000+', 'https://sites.google.com/view/binghuostudio-musiceditor', 'binghuostudio@gmail.com']}
+{'com.redplus.musicex': ['Free Music - Red Plus', 'Adam+Ho', '1,000,000+', 'http://45.79.88.89/plus-privacy.html', 'emojistickerstudio.cc@gmail.com']}
+{'com.swordisme.tracks.lilbaby': ['LIL BABY | Top Hit Songs, .. no internet', 'swordisme_dev', '10,000+', 'https://sites.google.com/view/swordisme/privacy-policy', 'sword.maataoui@gmail.com']}
+{'com.purehub.mp3player': ['PureHub - Free Music Player', 'U+Tunes', '5,000,000+', 'https://sites.google.com/view/purehub', 'linchunyanwangmingxuan@gmail.com']}
+{'feniksenia.app.speakerlouder10': ['Speaker Booster Full Pro', 'FeniKsenia', '1,000,000+', 'https://vk.com/doc267169157_476646075', 'feniksenia26@gmail.com']}
+{'com.soundlim.panotuner': ['Pano Tuner - Chromatic Tuner', 'Kaleloft+LLC', '1,000,000+', 'http://panoapps.net/', 'support@kaleloft.com']}
+{'com.miwi.real.guitar.electrica': ['Electric Guitar : Virtual Electric Guitar Pro', '6936456172963391485', '100,000+', 'https://kiiwiii.webnode.com/', 'hh.codes@gmail.com']}
+{'com.themasterapp.musicadebandasycorridosgratis': ['Musica Banda y Corridos Gratis', 'The+Master+Appr', '100,000+', 'https://www.facebook.com/notes/luis-appsbusines/politica-de-privacidad/102260096957555', 'themasterappr@gmail.com']}
+{'com.thredamp.kalimbasim': ['Kalimba', '3DAMP', '100,000+', None, 'threedamp@gmail.com']}
+{'mp3.music.download.player.music.search': ['Mp3 Player', 'accountlab', '10,000,000+', 'http://accountlabprivacy.blogspot.com/2017/01/terms-of-service-and-privacy-policy.html', 'sreejaksreeja007@gmail.com']}
+{'media.tools.plus.speakerbooster.simoapp': ['Speaker Booster Plus', '4689089669922823689', '5,000,000+', 'http://simonewapp.us', 'simonewapp01@gmail.com']}
+{'com.smp.musicspeed': ['Music Speed Changer', 'Single+Minded+Productions,+LLC', '1,000,000+', 'http://musicspeedchanger.com/forum', 'musicspeedchanger@gmail.com']}
+{'com.mldsong.djmixersong.playermp3': ['DJ Mixer Player Mobile', 'MLD+Creative', '1,000,000+', 'https://docs.google.com/document/d/16oKm9h_ZRoLA6TOMmoV2WT-cLW9OqeQX7kDNnpekeDI/edit?usp=sharing', 'xluddy@yahoo.com']}
+{'com.tohsoft.music.mp3.mp3player': ['Music player', 'Music+Apps+-+Allmusic', '10,000,000+', 'https://sites.google.com/view/musicplayerapppolicy', 'app.music@tohsoft.com']}
+{'com.stereomatch.voice.changer.gaming': ['Voice Changer for Gaming: PC PS4 XBox 2ndPhone', 'StereoMatch', '50,000+', 'http://www.stereomatch.com/blog/voice-changer-for-gaming-real-time-voice-changer-for-gaming/', 'amazingaudiomp3recorder@stereomatch.com']}
+{'com.guasap.mp3download': ['Mp3 Music Downloader', 'Guasap+Inc.', '100,000+', 'https://pastebin.com/j6PHKwXP', 'jpe3397664@gmail.com']}
+{'com.djloboapp.djlobo': ['DJ Lobo', 'D.J.+Lobo+App,+LLC', '1,000,000+', 'http://www.djloboapp.com', 'apple@djloboapp.com']}
+{'music.musicplayer': ['Audio Player', '8177774334723216869', '10,000,000+', 'http://www.jrtstudio.com', 'Music.Player@jrtstudio.com']}
+{'com.spotify.tv.android': ['Spotify Music - for Android TV', 'Spotify+Ltd.', '1,000,000+', 'http://www.spotify.com', 'support@spotify.com']}
+{'lystudio.karaokezingproject': ['Karaoke 2019: Sing & Record', 'Entertainment+Apps+Team', '5,000,000+', 'http://unadvised-glove.surge.sh/', 'ent.apps.secure.team@gmail.com']}
+{'radio.gratis.freestations': ['Free Radio - FM Radio', '8127580200659645902', '500,000+', 'https://radiolongo.com/privacy-policy-of-radio-fm.html', 'rmizuki203@gmail.com']}
+{'com.ringtonesapps2018.ringtonesrockclasicsmartphone': ['Ringtone Rock Music', 'Ringtones+Apps+2018', '50,000+', 'http://appsmoment.net/google/Ringtones%20App.html', 'RingtonesApps13@gmail.com']}
+{'iTunes.Sync.Android': ['iSyncr: iTunes to Android', '8177774334723216869', '1,000,000+', 'http://www.jrtstudio.com/iSyncr', 'iSyncr@jrtstudio.com']}
+{'com.soundbtnbruh.bruhbroh': ['Ohhh Button & Bruh Sound Button', 'Mastersurge', '100,000+', 'https://tinyurl.com/ybtuuvxs', 'herdtheinrich67@gmail.com']}
+{'com.anaina.JojoSiwa': ['Jojo Siwa "Boomerang" Songs', 'A+NAINA', '10,000+', None, 'satwikaranimega@gmail.com']}
+{'com.dramaticchip.munkbtn': ['Dramatic Chipmunk Button', 'Mastersurge', '100,000+', 'https://tinyurl.com/ybtuuvxs', 'herdtheinrich67@gmail.com']}
+{'jp.co.roland.bosstuner': ['BOSS Tuner', 'Roland+Corporation', '1,000,000+', 'https://www.boss.info/global/products/boss_tuner_app/specifications/', 'bosspub@roland.co.jp']}
+{'com.ranat.hatif2018': ['New Ringtones 2019', 'Best+Apps+2018', '1,000,000+', 'https://sites.google.com/view/bestapps2019/privacy-policy', 'bestapps2019@gmail.com']}
+{'com.palvesoft.loop_pad_dj_electro_music': ['Loop Pad DJ Electro Music Simulator', '6679280967228582929', '100,000+', 'http://www.palvesoft.com', 'palvesoft@gmail.com']}
+{'com.openlabs.stagelight': ['Stagelight: Audio and MIDI DAW', 'Open+Labs+Music+Software', '500,000+', 'http://www.openlabs.com', 'mobile@openlabs.com']}
+{'com.fragileheart.mp3editor': ['Music Editor', '4686007665185340811', '1,000,000+', 'https://sites.google.com/view/smart-mobile-tools', 'ngocquyennguyen.bk.22@gmail.com']}
+{'com.jio.media.jiobeats': ['JioSaavn Music & Radio – including JioMusic', 'Saavn+Media+Pvt.+Ltd.', '100,000,000+', 'https://www.jiosaavn.com', 'feedback@jiosaavn.com']}
+{'com.yjitpvx.tophits60s70s80s90s00s': ['Oldies 60s 70s 80s 90s 00s Music Hits', 'Pistudio', '100,000+', 'http://ladiapp.com', 'thanhvan190591@gmail.com']}
+{'com.cma.cmafest': ['CMA Fest 2019', 'CMA+Country+Music+Association', '50,000+', 'http://www.CMAworld.com', 'countrymusicassoc@gmail.com']}
+{'com.tadaoyamaoka.vocalpitchmonitor': ['Vocal Pitch Monitor', 'TadaoYamaoka', '1,000,000+', 'https://www.facebook.com/home.tadaoyamaoka/', 'tadaoyamaoka@gmail.com']}
+{'com.ivoox.app': ['Podcast & Radio iVoox', '5137950355033534074', '5,000,000+', 'http://www.ivoox.com', 'info@ivoox.com']}
+{'com.themasterapp.musicanortenacorridosbanda': ['Musica Norteña Gratis', 'The+Master+Appr', '500,000+', 'https://www.facebook.com/notes/luis-appsbusines/politica-de-privacidad/102260096957555', 'themasterappr@gmail.com']}
+{'freemusic.player': ['Free Music', '6577981237362163650', '500,000+', 'https://bit.ly/free-music-privacy-policy', 'player.free.music@gmail.com']}
+{'sound.effect.virtrualizer.equalizer.musicplayer': ['Music Player - Audio Player & 10 Bands Equalizer', 'iJoysoft', '1,000,000+', 'https://appprivacy.oss-us-east-1.aliyuncs.com/AppPrivacy.txt', 'smartchen2015@gmail.com']}
+{'pl.netigen.simpletrumpettuner': ['Master Trumpet Tuner', '7420477601195733723', '500,000+', 'http://tuners.netigen.pl/', 'mobile@netigen.pl']}
+{'music.kid.pianokids': ['Music kids - Songs & Music Instruments', 'Cingdy', '1,000,000+', 'https://sites.google.com/site/musickidsprivacy/', 'cindyteamf@gmail.com']}
+{'com.niceringtonesapps.funnyalarm': ['Funny Alarm Ringtones', 'Nice+Ringtones', '1,000,000+', 'https://sites.google.com/site/niceringtones/ppd', 'binxijia@gmail.com']}
+{'com.tbig.playerprotrial': ['PlayerPro Music Player (Free)', 'BlastOn+SA', '10,000,000+', 'http://www.aplayerpro.com', 'playerprotrial.android@gmail.com']}
+{'com.bestringtonesapps.bestclassicalmusicringtones': ['Classical Music Ringtones', '8950393860599764952', '1,000,000+', 'https://www.facebook.com/pages/Best-Ringtones-Apps/1018443861508951', 'jancicdjordje84@gmail.com']}
+{'com.futuresculptor.maestro': ['Maestro - Music Composer', 'FUTURE+SCULPTOR', '500,000+', 'http://www.FutureSculptor.com', 'info@futuresculptor.com']}
+{'net.chordify.chordify': ['Chordify', 'Chordify+B.V.', '100,000+', 'https://chordify.net', 'android@chordify.net']}
+{'com.musicplayer.galaxymusicplayer': ['Music Player for Samsung Galaxy', 'Galaxy+Music+Player+Download', '500,000+', 'https://bestmusicplayer.wordpress.com/', 'bestmusicplayer7@gmail.com']}
+{'cos.mos.youtubeplayer': ['Free Music', 'Entertainment+Apps+For+Free', '100,000+', 'http://www.puddingstudio.com/freemusicprivacy.htm', 'contact@puddingstudio.com']}
+{'com.music.beat.rap': ['Instrumental Rap beats - Hip hop music 2019', 'Music+Store+Studio', '10,000+', 'http://wmoapp.net/', 'wmomusicworld@gmail.com']}
+{'com.red.stream': ['Free Music for Youtube Player: Red+', 'Red+Free+Music', '1,000,000+', 'http://bit.ly/red-player-privacy', 'redmusicstudio.cc@gmail.com']}
+{'com.bti.myPiano': ['My Piano', '4855130611498364316', '50,000,000+', 'http://trajkovski.net', 'borcet@gmail.com']}
+{'dr.woofereq': ['Woofer Equalizer Pro', 'Appstudiobdr', '100,000+', 'https://privacypolicywoofereq.blogspot.com/', 'appstudiob@gmail.com']}
+{'tonosdellamada.top': ['Tonos De llamada 2019', 'RingtonesMobi', '50,000+', 'https://sites.google.com/view/ringtonesmobi', 'app@ringtonesmobil.com']}
+{'com.bose.bosemusic': ['Bose Music', 'Bose+Corporation', '100,000+', 'http://www.bose.com', 'BoseAppSupport@Bose.com']}
+{'com.wifiaudio.WiFiControl': ['iLive Wi-Fi Control', 'DPI+Inc.', '100,000+', 'http://iliveelectronics.com/customer-service.html', 'edonahower@dpiinc.com']}
+{'com.maxvolume.volumebooster.soundbooster': ['Volume Booster and Equalizer, MP3 Music Player', 'Samuels+Dynamo', '500,000+', 'http://bit.ly/2AoTNY5', 'samuelsdynamo@gmail.com']}
+{'com.andromo.dev784331.app912722': ['YNW Melly Best Song Mp3 Offline 2019', 'Adeles+Studios', '1,000+', 'https://adelesstudios.blogspot.com/2019/01/ynw-melly-best-song-mp3-offline-2019.html', 'diams0218@gmail.com']}
+{'com.miwi.heavy.metal.guitar': ['Heavy Guitar : Virtual Heavy Guitar Pro', '6936456172963391485', '100,000+', 'https://kiiwiii.webnode.com', 'hh.codes@gmail.com']}
+{'com.softbolt.redkaraoke': ['Red Karaoke Sing & Record', '4771853382896208153', '10,000,000+', 'https://www.redkaraoke.com', 'android@redkaraoke.com']}
+{'com.niceringtonesapps.loudrts': ['Loud Ringtones', 'Nice+Ringtones', '1,000,000+', 'https://sites.google.com/site/niceringtones/ppd', 'binxijia@gmail.com']}
+{'com.volumebooster.bassbooster.musicplayer.equalizermusic': ['Volume Booster and Bass booster with Music Player', 'Kvm+Volume', '10,000+', 'https://sites.google.com/view/vl-bt/', 'kvmvolumebooster@gmail.com']}
+{'com.aicore.spectrolizer': ['Spectrolizer - Music Player & Visualizer', '5656745006364476535', '100,000+', 'http://spectrolizer.aicore-software.com/', 'spectrolizer@aicore-software.com']}
+{'com.saphira.binhtd.instrumentalrap': ['Instrumental rap beats', 'realm93', '100,000+', 'https://sites.google.com/view/instrumental-rap-beats/home', 'tdbinh93@gmail.com']}
+{'com.themasterapp.musicadelos70gratis': ['70s Music Free', 'The+Master+Appr', '10,000+', 'https://www.facebook.com/notes/luis-appsbusines/politica-de-privacidad/102260096957555', 'themasterappr@gmail.com']}
+{'com.musicnotes.xamarin.android.smv': ['Musicnotes Sheet Music Player', 'Musicnotes', '100,000+', 'http://www.musicnotes.com', 'support@musicnotes.com']}
+{'net.andromo.dev58853.app253634': ['Best Christian Ringtones -Worship, Gospel Songs', '7366972575063845266', '500,000+', 'http://bestringtoneapps.net/privacy-policy/', 'jordan.r.n.82@gmail.com']}
+{'com.encarnapps.descargarmusicamp3gratisyrapidotutorial': ['Descargar Musica MP3 Gratis y Rapido GUIA', 'ENCARNAPPS', '100,000+', 'http://myappterms.com/reader.php?lang=en', 'encarnappsmusicamp3@gmail.com']}
+{'com.dangaymen.mantapmarco': ['Marco Antonio solis 30 Grandes Exitos Enganchados', 'Sentra+Balok', '100,000+', 'https://sites.google.com/view/balox/beranda', 'yunusmaulana221@gmail.com']}
+{'com.smartmobitools.voicerecorder': ['Audio Recorder', '9057099465402833906', '100,000+', 'http://smartmobitools.com', 'jakub.first@gmail.com']}
+{'com.vizSoft.bassBooster': ['Subwoofer Bass Booster', 'VIZ+Soft+AD', '1,000,000+', None, 'viz.soft.ad@gmail.com']}
+{'org.cassiopeia.ringtones': ['New Ringtones Free 2019', 'CotoMedia', '10,000+', 'https://sites.google.com/site/CotoMedialtd/', 'Meolamhn@gmail.com']}
+{'cn.voilet.musicplaypro': ['Equalizer Music Player - Free Music for YouTube', 'GentleMan+Dev+Studio', '10,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Topdev_Studio/MusicPrivacy.txt', 'topdev.studio@gmail.com']}
+{'com.pbideasvirtuales.musicasoulrnburbanradio': ['Soul R&B Urban Radio Stations', 'PB+Ideas+Virtuales', '100,000+', 'http://tunegocioonline.com/privacy-policy-mobile-apps/', 'pb.ideasvirtuales@gmail.com']}
+{'com.countrymusicradio.countrymusic': ['Country Music Free', 'Creative+Sol+Apps', '50,000+', 'http://www.appsalcides.com/admin_panel_Politica/privacy_policy.php', 'creativesolapps@gmail.com']}
+{'com.aimp.player': ['AIMP', 'Artem+Izmaylov', '10,000,000+', 'http://aimp.ru', 'support@aimp.ru']}
+{'com.tpvapps.simpledrumsbasic': ['Simple Drums Basic - The Realistic Drum Simulator', '6439584985733600562', '5,000,000+', 'http://www.tpvapps.com/', 'info@tpvapps.com']}
+{'com.highfantasysoundboard': ['Fantasy Soundboard - Tabletop RPG Sound Effects', 'AC+Arcana', '100,000+', 'http://www.sordeodesade.wix.com/ac-arcana', 'acarcana@gmail.com']}
+{'free.tube.music.player.cloud.downloader': ['Music Cloud - music player pro', 'Music+Hit', '500,000+', 'https://s3.amazonaws.com/free-music-hits/privacy_policy.html', 'kingdomtiangou@outlook.com']}
+{'com.hv.replaio': ['Internet Radio and Radio Online - Replaio Radio', '6684428555030517022', '500,000+', 'https://repla.io', 'support@repla.io']}
+{'com.chebdev.hiphopproducerpads': ['Hip-Hop Producer Pads', 'chebdev', '500,000+', 'https://www.facebook.com/pages/Hip-Hop-Producer-Pads/1557629791152859', 'chebdev@gmail.com']}
+{'com.freeradioDominicanRepublic': ['Dominican Republic Radio FM', '8127580200659645902', '50,000+', 'https://radiolongo.com/privacy-policy-of-radio-fm.html', 'rmizuki203@gmail.com']}
+{'com.freemusic.topringtones': ['Free Music Ringtones', '6511610823141170799', '100,000+', 'https://www.facebook.com/Fantasy-Ringtones-130155107542069/', 'dragomir.peaksel@gmail.com']}
+{'com.chebdev.trapdrumpadsguru': ['Trap Drum Pads Guru', 'chebdev', '1,000,000+', 'http://drumpadsguru.com', 'chebdev@gmail.com']}
+{'br.com.rodrigokolb.realbass': ['Real Bass - Playing bass made easy', '7590815180117612946', '5,000,000+', 'http://www.kolbapps.com', 'kolbapps@gmail.com']}
+{'nl.tekashi123.fr': ['TEKASHI 6IX9INE', 'AGZAPPS', '10,000+', None, 'Ranjax19@gmail.com']}
+{'com.rapbeatdroper': ['Rap Beat Dropper', '4698297710838788035', '50,000+', 'https://docs.google.com/document/d/1X6vV0ZfI9zo-5A6WysrNZYf-mjgKAoazyqYZU-XBDn8/edit?usp=sharing', 'MunggosApps@gmail.com']}
+{'com.normatech.marshmello': ['Marshmello Songs', 'AppNormatech', '10,000+', 'https://sites.google.com/site/normatechprivacypolicy2/', 'app.normatech@gmail.com']}
+{'de.radio.android': ['radio.net - Tune in to more than 30,000 stations', 'radio.net+-+Webradio,+News+%26+Podcasts', '10,000,000+', 'http://www.radio.net/android/', 'support@radio.net']}
+{'com.mylock.nbayoungboy': ['NBA Youngboy Lock Screen 2019', 'FUNNY', '5,000+', 'https://sites.google.com/view/privacypolicydemo/accueil', 'brandnew.soft.games@gmail.com']}
+{'org.android.kunulee.podsmaster': ['Podroid (Using Airpod on android like iphone)', 'Keonwoo+Lee', '10,000+', 'https://blog.naver.com/kunukunu/221405253043', 'kunulee90@gmail.com']}
+{'com.VirtualMusic.mixerDJ': ['Virtual Music mixer DJ', 'Media+soft', '1,000,000+', 'https://docs.google.com/document/d/1mUdAbbu4mzLedIRKasBM-y6ZM1QPlJHaFn0_687DirM/edit', 'IMGOZOOPA@gmail.com']}
+{'mahmed.net.synctuneswirelessfree': ['Sync iTunes to android - Free', 'Heapsoft', '5,000,000+', 'http://www.synctunes.net', 'mahmedlabs@gmail.com']}
+{'com.double_rhyme.hoenickf.doppelreim': ['Rhymes for Rap (Multisyllabic), poetry slam/lyrics', 'Lyricspiration', '1,000,000+', 'https://double-rhyme.com/privacy/templates/privacy.html', 'hoenicke.florian@gmail.com']}
+{'com.niceringtonesapps.birds': ['Birds Sounds & Ringtones', 'Nice+Ringtones', '500,000+', 'https://sites.google.com/site/niceringtones/ppd', 'binxijia@gmail.com']}
+{'com.swordisme.tracks.twentyonesavage': ['21 SAVAGE | Top Hit Songs,... No Internet', 'swordisme_dev', '10,000+', 'https://sites.google.com/view/swordisme/privacy-policy', 'sword.maataoui@gmail.com']}
+{'com.supereffect.voicechanger': ['Voice Changer - Audio Effects', '8031295638675999757', '5,000,000+', 'https://www.facebook.com/notes/super-effect-studio/privacy-policy/484530298669321/', 'supereffect.studio@gmail.com']}
+{'com.imageline.FLM': ['FL Studio Mobile', '8228703397536036345', '100,000+', 'http://www.flstudiomobile.com', 'mobilesupport@image-line.com']}
+{'com.maxmpz.audioplayer.unlock': ['Poweramp Full Version Unlocker', 'Max+MP', '1,000,000+', 'http://powerampapp.com', 'poweramp.maxmpz@gmail.com']}
+{'com.sonosaurus.tonalenergytuner': ['TonalEnergy Tuner and Metronome', 'TonalEnergy,+Inc', '50,000+', 'http://tonalenergy.com', 'support@tonalenergy.com']}
+{'com.extreamsd.aemobile': ['Audio Evolution Mobile Studio', 'eXtream+Software+Development', '100,000+', 'http://www.extreamsd.com', 'info@extreamsd.com']}
+{'com.media.bestrecorder.audiorecorderpro': ['Voice Recorder Pro', '7149891497244951725', '100,000+', 'https://sites.google.com/view/voicerecorderpivacy', 'summer.mobile.apps@gmail.com']}
+{'com.massimobiolcati.irealb': ['iReal Pro - Music Book & Backing Tracks', 'Technimo', '100,000+', 'http://irealpro.com', 'support@irealpro.com']}
+{'com.kodarkooperativet.blackplayerex': ['BlackPlayer EX Music Player', '5284643674100261978', '100,000+', 'https://plus.google.com/u/1/communities/116699651117862058032', 'support@blackplayer.se']}
+{'com.algoriddim.djay': ['djay 2', '5018482428897077144', '100,000+', 'http://www.algoriddim.com', 'support@algoriddim.com']}
+{'com.woodslink.android.wiredheadphoneroutingfix.pro': ['SoundAbout Pro', '8324084506950949780', '50,000+', 'http://soundabout.userboard.net/', 'SoundAbout@RareEarthSoftware.net']}
+{'com.jetappfactory.jetaudioplus': ['jetAudio HD Music Player Plus', 'Team+Jet', '100,000+', 'https://www.facebook.com/jetappfactory', 'jetaudio@jetappfactory.com']}
+{'xsoftstudio.musicplayer.pro': ['PowerAudio Pro Music Player', 'PowerAudio+Team', '1,000,000+', 'http://xsoftstudio.wordpress.com', 'xsoftstudioapps@gmail.com']}
+{'com.hiqrecorder.full': ['Hi-Q MP3 Voice Recorder (Pro)', 'Audiophile', '100,000+', 'http://www.hiqrecorder.com', 'help@hiqrecorder.com']}
+{'com.extreamsd.usbaudioplayerpro': ['USB Audio Player PRO', 'eXtream+Software+Development', '50,000+', 'https://www.extreamsd.com', 'info@extreamsd.com']}
+{'vr.audio.voicerecorderpro': ['voice recorder pro', '5961211893873529920', '100,000+', 'https://sites.google.com/view/privacyvoicerecorder', 'olympic.game.studio@gmail.com']}
+{'com.bubblesoft.android.bubbleupnp.unlocker': ['BubbleUPnP UPnP/DLNA License', 'Bubblesoft', '100,000+', 'http://forum.xda-developers.com/showthread.php?t=1118891', 'bubblesoftproducts@gmail.com']}
+{'com.ronimusic.asd': ['Amazing Slow Downer', 'Roni+Music', '10,000+', 'http://www.ronimusic.com', 'androiddev6@ronimusic.com']}
+{'com.zubersoft.mobilesheetspro': ['MobileSheetsPro Music Reader', 'Zubersoft', '10,000+', 'http://www.zubersoft.com', 'support@zubersoft.com']}
+{'com.smartandroidapps.equalizer.unlock': ['Equalizer Unlock Key', 'Smart+Android+Apps,+LLC', '100,000+', 'http://twitter.com/SmartAndroidApp', 'support@smartandroidapps.com']}
+{'com.acmeandroid.listen': ['Listen Audiobook Player', 'acme-android.com', '50,000+', 'http://acme-android.com/privacy.html', 'support@acme-android.com']}
+{'kr.pe.designerj.airbudspopup': ['AirBuds Popup - airpod battery app', '6847519359581661131', '5,000+', 'https://designerjpekr.blogspot.com/2019/02/privacy-policy_6.html', 'designerj.pe.kr@gmail.com']}
+{'nightradio.sunvox': ['SunVox', 'Alexander+Zolotov', '10,000+', 'http://warmplace.ru/soft/sunvox', 'nightradio@gmail.com']}
+{'com.frozenape.tempo': ['Metronome: Tempo', 'Frozen+Ape', '50,000+', 'http://www.frozenape.com', 'tempoandroid@frozenape.com']}
+{'com.ventismedia.android.mediamonkeypro': ['MediaMonkey Pro', 'Ventis+Media,+Inc.', '50,000+', 'http://www.mediamonkey.com/support', 'support@mediamonkey.com']}
+{'cs.example.studiomusic': ['Studio music - garage band', 'VencaSoft', '10,000+', 'http://vencasoft.eu', 'Venca.job@gmail.com']}
+{'com.tbig.playerpro': ['PlayerPro Music Player', 'BlastOn+SA', '500,000+', 'http://www.aplayerpro.com', 'playerpro.android@gmail.com']}
+{'com.rhmsoft.pulsar.pro': ['Pulsar Music Player Pro', '7810508122505278882', '10,000+', 'http://rhmsoft.com/pulsar', 'support@rhmsoft.com']}
+{'com.neutroncode.mp': ['Neutron Music Player', 'Neutron+Code+Limited', '100,000+', 'http://neutronmp.com', 'neutronmp@gmail.com']}
+{'com.singlecellsoftware.caustickey': ['Caustic Unlock Key', 'Single+Cell+Software', '50,000+', 'http://www.singlecellsoftware.com', 'causticapp@gmail.com']}
+{'com.bitcount.cleartune': ['Cleartune - Chromatic Tuner', 'Bitcount+ltd.', '100,000+', 'http://www.bitcount.com/', 'support@bitcount.com']}
+{'music.bassbooster.equalizer.pay': ['Equalizer & Bass Booster Pro', 'Coocent', '50,000+', 'http://www.coocent.net', 'KX.AppTeam@gmail.com']}
+{'com.devdnua.equalizer': ['Equalizer FX. Pro', 'devdnua', '100,000+', 'http://get-eq.com/', 'bondarev.dev@gmail.com']}
+{'mahmed.net.synctuneswirelesspro': ['Sync iTunes to android - Pro', 'Heapsoft', '100,000+', 'http://www.synctunes.net', 'mahmedlabs@gmail.com']}
+{'com.arobasmusic.guitarpro': ['Guitar Pro', 'Arobas+Music', '100,000+', 'https://www.guitar-pro.com', 'support@arobas-music.com']}
+{'com.a4tune.strobe': ['Strobe Tuner Pro', 'A4tune+Labs', '1,000+', 'http://www.a4tune.com/', 'a4tunelabs@gmail.com']}
+{'com.desaxedstudios.bassboosterpro': ['Bass Booster Pro', '4708751211546649787', '50,000+', 'http://www.desaxed.com/', 'team@desaxed.com']}
+{'com.naman14.timberx': ['TimberX Music Player', 'Naman+Dwivedi', '1,000+', 'https://naman-dwivedi.in/Timber/privacy_policy.html', 'namandwivedi14@gmail.com']}
+{'radiotime.player': ['TuneIn Radio Pro - Live Radio', '5756372639482561977', '1,000,000+', 'http://tunein.com/support/android/', 'android-support@tunein.com']}
+{'equalizer.bassbooster.musicplayer.theme.pro': ['Equalizer FX Pro', 'HowarJran', '500+', 'http://wetcac.blogspot.com/2018/05/privacy-policy.html', 'howarJran@gmail.com']}
+{'com.upallnitesoftware.walkoutsongdj': ['Walkout Song DJ', 'Joseph+Vidunas', '1,000+', 'http://www.walkoutsongdj.com', 'walkoutsongdj@gmail.com']}
+{'com.tohsoft.music.musicplayer.v2.pro': ['Music Player Pro', 'Best+App+-+Top+Droid+Team', '100,000+', 'https://sites.google.com/view/musicplayerapppolicy', 'talentdroidteam@tohsoft.com']}
+{'com.tohsoft.music.mp3.mp3playerpro': ['Music Player Pro', 'Music+Apps+-+Allmusic', '500,000+', 'https://sites.google.com/view/musicplayerapppolicy', 'app.music@tohsoft.com']}
+{'com.DanielBach.liveBPM': ['liveBPM - Beat Detector', 'Daniel+Bach', '10,000+', 'https://www.facebook.com/liveBPM-375964512436631/', 'dev.daniel.bach@googlemail.com']}
+{'com.jaytronix.multitracker': ['J4T Multitrack Recorder', 'Jaytronix', '50,000+', 'http://www.jaytronix.com', 'jaytronix@gmail.com']}
+{'com.wiseschematics.eqfy': ['Eqfy', '6976192343062494733', '10,000+', 'http://shuntcorp.net/wiseschematics', 'wiseschematics@gmail.com']}
+{'com.doubleTwist.androidPlayerProKey': ['AirSync: iTunes Sync & AirPlay for Android', '5131935316667995009', '500,000+', 'http://www.doubletwist.com', 'play-support@doubletwist.com']}
+{'de.zorillasoft.musicfolderplayer.donate': ['Music Folder Player Full', 'ZorillaSoft', '50,000+', 'http://zorillasoft.de', 'help.zorillasoft@gmail.com']}
+{'com.soglacho.tl.player.edgemusic': ['Music player S9 EDGE Note 9 (PRO)', '5453033126642634422', '100+', 'https://soglacho.blogspot.com/2019/01/soglacho-policy.html', 'trongluan.bkhn7@gmail.com']}
+{'com.psperl.projectM': ['projectM Music Visualizer Pro', 'Sperl+Heavy+Industries', '50,000+', 'http://projectM.sf.net', 'psperl@gmail.com']}
+{'com.linkesoft.songbook': ['SongBook', 'LinkeSOFT+GmbH', '10,000+', 'https://www.linkesoft.com/songbook', 'info@linkesoft.biz']}
+{'com.exaltd.drumtunepro1': ['Drumtune PRO | Drum Tuner  > Drum tuning made easy', 'Exaltd+Co.,+Ltd.+%7C+Drum+tuner+%26+tuning+calculator', '10,000+', 'http://www.drumtunepro.com', 'support@drumtunepro.com']}
+{'com.julian.apps.AudioTool': ['AudioTool', 'jjbunn', '10,000+', 'https://sites.google.com/site/bofinit/', 'jjbunn@gmail.com']}
+{'com.dmholdings.AudysseyMultEq': ['Audyssey MultEQ Editor app', 'D%2BM+Group', '5,000+', 'http://www.dmglobal.com', 'dmhapp-master.DMJ@dmh-global.com']}
+{'com.ntrack.studio.eight.pro': ['n-Track Studio 9 Pro Music DAW', 'n-Track+Software', '1,000+', 'http://ntrack.com', 'android@ntrack.com']}
+{'uk.incrediblesoftware.main': ['MPC MACHINE - Sampling Drum Machine Beat Maker', 'Incredible+Software+UK', '1,000+', 'https://www.dropbox.com/s/nxkbcftzv6ipgl0/MPC_MACHINE_privacypolicy.htm?dl=0', 'incrediblesoftwareuk@gmail.com']}
+{'com.jrtstudio.AnotherMusicPlayer.Unlocker': ['Rocket Player Premium Audio', '8177774334723216869', '100,000+', 'http://www.jrtstudio.com/Music-Player-For-Android', 'Music.Player@jrtstudio.com']}
+{'com.doubleTwist.cloudPlayerPro': ['CloudPlayer™ Platinum cloud music player', '5131935316667995009', '5,000+', 'http://www.doubletwist.com', 'android-support@doubletwist.com']}
+{'mdmt.sabp': ['Simple Audiobook Player', 'mdmt', '1,000+', None, 'mdmt.bh4e@gmail.com']}
+{'eu.hify.pro': ['HiFy - AirPlay + DLNA for Spotify (no root)', 'HiFy', '5,000+', 'http://www.hify.eu', 'support@hify.eu']}
+{'power.amp.musicplayer.pi.audioplayer': ['PowerAudio Plus Music Player', 'PowerAudio+Team', '100,000+', 'http://xsoftstudio.wordpress.com', 'xsoftstudioapps@gmail.com']}
+{'de.humatic.tdaw': ['TouchDAW', 'humatic', '10,000+', 'https://www.humatic.de/htools/touchdaw', 'humatic67@gmail.com']}
+{'com.sweethomealabamaringtone': ['Sweet Home Alabama Ringtone', 'Hit+Songs+Ringtones', '1,000+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.mercurymobilesolutions.harrypotterringtone': ['Harry Potter Ringtone', 'Ringtone+App', '1,000+', 'http://www.mercurymobilesolutions.com', 'support@mercurymobilesolutions.com']}
+{'jp.co.korg.kaossilator.android': ['KORG Kaossilator for Android', 'KORG+INC.', '10,000+', 'http://www.korg.com/products/software/korg_kaossilator_for_android/', 'techsupport@korg.co.jp']}
+{'tm.alashow.datmusic': ['datmusic', 'Alashov+Berkeli', '1,000+', 'https://datmusic.xyz', 'me@alashov.com']}
+{'com.binghuo.audioeditor.mp3editor.musiceditor.pro': ['Music Editor Pro', 'Audio+Editor', '100+', 'https://sites.google.com/view/binghuostudio-musiceditor', 'binghuostudio@gmail.com']}
+{'com.eipstudiosohio.dnb': ['Caustic 3 DrumNBass', 'EIPStudiosOhio', '5,000+', 'http://www.eipso.com', 'eipstudiosohio@gmail.com']}
+{'com.forwardsounds.softpads': ['SoftPads - Background Worship Pads App', 'Forward+Sounds,+LLC', '500+', 'http://forwardsounds.com', 'forwardsoundsmedia@gmail.com']}
+{'com.zurdoappsfmtransmittermusicpro': ['FM Transmitter Music Pro', 'AleApps', '500+', 'http://latarifa.blogspot.mx/2017/09/politica-de-privacidad.html', 'avteam08@gmail.com']}
+{'com.peterdeelstra.guitar.tuner': ['GuiTune - Guitar Tuner!', 'Peter+Deelstra', '5,000+', 'http://sites.google.com/site/peterdeelstraapps/', 'peterdeelstraapps+googleplay@gmail.com']}
+{'com.by845tools.guitartapp': ['GuitarTapp PRO - Tabs & Chords', '8:45+Tools', '50,000+', 'http://www.845tools.com', 'support@845tools.com']}
+{'com.ikmultimediaus.android.amplitubefullse': ['AmpliTube / Samsung Pro Audio', 'IK+Multimedia+US,+LLC', '1,000+', 'http://www.ikmultimedia.com/amplitubeandroid/', 'android.support@ikmultimedia.com']}
+{'com.skrivarna.fakebook.android': ['Fakebook Pro: Real Book and PDF Sheet Music Reader', '4765745939296717828', '10,000+', 'http://www.skrivarna.com', 'fakebook@skrivarna.com']}
+{'github.popeen.dsub': ['Booksonic - Audiobook Streamer', 'Popeen', '1,000+', 'http://booksonic.org', 'support@ptjwebben.se']}
+{'com.browneyedgirlringtone': ['Brown Eyed Girl INTRO Ringtone', 'Hit+Songs+Ringtones', '1,000+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.andymstone.metronomepro': ['Metronome Beats Pro', '4635242855942916199', '10,000+', 'http://www.stonekick.com/', 'support@stonekick.com']}
+{'com.glaucopercopo.app.recordingstudiopro': ['Recording Studio Pro', 'Glauco', '10,000+', 'http://glaucopercopo.it', 'glaucopercopo@gmail.com']}
+{'com.fxsound.android.dfxplayer.full': ['DFX Music Player Enhancer Pro', 'FXsound.com', '10,000+', 'http://www.fxsound.com', 'support@dfxsupport.zendesk.com']}
+{'media.adfree.music.mp3player': ['Music Plus - MP3 Player', 'iJoysoft', '1,000+', 'https://s3.amazonaws.com/ijoysoftprivacy/MusicPlayerPrivacy.txt', 'smartchen2015@gmail.com']}
+{'jrtstudio.music.ad.blocker': ['Music Player for Android Pro', '8177774334723216869', '5,000+', 'http://www.jrtstudio.com', 'Music.Player@jrtstudio.com']}
+{'com.th.ringtone.maker.pro': ['MP3 Cutter Ringtone Maker Pro', '5961211893873529920', '50,000+', 'https://sites.google.com/view/ogsprivacy', 'olympic.game.studio@gmail.com']}
+{'com.RuffinApps.johnnie.oldtimeradio': ["Johnnie's Old Time Radio", 'Ruffin+Apps', '100+', 'http://www.ruffinapps.com/JOTRForum', 'Support@RuffinApps.com']}
+{'com.rabugentom.chord': ['Chord! (Guitar Chord Finder)', 'RabugenTom', '50,000+', 'http://getchord.com', 'Support.Android@getchord.com']}
+{'com.android.DroidLivePlayer': ['XiiaLive™ Pro - Internet Radio', 'Visual+Blasters+LLC', '50,000+', 'http://www.xiialive.com', 'xiialive@visualblasters.com']}
+{'com.thiiird.drgn': ['Dragon - Synth Drum Machine', 'thIIIrd', '500+', 'http://thiiird.com', 'me@thiiird.com']}
+{'com.tuneinstrument.stringguitartunersimple': ['12-String Guitar Tuner Simple', '6301204411519390560', '1,000+', 'http://www.tuneinstrument.com/products/tuners/12-string-guitar-tuner-simple.html', 'info@tuneinstrument.com']}
+{'com.jamstring.blueslickspro': ['144 Blues Guitar Licks: Pro', '8577426266096753031', '5,000+', 'http://www.jamstring.com', 'jamstringapps@gmail.com']}
+{'dje073.android.audiorecorder': ['RecForge Pro - Audio Recorder', 'Dje073', '10,000+', 'https://twitter.com/dje073', 'dje073@gmail.com']}
+{'com.jamstring.acousticbluespro': ['20 Acoustic Blues Solos', '8577426266096753031', '1,000+', 'http://www.jamstring.com', 'jamstringapps@gmail.com']}
+{'nightradio.virtualans': ['Virtual ANS', 'Alexander+Zolotov', '1,000+', 'http://warmplace.ru/soft/ans', 'nightradio@gmail.com']}
+{'com.goodbarber.expresionmusica': ['Expresión Musical', '6616047200689794052', '1,000+', 'http://www.expresionmusical.tv', 'expresionmusicalapp@gmail.com']}
+{'com.planeth.vabeastessentials2': ['VA-Beast Essentials-2', '5200192441928542082', '1,000+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.turndapage.navmusic': ['NavMusic - Wear OS Offline Music Media Nav Music', '5304767307318254576', '5,000+', 'http://turndapage.com/navmusic/', 'joelphilippage@gmail.com']}
+{'com.linusandlucyringtone': ['Linus And Lucy  Ringtone', 'Hit+Songs+Ringtones', '500+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'equalizer.bassbooster.pro.musicplayer': ['Fx Music Player Full', 'Fx+Music+Player', '1,000+', 'http://www.bassbooster.in', 'support@bassbooster.in']}
+{'com.tradlessons.hohner.tablet.fbbeb': ['Hohner-FBbEb Button Accordion', '6637692141130410254', '5,000+', 'http://www.tradlessons.com/HohnerSqueezeBox.html', 'seisiuneer@gmail.com']}
+{'com.themastersringtone': ['The Masters Theme Ringtone', 'Awesome+Ringtones', '500+', 'http://www.mobixip.com', 'mobixip@gmail.com']}
+{'hiphopbeatmaker.ekdu.com': ['HIPHOP BEATMAKER STUDIO', '5154485573269866463', '50+', 'https://unicorniogameapps.site123.me/', 'elkuernodelunikornio@gmail.com']}
+{'com.nchsoftware.pocketwavepad': ["WavePad Master's Edition", 'NCH+Software', '1,000+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'com.bytebolt.midiloops': ['MIDI Voyager Pro', 'bytebolt', '10,000+', None, 'info@bytebolt.com']}
+{'de.bluegaspode.squeezeplayer': ['SqueezePlayer', 'Stefan+Hansel+Solutions+UG+%28haftungsbeschr%C3%A4nkt%29', '10,000+', 'http://www.squeezeplayer.com', 'support@squeezeplayer.com']}
+{'de.pfitzinger.rec': ['Field Recorder', 'Pfitzinger+Voice+Design', '10,000+', 'http://www.PfitzingerVoiceDesign.com', 'H.Pfitzinger@gmail.com']}
+{'com.sdcode.etmusicplayerpro': ['ET Music Player Pro', '5751483060686246634', '10,000+', 'http://sdcodeprivatepolicy.blogspot.com/', 'sdcode216@gmail.com']}
+{'com.orangebikelabs.orangesqueeze': ['Orange Squeeze', 'Orange+Bike+Labs', '10,000+', 'http://www.orangebikelabs.com', 'info@orangebikelabs.com']}
+{'com.voicepro': ['Voice PRO - HQ Audio Editor', 'Lakeba+Corporation+Apps', '10,000+', 'http://www.voicepro.it', 'support@voicepro.it']}
+{'com.pcmehanik.splspectrumanalyzerpro': ['Sound Spectrum Analyzer PRO', 'PC+Mehanik', '100+', 'http://www.pcmehanik.com', 'maroltma@gmail.com']}
+{'com.jamstring.newbluesjampro': ['Blues Guitar Jam Tracks', '8577426266096753031', '1,000+', 'http://www.jamstring.com', 'jamstringapps@gmail.com']}
+{'net.liine.lemurapp': ['Lemur', 'Liine', '1,000+', 'http://liine.net', 'info@liine.net']}
+{'com.mikrosonic.SPC': ['SPC - Music Drum Pad', '7514440941315214742', '10,000+', 'http://www.mikrosonic.com', 'support@mikrosonic.com']}
+{'com.salsarhythm': ['Salsa Rhythm', 'Uri+Shaked', '10,000+', 'http://www.SalsaRhythmSoftware.com/', 'support@SalsaRhythmSoftware.com']}
+{'com.georgie.SoundWire': ['SoundWire', 'GeorgieLabs', '10,000+', 'http://georgielabs.net', 'soundwire@georgielabs.net']}
+{'com.qodeSter.global.dsp.unlocker': ['Equalizer Ultra Pro Unlocker', 'QodeSter+Media+UK', '10,000+', 'http://qodester.azurewebsites.net/privacy.html', 'qodesteruk@googlemail.com']}
+{'com.sanfordandsonmarimbaringtone': ['Sanford And Son Marimba Tone', 'Authentic+Ringtones', '100+', 'http://www.levelxhoops.com', 'authenticringtones@gmail.com']}
+{'box.media.audiator.mp3.volume.boost.music.pro': ['MP3 VOLUME BOOST GAIN LOUD PRO', '5400129242071285549', '1,000+', 'http://www.alpha-lab.com.tn', 'contact@alpha-lab.com.tn']}
+{'best.poweramp.vis': ['BEST POWERAMP VISUALIZATION', 'PowerMilk', '100+', None, 'lakifear@gmail.com']}
+{'com.normalware.bebot': ['Bebot - Robot Synth', 'Normalware', '1,000+', 'http://normalware.com/', 'support@normalware.com']}
+{'media.plus.music.musicplayer': ['Music Player +', 'Mobile_V5', '10,000+', 'https://s3-us-west-2.amazonaws.com/mobilev5dev/MusicPlayerPrivacy.txt', 'mobilev5.dev@gmail.com']}
+{'netroken.android.persistalternate': ['Volume Control +', 'Netroken', '10,000+', 'http://netroken.ca/privacypolicy', 'support@netroken.ca']}
+{'air.Chordwheel': ['Chord Wheel', 'Apt+App', '1,000+', 'http://aptapp.blogspot.com/', 'christian.liang@gmail.com']}
+{'com.planeth.vabeastessentials1': ['VA-Beast Essentials-1', '5200192441928542082', '1,000+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.psslabs.rhythmpaid': ['Rhythm with Tabla & Tanpura PREMIUM', '5360860234776895786', '10,000+', 'http://psslabs.in', 'support@psslabs.in']}
+{'com.imihov.nowplaying_list_pro': ['Now Playing List Pro', '8149164790395711168', '1,000+', 'http://imihov.com', 'mihovim@gmail.com']}
+{'com.tohsoft.ringtone.maker.pro': ['Ringtone Maker Pro', 'music+player+-+video+player', '100,000+', 'https://sites.google.com/view/free-ringtone-maker', 'app.ringtones@tohsoft.com']}
+{'com.SudzDev.GAOR': ['Golden Age of Radio', 'SudzDev+Software', '1,000+', 'http://sites.google.com/site/sudzdevsoftware/', 'SudzDev@gmail.com']}
+{'com.n7mobile.nplayerunlocker': ['n7player Music Player Unlocker', '4717034007793529190', '100,000+', 'http://n7player.com', 'support-n7player@n7mobile.com']}
+{'com.soundapps.equalizer.volumebooster.bassbooster.pro': ['Boosted. Equalizer Pro', 'Boosted.+Sound+-+apps+for+music+lovers', '1,000+', 'https://github.com/qmediapps/privacy/blob/master/Privacy_Policy_paid.md', 'picguess.game@gmail.com']}
+{'com.jogi.subwooferspeaker': ['Subwoofer Speaker Wallpaper', 'Jogi', '5,000+', 'https://www.facebook.com/pages/Jogi/491732690870508', 'kamil.stawski8@gmail.com']}
+{'au.eatonplan.katanaman.pro': ['KatanaMan Pro', 'EatonPlan', '10+', 'https://eatonplan.wixsite.com/katanaman', 'info.eatonplan@gmail.com']}
+{'com.moneyringtone': ['Money Ringtone and Alert', 'Hit+Songs+Ringtones', '100+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.planeth.gstflphdnb4': ['G-Stomper FLPH Drum & Bass 4', '6534297510193326067', '500+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.arlomedia.setlistmaker': ['Set List Maker', 'Arlo+Leach', '1,000+', 'http://www.arlomedia.com/apps/setlistmaker/', 'arlo@arlomedia.com']}
+{'com.nimblesoft.equalizerplayer': ['Equalizer Music Player Pro', 'GentleMan+Dev+Studio', '5,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Nimblesoft/privacy.txt', 'tanlinghuo@gmail.com']}
+{'com.bigbeardaudio.stringsandkeys': ['Caustic Pack Strings & Keys V1', 'BIG+BEARD+Studios', '1,000+', 'http://bigbeardaudio.com/', 'bigbeard@bigbeardaudio.com']}
+{'uk.co.rt60.idrumtune': ['Drum Tuner - iDrumTune Pro', 'RT+Sixty+Ltd', '500+', 'http://www.idrumtune.com', 'info@idrumtune.com']}
+{'com.bandmate.pro': ['Bandmate Chromatic Tuner Pro', 'Bandmate', '1,000+', 'http://bandmatetuner.com/', 'bandmatetuner@gmail.com']}
+{'com.radioco.m8ea570adf': ['Bikers Inner Circle Radio', 'BIC+Productions', '100+', 'http://www.bicradio.com/', 'info@bicproductions.com']}
+{'com.deltaphi.drumate': ['Drumate - Drum Rudiments', 'Daniel+Daza', '1,000+', 'https://dfdazac.github.io/drumate_privacy.html', 'deltaphidevelopers@gmail.com']}
+{'com.planeth.vabeast': ['G-Stomper VA-Beast Synthesizer', '5200192441928542082', '1,000+', 'https://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.mikrosonic.RD3X': ['RD4 Groovebox', '7514440941315214742', '10,000+', 'http://www.mikrosonic.com', 'support@mikrosonic.com']}
+{'app.metske.oputility': ['OP-Utility', 'Metske+apps', '100+', 'http://metske.app', 'support@metske.app']}
+{'com.annanovas.imperialmarchringtone': ['Imperial March Ringtone and Alert', 'Ringtone+Masters', '100+', 'http://ringtone.ninja/', 'fables.galore@gmail.com']}
+{'com.harrypotterorchestra': ['Harry Potter OrchestraRingtone', 'Authentic+Ringtones', '100+', 'http://www.levelxhoops.com', 'authenticringtones@gmail.com']}
+{'com.mercurymobilesolutions.topgunringtone': ['Top Gun Ringtone', 'Ringtone+App', '1,000+', 'http://www.mercurymobilesolutions.com', 'support@mercurymobilesolutions.com']}
+{'com.VoiceSysMobileApps.RoadWriter': ['RoadWriter for Songwriting', 'Voicesys+Mobile+Apps', '5,000+', 'http://www.facebook.com/roadwrite', 'voicesysmobileapps@gmail.com']}
+{'com.podkicker': ['Podkicker Pro', 'qvga', '50,000+', 'http://www.podkicker.com', 'podkicker@gmail.com']}
+{'music.volume.equalizer.bassbooster.virtualizer.pay': ['EQ & Bass Booster Pro - metal', 'METAL+-+CAM', '1,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/KX_AppTeam/privacy.txt', 'KX.AppTeam@gmail.com']}
+{'com.dailyaudiobible.subsplashconsulting.DailyAudioBible': ['Daily Audio Bible App', 'Daily+Audio+Bible', '10,000+', 'http://www.dailyaudiobible.com', 'dabteam@dailyaudiobible.com']}
+{'com.incaseyoudidntknow': ["In Case You Didn't Know Tone", 'Hit+Songs+Ringtones', '500+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'jp.nokubi.nobapp.soundanalyzer': ['Sound Analyzer', '6336413416180921582', '500+', 'http://nobapp.com/privacy_policy.html', 'info@nobapp.com']}
+{'com.dontworrybehappyringtone': ["Don't Worry Be Happy Ringtone", 'Hit+Songs+Ringtones', '1,000+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.mercurymobilesolutions.doctorwhoringtone': ['Doctor Who Ringtone', 'Ringtone+App', '1,000+', 'http://www.mercurymobilesolutions.com', 'support@mercurymobilesolutions.com']}
+{'com.vblast.dir.rr': ['XiiaLive - Radio Reference', 'Visual+Blasters+LLC', '5,000+', 'http://www.xiialive.com', 'xiialive@visualblasters.com']}
+{'com.mikrosonic.DroidVox': ['RoboVox Voice Changer Pro', '7514440941315214742', '10,000+', 'http://www.mikrosonic.com', 'support@mikrosonic.com']}
+{'com.subsplashconsulting.s_CJKHMH_1': ['WHOLETONES ACTIV', 'WHOLETONES', '10+', 'http://wholetones.com', 'apps@wholetones.com']}
+{'com.guoshi.alexa.talk.premium': ['Text Talk Premium (Alexa Voice)', 'GuoShi', '100+', 'http://45.32.90.57:50656/privacy/alexa_talk.html', '1256980529@qq.com']}
+{'com.bestoq.compressmp3folder': ['Compress MP3 Pro', 'Bestoq', '500+', 'http://www.bestoq.com', 'contact@bestoq.com']}
+{'com.appbadger.stylusphone': ['Stylusphone 3D', 'AppBadger', '10+', 'http://appbadger.com', 'appbadger@gmail.com']}
+{'net.frankensound.songorecorder': ['Songo Recorder', 'Frankensound', '50+', 'http://www.frankensound.com.au', 'mail@frankensound.com.au']}
+{'com.softmedya.ytubepro': ['Y-Tube Player PRO', 'Softmedya+Dev.', '100+', 'http://www.softmedya.com.tr', 'info@softmedya.com.tr']}
+{'appinventor.ai_quantumhallofshame.ElectrumSC2': ['Electrum Quantum Audio Sound-card Upgrade', '9196920106552809161', '100+', 'https://www.facebook.com/Electrum-Quantum-Audio-Engine-559068567577424/', 'billycoskun@outlook.com']}
+{'com.blackcatsystems.SpectrumPad': ['Audio Spectrum Analyzer', 'Black+Cat+Systems', '50+', 'http://www.blackcatsystems.com', 'csmolinski@blackcatsystems.com']}
+{'com.ehzstudios.spotifys7edgepanel': ['Edge Panel for Spotify Music', 'Edge+Master', '1,000+', None, 'edgemaster500@gmail.com']}
+{'com.v_aria.v_aria': ['V-Aria VR Music Visualizer', 'V-Aria', '100+', 'http://v-aria.com', 'nerve_impulse@yahoo.com']}
+{'com.replikon.noteprompter.altosaxprompter': ['Alto Sax Prompter', 'Jason+Musser', '10+', 'http://replikon.com/noteprompter/alto-sax/', 'replikon+support-alto-sax-prompter@gmail.com']}
+{'com.strangerthings': ['Stranger Things Theme Ringtone', 'Authentic+Ringtones', '1,000+', 'http://www.levelxhoops.com', 'authenticringtones@gmail.com']}
+{'com.tuneinstrument.banjotunersimple': ['Banjo Tuner Simple', '6301204411519390560', '100+', 'http://www.tuneinstrument.com', 'info@tuneinstrument.com']}
+{'air.com.musycom.PlayDrumSet': ['Learn to play Drums PRO', '6129154530509899420', '500+', 'http://www.musycom.com', 'contacto@musycom.com']}
+{'com.eipstudiosohio.pocketkitpro': ['G-Stomper PocketKit Pro', 'EIPStudiosOhio', '100+', 'http://www.eipso.com', 'eipstudiosohio@gmail.com']}
+{'com.chandelierringtone': ['Chandelier Ringtone', 'Hit+Songs+Ringtones', '100+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'sa.broadcastmyselfpro': ['BroadcastMySelf/Pro', 'NovaStreamApps', '5,000+', 'https://novastreamapps.blogspot.fr/', 'novastreamapps@gmail.com']}
+{'com.mercurymobilesolutions.knightriderringtone': ['Knight Rider Ringtone', 'Ringtone+App', '1,000+', 'http://www.mercurymobilesolutions.com', 'support@mercurymobilesolutions.com']}
+{'com.zuidsoft.loopstationpremium': ['LoopStation Premium', 'Zuidsoft', '1,000+', 'https://www.facebook.com/loopstationapp/', 'renezuidhof@gmail.com']}
+{'com.jamstrings.learntappingforguitar': ['Learn Tapping for Guitar', '8577426266096753031', '1,000+', None, 'jamstringapps@gmail.com']}
+{'com.djit.equalizerplusforandroidpro': ['Equalizer + Pro (Music Player)', '6775629480928024144', '50,000+', 'http://equalizerpl.us/', 'support@equalizerpl.us']}
+{'runner.ufofull': ['Runner in the UFO - Music Visualizer Premium', '6629526768126031132', '500+', 'http://www.mobile-visuals.com', 'eyvind@mobile-visuals.com']}
+{'com.gramercy.orpheus': ['Orpheus Sheet Music PRO', 'Enigma+Digital', '5,000+', 'http://www.orpheus-app.com', 'hello@orpheus-app.com']}
+{'io.audiosmaxs.bassboosteryt.pay': ['Bass Booster for Tube Pro', 'Cakrawala+Apps', '100+', 'https://sites.google.com/site/audiosmax/home', 'cakrawalaapps@gmail.com']}
+{'com.planeth.gstompernordmodular': ['G-Stomper Nord-Modular Pack', '5200192441928542082', '1,000+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.nll.asr.license': ['ASR License', '8530342249973296088', '10,000+', 'http://nllapps.com/apps/asr/', 'asr@nllapps.com']}
+{'vbaudio.vbanreceptor': ['VBAN Receptor', '5289662796852823610', '500+', 'http://www.vb-audio.com', 'vincent.burel@vb-audio.com']}
+{'uk.co.dolphin_com.camrascore': ['PlayScore Pro - Full notation sheet music scanner', 'Organum', '1,000+', 'http://www.playscore.co', 'support@playscore.co']}
+{'com.shaunchurch.songwriter.app': ["Songwriter's Notebook", 'Sweetview+Studio', '1,000+', 'http://songwritersnotebook.co', 'shaun@shaunchurch.com']}
+{'com.punktumsoft.android.guitarnotetrainer': ['Guitar Note Trainer', 'Punktum+Soft', '1,000+', 'http://www.punktumsoft.com', 'punktum.soft@gmail.com']}
+{'com.eipstudiosohio.ambientpro': ['Caustic 3 Builderz Ambient Pro', 'EIPStudiosOhio', '1,000+', 'http://www.eipso.com', 'eipstudiosohio@gmail.com']}
+{'com.morphyre.android': ['Morphyre Music Visualizer', 'Morphyre', '1,000+', 'http://www.morphyre.com', 'contact@morphyre.com']}
+{'com.oncue.android.vocalease': ['Vocal Ease', 'Arnold+McCuller', '10,000+', 'http://vocalease.mobi', 'vocaleaseapp@gmail.com']}
+{'com.southparknew': ['South Park Ringtone and Alert', 'The+Ringtone+Team', '100+', 'http://www.levelxhoops.com', 'gsxemusic@gmail.com']}
+{'com.tuneinstrument.dulcimertunersimple': ['Dulcimer Tuner Simple', '6301204411519390560', '100+', 'http://www.tuneinstrument.com', 'info@tuneinstrument.com']}
+{'com.eipstudiosohio.c3edmfx': ['Caustic 3 EDM & DubStep FX', 'EIPStudiosOhio', '1,000+', 'http://www.eipso.com', 'eipstudiosohio@gmail.com']}
+{'com.redrabbit.android.guitar.guitarfretboardtrainer': ['RR Guitar Fretboard Trainer', 'Red+Rabbit+Software,+Inc.', '5,000+', 'http://redrabbitsw.com', 'pcloadletter@redrabbitsw.com']}
+{'com.annanovas.bobsburgersringtone': ['Bobs Burgers Ringtone and Alert', 'Ringtone+Masters', '50+', 'http://ringtone.ninja/', 'fables.galore@gmail.com']}
+{'beppisapps.qibrdbank02': ['QiBrd Bank 02 - Metal Chaos', 'Live+Electronic+Music+Synthesizer', '500+', 'http://www.beppi.it', 'beppi@beppi.it']}
+{'com.playbackapp': ['Playback Genius', 'Marcie+Jones', '1,000+', 'http://playbackgenius.com/', 'support@playbackgenius.com']}
+{'frinky.music.controller.pro': ['Frinky Music Controller Pro', 'Ankit.Gaur', '1,000+', 'http://frinkyapps.com', 'frinkyapps@gmail.com']}
+{'com.ascendapps.microphone.pro': ['Easy Microphone', 'Liiperng+Liou', '1,000+', 'http://www.ascendapps.com', 'admin@ascendapps.net']}
+{'com.MarksThinkTank.AroundSound_Pro': ['Around Sound Pro', 'MarksThinkTank', '1,000+', 'http://marksthinktank.com/aroundsound', 'MarksThinkTank@gmail.com']}
+{'hyperfine.hftunes.release': ['Remote for iTunes', 'Hyperfine', '100,000+', 'http://hyperfine.com/remoteforitunes', 'support@hyperfine.com']}
+{'com.wesunwin.droidpiperpro.com.wesunwin.droidpiperpro': ['Droid Piper', 'Wes+Unwin', '100+', 'http://www.wesunwin.com', 'wes_unwin@hotmail.com']}
+{'com.annanovas.kingdomheartsringtone': ['Kingdom Hearts Ringtone and Alert', 'Ringtone+Group+2018', '50+', 'http://ringtone.ninja/privacy/', 'thefunnycart@gmail.com']}
+{'fm.mystage.note_recognition': ['Note Recognition - Convert Music into Sheet Music', '8254440210764684774', '100,000+', 'https://note-recognition.com', 'mystage-google@mystage.fm']}
+{'com.musixxi.editor': ['Musixxi Editor', 'Lakeba', '100+', 'http://www.musixxi.com', 'support@musixxi.com']}
+{'com.kimpossibletheme': ['Kim Possible Ringtone & Alert', 'Awesome+Ringtones', '1,000+', 'http://www.mobixip.com', 'mobixip@gmail.com']}
+{'com.djit.apps.eq.pro': ['EQ PRO Music Player Equalizer', '6775629480928024144', '1,000+', 'http://www.edjing.com', 'support.eq@djitapps.com']}
+{'instrument.tuner.pro': ['Instrument Tuner Pro', 'Gebauer+Matthias', '1,000+', 'http://www.gebauer-matthias.de', 'info@gebauer-matthias.de']}
+{'com.hooktheory.hooktheory_one': ['Hooktheory I', '6843607093288488025', '1,000+', 'http://www.hooktheory.com', 'support@hooktheory.com']}
+{'com.appgeneration.itunerpro': ['myTuner Radio Pro', '6873380610601889920', '10,000+', 'https://mytuner-radio.com', 'help@mytuner.mobi']}
+{'jp.pioneer.mle.android.mixtrax': ['MIXTRAX App', 'PIONEER+CORPORATION', '10,000+', 'http://pioneer.jp/privacy/', 'mixtrax_support@post.pioneer.co.jp']}
+{'com.augustro.musicplayer.audio': ['Augustro Music Player', '6070161350609535667', '50,000+', 'https://augustro-privacy.carrd.co/', 'ronnan1996@gmail.com']}
+{'com.psperl.projectMTV': ['projectM Music Visualizer TV', 'Sperl+Heavy+Industries', '1,000+', 'http://projectM.sf.net', 'peter@sperl.com']}
+{'com.suchideas.android.alamode': ['À La Mode', 'suchideas', '100+', 'http://suchideas.com/', 'suchideas.android@gmail.com']}
+{'com.thegodfathermairmba': ['The Godfather Theme Marimba', 'Authentic+Ringtones', '100+', 'http://www.levelxhoops.com', 'authenticringtones@gmail.com']}
+{'com.annanovas.spidermanintothespiderverseringtone': ['Spiderman Into The Spider Verse Ringtone and Alert', 'Ringtone+Masters', '10+', 'http://ringtone.ninja/', 'fables.galore@gmail.com']}
+{'sterling.steelpantutor.qqqc.nl.steelpantutor': ['Steel Pan Tutor', 'sterling+c+sample', '10+', 'http://www.steelpantutor.com/index.html', 'contact@islandmusicsteeldrum.com']}
+{'com.annanovas.scotlandthebraveringtone': ['Scotland The Brave Ringtone and Alert', 'Ringtone+Group+2018', '100+', 'http://ringtone.ninja/privacy/', 'thefunnycart@gmail.com']}
+{'com.planeth.vablsphnorddanceleads1': ['VA-Beast Nord Dance Leads 1', '7052672207929111629', '50+', 'https://www.lucidsamples.com', 'contact@lucidsamples.com']}
+{'com.annanovas.bottomsupringtone': ['Bottoms Up Ringtone and Alert', 'DJ+2018', '1+', 'http://ringtone.ninja/privacy/', 'ringtone.ninja@gmail.com']}
+{'com.development.achimsellmann.justradio': ['JustRadio', 'Achim+Sellmann', '50+', 'https://sites.google.com/view/justradio/', 'ase@ish.de']}
+{'com.planeth.gstflphfutureguitars1': ['GST-FLPH Future-Guitars-1', '6534297510193326067', '100+', 'http://www.planet-h.com/gstomper/', 'gstomper@planet-h.com']}
+{'com.moksamedia.windchimecalc': ['Wind Chime Calculator', 'MoksaMedia', '100+', 'http://www.moksamedia.com', 'support@moksamedia.com']}
+{'com.bakazastudio.musicplayerpro': ['Best Music Player Pro - Mp3 Player Pro for Android', 'Best+MusicPlayer+App', '1,000+', 'https://sites.google.com/site/musicplayerprivacy/', 'bakazastudio@gmail.com']}
+{'com.annanovas.walkingdeadringtone': ['The Walking Dead Ringtone and Alert', 'DJ+2018', '50+', 'http://ringtone.ninja/privacy/', 'ringtone.ninja@gmail.com']}
+{'com.readspeaker.rspeakttsenginevoices.sophie': ['Sophie American English TTS', 'ReadSpeaker', '100+', 'http://www.rspeak.com', 'info@readspeaker.com']}
+{'com.nightmarebeforexmas': ['The Nightmare Before Christmas', 'The+Ringtone+Team', '100+', 'http://www.levelxhoops.com', 'gsxemusic@gmail.com']}
+{'com.nonlineareducating.R.nativeinstruments214': ['DJing With Traktor Pro', 'AskVideo.com', '500+', 'http://www.macprovideo.com/tutorial/native-instruments214-djing-with-traktor-pro', 'apps@macprovideo.com']}
+{'com.eipstudiosohio.edmfx': ['G-Stomper EDM and DubStep FX', 'EIPStudiosOhio', '100+', 'http://www.eipso.com', 'eipstudiosohio@gmail.com']}
+{'com.planeth.gstflphedmproducer2': ['G-Stomper FLPH EDM-Producer 2', '6534297510193326067', '100+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.eipstudiosohio.PKP3': ['Caustic 3 PocketKit Pro 3', 'EIPStudiosOhio', '1,000+', 'http://www.eipso.com', 'eipstudiosohio@gmail.com']}
+{'com.mercurymobilesolutions.twilightringtone': ['Twilight Ringtone', 'Ringtone+App', '500+', 'http://www.mercurymobilesolutions.com', 'support@mercurymobilesolutions.com']}
+{'com.planeth.gstflphdubstep3': ['G-Stomper GST-FLPH Dubstep-3', 'FunctionLoops.com', '100+', 'http://www.functionloops.com', 'functionloops@gmail.com']}
+{'air.cellonotesflashcards': ['Cello Notes Flash Cards', 'Apt+App', '100+', 'http://aptapp.blogspot.com/', 'christian.liang@gmail.com']}
+{'com.groovemixer.tiw': ['GrooveMixer Pro – Beat Studio', '5064460190768781910', '5,000+', 'https://flexbyte.com', 'support@flexbyte.com']}
+{'com.planeth.gstflphdubstep1': ['G-Stomper GST-FLPH Dubstep-1', '6534297510193326067', '100+', 'http://www.planet-h.com/gstomper/', 'gstomper@planet-h.com']}
+{'com.audiovapor.piano': ['Piano V1 Caustic pack', 'Audiovapor', '1,000+', 'http://www.audiovapor.com', 'recordpromo@gmail.com']}
+{'umito.android.minipiano_pro': ['Mini Piano Pro', '7011233263819374462', '1,000+', 'http://blog.umito.nl', 'android@umito.nl']}
+{'com.alex_charalambous.beatnav': ['BeatNav Metronome - Discover Your Tempo', 'BEATNAV', '50+', 'http://www.beatnav.com', 'beatnav.app@gmail.com']}
+{'shashank066.AlbumArtChanger.Pro': ['Album Art Changer Pro', 'OCD+Apps', '1,000+', 'https://shashank066.github.io/Album-Art-Changer-Pro/', 'droidprosuppo@gmail.com']}
+{'com.IamSteez.TheBeats': ['Platinum Loops Vol.1', 'STEEZ+SOFTWARE+%26+SOUND', '5+', 'https://iamsteez.wordpress.com/', 'steez787@gmail.com']}
+{'com.subsplashconsulting.s_3T8CVX': ['WHOLETONES The Frequency Music Project', 'WHOLETONES', '50+', 'http://wholetones.com', 'joel@wholetones.com']}
+{'com.planeth.gstflphtrapfuturebass2': ['G-Stomper FLPH Trap & Future Bass 2', '6534297510193326067', '50+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.planeth.gstflphjungleterror1': ['G-Stomper Jungle Terror 1', '6534297510193326067', '100+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.planeth.gstflphchillfuturetrap2': ['G-Stomper Chill & Future Trap2', '6534297510193326067', '100+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.elimap.gravadorhdvozpro': ['Gravador de Voz Diário Alta Qualidade PRO Recorder', '5504193288148456702', '100+', 'http://elpsoft.com.br/', 'elimapdesigner@gmail.com']}
+{'com.maxmpz.poweramp.skins.Cyberpunk': ['CYBERNEON Poweramp Skin V2', 'scapemode', '50+', None, 'scapemem1@gmail.com']}
+{'com.teq.guitarjampro': ['Backing Tracks Guitar Jam Pro', '6149513805465092634', '100+', 'http://guitarjamallstyles.com', 'smakarovpro@gmail.com']}
+{'com.studio.ptd.harppro': ['Harp pro', 'PTD+Studio', '100+', 'https://sites.google.com/site/ptdno1studio/privacy-policy', 'ptdno1studio@gmail.com']}
+{'com.beautifuldayringtone': ['Beautiful Day Ringtone & Alert', 'Hit+Songs+Ringtones', '100+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.soundblend.brassax': ['Brass & Sax Caustic Soundpack', 'SOUNDBLEND+STUDIOS', '1,000+', None, 'vasos.stavrou@googlemail.com']}
+{'com.mercurymobilesolutions.rockyringtone': ['Rocky Ringtone', 'Ringtone+App', '1,000+', 'http://www.mercurymobilesolutions.com', 'support@mercurymobilesolutions.com']}
+{'volume.button.recorder.pro': ['Volume Button Recorder PRO', 'FREEBOOKS+Editora', '100+', 'https://freebooks-2qve.netlify.com/', 'vade.mecum.juridico.completo@gmail.com']}
+{'de.ebbert.audioeq': ['AnEq Equalizer', 'ridjam', '5,000+', 'http://ridjam.de/privacy_policy.html', 'contact@ridjam.de']}
+{'com.readspeaker.rspeakttsenginevoices.sayaka': ['Sayaka Japanese TTS', 'ReadSpeaker', '1+', 'https://hoyaspeech.com', 'info@readspeaker.com']}
+{'white.poweramp.vis': ['WHITE POWERAMP VISUALIZATION', 'PowerMilk', '10+', None, 'lakifear@gmail.com']}
+{'com.misclics.elgeneropro': ['ElGenero (PRO)', '7420564094831119947', '1+', 'http://www.misclics.com', 'info@elgeneroapp.ga']}
+{'uk.chordnamer.jazzpianochords': ['Jazz Piano Chords', 'Greg+Chapman', '10+', None, 'chapman600@gmail.com']}
+{'com.cocotonic.virtualharmonica': ['Virtual Harmonica', 'CocoTonic+Studio', '1+', 'http://cocotonicstudio.com/', 'cocotonic.studio@gmail.com']}
+{'jotakupo.dejavubuttonpremium': ['Deja Vu Button Premium', 'Jotakupo+Apps.', '10+', 'https://plus.google.com/u/0/102804469338620480072', 'jotakupoapps@gmail.com']}
+{'com.elliottgarage.newproject': ['EGDR 808 - Drum Machine', 'ElliottGarage', '50+', 'http://www.elliottgarage.com', 'info@elliottgarage.com']}
+{'com.beatjunkies.sddl': ['DJ Babu Presents: Super Duper Duck Looper', 'Beat+Junkies', '100+', 'http://www.beatjunkiesound.com', 'Admin@beatjunkies.com']}
+{'com.annanovas.eyeofthetigerringtonemn': ['Eye Of The Tiger Ringtone and Alert', 'DJ+2018', '10+', 'http://ringtone.ninja/privacy/', 'ringtone.ninja@gmail.com']}
+{'com.qamp.pro': ['Pro Mp3 player - Qamp', 'QAPP', '10,000+', 'http://samedceylan.com/qampapi/policy.html', 'imadige@gmail.com']}
+{'com.annanovas.angryringtone': ['Angry Ring Ringtone and Alert', 'Ringtone+Masters', '10+', 'http://ringtone.ninja/', 'fables.galore@gmail.com']}
+{'com.recorder.music.mp3.musicplayer.pro': ['Music player - pro version', 'Recorder+%26+Music+%28recorder,+weather,+forecast%29', '10,000+', 'https://sites.google.com/view/recordermusic', 'recorder.appteam@gmail.com']}
+{'com.JollyFreeGames.DidgeridooPremium': ['Didgeridoo & drums sounds HD *Premium* [NO ADS]', 'Jolly+Free+Games', '10+', None, 'jollyfreegames@gmail.com']}
+{'com.HaathiSoftware.RealTanpura': ['Real Tanpura', 'Haathi+Software,+LLC', '100+', 'http://www.HaathiSoftware.com', 'support@haathisoftware.com']}
+{'com.ruralrobo.bassboosterpro': ['Bass Booster Pro', 'Ruralrobo', '500+', 'http://www.ruralrobo.com', 'ruralrobo@gmail.com']}
+{'gypsyjazz.jamstring.com': ['65 Gypsy Jazz Guitar Licks', '8577426266096753031', '500+', 'http://www.jamstring.com', 'jamstringapps@gmail.com']}
+{'power.amp.musicplayer.audioplayer': ['OneAmp Music Player', 'PowerAudio+Team', '100,000+', 'http://xsoftstudio.wordpress.com', 'xsoftstudioapps@gmail.com']}
+{'com.readspeaker.rspeakttsenginevoices.alice': ['Alice British English TTS', 'ReadSpeaker', '100+', 'http://www.rspeak.com', 'info@readspeaker.com']}
+{'com.readspeaker.rspeakttsenginevoices.mark': ['Mark American English TTS', 'ReadSpeaker', '100+', 'http://www.rspeak.com', 'info@readspeaker.com']}
+{'com.planeth.vablsphmiscnordsynths1': ['VA-Beast Misc Nord Synths 1', '6534297510193326067', '50+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.visne.baglamatunerpro': ['Baglama Tuner Pro - Professional Accuracy', '7560801088222560552', '100+', 'https://eturgay79.wixsite.com/visne', 'visne.business@gmail.com']}
+{'com.tradlessons.hohnerpianomini': ['Hohner Piano Accordion', '6637692141130410254', '100+', 'http://appcordions.com', 'seisiuneer@gmail.com']}
+{'com.visne.guitartunerpro': ['Guitar Tuner Pro - Professional Accuracy', '7560801088222560552', '1,000+', 'https://eturgay79.wixsite.com/visne', 'visne.business@gmail.com']}
+{'de.grainapps.harmonictuner.full': ['Harmonic Tuner Suite (Full)', '5228076365408277248', '100+', 'http://harmonictuner.grainapps.com/', 'contact@grainapps.com']}
+{'com.azya.garmin.hotkeymusiccontrol.app': ['Hotkey Music Control for Garmin Connect IQ Watches', 'azya', '500+', None, 'azya52@gmail.com']}
+{'com.marytylermooreshow': ['Mary Tyler Moore Show Ringtone', 'Hit+Songs+Ringtones', '10+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.gourmetlabs.kaai777': ['KAAI 777 GL folder and track player', 'GourmetLabs', '100+', 'https://gourmetlabs.nethouse.ru/page/1092166', 'gourmetlabs17@gmail.com']}
+{'com.tritoninteractive.remudasc': ['Remuda/SC - USB Guitar Amplifier Control App', 'Triton+Interactive', '50+', None, 'support@tritonsw.com']}
+{'com.queen3software.DinnerBell': ['Dinner Bell', '3+Queen+Software', '100+', 'https://www.3queen.com', 'info@3queen.com']}
+{'com.lovemenow': ['Love Me Now Ringtone and Alert', 'Hit+Songs+Ringtones', '5+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'org.hottwaj.screensynth': ['ScreenSynth', 'Jonathan+Clarke', '50+', 'http://www.screensynth.co.uk', 'screensynth@gmail.com']}
+{'aksu.Ozgur.SolKlarnetParmakPozisyonlari': ['G Clarinet Fingerings', 'Ozgur+Aksu', '100+', None, 'ozgur@2mize.com']}
+{'com.theofficetrap': ['The Office Trap Remix Ringtone', 'The+Ringtone+Team', '10+', 'http://www.levelxhoops.com', 'gsxemusic@gmail.com']}
+{'com.sundaymorningnews': ['Sunday Morning News Ringtone', 'GrandApps', '100+', 'http://levelxhoops.com', 'levelxhoops@gmail.com']}
+{'com.theofficemarimbaringtone': ['The Office Marimba Ringtone', 'Authentic+Ringtones', '10+', 'http://www.levelxhoops.com', 'authenticringtones@gmail.com']}
+{'org.palmsoft.keyboardpro': ['Music Keyboard Pro', '8739575527344906778', '100+', 'http://palmsoft.org', 'admin@palmsoft.org']}
+{'com.appmetric.horizon.pro': ['Impulse Music Player Pro', 'Appmetric', '1,000+', 'http://www.appmetric.in/privacy-policy', 'impulse@appmetric.in']}
+{'com.maxmpz.poweramp.skins.Mentalist': ['MENTALIST Poweramp skin V2', 'scapemode', '500+', 'http://memscape.de', 'scapemem@gmail.com']}
+{'com.tortato.tunerwear.pro': ['Tuner Wear Pro', 'TORTATO', '100+', 'http://www.tortato.com', 'atendimento@tortato.com']}
+{'air.com.musycom.playguitarPRO': ['Learn to play Guitar PRO', '6129154530509899420', '100+', 'http://www.musycom.com', 'contacto@musycom.com']}
+{'com.scandaloliviapopephone': ['Scandal Olivia Pope Phone ring', 'Hit+Songs+Ringtones', '500+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.camelweb.ijingle': ['i-jingle pro', 'CamelWeb+Creations+App+Dev', '1,000+', 'http://www.camelweb.com', 'info@camelweb.com']}
+{'com.momgarthbrooks': ['Mom - Garth Brooks Ringtone', 'Authentic+Ringtones', '50+', 'http://www.levelxhoops.com', 'authenticringtones@gmail.com']}
+{'pl.netigen.electricguitarpro': ['Electric Guitar PRO', '9071744231135171838', '100+', 'http://guitars.netigen.pl/', 'android.netigen@gmail.com']}
+{'com.allsummerlong': ['All Summer Long Ringtone', 'Authentic+Ringtones', '100+', 'http://www.levelxhoops.com', 'authenticringtones@gmail.com']}
+{'com.ikmultimediaus.android.igrandpianofull': ['iGrand Piano', 'IK+Multimedia+US,+LLC', '1,000+', 'http://www.ikmultimedia.com/igrandpianoandroid', 'android.support@ikmultimedia.com']}
+{'com.ikmultimediaus.android.ilectricfull': ['iLectric Piano', 'IK+Multimedia+US,+LLC', '100+', 'http://www.ikmultimedia.com/ilectricpianoandroid', 'android.support@ikmultimedia.com']}
+{'com.everlongringtone': ['Everlong Ringtone and Alert', 'Hit+Songs+Ringtones', '100+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.planeth.gstflphhardstylebundle1': ['G-Stomper Hard-Style BUNDLE 1', '6534297510193326067', '100+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.bornonthebayouringtone': ['Born On The Bayou Ringtone', 'Hit+Songs+Ringtones', '100+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'air.com.musycom.DrumsSightReadingPRO': ['Drums Sheet Reading PRO', '6129154530509899420', '500+', 'http://www.musycom.com', 'contacto@musycom.com']}
+{'com.lonict.android.equalizeradfree': ['Tono Equalizer Ad-Free', '8489126217752744192', '500+', 'https://storage.googleapis.com/lonict_android/tono_equalizer/terms_of_use.html', 'support@lonict.co.uk']}
+{'net.flamencometronome.basic': ['Flamenco Metronome Basic', 'Giovanni+Macciocu', '100+', 'http://flamencometronome.net', 'mcc.giovanni@gmail.com']}
+{'com.extreamsd.futurehousepack': ['Future House for AE Mobile', 'eXtream+Software+Development', '100+', 'http://www.extreamsd.com', 'info@audio-evolution.com']}
+{'com.MSoft.cloudradioPro': ['Cloud Radio Pro ( Record & Lyrics )', '4717292716841426945', '500+', 'http://cloudradio.msoftapps.com', 'admin@msoftapps.com']}
+{'com.seeyouagainringtone': ['See You Again Ringtone & Alert', 'Hit+Songs+Ringtones', '1,000+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.thefinalcountdownringtone': ['The Final Countdown Ringtone', 'Hit+Songs+Ringtones', '500+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.freebirdringtone': ['Free Bird Intro Ringtone', 'Hit+Songs+Ringtones', '100+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.wearefamilyringtone': ['We Are Family Ringtone & Alert', 'Hit+Songs+Ringtones', '500+', 'http://www.levelxhoops.com', 'deebrimusic@gmail.com']}
+{'com.sdtony.skins.sketch': ['Poweramp Sketch Skin', 'sdtony', '1,000+', 'http://tonyyu.byethost8.com', 'tony.mystyle@gmail.com']}
+{'com.bigbeard.blackvox': ['BlackVox™ 2 Reverb Noise Box', 'BIG+BEARD+Studios', '5,000+', 'http://www.bigbeardaudio.tweedr.org/', 'dannybigbeard@gmail.com']}
+{'com.ikmultimediaus.android.groovemaker2full': ['GrooveMaker 2', 'IK+Multimedia+US,+LLC', '500+', 'http://www.ikmultimedia.com/gmandroid', 'android.support@ikmultimedia.com']}
+{'phonicscore.phonicscore_lite_plus': ['PhonicScore Pro', 'phonicscore+GmbH', '500+', 'https://phonicscore.com/', 'office@phonicscore.com']}
+{'com.blackcatsystems.functiongenerator': ['Audio Function Generator', 'Black+Cat+Systems', '100+', 'http://www.blackcatsystems.com', 'csmolinski@blackcatsystems.com']}
+{'com.eipstudiosohio.BuilderzPro2': ['Caustic 3 Builderz Pro 2', 'EIPStudiosOhio', '500+', 'http://www.eipso.com', 'eipstudiosohio@gmail.com']}
+{'com.planeth.gstflphedmessentials1': ['G-Stomper EDM-1 Essentials', '6534297510193326067', '100+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.hungergametheme': ['The Hunger Games Ringtone', 'Awesome+Ringtones', '1,000+', 'http://www.mobixip.com', 'mobixip@gmail.com']}
+{'com.mercurymobilesolutions.jurassicparkringtone': ['Jurassic Park Ringtone', 'Ringtone+App', '100+', 'http://www.mercurymobilesolutions.com', 'simon@mercurymobilesolutions.com']}
+{'cz.markalous.PocketLick.Banjo': ['Pocket Lick: Banjo', 'Listen+%26+Learn', '1,000+', 'http://www.listenandlearnapp.com', 'jirka@markalous.cz']}
+{'fr.webrox.bluesguitarlessons': ['Blues Guitar Method', '7407271375720328978', '1,000+', 'http://www.webrox.fr', 'contact@webrox.fr']}
+{'com.extreamsd.edmvolume2pack': ['EDM Volume 2 for AEMobile', 'eXtream+Software+Development', '500+', 'http://www.audio-evolution.com', 'info@audio-evolution.com']}
+{'com.planeth.gstflphdnb2': ['G-Stomper FLPH Drum & Bass 2', '6534297510193326067', '500+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.planeth.gstflphdubstep4': ['G-Stomper GST-FLPH Dubstep-4', '6534297510193326067', '100+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.planeth.gstflphdeephousedr1': ['GST-FLPH Deep-House-Drums-1', '5200192441928542082', '500+', 'http://www.planet-h.com/', 'gstomper@planet-h.com']}
+{'com.iglugo.capoeirainstrumentsnoads': ['Capoeira Instruments', 'Iglugo', '10+', 'http://iglugo.com', 'info@iglugo.com']}
+{'com.soundblend.silverbox': ['Silver Box Caustic Sound Pack', 'SOUNDBLEND+STUDIOS', '1,000+', None, 'vasos.stavrou@googlemail.com']}
+{'com.houseofhighfives.tun_d_2': ['Tun-d Guitar Tuner', 'House+of+High+Fives,+LLC', '50+', 'http://www.tundapp.com', 'tun-d@houseofhighfives.com']}
+{'fr.webrox.bestguitarlessons2': ['Guitar Lessons Beginners #2', '7407271375720328978', '1,000+', 'http://www.webrox.fr', 'contact@webrox.fr']}
+{'com.glutenfreegames.electronicmusicmaker': ['8-Bit Beat Machine', '6899235863428512122', '100+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'air.LecturaMusicalPracticaPRO': ['READ MUSIC PRO', '6129154530509899420', '500+', 'http://www.musycom.com/ia5_musycom/?idE=3046&idZ=3045', 'contacto@musycom.com']}
+{'com.ngg.killervoicerecorder': ['Killer Voice Recorder Pro', 'Mobobi+LLC', '500+', 'http://facebook.com/mobobistudios', 'nanagharteytech@gmail.com']}
+{'com.extreamsd.housemelodicsbass2pack': ['House Melodics & Bass 2 - AEM', 'eXtream+Software+Development', '500+', 'http://www.audio-evolution.com', 'info@audio-evolution.com']}
+{'com.planeth.complexelectro2': ['GST-FLPH Complex-Electro-2', '6534297510193326067', '100+', 'http://www.planet-h.com/gstomper/', 'gstomper@planet-h.com']}
+{'kr.roundrect.sherlock': ['Chord / Scale Finder', '4940678847477296908', '500+', 'http://www.roundrect.kr/android/sherlock/', 'support@roundrect.kr']}
+{'com.planeth.gstflphdubstep2': ['G-Stomper GST-FLPH Dubstep-2', 'FunctionLoops.com', '100+', 'http://www.functionloops.com', 'functionloops@gmail.com']}
+{'bestboy.soundcontrol': ['Best Boy Sound Control', 'Florian+Sch%C3%A4dlich', '100+', 'http://www.flosch.org', 'florian@schaedlich.de']}
+{'com.ateclabs.wirelessheadphone': ['Wireless Headphone', 'Appasty', '500+', 'http://www.ateclabs.com', 'master@ateclabs.com']}

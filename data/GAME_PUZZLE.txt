@@ -1,0 +1,909 @@
+{'com.metajoy.puzzlegame.dragnmerge': ['Drag n Merge: Block Puzzle', 'Metajoy', '500,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
+{'com.nordcurrent.matchland': ['Matchland Quest', '6790926766572360607', '50,000+', 'http://www.nordcurrent.com', 'info@nordcurrent.com']}
+{'com.love.poly.puzzle.game': ['Love Poly - New puzzle game', 'incolor', '1,000,000+', 'http://incolor.cc/en/privacy.html', 'incolor.feedback@hotmail.com']}
+{'com.resestudio.jewelcastle.jewelslegend': ['Jewel Castle - Mystery Adventure', 'Rese++Studio', '50,000+', 'https://sites.google.com/site/resestudioprivacypolicy/', 'weishenmu36.klm235@gmail.com']}
+{'com.criticalhitsoftware.jigsawpuzzle': ['Jigsaw Puzzle', 'Critical+Hit+Software', '1,000,000+', 'http://www.criticalhitsoftware.com', 'support@criticalhitsoftware.com']}
+{'com.boombitgames.BridgeLowpoly': ['Build a Bridge!', '5496592682158177981', '10,000,000+', 'http://www.boombitgames.com/', 'support@boombit.com']}
+{'dk.tactile.lilysgarden': ["Lily's Garden", '8367752935101364368', '500,000+', 'http://tactilegames.com', 'lilysgarden@tactile.dk']}
+{'com.fortune.sim.game.cash': ['Hello Stars', 'Fastone+Games', '50,000,000+', 'http://www.cashcashplay.com/privacy.html', 'hellostars@boooea.com']}
+{'com.wordinsight.puzzle.avidly': ['Word Insight', '7924010181222684681', '10,000+', 'https://d28w1kh1yrgkq0.cloudfront.net/policy/policy-GP-avidly.html', 'elly.wang@avid.ly']}
+{'com.dropdom.blockpuzzle.hwwgame': ['Dropdom - Jewel Blast', 'hua+weiwei', '1,000,000+', 'https://sites.google.com/site/blockpuzzlejewel/', 'hucuawe@gmail.com']}
+{'com.gamegos.mobile.manorcafe': ['Manor Cafe', '5137364340371948270', '1,000,000+', 'http://www.gamegos.com', 'mobile@gamegos.com']}
+{'com.pixign.smart.puzzles': ['Smart Puzzles Collection', 'WL+Pixign+Games', '1,000,000+', 'http://pixign.com', 'apps@pixign.com']}
+{'games.ouzo.piece_of_mind': ['Lucky Pie - Plate food with tasty slices', '6901802119894113806', '1,000+', 'http://www.ouzo.games', 'info@ouzo.games']}
+{'com.bigfishgames.gummydropgoogle': ['Gummy Drop! – Free Match 3 Puzzle Game', '8355317828905497231', '10,000,000+', 'https://www.bigfishgames.com/daily/gummy-drop/', 'info@bigfishgames.com']}
+{'com.bitmango.go.mahjongsolitaireclassic': ['Mahjong Solitaire: Classic', '6249013288401661340', '5,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'game.mts.rings': ['Rings', 'Malooco+Games', '100+', 'https://www.midnighttea.co/privacy', 'info@malooco.com']}
+{'com.belkatechnologies.clockmaker': ['Clockmaker - Match 3 Mystery Game', '4845317959578407531', '10,000,000+', 'https://belka-games.com/privacy/', 'clockmaker_support@belkatechnologies.com']}
+{'com.zymobile.farm.crush.candy': ['Farm Crush 2019 - Match Puzzle', 'ZYMobile', '100,000+', 'http://www.zymobile.net', 'support@zymobile.net']}
+{'com.lemoongames.puzzle13': ['13!', 'Lemoon+Games', '100,000+', 'http://lemoongames.com', 'gamesoflemoon@gmail.com']}
+{'com.skycap.Kids_Wooden_Jigsaw': ['Kids Puzzles - Wooden Jigsaw', '4912272605488077040', '5,000,000+', 'http://www.skycap.co.in', 'contact@skycap.co.in']}
+{'game.puzzle.woodypuzzle': ['Woody™ Puzzle', 'Free+Block+Puzzle+Games+Inc.', '5,000,000+', 'http://fbpgames.com', 'freeblockpuzzlegamesinc@gmail.com']}
+{'com.narcade.farm_bubbles_bubble_shooter': ['Farm Bubbles Bubble Shooter Pop', '7666709667877958099', '1,000,000+', 'http://narcade.com/games/farmbubbles.html', 'zip@nar.club']}
+{'com.hickoma.waterdig': ['Water Dig', 'Pixel+River', '100+', 'http://pixelriver.space/privacy', 'hickoma@gmail.com']}
+{'com.matchington.mansion': ['Matchington Mansion', 'Firecraft+Studios', '10,000,000+', 'http://www.firecraftstudios.com/', 'contact@firecraftstudios.com']}
+{'com.physics.sim.game.savecats': ['Save Cat', 'Fastone+Games', '500,000+', 'http://www.savecatplay.com/privacy.html', 'savecat@boooea.com']}
+{'jp.hibikiyano.Noodle': ['The Noodle', 'HibikiYano', '100,000+', 'https://sites.google.com/view/yanohibiki/%E3%83%9B%E3%83%BC%E3%83%A0', 'yano.hibiki.0525@gmail.com']}
+{'com.nutsslightstoughs.cousins': ['Wood Block Hexagon', 'Fun+Free+Fun', '1,000,000+', 'https://sites.google.com/site/solitaireprivacy/', 'beego86go@gmail.com']}
+{'com.gpower.pixelart': ['Pixel Art Book - Color by Number Free Games', 'Pinso+Marketing+Limited', '5,000,000+', 'http://gpmedia.ufile.ucloud.com.cn/pixelart/doc/Privacy%20Policy.html', 'picfunapps@gmail.com']}
+{'puzzle.wood.block.cube.music.box': ['Wood Block - Music Box', '%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0+world+studio', '10,000,000+', 'https://sites.google.com/site/woodpuzzlestudio/home', 'lovelornmskz@gmail.com']}
+{'com.skycap.Baby_Superhero': ['Baby Superhero Jigsaw Puzzle', '4912272605488077040', '100,000+', 'http://www.skycap.co.in', 'contact@skycap.co.in']}
+{'com.sadpuppy.lemmings': ['Lemmings: The Official Game', 'Sad+Puppy+Limited', '500,000+', 'http://www.sadpuppy.games', 'google@sadpuppy.co.uk']}
+{'com.inertiasoftware.justjigsaws': ['Just Jigsaws', '8067421150984452247', '50,000+', 'http://www.inertiagamestudios.com', 'support@just-jigsaws.com']}
+{'com.tapanywhere.laseroverload': ['Laser Overload', 'Tap+Anywhere', '1,000,000+', 'https://tapanywhere.com', 'contact@tapanywhere.com']}
+{'com.puzzleonly.rollersplatcolor': ['Roll The Color', 'Puzzle+Only', '10,000+', 'https://lebenwasistdas.wordpress.com/', 'tmtudev@gmail.com']}
+{'ru.brothers.realflipsequinlivescreen': ['Real Flip Sequin - Live Screen', 'Brothers+Apps+And+Games', '50,000+', 'https://docs.google.com/document/d/1e9wDNA2fk9SETfdRVJxZxuIHwNTOUS57BrZrjsaW_jw/edit', 'BrothersAppsAndGames@gmail.com']}
+{'com.block1010.shoot2048.free': ['Shoot n Merge - Block puzzle', 'Metajoy', '1,000,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
+{'com.supergame.drawhere': ['Draw Here: Logic Puzzles', '6859173202566452199', '100,000+', 'https://www.facebook.com/supergamestudio', 'contact.supergamestudio@gmail.com']}
+{'com.mailbeegames.casual.fill': ['Fill the block - one strike puzzle game', 'MailBee+Games', '10+', 'http://www.addictinggames.com/legal/privacy-policy.jsp', 'mailbeegames@gmail.com']}
+{'com.two.bros.games.dot.to.dot': ['Dot to Dot : Connect the Dots', '8515568343609001999', '5,000,000+', 'https://www.dottodot.com/', '2brosgamesseller@gmail.com']}
+{'puzzle.mask.cut.grass.maze': ['Grass Maze', '8334977608698326925', '1,000+', 'https://redemptiongamestudio.blogspot.com/2018/12/redemption-game-studio-privacy-policy.html', 'asd448686@gmail.com']}
+{'com.bdxyx.xygame7': ['Match 3030!', 'Applecheer+Studio', '1,000+', 'https://superiorzzr.tumblr.com/post/178234070322/privacy-policy13', 'applecheerstudio@gmail.com']}
+{'com.mindmill.block.puzzle.games': ['Block Puzzles', 'Mindmill+Puzzle+Games', '100,000+', 'https://sites.google.com/view/mindmillpolicy/home', 'Mindmillpuzzles@gmail.com']}
+{'com.BrokenChainStudiosLLC.Reclamation': ['Reclamation', 'Broken+Chain+Studios+LLC', '10+', 'http://www.brokenchain.tech', 'info@brokenchain.tech']}
+{'com.puzzle.sixty.seconds': ['60 Seconds - Puzzle', 'match+2+games', '1,000+', 'https://skycap.co.in/privacy-policy/', 'munishb85store@gmail.com']}
+{'com.JakubLange.BillyBomber': ['Billy Bomber', 'Jakub+Lange+%28gogolon%29', '100,000+', 'https://www.facebook.com/Billy-Bomber-767091893494348', 'kuba.lange.gd@gmail.com']}
+{'com.launchshipstudios.dots.connect': ['Spots Connect™', '6229071233859325421', '1,000,000+', 'http://launchshipstudios.com', 'help@launchshipstudios.com']}
+{'com.ChetanSurpur.Orbit': ['Orbit - Playing with Gravity', 'HIGHKEY+Games', '5,000,000+', 'http://chetansurpur.com', 'hello@highkeygames.com']}
+{'com.puzzle.freegame.oneline': ['One Line', 'PlayForFun+Studio', '10,000+', 'http://resource.cdn.bbcget.com/PlayForFunStudio/OneLine_statement.html', 'PlayForFunStudio@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame537RosyBirdRescueGame': ['Kavi Escape Game 537 Rosy Bird Rescue Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.lagoonsoft.pf': ['Prize Fiesta', 'Lagoon+Software+Ltd', '500,000+', 'http://www.prize-fiesta.info', 'customer.service@prize-fiesta.com']}
+{'com.cookie.cubes.candy.story.pop.crush.free': ['Candy Story', 'match_three', '50,000+', 'https://sites.google.com/site/matchthreeprivacypolicy/', 'match_three@outlook.com']}
+{'com.inapp.cross.stitch': ['Cross Stitch', 'incolor', '5,000,000+', 'http://www.incolor.cc', 'incolor.feedback@hotmail.com']}
+{'jelly.jam.fruit.match.cookie': ['Jelly Jam Blast - Match 3 Games & Free Puzzle Game', '7924010181222684681', '1,000,000+', 'http://avid.ly/zh-hans/', 'marionettepro@gmail.com']}
+{'com.ynsgames.aos.paradisejewel': ['Paradise Jewel: Match 3 Puzzle', 'YnS+Games', '100,000+', 'https://yns-games.com', 'help@yns-games.com']}
+{'com.supergame.colorblock': ['Color Block', 'Hippo+Tap', '100+', 'http://www.hippotap.com', 'support@hippotap.com']}
+{'com.westplain.domino': ['Domino Toppling', '%E3%83%8B%E3%82%B7%E3%83%8F%E3%83%A9', '100,000+', 'https://twitter.com/nishihara_dev', 'westplain00@gmail.com']}
+{'com.RiseHigh.MakeItWork': ['Make it Work', 'RiseHigh+Games', '100+', 'https://privacypolicies.com/privacy/view/3b07c7e339abbf637ab85f6e2945ca97', 'ynexdeveloper123@gmail.com']}
+{'com.holycowstudio.homedesigndreams': ['Home Design Dreams - Design My Dream House Games', '8631384323439427849', '50,000+', 'http://www.theholycowstudio.com/', 'theholycowstudio.com@gmail.com']}
+{'com.scc.blef': ['Blef - Puzzle Dungeon', 'Sirius+Cybernetics+Corporation', '5,000+', 'https://sirius-cyber-corp.itch.io/blef', 'sirius.tau.system@gmail.com']}
+{'com.supertapx.lovedots': ['Love Balls', '6990178528646658622', '100,000,000+', 'https://lionstudios.cc/', 'supertapx@lionstudios.cc']}
+{'com.bibergames.toyboxcrazycubes': ['Toy Box Crazy Blast - toon crush cubes', '7250183505735303936', '100,000+', 'http://www.bibergames.com', 'info@bibergames.com']}
+{'com.frvr.goldtrain': ['Gold Train FRVR - Best Railroad Connection Game', '7154795790738196544', '50,000+', 'https://frvr.com', 'info@frvr.com']}
+{'magic.crocus.pro': ['Vistalgy Flip Puzzles', 'MagicDreamPro', '10,000+', 'https://www.vistalgy.com', 'magic.dream.pro@gmail.com']}
+{'com.playforfun.shoot2048': ['Shoot Merge 2048-Wood Block Puzzle', 'Fun+Puzzle+Game', '50,000+', 'https://www.cnblogs.com/yaoboyyao/p/10301693.html', 'playforfun1123@gmail.com']}
+{'com.tellmewow.senior.visuospatial': ['Train your Brain - Visuospatial Games', 'Senior+Games', '1,000+', 'http://tellmewow.com', 'silverseniorgames@gmail.com']}
+{'com.snapbreak.faraway4': ['Faraway 4: Ancient Escape', '8610760313453635485', '100,000+', 'http://www.snapbreak.com', 'info@snapbreak.com']}
+{'com.hipnosisstudios.bloxx': ['Bloxx', 'Hipnosis+Studios+LLC', '1,000+', 'http://www.hipnosisstudios.com', 'tony@hipnosisstudios.com']}
+{'com.outfit7.talkingtompool': ['Talking Tom Pool - Puzzle Game', '5630538819012062144', '10,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.puzzlesolution.symmetry': ['Drawing Puzzle Solution - Train Your Brain', 'Quantum+Leap+Studio', '100,000+', 'https://quantumleapstudio1.wixsite.com/policy', 'quantumleap.studio1st@gmail.com']}
+{'com.gramgames.london.tentencolor': ['1010! Color', '8000319753740505601', '100,000+', 'http://gram.gs', '1010Color@gram.gs']}
+{'com.metajoy.puzzlegame.dragnmerge': ['Drag n Merge: Block Puzzle', 'Metajoy', '500,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
+{'com.easybrain.poly.art': ['Poly - Coloring Puzzle Art Book', '7473634688510685864', '10,000+', 'http://www.easybrain.com', 'support@easybrain.com']}
+{'com.luckykat.slice': ['Go Slice', 'Lucky+Kat+Studios', '10,000+', 'http://www.lucky-kat.com', 'hello@lucky-kat.com']}
+{'com.roller.paint': ['Roller Paint Splat', 'Martin+Garr+Games', '10,000+', 'https://www.dropbox.com/s/erocixtqevjbjoh/RollerPaint_Privacy_Policy.docx?dl=0', 'martgarr936@gmail.com']}
+{'com.supergame.drawhere': ['Draw Here: Logic Puzzles', '6859173202566452199', '100,000+', 'https://www.facebook.com/supergamestudio', 'contact.supergamestudio@gmail.com']}
+{'com.cookie.cubes.candy.story.pop.crush.free': ['Candy Story', 'match_three', '50,000+', 'https://sites.google.com/site/matchthreeprivacypolicy/', 'match_three@outlook.com']}
+{'puzzle.mask.cut.grass.maze': ['Grass Maze', '8334977608698326925', '1,000+', 'https://redemptiongamestudio.blogspot.com/2018/12/redemption-game-studio-privacy-policy.html', 'asd448686@gmail.com']}
+{'blast.puzzle.tap': ['Puzzle Blast', 'blast+and+match+casual+game', '1,000+', 'https://ihads.herokuapp.com/privacy/doc.html', 'blastandmatchcasualgame@gmail.com']}
+{'com.wordinsight.puzzle.avidly': ['Word Insight', '7924010181222684681', '10,000+', 'https://d28w1kh1yrgkq0.cloudfront.net/policy/policy-GP-avidly.html', 'elly.wang@avid.ly']}
+{'com.ARgames.hiddenobjects.bigcity.adventuregame': ['Big City Hidden Object Games', 'The+Best+AR+Apps+And+Games', '1,000+', 'https://thebestarappsandga.wixsite.com/thebestar', 'TheBestARAppsAndGames@gmail.com']}
+{'com.connect.dots.maker.drawoneline': ['Draw 1 Line', 'Blue+Sky+and+White+Cloud', '500,000+', 'https://docs.google.com/document/d/1C7hbjahjrm1A_E7v8JeT2UBN9UM8vLsdnCfhqGMRyQA/edit?usp=sharing', 'xifenggujiu@gmail.com']}
+{'com.onetouch.connect.dots.oneline.draw': ['One Touch Draw', 'Mingjun+Xinling', '100,000+', 'https://docs.google.com/document/d/1UUlwCm5Wv4yAWc8Etwot1-4SONt9q7XcoIVaWYgErO8/edit?usp=sharing', 'mingjuntianxia@gmail.com']}
+{'com.tetrox.scavengerhunt': ['Scavenger Hunt: Waldo Quest', 'Tetrox+Limited', '1,000+', 'https://sites.google.com/view/tetrox/privacy-policy', 'tetroxgp@gmail.com']}
+{'com.balloon.blast.pop.block': ['Balloon Pop Blast', '7085161160987827872', '5,000+', 'http://asuragame.com', 'contact@asuragame.com']}
+{'net.xomian.smartbraingame': ['Smart Brain Game', 'Xomian+technologies+LLC', '100,000+', 'http://xomian.net', 'bluetoothremote@xomian.net']}
+{'com.rocks.hard': ['Hard Rock Bubble Shooter', 'Seminole+Hard+Rock+Entertainment,+Inc.', '10,000+', 'https://www.ilyon.net/', 'support@ilyon.net']}
+{'com.chipmunk.farmmatch3': ['Match 3 Game: Chipmunk Farm Harvest', 'Pixel+Game+Star', '10,000+', 'https://sites.google.com/view/pixel-game-star-policy/home', 'pixelgamestar2412@gmail.com']}
+{'air.com.jigsawpuzzlequest': ['Jigsaw Puzzle Quest – Daily Jigsaw Genius Blast!', 'Fun+Cross+Stitch+Pattern+Games+-+Color+Thread', '1,000+', 'http://www.jigsawpuzzlequest.com/privacy.html', 'jigsawpuzzlequest@gmail.com']}
+{'games.ouzo.piece_of_mind': ['Lucky Pie - Plate food with tasty slices', '6901802119894113806', '1,000+', 'http://www.ouzo.games', 'info@ouzo.games']}
+{'com.gamenexa.dot.run.free': ['DOT RUN GAME', '6143935442918635295', '50,000+', 'http://www.gamenexa.com', 'gamenexastudio@gmail.com']}
+{'com.cookapps.blasterchef': ['Blaster Chef: Culinary match & collapse puzzles', '8315630974564965855', '1,000+', 'http://www.cookapps.com', 'apark@cookapps.com']}
+{'com.xchange.bi': ['Balance it!', 'XCHANGE', '1,000+', 'http://iosboc.xchange-cq.com:9999/Resource_server/resources/privacy/privacy.html', 'xchange_mse@163.com']}
+{'game.mts.rings': ['Rings', 'Malooco+Games', '100+', 'https://www.midnighttea.co/privacy', 'info@malooco.com']}
+{'es.mdev.bloqi': ['Bloqi puzzle - A block game', '7404515537760712285', '1,000+', 'http://mdev.es', 'info@mdev.es']}
+{'com.clipwiregames.hc.perfectfit': ['Perfect Fit', 'Clipwire+Games+Inc.', '10,000+', 'https://www.clipwiregames.com/privacy-policy/', 'support@clipwiregames.com']}
+{'com.Dream1.RollerRollSplat': ['Roller Roll Splat!', 'Dreams1', '1,000+', 'https://docs.google.com/document/d/1KSLUmiSqNxtTYyKLleH6i4xS2snNCJbvVp2qPqUhlAE/edit?usp=sharing', 'dreamsgames6@gmail.com']}
+{'com.hickoma.waterdig': ['Water Dig', 'Pixel+River', '100+', 'http://pixelriver.space/privacy', 'hickoma@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame538PinkyRabbitRescueGame': ['Kavi Escape Game 538 Pinky Rabbit Rescue Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.puzzle.sixty.seconds': ['60 Seconds - Puzzle', 'match+2+games', '1,000+', 'https://skycap.co.in/privacy-policy/', 'munishb85store@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames165LoveBirdsRescueGame': ['Best Escape Games 165 Love Birds Rescue Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'air.com.bestescapegame.BestEscapeGame549ToadRescueGame': ['Best Escape Game 549 Toad Rescue Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'game.mts.woody': ['Woody', 'Malooco+Games', '100+', 'https://www.midnighttea.co/privacy', 'info@malooco.com']}
+{'com.rhdev.JojoSiwaPuzzleGame': ['Jojo Siwa Puzzle Game', '6829286330510041947', '500+', 'https://rhdev.tn', 'contact@rhdev.tn']}
+{'com.happygames.ranchadventures': ['Ranch Adventures: Amazing Match 3', 'Happy+Games+Studio,+LLC', '10,000+', 'http://hgstudio.ru', 'info@hgstudio.ru']}
+{'com.jelly.candy.jewels.saga': ['Magic Jewel Garden', 'Last+App', '1,000+', 'https://sites.google.com/view/lastapp', 'lastappnick@yahoo.com']}
+{'com.jewelcrush.jewelquest.puzzlegames': ['Jewel Crush 2019: Jewel Blast the Jewel Quest', '5566375745176560220', '5,000+', 'https://cherucole.github.io/privacy/', 'flairstudios94@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame539GeriatricManRescueGame': ['Kavi Escape Game 539 Geriatric Man Rescue Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'air.com.bestescapegame.BestEscapeGame550TrappedTurkeyRescueGame': ['Best Escape Game 550 Trapped Turkey Rescue Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'com.v2r.jewelmaker': ['Jewel Maker', 'V2R', '10,000+', 'http://v2rstudio.blogspot.com/2018/08/v2r-corporation-privacy-policy-data.html', 'v2rstd.service@gmail.com']}
+{'com.WZOGI.guildmasterstory': ['Guildmaster Story', 'WZO+Games+Inc.', '1,000+', 'http://www.guildmasterstory.com', 'development@willoneill.com']}
+{'air.com.bestescapegames.BestEscapeGames164UnrulyTigerRescueGame': ['Best Escape Games 164 Unruly Tiger Rescue Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'com.blockpuzzle.jewel.cube.puzzlegame': ['Jewel Block Puzzle', 'Magic+Puzzle+Games', '10,000+', 'https://sites.google.com/site/magicpuzzlegames/home', 'yatao1999@gmail.com']}
+{'air.com.bestescapegame.BestEscapeGame548ChameleonRescueGame': ['Best Escape Game 548 Chameleon Rescue Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame537RosyBirdRescueGame': ['Kavi Escape Game 537 Rosy Bird Rescue Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.puzzleonly.rollersplatcolor': ['Roll The Color', 'Puzzle+Only', '10,000+', 'https://lebenwasistdas.wordpress.com/', 'tmtudev@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames166FairyHorseRescueGame': ['Best Escape Games 166 Fairy Horse Rescue Game', 'Best+Escape+Games', '500+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames163OldHeroRescueGame': ['Best Escape Games 163 Old Hero Rescue Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'com.sleepyboar.wordstellar': ['Word Stellar - Addictive Crossword Puzzle Game', 'Sleepy+Boar+Studios', '500+', 'http://www.sleepyboar.com', 'support@sleepyboar.com']}
+{'com.nesus.PolyArt': ['Low Poly - Color Puzzle by Number Art Game', 'ROCKETAPPS+LLC', '100+', 'http://rocketapps.mobi/', 'usarocketapps@gmail.com']}
+{'com.supergame.colorblock': ['Color Block', 'Hippo+Tap', '100+', 'http://www.hippotap.com', 'support@hippotap.com']}
+{'com.emcneill.squeelings': ['Squeelings', 'E+McNeill', '500+', 'http://www.squeelings.com', 'darknetgame+squeelings@gmail.com']}
+{'com.blockpuzzle.jewel.puzzlegame.free': ['Classic Block Puzzle - Gems Legend', 'hyair+game+Ltd.', '5,000+', 'https://sites.google.com/view/privacypolicy-hyairgame', 'dothingocxuyen2838@gmail.com']}
+{'com.chadil.slug': ['Slugterraa (Tic tac toe mode)', 'Chadil', '1,000+', 'https://sites.google.com/view/slugt/home', 'baidounefatima@gmail.com']}
+{'com.SurprisingGames.SurpriseBox': ['Giant Surprise Capsule! Unboxing Unicorn Fingerhug', 'Surprising+Games+For+You', '1,000+', 'http://www.kidsfungamez.com/privacy-policy-2/', 'surprisegameskids@gmail.com']}
+{'com.RiseHigh.MakeItWork': ['Make it Work', 'RiseHigh+Games', '100+', 'https://privacypolicies.com/privacy/view/3b07c7e339abbf637ab85f6e2945ca97', 'ynexdeveloper123@gmail.com']}
+{'air.TTNG.EscapeGameA53': ['Free New Escape Games 53-51 Doors Escape Game 2019', '7938912700534515651', '1,000+', 'http://www.top10newgames.com', 'top10newgames@gmail.com']}
+{'puzzle.stars.candy': ['Candy Stars Puzzle', '7849730008707515899', '10,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'com.word.trick.puzzle.game': ['Word Choice : A Love Story', 'Puzzle+Corp', '100+', 'https://www.facebook.com/notes/puzzle-corp/puzzle-corp-games-privacy-policy/200001343979886/', 'softechserve@gmail.com']}
+{'air.com.bestescapegame.BestEscapeGame547BullRescueGame': ['Best Escape Game 547 Bull Rescue Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'com.lonercat.hives': ['Hives', 'Loner+Cat', '1,000+', 'https://docs.google.com/document/d/1rRWclfjx-10Llx5kxsDp0-JbMkwNgRMFfRKEKRKL3oo/edit?usp=sharing', 'mirco.masera@gmail.com']}
+{'com.chillstudio.miraculous_ladybug_and_cat_noire_crush': ['Miraculous ladybug kwami crush', 'Chill+Heart+studio', '1,000+', 'https://chillheartstudio.tumblr.com/Privacypolicy', 'ChillStudioteam@gmail.com']}
+{'air.com.bestescapegame.BestEscapeGame546LoveBearsRescueGame': ['Best Escape Game 546 Love Bears Rescue Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'com.dotjoy.bond': ['Bond Legend', 'Dotc+Game+Studio', '100+', 'https://sites.google.com/view/dotjoy/home', 'yaohua.li@teebik-inc.com']}
+{'air.odd1apps.EscapeGameMysteryDoors': ['Escape Games: Mystery Doors', '7732032170429161774', '1,000+', 'http://www.5ngames.com/page/privacy-policy.html', 'odd1media@gmail.com']}
+{'com.red.hero.ice.prince.love.adventure': ['Fire Hero and Ice Princess', '8158873914023800302', '1,000+', 'http://wazzion.com', 'wazzion.com@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame540WhiteCatRescueGame': ['Kavi Escape Game 540 White Cat Rescue Game', 'Kavi+Games', '500+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.grilledonion.candy.blast.pop': ['Candy Match Pop', '6335832945549029490', '50+', 'http://ppl.cm/JzWOU', 'grilledonion.cs@gmail.com']}
+{'com.tellmewow.senior.visuospatial': ['Train your Brain - Visuospatial Games', 'Senior+Games', '1,000+', 'http://tellmewow.com', 'silverseniorgames@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames162BruiserOxRescueGame': ['Best Escape Games 162 Bruiser Ox Rescue Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'com.dctmedia.pixellink': ['Pixel Links: The Relaxing Coloring Puzzle Game', '6406605262562397659', '5,000+', 'https://www.dcthomson.co.uk/', 'gamespublishing@dctmedia.co.uk']}
+{'com.pipeline.plumber': ['Plumber Pipe: Connect Pipeline', 'Vision+Gamer', '5,000+', 'https://sites.google.com/view/visiongamer-privacy-policy/home', 'visiongamernew1@gmail.com']}
+{'com.fmgames.physics.puzzle': ['Bounce & Roll - Physics Puzzle Game', 'FMGames+Studio', '10+', 'https://www.facebook.com/FMGamesStudio/', 'zuzzu01@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames168NoxiousMonsterEscapeGame': ['Best Escape Games 168 Noxious Monster Escape Game', 'Best+Escape+Games', '500+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'com.pocketland.colorama.color.puzzle': ['Colorama - Logic Color Puzzle', '5341877486369493848', '10,000+', None, 'business@pocketland.com']}
+{'com.stGalileo.pharahSecret.diamondblast': ["Pharaoh's treasure Mania", 'Dream+Future', '5,000+', 'https://sites.google.com/view/dream-future-company/home', 'octopus213fish@gmail.com']}
+{'com.dg.puzzlebrothers.match3.quest.puzzle.game.cool.cats': ['Cool Cats: Match 3 Quest - New Puzzle Game', 'Beautiful+Match+3+Quest+Games+by+Difference+Games', '1,000+', 'http://www.differencegames.com', 'match@differencegames.com']}
+{'com.mightycoconut.lasermazer': ['Laser Mazer AR/VR', 'Mighty+Coconut', '100+', 'https://mightycoconut.com/lasermazer/', 'lucas@mightycoconut.com']}
+{'com.puzzlegame.balloonbounce': ['Bouncing Balls Dash', 'Appmobi+LTD', '10+', 'http://appmobi.top', 'admin@appmobi.top']}
+{'com.pmobglobalpuzzlegame.blockpuzzle': ['Block Puzzle: Classic Puzzle Game', 'vnmobclassic', '10,000+', 'https://sites.google.com/view/blockpuzzleclassicpuzzlegame', 'vnvnmob1990@gmail.com']}
+{'air.escapegamestudio.EscapeGameUnknown': ['Escape Game - Unknown', '4979963923081317865', '1,000+', 'http://www.firstescapegames.com/m/privacy-policy.html', 'firstescapegames@gmail.com']}
+{'com.turkmark.worldofsugar': ['World Of Sugar', '8280537453226763547', '100+', 'http://www.turkmark.com.tr', 'veysel@turkmark.com.tr']}
+{'kr.co.uniqbuild.FindoutDifference': ['Find out the difference of the legend', 'UniqBuild', '100+', 'https://uniqbuild.co.kr/calculator/ko', 'cs@uniqbuild.co.kr']}
+{'com.nurs.deadpuzzles': ['Deadpool puzzles', '5589819384600907871', '500+', None, 'nursultan28102@gmail.com']}
+{'com.crispapp.hiddenobjectadventure.vampire': ['Vampire - Hidden Object Adventure Games for Free', '6037919443226965942', '1,000+', 'http://crispapp.com', 'support@crispapp.com']}
+{'com.wYUGIOHmatchReturn_8627036': ['YUGO Match Return', 'Yoyo+Lab+Free+Games', '100+', 'http://www.appsgeyser.com/privacy/app/', 'smart.tech.ya@gmail.com']}
+{'com.HDGames.ColorfulPolygon': ['Colorful Low Poly: 3D puzzle', 'Hamouda', '100+', None, 'HaoudaAini2019@gmail.com']}
+{'rudspawn.alchemyspongebob': ['Little Alchemy - Spongebob', '8646741705371287928', '100+', 'http://littlealchemy-spongebob.com/', 'rudenko3005@gmail.com']}
+{'com.mailbeegames.casual.fill': ['Fill the block - one strike puzzle game', 'MailBee+Games', '10+', 'http://www.addictinggames.com/legal/privacy-policy.jsp', 'mailbeegames@gmail.com']}
+{'air.com.A8bgames.ChessMasterEscape': ['Escape Games 8B 135', '8333716740841530834', '100+', 'http://www.8bgames.com/', 'mailto8bgames@gmail.com']}
+{'com.redpotiongames.projectV': ['Block Busters - Gem of Arena', 'RedpotionGames+Co.,+Ltd.', '10,000+', 'http://www.redpotiongames.com/', 'contact@redpotion.co.kr']}
+{'com.wood.blockpuzzle.tetris.puzzlegame': ['Wood Block Puzzle', 'Simple+Puzzle+Game', '10,000+', None, 'leebostudio@gmail.com']}
+{'com.nguyentaihoa.cookiecrush.cookiegamefreepuzzle': ['Cookie Blast 2019 - Cookie Game Free Puzzle', 'Nguyen+Thi+Ai+Hoa', '50+', 'http://mvtuts.com/policy/advertising-policies-mobile-game-nguyen-thi-ai-hoa.html', 'nguyenthiaihoa9933@gmail.com']}
+{'com.klicktock.littlethingsremastered': ['Little Things® Remastered', '7786826196182592369', '1,000+', 'http://www.klicktock.com', 'android@klicktock.com']}
+{'com.tsgame.waterRun': ['Water Run: Puzzle Game', 'TSGame', '50,000+', 'https://dl.dropboxusercontent.com/s/ajl0janrnb1haui/Policy.txt', 'tridinhba@gmail.com']}
+{'com.MouDev.jojoosiwatictacteo': ['Jojo Siwa Tic tac toe 2019', 'Studio+mond+apps', '50+', 'https://www.freeprivacypolicy.com/privacy/view/801f9fe980301ffcfedf9327e2808f61', 'mad.abdrahim823@gmail.com']}
+{'com.spritebox.overlink': ['Overlink', 'SpriteBox+LLC', '100+', 'http://spritebox.com/overlink/overlink.html', 'danny@lightbot.com']}
+{'com.CretaGames.Matchtris': ['Matchtris (Free 3 Match Block Puzzle Game)', 'Creta+Games+Inc.', '500+', 'http://www.cretagames.com/', 'cretallia@gmail.com']}
+{'com.sgg.mega3': ['Tasty Words', '7444498667970408351', '1,000+', 'http://www.secondgeargames.com', 'support@secondgeargames.com']}
+{'com.nguyentaihoa.jewelandgems.jewelsstarmatchingadventure': ['Jewel & Gems - Gems and Jewels Matching Adventure', 'Nguyen+Thi+Ai+Hoa', '100+', 'http://mvtuts.com/policy/advertising-policies-mobile-game-nguyen-thi-ai-hoa.html', 'nguyenthiaihoa9933@gmail.com']}
+{'com.hgame.xiaoyouxi.fantasytower': ['Fantasy Tower', 'EggoodGame', '1,000+', 'https://www.facebook.com/Fantasy-Tower-323395498509704/', 'fuyu0629@gmail.com']}
+{'com.linkor.PretentiousGame2': ['Pretentious Game 2', 'linkor', '50+', 'https://github.com/falasby/wood-clicker-gold/issues/1', 'falas.1994@mail.ru']}
+{'air.odd1apps.EscapeGameFunInPuzzle': ['Escape Game: Fun In Puzzle', '7732032170429161774', '1,000+', 'http://www.5ngames.com/page/privacy-policy.html', 'odd1media@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames160PorcupineEscapeGame': ['Best Escape Games 160 Porcupine Escape Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'com.nas.gemselixir': ['Gems Elixir', '5596484396773021440', '1,000+', 'http://nasbilisim.com.tr', 'info@nasbilisim.com.tr']}
+{'com.TheQuietIsle.SimpleBallyDrawyGame': ['Simple Bally Drawy Game', 'The+Quiet+Isle', '10+', None, 'thequietisle@gmail.com']}
+{'com.sidking.connectgame': ['.Connect.', 'SidKinG', '500+', 'http://kishorberde.com', 'hello@kishorberde.com']}
+{'com.oojahapps.polyspherehyper': ['Poly Sphere 360 - Hyper-casual Puzzle Art Game', 'Oojah+Apps', '500+', 'https://www.oojahdesigns.com/privacy/', 'oojahapps@gmail.com']}
+{'air.mirchigames.escapegamesday870': ['Prison break-II', '6740459156468048015', '500+', 'http://www.mirchigames.com', 'mirchiescapegames@gmail.com']}
+{'com.minigame.wordlink2': ['Word Link - Word-Cross Puzzle', '%EC%8A%A4%EC%9C%84%ED%8A%B8+%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4', '100+', 'https://andreylukasblog.wordpress.com/2019/02/15/privacy-policy-2/', 'vydehi72@gmail.com']}
+{'air.escapegamestudio.FantasyFloatingFarmEscape2': ['Fantasy Floating Farm Escape 2', '4979963923081317865', '1,000+', 'http://www.firstescapegames.com/m/privacy-policy.html', 'firstescapegames@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame536WatermelonGirlRescueGame': ['Kavi Escape Game 536 Watermelon Girl Rescue Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.omnilabs.bombsquad': ['Bombsquad - Defuse The Bomb', 'Omnilabs+LTD', '100,000+', 'http://www.omni-labs.net/', 'contact@omni-labs.net']}
+{'air.com.bestescapegames.BestEscapeGames153ChristmasTeddyBearEscapeGame': ['Best Escape Games 153 Christmas Teddy Bear Escape', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'air.com.kavigames.KaviEscapegame535StorkEscapeGame': ['Kavi Escape game 535 Stork Escape Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.onesoft.block.puzzle.shoot2048': ['2048 Shooter - Block Puzzle', '7627571908184472902', '5,000+', 'https://sites.google.com/view/shoot2048/', 'onesoft.go.global@gmail.com']}
+{'com.twenty48.solitaire.merge.card.merge2048': ['2048 Cards - Merge Solitaire', 'Earning+Money+App', '5,000+', 'https://docs.google.com/document/d/1jDEj9SCcxRcp8hlDVQFVsPBYrvF8R7N8uc4D-I5suXs/edit?usp=sharing', 'enjoyqhshop@gmail.com']}
+{'air.mirchigames.Freenewroomescapegames': ['Free New Room Escape Games : Unlock Rooms', '6740459156468048015', '100+', 'http://www.mirchigames.com', 'mirchiescapegames@gmail.com']}
+{'air.com.A8bgames.InfantDuckEscape': ['Escape Games 8B 133', '8333716740841530834', '100+', 'http://www.8bgames.com/', 'mailto8bgames@gmail.com']}
+{'air.GreenForestHutEscape': ['Escape Games 2019 - Green Forest Hut', 'Best+Escape+Games+Studio', '100+', 'http://www.avmgames.com/', 'avmgamesinfo@gmail.com']}
+{'com.GlowCyan.SquirrelWithPuzzle': ['Squirrel Puzzle', 'GlowCyan', '1,000+', 'https://docs.google.com/document/d/1ZDiw_rMh8rBTPfojvM66MaCTLdNOB5WryjKnbGmgwSI/edit?usp=sharing', 'glowcyan@gmail.com']}
+{'com.ommn.diff52': ['Five Differences Challenge', 'ommn', '10+', 'https://www.facebook.com/Ommn-Game-Developer-1619262721696595', 'ommn@hotmail.com']}
+{'com.elephantgames.pffellowtraveler': ['Paranormal Files: Fellow Traveler', 'Elephant+Games+LLC', '100+', 'http://www.elephant-games.com', 'buy@elephant-games.com']}
+{'air.com.A8bgames.JovialBoyEscape': ['Escape Games 8B 132', '8333716740841530834', '100+', 'http://www.8bgames.com/', 'mailto8bgames@gmail.com']}
+{'com.adseed.bounce': ['Bounce Ball', 'Tiny+Mouse+Games', '100+', 'http://www.adseed.co.jp/application/', 'support-game@adseed.co.jp']}
+{'com.appstainment.mergedogs': ['Merge Dogs', 'Appstainment', '50+', 'http://saadkhawaja.com/appstainment-privacy-policy/', 'appstainment@gmail.com']}
+{'com.waterpipe.plumberphysicspuzzle': ['Water Pipe Repair: Plumber Puzzle Game', 'Doom+Feed+Rage+Quit', '1,000+', 'https://unity3d.com/legal/privacy-policy', 'corriemaxell87@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames161RobotEscapeGame': ['Best Escape Games 161 Robot Escape Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'com.powergirdcar.egyptWitch.TreasureHunter': ['Treasure Hunter Epic', 'OKGO', '10,000+', 'https://sites.google.com/site/ferrblast/', 'okliu666sz@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame532GuitarPlayingTortoiseEscapeGame': ['Kavi Escape Game 532 Guitar Playing Tortoise Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.roosh.buttons': ['Zipsack', 'Roosh+Interactive', '1,000+', 'http://www.rooshinteractive.com', 'info@rooshinteractive.com']}
+{'com.find.sweet.match': ['Find Sweet Match', 'Ozan+%C5%9Eanalan', '10+', 'http://trmultiwax.ga/privacypolicy.html', 'sanalanozan36@gmail.com']}
+{'com.embersnap.numflow': ['Number Flow', 'Embersnap', '1,000+', 'https://embersnap.com/', 'embersnapapps@gmail.com']}
+{'arcade.gameroom.poly.sphere': ['Low Poly 3D Sphere Puzzle Games', '7838247957022832873', '100+', 'https://arcadegameroommobi.wixsite.com/arcadegameroom', 'arcade.game.room.mobile@gmail.com']}
+{'com.threelanestudios.mergefruitsandvegetables': ['Merge Fruits and Vegetables', '3Lane+Studios', '100+', 'http://www.3lanestudios.com', '3lanestudios@gmail.com']}
+{'com.carslogopixelart.CarGamesColorByNumbers.PixelColoring.PixelArt': ['Cars Logo Pixel Art - Color by Numbers Car Games', 'Free+Fun+Casual+Games', '50+', 'https://freecasualgamesstu.wixsite.com/privacypolicy', 'freecasualgamesstudio@gmail.com']}
+{'com.ReplayStudiosGames.AvantiLAltro': ["Avanti L'Altro", 'Replay+Studios+Games', '100,000+', 'http://appsmoment.net/google/AvantiLAltro.html', 'replaystudiosgames@gmail.com']}
+{'com.elephantgames.chimnewrebel': ['Chimeras: New Rebellion', 'Elephant+Games+LLC', '10+', 'http://www.elephant-games.com', 'buy@elephant-games.com']}
+{'com.unfoldit.unfoldit': ['Unfoldit', 'Clifford+Panos', '5+', 'http://unfolditapp.com', 'unfoldit.team@icloud.com']}
+{'com.kunamen.pawpuppypuzzle': ['Paw Puppy Jigsaw Puzzle', 'Kunamen+Studio', '100+', 'https://kunamenstudio.blogspot.com/p/blog-page.html', 'dennisgiles@asia.com']}
+{'com.bubble.shooter.Gems.brid.rescue': ['Bubble shooter Bird Rescue 2019', 'GameDev+.Inc', '50+', 'https://sites.google.com/view/gamedevinc/', 'hmoura.mhamed@gmail.com']}
+{'air.com.A8bgames.WoodenHouseEscape2': ['Escape Games 8B 131', '8333716740841530834', '100+', 'http://www.8bgames.com/', 'mailto8bgames@gmail.com']}
+{'air.com.bestescapegame.BestEscapeGame544LionLoveEscapeGame': ['Best Escape Game 544 Lion Love Escape Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'com.mepipe.plumber': ['Pipe Man: Master Plumber', 'Poliz+GGChoice', '1,000+', 'https://sites.google.com/view/poliz-ggchoice-policy/trang-ch%E1%BB%A7', 'amelindda172@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame530FindWolfGame': ['Kavi Escape Game 530 Find Wolf Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.gotpixelart.GameOfThronesColorByNumbers.PixelColoring.PixelArt': ['Game of Thrones Color by Number - GoT Pixel Art', 'Free+Fun+Casual+Games', '10+', 'https://freecasualgamesstu.wixsite.com/privacypolicy', 'freecasualgamesstudio@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames152DwarfPenguinRescueGame': ['Best Escape Games 152 Dwarf Penguin Rescue Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'adventure.rescue.pop.kitty': ['Kitty Pop Rescue Adventure', '7236897623184980796', '10,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'com.chaostheorygames.reflections': ['Reflections', '8463720860114365965', '50+', 'http://www.chaostheorygames.com', 'hello@chaostheorygames.com']}
+{'com.mikooPokemonpuzzleking': ['Cartoon Jigsaw Puzzle King', 'MIKOO99', '1,000+', 'https://sites.google.com/view/pkmmikoo/accueil', 'mikoo99pomido@gmail.com']}
+{'air.com.bestescapegame.BestEscapeGame545AmiableTigerEscapeGame': ['Best Escape Game 545 Amiable Tiger Escape Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'com.nodetrack.citydes': ['City Destructor - Demolition game', 'NodeTrack', '100+', 'http://games.nodetrack.com', 'marketing@nodetrack.com']}
+{'com.mikoostevenuniversepuzzle': ['Steven Universe King Jigsaw Puzzle', 'MIKOO99', '100+', 'https://sites.google.com/view/setvenunmikoo/accueil', 'mikoo99pomido@gmail.com']}
+{'com.MouDev.TicTacTeoWaterGirlFireBoy': ['Tic Tac Teo Water Girl && Fire Boy', 'Studio+mond+apps', '10+', 'https://studiogameandapp.blogspot.com/2019/02/privacy-policy.html', 'mad.abdrahim823@gmail.com']}
+{'com.vnspeak.wordsearch': ['Word Search', 'digiXMAS', '10+', 'http://www.vnspeak.com', 'tuanla1972@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame529FloretGirlEscapeGame': ['Kavi Escape Game 529 Floret Girl Escape Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame533SuperheroElephantRescueGame': ['Kavi Escape Game 533 Superhero Elephant Rescue', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'air.com.bestescapegame.BestEscapeGame543ChubbyDogRescueGame': ['Best Escape Game 543 Chubby Dog Rescue Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'air.com.kavigames.KaviEscapeGame528ExceptionalEggRescueGame': ['Kavi Escape Game 528 Exceptional Egg Rescue Game', 'Kavi+Games', '1,000+', 'http://kavigames.com', 'kavigames2016@gmail.com']}
+{'com.funtouch.ninja.escape': ['Ninja Escape', 'FUN%26LCTOUCH', '50+', 'https://sites.google.com/site/funlctouchprivacypolicy/', 'edmondmitchellgstuartbalaami@gmail.com']}
+{'com.pinkiepiejig.jigsawpie.pinkie.jigsaw': ['Jigsaw Pinkie Pie Puzzles Games', 'raritarry', '100+', 'https://rarito-fluttershyy.blogspot.com/p/jigsaw-puzzles-games-privacy-policy.html', 'raritoharryofficiel@gmail.com']}
+{'com.bejandavid.gametest': ['The Simpsons - Guess the Characters', 'Bejan+David', '50+', 'https://quickappninja.com/game-privacy-policy.html', 'bejandavid04@gmail.com']}
+{'com.Ariful.info.jelly.blast': ['Jelly Blast 2019', 'ariful.info', '100+', 'http://ariful.info', 'support@ariful.info']}
+{'com.turkmark.dinoasurs': ['Find Dinasour Bone', '8280537453226763547', '100+', 'http://www.turkmark.com.tr', 'veysel@turkmark.com.tr']}
+{'com.puzzlegames.pig.food.fill': ['Foodie - Fill One Line Puzzle', 'Puzzle+Saga+Studio', '50+', 'https://sites.google.com/site/puzzlesagastudio/', 'support@puzzlegames.freshdesk.com']}
+{'com.grupoalamar.mayansecret2': ['Mayan Secret 2', '6766797635574319737', '50+', 'http://www.grupoalamar.com', 'zeporisto@gmail.com']}
+{'com.AnMPzL.PuzzlesGames.jigsawpuzzle.AnimeMiku': ['Anime Puzzle Jigsaw for Hatsune Miku', 'AnMPzL', '100+', 'https://bloapps.blogspot.com/p/blog-page.html', 'fridnamin@gmail.com']}
+{'com.powergirdcar.EgyptLegend.PharaohTreasure': ['Find Pyramid Treasure', 'OKGO', '50+', 'https://sites.google.com/site/ferrblast/', 'okliu666sz@gmail.com']}
+{'br.com.escolhatecnologia.breakingbraincolors': ['BreakingBrain: Colors', '5978392300521042263', '100+', 'https://www.escolhatecnologia.com.br/', 'app@escolhatecnologia.com.br']}
+{'air.com.bestescapegame.BestEscapeGame540ShoppingGirlEscapeGame': ['Best Escape Game 540 Shopping Girl Escape Game', '5146669128062659451', '1,000+', 'http://www.games4king.com/', 'games4kinginfo@gmail.com']}
+{'com.petgamesfree.stickmanboom': ['Stickman Boom', 'Pet+Games+Free+-+Games+for+Pets+Lovers', '1,000+', 'https://petgamesfree.blogspot.com/', 'petgamesfree@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames157FindHappyManGame': ['Best Escape Games 157 Find Happy Man Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'air.com.A8bgames.BulgarianBoyEscape': ['Escape Games 8B 129', '8333716740841530834', '100+', 'http://www.8bgames.com/', 'mailto8bgames@gmail.com']}
+{'air.ValentineLittleGirlEscapeGame': ['Best Escape Games 160 - Valentine Little Girl', 'Best+Escape+Games+Studio', '500+', 'http://www.avmgames.com/', 'avmgamesinfo@gmail.com']}
+{'com.akansunny.witchhappy': ['Witch Happy - Magic Bubble Shooter', 'Akan+Sunny', '1,000+', 'https://witchhappymagicbubbleshooter.blogspot.com/2019/02/private-policy.html', 'akansunnygame@gmail.com']}
+{'com.blockpuzzle.breaker.woodblock': ['Block Puzzle - Wood Breaker', 'Relax+Mobile', '1,000+', None, 'hoangtiennh1707@gmail.com']}
+{'com.navigationinfo.piperollclassic4android': ['PipeRoll Classic', 'Navigation-Info+Kft.', '10+', 'http://www.navigationinfo.hu', 'mynavigationapps@gmail.com']}
+{'com.game.polysphere.art.puzzle': ['Polysphere 360 Puzzle Game - Lowpoly art challenge', 'UttamApps+Developer', '10+', 'http://uttamappdev.blogspot.com', 'uttamappsdeveloper@gmail.com']}
+{'nu.diff.room': ['Find Differences - Room', 'Nu-Kob', '1,000+', None, 'nukobza@gmail.com']}
+{'air.RescueEgretBirdGame': ['Best Escape Games 162 - Rescue Egret Bird Game', 'Best+Escape+Games+Studio', '500+', 'http://www.avmgames.com/', 'avmgamesinfo@gmail.com']}
+{'air.com.A8bgames.PandaCaretakerEscape': ['Escape Games 8B 121', '8333716740841530834', '500+', 'http://www.8bgames.com/', 'mailto8bgames@gmail.com']}
+{'air.com.A8bgames.MaskManEscape': ['Escape Games 8B 128', '8333716740841530834', '100+', 'http://www.8bgames.com/', 'mailto8bgames@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames159FallingBoyRescueGame': ['Best Escape Games 159 Falling Boy Rescue Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'com.sgaa.quizbrawlstarts': ['QUIZ BRAWL STARS NEW LEVELS', 'SGA+INDUSTRY', '1,000+', 'https://quickappninja.com/game-privacy-policy.html', 'industry.sga@gmail.com']}
+{'com.vector.game.free.puzzle.blockstack2248': ['2248 Block Stack', 'CurryGames', '1,000+', 'http://www.crystalrover.com', 'curryvector@gmail.com']}
+{'com.vector.free.game.puzzle.Merge10B': ['10 Billion', 'BIGDOG+GAMES', '1,000+', 'http://www.crystalrover.com/', 'mobivector@gmail.com']}
+{'com.rohiapps.tech.braintraining': ['Brain Training 2019', 'Rohi+Apps', '100+', None, 'rohiapps92@gmail.com']}
+{'com.resrvoir.puzlpix': ['PuzlPix', 'Resrvoir+LLC', '1+', 'https://puzlpix.com', 'ryan@resrvoir.com']}
+{'com.blockpuzzlejewel.classicpuzzles': ['Block Puzzle Jewel & Classic Free Puzzle', 'Shark+Games+Studio', '1,000+', 'https://privacypolicies.com/privacy/view/5774193298d606484e2df5f093c9223c', 'sharkgamestudio@outlook.com']}
+{'io.kodular.rajmudhale.Blast_Bubble': ['Bubble Blast 2019', 'WebTap', '10+', 'http://www.webtap.in/', 'getmytune@gmail.com']}
+{'com.rarityjigsaw.ponyjigsa.rarity.jigsaw': ['Jigsaw Rarity Puzzles Games', 'raritarry', '100+', 'https://rarito-fluttershyy.blogspot.com/p/blog-page_6.html', 'raritoharryofficiel@gmail.com']}
+{'com.kimbuja.nonogram9': ['Nonogram 9 (Picross Logic)', 'kimbuja', '100+', 'https://kimbuja.blogspot.com/2018/09/privacy-policy-dreampia-built-game.html', 'dreampia@gmail.com']}
+{'air.com.bestescapegames.BestEscapeGames156FindSquirrelGame': ['Best Escape Games 156 Find Squirrel Game', 'Best+Escape+Games', '1,000+', 'http://www.kingescapegames.com', 'bestescapegames@gmail.com']}
+{'mio.game.slide.push.fill.puzzle': ['Slide, Push & Fill - Brain Puzzle', 'Mio+Developers', '100+', 'https://www.freeprivacypolicy.com/privacy/view/82c0ff5c8d4b957cef68cd586736397f', 'mio.developers@gmail.com']}
+{'com.peppapig.peppapigpuzzle': ['Peppa pig jigsaw puzzle 2019', 'Emperor+Techno', '10+', None, 'umeshsevra007@gmail.com']}
+{'com.jpi.pegjump': ['Peg Jump', 'Jose+Islas', '1+', None, 'jpi.islas@gmail.com']}
+{'com.aydingame.findthehiddenobjects': ['Find The Hidden Objects', '7221152954743343830', '500+', 'http://www.aydingame.com', 'ismail@tamirdunyasi.net']}
+{'com.turkmark.polys': ['Poly Circle X', '8280537453226763547', '10+', 'http://www.turkmark.com.tr', 'veysel@turkmark.com.tr']}
+{'com.pikachu.pikachuonet.onetgame.pokemon.pikachuclassic': ['Onet connect animal 2019', 'G-Gamepika+DLL.', '100+', 'https://nguyenvanviet87.wixsite.com/website', 'Gamepika.Classicpikachu.animalconnect@gmail.com']}
+{'com.bluego.blockpuzzle.classic1010': ['Block Puzzle Jewel Classic 1010', 'Number+Puzzle+World', '500+', 'https://sites.google.com/view/bluegopolicy', 'dovanthuong2602@gmail.com']}
+{'com.usp.bobpuzzles': ['Bob the Train Puzzles', 'USP+Studios', '10+', 'http://www.uspstudios.co', 'uspapps@gmail.com']}
+{'com.josephstudio.pixelart': ['Poly Pixel Art book - Color By Number', 'Joseph+App', '50+', 'https://sites.google.com/view/josephapp/privacy-policy', 'youssefneymar66@gmail.com']}
+{'com.prasad.puzzleemmawatson': ['Puzzle Emma Watson', 'Apps+by+Prasad+Isuru', '50+', None, 'prasad3837@gmail.com']}
+{'com.eazyfunny.jewelscrush2019': ['Jewels Crush 2019', 'greenmatch', '50+', 'https://sites.google.com/view/perfectjoy', 'perfectmobilejoy@gmail.com']}
+{'com.paleblue.blockpuzzle_10x10': ['Block Puzzle 10x10', '4989740559356104293', '100+', 'http://nalst.cafe24.com/policy.html', 'paleblue.co.kr@gmail.com']}
+{'com.nazirhakim.animalshadow': ['Animal Shadow', 'NAZIR+HAKIM', '1+', None, 'nazirhakim148@gmail.com']}
+{'trenovant.tux': ['Tux Memory Game', '5257028323002340274', '1+', 'https://www.freeprivacypolicy.com/privacy/view/49890d70d1e79cb9a2ba094fa9126c93', 'trenovant@gmail.com']}
+{'coml.xu.math': ['Math Puzzle King', '5Game', '10+', 'http://blog.sina.com.cn/s/blog_190f9b3010102xq97.html', '1492307427@qq.com']}
+{'com.pixeldogstudios.matchfives': ['MATCH FIVE5', 'PixelDog+Studios+LLC', '1+', 'http://www.pixeldogstudios.com', 'pixeldogstudios@gmail.com']}
+{'gamebox.mergenumbers': ['Merge Numbers', 'Game+World+25', '1,000+', None, 'cglryprk@gmail.com']}
+{'com.ues.plumpuz': ['Puzzle - Plumber - A Pipe Puzzle Game for All', '6259931522760797524', '5+', 'https://www.healthnutritiongym.com/contact', 'utilityexpertservices@gmail.com']}
+{'me.milops.fangedengamemaster': ['Fange den Game Master', 'Milops', '500+', 'https://pastebin.com/vy8R6MG0', 'milopsapps@gmail.com']}
+{'com.Word.Search.Puzzle.Games': ['Word Connect: Around The World', '7838247957022832873', '10+', 'https://arcadegameroommobi.wixsite.com/arcadegameroom', 'arcade.game.room.mobile@gmail.com']}
+{'uk.co.tomdev.wordie': ['Wordie: Word search meets crossword!', 'Tomdev', '100+', 'https://tomdev.co.uk/privacy-policy', 'info@tomdev.co.uk']}
+{'app.dottergame.en': ['The Dotter Game', 'Rosburn+Holdings+Ltd', '5+', 'https://rosburn.com', 'tech@rosburn.com']}
+{'com.gerbugi.make2square': ['2048 Bricks', 'GERBUGI', '100+', 'https://telegra.ph/1-%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EC%9D%98-%EC%B2%98%EB%A6%AC-%EB%AA%A9%EC%A0%81-02-13', 'gerbugi.app@gmail.com']}
+{'com.kkmgames.indiajigsaw': ['India In Jigsaw Puzzles', 'Khel+Khel+Mein', '50+', 'http://www.kkmgames.com', 'hello@kkmgames.com']}
+{'com.newrap.song.quiz': ['Rap Song Quiz', 'Force+Handler', '10+', 'https://web.facebook.com/Force-Handler-313935036134501/', 'Jellyarellanoauguis@gmail.com']}
+{'com.NineteenEightyone.LevelUp2048': ['Level Up 2048', 'Nineteen+Eightyone', '10+', None, 'vegas310.work@gmail.com']}
+{'com.mumutchue.mystry': ['Hogwarts Diamond Mystery', 'Mumut+Chue', '5+', 'https://sites.google.com/view/hogwartsdiamondmystery', 'mamlukhabintang@gmail.com']}
+{'com.hilya.mathchallenge': ['Math Puzzle Challenge HF', 'Hilya', '500+', 'http://hilyafa.mobi/', 'candycatchchicken@gmail.com']}
+{'gummy.blocks.game.gummyblocksgame': ['Gummy Blocks', 'Vishal+Websoft+Technology', '50+', 'https://www.vishalwebsoft.com/', 'info@vishalwebsoft.com']}
+{'com.arenaofbrains.mathgamesarena': ['Math Games Arena', '8278621238937421286', '50+', 'http://mikailcetinkaya.com', 'mikailcetinkaya58@gmail.com']}
+{'com.zemanik.mcube': ['M Cube', 'Martin+Zeman%C3%ADk', '100+', 'https://termsfeed.com/privacy-policy/f8b04d60b5473a54a543c590e18b3c85', 'martin.zemanik37@gmail.com']}
+{'com.wordxgame.www': ['Word-X', 'Murdock+Imagineering+Studio+LLC', '1+', 'http://wordxgame.com/', 'darrell@murdockimagineeringstudio.com']}
+{'com.sweetibs.sudoku': ['Sudoku', 'sweetibs+apps', '10+', None, 'brandonsweeting@gmail.com']}
+{'lotus.com': ['Mental Math Trainer, Brain Workout', 'publicIQ', '10+', 'https://verblike.com', 'verbalike@gmail.com']}
+{'com.nekogod.guessthelogogamescompany': ['Quiz Game: Games Company', 'NekoGOD', '1+', 'https://quickappninja.com/game-privacy-policy.html', 'exorcistkz@gmail.com']}
+{'com.katsu.cnight': ['Christmas ~escape room~', 'tanukichi', '1,000+', 'https://kirinrin.net', 'tanukichi_yk@yahoo.co.jp']}
+{'com.epsigame.tictacchess': ['Tic Tac Chess', 'Hook-it', '5+', 'http://epsigame.com', 'mobile@epsigame.com']}
+{'com.crossfield.puzzlegamescollection': ['Puzzle Games Collection -Popular puzzle-', '8349232061000500898', '500+', 'http://crossfd.jp/policy.html', 'crossfield3@gmail.com']}
+{'com.mindfield.crackthecode': ['Crack the Code', 'Mind+Field', '5+', 'https://quickappninja.com/game-privacy-policy.html', 'btbstb@gmail.com']}
+{'com.wMinionManiaPuzzle_8558293': ['Minion Mania Puzzle', 'vicbor_app', '5+', 'http://www.appsgeyser.com/privacy/app/', 'vicbor_app@gmail.com']}
+{'com.goldie13.fish.pixelart': ['Fish Pixel Art Coloring By Number', 'goldie13', '10+', 'https://sites.google.com/view/goldie13/privacy-policy', 'hendrajahat181@gmail.com']}
+{'com.GameFishDevelopment.TheBlockTrials': ['The Block Trials', 'Austin+Sands', '5+', None, 'gamefishdevelopment@gmail.com']}
+{'com.playherb.mazeflip': ['Maze Flip - a pastel palette', '6309099139673990224', '10+', 'http://www.playherb.com', 'contact@playherb.com']}
+{'appinventor.ai_vipishapazhanivel.CreativeProject': ['Marvel Matching Game', 'ShadowCookieGames', '1+', None, 'ShadowCookieGames@gmail.com']}
+{'com.freegamedev.zombiekiller': ['Zombie Killer', 'Free.Game.Developer', '5+', 'https://docs.google.com/document/d/1a3wvBcQv3Okq1dZ-WRNxDIhS5pjCdhd8_M-FufSkZnc/edit?usp=drive_open&ouid=101427544189665263240', 'ngatminalamin01@gmail.com']}
+{'air.JollyWestminsterFortEscape': ['Jolly Westminster Fort Escape', 'jollyescape', '10+', None, 'somuraja1005@gmail.com']}
+{'com.piponsio.pipapp': ['EggEasterApp', 'Felipe+Soto+Torres', '50+', 'https://piponsio.github.io/EggEasterWeb/', 'piponsio96@gmail.com']}
+{'com.tyrannobyte.ycube': ['YCube: Steps', 'Tyrannobyte', '10+', None, 'tyrannobyte@gmail.com']}
+{'com.disneyprincesspalacepets.memorymatchgame': ['Princess Palace Pets Memory Match Game', 'IjulApp', '10+', 'http://www.muhammadsyamsulrijal.com', 'syemzoel@gmail.com']}
+{'com.northwall.runia': ['Runia', 'NorthWall', '100+', 'https://assaulttimer.com/privacy-policy/Privacy%20Policy.pdf', 'alkilicalp@gmail.com']}
+{'net.peakgames.toonblast': ['Toon Blast', '7348725256760208886', '50,000,000+', 'https://peakgames.helpshift.com/a/toon-blast/', 'support@peakgames.net']}
+{'com.gramgames.mergedragons': ['Merge Dragons!', '8000319753740505601', '10,000,000+', 'http://gram.gs', 'support@gram.gs']}
+{'net.peakgames.amy': ['Toy Blast', '7348725256760208886', '50,000,000+', 'http://www.peakgames.net', 'android@peakgames.net']}
+{'com.matchington.mansion': ['Matchington Mansion', 'Firecraft+Studios', '10,000,000+', 'http://www.firecraftstudios.com/', 'contact@firecraftstudios.com']}
+{'com.playrix.fishdomdd.gplay': ['Fishdom', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/fishdom/index.html', 'support@playrix.com']}
+{'air.com.sgn.cookiejam.gp': ['Cookie Jam - Match 3 Games & Free Puzzle Game', '5509190841173705883', '50,000,000+', 'http://www.jamcity.com', 'support@cookiejam.zendesk.com']}
+{'com.king.bubblewitch3': ['Bubble Witch 3 Saga', '6577204690045492686', '50,000,000+', 'http://bubblewitch3saga.com', 'bubblewitch3.techhelp@king.com']}
+{'com.plarium.blast': ['Lost Island: Blast Adventure', '5766366711041032164', '5,000,000+', 'http://www.plarium.com', 'android@plarium.com']}
+{'com.king.candycrushjellysaga': ['Candy Crush Jelly Saga', '6577204690045492686', '100,000,000+', 'http://candycrushjellysaga.com/help/', 'candycrushjelly.techhelp@king.com']}
+{'com.sgn.pandapop.gp': ['Panda Pop! Free Bubble Shooter Saga Game', '5509190841173705883', '50,000,000+', 'http://www.playpandapop.com', 'support@pandapop.zendesk.com']}
+{'com.zynga.ozmatch': ['The Wizard of Oz Magic Match 3', '6690081412016968981', '5,000,000+', 'https://zyngasupport.helpshift.com/a/wizard-of-oz-magic-match/?l=en', 'android.support@zynga.com']}
+{'com.disney.emojimatch_goo': ['Disney Emoji Blitz', '5509190841173705883', '10,000,000+', 'http://www.jamcity.com', 'support@jamcity.com']}
+{'com.rovio.dream': ['Angry Birds Dream Blast', '9133452689932095671', '1,000,000+', 'https://www.rovio.com', 'support@rovio.com']}
+{'air.com.sgn.cookiejamblast.gp': ['Cookie Jam Blast - New Match 3 Puzzle Saga Game', '5509190841173705883', '5,000,000+', 'http://www.sgn.com', 'support@cookiejamblast.zendesk.com']}
+{'com.vizorapps.mahjong': ['Mahjong Treasure Quest', '8530020481101400394', '5,000,000+', 'https://www.facebook.com/MahjongTreasureQuest', 'mtq@vizor-apps.com']}
+{'net.playq.charmking': ['Charm King', 'PlayQ+Inc', '10,000,000+', 'http://www.playq.com', 'support@playq.net']}
+{'com.sgn.geniesandgems.gp': ['Genies & Gems - Jewel & Gem Matching Adventure', '5509190841173705883', '10,000,000+', 'http://www.jamcity.com', 'support@geniesandgems.zendesk.com']}
+{'com.bigfishgames.gummydropgoogle': ['Gummy Drop! – Free Match 3 Puzzle Game', '8355317828905497231', '10,000,000+', 'https://www.bigfishgames.com/daily/gummy-drop/', 'info@bigfishgames.com']}
+{'com.belkatechnologies.clockmaker': ['Clockmaker - Match 3 Mystery Game', '4845317959578407531', '10,000,000+', 'https://belka-games.com/privacy/', 'clockmaker_support@belkatechnologies.com']}
+{'jp.gungho.padEN': ['Puzzle & Dragons', '7849776799175690127', '5,000,000+', 'https://www.puzzleanddragons.us/', 'PAD_support_NA@GUNGHOONLINE.COM']}
+{'com.rovio.abmatch3': ['Angry Birds Match', '9133452689932095671', '5,000,000+', 'https://www.rovio.com', 'support@rovio.com']}
+{'air.com.sgn.familyguy.gp': ["Family Guy- Another Freakin' Mobile Game", '5509190841173705883', '5,000,000+', 'http://www.jamcity.com', 'support@familyguygame.zendesk.com']}
+{'com.weplaydots.twodotsandroid': ['Two Dots', '4643781271961833278', '10,000,000+', 'http://www.dots.co', 'td-help@weplaydots.com']}
+{'dk.tactile.lilysgarden': ["Lily's Garden", '8367752935101364368', '500,000+', 'http://tactilegames.com', 'lilysgarden@tactile.dk']}
+{'com.gamegos.mobile.manorcafe': ['Manor Cafe', '5137364340371948270', '1,000,000+', 'http://www.gamegos.com', 'mobile@gamegos.com']}
+{'com.linecorp.LGTMTMG': ['LINE: Disney Tsum Tsum', '4919265583026901892', '10,000,000+', 'https://lg-cs.line.me/fm/public/inquiry/index', 'linegame_enquete@linecorp.com']}
+{'com.whaleapp.resorthotel': ['Resort Hotel: Bay Story', 'WhaleApp+LTD', '1,000,000+', 'http://www.whaleapp.com', 'support.resorthotel@whaleapp.com']}
+{'com.rovio.blast': ['Angry Birds Blast', '9133452689932095671', '10,000,000+', 'https://www.rovio.com', 'support@rovio.com']}
+{'com.ludia.dragon3': ['Dragons: Titan Uprising', 'Ludia+Inc.', '1,000,000+', 'http://www.ludia.com', 'support@ludia.com']}
+{'com.strawdogstudios.simonscatpoptime': ["Simon's Cat - Pop Time", 'Tactile+Games+Limited', '1,000,000+', 'http://www.strawdogstudios.com', 'support@strawdogstudios.com']}
+{'com.strawdogstudios.simonscatcrunchtime': ["Simon's Cat - Crunch Time", 'Tactile+Games+Limited', '1,000,000+', 'http://www.strawdogstudios.com', 'support@strawdogstudios.com']}
+{'com.ember.meowmatch': ['Meow Match: Cats Matching 3 Puzzle & Ball Blast', 'Ember+Entertainment', '1,000,000+', 'http://ember-entertainment.com', 'support@ember.games']}
+{'dk.tactile.cookiecatspop': ['Cookie Cats Pop', '8367752935101364368', '1,000,000+', 'https://tactilegames.com/', 'cookiecatspop@tactile.dk']}
+{'com.ea.BejeweledBlitz_na': ['Bejeweled Blitz', '6605125519975771237', '10,000,000+', 'https://help.ea.com/en/popcap/bejeweled-blitz/', 'help@eamobile.com']}
+{'net.wooga.tropicats_tropical_cats_puzzle_paradise': ['Tropicats: Free Match 3 on a Cats Tropical Island', '5187629073610793871', '1,000,000+', 'http://www.wooga.com', 'support@wooga.net']}
+{'com.lagoonsoft.pf': ['Prize Fiesta', 'Lagoon+Software+Ltd', '500,000+', 'http://www.prize-fiesta.info', 'customer.service@prize-fiesta.com']}
+{'com.awem.cradleofempires.andr': ['Cradle of Empires Match-3 Game', '4744296709538939559', '1,000,000+', 'http://awem.com/', 'support@awem.com']}
+{'air.com.and.games505.gemsofwar': ['Gems of War - Match 3 RPG', '505+Games+Srl', '1,000,000+', 'http://www.gemsofwar.com', 'support@gemsofwar.com']}
+{'com.g5e.mahjong.android': ['Mahjong Journey: A Tile Match Adventure Quest', '8053728788464134315', '1,000,000+', 'http://www.g5e.com', 'support@g5e.com']}
+{'com.nytimes.crossword': ['NYTimes - Crossword', 'The+New+York+Times+Company', '1,000,000+', 'http://www.nytimes.com/crosswords/index.html', 'NYTCrossword@nytimes.com']}
+{'com.disney.frozensaga_goo': ['Frozen Free Fall', 'Disney', '50,000,000+', 'http://help.disney.com/Games/Frozen-Free-Fall', 'support@disneymobile.com']}
+{'com.plarium.zoo': ['Family Zoo: The Story', '5001298899523389669', '5,000,000+', 'https://www.familyzoothestory.com/', 'support.familyzoo@mohicanlab.com']}
+{'com.jamcity.snoopypop': ['Snoopy Pop - Free Match, Blast & Pop Bubble Game', '5509190841173705883', '1,000,000+', 'http://www.jamcity.com', 'support@snoopypop.zendesk.com']}
+{'air.com.sgn.juicejam.gp': ['Juice Jam - Puzzle Game & Free Match 3 Games', '5509190841173705883', '10,000,000+', 'http://www.jamcity.com', 'support@juicejam.zendesk.com']}
+{'air.com.qublix.tropictrouble': ['Tropic Trouble Match 3 Builder', '8810793461269970613', '1,000,000+', 'http://www.qublix.com', 'support@qublix.com']}
+{'net.wooga.bubbleisland2': ['Bubble Island 2 - Pop Shooter & Puzzle Game', '5187629073610793871', '1,000,000+', 'http://www.wooga.com', 'support@wooga.net']}
+{'com.ea.gp.bejeweledskies': ['Bejeweled Stars: Free Match 3', '6605125519975771237', '1,000,000+', 'http://www.ea.com/android', 'help@eamobile.com']}
+{'air.com.sgn.bookoflife.gp': ['Sugar Smash: Book of Life - Free Match 3 Games.', '5509190841173705883', '10,000,000+', 'http://www.jamcity.com', 'support@bookoflife.zendesk.com']}
+{'com.kudo.icecrush': ['Ice Crush 2019 - A new Puzzle Matching Adventure', 'Kudo+Games', '1,000,000+', 'https://sites.google.com/site/kudoprivacypolicy/', 'support@kudo.games']}
+{'com.ea.tetrisblitz_na': ['TETRIS  Blitz', '6605125519975771237', '5,000,000+', 'http://help.ea.com/en/tetris-blitz/tetris-blitz/', 'help@eamobile.com']}
+{'com.candysmashmania.sweetcrush.free': ['Candy Smash Mania', 'gameone', '1,000,000+', 'https://sites.google.com/site/gameoneprvacypolicy/', 'gaming.one@hotmail.com']}
+{'com.bandagames.mpuzzle.gp': ['Magic Jigsaw Puzzles', '6861988240512426856', '10,000,000+', 'https://androidpuzzlessupport.zendesk.com/hc', 'support@androidpuzzlessupport.zendesk.com']}
+{'com.zindagigames.test': ['Crazy Kitchen: Match 3 Puzzles', '6690081412016968981', '10,000,000+', 'https://zyngasupport.helpshift.com/a/crazy-kitchen/', 'android.support@zynga.com']}
+{'com.appynation.wbpc': ['Picture Cross', 'AppyNation+Ltd.', '1,000,000+', 'http://www.appynation.com', 'support@appynation.com']}
+{'com.outplayentertainment.mysterymatch': ['Mystery Match – Puzzle Adventure Match 3', '5587345788514684720', '1,000,000+', 'http://www.outplayentertainment.com/', 'support@mysterymatch.zendesk.com']}
+{'com.wonderplanet.CrashFever': ['Crash Fever', 'WonderPlanet+Inc.', '1,000,000+', 'http://wonderpla.net', 'crashfevergl@wonderpla.net']}
+{'com.cookapps.toyparty': ['Toy Party: Match Three Game with Toy Friends!', '8315630974564965855', '500,000+', 'https://cookapps.zendesk.com/hc/en-us/categories/115000952828-Toy-Party', 'support@cookapps.com']}
+{'com.purplekiwii.mb': ['MonsterBusters: Match 3 Puzzle', '5636651079416583942', '10,000,000+', 'https://playdogsoft.com/', 'support@purplekiwii.com']}
+{'com.valasmedia.bubblecloudplanet': ['Bubble Cloud', 'Valas+Media', '1,000,000+', 'http://www.valasmedia.com', 'contact@valasmedia.com']}
+{'air.com.gratsonia.butterflyGardenMystery': ['Butterfly Garden Mystery: Scapes Match 3 Story', '8670176352292055725', '100,000+', 'https://static.travelingpixelserver.com/share/BGM_PP.txt', 'support@gratsonia.com']}
+{'dk.tactile.cookiecatsblast': ['Cookie Cats Blast', '8367752935101364368', '1,000,000+', 'https://tactilegames.com/', 'cookiecats@tactile.dk']}
+{'com.inertiasoftware.crossstitchworld': ['Cross-Stitch World', '8067421150984452247', '1,000,000+', 'https://www.facebook.com/crossstitchworld/', 'cross-stitch-world@inertiasoftware.com']}
+{'bubbleshooter.android': ['Bubble Shooter ™', '7268898997815915359', '10,000,000+', 'http://www.ilyon.net', 'support@ilyondynamics.com']}
+{'com.linefriends.lfbt21': ['PUZZLE STAR BT21', 'LINE+Friends+Corporation', '1,000,000+', 'https://www.linefriends.com', 'linefriends.app@gmail.com']}
+{'bubble.shooter.pop': ['Bubble Shooter Pop', 'Word+Search+Puzzle+Games', '100,000+', 'http://bit.ly/bubblepp', 'wordpuzzlegamez@gmail.com']}
+{'dk.tactile.discoducks': ['Disco Ducks', '8367752935101364368', '1,000,000+', 'https://tactilegames.com/', 'discoducks@tactile.dk']}
+{'com.game5mobile.lineandwater': ['Happy Glass', '6990178528646658622', '50,000,000+', 'http://www.lionstudios.cc', 'game5mobile@lionstudios.cc']}
+{'com.inapp.cross.stitch': ['Cross Stitch', 'incolor', '5,000,000+', 'http://www.incolor.cc', 'incolor.feedback@hotmail.com']}
+{'com.coldapp.at50rooms2': ['Escape game: 50 rooms 2', '8046595135458049064', '1,000,000+', 'http://goodgames6249.cloudapp.net/PrivacyPolicy/', 'BusColdApp@gmail.com']}
+{'com.nordcurrent.matchland': ['Matchland Quest', '6790926766572360607', '50,000+', 'http://www.nordcurrent.com', 'info@nordcurrent.com']}
+{'com.wooga.futurama': ['Futurama: Game of Drones', '5187629073610793871', '1,000,000+', 'http://www.wooga.com', 'support@wooga.net']}
+{'jp.co.imagineer.sumikkogurashi.sumisumi': ['SUMI SUMI : Matching Puzzle', 'Imagineer+Co.,Ltd.', '1,000,000+', 'http://www.imagineer.co.jp', 'cs@sumisumigame.com']}
+{'com.cookapps.buggle2m': ['Buggle 2 - Free Color Match Bubble Shooter Game', '8315630974564965855', '1,000,000+', 'https://cookapps.zendesk.com/hc/en-us/categories/204626287-Buggle-2', 'support@bubblecoco.zendesk.com']}
+{'com.rovio.Nibblers': ['Fruit Nibblers', '9133452689932095671', '5,000,000+', 'https://www.rovio.com', 'support@rovio.com']}
+{'com.zynga.farmarcade': ['FarmVille: Harvest Swap', '6690081412016968981', '1,000,000+', 'http://www.zynga.com', 'android.support@zynga.com']}
+{'br.com.tapps.logicpic': ['Logic Pic - Picture Cross & Nonogram Puzzle', '6615809648420562690', '1,000,000+', 'http://tappsgames.com', 'user.support+logicpic@tappsgames.com']}
+{'com.FireproofStudios.TheRoom4': ['The Room: Old Sins', 'Fireproof+Games', '100,000+', 'http://www.fireproofgames.com', 'info@fireproofgames.com']}
+{'com.weplaydots.plus': ['Dots & Co: A Puzzle Adventure', '4643781271961833278', '1,000,000+', 'http://weplaydots.com', 'dac-help@weplaydots.com']}
+{'com.dolphinapp.familyyards': ['Family Yards: Memories Album', 'Dolphinapp', '1,000,000+', 'http://dolphinapp.com', 'support@dolphinapp.com']}
+{'com.narcade.farm_bubbles_bubble_shooter': ['Farm Bubbles Bubble Shooter Pop', '7666709667877958099', '1,000,000+', 'http://narcade.com/games/farmbubbles.html', 'zip@nar.club']}
+{'com.zimad.bbv': ['Bubble Birds V - Color Birds Shooter', '6861988240512426856', '500,000+', 'https://zimad.com/', 'support@zimad.com']}
+{'com.cookapps.beagles.ng003': ['Candy Blast: Sugar Splash', '8315630974564965855', '100,000+', 'http://www.cookapps.com/', 'cs_playgrounds@cookapps.com']}
+{'com.cookapps.watersplash': ['Water Splash - Cool Match 3', '8315630974564965855', '1,000,000+', 'https://cookapps.zendesk.com/hc/en-us/categories/204616048-Water-Splash', 'support@cookapps.com']}
+{'com.promineo.garfieldfoodtruck': ['Garfield Food Truck', 'Promineo+Studios+S.L.', '50,000+', 'http://promineostudios.com/', 'gft@promineostudios.com']}
+{'com.bigfishgames.sirmatchgoogle': ['Sir Match-a-Lot: Match 3 Game', '8355317828905497231', '500,000+', 'https://www.bigfishgames.com/daily/sir-match-a-lot/', 'info@bigfishgames.com']}
+{'com.donutpublishing.eclair': ['Dancing With The Stars', 'Donut+Publishing', '500,000+', 'http://www.donutpublishing.com/index.php/contact-us/', 'support@donutpublishing.com']}
+{'com.bluembo.tritos': ["Seascapes : Trito's Match 3 Adventure", 'Bluembo+Entertainment+Corporation', '100,000+', 'https://www.facebook.com/Bluembo.TritosAdventure/', 'bluembogames@gmail.com']}
+{'com.mitosisgames.match3': ['Magic Meadow', 'Mitosis+Games', '100,000+', 'https://www.mitosisgames.com', 'support@mitosisgames.com']}
+{'com.gamaga.RedCrimesHM': ['Red Crimes: Hidden Murders', 'iEntertainment+Network+Inc.', '100,000+', 'http://www.gamaga.com', 'rcsupport@gamaga.com']}
+{'com.purplekiwii.mbhexalink': ['Monster Busters: Ice Slide', '5636651079416583942', '100,000+', 'https://playdogsoft.com/', 'support@purplekiwii.com']}
+{'com.hashcube.sudokuquest': ['Sudoku Quest', '6346516402503258288', '1,000,000+', 'http://www.hashcube.com', 'support@hashcube.com']}
+{'com.sundaytoz.agsp.diffgame': ['Snoopy Spot the Difference', '8429863541223079502', '100,000+', 'http://en.sundaytoz.com/', 'google.play@sundaytoz.com']}
+{'com.bitmango.go.blockhexapuzzle': ['Block! Hexa Puzzle™', '6249013288401661340', '50,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.disney.WMW': ["Where's My Water?", 'Disney', '1,000,000+', 'http://help.disney.com/Games/Wheres-My-Water', 'support@disneymobile.com']}
+{'com.relaxingbraintraining.raccoonbubbles': ['Raccoon Bubbles - Bubble Shooter', 'PlaySpot+Games', '100,000+', 'https://luee-wally-v2-cpc.appspot.com//game_privacy_policy.html', 'f2p.media.group@gmail.com']}
+{'com.nordcurrent.bakeacake': ['Bake a Cake Puzzles & Recipes', '6790926766572360607', '10,000+', 'http://www.nordcurrent.com', 'info@nordcurrent.com']}
+{'com.digitalstrawberry.jigsawdaily': ['Jigsaw Daily: Free puzzle games for adults & kids', 'Digital+Strawberry+LLC', '50,000+', 'https://www.jigsawdaily.com', 'support@jigsawdaily.com']}
+{'com.mgameday.openpuzzlebox': ['Open Puzzle Box', 'NFLY+STUDIO', '1,000,000+', 'http://www.facebook.com/nflystudio', 'help@nflystudio.com']}
+{'pl.aidemmedia.RealisticBridge': ['Bridge Construction Simulator', '5496592682158177981', '10,000,000+', 'http://www.boombitgames.com/', 'support@boombit.com']}
+{'air.com.smileygamer.sweetcandies2': ['Sweet Candies 2 - Chocolate Cookie Candy Match 3', 'SmileyGamer+Match+3+Games', '100,000+', 'http://www.smileygamer.com', 'smileygamer.com@gmail.com']}
+{'com.ninecatsgames.logalaxy': ['Little Odd Galaxy - Match 3 Puzzle Game', 'Ninecats+games+Inc.', '100,000+', 'http://9catsgames.com', 'support@9catsgames.com']}
+{'com.integragames.sweetykitty': ['Sweety Kitty: Match-3 Game', '9128584057565609938', '100,000+', 'https://integra.games/sweety.html', 'googleplayusersupport@integra-games.com']}
+{'com.NoumenonGames.SnakeBird_Touch_Primer': ['Snakebird Primer', 'Noumenon+Games', '100+', 'http://noumenongames.com', 'info@noumenongames.com']}
+{'com.enp.jewels2.google': ['jewel palace : grand match 3 puzzle advanture', '4919269069898699747', '50,000+', 'http://www.enpgames.co.kr/', 'Global_apps@enpgames.co.kr']}
+{'kenkenclassic.com': ['KenKen Classic II', 'KenKen+Puzzle+Co.', '100,000+', 'http://www.kenkenpuzzle.com', 'customercare@kenkenpuzzle.com']}
+{'com.JindoBlu.Antistress': ['Antistress - relaxation toys', '8369547020914796683', '5,000,000+', 'http://jindoblu.altervista.org/', 'blujindo@gmail.com']}
+{'com.love.poly.puzzle.game': ['Love Poly - New puzzle game', 'incolor', '1,000,000+', 'http://incolor.cc/en/privacy.html', 'incolor.feedback@hotmail.com']}
+{'com.ezjoynetwork.cookiemania': ['Cookie Mania - Match-3 Sweet Game', 'Ezjoy', '1,000,000+', 'http://m.ezjoygame.com', 'ezjoy.feedback@gmail.com']}
+{'com.haikugamesco.escapewickham': ['Adventure Escape: Murder Manor', '6543290517860473133', '5,000,000+', 'http://www.haikugamesco.com', 'haikugamesco@gmail.com']}
+{'com.utplus.tokidokipuzzle': ['tokidoki frenzies : Match 3 Puzzle', 'UTPlus+Interactive+Inc.', '10,000+', 'http://www.utplus.co.kr', 'ut_business@utplus.co.kr']}
+{'com.tomorrowcorporation.humanresourcemachine': ['Human Resource Machine', 'Tomorrow+Corporation', '10,000+', 'http://tomorrowcorporation.com/humanresourcemachine', 'contact@tomorrowcorporation.com']}
+{'joybits.doodlegod': ['Doodle God™', '7135733556799147524', '100,000+', 'http://www.doodlegod.com', 'support@joybits.org']}
+{'com.eightyeightgames.tenmillion': ['10000000', '6823404764101374014', '100,000+', 'http://www.eightyeightgames.com', 'luca@eightyeightgames.com']}
+{'com.supertapx.lovedots': ['Love Balls', '6990178528646658622', '100,000,000+', 'https://lionstudios.cc/', 'supertapx@lionstudios.cc']}
+{'com.gramgames.merged': ['Merged!', '8000319753740505601', '1,000,000+', 'http://gram.gs', 'support@gram.gs']}
+{'com.fgstudio.bounzyball': ['Bounzy Ball', 'Do+Global+Games', '50,000+', 'https://superiorzzr.tumblr.com/post/176552436467/privacy-policydo', 'lichen@do-global.com']}
+{'com.ketchapp.ballz': ['Ballz', '6054197513203380012', '10,000,000+', 'http://www.ketchappgames.com', 'support@ketchappgames.com']}
+{'com.mobirix.popjewel': ['Jewelry Pop Puzzle', '4864673505117639552', '100,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.matchgems.fantasy_mosaics_33': ["Fantasy Mosaics 33: Inventor's Workshop", '6718763145733666817', '50+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.NoumenonGames.SnakeBird_Touch_Primer': ['Snakebird Primer', 'Noumenon+Games', '100+', 'http://noumenongames.com', 'info@noumenongames.com']}
+{'com.IvanKovalov.G30Android': ['G30 - A Memory Maze', '5667680947462572638', '1,000+', 'https://goo.gl/forms/qNunZSXJ1jtI98Xw2', 'support@g30game.com']}
+{'com.dustyroom.supersum': ['Powernode', '4826493856939567687', '10+', 'http://www.opalgames.fr', 'stores@opalgames.fr']}
+{'com.artstorm.flowvip': ['Flow Deluxe VIP', 'ArtStrom', '1,000+', 'http://artstorm.dothome.co.kr/', 'artstormgames@gmail.com']}
+{'games.daynight.annie': ['Annie – Cute adventure in the world of puzzles', '6029056821109210583', '100+', 'http://daynight.games', 'hello@daynight.games']}
+{'com.HORRORMYSTERY.HSGAME': ['HORROR MYSTERY 2019', '5604352893781252610', '5+', 'https://www.hsgame.co.uk/', 'info@hsgame.co.uk']}
+{'com.ebcaravela.puzlogic': ['Puzlogic', 'Eduardo+Barreto', '10+', 'http://ebcaravela.com', 'contact@ebcaravela.com']}
+{'com.CoreyMartin.PipePushParadise': ['Pipe Push Paradise', 'Digerati+Distribution+%26+Marketing+LLC', '50+', 'http://www.digeratidistribution.com', 'support@digeratidistribution.com']}
+{'com.greatapps.blockpuzzle2019': ['Bricks material - Bricks puzzle game', '8538191618075842484', '1,000+', 'http://www.yogeshdama.com', 'bhanushali.neelam@gmail.com']}
+{'com.wb.goog.scribbleremix': ['Scribblenauts Remix', 'Warner+Bros.+International+Enterprises', '1,000,000+', 'http://www.warnerbros.com', 'Support@wbgames.com']}
+{'com.FireproofStudios.TheRoom': ['The Room', 'Fireproof+Games', '1,000,000+', 'http://www.fireproofgames.com', 'info@fireproofgames.com']}
+{'com.wb.goog.scribblenauts3': ['Scribblenauts Unlimited', 'Warner+Bros.+International+Enterprises', '100,000+', 'http://www.scribblenauts.com', 'support@wbgames.com']}
+{'com.FireproofStudios.TheRoom4': ['The Room: Old Sins', 'Fireproof+Games', '100,000+', 'http://www.fireproofgames.com', 'info@fireproofgames.com']}
+{'com.FireproofStudios.TheRoom3': ['The Room Three', 'Fireproof+Games', '500,000+', 'http://www.fireproofgames.com/android_help', 'info@fireproofgames.com']}
+{'com.FireproofStudios.TheRoom2': ['The Room Two', 'Fireproof+Games', '1,000,000+', 'http://www.fireproofgames.com/help/android-the-room-two', 'info@fireproofgames.com']}
+{'com.ustwo.monumentvalley2': ['Monument Valley 2', '8496315002364483410', '100,000+', 'http://www.ustwogames.co.uk', 'support@monumentvalleygame.com']}
+{'com.headupgames.bridgeconstructorportal': ['Bridge Constructor Portal', '7706714075287612145', '100,000+', 'http://www.headupgames.com', 'support@headupgames.com']}
+{'com.bluebraingames.thehouseofdavinci': ['The House of Da Vinci', 'Blue+Brain+Games+s.r.o.', '100,000+', 'http://www.thehouseofdavinci.com', 'davinci@bluebraingames.com']}
+{'com.squareenixmontreal.hitmango': ['Hitman GO', 'SQUARE+ENIX+LTD', '500,000+', 'http://www.square-enix.com/eng/', 'mobile-support@eu.square-enix.com']}
+{'com.ustwo.monumentvalley': ['Monument Valley', '8496315002364483410', '1,000,000+', 'http://www.monumentvalleygame.com', 'support@monumentvalleygame.com']}
+{'co.yakand.agentaapuzzleindisguise': ['Agent A: A puzzle in disguise', '5191616015056815737', '100,000+', 'http://yakand.co', 'support@yakand.co']}
+{'com.nosignalproductions.legacyhidden': ['Legacy 3 - The Hidden Relic', 'No+Signal+Productions', '1,000+', 'https://nosignalproductions.com/', 'nosignalproductionsinc@gmail.com']}
+{'com.disney.WMW': ["Where's My Water?", 'Disney', '1,000,000+', 'http://help.disney.com/Games/Wheres-My-Water', 'support@disneymobile.com']}
+{'com.squareenixmontreal.lcgo': ['Lara Croft GO', 'SQUARE+ENIX+LTD', '500,000+', 'http://www.square-enix.com/eng/', 'mobile-support@eu.square-enix.com']}
+{'joybits.doodlegod': ['Doodle God™', '7135733556799147524', '100,000+', 'http://www.doodlegod.com', 'support@joybits.org']}
+{'com.zeptolab.ctr.paid': ['Cut the Rope GOLD', '8155782941676464587', '1,000,000+', 'http://zeptolab.com', 'support@zeptolab.com']}
+{'com.mountains.feathertop': ['Florence', 'Annapurna+Interactive', '50,000+', 'http://annapurna.pictures/interactive/', 'help@annapurnainteractive.com']}
+{'joybits.doodlegod_hd': ['Doodle God™ HD', '7135733556799147524', '100,000+', 'http://www.doodlegod.com', 'support@joybits.org']}
+{'unity.Annapurna.Gorogoa': ['Gorogoa', 'Annapurna+Interactive', '10,000+', 'http://annapurnainteractive.com', 'help@annapurnainteractive.com']}
+{'com.joybits.doodledevil_hd_pay': ['Doodle Devil™ HD', '7135733556799147524', '10,000+', 'http://www.joybits.org', 'support@joybits.org']}
+{'com.fourquarters.PleaseDontTouchAnything': ["Please, Don't Touch Anything", 'ForwardXP', '50,000+', 'https://www.forwardxp.com', 'support@forwardxp.com']}
+{'jp.oniongames.hotel': ['Million Onion Hotel', 'Onion+Games+K.K.', '10,000+', 'http://oniongames.jp/milliononionhotel/', 'onion_salad@oniongames.jp']}
+{'com.senri.da': ["Devil's Attorney", 'Senri', '100,000+', 'http://www.1337gamedesign.com/devil/', 'android@senri.se']}
+{'com.squareenixmontreal.deusexgo': ['Deus Ex GO', 'SQUARE+ENIX+LTD', '100,000+', 'http://www.square-enix.com/eng/', 'mobile-support@eu.square-enix.com']}
+{'com.tomorrowcorporation.humanresourcemachine': ['Human Resource Machine', 'Tomorrow+Corporation', '10,000+', 'http://tomorrowcorporation.com/humanresourcemachine', 'contact@tomorrowcorporation.com']}
+{'com.twodboy.worldofgoofull': ['World of Goo', '2D+BOY', '500,000+', 'http://2dboy.com/', 'androidsupport@2dboy.com']}
+{'com.eightyeightgames.tenmillion': ['10000000', '6823404764101374014', '100,000+', 'http://www.eightyeightgames.com', 'luca@eightyeightgames.com']}
+{'air.air.SugarSugar': ['sugar, sugar', 'Bart+Bonte', '50,000+', 'https://bartbonte.com/', 'bontegames@gmail.com']}
+{'com.nosignalproductions.legacytwo': ['Legacy 2 - The Ancient Curse', 'No+Signal+Productions', '10,000+', 'https://nosignalproductions.com/', 'nosignalproductionsinc@gmail.com']}
+{'com.kiragames.unblockme': ['Unblock Me Premium', '4638996833280920077', '50,000+', 'http://www.kiragames.com', 'support@kiragames.com']}
+{'com.bluewizard.slayawaycamp': ['Slayaway Camp', '8703188444820901409', '50,000+', 'http://www.slayawaycamp.com', 'slayawaycamp@bluewizard.com']}
+{'com.hiddenvariable.bagit': ['Bag It!', '7043377621505901186', '50,000+', 'http://www.hiddenvariable.com/', 'bagit@hiddenvariable.com']}
+{'com.brainium.sudoku': ['Sudoku+', '9200952197196338626', '10,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'mindware.mindgamespro': ['Mind Games Pro', '4963031299399508227', '500,000+', 'http://mindgames.mindware.mobi/', 'support@mindware.mobi']}
+{'com.icenta.sudoku': ['Sudoku Premium', 'genina.com', '100,000+', 'http://www.genina.com', 'sudoku@genina.com']}
+{'com.kevinbradford.games.theguides': ['The Guides', '7324901894058820362', '10,000+', 'http://theguidesapp.com/', 'info@theguidesapp.com']}
+{'com.mediocre.sprinkle2': ['Sprinkle Islands', 'Mediocre', '100,000+', 'http://www.sprinklegame.com', 'sprinkle.islands@mediocre.se']}
+{'com.rac7.DarkEcho': ['Dark Echo', 'RAC7', '100,000+', 'http://www.rac7.com', 'contact@rac7.com']}
+{'com.firemaplegames.thelostcity': ['The Lost City', 'Fire+Maple+Games', '100,000+', 'http://www.firemaplegames.com', 'joe@firemaplegames.com']}
+{'com.hamsteroncoke.scalak': ['Scalak', 'Hamster+On+Coke+Games', '10,000+', 'http://hamsteroncoke.com', 'omx.jonson@gmail.com']}
+{'com.mobcast.lwt.global': ['LUMINES PUZZLE & MUSIC', 'mobcast', '5,000+', 'https://lumines.game/en/', 'lumines@support.mobcast.jp']}
+{'com.FantasticYes.Returner77': ['Returner 77', 'Fantastic,+yes', '10,000+', 'http://fantasticyes.com/', 'support@fantasticyes.com']}
+{'com.mediocre.sprinkle': ['Sprinkle', 'Mediocre', '100,000+', 'http://www.sprinklegame.com', 'sprinkle@mediocre.se']}
+{'air.com.eyezmaze.GROWPACKvol1': ['GROW PACK Vol.1', '5028545197936795641', '10,000+', 'http://www.eyezmaze.com/', 'eyezmaze@gmail.com']}
+{'Draziw.NoAds.Mines': ['Minesweeper AdFree', 'Evgeny+Karavashkin', '10,000+', 'https://github.com/Karavanych/articleMaze/blob/master/MinesweeperPrivacy', 'e.karavashkin@googlemail.com']}
+{'com.shoecakedroid.RandomMahjongPro': ['Random Mahjong Pro', '4701103535581775979', '50,000+', 'http://www.shoecakedroid.com', 'paul@shoecakedroid.com']}
+{'com.steelcrategames.keeptalkingandnobodyexplodes': ['Keep Talking & Nobody Explodes', 'Steel+Crate+Games,+Inc.', '10,000+', 'http://www.keeptalkinggame.com', 'support@keeptalkinggame.com']}
+{'com.lonewolfgames.enchantedbooks': ['The Enchanted Worlds', 'Syntaxity', '10,000+', 'http://syntaxity.com', 'support@syntaxity.com']}
+{'com.hamsteroncoke.zenge': ['Zenge', 'Hamster+On+Coke+Games', '500,000+', 'http://hamsteroncoke.com', 'omx.jonson@gmail.com']}
+{'br.com.mothergaia.sweepergenius': ['Minesweeper Genius', 'mgaia+studio', '1,000+', 'http://www.mgaia.com.br', 'diretoria@mgaia.com.br']}
+{'com.circusatos.zviratka': ['Under Leaves', '5268755458235428172', '1,000+', 'http://www.circusatos.com', 'info@circusatos.com']}
+{'com.matchgems.fantasy_mosaics_33': ["Fantasy Mosaics 33: Inventor's Workshop", '6718763145733666817', '50+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.Amrita.RiddlordConsequence': ['Riddlord: The Consequence', 'Amrita+Studio', '5,000+', 'https://amrita.studio/', 'support@amrita.studio']}
+{'vo.threes.exclaim': ['Threes!', 'Sirvo+llc', '100,000+', 'http://threesgame.com/', 'threes@hiddenvariable.com']}
+{'com.NoumenonGames.SnakeBird_Touch_Primer': ['Snakebird Primer', 'Noumenon+Games', '100+', 'http://noumenongames.com', 'info@noumenongames.com']}
+{'com.rt.hook': ['Hook', '7949958676360116567', '500,000+', 'http://playthehook.com', 'maciej@rainbowtrain.eu']}
+{'com.ianmaclarty.dissembler': ['Dissembler', 'Ian+MacLarty', '1,000+', 'http://www.dissembler-game.com', 'ian@ianmaclarty.com']}
+{'com.alawar.treasuresofmontezuma3full': ['Treasures of Montezuma 3. True Match-3 Game.', '8807757752657588254', '50,000+', 'http://www.alawar.com', 'mobile.support@alawar.com']}
+{'com.firemaplegames.joe.Mosaika_iOS': ['The Hidden World', 'Fire+Maple+Games', '50,000+', 'http://www.firemaplegames.com', 'joe@firemaplegames.com']}
+{'com.crazyowl.MagnetBallsProNoAds': ['Magnet Balls Pro', '8626125173664403696', '10,000+', 'https://www.facebook.com/MagnetBallsGame', 'crazyowlgames@gmail.com']}
+{'com.digidiced.pxwrelease': ['Patchwork The Game', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/patchwork/', 'support@asmodee.net']}
+{'mindware.minegamespro': ['Minesweeper Pro - Mine Games', '4963031299399508227', '500,000+', 'https://www.facebook.com/minesweepergame/', 'support@mindware.mobi']}
+{'com.crazyowl.MagnetBalls2': ['Magnet Balls 2', '8626125173664403696', '10,000+', 'https://www.facebook.com/MagnetBallsGame', 'crazyowlgames@gmail.com']}
+{'air.air.FactoryBalls': ['factory balls', 'Bart+Bonte', '10,000+', 'https://bartbonte.com', 'bontegames@gmail.com']}
+{'com.noodlecake.framed2': ['FRAMED 2', '9078867188205035581', '10,000+', 'http://www.noodlecake.com', 'support+framed2@noodlecake.com']}
+{'com.studiopango.pangoBlocks': ['Pango Blocks', '5656437925259438538', '5,000+', 'http://www.studio-pango.com', 'pango@studio-pango.com']}
+{'com.Polyculture.Prune': ['Prune', '6605149458531625443', '100,000+', 'http://www.prunegame.com', 'support@prunegame.com']}
+{'com.joybits.doodlekingdom': ['Doodle Kingdom', '7135733556799147524', '10,000+', 'http://www.doodlegod.com', 'support@joybits.org']}
+{'com.noodlecake.framed': ['FRAMED', '9078867188205035581', '100,000+', 'http://www.noodlecake.com/games/framed/', 'support+framed@noodlecake.com']}
+{'org.Roccat.VR.DD.Ettm': ['Elevator... to the Moon!', 'ROCCAT+Games+Studio', '500+', 'http://www.elevator-tothemoon.com', 'info@roccat.games']}
+{'com.onlinico.rubeslabpro': ["Rube's Lab PRO Physics Puzzle", 'Bouland+Games', '5,000+', 'https://www.facebook.com/rubeslab', 'hello@rubeslab.com']}
+{'jp.co.taito.bustamovejourney': ['BUST-A-MOVE JOURNEY', 'TAITO+Corporation', '1,000+', 'http://www.taito.co.jp', 'Appsupport@taito.co.jp']}
+{'com.grapefrukt.games.rymdkapsel1': ['rymdkapsel', '6622219867954877973', '10,000+', 'http://grapefrukt.com', 'support@grapefrukt.com']}
+{'com.IvanKovalov.G30Android': ['G30 - A Memory Maze', '5667680947462572638', '1,000+', 'https://goo.gl/forms/qNunZSXJ1jtI98Xw2', 'support@g30game.com']}
+{'com.bentostudio.unworded': ['unWorded', '4837874412965097235', '1,000+', 'http://www.bento-studio.com', 'contact@bento-studio.com']}
+{'com.nitrome.icebreaker': ['Icebreaker: A Viking Voyage', '7081306527254237283', '10,000+', 'http://www.nitrome.com', 'enquiries@nitrome.com']}
+{'com.redfishgame.isolandEN': ['Isoland', '6908682433797376649', '10,000+', 'http://www.cottongame.com', 'contact@cottongame.com']}
+{'com.rac7.SplitterCritters': ['Splitter Critters', 'RAC7', '5,000+', 'http://www.rac7.com', 'contact@rac7.com']}
+{'com.onecwireless.mahjong.full': ['Mahjong (Full)', '6755703714885710635', '10,000+', 'http://www.1cmobile.com', 'support@1cwireless.com']}
+{'com.alawar.treasuresofmontezuma4.gplay.premium': ['The Treasures Of Montezuma 4.  Match-3 Game', '8807757752657588254', '10,000+', 'http://www.alawar.com', 'mobile.support@alawar.com']}
+{'com.distinctdev.tmt2': ['The Moron Test 2', '5298051161612926308', '50,000+', 'http://www.distinctdev.com', 'info+android@distinctdev.com']}
+{'yio.tro.bleentoro_pro': ['Bleentoro Pro', 'Yiotro', '1,000+', None, 'yiotro93@gmail.com']}
+{'com.noodlecake.trainyard': ['Trainyard', '9078867188205035581', '10,000+', 'http://www.noodlecake.com', 'support+android@noodlecake.com']}
+{'magory.mahjongpremium': ['Mahjong Premium', '8449607902088672269', '10,000+', None, 'tomasz.kucza@gmail.com']}
+{'com.onemanband.thesequence': ['the Sequence', '6409407918589376367', '10,000+', 'http://ombgames.com', 'umaksimus300@gmail.com']}
+{'com.daveandava.puzzle': ['Farm Animals Puzzle by Dave and Ava', '8764644744753830693', '5,000+', 'https://www.youtube.com/daveandava', 'app@daveandava.com']}
+{'com.escalationstudios.nuke': ["Please Don't Touch Anything 3D", 'ForwardXP', '5,000+', 'http://www.forwardxp.com', 'support@forwardxp.com']}
+{'com.onemanband.thesequence2': ['the Sequence [2]', '6409407918589376367', '1,000+', 'http://ombgames.com/', 'umaksimus300@gmail.com']}
+{'com.TheHohngCompany.Cubistry': ['Cubistry', 'Hohng+LLC', '10,000+', 'http://hohng.com', 'thehohngcompany@gmail.com']}
+{'com.enjoysudoku.enjoysudoku': ['Enjoy Sudoku', 'Jason+Linhart', '50,000+', 'http://www.enjoysudoku.com/', 'jason@enjoysudoku.com']}
+{'com.rt.upleftout': ['Up Left Out', '7949958676360116567', '50,000+', 'http://upleftout.com', 'maciej@rainbowtrain.eu']}
+{'com.grapefrukt.games.twofold': ['twofold inc.', '6622219867954877973', '5,000+', 'http://grapefrukt.com', 'support@grapefrukt.com']}
+{'com.lilithgame.isoland2.gpen': ['Isoland 2: Ashes of Time', '6526849192653249949', '5,000+', 'http://www.lilithgames.com/privacy_lilith.html', 'isoland2service@lilithgames.com']}
+{'com.echolake.daveysmystery2': ["Davey's Mystery 2", 'Echo+Lake+Interactive', '10,000+', 'http://www.echolakeinteractive.com/', 'echolakeinteractive@gmail.com']}
+{'com.radiangames.slydris2': ['Slydris 2', 'Radiangames', '100+', 'http://radiangames.com', 'info@radiangames.com']}
+{'com.yewl.wordsassistant': ['Words Assistant', 'Yewl+Technologies', '100+', 'http://www.yewl.com/wordsassistant', 'support@yewl.com']}
+{'org.anddev.android.solfa': ['1 learn sight read music notes - piano sheet tutor', 'ngfSoft', '10,000+', 'https://sites.google.com/site/learnsightreadingmusicnotes/home', 'solfahome@gmail.com']}
+{'air.com.winterdust.jezzballclassic': ['JezzBall Classic', 'Winterdust', '5,000+', 'http://www.winterdust.com/', 'contact@winterdust.com']}
+{'com.hyperbeard.drmeep': ['DR.MEEP', 'HyperBeard', '1,000+', 'https://hyperbeard.com/game/drmeep/', 'hola@hyperbeard.com']}
+{'com.applabs.puzzlepro': ['Math Puzzles Pro', 'applabs', '1,000+', 'http://www.applabs.co.in', 'amapp2412@gmail.com']}
+{'com.toystudio.thecurse': ['The Curse', 'Toy+Studio+Media+Corporation', '100,000+', 'http://www.thecursegame.com', 'community@toystudio.com']}
+{'com.ArteExperience.HomoMachina': ['Homo Machina', 'ARTE+Experience', '5,000+', 'http://homomachina.arte.tv/', 'contact@darjeelingprod.com']}
+{'com.noodlecake.vignettes': ['Vignettes', '9078867188205035581', '1,000+', 'http://www.noodlecake.com/games/vignettes/', 'support+vignettes@noodlecake.com']}
+{'com.mythicowl.hexologic': ['Hexologic', '5555280587639828558', '1,000+', 'http://www.mythicowl.com', 'contact@mythicowl.com']}
+{'com.cosmicexpressgame': ['Cosmic Express', 'Draknek', '5,000+', 'https://cosmicexpressgame.com', 'hello@cosmicexpressgame.com']}
+{'com.onecwireless.mahjong3.google.full': ['Mahjong 3 (Full)', '6755703714885710635', '10,000+', 'http://www.1cmobile.com', 'support@1cwireless.com']}
+{'org.hostedgames.paradoxfactor': ['Paradox Factor', 'Hosted+Games', '1,000+', 'http://www.choiceofgames.com/', 'support-paradoxfactor-gp@hostedgames.org']}
+{'com.avokiddo.games.thinkrolls_kings_and_queens_full': ['Thinkrolls Kings & Queens - Full', '6764088955104110890', '1,000+', 'http://www.avokiddo.com', 'hello@avokiddo.com']}
+{'kb.Blek': ['Blek', 'kunabi+brother', '100,000+', 'http://blekgame.com', 'android@kunabi-brother.com']}
+{'com.martinmagni.mekorama.vr': ['Mekorama VR', 'Martin+Magni', '5,000+', 'http://www.mekorama.com/', 'support@martinmagni.com']}
+{'com.joybits.doodlecreatures': ['Doodle Creatures', '7135733556799147524', '10,000+', 'http://www.joybits.org', 'support@joybits.org']}
+{'com.nexonm.aftertheend': ['After the End: Forsaken Destiny', '6133955275329314641', '10,000+', 'https://nexonm.com', 'support@nexonm.com']}
+{'com.shadywillow.wordsearchsolver': ['Word Search Solver', 'Shady+Willow+Entertainment', '500+', 'http://www.facebook.com/shady.willow', 'andrewmtree@gmail.com']}
+{'air.com.bartbonte.whereiscat': ['Where is cat?', 'Bart+Bonte', '1,000+', 'https://bartbonte.com', 'bontegames@gmail.com']}
+{'com.doublespeakgames.gridland': ['Super Gridland', 'doublespeak+games', '1,000+', 'http://www.doublespeakgames.com', 'michael@doublespeakgames.com']}
+{'com.gabysoft.flippixcountrylife': ['FlipPix Art - Country Life', 'GabySoft', '500+', 'http://gabysoft.com', 'support@gabysoft.com']}
+{'com.minorityvr.theotherroom': ['The Other Room', 'Minority+Media+VR+Inc.', '1,000+', 'http://www.theotherroomvr.com', 'support@weareminority.com']}
+{'com.alawar.hauntedlegendsundertaker.gplay.premium': ['Haunted Legends.The Undertaker', '8807757752657588254', '1,000+', 'http://www.alawar.com', 'android.support@alawar.com']}
+{'com.alawar.TwistedLandsOrigin.Full': ['Twisted Lands: Origin', '8807757752657588254', '10,000+', 'http://www.alawar.com', 'mobile.support@alawar.com']}
+{'com.mediocre.sprinklejunior': ['Sprinkle Junior', 'Mediocre', '10,000+', 'http://www.sprinklegame.com/junior', 'sprinkle.junior@mediocre.se']}
+{'com.speedAnatomy.speedAnatomyAdsFree': ['Speed Anatomy (No ads)', 'Benoit+Essiambre', '5,000+', 'http://speedanatomy.com/', 'b.essiambre@gmail.com']}
+{'com.necrosoftgames.gunhouse': ['Gunhouse', '8611545748941221083', '1,000+', 'http://necrosoftgames.com', 'support@necrosoftgames.com']}
+{'com.gabysoft.flippixholiday': ['FlipPix Art - Holidays', 'GabySoft', '500+', 'http://gabysoft.com', 'support@gabysoft.com']}
+{'com.joybits.doodledevil_pay': ['Doodle Devil™', '7135733556799147524', '50,000+', 'http://www.doodlegod.com%20', 'support@joybits.org']}
+{'com.marcdonaldson.wordhelperadfree': ['Scrabble Word Helper Ad Free', 'Keith+Games', '1,000+', 'http://www.keithgames.com', 'support@keithgames.com']}
+{'com.alawar.CruelGames.Full': ['Cruel Games: Red Riding Hood. Hidden Object Game', '8807757752657588254', '10,000+', 'http://www.alawar.com', 'mobile.support@alawar.com']}
+{'se.filimundus.pideluxe': ["Pettson's Inventions Deluxe", 'Filimundus+AB', '10,000+', 'http://www.filimundus.se', 'support@filimundus.se']}
+{'com.kpixgames.PathPixStd': ['PathPix', 'Kris+Pixton', '10,000+', 'http://www.kpixgames.com', 'krispixton@gmail.com']}
+{'com.larvalabs.gurk3': ['Gurk III, the 8-bit RPG', 'Larva+Labs+Ltd.', '10,000+', 'http://larvalabs.com', 'support@larvalabs.com']}
+{'com.onegravity.sudoku.sudoku10kplus': ["Sudoku 10'000 Plus", '7673039342930938016', '10,000+', 'http://www.1gravity.com', 'appsupport@1gravity.com']}
+{'com.robotacid.Bump2': ['Bump 2', 'Aaron+Steed', '1+', 'http://robotacid.com', 'acid@robotacid.com']}
+{'com.matchgems.fantasy_mosaics_32': ["Fantasy Mosaics 32: Santa's Hut", '6718763145733666817', '100+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.sfbgames.MarchingOrder': ['Marching Order', 'SFB+Games', '100+', 'http://www.sfbgames.com', 'tom@sfbgames.com']}
+{'com.littleApple.PuzzleAnimalsPRO_Children_Puzzle_For_Kids_Pets': ['Children Puzzle for Kids Pets PRO: Box 2D & Slices', 'little+apple', '10+', 'http://sh190319.website.pl/PrivacyPolicy/policy_puzzlePRO.pdf', 'beplayer.team@gmail.com']}
+{'net.learnworkplay.rolltothetop': ['Roll to the Top', 'LearnWorkPlay+Games+LLC', '50+', 'http://learnworkplay.net', 'learnworkplaygames@gmail.com']}
+{'com.LozengeLabs.TheForge2': ['The Forge - Puzzle RPG', 'Lozenge+Labs', '10+', 'https://forge-website.herokuapp.com/', 'Lozengelabs@gmail.com']}
+{'com.dtbgames.shapeuku': ['Shapeuku - Shape Puzzle Game', 'DTBGames', '500+', 'https://www.freeprivacypolicy.com/privacy/view/6d08fd4a49b68933768984bc62eef766', 'dtbgamestudio@gmail.com']}
+{'com.matchgems.fantasy_mosaics_29': ['Fantasy Mosaics 29: Alien Planet', '6718763145733666817', '100+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.delete.pony': ['Delete', 'Shuchang+Ma', '100+', None, '851401160@qq.com']}
+{'com.szinteractive.GoBotix': ['GoBotix', '8176618143157769635', '100,000+', 'https://www.facebook.com/szinteractive/posts/1072158752965191', 'akguldeniz@gmail.com']}
+{'com.abc.memory.match.kids': ['ABC Memory Match', 'Dodiapps', '5,000+', 'http://dodiapps.com/', 'info@dodiapps.com']}
+{'com.sinkingship.dinoexhibit': ['Dino Dana - Dino Exhibit', 'Sinking+Ship+Interactive', '50+', 'http://www.sinkingship.ca', 'gamesupport@sinkingship.ca']}
+{'com.LightrayGames.Prism': ['Prism', 'Lightray+Games', '10+', None, 'lightraygames@gmail.com']}
+{'com.DarongStudio.Colorzzle': ['Colorzzle', '8860479613483296744', '100,000+', 'http://colorzzle.com', 'vanishing999@hanmail.net']}
+{'com.landsharkgames.monstercandy.android': ['Monster Candy', '8930875377393121766', '100+', 'http://www.LandSharkGames.com/', 'monstercandy@landsharkgames.com']}
+{'com.lozangelab.swimout.googleplay': ['Swim Out', '4944786559036105012', '1,000+', 'http://www.swim-out.com', 'support@lozange-lab.com']}
+{'com.matchgems.fantasy_mosaics_23': ['Fantasy Mosaics 23: Magic Forest', '6718763145733666817', '500+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.sun.pyramid': ["YANKAI'S PEAK.", 'Kenny+Sun', '100+', 'http://yankaispeak.com', 'kenny.y.sun@gmail.com']}
+{'com.chronobit.lunaform': ['Lunaform', 'Chronobit+Studios', '100+', 'http://chronobit.com/', 'jlindsey@chronobit.com']}
+{'net.lightwood.SudokuParty': ['Sudoku Party', 'Lightwood+Games', '50+', 'http://www.lightwoodgames.com', 'support@lightwoodgames.com']}
+{'com.sun.yankaistriangle': ["YANKAI'S TRIANGLE", 'Kenny+Sun', '1,000+', 'http://yankaistriangle.com', 'kenny.y.sun@gmail.com']}
+{'com.matchgems.fantasy_mosaics_19': ['Fantasy Mosaics 19: Edge of the World', '6718763145733666817', '500+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.gabysoft.flippixlavender': ['FlipPix Jigsaw - Lavender', 'GabySoft', '100+', 'http://gabysoft.com/GamesFlipPix.aspx', 'support@gabysoft.com']}
+{'com.kpixgames.PathPixArt': ['PathPix Art', 'Kris+Pixton', '1,000+', 'http://www.kpixgames.com', 'krispixton@gmail.com']}
+{'com.gabysoft.flippixglaciers': ['FlipPix Jigsaw - Glaciers', 'GabySoft', '500+', 'http://gabysoft.com/GamesFlipPix.aspx', 'support@gabysoft.com']}
+{'com.Hohng.Catistry2': ['Catistry 2', 'Hohng+LLC', '100+', 'http://hohng.com', 'thehohngcompany@gmail.com']}
+{'com.clintsiu.prism': ['_PRISM', 'Clint+Siu', '50,000+', 'http://clintsiu.com', 'clint@clintsiu.com']}
+{'com.gabysoft.flippixagate': ['FlipPix Jigsaw - Agate', 'GabySoft', '500+', 'http://gabysoft.com/GamesFlipPix.aspx', 'support@gabysoft.com']}
+{'com.errorsevendev.games.lB2Pro': ['LASERBREAK 2 Pro', 'errorsevendev', '100,000+', 'http://www.playlaserbreak.com', 'apexcreativegames@gmail.com']}
+{'com.gamedigits.DreamMachineAndroid': ['Dream Machine - The Game', 'GameDigits+Ltd', '10,000+', 'http://www.GameDigits.co.uk', 'GameDigits@GameDigits.co.uk']}
+{'net.radle.unblock3d.premium': ['Unblock 3D Premium', 'Radle+Games', '100+', 'http://radle.net/', 'budagov.eldar@gmail.com']}
+{'com.matchgems.fantasy_mosaics_14': ['Fantasy Mosaics 14: Fourth Color', '6718763145733666817', '500+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.gabysoft.flippixmall': ['FlipPix Art - Mall', 'GabySoft', '100+', 'http://gabysoft.com/GamesFlipPix.aspx', 'support@gabysoft.com']}
+{'com.gabysoft.flippixsibs': ['FlipPix Jigsaw - Sibs', 'GabySoft', '500+', 'http://gabysoft.com/GamesFlipPix.aspx', 'support@gabysoft.com']}
+{'com.matchgems.fantasy_mosaics_13': ['Fantasy Mosaics 13: Unexpected Visitor', '6718763145733666817', '500+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.bigfishgames.cspingoogfull': ['Christmas Stories: Puss in Boots (Full)', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.oak.braintrainerandroid': ['Brain Trainer', 'Oak+Games+Ltd', '10+', 'http://www.oakgames.co.uk', 'dave@oakgames.co.uk']}
+{'com.oak.sudokuworks': ['Sudoku Works', 'Oak+Games+Ltd', '100+', 'http://www.oakgames.co.uk', 'support@oakgames.co.uk']}
+{'com.alawar.panopticon.gplay.premium': ['Panopticon: Path of Reflection', '8807757752657588254', '500+', 'http://www.alawar.com', 'android.support@alawar.com']}
+{'air.BeastDuelled': ['Beast Duelled', '53xy83457', '50+', 'http://53xy83457.com/', 'dan@53xy83457.com']}
+{'com.microids.HdOv3.HdOFBI2.full': ['Secret Case (FULL)', 'Anuman', '100+', 'http://www.anuman-interactive.com', 'amilly@anuman.fr']}
+{'com.inneractstudio.picture.puzzles.cats.kittens': ['Tap & Turn: Cats & Kittens', 'InnerAct+Studio,+LLC', '1+', 'http://elearn.inneractstudio.com/privacy-policy.html', 'admin@inneractstudio.com']}
+{'com.inneractstudio.picture.puzzles.dogs.puppies': ['Tap & Turn: Dogs & Puppies', 'InnerAct+Studio,+LLC', '1+', 'http://elearn.inneractstudio.com/privacy-policy.html', 'admin@inneractstudio.com']}
+{'net.artificialworlds.rabbitescape': ['Rabbit Escape', 'Andy+Balaam', '100+', 'http://www.artificialworlds.net/rabbit-escape', 'rabbitescape@artificialworlds.net']}
+{'com.TheHohngCompany.Birdistry': ['Birdistry', 'Hohng+LLC', '100+', 'http://hohng.com', 'thehohngcompany@gmail.com']}
+{'com.microids.peterandwendy': ['Peter & Wendy in Neverland', 'Anuman', '100+', 'http://www.anuman-interactive.com', 'amilly@anuman.fr']}
+{'com.matchgems.fantasy_mosaics_10': ['Fantasy Mosaics 10: Time Travel', '6718763145733666817', '500+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.hamsterrepublic.traducer': ['Paladin Traducer', 'Hamster+Republic', '50+', 'http://james.HamsterRepublic.com/', 'Bob@HamsterRepublic.com']}
+{'com.joybits.doodletanks': ['Doodle Tanks™', '7135733556799147524', '1,000+', 'http://www.joybits.org', 'support@joybits.org']}
+{'com.inneractstudio.tapturnnature': ['Tap & Turn: Nature', 'InnerAct+Studio,+LLC', '1+', 'http://www.inneractstudio.com', 'admin@inneractstudio.com']}
+{'com.littlethingie.outsideworld': ['Outside World', '4993327952548252857', '5,000+', 'http://littlethingie.com', 'developer@littlethingie.com']}
+{'mystic.isle2': ['Mystic Island II', 'Maxelo', '500+', 'http://www.sprattusmontis.de', 'maxelo007@googlemail.com']}
+{'com.inertiasoftware.margravemanor': ['Secret of Margrave Manor', '8067421150984452247', '100+', 'http://www.inertiasoftware.com', 'contact@inertiasoftware.com']}
+{'net.pyrosphere.riddle4': ['A Final Year of Riddles', '5938698410549635800', '100+', 'http://pyrosphere.net/riddles/', 'support+riddles4-play@pyrosphere.net']}
+{'com.kpixgames.PathPixLove': ['PathPix Love', 'Kris+Pixton', '1,000+', 'http://www.kpixgames.com', 'krispixton@gmail.com']}
+{'by.ibn.lyfoes': ['Lyfoes', '8829551191789162562', '1,000+', 'http://www.lyfoes.com', 'support@lyfoes.com']}
+{'com.gabysoft.flippixparksgardens': ['FlipPix Art - Parks & Gardens', 'GabySoft', '500+', 'http://gabysoft.com', 'jgaby@gabysoft.com']}
+{'com.gabysoft.flippixnotes': ['FlipPix Jigsaw - Notes', 'GabySoft', '100+', 'http://gabysoft.com', 'support@gabysoft.com']}
+{'com.gabysoft.hexsawwildride': ['HexSaw - Wild Ride', 'GabySoft', '10+', 'http://gabysoft.com', 'support@gabysoft.com']}
+{'com.aragosoft.blueblock': ['Blue Block (Unblock game)', 'Aragosoft+inc.', '500+', 'http://aragosoft.com', 'support@aragosoft.com']}
+{'com.mtvn.spongebobfrozenfaceoffHD': ['Spongebob Frozen Face Off HD', 'Nickelodeon', '500+', 'http://nick.com/appsupport/', 'appsupport@nick.com']}
+{'com.infinitepossibilitygames.catholicmatch': ['Catholic Match', 'Infinite+Possibility+Games', '10+', 'http://www.infinitepossibilitygames.com', 'support@infinitepossibilitygames.com']}
+{'com.microids.HdOv25.HdOXIII.full': ['XIII - Lost Identity HD (full)', 'Anuman', '1,000+', 'http://www.anuman-interactive.com', 'support@anuman.fr']}
+{'com.jaysquared.games.whereishd.release': ['Where is that? HD Geo Quiz', 'Jaysquared', '5,000+', 'http://www.jaysquared.com', 'info@jaysquared.com']}
+{'net.zomis.tejpbit.mfe': ['Minesweeper Flags Extreme', 'Simon+Forsberg', '100+', 'http://www.minesweeperflags.net', 'zomisforsberg@gmail.com']}
+{'com.microids.HdOv25.HdO3Musketeers.full': ['The Three Musketeers HD (full)', 'Anuman', '1,000+', 'http://www.anuman-interactive.com', 'support@anuman.fr']}
+{'com.gabysoft.hexlogicsteps': ['HexLogic - Steps', 'GabySoft', '100+', 'http://gabysoft.com', 'support@gabysoft.com']}
+{'com.downplaygames.curseofanubis': ['Curse of Anubis', 'Downplay+Games', '10+', 'http://www.downplaygames.com', 'downplaygames@gmail.com']}
+{'com.black.sushi.studios.hangul_match': ['Hangul Match', 'Black+Sushi+Studios', '100+', 'http://www.blacksushistudios.com', 'support@blacksushistudios.com']}
+{'com.radiangames.slydris': ['Slydris', 'Radiangames', '5,000+', 'http://radiangames.com', 'info@radiangames.com']}
+{'com.microids.HdOv25.HdOVatican.full': ['Secrets of the Vatican (full)', 'Anuman', '1,000+', 'http://www.anuman-interactive.com', 'support@anuman.fr']}
+{'com.mylesandayesha.BlackInventorsMatchGame': ['Black Inventors MatchGame FULL', 'Uplift,+Inc.', '50+', 'http://www.mylesandayesha.com', 'matchgame@mylesandayesha.com']}
+{'org.sudokuwiki.sudokusolver': ['SudokuWiki Solver', 'Syndicated+Puzzles', '1,000+', 'http://www.sudokuwiki.org', 'andrew@str8ts.com']}
+{'com.greencod.snood2013': ['Snood', 'Snood,+LLC', '10,000+', 'http://snood.com', 'jeff@snood.com']}
+{'net.graphilogic.puzzlepack.g15x10': ['GraphiLogic "15x10" Puzzles', 'GraphiLogic.net', '1,000+', 'http://www.graphilogic.net', 'support@graphilogic.net']}
+{'com.shoecakedroid.ImperialMahjongPro': ['Imperial Mahjong Pro', '4701103535581775979', '1,000+', 'http://www.shoecakedroid.com', 'paul@shoecakedroid.com']}
+{'com.elevenbitstudios.SleepwalkersJourneyHD': ["Sleepwalker's Journey", '7328836074120817235', '50,000+', 'http://www.11bitstudios.com', 'androidsupport@11bitstudios.com']}
+{'mystic.isle': ['Mystic Island', 'Maxelo', '1,000+', 'http://www.sprattusmontis.de', 'maxelo007@gmail.com']}
+{'com.threedmethods.cryptickingdomshd': ['Cryptic Kingdoms HD', '3D+Methods', '10,000+', 'http://www.3dmethods.com', '3dmethodsgames@gmail.com']}
+{'com.kirson.adfree.bubblebreaker': ['Bubble Breaker AdFree', '7705253489212730575', '500+', 'http://kirson.info', 'besvipru@gmail.com']}
+{'net.pyrosphere.riddle2': ['Another Year of Riddles', '5938698410549635800', '1,000+', 'http://pyrosphere.net/riddles/', 'support+riddles2-play@pyrosphere.net']}
+{'com.smartgameslive.titanichd': ['Titanic by SmartGames', 'SmartGames+Live+Inc.', '500+', 'http://www.smartgames.eu', 'apps@smartgameslive.com']}
+{'com.matchgems.fantasy_mosaics_30': ['Fantasy Mosaics 30: Camping Trip', '6718763145733666817', '100+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.hybriona.lateralpuzzlesfull': ['Lateral Puzzles X Complete Series : Brain Teaser', '5182984968643463085', '10+', 'http://www.hybriona.com', 'rjproz@gmail.com']}
+{'com.forwardxp.nuke.daydream': ["Please, Don't Touch Anything VR", 'ForwardXP', '100+', 'http://forwardxp.com', 'support@forwardxp.com']}
+{'com.matchgems.fantasy_mosaics_27': ['Fantasy Mosaics 27: Secret Colors', '6718763145733666817', '500+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.tommysoereide.NoMoreButtons': ['No More Buttons', 'Tommy+S%C3%B8reide+Kj%C3%A6r', '500+', 'https://www.tommysoereide.com/projects/#/nomorebuttons/', 'tommy.soereide@gmail.com']}
+{'com.hunt2k.jurassicFreeFallUnlokced': ['Jurassic Free Fall Unlocked - Match 3', '6136326425741529614', '5+', 'https://jurassicapps.com', 'support@jurassicapps.com']}
+{'com.roguesnail.starvikings': ['Star Vikings Forever', 'Akupara+Games', '10,000+', 'http://www.akuparagames.com/', 'support@akuparagames.com']}
+{'com.gabysoft.flippixretro': ['FlipPix Jigsaw - Retro', 'GabySoft', '100+', 'http://gabysoft.com/GamesFlipPix.aspx', 'support@gabysoft.com']}
+{'com.gabysoft.hexlogiclifeguard': ['HexLogic - Lifeguard', 'GabySoft', '50+', 'http://www.gabysoft.com/GamesHexLogic.aspx', 'support@gabysoft.com']}
+{'com.minikara.bubble.android.pro': ['Bubble King PRO: Shoot Bubbles', 'Giant_land', '100+', 'http://minikara.com', 'landgia@gmail.com']}
+{'com.JohnCullen.loopblack': ['LOOP BLACK', 'John+Cullen', '50+', 'http://loopthegame.com/', 'loopthegame@gmail.com']}
+{'com.hunt2k.AssvMumfreefallunlocked': ['Assassin Vs Mummies Unlocked - Match 3', '6136326425741529614', '5+', 'https://jurassicapps.com', 'support@jurassicapps.com']}
+{'com.hunt2k.wizardzombiefreefallunlocked': ['Wizard Vs Zombie Unlocked - Match 3', '6136326425741529614', '1+', 'https://jurassicapps.com', 'support@jurassicapps.com']}
+{'air.air.Drmzzz': ['Sweet Drmzzz', 'Bart+Bonte', '1,000+', 'https://bartbonte.com', 'bontegames@gmail.com']}
+{'air.com.permadi.mahjongHoliday2014Pro': ['Mahjong Holiday Joy II', 'F.+Permadi', '100+', 'http://permadi.com/apps/', 'permadi@permadi.com']}
+{'com.niffler.chuckschallenge3d': ["Chuck's Challenge 3D Ultra2016", '7748882896084752769', '1,000+', 'http://www.chuckschallenge.com/', 'hello@niffler.co.uk']}
+{'net.graphilogic.puzzlepack.sweet': ['GraphiLogic "Sweet" Puzzles', 'GraphiLogic.net', '1,000+', 'http://www.graphilogic.net', 'support@graphilogic.net']}
+{'com.gabysoft.hexlogicfans': ['HexLogic - Fans', 'GabySoft', '100+', 'http://gabysoft.com', 'support@gabysoft.com']}
+{'com.gabysoft.flippixwildlife': ['FlipPix Art - Wildlife', 'GabySoft', '1,000+', 'http://gabysoft.com', 'support@gabysoft.com']}
+{'com.puzzleboss.jigsaw.Cancun.google': ['Jigsaw Puzzles: Cancun', '5955420696073347638', '50+', 'http://puzzleboss.com', 'support@puzzleboss.com']}
+{'com.gnosoft.Vampir': ['V for Vampire', 'Cooler', '10,000+', 'http://xendex.com', 'dragos.cosmineanu@gmail.com']}
+{'air.com.permadi.easterMahjong2013': ['Easter Mahjong Tiles Full Edtn', 'F.+Permadi', '100+', 'http://permadi.com/apps/', 'permadi@permadi.com']}
+{'com.str8ts.full': ['Str8ts', 'Syndicated+Puzzles', '1,000+', 'http://www.str8ts.com', 'android@str8ts.com']}
+{'com.NostaticSoftware.QuietPleaseXmas': ['Quiet Christmas', 'Nostatic+Software', '1,000+', 'http://nostaticsoftware.com', 'contact@nostatic.org']}
+{'com.Invictus.GreedCorpMobilePaid': ['Greed Corp', '6144901434893121087', '5,000+', 'https://www.facebook.com/greedcorp.mobile', 'support@invictus.com']}
+{'com.gabysoft.flippixsimplepleasures': ['FlipPix Art - Simple Pleasures', 'GabySoft', '1,000+', 'http://gabysoft.com/GamesFlipPix.aspx', 'support@gabysoft.com']}
+{'com.entwicklerx.tapbloxadfree': ['Tap Blox Full', '7717518037355690562', '5,000+', 'http://www.entwickler-x.de', 'mail@entwickler-x.de']}
+{'com.uplayonline.traincrisis': ['Train Crisis Plus', '4879986113139967562', '50,000+', 'http://www.uplayonline.com', 'traincrisis@uplayonline.com']}
+{'com.inspiredandroid.twoplayerquizultimate': ['2 Player Quiz Pro', '6329838572979012158', '100,000+', 'http://schubert-simon.de', 'sschubert89@gmail.com']}
+{'com.momopi.persephone.premium': ['Persephone', '5963443096922659076', '100+', 'http://www.momo-pi.com/', 'reinhardt@momo-pi.com']}
+{'com.iq212.foursofnature': ['Fours Of Nature', 'iQ212+Inc.', '1+', 'https://sites.google.com/view/foursofnature/home', 'evildashducky@gmail.com']}
+{'air.MahJonggTilesSolitaire': ['Mah Jongg Tiles Solitaire', 'CleverMedia,+Inc.', '10+', 'http://clevermedia.com', 'rosenz@clevermedia.com']}
+{'com.caughtknee.tetravex': ['Tiny TetraVex', 'Courtney+Pitcher', '5+', 'https://igniparoustempest.github.io/androidprivacypolicies/TinyTetraVexPrivacyPolicy.html', 'cr.pitcher@gmail.com']}
+{'com.smgstudio.deathsquared': ['Death Squared', '8648499208878745563', '5,000+', 'http://www.smgstudio.com', 'support@smgstudio.com']}
+{'com.danijmn.cardinalchains': ['Cardinal Chains', 'Daniel+Nora', '1,000+', 'http://www.danijmn.com/cardinalchains/', 'support@danijmn.com']}
+{'com.CRISMACORCM.MAZE3DSQUAREEDITION': ['Maze 3D Square Edition', 'LabyrinthMGames', '0+', 'https://github.com/crismacorcm', 'labyrinthmgames@yahoo.com']}
+{'com.shodan9.Sioux': ['Sioux', '6233449607669806160', '1+', 'http://www.shodan9.com', 'jarek.r@shodan9.com']}
+{'com.b2a.newmathpuzzles': ['New Math Puzzles  for Geniuses 2019', '7030031070993210042', '100,000+', 'http://b2a.kz/', 'info@b2a.kz']}
+{'techmasterplus.bestsudokupaidapp': ['Sudoku Master PRO(No ads)', 'kersofts', '10,000+', 'http://techmasterplus.com', 'techmasterpluscontactus@gmail.com']}
+{'com.kpixgames.PathPixAlice': ['PathPix Alice', 'Kris+Pixton', '100+', 'http://www.kpixgames.com', 'krispixton@gmail.com']}
+{'com.niji.umbra.aol': ['Umbra: Amulet of Light', '6707589514981494067', '500+', 'http://www.nijigames.com', 'hello@nijigames.com']}
+{'com.matchgems.fantasy_mosaics_20': ['Fantasy Mosaics 20: Castle of Puzzles', '6718763145733666817', '500+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.binarywonders.app.electronia': ['electronia', 'BinaryWonders', '100+', 'http://www.binarywonders.com', 'team@binarywonders.com']}
+{'com.TaurusGames.MazeBall3D': ['Maze Ball 3D', '7337484498452458020', '5+', None, 'taurusgsolutions@gmail.com']}
+{'com.errorsevendev.games.hexasmashPro': ['HEXASMASH • Wrecking Ball Physics Puzzle', 'errorsevendev', '100,000+', 'http://www.hexasmash.com', 'apexcreativegames@gmail.com']}
+{'com.alawar.puppetshow.losttown.premium': ['Puppet Show: Lost Town', '8807757752657588254', '1,000+', 'http://www.alawar.com', 'android.support@alawar.com']}
+{'com.gabysoft.hexsawglaciers': ['HexSaw - Glaciers', 'GabySoft', '10+', 'http://gabysoft.com/GamesHexSaw.aspx', 'support@gabysoft.com']}
+{'com.gabysoft.flippixwalk': ['FlipPix Jigsaw - Walk', 'GabySoft', '500+', 'http://gabysoft.com/GamesFlipPix.aspx', 'support@gabysoft.com']}
+{'air.com.forestmoongames.microguegold': ['MicRogue Gold', '5022029875939675383', '10,000+', 'http://www.crescentmoongames.com', 'josh@crescentmoongames.com']}
+{'de.zielkes.sudokudojo.pro': ['Sudoku Dojo Pro', 'AzAndroiddev', '100+', None, 'az.androiddev@googlemail.com']}
+{'com.jal.wordsolver': ['Word Solver', 'InMySpareTime', '100+', None, 'appsinmysparetime@gmail.com']}
+{'com.blueyellowstudios.aliensmemory': ['Aliens Memory Match', 'Blue+Yellow+Studios', '0+', 'http://www.blueyellowstudios.com', 'info@blueyellowstudios.com']}
+{'com.TheHohngCompany.Mayastry': ['Mayastry', 'Hohng+LLC', '100+', 'http://hohng.com', 'thehohngcompany@gmail.com']}
+{'com.limongames.symbolics': ['Symbolics', 'Limon+Games', '100+', 'http://www.facebook.com/SymbolicsGame', 'kagdemir@gmail.com']}
+{'com.condetsoft.stackmatch2': ['StackMatch 2 Premium', '9084591258229155839', '10+', 'http://www.condetsoft.com/', 'support@condetsoft.com']}
+{'com.glitchgames.ferrismuellerhd': ["Ferris Mueller's Day Off -Wild West Adventure Game", '5339439688526437110', '1,000+', 'https://www.glitch.games', 'hey@glitchgames.co.uk']}
+{'com.clockworkpixels.mirrormixup': ['Mirror Mixup', 'Clockwork+Pixels', '50+', 'http://www.ClockworkPixels.com', 'Support@ClockworkPixels.com']}
+{'air.EscapeMysteryMansion': ['Escape Mystery Mansion', 'flash-bob', '1,000+', 'http://ankainfotech.in', 'kstvchttrj@gmail.com']}
+{'com.yellowdroid.toddlerwordspro': ['Toddler Words Plus', 'Andrzej+Gladkowski', '5,000+', 'https://sites.google.com/view/toddlergames4free/home', 'agladkowskidev@gmail.com']}
+{'com.cubezzle': ['Cubezzle', 'Jos%C3%A9+Luis+Costumero', '10+', 'http://cubezzle.site88.net/', 'jlcostumero@gmail.com']}
+{'air.com.secretbuilders.HiddenObjectGames.beautyandthebeast': ['Hidden Object: Beauty & Beast', 'SecretBuilders+Games', '1,000+', 'http://www.secretbuilders.com', 'fawad@secretbuilders.com']}
+{'air.com.secretbuilders.HiddenObjectGames.arabiannights': ['Hidden Object Arabian Nights', 'SecretBuilders+Games', '100+', 'http://www.secretbuilders.com', 'fawad@secretbuilders.com']}
+{'com.harris.wordcracker': ['Word Cheats', 'Harris+Studios', '100+', 'http://androidwordcheats.blogspot.com/', 'jojoshua@gmail.com']}
+{'com.gabysoft.hexlogicundersea': ['HexLogic - Undersea', 'GabySoft', '500+', 'http://gabysoft.com', 'support@gabysoft.com']}
+{'com.burncode.planetconundrum': ['Planet Conundrum', 'burncode', '10+', None, 'burncode.group@gmail.com']}
+{'com.crazydecigames.superbrainext': ['Super Brain Pro', '7646607831544007713', '10,000+', 'https://decipixelgames.blogspot.com', 'crazydecigames@gmail.com']}
+{'com.chikitsu.repeatpoker': ['Repeat Poker Solitaire', 'Gulvel', '10+', 'http://www.chikitsu.com', 'contact@chikitsu.net']}
+{'com.stevenhaley.spectrumpuzzlesexpansion2': ['Spectrum Puzzles Spring Pack', 'MultiPie+Ltd', '500+', 'http://www.MultiPie.co.uk', 'info@multipie.co.uk']}
+{'com.gurbieta.scrabble': ['Scrabble Master', 'Gonzalo+Urbieta', '10+', 'http://ar.linkedin.com/in/gurbieta', 'gurbieta+googleplay@gmail.com']}
+{'air.com.lightbenderdesign.abcdistribution': ['Preschool Alphabet Puzzles', 'Baja+Interactive', '1,000+', 'http://www.bajainteractive.com/privacy.html', 'support@kindergartenmobile.com']}
+{'com.herocraft.game.kingdom': ['The Enchanted Kingdom', '5255025567337855923', '10,000+', 'http://www.herocraft.com', 'support@herocraft.com']}
+{'com.spcware.logicpiccolor.puzzles.pack4': ['LogicPicColor:  PuzzlePack4', 'SPCWARE,+LLC', '500+', 'http://www.spcware.com', 'shawn@spcware.com']}
+{'com.spcware.logicpiccolor.puzzles.pack3': ['LogicPicColor:  PuzzlePack3', 'SPCWARE,+LLC', '1,000+', 'http://www.spcware.com', 'shawn@spcware.com']}
+{'com.virtuesoft.wordsearchpaid': ['WordSearch Unlimited', 'GameJoy.com', '10,000+', 'http://jiuzhangtech.com', 'jiuzhangtech@gmail.com']}
+{'com.littlefluffytoys.moleminer.upgrademsr1': ['Mole Miner Level Pack MSR1', 'Little+Fluffy+Toys+Ltd', '100+', 'http://www.littlefluffytoys.mobi', 'support@littlefluffytoys.mobi']}
+{'com.BEbit.MrSnoozleberg': ['Mr Snoozleberg', 'BEbit+Studio', '1,000+', 'http://www.bebitstudio.com', 'support@bebitstudio.com']}
+{'com.matchington.mansion': ['Matchington Mansion', 'Firecraft+Studios', '10,000,000+', 'http://www.firecraftstudios.com/', 'contact@firecraftstudios.com']}
+{'com.game5mobile.lineandwater': ['Happy Glass', '6990178528646658622', '50,000,000+', 'http://www.lionstudios.cc', 'game5mobile@lionstudios.cc']}
+{'com.puzzles.game.halloweeen.one': ['Find The Differences - The Detective', '10P+STUDIO', '10,000,000+', 'http://www.halloweenplay.net/privacy.html', 'finddifference@boooea.com']}
+{'com.gramgames.london.tentencolor': ['1010! Color', '8000319753740505601', '100,000+', 'http://gram.gs', '1010Color@gram.gs']}
+{'com.love.poly.puzzle.game': ['Love Poly - New puzzle game', 'incolor', '1,000,000+', 'http://incolor.cc/en/privacy.html', 'incolor.feedback@hotmail.com']}
+{'net.peakgames.toonblast': ['Toon Blast', '7348725256760208886', '50,000,000+', 'https://peakgames.helpshift.com/a/toon-blast/', 'support@peakgames.net']}
+{'com.supertapx.lovedots': ['Love Balls', '6990178528646658622', '100,000,000+', 'https://lionstudios.cc/', 'supertapx@lionstudios.cc']}
+{'com.metajoy.puzzlegame.dragnmerge': ['Drag n Merge: Block Puzzle', 'Metajoy', '500,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
+{'com.hapmonkey.fun.sparkman.stickman': ['Sparkman', 'DO+GLOBAL+GAMES', '500,000+', 'http://www.hapmonkey.com/privacy', 'doglobal523@gmail.com']}
+{'com.gramgames.mergedragons': ['Merge Dragons!', '8000319753740505601', '10,000,000+', 'http://gram.gs', 'support@gram.gs']}
+{'com.custom.spillit': ['Spill It!', 'tastypill', '5,000,000+', 'http://www.tastypill.com', 'support@tastypill.com']}
+{'com.kwalee.looper': ['Looper!', '5095490389686529219', '10,000,000+', 'http://www.kwalee.com', 'info@kwalee.com']}
+{'com.puzzles.game.fd.two': ['Find The Differences - Her Secret', '10P+STUDIO', '5,000,000+', 'http://www.husbandisback.com/privacy.html', 'believe-her@boooea.com']}
+{'com.ea.game.tetris2011_na': ['TETRIS', '6605125519975771237', '10,000,000+', 'http://help.ea.com/en/tetris/tetris/', 'help@eamobile.com']}
+{'game.puzzle.woodypuzzle': ['Woody™ Puzzle', 'Free+Block+Puzzle+Games+Inc.', '5,000,000+', 'http://fbpgames.com', 'freeblockpuzzlegamesinc@gmail.com']}
+{'com.europosit.pixelcoloring': ['Pixel Art: Color by Number', '7473634688510685864', '50,000,000+', 'http://www.easybrain.com', 'support@easybrain.com']}
+{'com.rovio.dream': ['Angry Birds Dream Blast', '9133452689932095671', '1,000,000+', 'https://www.rovio.com', 'support@rovio.com']}
+{'net.peakgames.amy': ['Toy Blast', '7348725256760208886', '50,000,000+', 'http://www.peakgames.net', 'android@peakgames.net']}
+{'com.skycap.Kids_Wooden_Jigsaw': ['Kids Puzzles - Wooden Jigsaw', '4912272605488077040', '5,000,000+', 'http://www.skycap.co.in', 'contact@skycap.co.in']}
+{'com.fenghenda.mahjong': ['Mahjong', 'CanaryDroid', '1,000,000+', 'http://www.canadadroid.com/policy.htm', 'contact@canadadroid.com']}
+{'com.playrix.fishdomdd.gplay': ['Fishdom', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/fishdom/index.html', 'support@playrix.com']}
+{'com.differencetenderwhite.skirt': ['Block Puzzle Jewel', 'hua+weiwei', '100,000,000+', 'https://sites.google.com/site/blockpuzzlejewel/', 'hucuawe@gmail.com']}
+{'com.bigduckgames.flow': ['Flow Free', '5251530371678806790', '100,000,000+', 'http://www.bigduckgames.com', 'android@bigduckgames.com']}
+{'com.gamestart.fill': ['Fill - one-line puzzle game', '8967418906238242913', '5,000,000+', 'http://pr.fill.app-c.net/', 'ashitakaoru11201@gmail.com']}
+{'com.easybrain.chamy': ['Chamy - Color by Number', '7473634688510685864', '5,000,000+', 'http://www.easybrain.com', 'support@easybrain.com']}
+{'com.physics.sim.game.savecats': ['Save Cat', 'Fastone+Games', '500,000+', 'http://www.savecatplay.com/privacy.html', 'savecat@boooea.com']}
+{'com.bitmango.go.blockhexapuzzle': ['Block! Hexa Puzzle™', '6249013288401661340', '50,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.zeptolab.ctr.ads': ['Cut the Rope FULL FREE', '8155782941676464587', '100,000,000+', 'http://zeptolab.com', 'support@zeptolab.com']}
+{'puzzle.wood.block.cube.music.box': ['Wood Block - Music Box', '%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0+world+studio', '10,000,000+', 'https://sites.google.com/site/woodpuzzlestudio/home', 'lovelornmskz@gmail.com']}
+{'com.coldapp.at50rooms1': ['Escape game : 50 rooms 1', '8046595135458049064', '5,000,000+', 'http://goodgames6249.cloudapp.net/PrivacyPolicy/', 'BusColdApp@gmail.com']}
+{'com.criticalhitsoftware.jigsawpuzzle': ['Jigsaw Puzzle', 'Critical+Hit+Software', '1,000,000+', 'http://www.criticalhitsoftware.com', 'support@criticalhitsoftware.com']}
+{'com.bandagames.mpuzzle.gp': ['Magic Jigsaw Puzzles', '6861988240512426856', '10,000,000+', 'https://androidpuzzlessupport.zendesk.com/hc', 'support@androidpuzzlessupport.zendesk.com']}
+{'dk.tactile.lilysgarden': ["Lily's Garden", '8367752935101364368', '500,000+', 'http://tactilegames.com', 'lilysgarden@tactile.dk']}
+{'com.king.bubblewitch3': ['Bubble Witch 3 Saga', '6577204690045492686', '50,000,000+', 'http://bubblewitch3saga.com', 'bubblewitch3.techhelp@king.com']}
+{'com.dropdom.blockpuzzle.hwwgame': ['Dropdom - Jewel Blast', 'hua+weiwei', '1,000,000+', 'https://sites.google.com/site/blockpuzzlejewel/', 'hucuawe@gmail.com']}
+{'com.puzzlegame.puzzledom': ['Puzzledom - classic puzzles all in one', 'Metajoy', '10,000,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
+{'air.com.sgn.cookiejam.gp': ['Cookie Jam - Match 3 Games & Free Puzzle Game', '5509190841173705883', '50,000,000+', 'http://www.jamcity.com', 'support@cookiejam.zendesk.com']}
+{'com.sgn.pandapop.gp': ['Panda Pop! Free Bubble Shooter Saga Game', '5509190841173705883', '50,000,000+', 'http://www.playpandapop.com', 'support@pandapop.zendesk.com']}
+{'com.plarium.blast': ['Lost Island: Blast Adventure', '5766366711041032164', '5,000,000+', 'http://www.plarium.com', 'android@plarium.com']}
+{'com.bbtv.cwc': ['Spy Ninja Network - Chad & Vy', 'BroadbandTV+Corp', '500,000+', 'https://www.spyninjanetwork.com/', 'support@spyninjanetwork.com']}
+{'com.bestheart.gemsjewels.junglepuzzlegame': ['Jewel & Gem Blast - Match 3 Puzzle Game', '6936794375735348055', '1,000,000+', 'https://sites.google.com/site/ivyprivacypolicy/', 'help@ivymobile.com']}
+{'com.bitmango.rolltheballunrollme': ['Roll the Ball® - slide puzzle', '6249013288401661340', '100,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'mahjong.games.mahjong.classic.free': ['Mahjong', 'Fun+Games+free', '5,000,000+', 'https://sites.google.com/site/fungamesfreeprivacypolicy', 'board_game@hotmail.com']}
+{'air.com.spilgames.trollfacequestusaadventure.point.click': ['Troll Face Quest: USA Adventure', '8077753437082489031', '1,000,000+', 'http://spilgames.com', 'releasemanagement@spilgames.com']}
+{'com.inapp.cross.stitch': ['Cross Stitch', 'incolor', '5,000,000+', 'http://www.incolor.cc', 'incolor.feedback@hotmail.com']}
+{'jelly.jam.fruit.match.cookie': ['Jelly Jam Blast - Match 3 Games & Free Puzzle Game', '7924010181222684681', '1,000,000+', 'http://avid.ly/zh-hans/', 'marionettepro@gmail.com']}
+{'com.nytimes.crossword': ['NYTimes - Crossword', 'The+New+York+Times+Company', '1,000,000+', 'http://www.nytimes.com/crosswords/index.html', 'NYTCrossword@nytimes.com']}
+{'com.block1010.shoot2048.free': ['Shoot n Merge - Block puzzle', 'Metajoy', '1,000,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
+{'com.zynga.ozmatch': ['The Wizard of Oz Magic Match 3', '6690081412016968981', '5,000,000+', 'https://zyngasupport.helpshift.com/a/wizard-of-oz-magic-match/?l=en', 'android.support@zynga.com']}
+{'com.outfit7.talkingtompool': ['Talking Tom Pool - Puzzle Game', '5630538819012062144', '10,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.belkatechnologies.clockmaker': ['Clockmaker - Match 3 Mystery Game', '4845317959578407531', '10,000,000+', 'https://belka-games.com/privacy/', 'clockmaker_support@belkatechnologies.com']}
+{'com.epicstory.beybladeburst': ['Beyblade Burst Rivals', '5905438781451669270', '1,000,000+', 'http://www.epicstoryinteractive.com', 'support@epicstoryinteractive.com']}
+{'com.androbaby.game2048': ['2048', '7962586262608152907', '10,000,000+', 'http://forumvs.com/policy_2048.html', 'androbabyid@gmail.com']}
+{'com.bitmango.go.unblockcasual': ['Move the Block : Slide Puzzle', '6249013288401661340', '5,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.gia.iloveftd': ['Find The Difference', 'good+indie+apps', '5,000,000+', 'http://iloveftd.blogspot.com', 'good.indie.apps@gmail.com']}
+{'air.com.mobigrow.canyouescape': ['Can You Escape', '6906629452137252349', '10,000,000+', 'http://www.keycube.com', 'mobigrow@gmail.com']}
+{'com.superbox.aos.jewelsjungle': ['Jewels Jungle : Match 3 Puzzle', '6831347196585294074', '1,000,000+', 'https://www.facebook.com/superbox01', 'help@superbox.kr']}
+{'com.potatoplay.mergequest': ['Merge\xa0Quest', 'PotatoPlay', '10,000+', 'http://www.potatoplay.com/', 'contact@potatoplay.com']}
+{'com.zymobile.toy.candy.cookie': ['Toy & Toon 2019 - Free Match', 'ZYMobile', '100,000+', 'http://www.zymobile.net', 'erran@zymobile.net']}
+{'com.LoopGames.game2048': ['2048', '5014688380385987684', '10,000+', 'https://loop.games/', 'loopgamesinc@gmail.com']}
+{'apps.r.twothousandfortyeight': ['2048', '5504511874958019671', '1,000,000+', 'https://r-apps.wixsite.com/r-apps', 'r.apps.feedback@gmail.com']}
+{'com.enp.food.google': ['Food Burst : world puzzle game master', '4919269069898699747', '500,000+', 'http://www.enpgames.co.kr/', 'Global_apps@enpgames.co.kr']}
+{'com.nguyenvu.word': ['Zumble Deluxe 2019', 'Click+Team', '1,000,000+', 'http://clickteams.blogspot.com/p/privacy-policy.html', 'halleyiu1212@gmail.com']}
+{'bubbleshooter.android': ['Bubble Shooter ™', '7268898997815915359', '10,000,000+', 'http://www.ilyon.net', 'support@ilyondynamics.com']}
+{'com.cookapps.watersplash': ['Water Splash - Cool Match 3', '8315630974564965855', '1,000,000+', 'https://cookapps.zendesk.com/hc/en-us/categories/204616048-Water-Splash', 'support@cookapps.com']}
+{'com.bdxyx.xygame7': ['Match 3030!', 'Applecheer+Studio', '1,000+', 'https://superiorzzr.tumblr.com/post/178234070322/privacy-policy13', 'applecheerstudio@gmail.com']}
+{'com.leodesol.games.symmetry.drawing.puzzles': ['Symmetry - Drawing Puzzles', '5341877486369493848', '500,000+', 'http://www.leodesolapps.com/privacy_policy/privacy.htm', 'support@pocketland.com']}
+{'com.datviet.brick9999': ['Brick Classic - Brick Game', '8769528984635279027', '10,000,000+', 'https://privacypolicies.com/privacy/view/09ad8719e53dea011a7addb61c5819a1', 'datvietgamestudio@gmail.com']}
+{'com.mobirix.mahjongking2': ['Mahjong Match Puzzle', '4864673505117639552', '500,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.bitmango.go.fixitgearpuzzle': ['Fix it: Gear Puzzle', '6249013288401661340', '1,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.relaxingbraintraining.oneline': ['One Line', 'PlaySpot+Games', '50,000+', 'http://1-dot-paint-puzzle.appspot.com/privacypolicy_games.htm', 'f2p.media.group@gmail.com']}
+{'com.kevinbradford.games.axiom': ['The Guides Axiom', '7324901894058820362', '1,000,000+', 'http://www.theguidesapp.com', 'info@theguidesapp.com']}
+{'com.bigfishgames.sirmatchgoogle': ['Sir Match-a-Lot: Match 3 Game', '8355317828905497231', '500,000+', 'https://www.bigfishgames.com/daily/sir-match-a-lot/', 'info@bigfishgames.com']}
+{'com.freegame.blockpuzzlemania': ['Block Puzzle Legend Mania 2019', 'BP+Game+Studio', '5,000,000+', 'https://sites.google.com/view/bpgamestudio/', 'yamstudio2604@gmail.com']}
+{'com.chipmunk.farmmatch3': ['Match 3 Game: Chipmunk Farm Harvest', 'Pixel+Game+Star', '10,000+', 'https://sites.google.com/view/pixel-game-star-policy/home', 'pixelgamestar2412@gmail.com']}
+{'smile.com.PopMonster': ['Jigsaw Puzzle Nature', 'Jigsaw+Puzzle+Free', '100,000+', 'https://privacypolicies.com/privacy/view/e83e6ac06fcd9c28ed0eeae856b443e8', 'thuylinhnguyen1389@gmail.com']}
+{'com.relaxingbraintraining.sudokumaster': ['Sudoku Master', 'PlaySpot+Games', '50,000+', 'https://www.playspot.io/games-privacy-policy', 'f2p.media.group@gmail.com']}
+{'air.com.mobigrow.canyouescapetitanic': ['Can You Escape - Titanic', '6906629452137252349', '1,000,000+', 'http://www.keycube.com', 'mobigrow@gmail.com']}
+{'net.bigbearentertainment.jigsaw.puzzles.puzzle.game.foradults.adults.adult': ['Jigsaw Puzzles for Adults | Puzzle Game App', '6018598330250843605', '50,000+', 'https://www.bigbearentertainment.net', 'contact@bigbearentertainment.net']}
+{'com.spilgames.MahjongCaseDetective': ['Mahjong Crimes - Mahjong & Mystery', '8077753437082489031', '100,000+', 'http://spilgames.com', 'support@mahjongcrimes.com']}
+{'com.rooftopsoft.blockpuzzle': ['Block Puzzle Mania', 'RoofTopSoft', '500,000+', 'https://blog.naver.com/nightfall77/221367115496', 'nineplayball@gmail.com']}
+{'com.gardenfarm.mahjong': ['Mahjong Flower 2019', 'VTL+STUDIO', '1,000,000+', 'https://www.231play.com/privacy', 'hieuyeutrinh1997@gmail.com']}
+{'sp.app.bubblePop': ['Bubble Poke™', '4851937824680914423', '10,000,000+', 'http://www.nrsmagic.com/', 'contact@nrsmagic.com']}
+{'com.bitmango.go.nopaintcolorbynumber': ['No.Paint: Color by Number', 'XLsoft', '50,000+', 'https://www.facebook.com/XLsoft-Corp-162281857446669/', 'contact@xlsoft.co.kr']}
+{'com.wooga.futurama': ['Futurama: Game of Drones', '5187629073610793871', '1,000,000+', 'http://www.wooga.com', 'support@wooga.net']}
+{'com.outplayentertainment.candywitch': ['Crafty Candy – Match 3 Adventure', '5587345788514684720', '1,000,000+', 'http://www.outplay.com/', 'support@craftycandy.zendesk.com']}
+{'com.hiddenobjectsecrets.mansion': ['Hidden Objects Mansion', 'Hidden+Objects+Detective', '1,000,000+', 'https://jjcreativesblog.wordpress.com/2016/08/18/first-blog-post/', 'jjcreativestudios2016@gmail.com']}
+{'com.harpan.sudokuGooglePlay': ['Sudoku', 'Tim+O%27s+Studios,+LLC', '1,000,000+', 'https://www.facebook.com/TimOsStudios', 'support@timosstudios.com']}
+{'com.goblin.highschoolescape': ['High School Escape', '5241963629192893673', '1,000,000+', 'http://www.keycube.com', 'goblinllc@gmail.com']}
+{'com.LoopGames.Blast': ['Puzzle Blast', '5014688380385987684', '100,000+', 'https://loop.games/', 'loopgamesinc@gmail.com']}
+{'com.iabuzz.apk.p4kall': ['384 Puzzles for Preschool Kids', '4612309125060036115', '5,000,000+', 'http://iabuzz.com', 'kids@iabuzz.com']}
+{'dk.tactile.cookiecats': ['Cookie Cats', '8367752935101364368', '1,000,000+', 'https://tactilegames.com/', 'cookiecats@tactile.dk']}
+{'com.fenomen.redhoodf2p': ['Fancy Blast: Cozy Journey to Magic Fairy Tales', 'Fenomen+Games', '100,000+', 'https://fenomen-games.com', 'support@fenomen-games.com']}
+{'com.pm4.mahjonggold': ['Mahjong Gold', 'pm4', '500,000+', 'http://pm4games.blogspot.com/2018/05/consent-policy.html', 'pm4manager@gmail.com']}
+{'com.storm8studios.icecream': ['Frozen Frenzy Mania – Match 3', '8843836569947671195', '1,000,000+', 'http://www.storm8-studios.com', 'support@storm8.com']}
+{'com.stateofplaygames.kami2': ['KAMI 2', 'State+of+Play', '1,000,000+', 'http://www.stateofplaygames.com', 'mail@stateofplaygames.com']}
+{'com.rvappstudios.ice.cream.paradise.match3': ['Ice Cream Paradise - Match 3 Puzzle Adventure', '7430005971129979939', '1,000,000+', 'http://www.rvappstudios.com', 'app_support@rvappstudios.com']}
+{'com.bubbleshooter.games.blast.free.cat.pop': ['Bubble Shooter: Free Cat Pop Game 2019', 'Sonatgame', '50,000+', 'http://sonatanhtrang.com/privacy-policy/privacy-policy.html', 'sonatgame@gmail.com']}
+{'by.ai91.lyfoes': ['Lyfoes (free)', '8829551191789162562', '5,000,000+', 'http://lyfoes.com', 'support@lyfoes.com']}
+{'com.disney.beautyandthebeast_goo': ['Beauty and the Beast', 'Disney', '1,000,000+', 'https://help.disney.com/', 'support@disneymobile.com']}
+{'com.infinitygames.connection': ['CONNECTION', 'InfinityGames.io', '1,000,000+', 'http://infinitygames.io', 'support@infinitygames.io']}
+{'air.com.jigsawpuzzlequest': ['Jigsaw Puzzle Quest – Daily Jigsaw Genius Blast!', 'Fun+Cross+Stitch+Pattern+Games+-+Color+Thread', '1,000+', 'http://www.jigsawpuzzlequest.com/privacy.html', 'jigsawpuzzlequest@gmail.com']}
+{'mahjong.arcadegame.panda.mahjong.solitaire.freemahjong': ['Mahjong Panda', 'Arcade+Game+Maker', '500,000+', 'http://www.arcadeveloper.com/', 'contact@arcadeveloper.com']}
+{'com.sf27.Sudoku.googleplay.free': ['Sudoku Free', 'Studio+Five27,+LLC+%28New%29', '500,000+', 'http://studiofive27.com', 'contact@studiofive27.com']}
+{'com.IevaMobileGames.PianoSpaceFriendsMarshmello': ['Friends - Marshmello - Piano Space', 'Ieva+Mobile+Games', '10,000+', None, 'ievamobilegames@gmail.com']}
+{'com.leaflock.connecthomes': ['Powerline - Logic Puzzles', 'Leaflock', '1,000,000+', 'https://docs.google.com/document/d/e/2PACX-1vRUI_bAhlxs20gIM0tf8MeIagmMQZqo6Hhu4cdGZRQUeuKG7gTArncHe_9WELeqOxpli35c0DQ5Xx-T/pub', 'leaflock.games@gmail.com']}
+{'air.com.spilgames.TrollFaceQuestTVShows': ['Troll Face Quest: TV Shows', '8077753437082489031', '10,000,000+', 'http://spilgames.com', 'appsupport@spilgames.com']}
+{'tictactoe.puzzle': ['Tic Tac Toe', 'Simple+Puzzle+Games', '10,000+', 'https://sites.google.com/view/simplepuzzlegamesprivacypolicy/tic-tac-toe-privacy-policy?authuser=0', 'SimpleGame1989@gmail.com']}
+{'com.wooga.agentalice': ['Agent Alice', '5187629073610793871', '10,000,000+', 'http://www.agentalice.com', 'support@wooga.net']}
+{'com.rvappstudios.jigsaw.puzzles': ['Jigsaw Puzzles Clash - Classic or Multiplayer', '7430005971129979939', '100,000+', 'http://www.rvappstudios.com', 'app_support@rvappstudios.com']}
+{'com.timOsStudios.premiumSudokuCardsGP': ['Premium Sudoku Cards', 'Tim+O%27s+Studios,+LLC', '1,000,000+', 'https://www.iubenda.com/privacy-policy/905866', 'support@timosstudios.com']}
+{'cn.itools.game.freepuzzle': ['Dream Jigsaw Puzzles World 2019-free puzzles', 'Tap+Lab', '1,000,000+', 'http://www.gogogame.com/privacy-policy.html', 'eyutoolpublish01@gmail.com']}
+{'com.bonbeart.doors3': ['Riddle World of Puzzles - Escape', '4708466050877156964', '1,000,000+', 'https://bonbeart.github.io/', 'bonbeart.apps@gmail.com']}
+{'com.andreasabbatini.logicgamestk': ['100 Logic Games - Time Killers', 'Andrea+Sabbatini', '500,000+', 'http://www.andreasabbatini.com', 'andsabb@gmail.com']}
+{'com.cookapps.sr': ['Sweet Road: Cookie Rescue Free Match 3 Puzzle Game', '8315630974564965855', '1,000,000+', 'https://sweetroad.zendesk.com/hc/en-us', 'support@cookapps.com']}
+{'com.spcomes.jquest': ['Jewels Temple Quest : Match 3', '4931745640662708567', '5,000,000+', 'http://gameboost.cafe24.com/mobile/privacypolicyEN.html', 'help@spcomes.com']}
+{'com.pescapps.kidsmazes': ['Game Mazes Baby Kids Free', '6341774947172229745', '1,000,000+', 'http://www.pescapps.com/', 'support@pescapps.com']}
+{'com.lory.HiddenObjects.Shopping.Mall.Fashion.Shop.Free.Game': ['Shopping Mall Hidden Object Game – Fashion Story', '8193574052088468807', '50,000+', 'https://loryapps.com/', 'support@loryapps.com']}
+{'com.cleverapps.candyriddles': ['Candy Riddles: Free Match 3 Puzzle', 'Clever+Apps+Pte.+Ltd.', '500,000+', 'https://labsystech.ru/legal/privacy.html', 'help.cleverapps@gmail.com']}
+{'com.qaibo.dws': ['Disaster Will Strike', '7790819888404749522', '1,000,000+', 'http://www.qaibo.com', 'contact@qaibo.com']}
+{'com.memoryinc.IGMNB': ['MitchiriNeko Bubble~Pop & Blast puzzle~', '5158444371283146779', '100,000+', 'https://cs-static.memory-inc-inhouse.com/htmls/policy/article.html?pr=5&co=4&no=59', 'igmnb.ml@memory-inc.com']}
+{'com.spcomes.fantasym3': ['Jewels Dragon Quest', '4931745640662708567', '1,000,000+', 'http://gameboost.cafe24.com/mobile/privacypolicyEN.html', 'help@spcomes.com']}
+{'air.com.hksoft.picrosstale': ['Picross Tale - Nonogram', 'HKSoft', '100,000+', 'http://durinsoft.cafe24.com/privacy.html', 'sungminhwang92@gmail.com']}
+{'com.lcmobileapp.thehardestquiz': ['The Hardest Quiz', 'lcmobileapp79', '1,000,000+', 'http://gabitrueftp1.com/privacy/privacypolicy.htm', 'luis95051@yahoo.com']}
+{'com.gmail.joystudio808.nonogram': ['Picross galaxy', '7127214367772112550', '100,000+', 'https://www.facebook.com/369260353515904', 'dayoffgames@gmail.com']}
+{'net.wooga.bubbleisland2': ['Bubble Island 2 - Pop Shooter & Puzzle Game', '5187629073610793871', '1,000,000+', 'http://www.wooga.com', 'support@wooga.net']}
+{'com.vector.game.puzzle.numberlink': ['2248', 'CurryGames', '5,000,000+', 'http://www.crystalrover.com', 'curryvector@gmail.com']}
+{'com.outplayentertainment.mysterymatch': ['Mystery Match – Puzzle Adventure Match 3', '5587345788514684720', '1,000,000+', 'http://www.outplayentertainment.com/', 'support@mysterymatch.zendesk.com']}
+{'com.purplekiwii.mb': ['MonsterBusters: Match 3 Puzzle', '5636651079416583942', '10,000,000+', 'https://playdogsoft.com/', 'support@purplekiwii.com']}
+{'cc.chess': ['Chess Free', 'Big+Bull+Games', '1,000,000+', None, 'chessisgr8@gmail.com']}
+{'com.maddyworks.rubik_cube': ['Magic Cube', 'Jayanth+Gurijala', '1,000,000+', 'https://maddymaddness.blogspot.com/2018/09/rubiks-cube-privacy-policy.html', 'gjayanth8@gmail.com']}
+{'com.zutgames.glowgrid2': ['GlowGrid 2', '8495314997069321006', '5,000+', 'http://zutgames.com', 'support@zutgames.com']}
+{'com.testa.hackbot': ['HackBot Hacking Game', '8878830896945339393', '500,000+', 'http://www.robobotstudio.com', 'info@robobotstudio.com']}
+{'com.JakubLange.BillyBomber': ['Billy Bomber', 'Jakub+Lange+%28gogolon%29', '100,000+', 'https://www.facebook.com/Billy-Bomber-767091893494348', 'kuba.lange.gd@gmail.com']}
+{'com.titan.jigsaw2': ['Titan Jigsaw Puzzles 2', '8225320434216531571', '100,000+', 'http://www.titanitc.com', 'titan.info.tech.co@gmail.com']}
+{'com.mobirix.zumaking': ['Marble King', '4864673505117639552', '1,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'air.com.akkad.rullo': ['Rullo', 'Akkad', '1,000,000+', 'http://akkad.tm.fr/', 'contact@akkad.tm.fr']}
+{'com.bitmango.go.lollipop2match3': ['Lollipop & Marshmallow Match3', '6249013288401661340', '1,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.boomb.brainon': ['Brain On in Boomb Zombie War', 'Steven+Do', '10,000+', 'https://sites.google.com/view/steven-do-privacy-policy/home', 'mrstevendo@gmail.com']}
+{'com.topfreegame.blockpuzzleplus': ['Block Puzzle Classic Plus', 'Free+Classic+Puzzle+Game', '10,000,000+', 'https://sites.google.com/view/touchjoygame-privacy', 'topnewfreegame@gmail.com']}
+{'dk.tactile.discoducks': ['Disco Ducks', '8367752935101364368', '1,000,000+', 'https://tactilegames.com/', 'discoducks@tactile.dk']}
+{'air.com.qublix.penguincubes': ['Penguin Pals: Arctic Rescue', '8810793461269970613', '500,000+', 'http://www.qublix.com', 'support@qublix.com']}
+{'com.jewels.adventure.crush.gems.blast.free': ['Jewels Match Adventure', 'Jewel+Loft', '50,000+', 'https://sites.google.com/view/jewelloftprivacypolicyterms', 'jewelloft1901@gmail.com']}
+{'com.bitmango.go.jewelpoptreasureisland': ['Jewel Pop: Treasure Island', '6249013288401661340', '1,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.groundcontrol.zhed': ['ZHED - Puzzle Game', 'Ground+Control+Studios', '100,000+', 'http://www.gcontrolgames.com', 'support@playzhed.com']}
+{'games.ouzo.piece_of_mind': ['Lucky Pie - Plate food with tasty slices', '6901802119894113806', '1,000+', 'http://www.ouzo.games', 'info@ouzo.games']}
+{'com.disney.starwarspuzzledroids_goo': ['Star Wars: Puzzle Droids™', 'Disney', '500,000+', 'http://help.disney.com', 'support@disneymobile.com']}
+{'com.SuperAwesome.HelloKittyFriends': ['Hello Kitty Friends - Tap & Pop, Adorable Puzzles', '8317296649892370981', '1,000,000+', 'http://superawesome.co.kr', 'contact@superawesome.co.kr']}
+{'com.byril.alchemy': ['Doodle Alchemy', '8341295587556280210', '5,000,000+', 'http://byril.com', 'byril.company@gmail.com']}
+{'air.com.mobigrow.canyouescape2': ['Can You Escape 2', '6906629452137252349', '10,000,000+', 'http://www.keycube.com', 'mobigrow@gmail.com']}
+{'com.inertiasoftware.justjigsaws': ['Just Jigsaws', '8067421150984452247', '50,000+', 'http://www.inertiagamestudios.com', 'support@just-jigsaws.com']}
+{'com.mobirix.sokoban': ['Push Maze Puzzle', '4864673505117639552', '1,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'air.com.remivision.DreamlandStory': ['Dreamland Story', 'Remi+Vision', '500,000+', 'http://www.remivision.com', 'dreamlandstory@remivision.com']}
+{'com.redball.redball4.kingball.bounce.jump.ball': ['Red Adventure: Bounce Ball Volume 1', 'QT+Studio', '100,000+', 'https://docs.google.com/document/d/128A7wpPg9_JgqgLXxP5w1OE8RfuuQreAZUrgr2bX3pU/edit?usp=sharing', 'lequynhtrang280596@gmail.com']}
+{'com.shoot.bubble.grand': ['Grand Bubble Shoot', '7101346334273770676', '100,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'air.com.hfg.survival': ['Adventure Escape - Expedition For Survival', 'Hidden+Fun+Games', '10,000+', 'https://www.facebook.com/HiddenFunGames', 'reena.pakri.1992@gmail.com']}
+{'com.bigstarkids.numberspuzzle248': ['248: Connect Dots, Pops and Numbers', 'BigStar+Games', '500,000+', 'http://forumvs.com/policy_numberspuzzle.html', 'bigstarkidsmobile@gmail.com']}
+{'rescue.bubble.bird': ['Bird Bubble Rescue', '7849730008707515899', '100,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'com.spookyhousestudios.railmaze': ['Rail Maze : Train puzzler', 'Spooky+House+Studios+UG%28haftungsbeschraenkt%29', '5,000,000+', 'http://www.spookyhousestudios.com', 'support@spookyhousestudios.com']}
+{'jp.co.imagineer.sumikkogurashi.sumisumi': ['SUMI SUMI : Matching Puzzle', 'Imagineer+Co.,Ltd.', '1,000,000+', 'http://www.imagineer.co.jp', 'cs@sumisumigame.com']}
+{'com.mobirix.differencegame': ['Difference Find King', '4864673505117639552', '10,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.protey.doors_challenge': ['100 Doors Challenge', 'Protey+Apps', '10,000,000+', 'https://proteygames.github.io', 'protey.apps@gmail.com']}
+{'com.boomster.linegame': ['Weave the Line', '6990178528646658622', '5,000,000+', 'http://lionstudios.cc', 'boomster@lionstudios.cc']}
+{'com.gamenexa.dot.run.free': ['DOT RUN GAME', '6143935442918635295', '50,000+', 'http://www.gamenexa.com', 'gamenexastudio@gmail.com']}
+{'com.polyspheregame.colorbynumber': ['Poly sphere roll puzzle', 'nanzy+games', '10,000+', 'https://sites.google.com/view/nancy-games/privacy-policy', 'nanzy.games@gmail.com']}
+{'com.pikpok.ax.play': ['Adventure Xpress', '%5Badult+swim%5D+games', '100,000+', 'http://adultswim.com', 'adultswimdotcom@gmail.com']}
+{'dk.tactile.beebrilliant': ['Bee Brilliant', '8367752935101364368', '5,000,000+', 'https://tactilegames.com', 'beebrilliant@tactile.dk']}
+{'com.chess.clock': ['Chess Clock', '5068259210636929122', '1,000,000+', 'http://www.chess.com', 'support@chess.com']}
+{'com.EvolveGames.MinesweeperGo': ['Minesweeper GO - classic mines game', 'evolvegames', '50,000+', 'https://www.facebook.com/minesweepergo/', 'dev.evolvegames@gmail.com']}
+{'com.Kwalee.Tens': ['TENS!', '5095490389686529219', '1,000,000+', 'http://www.kwalee.com', 'tenssupport@kwalee.com']}
+{'com.lcmobileapp.hardestquizhalloween': ['The Impossible Quiz', 'lcmobileapp79', '50,000+', 'http://gabitrueftp1.com/privacy/privacypolicy.htm', 'luis95051@yahoo.com']}
+{'com.bigstarkids.vehiclespuzzlegame': ['Vehicles Puzzle for Kids: Preschool', 'BigStar+Games', '100,000+', 'http://forumvs.com/policy_vehiclepuzzleforkids.html', 'bigstarkidsmobile@gmail.com']}
+{'com.playflock.pets': ['Garden Pets: Match-3 Dog & Cat Home Decorate', '7795666880575168001', '1,000,000+', 'https://playflock.com/privacy_policy', 'playflock@gmail.com']}
+{'com.neongame.toybox': ['Joy Box: puzzles all in one', '6713406806947914827', '1,000,000+', 'http://gs.gameneon.net/privacy/toybox/privacy_policy.html', 'neongameapp@gmail.com']}
+{'com.midva.HiddenObjectEnchantedCastle': ['Hidden Object Enchanted Castle – Hidden Games', '7246671864279448362', '5,000,000+', 'http://midva.games', 'support@midva.games']}
+{'com.yang.topfreegame.blockpuzzle.match3games.brickclassic.block.puzzlegame': ['1010 Block: Puzzle Game 2019', 'Jewels+Puzzle+Game', '10,000+', 'https://docs.google.com/document/d/1x5e3Y317Clb3F3ab77bOsm2YQ-eiWrS795m0a7aL-Ws', 'genkidamaha@gmail.com']}
+{'com.newprotopglobal.tetris': ['Block Puzzle - Puzzle Game', 'Block+Puzzle+-+Puzzle+Game', '1,000,000+', 'https://sites.google.com/view/blockpuzzlegame42', 'pvmeximmobglobal@gmail.com']}
+{'air.com.HFG.A101EscapeRoomGames': ['501 Free New Room Escape Game 2 - unlock door', 'HFG+-+Ena+Game+Studio', '1,000,000+', 'https://www.facebook.com/HiddenFunGames', 'reena.pakri.1992@gmail.com']}
+{'com.ucdevs.jcross': ['Nonograms Katana', '5715432152281210366', '1,000,000+', 'https://ucdevs.com', 'ucdevs@gmail.com']}
+{'com.coolmango.sudokufun': ['Sudoku Fun', 'Smoote+Mobile', '5,000,000+', 'https://sites.google.com/site/smootemobileprivacypolicy/', 'smootemobile@gmail.com']}

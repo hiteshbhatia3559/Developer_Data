@@ -1,0 +1,464 @@
+{'com.chliv.poeinte': ['Live Chat - Interesting People!', 'Media+Online+Chat+Group+LLC', '1,000+', 'http://o.trackmenowelev.club/web/1542/pp.html', 'miroslavchursunov@gmail.com']}
+{'com.viralstuff.slideup': ['Slide Up - games for Stories', 'Viral+Stuff,+LLC', '1,000+', 'http://bereal.to/stats/slide-up/terms.html', 'viralstuffxoxo@gmail.com']}
+{'com.yahoo.messengerchat': ['Yahoo Messenger Chat', 'Online+Chat+World', '5,000+', 'http://www.e-droid.net/privacy.php?ida=551649&idl=e', 'onlinechatworld24x7@gmail.com']}
+{'com.dailygreetings.greetings.wishes': ['Daily Wishes Greetings', 'Cute+Blossom+Wallpaper', '1,000+', 'https://s3.ap-south-1.amazonaws.com/cuteblossom/privacypolicy.html', 'cuteblossomwallpaper@gmail.com']}
+{'com.girotool': ['Followers', 'diocanxmr', '10,000+', None, 'diocanxmr@gmail.com']}
+{'com.greetings.lovegif3d': ['Love Gif 3D', 'Greetings+%26+Wishes', '500+', 'https://s3.ap-south-1.amazonaws.com/greetingandwishes/privacypolicy.html', 'info.greetingswishes@gmail.com']}
+{'application.example.com.tripriend_client': ['TriPriend - Meet Korean&international friend(Beta)', 'TriPriend', '10,000+', 'http://www.tripriend.net', 'tripriend@gmail.com']}
+{'com.musicplayer.musicmedia.messenger': ['Messenger 2019', 'Music+Media+2019', '1,000+', 'https://musicmedia2019.blogspot.com', 'musicmedia40575@gmail.com']}
+{'goodnightsticker.wastickerapps.stickers': ['WAStickerApps Good Night', 'Ximadev+media', '1,000+', 'https://ximadev19.blogspot.com/2019/01/privacy-policy.html', 'jamdev19@gmail.com']}
+{'com.heartepochsapp': ['Heart Epochs- Revealing HIS HEART & IGNITING LIVES', 'Shanerichardsonepoch', '5+', 'https://www.heartepochs.com/', 'Shanerichardsonepoch@gmail.com']}
+{'com.mndevelop.lovesms': ['Love SMS', 'MNSoftDevelop', '500+', None, 'mn.softdevelop@gmail.com']}
+{'com.nabtnetwork.nabr.brookwater': ['Brookwater', 'Nabr+Network', '10+', 'http://brookwater.nabrnetwork.com', 'webadmin@nabrnetwork.com']}
+{'com.gyshido.garyvee': ['Gary Vee', 'Social+Gang', '100+', 'https://getsocialgang.com', 'fabien@getsocialgang.com']}
+{'com.kachariya.WAStickerAppsDwarfs': ['WAStickers - Snow white Seven Dwarfs', 'mystickerapps', '50+', 'http://www.mystickerapps.com', 'mystickerapps@gmail.com']}
+{'com.faststatussaver.tzsaver': ['Status Saver', 'Berthagreat', '500+', 'http://millardayo.com/privacy-policy/', 'hillarydaniel3@gmail.com']}
+{'com.goodnight.imagegif': ['Good Night Images Gif', 'olalama', '100+', 'https://sites.google.com/view/olalama', 'olalamahi@gmail.com']}
+{'com.perdimianimal': ['PerdiMiAnimal', 'PerdiMiAnimal', '500+', 'https://perdimianimal.com', 'perdimianimal2@gmail.com']}
+{'com.gravfollowers.instagram': ['Gravity+ Followers', 'NextGen+AppCreators', '10+', 'http://themediakings.com/gravity/PrivacyPolicyGravity.pdf', 'nextgen.appcreators@gmail.com']}
+{'qrcodereader.barcodereader.codescanner': ['QR Scanner: QR Code Reader & Barcode Scanner', '7919802900964223526', '1,000,000+', 'https://plus.google.com/116794250597377070773/posts/SYoEZWDm77x', 'fantasyllc2018@gmail.com']}
+{'com.ratelekom.findnow': ['FindNow', 'Ratech', '10,000,000+', 'https://findnowme.com', 'help@findnowme.com']}
+{'com.fast.messages.social.messenger.free': ['Messenger for Social App', 'Mahakal+Studio', '1,000,000+', 'https://goo.gl/kD7XkX', 'beibeizhang1999@gmail.com']}
+{'sg.bigo.live': ['BIGO LIVE - Live Stream', 'BIGO+TECHNOLOGY+PTE.+LTD.', '100,000,000+', 'http://www.bigo.tv', 'android-support@bigo.sg']}
+{'com.pof.android': ['POF Free Dating App', '5661093148650447713', '50,000,000+', 'http://www.pof.com', 'mobile@pof.com']}
+{'com.viralstuff.slideup': ['Slide Up - games for Stories', 'Viral+Stuff,+LLC', '1,000+', 'http://bereal.to/stats/slide-up/terms.html', 'viralstuffxoxo@gmail.com']}
+{'com.followbuzz': ['FollowBuzz: unfollowers & followers for instagram', 'Rosa+Luft', '100,000+', 'https://luftdev.com/policy', 'rosaluftdev@gmail.com']}
+{'com.appriss.mobilepatrol': ['MobilePatrol Public Safety App', 'Appriss,+Inc.', '1,000,000+', 'http://www.appriss.com', 'appfeedback@appriss.com']}
+{'mg.locations.track5': ['Phone Tracker By Number', '5357477381669478484', '10,000,000+', 'https://onelocator.com', 'devteam@onelocator.com']}
+{'com.kickstarter.kickstarter': ['Kickstarter', 'Kickstarter+PBC', '1,000,000+', 'https://www.kickstarter.com/', 'android@kickstarter.com']}
+{'com.myyearbook.m': ['MeetMe: Chat & Meet New People', 'MeetMe.com', '50,000,000+', 'http://www.meetme.com/', 'support@meetme.com']}
+{'com.yahoo.messengerchat': ['Yahoo Messenger Chat', 'Online+Chat+World', '5,000+', 'http://www.e-droid.net/privacy.php?ida=551649&idl=e', 'onlinechatworld24x7@gmail.com']}
+{'messenger.chat.social.messenger': ['Messenger for Messages, Text and Video Chat', '8696216234951434473', '10,000,000+', 'https://privacypolicy639727281.wordpress.com/2018/04/09/privacy-policy-messenger-pro/', 'help@appyhigh.com']}
+{'com.baronapp.cameo': ['Cameo - Personalized Shoutouts', 'Cameo+-+Personalized+Shoutouts', '50,000+', 'https://www.bookcameo.com', 'hello@bookcameo.com']}
+{'com.amolatina': ['AmoLatina: Find & Chat with Singles - Flirt Today', 'DMM+SOLUTIONS+INC.', '1,000,000+', 'https://new.amolatina.com/', 'appsupport@amolatina.com']}
+{'com.mobiversite.lookAtMe': ['Followers for Instagram & IG - Unfollower Reports', '5613692554951376433', '50,000+', 'http://www.mobiversite.com', 'info@mobiversite.com']}
+{'com.maxasoft.easylikesapp': ['Easy Likes', 'maxasoft', '10,000+', 'http://www.maxasoft.de', 'maxasoft.online@gmail.com']}
+{'com.videochat.livu': ['LovU: Meet new people & Video chat with strangers', 'LovU+Team', '10,000,000+', 'http://www.lovuchat.com', 'supervideo2@hotmail.com']}
+{'com.pinterest': ['Pinterest', 'Pinterest', '100,000,000+', 'https://help.pinterest.com', 'help@pinterest.com']}
+{'com.narvii.amino.x64': ['Metal Amino for Heavy Metal Music Fan', 'Amino+Apps', '50,000+', 'http://aminoapps.com', 'support@aminoapps.com']}
+{'me.dingtone.app.im': ['Free phone calls, free texting SMS on free number', '7538110937782306003', '10,000,000+', 'http://www.dingtone.me', 'support@dingtone.me']}
+{'com.textfun.text.free.call': ['Free Text & Free Call & Text Free', 'SMS+%26+MMS+Team', '1,000,000+', 'https://www.facebook.com/BestTextFun/', 'plustextfun@gmail.com']}
+{'com.fireStarTagFollowers': ['Get More Real Followers & Likes On Ig, Gain Fast', 'Firestarters+Followers+App', '50,000+', 'http://followers-and-leaders.com/privacy_policy', 'app.dev.helpoffice@gmail.com']}
+{'aventaplus.si.bulbshare': ['Bulbshare', 'Bulbshare', '5,000+', 'http://latimergroup.org', 'support@latimergroup.org']}
+{'messenger.lite.messenger.messenger': ['Free Messages, Video, Chat,Text for Messenger Plus', 'Messenger+:+Free+Videos,Text,+Messages', '1,000,000+', 'https://privacy724996092.wordpress.com/2018/02/04/privacy-policy/', 'videocall.messenger@gmail.com']}
+{'com.trellist.motorcrush': ['MotorCrush - The Community for Enthusiasts', 'Trellist+Marketing+and+Technology', '50,000+', 'http://motorcrush.com', 'info@motorcrush.com']}
+{'com.live.videochat.india': ['ZAKZAK Pro - Live chat & video chat with strangers', 'ZAKZAK+Pro+Labs', '1,000,000+', 'https://www.zakzak.show/static/privacy_policy_en.html', 'helloindia.helloworld@gmail.com']}
+{'com.faceitforme.duuple': ['Duuple - The App for Challengers', 'Face+It+For+Me,+Llc', '10,000+', 'https://www.duuple.com/home/landing', 'support@duuple.com']}
+{'com.dating.android': ['Dating.com: meet new people', 'DMM+SOLUTIONS+INC.', '5,000,000+', 'https://www.dating.com/', 'support@dating.com']}
+{'com.waf.lovemessageforbf': ['Love Messages for Boyfriend - Share Flirty Texts', 'Touchzing+Media', '500,000+', 'http://www.touchzing.com', 'info@touchzing.com']}
+{'com.memium.memium': ['Memium - Make-Edit-Share Memes', 'Bit+Labs+Inc.', '10,000+', 'https://memium.app', 'support@memium.app']}
+{'com.smartapps.instagramstorydownloader': ['Story Saver for Instagram', 'Alpa+Bhanushali', '1,000+', 'https://sites.google.com/view/alpa-privacy-policy', 'katarmal.alpa@gmail.com']}
+{'com.olalama.flowersrosestickers': ['Roses Stickers For WhatsApp', 'olalama', '1,000+', 'https://sites.google.com/view/olalama', 'olalamahi@gmail.com']}
+{'com.goop.chat': ['Gööp', 'Gravitons,+Inc', '10,000+', 'https://goop.ai', 'general@goop.ai']}
+{'com.supergianlu.audiototextforwhatsapp': ['Audio to Text for WhatsApp', 'supergianlu', '500,000+', 'https://supergianlu.github.io/', 'grossigianluca22@gmail.com']}
+{'com.moh.farInsta': ['get Real followers ,likes for Instagram #TAGS', 'mahmmooda', '50,000+', 'http://gezirof.com/privacy-policy-terms-of-use.html', 'zmahmmooda@gmail.com']}
+{'com.yarima': ['Yarima Karama', 'Kelly+Jordan', '1,000+', 'http://yarimakarama.com', 'marcel@numediaradio.com']}
+{'org.discover.nicto': ['NICTO - Random chat with stranger, Date and Meet', 'OBOA+Inc', '10,000+', 'https://www.nictolive.com', 'help.nictolive@gmail.com']}
+{'io.friendly': ['Friendly for Facebook', '7399185471421849469', '1,000,000+', 'http://friendly.io', 'hello@friendly.io']}
+{'com.androdlab.multi.color.forfacebook2018': ['Multi Color For Facebook', 'AndrodLab', '500,000+', 'https://androdlab.wordpress.com/', 'AndrodLab4u@gmail.com']}
+{'com.hike.chat.stickers': ['Hike Messenger 6.0 (Chat with Stickers)', 'Hike+Private+Limited', '1,000,000+', 'http://www.hike.in', 'care@hike.in']}
+{'app.hindirhymes.my.hindibayrhymes': ['Messenger : Messages ,text and video chat', 'Happy+Bonding', '100,000+', None, 'chaudharyneeraj34@gmail.com']}
+{'com.omaapps.chatomega': ['Chat Omega for Omegle', 'oma+apps', '10,000+', 'https://sites.google.com/view/oma-apps-chatomega/home', 'omaapps5@gmail.com']}
+{'com.waf.wifemessages': ['Love Messages For Wife - Romantic Poems & Images', 'Touchzing+Media', '50,000+', 'http://www.touchzing.com', 'info@touchzing.com']}
+{'us.yapp.android': ['Yapp', 'Yapp+Inc.', '100,000+', 'http://yapp.us', 'yapp@yapp.us']}
+{'com.legitverify': ['LegitVerify', 'LegitVerify', '10+', 'https://www.legitverify.com', 'support@legitverify.com']}
+{'com.topface.topface': ['Topface - Dating Meeting Chat!', 'Frontapps+s.r.o.', '10,000,000+', 'http://topface.com', 'android@topface.com']}
+{'com.narvii.amino.x74613308': ['My Hero Academia Amino', 'Amino+Apps', '10,000+', 'http://aminoapps.com', 'support@aminoapps.com']}
+{'com.safesubs.android.safesubs': ['SafeSubs', 'SafeSubs', '10+', 'http://www.safesubs.com', 'app@safesubs.com']}
+{'com.loosidapp': ['LOOSID - Meet New Sober People and Start Dating', 'Loosid+App+LLC', '1,000+', 'http://loosidapp.com', 'support@loosidapp.com']}
+{'com.musical.tictoc.boostfans': ['Real Instance Followers For Tiktok', 'Tiko+fans+club', '1,000+', 'https://sites.google.com/view/polocy007/home', 'Shivhirani007@gmail.com']}
+{'com.narvii.amino.x219280721': ['LGBT+ Amino Community and Chat', 'Amino+Apps', '100,000+', 'http://aminoapps.com', 'support@aminoapps.com']}
+{'com.boo.boomoji': ['Boo - Your 3D Avatar', 'Xi%E2%80%99an+Ni+Xi+Network%26Technology+Co.,+Ltd', '5,000,000+', 'https://boo.chat/', 'sxnixi2015@gmail.com']}
+{'com.lovegreetings.lovegreetingscreator': ['Love Greeting Creator', 'Indie+Freak+Apps', '100+', 'https://s3.ap-south-1.amazonaws.com/indiefreakapps/privacypolicy.html', 'ashirlaal@gmail.com']}
+{'com.serpicodev.truekonnect': ['TrueKonnect', 'SerpicoDEV', '100+', 'https://www.truekonnect.com%20', 'Hello@TrueKonnect.com']}
+{'craigs.pro.plus': ['cPro: Buy. Sell. Date. Rent.', 'Escargot+Studios,+LLC', '10,000,000+', 'http://www.cpromarket.com', 'support@escargotstudios.com']}
+{'us.B3S.PauseChallenge': ['Pause challenge', 'B3S', '500+', 'https://textuploader.com/1aom7', 'support@B2S.com']}
+{'io.business.kazuy': ['KBiz - Organic IG Growth', '6839574542243693643', '10,000+', 'http://www.kbiz.app', 'kbizapp@gmail.com']}
+{'messenger.pro.messenger': ['Messenger Pro', 'Messenger+Pro+team', '5,000,000+', 'http://messengerhub.net/privacypolicy.html', 'audreypayne888@gmail.com']}
+{'com.narvii.amino.x3': ['Anime & Manga Amino for Otakus', 'Amino+Apps', '1,000,000+', 'http://aminoapps.com/', 'support@aminoapps.com']}
+{'com.clubofcinema.multicolorforfb': ['Multi Color For Facebook', 'Club+of+Cinemas', '1,000+', 'https://clubofcinemas.000webhostapp.com/privacy.html', 'clubofcinemas@gmail.com']}
+{'com.imvu.mobilecordova': ['IMVU: 3D Avatar! Virtual World & Social Game', 'IMVU,+Inc.', '10,000,000+', 'http://www.imvu.com', 'android.support@imvu.com']}
+{'info.sgadi.shangardarshan': ['Swaminarayan Gadi', 'Maninagar+Shree+Swaminarayan+Gadi+Sansthan', '1,000+', 'https://swaminarayangadi.com', 'maninagar@swaminarayangadi.com']}
+{'com.anon.anonchat': ['Anon - Anonymous Chat', 'Xtra+apps+inc.', '10,000+', 'http://AnonChat.co/privacy.html', 'oceanpipelinela@gmail.com']}
+{'com.twimmagern': ['Twimmage', 'jeffpalm', '100+', 'http://twimmage.com', 'jeffpalm@gmail.com']}
+{'com.followertagbooster': ['Get Real Followers And Likes - Booster by #tag', 'WeFollowMe+App+Design+Followers', '100,000+', 'http://nextmodel.nl/privacy_policy', 'alexjoz2626@gmail.com']}
+{'com.VoicebyteEnterprises.voicebyte': ['VoiceByte', 'VoiceByte+Productions', '10,000+', 'http://www.voicebyte.com', 'voicebyte@me.com']}
+{'com.godstickerforwhatsapp.mahashivratristickers.godshivstickersforwhatsapp': ['Maha Shivaratri Stickers : Shiv WAStickerApps', 'Ultimate+Stickers+Pack', '5,000+', 'https://ultimatestickerspack.wordpress.com/2018/11/30/ultimate-stickers-pack/', 'vrohan332@gmail.com']}
+{'com.sensei.escobar': ['Stickers Escobar', 'Nicolas+Righi', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/355a23a5540400d3fd6056258fe276c4', 'sensei.mobile.dev@gmail.com']}
+{'com.chliv.poeinte': ['Live Chat - Interesting People!', 'Media+Online+Chat+Group+LLC', '1,000+', 'http://o.trackmenowelev.club/web/1542/pp.html', 'miroslavchursunov@gmail.com']}
+{'com.romantic.boyfriend.girlfriend.love.letters': ['Love Letters & Love Messages - Share Flirty Texts', 'Touchzing+Media', '50,000+', 'http://www.touchzing.com', 'info@touchzing.com']}
+{'com.naxtlab.facebook.colors.pink': ['Pink Color for Facebook', '5871391326720355977', '1,000,000+', 'https://docs.google.com/document/d/1wNaWSNlvxEuglMh--uiKGKqaK2GREkh0kvnu_dX2HsY/edit', 'Naxtlab@gmail.com']}
+{'biz.trans': ['Trans - #1 Transgender, Kinky, Crossdresser Dating', 'huang+yanmei', '500,000+', 'http://www.tsdating.biz', 'tsdatingapp@gmail.com']}
+{'com.followers.analizelikes': ['Likes & followers', 'Get+followers', '100,000+', 'https://docs.google.com/document/d/1PhKelyp3wFdIY43V6SheDgUEwx18yvakxDBMc0F5q7c/edit', 'adamdurov@gmail.com']}
+{'com.narvii.amino.x139410905': ['Creepypasta Amino', 'Amino+Apps', '10,000+', 'http://aminoapps.com', 'support@aminoapps.com']}
+{'com.quotes.picturequotes': ['Picture Quotes - Sayings & Status', 'Inspire+apps', '100+', 'https://world-famous-author-quotes.appspot.com/privacy-policy.html', 'nextgen.quotes.apps@gmail.com']}
+{'com.narvii.amino.x6': ['Art Amino for Artists', 'Amino+Apps', '100,000+', 'http://aminoapps.com/', 'support@aminoapps.com']}
+{'com.lovewishes.lovegreetings.loveromanticgif': ['Romantic Love GIF', 'Photo+Video+App+Maker', '500+', 'https://s3.ap-south-1.amazonaws.com/photovideoappmake/privacypolicy.html', 'bilk2014sha@gmail.com']}
+{'com.izmy.chatty': ['Chatty - Anonymous Chat', 'AnonPlanet', '1,000+', 'https://s3.ap-northeast-2.amazonaws.com/mugcat-web/ranchat_privacy_policy.html', 'ranchat.it@gmail.com']}
+{'com.chuckydoll.fakecallprank': ['Fake call From ChuCky 2019', 'Polivaro', '500+', 'https://sites.google.com/view/zadadza/home', 'polivaro97@gmail.com']}
+{'com.metv.svenmoji': ['SvenMoji for Gboard', 'MeTV', '100+', 'http://www.metv.com', 'metvdev@gmail.com']}
+{'com.creativetrends.simple.app.lite': ['Simple Go for Facebook', '5017142426512120457', '10,000+', 'http://creativetrendsapps.com', 'contactus@creativetrendsapps.com']}
+{'com.narvii.amino.x42179212': ['Freddy Amino for FNAF', 'Amino+Apps', '100,000+', 'http://aminoapps.com', 'support@aminoapps.com']}
+{'com.igg.android.wegamers': ['WeGamers', '8895734616362643252', '1,000,000+', 'http://www.igg.com', 'help@wegamers.com']}
+{'com.greetings.lovegif3d': ['Love Gif 3D', 'Greetings+%26+Wishes', '500+', 'https://s3.ap-south-1.amazonaws.com/greetingandwishes/privacypolicy.html', 'info.greetingswishes@gmail.com']}
+{'com.camshare.camfrog.android': ['Camfrog - Group Video Chat', 'Camshare+Inc.', '10,000,000+', 'https://www.camfrog.com', 'googleplay@camshare.com']}
+{'org.lds.justserve': ['JustServe', '8295654346829730257', '100,000+', 'http://justserve.org', 'lds.mobile.team@gmail.com']}
+{'com.plato.android': ['Plato - Meet People, Play Games & Chat', 'Plato+Team+Inc.', '1,000,000+', 'https://www.platoapp.com/faq', 'hello+googleplay@platoapp.com']}
+{'com.insta.unfollow': ['iUnfollowed: followers & unfollowers for Instagram', 'Gregory+Leonov', '500,000+', 'https://leonovdev.com', 'leonovdev@gmail.com']}
+{'com.first.more': ['Love More', 'zhaojinxi', '100,000+', 'http://privacy.zwwsnet.com/', 'zhaojx2000@gmail.com']}
+{'com.goodmorning.goodmorningcreator': ['Good Morning Greeting Creator', 'Just4UApps', '100+', 'https://s3-ap-south-1.amazonaws.com/just4uapps/privacypolicy.html', 'eramwedo@gmail.com']}
+{'io.friendly.instagram': ['Friendly for Instagram', '7399185471421849469', '1,000+', 'http://friendly.io', 'hello@friendly.io']}
+{'com.narvii.amino.x89': ['Undertale Amino', 'Amino+Apps', '500,000+', 'http://aminoapps.com', 'support@aminoapps.com']}
+{'com.growstat.follow': ['GrowStat: followers reports for instagram', 'Andrey+Mironov', '50,000+', 'http://mironovmobile.com', 'mironovmobiledev@gmail.com']}
+{'com.lgbthq.app': ['LGBTHQ', 'MatthewS', '50+', 'http://lgbthq.net/pages/privacy-policy', 'contactlgbthq@gmail.com']}
+{'com.followers.realLike': ['Followers For Instagram 2019 Pro', 'apps+bro+best', '10,000+', 'https://sites.google.com/view/apps-bro-best/privacy-policy', 'tyghyuio2@gmail.com']}
+{'com.hakomuna': ['Hakomuna - The Future Messenger App', 'The+Messenger+App', '100,000+', 'http://hakomuna.com', 'messenger.messenger.messanger@gmail.com']}
+{'stranger.chat.live.video.chat.random.messenger': ['Free Random Chat', '8696216234951434473', '100+', 'https://privacy724996092.wordpress.com/2019/03/01/random-chat-privacy-policy/', 'help@appyhigh.com']}
+{'com.creativetrends.folio.app': ['Folio for Facebook & Messenger', 'Folio+Apps', '500,000+', 'http://folio-apps.io', 'hello@folio-apps.com']}
+{'com.jekapps.FrasesIndirectas': ['Frases Indirectas', '5594180275767581277', '100,000+', 'https://jekapps.com/frases-indirectas/', 'soporte@jekapps.com']}
+{'com.askfm': ['ASKfm - Ask Me Anonymous Questions', '6243101972887716167', '50,000,000+', 'http://support.ask.fm', 'app@ask.fm']}
+{'cruises.seamonkeysocial.cruisemonkey': ['Rainbow Monkey for JoCoCruise', 'Benjamin+Reed', '100+', 'http://seamonkeysocial.cruises', 'ian@hixie.ch']}
+{'com.amorenlinea.wrapper': ['Amor en Línea Búsqueda Gratis', '3H+Group+Pty+Ltd', '500,000+', 'https://www.amorenlinea.com', 'android@oasis.com']}
+{'com.ugdsoft.likemeter': ['Likemeter', '8113131056574264273', '10,000+', 'https://ugdsoft.com', 'info@ugdsoft.com']}
+{'com.gogoideal.qrcode.reader.barcode.scanner.flashlight': ['Tahoe QR code scanner & Barcode scanner', 'Tahoe+Digital+LTD.', '100,000+', 'https://tahoeprivacypolicy.blogspot.com', 'Tahoe.digital0821@gmail.com']}
+{'com.followersincreasetags': ['real followers fast on insta by #Tags boost pro +', 'Music+Heart+To+Follow+App', '1,000+', 'http://tube-one.nl/privacy_policy', 'tiktik.helpdesk@gmail.com']}
+{'com.bloomyapp': ['Bloomy: Dating Messenger App', 'Culturika+s.r.o.', '1,000,000+', 'http://bloomyapp.com', 'android@bloomyapp.com']}
+{'com.collagorama': ['PanoCollage for Instagram', 'MaximBuilds', '1,000+', 'https://www.panocollage.com/', 'panocollage@gmail.com']}
+{'com.heemel.stickerapp': ['Stickers Chilenos', 'Cuatico+Labs', '100,000+', None, 'support@cuaticolabs.cl']}
+{'com.teamblind.blind': ['Blind - Anonymous Work Talk', 'TeamBlind', '1,000,000+', 'http://www.teamblind.com', 'support@teamblind.com']}
+{'livehappy.instaswipe': ['Panorama for Instagram: InSwipe', '6965489367127166952', '100,000+', 'https://www.livehappyapps.com/', 'LiveHappyDeveloper@gmail.com']}
+{'com.klinker.android.twitter_l': ['Talon for Twitter', '6337185423976596164', '100,000+', 'http://klinkerapps.com/talon-overview', 'luke@klinkerapps.com']}
+{'com.lumiyaviewer.lumiya': ['Lumiya', 'Alina+Lyvette', '100,000+', 'http://www.lumiyaviewer.com/', 'alina@lumiyaviewer.com']}
+{'it.mvilla.android.fenix2': ['Fenix 2 for Twitter', 'mvilla', '10,000+', 'http://mvilla.it', 'apps@mvilla.it']}
+{'one.phobos.omnichan.pro': ['Omnichan Pro: 4chan and 8chan Client', 'phobos.one', '5,000+', 'http://phobos.one/omnichan/', 'phobos.one.llc@gmail.com']}
+{'com.metv.svenmoji': ['SvenMoji for Gboard', 'MeTV', '100+', 'http://www.metv.com', 'metvdev@gmail.com']}
+{'com.badoo.mobile.premium': ['Premium Dating', '5884062829898474398', '100,000+', 'http://www.badoo.com', 'android.support@corp.badoo.com']}
+{'com.creativetrends.simple.app.pro': ['Simple Pro for Facebook & more', '5017142426512120457', '100,000+', 'http://creativetrendsapps.com', 'simpleapp@creativetrendsapps.com']}
+{'com.icorpsonline.iCorps': ['iCorps: Pocket Reference', '8605733729750335002', '50,000+', 'http://icorpsonline.com', 'support@sandboxx.us']}
+{'com.disney.stickers.mickey_goo': ['Disney Stickers: Mickey & Friends', 'Disney', '5,000+', 'http://help.disney.com', 'support@disneymobile.com']}
+{'com.emogoth.android.phone.mimi.donate': ['Mimi 4chan Reader (donate)', 'Mimi+Reader', '10,000+', 'http://www.mimireader.com', 'eli@mimireader.com']}
+{'fellasocial.app': ['Fella for Facebook', '5313904403493691712', '50,000+', 'https://vewsnews.com/privacy.html', 'fellaforfacebook@gmail.com']}
+{'sg.bigo.live': ['BIGO LIVE - Live Stream', 'BIGO+TECHNOLOGY+PTE.+LTD.', '100,000,000+', 'http://www.bigo.tv', 'android-support@bigo.sg']}
+{'com.cmcm.live': ['LiveMe - Video chat, new friends, and make money', 'Live.me+Broadcast', '50,000,000+', 'http://www.liveme.com', 'live.me@cmcm.com']}
+{'com.myyearbook.m': ['MeetMe: Chat & Meet New People', 'MeetMe.com', '50,000,000+', 'http://www.meetme.com/', 'support@meetme.com']}
+{'com.sgiggle.production': ['Tango - Live Video Broadcasts', 'Tango', '100,000,000+', 'http://www.tango.me', 'TangoSupportMarketPlace@Tango.me']}
+{'com.grindrapp.android': ['Grindr - Gay chat', 'Grindr+LLC', '10,000,000+', 'http://www.grindr.com', 'help-android@grindr.com']}
+{'com.zhiliaoapp.musically': ['TikTok', 'musical.ly', '100,000,000+', 'https://www.tiktok.com/', 'feedback@tiktok.com']}
+{'com.imvu.mobilecordova': ['IMVU: 3D Avatar! Virtual World & Social Game', 'IMVU,+Inc.', '10,000,000+', 'http://www.imvu.com', 'android.support@imvu.com']}
+{'com.taggedapp': ['Tagged - Meet, Chat & Dating', 'Ifwe+Inc.', '10,000,000+', 'http://www.tagged.com', 'androidsupport@tagged.com']}
+{'com.skout.android': ['SKOUT - Meet, Chat, Go Live', 'Skout+Inc.', '50,000,000+', 'http://www.skout.com', 'support@skout.com']}
+{'com.machipopo.media17': ['LiveAF- Live Artistic Freedom', '17+Media+%28H.K.%29+Limited', '5,000,000+', 'http://17.media', 'support@17.media']}
+{'com.badoo.mobile': ['Badoo - Free Chat & Dating App', '5884062829898474398', '100,000,000+', 'http://www.badoo.com', 'android.support@badoo.com']}
+{'com.ratelekom.findnow': ['FindNow', 'Ratech', '10,000,000+', 'https://findnowme.com', 'help@findnowme.com']}
+{'com.lang.lang': ['LANG Live', 'BRILLIANT+MARK+HOLDINGS+Ltd', '1,000,000+', 'https://www.facebook.com/langlivetw/', 'service.tw@langlive.com']}
+{'com.facebook.katana': ['Facebook', 'Facebook', '1,000,000,000+', 'https://www.facebook.com/facebook', 'android-support@fb.com']}
+{'com.videochat.livu': ['LovU: Meet new people & Video chat with strangers', 'LovU+Team', '10,000,000+', 'http://www.lovuchat.com', 'supervideo2@hotmail.com']}
+{'com.exutech.chacha': ['HOLLA: Live Random Video Chat, Meet New People', 'HOLLA', '10,000,000+', 'http://holla.world', 'hi@holla.world']}
+{'younow.live': ['YouNow: Live Stream Video Chat', 'YouNow+Inc.', '10,000,000+', 'http://www.younow.com', 'feedback@younow.com']}
+{'jp.naver.lineplay.android': ['LINE PLAY - Our Avatar World', '4919265583026901892', '10,000,000+', 'http://play.line.naver.jp/en/', 'line-support@line.me']}
+{'com.infostream.seekingarrangement': ['Seeking', 'W8+Tech+Limited', '1,000,000+', 'https://www.seekingapp.com', 'support@w8tech.com']}
+{'com.enflick.android.TextNow': ['TextNow: Free Texting & Calling App', '8273134989898180729', '10,000,000+', 'http://www.textnow.com', 'community@textnow.com']}
+{'com.redcactus.repost': ['Repost for Instagram', 'Red+Cactus', '10,000,000+', 'http://www.repostapp.com', 'support@redcact.us']}
+{'com.vkontakte.android': ['VK', 'VK.com', '100,000,000+', 'https://vk.com/android_app', 'support@vk.com']}
+{'com.datingchat.ynbgcupid': ['Bgcupid', 'bgcupid', '50,000+', 'http://www.bgcupid.com', 'bgcupidteams@gmail.com']}
+{'com.fp.android.chatforomegle': ['Chat For Strangers - Video Chat', 'FunPokes', '100,000+', 'http://chatforomegle.com/', 'support@funpokes.com']}
+{'com.yourchristiandate': ['YourChristianDate: Meet Your Christian Soul Mate', 'SOL+NETWORKS+LTD', '100,000+', 'https://www.yourchristiandate.com/', 'support@yourchristiandate.com']}
+{'com.nimmble.rgpro': ['Regrann Pro - Repost for Instagram', '5167898992825061825', '100,000+', 'http://jaredco.com', 'support@jaredco.com']}
+{'ru.taboo.app': ['Secret - Dating Nearby', 'New+Technologies+LLC', '500,000+', 'https://chocoapp.ru/secret-mobile', 'support@chocoapp.ru']}
+{'com.huya.niko': ['Yome Live', 'Yome+Live', '1,000,000+', 'https://www.yome.live/', 'feedback@yome.live']}
+{'com.followertagbooster': ['Get Real Followers And Likes - Booster by #tag', 'WeFollowMe+App+Design+Followers', '100,000+', 'http://nextmodel.nl/privacy_policy', 'alexjoz2626@gmail.com']}
+{'com.surgeapp.grizzly': ['Grizzly - Gay Dating and Chat', 'Surge+Gay+App+s.r.o.', '500,000+', 'http://grizzlyapp.net', 'grizzly@surgeapp.com']}
+{'com.quoord.tapatalkpro.activity': ['Tapatalk - 200,000+ Forums', 'Tapatalk+Inc.', '10,000,000+', 'http://tapatalk.com', 'support@tapatalk.com']}
+{'com.github.sutv.viewx': ['uTubeX - Views, subs, likes and comments exchange', '4920829699237398734', '100,000+', 'https://viewx.herokuapp.com', 'utubex.sp@gmail.com']}
+{'com.starstable.friends': ['Star Stable Friends', '6199980706726160420', '500,000+', 'https://www.starstable.com', 'mobile@starstable.com']}
+{'in.dradhanus.liveher': ['YouStar – Group Chat Room', 'Stonemobile+India+Pvt+Ltd', '1,000,000+', 'http://www.youstar.in', 'sanjana.malik.hr@gmail.com']}
+{'com.badoo.mobile.premium': ['Premium Dating', '5884062829898474398', '100,000+', 'http://www.badoo.com', 'android.support@corp.badoo.com']}
+{'com.vng.live360': ['360Live - Live Stream', '360+LIVE', '500,000+', 'http://360live.vn', '360liveapp@gmail.com']}
+{'app.jailyne': ['Jailyne', 'CulturaH', '10,000+', 'http://www.culturah.tv', 'apps@culturah.tv']}
+{'com.FMGINC.QuestChatApp': ['Quest Chat', 'First+Media+Group+Inc.', '100,000+', 'http://questchat.com', 'firstmediaandroid@gmail.com']}
+{'com.girotool': ['Followers', 'diocanxmr', '10,000+', None, 'diocanxmr@gmail.com']}
+{'com.waplogmatch.social': ['W-Match: Dating App to Flirt & Chat', '8827310789890542270', '10,000,000+', 'http://wmatch.app', 'customerdek@waplog.com']}
+{'com.sgiggle.mango': ['Fiesta by Tango - Find, Meet and Make New Friends', 'HeyFiesta', '1,000,000+', 'https://heyfiesta.com', 'feedback@heyfiesta.com']}
+{'net.starcam.random.chat': ['StarCam: Video Chat with Strangers', 'Lulala+%28%EB%A3%B0%EB%9E%84%EB%9D%BC%29', '100,000+', 'http://www.starcam.net', 'rnjscnsghk1541@gmail.com']}
+{'com.ytmates.subs': ['YTMate - Real Subscribers & Views', 'SocialFanBoost', '100,000+', 'http://ytmates.com/site/privacy_policy.html', 'help.socialfan@gmail.com']}
+{'livechat.randomchat.videochat.com.bambado': ['Live Video Chat - Bambado', 'Bitgama', '100,000+', 'https://www.bitgama.com', 'support@bitgama.com']}
+{'trimmer.story.com.storytrimmer': ['Story Cutter for Instagram', 'Insocial8', '500,000+', 'http://twitiversary.com', 'insocial8apps@gmail.com']}
+{'de.startupfreunde.bibflirt': ['Spotted - meet, chat, date', 'Spotted', '1,000,000+', 'http://www.joinspotted.com', 'info@spotted.de']}
+{'com.gardentags': ['Garden Tags - Plants & gardens', 'Free+Gardening+Apps+by+4D+Media+Limited', '100,000+', 'http://www.gardentags.com', 'support@gardentags.com']}
+{'com.honeymobileapps.honey': ['Honey', 'Honey+Technologies', '100,000+', 'https://thehoneyapp.co/', 'team@thehoneyapp.co']}
+{'com.johnipiresrodrigues.trocatube': ['TrocaTube - Sub4Sub Pro', 'TrocaTube', '100,000+', 'https://trocatube-webservice.herokuapp.com/help/pt-br/politica', 'suporte.trocatube@gmail.com']}
+{'dk.applimate.superchargers': ['Superchargers for Tesla, incl destination chargers', 'Applimate', '10,000+', 'http://applimate.dk', 'mail@applimate.dk']}
+{'com.fardrop.radarso': ['Radarso - Find people nearby', '5028536777273255053', '10,000+', None, 'cozbekovic@gmail.com']}
+{'com.focalmark.app': ['Focalmark', 'Focalmark+Ltd', '100,000+', 'https://focalmark.com', 'contact@focalmark.com']}
+{'it.mirko.transcriber': ['Transcriber for WhatsApp', 'Mirko+Dimartino', '1,000,000+', 'https://mirkoddd.github.io', 'mirkoddd@gmail.com']}
+{'ar.com.indiesoftware.xbox.pro': ['Achievements for XBOX (PRO)', 'Nicolas+Ortiz', '10,000+', 'http://indiesoftware.wordpress.com', 'benexusg@gmail.com']}
+{'me.barta.stayintouch': ['Smart Contact Reminder: Call, messages', 'Milan+Barta', '1,000+', 'https://stayintouch.barta.me', 'appstayintouch@gmail.com']}
+{'com.baby2family.smartdata': ['Baby2Family', 'Elephanda,+LLC', '50+', 'https://www.spearheadcontent.com/access/policy', 'admin@baby2family.com']}
+{'com.test.r25msub04': ['R25mdf: Test IAB V3 App', '6709980703426428139', '50+', 'https://foo.org', 'pubtest.feb6@gmail.com']}
+{'com.jv.materialfalcon': ['Falcon Pro 3', 'Falcon+Pro+-+Joaquim+Verges', '100,000+', 'http://getfalcon.pro', 'falconforandroid@gmail.com']}
+{'com.corgithings.corgimoji': ['Corgimoji', 'Corgi+Things', '1,000+', 'http://www.corgithings.com', 'admin@corgithings.com']}
+{'org.mariotaku.twidere': ['Twidere for Twitter', '6556784347186425317', '500,000+', 'https://github.com/TwidereProject/Twidere-Android', 'twidere.project@gmail.com']}
+{'com.levanter.lughatuna': ['Lughatuna', 'Living+Arabic', '500+', 'http://www.livingarabic.com', 'contact@livingarabic.com']}
+{'club.olympapp.android': ['Relationship Advice & Help: Emotional Support Free', 'OlympApp', '50,000+', 'https://olympapp.club', 'star.ivanov@gmail.com']}
+{'com.petraru.android.facebook': ['FaceAtom', 'Petraru+Alexandru', '5,000+', 'https://github.com/alexandru-73/abi/blob/master/privacy%20policy', 'petrarualexandru@gmail.com']}
+{'near.app.unread': ['UnRead', 'NeAr', '100,000+', 'https://sites.google.com/view/near-unread', 'app.near@gmail.com']}
+{'com.stickerworld.emojistickers': ['Emoji Stickers by Emoji World', 'Sticker+World', '1,000+', None, 'stickerworlds@gmail.com']}
+{'com.redpilled.jomsocial': ['RED-PILLED', 'RED-PILLED.COM', '100+', 'http://red-pilled.com', 'rightsm01@gmail.com']}
+{'jp.co.quadsystem.skyphone': ['SkyPhone - Free Calls', 'QuadSystem+Co.,+Ltd.', '500,000+', 'http://www.skyphone.jp/l/', 'support@skyphone.jp']}
+{'com.corgithings.tricolor_corgimoji': ['Corgimoji: Tricolor Edition', 'Corgi+Things', '100+', 'http://www.corgithings.com', 'admin@corgithings.com']}
+{'in.hexalab.techs4techs': ['Techs4Techs', 'Iracema+Properties,+LLC', '10+', 'http://ec2-54-84-62-182.compute-1.amazonaws.com/techs/Techs4TechsPrivacyPolicy.htm', 'atiyehja@yahoo.com']}
+{'com.photoshoot.photoshootapp': ['PhotoShoot', 'Stephen+Allen', '10,000+', 'http://photoshootapplication.com', 'info@photoshootapplication.com']}
+{'com.makeupstickers.spreshies.makeupstickers': ['Spreshies: Make Up Stickers', 'Whimpressions+Media,+LLC', '0+', 'http://www.spreshies.com', 'info@spreshies.com']}
+{'com.plantpurple.emojidommaker': ['Emojidom Smiley & Emoji Maker', '5121262848534432588', '500,000+', 'http://www.emojidom.com', 'hello@plantpurple.com']}
+{'com.mmarvick.uc_pro': ['Urgent Call Pro', 'Michael+Marvick', '100+', 'http://www.mmarvick.com', 'mmarvick+uc@gmail.com']}
+{'com.healthydining': ['Healthy Dining', '5401951645034340098', '50+', 'http://healthydiningapp.com', 'healthydiningapp@gmail.com']}
+{'com.bestnine': ['Top Nine for Instagram - Best of 2018', '7175219353968560674', '1,000,000+', 'https://topnine.co', 'support@topnine.co']}
+{'com.social.ift.ig': ['Tips Like', 'IFT+Team', '10,000+', 'http://iftlike.com', 'iftlike@gmail.com']}
+{'com.roxwin.tweetypro2': ['Tweety X Pro - Widgets for Tweets', '5679228625434953739', '100+', 'http://roxwin.co.nz', 'apps@roxwin.co.nz']}
+{'com.naseemprojects.audiostatusmaker': ['Audio Status Maker', 'Naseem+Dauda+Kajuna', '100,000+', 'https://cdn.rawgit.com/el-Knix/Audio-Status-Maker/5ec59771/privacy%20policy.html', 'knix2510@gmail.com']}
+{'com.buddypoke.buddypoke': ['BuddyPoke 3D Avatar Creator', 'BuddyPoke', '1,000,000+', 'http://www.buddypoke.com', 'feedback@buddypoke.com']}
+{'net.virtualmon.twidgetpro': ['Twidget Pro for Twitter', 'Getrux', '100+', 'http://www.virtualmon.net', 'getrux@gmail.com']}
+{'com.hiddenskull.icbear': ['Ice Bear Sticker for WhatsApp', 'Hidden+Skull', '500+', None, 'contact.hiddenskull@gmail.com']}
+{'com.laserbotlabs.curiousapp.paid': ['Askr Pro for Curious Cat', 'Laserbot+Labs', '100+', 'http://laserbotlabs.com', 'hello@laserbotlabs.com']}
+{'com.emojiworld.lovemojis': ['Lovemojis by Emoji World ™', '6150674206301841859', '5,000+', None, 'emojiworlds@gmail.com']}
+{'com.BracketBuilder1': ['Bracket Builder', 'Quicksoft', '100+', None, 'cjquick@gmail.com']}
+{'in.nfnlabs.stormit': ['Storm It - Tweetstorm on Twitter', '8425022635257882204', '5,000+', 'http://nfnlabs.in', 'support@nfnlabs.in']}
+{'net.rymapps.socialforfacebook': ['Material For Facebook', 'Robbie+E+Escamilla', '50,000+', 'http://www.androiddevmx.net', 'rymsoftwareapps@gmail.com']}
+{'com.werilapps.fineday': ['Fineday Calendar: Birthdays Reminders, Namedays', 'Weril+Apps', '500+', 'https://plus.google.com/u/0/111590651362435294952/posts/FsSXrSNJ1Mv', 'werilapps@gmail.com']}
+{'christianchatpro.rsm': ['Christian Chat Pro', 'RSAM', '5+', 'http://www.e-droid.net/privacy.php?ida=323263&idl=en', 'pastorravisama@gmail.com']}
+{'es.miposicionamientoweb.engagementcalculatorforinstagram': ['GamGage \U0001f91d Engagement Calculator for Instagram', '8487254516803834810', '1,000+', 'https://miposicionamientoweb.es/', 'ruben.alonsocorral@gmail.com']}
+{'hashtags.pro': ['Hashtags Pro', '6101933312484326576', '5,000+', 'https://hashtags-trending.firebaseapp.com/privacy_policy_pro.html', '9xworks@gmail.com']}
+{'com.instagram.android': ['Instagram', 'Instagram', '1,000,000,000+', 'http://help.instagram.com/', 'android-support@instagram.com']}
+{'com.zhiliaoapp.musically': ['TikTok', 'musical.ly', '100,000,000+', 'https://www.tiktok.com/', 'feedback@tiktok.com']}
+{'com.snapchat.android': ['Snapchat', 'Snap+Inc', '500,000,000+', 'http://www.snap.com', 'snapchat@snap.com']}
+{'com.facebook.katana': ['Facebook', 'Facebook', '1,000,000,000+', 'https://www.facebook.com/facebook', 'android-support@fb.com']}
+{'com.ratelekom.findnow': ['FindNow', 'Ratech', '10,000,000+', 'https://findnowme.com', 'help@findnowme.com']}
+{'com.enflick.android.TextNow': ['TextNow: Free Texting & Calling App', '8273134989898180729', '10,000,000+', 'http://www.textnow.com', 'community@textnow.com']}
+{'com.pinterest': ['Pinterest', 'Pinterest', '100,000,000+', 'https://help.pinterest.com', 'help@pinterest.com']}
+{'com.fast.messages.social.messenger.free': ['Messenger for Social App', 'Mahakal+Studio', '1,000,000+', 'https://goo.gl/kD7XkX', 'beibeizhang1999@gmail.com']}
+{'com.facebook.lite': ['Facebook Lite', 'Facebook', '1,000,000,000+', 'https://www.facebook.com/facebook', 'lite-android-support@fb.com']}
+{'com.linkedin.android': ['LinkedIn: Jobs, professional profile, & networking', '6860682062931868151', '100,000,000+', 'http://www.linkedin.com/', 'team-mobile@linkedin.com']}
+{'com.pof.android': ['POF Free Dating App', '5661093148650447713', '50,000,000+', 'http://www.pof.com', 'mobile@pof.com']}
+{'sg.bigo.live': ['BIGO LIVE - Live Stream', 'BIGO+TECHNOLOGY+PTE.+LTD.', '100,000,000+', 'http://www.bigo.tv', 'android-support@bigo.sg']}
+{'com.pinger.textfree': ['Text Free: Free Text Plus Call', 'Pinger,+Inc', '10,000,000+', 'http://www.pinger.com/', 'support@pinger.com']}
+{'step.tracker.pedometer.stepcounter': ['Easy Pedometer', 'Life+Assistant+Tech+Group', '1,000,000+', 'http://bit.ly/2SGvF9G', 'jianpenggroup@gmail.com']}
+{'messenger.chat.social.messenger': ['Messenger for Messages, Text and Video Chat', '8696216234951434473', '10,000,000+', 'https://privacypolicy639727281.wordpress.com/2018/04/09/privacy-policy-messenger-pro/', 'help@appyhigh.com']}
+{'com.badoo.mobile': ['Badoo - Free Chat & Dating App', '5884062829898474398', '100,000,000+', 'http://www.badoo.com', 'android.support@badoo.com']}
+{'com.myyearbook.m': ['MeetMe: Chat & Meet New People', 'MeetMe.com', '50,000,000+', 'http://www.meetme.com/', 'support@meetme.com']}
+{'com.period.calendar.rosa.menstrual.tracker': ['Period Tracker Dora - Menstrual Calendar', 'YY+Huang', '1,000,000+', 'https://goo.gl/d6YKh8', 'hyy19990808@gmail.com']}
+{'com.nextdoor': ['Nextdoor - Local neighborhood news & classifieds', 'Nextdoor.com', '5,000,000+', 'https://www.nextdoor.com', 'emailsupport@nextdoor.com']}
+{'qrcodereader.barcodereader.codescanner': ['QR Scanner: QR Code Reader & Barcode Scanner', '7919802900964223526', '1,000,000+', 'https://plus.google.com/116794250597377070773/posts/SYoEZWDm77x', 'fantasyllc2018@gmail.com']}
+{'messenger.social.chat.apps': ['Messenger', 'Text+Free+%26+Free+Call+%26+SMS+%26+MMS+%26+Messenger+Team', '10,000,000+', 'http://textfun.net/privacy.html', 'bobhoskins520@gmail.com']}
+{'com.imvu.mobilecordova': ['IMVU: 3D Avatar! Virtual World & Social Game', 'IMVU,+Inc.', '10,000,000+', 'http://www.imvu.com', 'android.support@imvu.com']}
+{'com.ring.neighborhoods': ['Neighbors by Ring', 'Ring.com', '1,000,000+', 'https://ring.com/neighborhoods', 'neighbors@ring.com']}
+{'com.cmcm.live': ['LiveMe - Video chat, new friends, and make money', 'Live.me+Broadcast', '50,000,000+', 'http://www.liveme.com', 'live.me@cmcm.com']}
+{'com.textmeinc.textme': ['Text Me: Text Free, Call Free, Second Phone Number', '7744106960263623416', '10,000,000+', 'http://www.go-text.me', 'feedback@go-text.me']}
+{'co.yellw.yellowapp': ['Yubo - Make new friends', 'Twelve+APP', '5,000,000+', 'http://yubo.live', 'support@yubo.live']}
+{'com.herzick.houseparty': ['Houseparty', 'Life+on+Air', '5,000,000+', 'http://houseparty.com', 'hello@houseparty.com']}
+{'cool.monkey.android': ['Monkey', 'Monkey+Squad', '1,000,000+', 'http://www.monkey.cool', 'hello@monkey.cool']}
+{'com.tumblr': ['Tumblr', 'Tumblr,+Inc.', '100,000,000+', 'http://tumblr.com', 'support@tumblr.com']}
+{'sk.forbis.messenger': ['Messenger', '6066994521290468340', '10,000,000+', 'https://messenger.website', 'support@messenger.website']}
+{'messenger.pro.messenger': ['Messenger Pro', 'Messenger+Pro+team', '5,000,000+', 'http://messengerhub.net/privacypolicy.html', 'audreypayne888@gmail.com']}
+{'com.skout.android': ['SKOUT - Meet, Chat, Go Live', 'Skout+Inc.', '50,000,000+', 'http://www.skout.com', 'support@skout.com']}
+{'me.dingtone.app.im': ['Free phone calls, free texting SMS on free number', '7538110937782306003', '10,000,000+', 'http://www.dingtone.me', 'support@dingtone.me']}
+{'com.appriss.mobilepatrol': ['MobilePatrol Public Safety App', 'Appriss,+Inc.', '1,000,000+', 'http://www.appriss.com', 'appfeedback@appriss.com']}
+{'com.taggedapp': ['Tagged - Meet, Chat & Dating', 'Ifwe+Inc.', '10,000,000+', 'http://www.tagged.com', 'androidsupport@tagged.com']}
+{'com.textfun.text.free.call': ['Free Text & Free Call & Text Free', 'SMS+%26+MMS+Team', '1,000,000+', 'https://www.facebook.com/BestTextFun/', 'plustextfun@gmail.com']}
+{'com.meetup': ['Meetup', 'Meetup', '5,000,000+', 'http://www.meetup.com/', 'androiddev@meetup.com']}
+{'com.narvii.amino.master': ['Amino: Communities and Chats', 'Amino+Apps', '10,000,000+', 'http://www.aminoapps.com', 'support@aminoapps.com']}
+{'com.quora.android': ['Quora', 'Quora,+Inc.', '10,000,000+', 'http://www.quora.com', 'feedback+android@quora.com']}
+{'com.nhn.android.band': ['BAND - App for all groups', '6225315284672069550', '50,000,000+', 'http://www.band.us', 'band_help@naver.com']}
+{'com.grindrapp.android': ['Grindr - Gay chat', 'Grindr+LLC', '10,000,000+', 'http://www.grindr.com', 'help-android@grindr.com']}
+{'com.cootek.smartinputv5.skin.keyboard_theme_neon_butterfly_keyboard': ['Colorful Glitter Neon Butterfly Keyboard Theme', 'Skin+Design+Group', '5,000,000+', 'http://sina.lt/fGP3', 'yanxgp@gmail.com']}
+{'mg.locations.track5': ['Phone Tracker By Number', '5357477381669478484', '10,000,000+', 'https://onelocator.com', 'devteam@onelocator.com']}
+{'com.gogii.textplus': ['textPlus: Free Text & Calls', '5970545234728876768', '10,000,000+', 'http://www.textplus.com', 'support@textplus.com']}
+{'com.pinger.textfree.call': ['TextFree: WiFi Calling App', 'Pinger,+Inc', '5,000,000+', 'http://www.pinger.com', 'support@pinger.com']}
+{'messenger.messenger.messanger.messenger': ['The Messenger App: Free for message & chat', 'The+Messenger+App', '1,000,000+', 'https://themessengerappprivacypolicy.wordpress.com/', 'messenger.messenger.messanger@gmail.com']}
+{'com.textmeinc.freetone': ['FreeTone Free Calls & Texting', '7744106960263623416', '1,000,000+', 'http://www.free-tone.com/', 'feedback@go-text.me']}
+{'com.mewe': ['MeWe', 'MeWe', '1,000,000+', 'http://mewe.com', 'feedback@mewe.com']}
+{'com.google.android.apps.plus': ['Google+', '5700313618786177705', '1,000,000,000+', 'https://support.google.com/plus/?hl=en#topic=6320382', 'apps-help@google.com']}
+{'com.teamsnap.teamsnap': ['TeamSnap: No.1 Sports & Activity Management App', 'TeamSnap,+Inc.', '1,000,000+', 'https://www.teamsnap.com', 'androidfeedback@teamsnap.com']}
+{'com.testfoni.android': ['Testfoni', 'POZTechnology', '10,000,000+', 'http://testfoni.com/tf/privacy-agreement', 'support@testfoni.com']}
+{'com.science.wishboneapp': ['Wishbone -  Compare Anything', 'Science+Mobile+LLC', '1,000,000+', 'http://www.getwishboneapp.com', 'info@getwishboneapp.com']}
+{'com.facebook.Socal': ['Facebook Local', 'Facebook', '1,000,000+', 'https://www.facebook.com/facebook', 'android-support@fb.com']}
+{'com.campmobile.android.moot': ['Moot - LFG & Gaming Discussion', '6225315284672069550', '100,000+', 'https://moot.us', 'moot_help@navercorp.com']}
+{'com.signal.android': ['Airtime: Group Facetime + YouTube', 'Airtime+Media+Inc.', '1,000,000+', 'https://airtime.com', 'support.android@airtime.com']}
+{'com.cootek.smartinputv5.skin.keyboard_theme_sparkling_heart': ['Sparkling Heart Keyboard Theme', '8219509977068454901', '10,000,000+', 'http://sina.lt/fGP3', 'richielll8903@gmail.com']}
+{'com.videochat.livu': ['LovU: Meet new people & Video chat with strangers', 'LovU+Team', '10,000,000+', 'http://www.lovuchat.com', 'supervideo2@hotmail.com']}
+{'com.amolatina': ['AmoLatina: Find & Chat with Singles - Flirt Today', 'DMM+SOLUTIONS+INC.', '1,000,000+', 'https://new.amolatina.com/', 'appsupport@amolatina.com']}
+{'com.fsp.android.c': ['GPS Phone Tracker', 'Family+Safety+Production', '10,000,000+', 'http://www.lready.org', 'feedback@lready.org']}
+{'com.GoFundMe.GoFundMe': ['GoFundMe - Free Online Crowdfunding & Fundraising', 'GoFundMe+Inc', '1,000,000+', 'http://www.gofundme.com/', 'support@gofundme.com']}
+{'sh.whisper': ['Whisper', 'MediaLab.AI,+Inc.', '5,000,000+', 'http://whisper.sh', 'support@whisper.sh']}
+{'craigs.pro.plus': ['cPro: Buy. Sell. Date. Rent.', 'Escargot+Studios,+LLC', '10,000,000+', 'http://www.cpromarket.com', 'support@escargotstudios.com']}
+{'tv.periscope.android': ['Periscope - Live Video', 'Twitter,+Inc.', '50,000,000+', 'https://www.pscp.tv', 'contact@pscp.tv']}
+{'com.sgiggle.production': ['Tango - Live Video Broadcasts', 'Tango', '100,000,000+', 'http://www.tango.me', 'TangoSupportMarketPlace@Tango.me']}
+{'com.redcactus.repost': ['Repost for Instagram', 'Red+Cactus', '10,000,000+', 'http://www.repostapp.com', 'support@redcact.us']}
+{'app.follow.unfollow': ['Unfollow for Instagram - Non followers & Fans', 'Team+Unfollow', '1,000,000+', 'http://hashgrow.com/', 'nikhil.bansal.cse16@gmail.com']}
+{'com.kimcy929.repost': ['Repost for Instagram', '8505992995379302722', '1,000,000+', 'https://twitter.com/kimcy929', 'kimcy92@gmail.com']}
+{'messenger.messenger.videocall.messenger': ['The Video Messenger App : Video Messages, Chats', 'The+Messenger+App', '1,000,000+', 'https://themessengerappprivacypolicy.wordpress.com/2019/02/14/the-video-messenger-app-privacy-policy/', 'messenger.messenger.messanger@gmail.com']}
+{'com.exutech.chacha': ['HOLLA: Live Random Video Chat, Meet New People', 'HOLLA', '10,000,000+', 'http://holla.world', 'hi@holla.world']}
+{'com.fsp.android.friendlocator': ['Find My Friends', 'Family+Safety+Production', '10,000,000+', 'http://www.lready.org', 'feedback@lready.org']}
+{'com.sai.allsocialnetworks': ['Social Networks All in One', 'S+S+Networks', '500,000+', 'http://www.e-droid.net/privacy.php?ida=429084&idl=en', 'Saikiranboda5252@gmail.com']}
+{'com.evite': ['Evite: Free Online & Text Invitations', '5371451815439822785', '1,000,000+', 'http://evite.com', 'support@evite.com']}
+{'it.rabb.rabbitandroid': ['Rabbit – Watch Together', 'Rabbit+Inc', '1,000,000+', 'http://rabb.it', 'help@rabb.it']}
+{'com.mojisticker.afromoji': ['AfroMoji: African Afro Emoji Stickers Black', '7272111502547896606', '100,000+', 'https://afromoji.app', 'info@afromoji.app']}
+{'messenger.lite.messenger.messenger': ['Free Messages, Video, Chat,Text for Messenger Plus', 'Messenger+:+Free+Videos,Text,+Messages', '1,000,000+', 'https://privacy724996092.wordpress.com/2018/02/04/privacy-policy/', 'videocall.messenger@gmail.com']}
+{'com.dating.android': ['Dating.com: meet new people', 'DMM+SOLUTIONS+INC.', '5,000,000+', 'https://www.dating.com/', 'support@dating.com']}
+{'com.boo.boomoji': ['Boo - Your 3D Avatar', 'Xi%E2%80%99an+Ni+Xi+Network%26Technology+Co.,+Ltd', '5,000,000+', 'https://boo.chat/', 'sxnixi2015@gmail.com']}
+{'com.plato.android': ['Plato - Meet People, Play Games & Chat', 'Plato+Team+Inc.', '1,000,000+', 'https://www.platoapp.com/faq', 'hello+googleplay@platoapp.com']}
+{'com.instagram.followcop': ['Unfollowers for Instagram, Follow Cop', 'Follow+Cop', '1,000,000+', 'https://followcop.com/PrivacyPolicy', 'support@followcop.com']}
+{'com.ss.android.ugc.boom': ['Vigo Video - Funny Short Video', 'Bytemod+Pte.Ltd', '100,000,000+', 'http://www.vigovideo.net/', 'feedback@vigovideo.net']}
+{'com.kickstarter.kickstarter': ['Kickstarter', 'Kickstarter+PBC', '1,000,000+', 'https://www.kickstarter.com/', 'android@kickstarter.com']}
+{'com.jaumo': ['Jaumo Dating, Flirt & Live Video', '6485779010633223428', '10,000,000+', 'https://www.jaumo.com', 'android@jaumo.com']}
+{'io.friendly': ['Friendly for Facebook', '7399185471421849469', '1,000,000+', 'http://friendly.io', 'hello@friendly.io']}
+{'com.followbuzz': ['FollowBuzz: unfollowers & followers for instagram', 'Rosa+Luft', '100,000+', 'https://luftdev.com/policy', 'rosaluftdev@gmail.com']}
+{'com.wisdo.android.wisdo': ['Wisdo', 'Wisdo+LTD.', '50,000+', 'https://wisdo.com', 'eliran@wisdo.com']}
+{'com.addsnapchatfriends.sfriends': ['Get Friends for Snapchat, Kik & Snapchat usernames', 'Vintry+PLC', '1,000,000+', 'https://addsnapchatfriends.com/', 'appmakersstudio1@gmail.com']}
+{'com.repost.quickly.ins': ['Repost Elf - Repost for IG', 'SuperDevLab', '10,000+', 'https://firebasestorage.googleapis.com/v0/b/repost-for-ins.appspot.com/o/Repost.htm?alt=media&token=85b625a6-7435-40c0-9294-82c822347708', 'johnwilson66577@gmail.com']}
+{'com.smartapps.instagramdownloader': ['Video Downloader for Instagram', 'Alpa+Bhanushali', '1,000,000+', 'https://sites.google.com/view/alpa-privacy-policy', 'katarmal.alpa@gmail.com']}
+{'com.machipopo.media17': ['LiveAF- Live Artistic Freedom', '17+Media+%28H.K.%29+Limited', '5,000,000+', 'http://17.media', 'support@17.media']}
+{'com.mywickr.wickr2': ['Wickr Me – Private Messenger', 'Wickr+Inc', '1,000,000+', 'https://wickr.com', 'androidsupport@wickr.com']}
+{'com.messenger.socialmedia.allinone.lite': ['Messengers in one , All IM & SMS in one', 'Coreader+Group', '100,000+', 'https://1drv.ms/w/s!Aobgc5rNjSd3d_oG2OCLwj1eF4Y', 'msglitefeedback@gmail.com']}
+{'com.waplog.social': ['Waplog -Free Chatting & Dating App to Meet Singles', '8827310789890542270', '10,000,000+', 'http://waplog.com', 'customerdesk@waplog.com']}
+{'com.mico': ['Mico - Stranger Random Chat & Video Live Streaming', '8945700516389597914', '10,000,000+', 'http://www.micous.com', 'contact@micous.com']}
+{'biz.trans': ['Trans - #1 Transgender, Kinky, Crossdresser Dating', 'huang+yanmei', '500,000+', 'http://www.tsdating.biz', 'tsdatingapp@gmail.com']}
+{'fast.explorer.web.browser': ['Web Browser & Fast Explorer', 'iJoysoft', '5,000,000+', 'https://s3.amazonaws.com/ijoysoftprivacy/WebBrowserPrivacy.txt', 'smartchen2015@gmail.com']}
+{'video.photo.downloader.repost': ['Video Download & Repost  For Instagram', 'Messenger+%26+Video+Download+Team', '100,000+', 'https://docs.google.com/document/d/17DgrNj8vbphpqGF6aiGPPiakEx7Hyo-oLLZxcDL5FlA/edit?usp=sharing', 'topfreeteam@gmail.com']}
+{'com.infostream.seekingarrangement': ['Seeking', 'W8+Tech+Limited', '1,000,000+', 'https://www.seekingapp.com', 'support@w8tech.com']}
+{'com.narvii.amino.manager': ['Amino Creator and Manager: ACM', 'Amino+Apps', '1,000,000+', 'http://www.aminoapps.com', 'support@aminoapps.com']}
+{'com.mobile.android.eris': ['Free Chat & Dating', 'Free+dating+%26+marriage+apps+to+meet+new+people', '1,000,000+', 'http://www.erisdating.com', 'info@erissystem.com']}
+{'com.teampeanut.peanut': ['Peanut - Meet Mom Friends', '5132182448793417956', '100,000+', 'https://www.peanut-app.io/', 'feedback@teampeanut.com']}
+{'mobi.jackd.android': ['Jack’d - Gay Chat & Dating', 'Lucid+Dreams+LLC', '5,000,000+', 'http://www.jackdapp.com', 'team@jackd.mobi']}
+{'com.askfm': ['ASKfm - Ask Me Anonymous Questions', '6243101972887716167', '50,000,000+', 'http://support.ask.fm', 'app@ask.fm']}
+{'com.glympse.android.glympse': ['Glympse - Share GPS location', 'Glympse,+Inc', '5,000,000+', 'http://glympse.com', 'support@glympse.com']}
+{'mobi.androapp.providenceapps.c6281': ['Romantic Love Quotes -  Photos & Images.', 'Daily+Quotes', '100,000+', None, 'providenceapps@outlook.com']}
+{'com.asiandate': ['AsianDate: find Asian singles', 'SOL+NETWORKS+LTD', '1,000,000+', 'http://www.asiandate.com', 'appsupport@asiandate.com']}
+{'com.waf.lovemessageforbf': ['Love Messages for Boyfriend - Share Flirty Texts', 'Touchzing+Media', '500,000+', 'http://www.touchzing.com', 'info@touchzing.com']}
+{'younow.live': ['YouNow: Live Stream Video Chat', 'YouNow+Inc.', '10,000,000+', 'http://www.younow.com', 'feedback@younow.com']}
+{'com.social.messenger.allinone': ['All Social Networks in one Text Video Call Chat', 'Messenger+free+-+Free+text+Video+calls+%26+Free+Chat', '1,000,000+', 'https://sites.google.com/site/creativedotapp/home/privacy-policy', 'coolappsn@outlook.com']}
+{'com.pl.hichatting': ['Hi Chat - Video chat with people worldwide', 'Lian%C2%A0Media%C2%A0Limited', '50,000+', 'http://www.lianmedia.com', 'lianmedia7@gmail.com']}
+{'com.adam4adam.radar2.ui': ['Adam4Adam RADAR Gay Chat & Dating App - A4A', 'A4A+Network+Inc', '500,000+', 'http://a4anetwork.com', 'a4afeedback@gmail.com']}
+{'eshbuildgroup.our.com.messenger': ['Messenger for All Social Networks (Fb , Insta ...)', '5528036608988807711', '500,000+', 'https://sites.google.com/view/eshbuildgroup/eshbuildgroup?authuser=1', 'eshbuildgroup@gmail.com']}
+{'com.mindcandy.popjam': ['PopJam', 'SuperAwesome+LTD', '1,000,000+', 'http://popjam.com', 'hi@popjam.com']}
+{'messenger.messenger.messenger.messenger': ['Messenger -  Text Messages, Free Messenger for SMS', '5172229181413918638', '10,000,000+', 'http://messenger-messenger.com', 'messenger1.messenger1@gmail.com']}
+{'com.domobile.messenger': ['Messenger', 'NextAPP', '1,000,000+', 'http://www.domobile.com', 'support@domobile.com']}
+{'com.chliv.poeinte': ['Live Chat - Interesting People!', 'Media+Online+Chat+Group+LLC', '1,000+', 'http://o.trackmenowelev.club/web/1542/pp.html', 'miroslavchursunov@gmail.com']}
+{'com.repost': ['Repost – Photo & Video Download And Save', 'Repost', '10,000,000+', 'http://instarepostapp.com', 'divvypic@gmail.com']}
+{'org.thunderdog.challegram': ['Telegram X', 'Telegram+LLC', '10,000,000+', 'https://telegram.org', 'support@telegram.org']}
+{'com.waf.wifemessages': ['Love Messages For Wife - Romantic Poems & Images', 'Touchzing+Media', '50,000+', 'http://www.touchzing.com', 'info@touchzing.com']}
+{'com.magicjack': ['magicApp Calling & Messaging', 'magicJack+VocalTec+Ltd', '10,000,000+', 'http://www.magicjack.com', 'mjCustomerService@magicJack.com']}
+{'com.veri.veri': ['The Guest - Photo Sharing', 'The+Knot', '100,000+', 'http://veri.com', 'support@veri.com']}
+{'com.waplogmatch.social': ['W-Match: Dating App to Flirt & Chat', '8827310789890542270', '10,000,000+', 'http://wmatch.app', 'customerdek@waplog.com']}
+{'girls.username.girls_username_for_kik': ['Girls Finder for Kik, Friends Usernames for Kik', 'Global+Tech+Social', '100,000+', 'https://kikfriendsfinder.com/kik_username_img2/Privacy_Policy.html', 'global.tech4668@gmail.com']}
+{'com.dopetech.videocall': ['VideoCall Free Video Calls Video Chat & Messenger', 'Dope+Tech', '500,000+', 'http://bbkivines.s3-website.ap-south-1.amazonaws.com', 'bbkivines1219@gmail.com']}
+{'com.clubcooee.cooee': ['Club Cooee - 3D Avatar, Chat & Party!', 'cooee+GmbH', '500,000+', 'https://www.clubcooee.com', 'android@clubcooee.com']}
+{'com.datemyage': ['DateMyAge: Dating for mature singles', 'SOL+NETWORKS+LTD', '100,000+', 'https://www.datemyage.com/privacy-policy/', 'support@datemyage.com']}
+{'app.hindirhymes.my.hindibayrhymes': ['Messenger : Messages ,text and video chat', 'Happy+Bonding', '100,000+', None, 'chaudharyneeraj34@gmail.com']}
+{'com.facebook.creatorapp': ['Facebook Creator', 'Facebook', '5,000,000+', 'http://www.facebook.com/apps/application.php?id=74769995908', 'android-support@fb.com']}
+{'com.bringsgame.love': ['Love Sticker', 'bringsgame', '5,000,000+', 'https://sites.google.com/view/bringsgamepolicy', 'bringsgame@gmail.com']}
+{'com.quoord.tapatalkpro.activity': ['Tapatalk - 200,000+ Forums', 'Tapatalk+Inc.', '10,000,000+', 'http://tapatalk.com', 'support@tapatalk.com']}
+{'com.unearby.sayhi': ['SayHi Chat, Meet New People', '8321696171123618246', '10,000,000+', 'http://easyroid.com/', 'support@unearby.com']}
+{'com.lavendrapp.lavendr': ['Surge: Gay Dating & Chat', 'Surge+Gay+App+s.r.o.', '1,000,000+', 'http://www.surgeapp.com/', 'info@surgeapp.com']}
+{'image.download.repost.imagedownloaderforinstagram': ['Download & Repost for Instagram - Image Downloader', '7001382058935314759', '1,000,000+', 'http://www.youjia.cloud/privacypolicy.html', 'downloader.feedback@outlook.com']}
+{'mom.social.socialmom': ['Social.mom', 'Social.mom', '100,000+', 'https://social.mom', 'hello@social.mom']}
+{'com.unfollowers.ghost.followers': ['Unfollowers & Ghost Followers (Follower Insight)', 'Bad+Raccoon', '1,000,000+', 'https://alammadli.com/follower-insight/privacy.html', 'almaalmayabenzer@mail.ru']}
+{'com.android21buttons': ['21 Buttons', '21+Buttons', '1,000,000+', 'http://www.21buttons.com', 'hello@21buttons.com']}
+{'com.vent': ['Vent - Express yourself freely', 'Vent', '500,000+', 'http://www.vent.co', 'hello@vent.co']}
+{'text.free.your.messenger': ['Social Messenger: Message, Text, Video, Chat', 'HT+-+Dev', '100,000+', 'https://privacypolicies.com/privacy/view/b9c835add7561b58338c4ad2d94150e4', 'venispuhuutho@gmail.com']}
+{'com.influence.flow.pro': ['Popular -  get popularity on IG', 'KissySue', '100,000+', 'https://www.walmart.com/cp/food/976759?athcpid=e7e85894-8922-4b72-b272-975924143cd6&athpgid=athenaHomepage&athznid=athenaModuleZone&athmtid=AthenaFeaturedCategory&athtvid=1&athena=true', 'zerone.kissy@gmail.com']}
+{'com.addnow.yoclem.addnow': ['Friends for Snapchat - AddNow', 'Yohan+Boitel', '10,000+', 'http://www.addnowapp.co/', 'addsnapapp@gmail.com']}
+{'ro.novasoft.cleanerig': ['Cleaner for Instagram Unfollow, Block and Delete', 'Novasoft+Cloud+Services+S.R.L.', '1,000,000+', 'https://www.novasoft.ro', 'cleaner@novasoft.ro']}
+{'app.zenly.locator': ['Zenly - Best Friends Only', 'ZENLY', '5,000,000+', 'http://www.zen.ly', 'love@zen.ly']}
+{'com.explore.web.browser': ['Web Browser & Explorer', 'Mobile_V5', '10,000,000+', 'https://s3.amazonaws.com/litterpenguin/WebBrowserPrivacy.txt', 'litterpenguin.v6@gmail.com']}
+{'com.Morning.Gif': ['Good Morning Gif', 'NewLooks', '500,000+', 'http://animateed.com/privacy-policy/', 'karim.nkaila@gmail.com']}
+{'com.mobilearts.instareport': ['Reports+ Followers Analytics for Instagram', 'MobileX', '1,000,000+', 'http://reportsapp.org', 'support@mobilex.com.tr']}
+{'com.peoplelooker': ['People Search by PeopleLooker', '8296289511723161189', '100,000+', 'https://www.peoplelooker.com/', 'support@peoplelooker.com']}
+{'com.gifgoodmorningstickers': ['GOOD MORNING GIF STICKERS', 'GIF+COLLECTION+STORE', '50,000+', 'http://www.android-ios.co.in/NgData/PrivacyPolicy.html', 'lovegupt143@gmail.com']}
+{'ru.taboo.app': ['Secret - Dating Nearby', 'New+Technologies+LLC', '500,000+', 'https://chocoapp.ru/secret-mobile', 'support@chocoapp.ru']}
+{'messenger.chat.social.messenger.lite': ['Messenger Pro Lite for Messages,Text & Video Chat', '8696216234951434473', '100,000+', 'https://privacypolicy639727281.wordpress.com/2019/01/18/privacy-policy-messenger-lite/', 'help@appyhigh.com']}
+{'com.synergetechsolutions.nearbylive': ['Nearby - Chat, Meet, Friend', '8233558019727996517', '5,000,000+', 'https://www.wnmlive.com/', 'support@wnmlive.com']}
+{'com.all.newsocial.network': ['All Social Networks', 'Option+Studio', '10,000+', 'https://sites.google.com/view/allsociallnetwork', 'optionstudioo@gmail.com']}
+{'com.vkontakte.android': ['VK', 'VK.com', '100,000,000+', 'https://vk.com/android_app', 'support@vk.com']}
+{'com.surgeapp.zoe': ['Zoe: Lesbian Dating', 'Zoe+App', '100,000+', 'http://www.zoeapp.co', 'help@zoeapp.co']}
+{'com.chatgum.chat.rooms': ['Chat Rooms - Find Friends', '9017749172020909225', '1,000,000+', 'http://chatgum.com', 'support@chatgum.com']}
+{'com.tracker.enduro': ['Enduro Tracker - real-time GPS tracker', 'Bits+Squad', '100,000+', 'https://endurotrackerprpol.firebaseapp.com/', 'eugene_lange@mail.ru']}
+{'com.bluelionmobile.qeep.client.android': ['Qeep® Dating App for Serious Relationships', '7949826841308453698', '10,000,000+', 'http://www.qeep.net/', 'support-android@qeep.net']}
+{'com.followers.unfollower': ['Unfollowers For Instagram & Non Followers 2019', 'apps+bro+best', '100,000+', 'https://sites.google.com/view/apps-bro-best/privacy-policy', 'tyghyuio2@gmail.com']}
+{'com.omaapps.chatomega': ['Chat Omega for Omegle', 'oma+apps', '10,000+', 'https://sites.google.com/view/oma-apps-chatomega/home', 'omaapps5@gmail.com']}
+{'com.repost.reposta': ['Reposta - Repost for Instagram', 'Repost+App', '500,000+', 'https://sites.google.com/view/reposta-privacy-policy', 'reposta101@gmail.com']}
+{'com.followertagbooster': ['Get Real Followers And Likes - Booster by #tag', 'WeFollowMe+App+Design+Followers', '100,000+', 'http://nextmodel.nl/privacy_policy', 'alexjoz2626@gmail.com']}
+{'com.hi5.app': ['hi5 - meet, chat & flirt', 'Ifwe+Inc.', '5,000,000+', 'http://www.hi5.com', 'androidsupport@hi5.com']}
+{'com.androdlab.multi.color.forfacebook2018': ['Multi Color For Facebook', 'AndrodLab', '500,000+', 'https://androdlab.wordpress.com/', 'AndrodLab4u@gmail.com']}
+{'com.instagram.igtv': ['IGTV', 'Instagram', '1,000,000+', 'http://help.instagram.com/', 'android-support@instagram.com']}
+{'com.blackplanet': ['BlackPlanet - Meet New People', 'InteractiveOne', '500,000+', 'http://BlackPlanet.com', 'bpapp.feedback@interactiveone.com']}
+{'jp.naver.lineplay.android': ['LINE PLAY - Our Avatar World', '4919265583026901892', '10,000,000+', 'http://play.line.naver.jp/en/', 'line-support@line.me']}
+{'com.anon.anonchat': ['Anon - Anonymous Chat', 'Xtra+apps+inc.', '10,000+', 'http://AnonChat.co/privacy.html', 'oceanpipelinela@gmail.com']}
+{'com.srik.chat.strangerchat': ['Stranger Video Chat - anonymous', 'SrikLabs', '100,000+', 'https://srikmediaapps.blogspot.com', 'srikmedia@gmail.com']}
+{'com.activebuilding.residents': ['ActiveBuilding', 'RealPage+Incorporated', '100,000+', 'http://www.activebuilding.com', 'support@activebuilding.com']}
+{'com.desk.fanlift': ['Fan Lift', 'Fan+Lift', '100,000+', 'http://fanlift.co.in/site/privacy_policy.html', 'fanliftdesk@gmail.com']}
+{'com.emojifamily.emoji.keyboard.sticker.MiddleFingerGif': ['Middle Finger Emoji Sticker', '5769316720205135998', '1,000,000+', 'http://www.facebook.com/kkemojikeyboard', 'feedbackkeyboard@gmail.com']}
+{'com.skyfireapps.followersinsightapp': ['Followers Insight for Instagram', 'MonoMosaic', '10,000,000+', 'http://www.monomosaic.com/privacy', 'support@monomosaic.com']}
+{'com.holiestep.msgpeepingtom': ['Message Peeping Tom', 'HSTAR', '1,000,000+', 'https://www.facebook.com/holiestep', 'true.step16@hotmail.com']}
+{'com.tt.reallikes': ['RealLikes - Get Real Likes & Followers', 'Fan+Lift', '100,000+', 'http://tiktokliker.com/sites/privacy_policy.html', 'fanliftdesk@gmail.com']}
+{'com.couplestory.stickers': ['Couple Story Stickers Packs - WAStickerApps', 'HD+GIF+wallpapers', '100,000+', 'https://sites.google.com/view/privacy-policy-hdgif', 'gifswallpapers@gmail.com']}
+{'com.desidogs.aldeg': ['All Wishes GIF Collection', '8506943128636286266', '100,000+', 'https://sites.google.com/view/desidogs-privacy-policy', 'hodianaga@gmail.com']}
+{'com.narvii.amino.x3': ['Anime & Manga Amino for Otakus', 'Amino+Apps', '1,000,000+', 'http://aminoapps.com/', 'support@aminoapps.com']}
+{'com.video.chat.spark': ['SPARK - Live random videochat in different regions', 'Spark+Dev', '5,000,000+', 'http://ggimg.tapas.net/prod/upload/static/meet/privacy_policy-Spark.html', 'RichardFish1971@gmail.com']}
+{'lux.elixir.unfollow': ['Unfollowers & Ghost Followers For Insta', 'MaximMobi', '10,000+', 'https://sites.google.com/site/maximmobel123/', 'ngoctram021196@gmail.com']}
+{'com.loosidapp': ['LOOSID - Meet New Sober People and Start Dating', 'Loosid+App+LLC', '1,000+', 'http://loosidapp.com', 'support@loosidapp.com']}
+{'com.ytmates.subs': ['YTMate - Real Subscribers & Views', 'SocialFanBoost', '100,000+', 'http://ytmates.com/site/privacy_policy.html', 'help.socialfan@gmail.com']}
+{'com.berminal.bermi': ['Bermi: Watch Videos and Earn Money', 'Berminal', '500,000+', 'http://bermi.tv', 'hola@bermi.tv']}
+{'com.mimisoftware.emojicreatoremoticonosemoticones': ['Emoji Maker - Create Stickers, Emoticons & Emojis', '9067163997993645846', '1,000,000+', 'http://universappstudio.com', 'mimistudiosoftware@gmail.com']}
+{'com.faceitforme.duuple': ['Duuple - The App for Challengers', 'Face+It+For+Me,+Llc', '10,000+', 'https://www.duuple.com/home/landing', 'support@duuple.com']}
+{'com.google.android.apps.blogger': ['Blogger', '5700313618786177705', '10,000,000+', 'http://www.blogger.com/', 'apps-help@google.com']}
+{'com.dailywishes.goodmorning.goodmorninggif': ['Good Morning GIF', 'Daily+Wishes', '50,000+', 'https://s3-ap-northeast-1.amazonaws.com/dailywishes/privacypolicy.html', 'dailywishes94@gmail.com']}
+{'com.test.teendatingsite.net.app': ['Teen Dating - Chat & Meet', 'DEVELOPERS+CHOICE', '100,000+', 'https://teendatingsite.net', 'info@teendatingsite.net']}
+{'speedy.lovestickers': ['I Love Stickers - I Love You Stickers', 'SpeedyGames', '100,000+', 'http://speedygamesprivacypolicy.blogspot.in/2017/03/speedygames-privacy-policy.html', 'games.speedy@yahoo.com']}
+{'com.patook.patook': ['Patook - make platonic friends', 'Patook+LLC', '100,000+', 'http://www.patook.com', 'info@patook.com']}
+{'com.waf.husbandmessages': ['Love Messages For Husband - Romantic Images', 'Touchzing+Media', '100,000+', 'http://www.touchzing.com', 'info@touchzing.com']}
+{'com.narvii.amino.x81473105': ['Hello Neighbor Amino', 'Amino+Apps', '100,000+', 'http://aminoapps.com', 'support@aminoapps.com']}
+{'com.behance.behance': ['Behance', 'Adobe+Inc', '1,000,000+', 'http://www.behance.com', 'androidnetwork@behancenetwork.zendesk.com']}
+{'com.mobilepop.bitmo': ['Bitmo - The better way to gift', 'Bitmo', '50,000+', 'http://www.bitmo.com', 'support@bitmo.com']}
+{'com.narvii.amino.x6': ['Art Amino for Artists', 'Amino+Apps', '100,000+', 'http://aminoapps.com/', 'support@aminoapps.com']}
+{'com.p1.mobile.putong': ['Tantan - Date For Real', 'Tantan,+Inc.', '10,000,000+', 'http://www.tantanapp.com', 'intl-support@tantanapp.com']}
+{'com.yy.hiyo': ['HAGO', 'Hago+Games', '50,000,000+', 'https://ihago.net/', 'hagogamez@gmail.com']}
+{'com.gogolive': ['GOGO LIVE', 'Global+Live+Network,+Inc.', '500,000+', 'http://gogolive.com', 'feedback@gogolive.com']}
+{'photo.video.instagram.fastsave': ['Fast Downloader - save photo, video on Instagram', '7052217931879035502', '500,000+', 'https://awesomedroidstudio.wordpress.com/privacy-policy', 'contact.awesomedroid@gmail.com']}
+{'br.com.deway.wfapp': ['WhatsFake Pretend Fake Chats', 'Deway', '1,000,000+', 'http://www.whasfakeapp.com/', 'contato@deway.com.br']}
+{'inc.profile.analyzer.innnn': ['Follower analyzer insight', 'Profile+analyzer+inc', '100,000+', 'https://www.freeprivacypolicy.com/privacy/view/fa622be4604258923083a27910c31e82', 'profileanalyzerinc@gmail.com']}
+{'com.statuses': ['Statuses for all occasions', 'InterZnak', '10,000,000+', 'http://statuses.info', 'vasil32@gmail.com']}
+{'org.lds.justserve': ['JustServe', '8295654346829730257', '100,000+', 'http://justserve.org', 'lds.mobile.team@gmail.com']}
+{'com.stream.mystream': ['My Stream Connect', 'SGE+North+America+Serviceco,+LLC', '10,000+', 'http://mystream.com', 'customerservice@mystream.com']}
+{'com.yougov.mobile.online': ['YouGov', 'YouGov+PLC', '100,000+', 'https://yougov.co.uk', 'supportuk@yougov.com']}
+{'com.sayhi.plugin.moxi': ['Video Chat for SayHi', '8321696171123618246', '1,000,000+', 'http://unearby.com/subscribe_policy', 'support@unearby.com']}
+{'com.sgg.olo': ['Olo', 'SGG', '50,000+', 'https://www.socialgamegroup.com/', 'support@socialgamegroup.com']}
+{'com.mightybell.schooloflife': ['The School of Life', 'Mighty+Networks', '50,000+', 'https://community.theschooloflife.com/', 'help@mightynetworks.com']}
+{'com.indiegogo.android': ['Indiegogo', 'Indiegogo+-+Android', '500,000+', 'http://indiegogo.com', 'android@indiegogo.com']}
+{'com.sd.twitter.followtwitter': ['Unfollow Twitter Users', 'Soft+Dev+Team', '100,000+', 'http://www.changhaikeji.com/policy/privacypolicy.html', '843620145qq@gmail.com']}
+{'com.supergianlu.audiototextforwhatsapp': ['Audio to Text for WhatsApp', 'supergianlu', '500,000+', 'https://supergianlu.github.io/', 'grossigianluca22@gmail.com']}
+{'com.luxy': ['Luxy - Millionaire Dating', 'LUXY+Millionaire+Match+Dating+%26+Matchmaker+Service', '100,000+', 'https://www.onluxy.com', 'support@onluxy.com']}
+{'com.insta.unfollow': ['iUnfollowed: followers & unfollowers for Instagram', 'Gregory+Leonov', '500,000+', 'https://leonovdev.com', 'leonovdev@gmail.com']}
+{'com.replayit': ['ReplayIt', 'Jostens+Inc.', '100,000+', 'http://www.jostens.com', 'mobilejostens@gmail.com']}
+{'co.uk.qsoft.gaydar': ['Gaydar. Gay & Bisexual Dating.', 'CONNEXIONS+IP+LIMITED', '1,000,000+', 'http://www.gaydar.net', 'support@gaydar.net']}
+{'com.missionhub': ['MissionHub', 'Cru', '10,000+', 'https://missionhub.com', 'support@missionhub.com']}
+{'free.reversephone.lookup': ['Reverse Phone Lookup Free', 'Reverse+Phone+Lookup+Cellphone+Number+Search', '10,000+', None, 'ohhello@cyberdude.com']}
+{'com.smashbomb.app': ['Smashbomb', 'Smashbomb', '10,000+', 'https://smashbomb.com', 'hello@smashbomb.com']}
+{'com.allwishes.happy.birthdaygif': ['Happy Birthday GIF', 'All+Wishes+GIF', '5,000+', 'http://s3-ap-south-1.amazonaws.com/allwishesgif/privacypolicy.html', 'allwishesgif@gmail.com']}
+{'com.justdo.instafollow': ['Unfollow Pro for Instagram', '5006301820184753017', '1,000,000+', 'https://sites.google.com/site/netsocialproofofficial/products-services/unfollow-pro-for-instagram', 'nearviro@gmail.com']}
+{'com.corific.hummr.app': ['Hummr - Get paid for chats and calls', 'Corific+Technologies', '5,000+', 'https://www.corifictechnologies.com/hummr', 'support@corifictechnologies.com']}
+{'com.balanceenquiryapps.goodmorninggif': ['Good Morning GIF 2019', 'NBS+APPS', '10,000+', 'https://s3.ap-south-1.amazonaws.com/bankingenquiryapps/privacypolicy.html', 'ishika09082018@gmail.com']}
+{'com.shaadi.android': ['Shaadi.com® - No.1 Rated Matchmaking App', 'People+Interactive', '10,000,000+', 'https://www.shaadi.com/', 'androidfeedback@shaadi.com']}
+{'com.github.sutv.viewx': ['uTubeX - Views, subs, likes and comments exchange', '4920829699237398734', '100,000+', 'https://viewx.herokuapp.com', 'utubex.sp@gmail.com']}
+{'com.romanticgifstickers': ['ROMANTIC GIF STICKERS', 'GIF+COLLECTION+STORE', '100,000+', 'http://www.android-ios.co.in/NgData/PrivacyPolicy/GCS/PrivacyPolicy.html', 'lovegupt143@gmail.com']}
+{'dating.nearbylovechat': ['LoveDate - Nearby Singles Dating app for Teenages', 'LoveDateApp', '50,000+', 'http://17date.blogspot.com/2017/01/privacy-policy-and-terms.html', 'lovedateapp@gmail.com']}
+{'com.ilocatemobile.navigation': ['Mobile Phone Location - Family GPS Tracker', 'Coefficient+Software+Systems+Pvt.+Ltd.', '10,000+', 'https://www.ilocatemobile.com', 'support@ilocatemobile.com']}
+{'com.cmcm.shorts': ['Cheez-Funny Videos&Dance', 'Live.me+Broadcast', '5,000,000+', 'https://www.cheez.com/', 'cheezvideoofficial@gmail.com']}
+{'lea87crzz.tu.secreto': ['YouSecret: Anonymous messages near you', '8613924035627722202', '1,000,000+', 'https://tusecreto.io', 'hola@tusecreto.io']}
+{'com.mlive.mliveapp': ['MLive : Hot Live Show', 'WinNine+Pacific+Pty+Ltd', '1,000,000+', 'https://winnine.com.au/about/mlive/UserAgreeMent', 'support@winnine.com.au']}
+{'com.golive.goo': ['Go Live-young live me', 'funlive.chat', '10,000+', 'http://www.fallchat.com', 'szfunlive2018@gmail.com']}
+{'com.mobiversite.lookAtMe': ['Followers for Instagram & IG - Unfollower Reports', '5613692554951376433', '50,000+', 'http://www.mobiversite.com', 'info@mobiversite.com']}
+{'com.melonapps.melon': ['Melon', 'Castle+Global', '5,000,000+', 'https://themelonapp.com/', 'team@chatous.com']}
+{'com.avishtechnologiestextbomber.app.textbomber': ['Text Bomber', 'Avish+Bhargav+Kolusu', '1,000+', None, 'avishtechnologies@gmail.com']}
+{'com.emojifamily.emoji.keyboard.sticker.TextGif': ['Text Gif Cute Emoji Keyboard sticker', 'Top+Sticker+World', '10,000+', 'http://www.facebook.com/kkemojikeyboard', 'topstickerworld@gmail.com']}
+{'com.social.nearby': ['CloseBy - Discover People', 'SG+Mobile+Solutions', '500,000+', 'http://sga-nearby.com/', 'socialnearby@gmail.com']}
+{'app.buzz.share': ['Helo - Share and Care, Connect You to the World', 'Helo+Holdings+Limited', '50,000,000+', 'http://www.helo-app.com', 'feedback@helo-app.com']}

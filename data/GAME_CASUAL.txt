@@ -1,0 +1,558 @@
+{'com.relax.coloring.games.color.by.number.colourpop': ['Pop Color   Coloring Pages', 'Color+by+Number+Studio', '10,000+', 'https://sites.google.com/site/privacypolicycbnstudio/', 'support@popcolor.freshdesk.com']}
+{'com.blast.ultimate.matchpuzzlegame': ['Ultimate Blast', '8089005076453014627', '5,000+', 'http://msgamesltd.wixsite.com/morgames/privacy-policy', 'zorergames@gmail.com']}
+{'com.mese.fallingsphera': ['Falling Sphera', '7693444131500909348', '10+', 'https://meseedev.wixsite.com/meseedevelopment', 'meseedev@gmail.com']}
+{'com.ubiloft.barberShopSimulator3d': ['Barber Shop Simulator 3D', '9196387393983854723', '100+', 'https://ubiloftgameslt.wordpress.com/privacy-policy/', 'ubiloftgameslt@gmail.com']}
+{'com.verdadoreto2': ['Truth or Dare 2', 'Pblu', '1,000+', 'http://myappterms.com/reader.php?lang=es', 'pblu.zero@gmail.com']}
+{'com.powergirdcar.doctorSweet.PetsHouse': ['Pet Hosptial Match', 'OKGO', '5,000+', 'https://sites.google.com/site/ferrblast/', 'okliu666sz@gmail.com']}
+{'pizza.maker.restaurant.magic.land.of.games': ['Pizza Maker: My Pizzeria Games', 'Magic+Land+of+Games', '500+', 'https://miticdivnaa.wixsite.com/magiclandofgames', 'mitic.divnaa@gmail.com']}
+{'nails.salon.magic.land.of.games': ['3D Nails Game Manicure Salon', 'Magic+Land+of+Games', '1,000+', 'https://miticdivnaa.wixsite.com/magiclandofgames', 'mitic.divnaa@gmail.com']}
+{'com.aqilastudio.inusasa.pixel.art': ['Anime Pixel Art', 'aqilastudio', '10+', None, 'johnbastian32@gmail.com']}
+{'com.rpjstudio.bananafrittersrecipe': ['Banana Fritters Recipe', '5073036740056992639', '5+', 'https://sites.google.com/view/rpjstudio-privacy-policy/home', 'rpjstudio2019@gmail.com']}
+{'com.ninja.colorfulbook': ['Ninja Coloring Drawing Book Game  Super Hero', 'coloring+books', '10+', 'https://docs.google.com/document/d/1zhIrPSCOHQFPZntHlOC9lfK2xjq_soLRiB83xx3EFaM/edit', 'coloringincmassi@gmail.com']}
+{'com.kazgrin.blue': ['blue.', 'Kazgrin', '5+', 'https://twitter.com/kazgringame', 'kazgrin7mc@gmail.com']}
+{'com.fantasy.hitsknife.fantasyhits': ['Fantasy Knife Hits Ultimate', 'Jeremy%27s+and+Jai%27s+mobile+apps', '100+', 'https://mirzamzn1.wixsite.com/privacypolicy', 'jeremyhinton12345@gmail.com']}
+{'com.vanara.battleroadcar.new2': ['Road Car Battle', '8495422760611137866', '1+', None, 'linkinjack99@gmail.com']}
+{'com.Pradana.FruitDeluxe2019': ['Fruit Deluxe 2019', '5108731148891620522', '10+', 'https://pradanags.blogspot.com/p/privacy-policy.html', 'padanags@gmail.com']}
+{'com.drasticfun.duckflip': ['Duck Flip', 'Drastic+Fun', '1,000+', 'http://drasticfun.com', 'roee@drasticfun.com']}
+{'org.scb.diamondcrush': ['Diamond Crush Jewels - Egypt Secret Adventure', 'Candy+Sweeper+Blast+Studio', '1+', 'https://sites.google.com/site/candysweeperblaststudio/privacy-policy', 'buinhathao0904@gmail.com']}
+{'com.anomni.SmallestNumber': ['Smallest Number', 'Anomni', '1+', None, 'amonomni@gmail.com']}
+{'com.sunshine.polyrollcars': ['Cars Poly Sphere 3D Puzzle: Retrowave Poly Art', 'Sunshine+Gamedesign', '1+', 'https://tinyurl.com/yd6p3ncy', 'benkraemer79@gmail.com']}
+{'com.rockgamers.helixprincessjumperroyalcastlejump': ['Helix Princess Jumper : Royal Castle Jump', 'Rock+Gamers', '10+', 'https://alphakodez.wordpress.com/privacy-policy/', 'mohammad.shahid8797@gmail.com']}
+{'com.andynosoft.balloonpop': ['Balloon Pop', 'andynosoft', '100+', 'http://andynosoft.azurewebsites.net/privacy.html', 'germanandino@gmail.com']}
+{'com.newageapps.star.gymnastic': ['Gymnastics Star Girl - Olympic Games Superstar', 'NewAge+Apps', '5+', 'https://newageapps-privacypolicy.blogspot.com/p/privacy-policy.html', 'newageapps09@gmail.com']}
+{'com.game.fallingpuzzle': ['Falling Puzzle', 'Sweetener', '1,000+', 'https://www.happypuzzlematch.com/yinsi.html', 'tiansuanjiang@gmail.com']}
+{'com.poco.fantasyglider': ['Fantasy Glider', '5478848039072212179', '1,000+', 'https://forum.poco.in', 'pocodevelopers@gmail.com']}
+{'eu.foxcom.snail': ['Fancy Snail Dress Up Game', '6728887314877621176', '1+', 'http://www.foxcom.eu', 'android-support@foxcom.eu']}
+{'petelap.radarblast.free': ['Radar Blast', 'Pete+Lapczynski', '10+', None, 'petelapczynski@gmail.com']}
+{'com.surpriseeggs.dolls.collect.surprisedolls': ['Cute dolls: open eggs', 'Amazing+Little+Dolls', '10+', 'https://sites.google.com/view/amazing-little-dolls/home', 'dungeonkeeper9@gmail.com']}
+{'com.anblow.ballfreak': ['BallFreak - Ball Games, SpeedBall, Jump Ball', '4799031664931418706', '500+', 'https://anblowprivacy.blogspot.com/2019/02/ballfreak.html', 'contactstartception@gmail.com']}
+{'com.taskas.MeetMeBlackEyed': ['Meet Me Halfway - Piano Dots - Black Eyed Peas', 'GretaDeveloper', '1+', 'https://unity3d.com/legal/privacy-policy', 'Gretadeveloper@gmail.com']}
+{'com.playrix.homescapes': ['Homescapes', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/homescapes/index.html', 'homescapes@playrix.com']}
+{'com.raptisoft.Chuzzle2': ['Chuzzle 2', 'Raptisoft', '100,000+', 'http://www.raptisoft.com', 'wellhelloraptisoft@gmail.com']}
+{'com.outfit7.mytalkingtom2': ['My Talking Tom 2', '5630538819012062144', '50,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.relax.coloring.games.color.by.number.colourpop': ['Pop Color   Coloring Pages', 'Color+by+Number+Studio', '10,000+', 'https://sites.google.com/site/privacypolicycbnstudio/', 'support@popcolor.freshdesk.com']}
+{'com.wakeapp.MergePlus': ['Merge Plus', 'Wakeapp+Games', '100,000+', 'http://wakeapp01.com/proto.html', 'wakeapp@126.com']}
+{'com.outfit7.mytalkingangelafree': ['My Talking Angela', '5630538819012062144', '100,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.foranj.idlemonsters': ['Idle Monster: Happy Mansion in Click Away Village', '5015614164434071583', '500,000+', 'http://foranj.com', 'help@foranj.com']}
+{'com.dg.puzzlebrothers.bubble.blast.adventure.ocean': ['Bubble Bobble Blast - Ocean Adventure', 'Bubble+Quest+%26+Free+Bubble+Pop+by+Difference+Games', '500+', 'http://www.differencegames.com', 'bubblequest@differencegames.com']}
+{'com.relaxingbraintraining.knives': ['Knife', 'PlaySpot+Games', '100,000+', 'https://www.playspot.io/games-privacy-policy', 'f2p.media.group@gmail.com']}
+{'com.myapp.sweethouse': ['Sweet House', 'MAFT+Wireless', '100,000+', 'https://go-sweet-house.firebaseapp.com/privacy_policy.html', 'MAFTWireless@outlook.com']}
+{'ru.crazybit.experiment': ['Island Experiment', '8107855987752203465', '10,000,000+', 'http://nextersglobal.com', 'support@nexters.zendesk.com']}
+{'holy.bible.biblegame.bibleverse.color.by.number.colorbynumber.paint.pixel.art': ['Bible Coloring - Paint by Number, Free Bible Games', 'iDailybread.org', '500,000+', 'https://s3.amazonaws.com/img.idailybread.com/bp/bp-policy.html', 'cs@idailybread.org']}
+{'com.muji.sweet.candy.cookie': ['Cookie Crush 2019 - Free Match Blast', 'ZY+Top+games', '1,000,000+', 'https://www.facebook.com/Sweet-Cookie-Mania-Best-Match-Game-157663798326452/', 'support@zymobile.net']}
+{'com.teknasyon.coloringbook': ['iPaint - Coloring Book', 'Teknasyon', '1,000,000+', 'http://www.ipaintcoloringbook.com', 'support@ipaintcoloringbook.com']}
+{'com.playrix.township': ['Township', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/township/index.html', 'support@playrix.com']}
+{'com.WildWorks.RyansTag': ['Tag with Ryan', '5526536669105149839', '1,000,000+', 'http://tagwithryan.com', 'info@wildworks.com']}
+{'bubble.shooter.pop.pro.free': ['Bubble Shooter 2019', 'Shoot+Bubble+Inc', '10,000+', 'https://privacypolicybubble89.blogspot.com/2019/01/privacy-policy.html', 'parker80889999@gmail.com']}
+{'com.lyrebirdstudio.upstairs': ['Upstairs: Endless Stairs', '8117239212302166287', '5,000+', 'http://lyrebirdstudio.net/privacy_policy.htm', 'lyrebirdstudio@gmail.com']}
+{'com.kwalagame.mergerWarriors': ['Merge Warriors - Idle Legion Game', 'KwalaGame+HK', '10,000+', 'http://kwalagame.net/privacy-policy.html', 'support@kwalagame.com']}
+{'com.toopgames.tcennocevol': ['Love Connect Reward - Win Prizes', 'Toop+games+Funpin', '100,000+', 'http://loveconnect.home.blog', 'Dpckrfls9305719@gmail.com']}
+{'com.foranj.monsterfarm': ['Monster Farm: Happy Ghost Village & Witch Mansion', '5015614164434071583', '1,000,000+', 'http://foranj.com', 'support.monster@foranj.com']}
+{'com.bestroadgames.riskyride': ['Risky Ride', 'Ross+Jenkins', '5,000+', None, 'ross@digitalme.cc']}
+{'com.tabtale.crazyhair': ['Crazy Hair Salon-Girl Makeover', '5735447750101420287', '5,000,000+', 'http://www.tabtale.com/', 'support@TabTale.com']}
+{'com.budgestudios.HelloKittyNailSalon': ['Hello Kitty Nail Salon', '7489594886728593506', '50,000,000+', 'https://budgestudios.com/en/apps/detail/hello-kitty-nail-salon/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=HKNS_GP', 'support@budgestudios.ca']}
+{'com.bigsurprise.loldressing': ['LOL Glam Doll Makeover', 'Chris+Crosset', '500+', None, 'chriscrosset1@gmail.com']}
+{'com.outfit7.talkingtom': ['Talking Tom Cat', '5630538819012062144', '100,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.warducks.smooshymushy': ['My Smooshy Mushy', 'WarDucks+Ltd', '50,000+', 'http://warducks.com', 'accounts@warducks.com']}
+{'com.batoki.kids.toddlers.fashion.hair.salon': ['Fashion Hair Salon', 'BATOKI+-+Best+Apps+for+Toddlers+and+Kids', '1,000,000+', 'http://bestappsfortoddler.wix.com/batoki', 'best.apps.for.toddlers@gmail.com']}
+{'com.outfit7.mytalkingtomfree': ['My Talking Tom', '5630538819012062144', '500,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.budgestudios.googleplay.TransformersDisasterDash': ['Transformers Rescue Bots: Disaster Dash', '7489594886728593506', '5,000,000+', 'https://budgestudios.com/en/apps/detail/transformers-rescue-bots-disaster-dash/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=TRBDD_GP', 'support@budgestudios.ca']}
+{'com.jumpball.red.game': ['Jump Ball Zero', 'Aleksey+Alyabyshev', '100+', 'https://sites.google.com/view/jump-ball-zero/home', 'AlekseyAlyabyshev@hotmail.com.us']}
+{'ge.nextep.Taser': ['Taser Prank - Stun Gun', 'Talgame+ent.', '100,000+', 'http://www.talgame.com/about/privacy', 'nextep.az@gmail.com']}
+{'com.pat.legomovie2.colorbynumber.pixel': ['Lego 2 - Color by number', 'PAT+SIYOB', '500+', None, 'dkihys@gmail.com']}
+{'com.flyfoodapp': ['Fly Food', 'RLBL+Games', '500+', 'http://ramonleonardo.com.br/', 'ramonleonardo2013@gmail.com']}
+{'com.bungieinc.bungiemobile': ['Destiny 2 Companion', 'Bungie,+Inc.', '5,000,000+', 'https://www.bungie.net', 'bma_sup@bungie.com']}
+{'com.junegaming.ninjafunrace': ['Ninja Race - Fun Run Multiplayer', '5441715344114404890', '100,000+', 'http://junegaming.com', 'playstore@junegaming.com']}
+{'com.magmamobile.game.IceCream': ['Ice Cream', '5093519374571024344', '5,000,000+', 'http://m.magmamobile.com/', 'supportapp@magmamobile.com']}
+{'com.DataHiveSolutions.JumpSquad': ['Jump Squad', 'Data+Hive+Solutions', '100,000+', 'http://www.datahivesolutions.com.sg/', 'support@datahivesolutions.com.sg']}
+{'com.hintsthings.freevbxguide': ['Advice On Free V bucks Battle Royale', 'Muhammad+Tausif', '5,000+', 'http://www.tausifasia.com', 'tausifasia@gmail.com']}
+{'com.minigamersclub.pretend.play.in.hospital': ['Pretend Play in Hospital: Fun Town Life Story', 'Mini+Gamers+Club', '10,000+', 'https://www.minigamersclub.com/privacy-policy.html', 'minigamersclub@gmail.com']}
+{'com.gi.talkingprincesa': ['Talking Ice Queen', '8714858389463466155', '100,000+', 'http://www.mytalkingtoys.com', 'android@generamobile.com']}
+{'com.uappgames.gameforcouple': ['Game for Couple', 'UAPP+GAMES', '500+', 'http://uapp.inf.ua/', 'uapp.games@gmail.com']}
+{'com.gamesforkids.coloring.games.preschool': ['Coloring Games : PreSchool Coloring Book for kids', 'GunjanApps+Studios', '100,000+', 'http://gunjanappstudios.com/', 'support@gunjanappstudios.com']}
+{'com.budgestudios.SmurfsBakery': ['The Smurfs Bakery', '7489594886728593506', '5,000,000+', 'https://budgestudios.com/en/apps/detail/the-smurfs-bakery/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=SBakery_GP', 'support@budgestudios.ca']}
+{'com.kiwigo.alicemakeupsalon.free': ['Alice Makeup Salon - Wonderland Fashion War', 'Kiwi+Go', '1,000,000+', 'https://sites.google.com/site/privacypolicykiwigo/', 'bigamesaler@hotmail.com']}
+{'com.milliongames.realfidgetspinner': ['Real Fidget Spinner', 'GT+Action+Games', '100,000+', 'http://www.milliongames.net', 'milliongames333@gmail.com']}
+{'bubble.shooter.shooting.shoot.game': ['Bubble Shooter', 'Candy+Bubble+Studio', '50,000,000+', 'https://sites.google.com/site/candybubblestudio/', 'yuyijuiis@gmail.com']}
+{'air.bullstudios.fairyhorsecare': ['Tooth Fairy Horse - Caring Pony Beauty Adventure', '5425858462510307651', '1,000,000+', 'http://labcavegames.com', 'support@labcavegames.com']}
+{'com.pollardbanknote.WildTime': ['Wild Time by Michigan Lottery', 'Pollard+Banknote+Limited', '100,000+', 'http://playwildtime.com', 'pbllmsdev@gmail.com']}
+{'com.FoxieGames.DinoWorldOnline': ['Dino World Online - Hunters 3D', 'App+Holdings', '1,000,000+', 'http://www.foxiegames.com', 'contact@foxiegames.com']}
+{'adult.coloring.book.mandala.colorfy.coloring.free': ['Color Mandala Book -  Mandala Coloring Art', '8186440931703540103', '1,000,000+', 'http://www.dailyinnovation.biz/privacy.html', 'support@dailyinnovation.biz']}
+{'com.timuzgames.runrun3': ['RUN RUN 3D - 3', '8347901481645278558', '5,000,000+', 'http://www.timuz.com', 'info@timuz.com']}
+{'com.playstack.avaairborne': ['Ava Airborne', '6141132371121472740', '10,000+', 'http://www.playstack.com', 'avaairborne-support@playstack.com']}
+{'dk.neurons.game.tenk': ['10,000 - The Dice Game', 'Neurons+In+Action', '100,000+', 'http://neurons.dk', 'neuronsinaction@gmail.com']}
+{'com.creative.cross.stitch.relaxing.game': ['Cross Stitch Joy', 'Creative+APPS', '1,000,000+', 'http://creative100.cc/privacy.html', 'Creative.app@hotmail.com']}
+{'com.hitop.butterflypark': ['Butterfly Park', 'HipTop+Game', '1,000+', 'http://www.ileadsoft.com/about/show.php?lang=cn&id=106', 'HitTopLoin@gmail.com']}
+{'com.dmrun.round.gpgame': ['Stick Man Run Around', 'wutomy', '5,000+', 'http://p.sandro.wang/policy_gp.html', 'wutomy0721@gmail.com']}
+{'com.xnyegame.climbingup': ['Climbing Up', 'DoughStudio', '10,000+', 'https://superiorzzr.tumblr.com/post/177828573852/privacy-policy12', 'jinwenhai.global@gmail.com']}
+{'com.timuzgames.emoji.io': ['Emoji.io Free Casual Game', '8347901481645278558', '100,000+', 'http://www.timuz.com', 'info@timuz.com']}
+{'com.edujoy.carwash': ['Car Wash for Kids', 'AppQuiz', '1,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.pbs.office.pretend.lifestyle': ['My Office Pretend Lifestyle: Play Town Busy Life', 'Paint+Balls+Studio', '1,000+', 'https://paintballsstudio.wordpress.com/privacy-policy/', 'paintballsstudio@gmail.com']}
+{'com.expertinapps.hotelcleaning': ['Hotel Room Cleaning Games', 'sixbro', '1,000,000+', 'https://sites.google.com/view/sixbroapps/privacy_policy', 'expertinapps@gmail.com']}
+{'draw.finger.spinner.game': ['Draw Finger Spinner', 'DrawAPP', '1,000,000+', 'http://drawapp.cc/privacy.html', 'eyewind.draw@hotmail.com']}
+{'com.tabtale.fashionstarfiasco': ['Top Model - Next Fashion Star', '5735447750101420287', '5,000,000+', 'http://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'com.emmathegardener.flowergardengames': ['Emma the Cat Gardener: My Virtual Pet', '8699943899701847995', '50,000+', 'http://didelisauksodrakonas.com/', 'digitaleagleapps@gmail.com']}
+{'com.pandastic.hungrypets': ['Hungry Pet Mania - Match 3 Gems Game', '5109527294243675565', '50,000+', 'https://www.fgl.com/pp.php', 'fglindieshowcase@flashgamelicense.com']}
+{'com.Boomware.CinemaPanic2': ['Cinema Panic 2: Cooking Quest', '5252755467802352350', '1,000,000+', 'https://www.facebook.com/cinemapanic2/', 'support@boomware.pe']}
+{'com.sandboxol.indiegame.buildbattle': ['Build Battle', '4938630938738168004', '5,000,000+', 'https://blockmango.net/', 'indiegames@sandboxol.com']}
+{'game.shooting.chicken.shoot.blaster.alien.invaders.shooter': ['Poultry Shoot Blast: Free Space Shooter', '4904411149839398490', '500,000+', 'https://bestfreegamesformobile.blogspot.com/2018/09/privacy-policy.html', 'pinkfloyd_vn2003@yahoo.com']}
+{'com.magmamobile.game.Burger': ['Burger', '5093519374571024344', '50,000,000+', 'http://m.magmamobile.com/', 'supportapp@magmamobile.com']}
+{'com.budgestudios.StrawberryShortcakeSweetShop': ['Strawberry Sweet Shop', '7489594886728593506', '10,000,000+', 'https://budgestudios.com/en/apps/detail/strawberry-shortcake-sweet-shop/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=SSCSS_GP', 'support@budgestudios.ca']}
+{'us.castleadventure.smashbrosworldx': ['Super Jungle World Bross', 'Neo+Adventure', '100,000+', 'https://www.freeprivacypolicy.com/privacy/view/39bff75cf44d90db68715b31889aa614', 'neosonmindeka@gmail.com']}
+{'com.toopgames.ecils': ['Slice Reward - Win Prizes', 'Toop+games+Funpin', '100,000+', 'http://slice.video.blog', 'Dpckrfls9305719@gmail.com']}
+{'com.tohsoft.games.bubble.shooter': ['Bubble shooter', '6065070488969278177', '500,000+', 'http://tohsoft.com', 'game@tohsoft.com']}
+{'air.com.gamegos.mobile.fashcup': ['Fashion Cup - Dress up & Duel', '5137364340371948270', '1,000,000+', 'http://www.gamegos.com', 'mobile@gamegos.com']}
+{'air.com.puzzledreams.petstories': ['Pet Stories: Home Design and Match3', '6083144898669077445', '500+', 'http://www.renatus.com', 'product@renatus.com']}
+{'com.bubbleshooter.bubbleshooting': ['Bubble Shooter 2019 - Legend Bubble Machine', 'Pub+Studio', '10,000+', 'https://sites.google.com/view/onelinepuzzle/', 'SoloTopGroup.au@gmail.com']}
+{'com.playrific.cannonsnballs2': ['Cannons n Balls', 'Playrific+Games', '5,000+', 'http://cannonsnballs2.home.blog', 'spraybubble34@gmail.com']}
+{'com.psvn.traumatologist': ['Emergency Hospital:Kids Doctor', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '5,000,000+', 'http://psvgamestudio.com', 'hippo.kidsgames@gmail.com']}
+{'air.crazylabs.budgestudios.googleplay.hasbro.mlpcoreAPPSTORE.fashion.mlp.Girls': ['Girls Dance Magic Sour Sweet', 'neglofariti', '100+', 'http://www.kidsneglofarti.net', 'neglofarti@gmail.com']}
+{'com.bigfishgames.leagueoflightjusticegoog': ['Hidden Objects - League of Light: Edge of Justice', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'info@bigfishgames.com']}
+{'com.progimax.lighter.free': ['Lighter', 'Progimax', '10,000,000+', 'http://android.progimax.com', 'progimax.sarl@gmail.com']}
+{'com.tabtale.candyblash': ['Candy Makeup Beauty Game - Sweet Salon Makeover', '5735447750101420287', '10,000,000+', 'http://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'bwebmedia.pregnantmommy': ['Pregnant Mommy', 'bweb+media', '1,000,000+', 'http://www.dressupone.com', 'bwebmedia@rocketmail.com']}
+{'com.budgestudios.HelloKittyLunchBox': ['Hello Kitty Lunchbox', '7489594886728593506', '10,000,000+', 'https://budgestudios.com/en/apps/detail/hello-kitty-lunchbox/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=HKLB_GP', 'support@budgestudios.ca']}
+{'com.mastercarryheat.straw': ['Bubble Shooter', 'retooldirox', '10,000,000+', 'https://sites.google.com/site/retooldiroxstudio/', 'retooldirox@gmail.com']}
+{'com.donutgames.sundaylawn': ['Sunday Lawn', 'Donut+Games', '1,000,000+', 'http://www.donutgames.com', 'support-dg-android@arcadelab.com']}
+{'com.twimler.jewelmash': ['Jewel Mash', '7346138505399201088', '10,000,000+', 'http://www.twimler.com', 'jewelmashgame@gmail.com']}
+{'com.Neptunq.ESPTrainer': ['ESP Trainer', 'Dragan+Maric', '5,000+', 'https://draganmaric.com', 'neptunq@gmail.com']}
+{'com.interlinked.games.gear.smash': ['Smash Reward - Win Prizes', '8597866051548873812', '100,000+', 'https://dragonixgame.wordpress.com/', 'interlinked.games@gmail.com']}
+{'com.akroid.findway': ['Find Way Game', 'Akroid+Inc', '100+', 'http://www.akroid.com', 'akroid.com@gmail.com']}
+{'com.mobileguru.sweet.candyfever.free': ['Sweet Fever', 'Mobileguru', '5,000,000+', 'https://sites.google.com/site/mobileguruprivacypolicy/', 'mobileguru808@gmail.com']}
+{'com.v3.pingu.merge.plane': ['Plane Merger', 'Hubert+L.+Clausen', '50,000+', 'https://sites.google.com/site/zerostudiogamesone/', 'tatotota13@gmail.com']}
+{'com.bestdressupgames.adorable': ['Adorable Hair Dolls', 'Best+Dress+Up+Games+For+Girls', '1,000+', 'http://arpaplus.com/privacy-policy.txt', 'topdressupgames@gmail.com']}
+{'ru.playme8.dachniki': ['Golden Farm : Idle Farming Game', 'PlayMe8', '1,000,000+', 'http://www.playme8.com', 'support.farm@playme8.ru']}
+{'com.buttershystd.charliecharlie': ['Charlie Charlie Challenge', '6466109169586824986', '1,000,000+', 'http://www.buttershystudios.com', 'support@buttershystudios.com']}
+{'air.selfie.cleanupgameallselfie': ['Home Cleanup Game', 'Selfie+Soft', '1,000,000+', 'https://selfiesoft.wordpress.com/privacy-policy/', 'selfiesoft@gmail.com']}
+{'com.bascow.BunnyKitty': ['Pancake  Milkshake', 'BSCOW', '10,000+', 'http://www.bascow.com/', 'shahin.198cse05@gmail.com']}
+{'com.Slime.SlimeTime3D': ['Slime Time 3D!', 'Family+Games+Time', '50,000+', 'https://slimetimegame.wordpress.com/', 'familygamestime@gmail.com']}
+{'com.apprank.moneyclickersimulator': ['Money cash clicker', '8902210573391972244', '1,000,000+', 'http://appocalypses.games', 'appocalypses.ru@gmail.com']}
+{'com.tabtale.daddylittlehelper': ["Daddy's Little Helper - Messy Home Fun Adventure", '5735447750101420287', '5,000,000+', 'http://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'com.tabtale.messybabysittertwo': ['Babysitter Craziness: Kids Fun', '5735447750101420287', '5,000,000+', 'http://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'com.IFCcorp.NoobClicker': ['NoobClicker', 'Geometry+Studios', '500,000+', 'https://geometrystudiospp.blogspot.com/2019/02/privacy-policy-geomterystudios-built.html', 'happygentleman21@gmail.com']}
+{'com.retrodreamer.IceCreamJump.android.free': ['Ice Cream Jump', 'Retro+Dreamer', '10,000,000+', 'http://retrodreamer.com', 'android@retrodreamer.com']}
+{'com.sniffygames.princessbabyshowerparty': ['Princess Baby Shower Party', 'Sniffy+Games', '1,000+', 'http://sniffygames.com/privacy_policy.html', 'info.sniffygames@gmail.com']}
+{'com.progimax.stungun.free': ['Electric Stun Gun', 'Progimax', '10,000,000+', 'http://android.progimax.com', 'progimax.sarl@gmail.com']}
+{'com.gamesforgirlsfree.unicorn': ['Unicorn Dress Up - Girls Games', 'Best+Dress+Up+Games+For+Girls', '1,000,000+', 'http://arpaplus.com/privacy-policy.txt', 'topdressupgames@gmail.com']}
+{'com.aemobile.games.dentist': ['I am Dentist - Save my Teeth', 'Kids+Fun+!', '500,000+', 'http://www.ae-mobile.com/android_game.html', 'Support.Kids@ae-mobile.com']}
+{'games.fatlion.high.school.crush.craft.build.minecraft.pocket.roblox.choices.love.story.date.simulator.girls.romance.boyfriend': ['High School Crush Craft: Love Story & Dress Up Sim', '8326642621664460077', '500,000+', 'https://fatlion.games/', 'admin@fatlion.games']}
+{'com.lol.babygirl.daycare': ['LOL Baby Girl Daycare', 'Kid+Educational+Games', '100+', 'https://kidseducationalgamesprivacypolicy.blogspot.com/', 'kidseducationalgames17@gmail.com']}
+{'com.tgg.cabincrewgirlsairportmanager': ['Cabin Crew Girls Airport Manager', 'Girl+Games+-+Vasco+Games', '1,000,000+', 'http://vascogames.com', 'girlgamesvg@vascogames.com']}
+{'com.jewel.mania.crush.pop.free': ['Diamonds Crush 2019', 'Yunbu+Game+Studio', '1,000,000+', 'http://www.yunbu.me/hk/privacy_policy.html', 'yunbuhk@gmail.com']}
+{'air.jp.globalgear.lips': ['My Lips', 'G.Gear.inc', '100,000+', 'http://global-gear.jp', 'info@global-gear.jp']}
+{'com.ai.game.en': ['Fun GameBox 1000+ games in App', 'JudianTech', '5,000+', 'http://www.aibrowser.net/privacy-en.html', 'diybl@163.com']}
+{'net.fungrip.sushifriends3': ['Sushi Friends - Restaurant Cooking Game', 'FUNGRIP+Inc.', '100,000+', 'http://www.fungrip.net', 'fungrip2017@gmail.com']}
+{'com.bonbongame.nail.polish.art.designs.salon.game': ['Nail salon game - Nail Art Designs', 'bonbongame.com', '50,000+', 'https://www.facebook.com/bonbongameDOTcom/', 'edugamesstudio@gmail.com']}
+{'mini.block.craft.free.mc': ['Mini Block Craft', 'Build+Block+Studio', '1,000,000+', 'https://sites.google.com/view/bbksssd3e', 'angelomar1112@hotmail.com']}
+{'ua.krou.remembery': ['Brain games | Memory games | Pairs: Remembery', 'Dreamy+Dingo', '50,000+', 'https://docs.google.com/document/d/16Ji7v9x1ySxz__bujtBQSMZIpLV06NQWJyDbj4wREcA/edit?usp=sharing', 'krou55.90@gmail.com']}
+{'com.buildingcraftinggames.kawaii.girls.craft.anime.manga.games.minecraft.story.mode.sims.barbie.hamster.life.boonie.planet.mcpe': ['kawaii Girls Craft: Cute Story', 'Crafting+And+Building+Games+For+Girls+Adventure', '1,000,000+', 'https://projectx-mobile.apps.craftingandbuilding.games/policy/bcindex?gamename=xcraft.kawaii&gametitle=xcraft.kawaii', 'buildingcraftinggames@gmail.com']}
+{'ru.playme8.diamondstime': ['Diamonds Time - Mystery Story Free Match 3 Game', 'PlayMe8', '100,000+', 'http://www.playme8.com', 'support.google@playme8.ru']}
+{'com.fun.crazy.barber.shop': ['Barber Shop Hair Salon Beard Hair Cutting Games', '7174351842942600674', '1,000,000+', 'http://www.crazygameslab.com', 'mgamesforfun@gmail.com']}
+{'com.piupiuapps.coloringglittergirls': ['Girls Coloring Book for Kids Glitter', 'Piu+Piu+Apps', '1,000+', 'http://piupiuapps.com', 'piupiuapps@gmail.com']}
+{'com.RewForeN.FlappyBirdClone': ['Flappy Flap 2018', 'Ruan+Swanepoel', '100+', 'https://unity3d.com/legal/privacy-policy', 'ruane.swanpoel@gmail.com']}
+{'com.dicedpixel.cookingfood': ['Cooking Food - Restaurant Tycoon', 'Diced+Pixel,+LLC', '100,000+', 'https://dicedpixel.com/pp/play/com.dicedpixel.cookingfood.txt', 'hello@dicedpixel.com']}
+{'com.dicedpixel.animalevolution': ['Animal Evolution - Idle Tycoon', 'Diced+Pixel,+LLC', '100,000+', 'https://dicedpixel.com/pp/play/com.dicedpixel.animalevolution.txt', 'hello@dicedpixel.com']}
+{'com.cartoonmobile.mergecats': ['Merge Cats', 'CartoonMobile', '500+', 'http://cartoonmobile2011.wordpress.com', 'cartoonmobile@gmail.com']}
+{'com.catlauncher': ['Cat Launcher', 'RLBL+Games', '500+', 'http://ramonleonardo.com.br/', 'ramonleonardo2013@gmail.com']}
+{'com.dicedpixel.cookingemoji': ['Cooking Emoji - Food Tycoon', 'Diced+Pixel,+LLC', '100,000+', 'https://dicedpixel.com/pp/play/com.dicedpixel.cookingemoji.txt', 'hello@dicedpixel.com']}
+{'com.cute_girls.hair_salon': ['Hair Salon for Girls', 'Hippo+Games+for+Kids', '1,000+', 'http://policy.clearinvest-ltd.com/private_policy_Hippo_Games_for_Kids.html', 'hippo.gamestudio@gmail.com']}
+{'com.mena.toonCar': ['Racing Tycoon', 'AFUN+Games', '5,000+', 'http://www.menastar.com', 'rongting2018@gmail.com']}
+{'bwebmedia.myfirstpregnancy': ['My First Pregnancy', 'bweb+media', '500,000+', 'http://www.microcookinggames.com', 'bwebmedia@rocketmail.com']}
+{'com.coolgamapp.freegame.polysphere': ['Poly4u - 3D Poly Art Sphere Puzzle Games', 'Cool+Gamapp+Limited:+Cool+Games+%26+Apps+for+Free', '50,000+', 'http://www.coolgamapp.com', 'pixel4usupport@coolgamapp.com']}
+{'com.ezjoynetwork.gardenmania2': ['Garden Mania 2 - Happy New Year', 'Ezjoy', '5,000,000+', 'http://m.ezjoygame.com', 'ezjoy.feedback@gmail.com']}
+{'net.promediastudio.royalgirlsprincesssalon': ['Royal Girls - Princess Salon', 'Promedia+Studio', '10,000,000+', 'http://www.promediastudio.net/privacy.html', 'contact@promediastudio.net']}
+{'com.ids.supermarket.cashregister': ['Supermarket Cash Register - Girls Cashier Games', '9084078965255318763', '5,000,000+', 'http://www.tenlogix.com', 'info@tenlogix.com']}
+{'com.Fashion.Nail.Manicure.Makeover.Girls.Games': ['Magic Nail Spa Salon:Manicure Game', 'BubbleBee', '500,000+', 'http://www.webelinx.com', 'webpixgames2@gmail.com']}
+{'com.womzygames.hoppyfreddy': ['Hoppy Freddy', 'Womzy+Games', '100,000+', 'http://womzygames.com/privacy-policy-hoppy-freddy/', 'womzygames@gmail.com']}
+{'com.abto.manicure': ['Nail Salon™ Manicure Girl Game', 'Best+Girls+Dress+Up+Makeup+and+Nail+Manicure+Games', '10,000,000+', 'http://www.virtualiToy.com', 'virtualitoy@gmail.com']}
+{'com.ewdraw.doodle': ['Doodle : Kid | Joy', 'DrawAPP', '1,000,000+', 'http://drawapp.cc/privacy.html', 'eyewind.draw@hotmail.com']}
+{'com.factory608.DMSeng': ['LivingAlone2', '608Factory', '500,000+', 'http://cafe.naver.com/jachui2016', '608factory@naver.com']}
+{'air.com.pearsoned.poptropica': ['Poptropica', 'StoryArc+Media', '1,000,000+', 'http://www.poptropica.com', 'poptropicaapp@storyarc.media']}
+{'com.kidsthree.princessfashionsalon': ['Princess Makeup Salon', 'Tap+Happy', '10,000,000+', 'https://sites.google.com/site/enjoygametimeprvacypolicy/', 'enjoygametime@hotmail.com']}
+{'com.k3games.donuthero.free': ['Make Donut - Kids Cooking Game', 'Tap+Happy', '5,000,000+', 'http://www.kidsthree.com', 'kids-three@hotmail.com']}
+{'com.dicedpixel.cookingpandas': ['Cooking Pandas - Food Tycoon', 'Diced+Pixel,+LLC', '50,000+', 'https://dicedpixel.com/pp/play/com.dicedpixel.cookingpandas.txt', 'hello@dicedpixel.com']}
+{'com.outfit7.tomsbubbles': ['Talking Tom Bubble Shooter', '5630538819012062144', '50,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'es.parrotgames.restaurantcity': ['World Chef', '7129773085119877408', '10,000,000+', 'https://socialpoint.helpshift.com/a/world-chef/', 'info@socialpoint.es']}
+{'com.brighthouse.whitetiles4And': ['White Tiles 4 : Piano Master 2', 'Brighthouse', '5,000,000+', 'http://www.360bright.com', 'wbxgames@gmail.com']}
+{'com.talosbilisim.duckhunt': ['Duck Hunt', 'Talos+Bili%C5%9Fim', '1,000+', 'http://www.talosbilisim.com', 'talosbilisim@gmail.com']}
+{'com.pbs.luxury.mansion.life': ['My Luxury Mansion Life: Rich & Elite Lifestyle', 'Paint+Balls+Studio', '5,000+', 'https://paintballsstudio.wordpress.com/privacy-policy/', 'paintballsstudio@gmail.com']}
+{'com.survivalcrafting.girls.theme.park.craft.princess.minecraft.pocket.edition.roblox.my.little.pony.real.roller.coaster.tycoon': ['Girls Theme Park Craft: Water Slide Fun Park Games', 'Survival+Crafting+%26+Exploration+Adventure+Games', '1,000,000+', 'https://projectx-mobile.apps.craftingandbuilding.games/policy/scindex?gamename=xcraft.girls.park&gametitle=xcraft.girls.park', 'freesandboxexploration@gmail.com']}
+{'com.budgestudios.BarbieDreamtopiaEndlessHair': ['Barbie Dreamtopia Magical Hair', '7489594886728593506', '1,000,000+', 'https://budgestudios.com/en/apps/detail/barbie-dreamtopia-magical%C2%A0hair/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=Dreamtopia_GP', 'support@budgestudios.ca']}
+{'com.tabtale.skyhigh': ['Sky Girls - Flight Attendants', '5735447750101420287', '5,000,000+', 'http://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'com.plum.princessnailart2.dressup': ['Nail Art Dress Up Salon 2', '8557704091339578193', '1,000,000+', 'http://www.facebook.com/mrplumgames', 'mrplumgames@gmail.com']}
+{'com.gamesforgirlsfree.family': ['Family Dress Up', 'Svey+Development', '1,000,000+', 'https://www.facebook.com/sveydevelopment/', 'sveyapps@gmail.com']}
+{'air.theflash.f2game.DinoDeluxe': ['Transform Dino Robot - General Mobilization', '4790416717226188323', '1,000,000+', 'http://m.gomsee.com', 'tcpman2@gmail.com']}
+{'com.fatcat.injectiondoctor': ['Injection Doctor', 'lemonbab', '500,000+', 'https://sites.google.com/view/lemonbabprivacypolicy', 'lemonbabhouse@gmail.com']}
+{'cooking.story.mania.restaurant.tycoon': ['Cooking Mania - Restaurant Tycoon Game', 'Cooking+Story+Madness+:+Cooking+Games', '5,000+', 'https://sites.google.com/view/actionsfreegames/home', 'actionsfreegames@hotmail.com']}
+{'com.hazelfunstudio.pretend.play.mywinter.vacation': ['Pretend My Winter Vacation: City Home Decoration', 'Hazel+Fun+Studio', '10,000+', 'http://hazelfunstudio.com/privacy-policy.html', 'hazelfunstudio@gmail.com']}
+{'com.abto.glownails': ['Glow Nails: Manicure Nail Salon Game for Girls™', 'Best+Girls+Dress+Up+Makeup+and+Nail+Manicure+Games', '5,000,000+', 'http://www.virtualiToy.com', 'virtualitoy@gmail.com']}
+{'com.oddlysatisfyinggames.squishymakeover': ['DIY Squishy Makeover! Stress Relief With Fun', 'Oddly+Satisfying+Games', '10,000+', 'http://kilikiligames.com/privacy-policy', 'oddlysatisfyinggames@gmail.com']}
+{'com.baby.games.studio.princess.newborn.baby': ['Pregnant Mama Emergency Doctor', 'BabyGamesStudio', '100,000+', 'http://babygamesstudio.com/', 'babygamesstudio@gmail.com']}
+{'com.hellotoon.mylittlecharacter': ['My Webtoon Character - K-pop IDOL avatar maker', '7069001451540713206', '10,000+', 'http://www.hellotoon.com', 'hellotoonapps@gmail.com']}
+{'air.com.pregnantmom.baby': ['Pregnant Operation Baby Mom Care Hospital', 'vodo', '10,000+', None, 'vodo.gamess@gmail.com']}
+{'com.ea.game.pogogames': ['POGO Games', '6605125519975771237', '1,000,000+', 'http://help.ea.com', 'help@eamobile.com']}
+{'it.redbitgames.cookieclickers2': ['Cookie Clickers 2', '7928933797733954299', '1,000,000+', 'http://www.redbitgames.it/', 'support.android@redbitgames.it']}
+{'com.bestcoolfungames.snacklover': ['Snack Lover by Best Cool and Fun Games', 'Best+Cool+and+Fun+Games', '10,000+', 'http://bestcoolfungames.com', 'googlecheckout@bestcoolfungames.com']}
+{'com.beautygirlsinc.android_winterhair': ['Pop Star Hair Stylist Salon', '6215805987066412110', '5,000,000+', 'http://www.beautygirlsinc.com', 'contact@beautygirlsinc.com']}
+{'com.kiwigo.schooldatemakeup.free': ['School Date Makeup - Girl Dress Up', 'Kiwi+Go', '1,000,000+', 'https://sites.google.com/site/privacypolicykiwigo/', 'bigamesaler@hotmail.com']}
+{'com.womzygames.freddyscanyonrunner': ["Freddy's Canyon Runner", 'Womzy+Games', '100,000+', 'http://womzygames.com/privacy-policy-freddys-canyon-runner/', 'womzygames@gmail.com']}
+{'com.ewmobile.lie.detector.prank': ['Lie Detector Prank', 'ewapp', '500,000+', 'https://sites.google.com/view/ewapp-privacy-policy/', 'ewapp@hotmail.com']}
+{'com.hugsnhearts.girls_breakup_three': ['Girlfriends Guide to Breakup 3: New Love & Revenge', '7262490676015806498', '100,000+', 'http://www.hugsnhearts.com', 'contact@hugsnhearts.com']}
+{'com.tamalaki.hiddenobjectmysterysociety2': ['Mystery Society 2: Hidden Objects Games', '5083817460526327644', '100,000+', 'http://www.tamalaki.com', 'tamalaki@flashgamelicense.com']}
+{'com.gamesforgirlsfree.office': ['Office Dress Up', 'Best+Dress+Up+Games+For+Girls', '1,000,000+', 'http://www.arpaplus.com/privacy-policy.txt', 'topdressupgames@gmail.com']}
+{'com.tabtale.flowergirlfiasco': ['Flower Girl-Crazy Wedding Day', '5735447750101420287', '1,000,000+', 'https://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'com.famzstudio.monstercolor': ['Mega Monster - Pixelmons Color By Number', 'FamZStudio', '1,000+', 'https://famzstudio.blogspot.com/2018/08/privacy-policy.html', 'famzstudio@yahoo.com']}
+{'com.crablue.herodefensevip': ['Hero Evolution2 : VIP', '7140336752271328373', '5,000+', 'https://www.facebook.com/girlstrainning/posts/608522249338073', 'urikklim@gmail.com']}
+{'com.evolutionary.findfifteenfairies': ['Find Fifteen Fairies', '5301311444855174848', '50+', 'http://www.evolutionary.co.za', 'support@evolutionary.co.za']}
+{'com.Chuck.ProductName': ['CHUCK', 'ADALUTE+GAMES', '5+', 'http://www.adalutegames.com', 'david@adalutegames.com']}
+{'com.altenmann.shooter': ['Golden Shooter', '4692850975759233644', '1+', None, 'mannalten@gmail.com']}
+{'valentine.panic.game': ['Valentine Panic', '5867764354378005830', '5+', 'http://www.michaelaamandalaws.com', 'michaela.a.laws@gmail.com']}
+{'com.king.candycrushsaga': ['Candy Crush Saga', '6577204690045492686', '500,000,000+', 'http://candycrushsaga.com/help/', 'candycrush.techhelp@king.com']}
+{'com.moonactive.coinmaster': ['Coin Master', '6898760406631171989', '10,000,000+', 'http://moonactive.zendesk.com', 'support@coinmastergame.com']}
+{'com.playrix.homescapes': ['Homescapes', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/homescapes/index.html', 'homescapes@playrix.com']}
+{'com.king.candycrushsodasaga': ['Candy Crush Soda Saga', '6577204690045492686', '100,000,000+', 'http://candycrushsodasaga.com/help/', 'candycrushsoda.techhelp@king.com']}
+{'com.playrix.gardenscapes': ['Gardenscapes', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/gardenscapes/index.html', 'gardenscapes@playrix.com']}
+{'com.playrix.township': ['Township', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/township/index.html', 'support@playrix.com']}
+{'com.king.candycrush4': ['Candy Crush Friends Saga', '6577204690045492686', '10,000,000+', 'http://about.king.com/', 'googleplay@king.com']}
+{'com.Seriously.BestFiends': ['Best Fiends - Free Puzzle Game', '7887547651896089900', '10,000,000+', 'http://seriously.com', 'support@seriously.com']}
+{'com.freegame.newvehicle': ['Vehicle Recycling Inc.', '5855071374269482286', '100,000+', 'https://docs.google.com/document/d/1u1fk8vZkflb3Tb0dUF15HFzYbDk-uHeIm6aHv1RP7K0/edit?usp=sharing', 'congniubi@gmail.com']}
+{'bg.xssoftware.ladypopular.fashionarena': ['Lady Popular: Fashion Arena', 'XS+Software+JSCo', '500,000+', 'http://xs-software.com', 'support@ladypopular.com']}
+{'com.candy.bomb.crush.free': ['Crazy Candy Bomb - Sweet match 3 game', 'Yunbu+Game+Studio', '1,000,000+', 'http://www.yunbu.me/hk/privacy_policy.html', 'yunbuhk@gmail.com']}
+{'com.letsfungame.farmharvest3': ['Farm Harvest 3- Match 3 Game', '6572061599624528195', '1,000,000+', 'http://www.letsfungame.com/private.htm', '23018987@qq.com']}
+{'com.mavis.slidey': ['Slidey®: Block Puzzle', '7972143603605848622', '1,000,000+', 'http://slidey.habby.fun/', 'slidey@habby.fun']}
+{'com.twodesperados.violasquest': ['Violas Quest - Free Match 3 Marble Blast Game', '5144412845874302637', '100,000+', 'http://www.twodesperados.com', 'support@twodesperados.com']}
+{'com.candy.cookie.townstory.puzzle': ['Town Story - Match 3 Puzzle', 'MAGIC+SEVEN', '1,000,000+', 'https://sites.google.com/site/magic7privacypolicy/', 'Gamestation0101@gmail.com']}
+{'com.airconsole.controller': ['AirConsole - Multiplayer Game Console', 'N-Dream', '1,000,000+', 'http://www.airconsole.com', 'hello@n-dream.com']}
+{'com.king.scrubbydubbysaga': ['Scrubby Dubby Saga', '6577204690045492686', '10,000,000+', 'http://scrubbydubbysaga.com/help/', 'scrubbydubby.techhelp@king.com']}
+{'com.tinyco.monsters': ['Tiny Monsters', 'Swipe+Forward+LLC', '5,000,000+', 'http://static.tinyvillage.swipeforwardgames.com/help/village.html', 'support@swipeforwardgames.com']}
+{'com.ministone.game.RisingStarChef': ['Rising Super Chef:Cooking Game', 'Mini+Stone+Games', '5,000,000+', 'https://www.facebook.com/risingstarchef', 'risingsuperchef2017@gmail.com']}
+{'com.cympl.masalaexpressgame': ['Masala Express: Cooking Game', '8236174922785878158', '5,000,000+', 'https://www.cympl.in', 'masalaexpress@cympl.in']}
+{'com.cocoplay.cocopony': ['Coco Pony - My Dream Pet', 'Coco+Play+By+TabTale', '5,000,000+', 'https://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'com.playrific.cannonsnballs2': ['Cannons n Balls', 'Playrific+Games', '5,000+', 'http://cannonsnballs2.home.blog', 'spraybubble34@gmail.com']}
+{'com.StudioTwoBeans.HorseQuest': ['Horse Quest', 'App+Holdings', '1,000,000+', 'http://www.horsequestonline.com/privacy.html', 'studio2beans@gmail.com']}
+{'com.budgestudios.googleplay.StrawberryShortcakeIceCreamIsland': ['Strawberry Shortcake Ice Cream Island', '7489594886728593506', '10,000,000+', 'http://www.budgestudios.com', 'support@budgestudios.ca']}
+{'bubble.honey': ['Honey Bubbles', '5057058873634489942', '100,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'com.squareenix.tropicaltwist': ['Tropical Twist', 'Hapti.co+Limited', '500,000+', 'http://www.wargaming.net', 'haptico@wgcph.com']}
+{'com.inpoly.lowpoly.polyart.puzzle': ['inPoly – Poly Art Puzzle', 'incolor', '1,000,000+', 'http://incolor.cc/en/privacy.html', 'incolor.feedback@hotmail.com']}
+{'com.playhome': ['My PlayHome : Play Home Doll House', '7690988119815101160', '50,000+', 'http://www.myplayhomeapp.com/', 'googleplay@myplayhomeapp.com']}
+{'com.nixhydragames.eggbaby2': ['Egg!', '7636427315709631344', '1,000,000+', 'http://www.eggthegame.com', 'support@nixhydragames.com']}
+{'two.pop.power': ['Power Pop Bubbles 2', '7849730008707515899', '100,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'com.bigfishgames.darkromancesonatagoog': ['Hidden Objects - Dark Romance: The Swan Sonata', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'info@bigfishgames.com']}
+{'com.dyadgames.cookieswirlworld': ['Cookie Swirl World', 'Dyad+Games', '100,000+', 'http://www.dyadgames.com', 'alexsmontgomery@gmail.com']}
+{'pop.bubbles.magics': ['Magic Bubble Pop', '7268898997815915359', '100,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'com.adriaandejongh.hiddenfolks': ['Hidden Folks', '5996711245499992497', '10,000+', 'http://www.adriaandejongh.com', 'support@hiddenfolks.com']}
+{'com.bluebeck.vt': ['Virtual Town', '7528537393826584694', '1,000,000+', 'http://www.lastdayofwork.com/', 'support@ldw.zendesk.com']}
+{'com.air.skiing.and': ['Air Skiing', 'Rengranhun', '50+', 'http://privacy.qq.com/', 'Sundlaugavegur.32@gmail.com']}
+{'com.percent.mybest3': ['Unnie doll', '0.1%25', '5,000,000+', 'http://www.facebook.com/0.1percentStudio', 'inmeteor222@gmail.com']}
+{'com.fullfat.bw': ['Grass Cut', 'VOODOO', '1,000,000+', 'http://www.full-fat.com', 'appsupport@full-fat.com']}
+{'com.playrix.homescapes': ['Homescapes', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/homescapes/index.html', 'homescapes@playrix.com']}
+{'idle.weedermatch.casualgame': ['Weeder Match', '8334977608698326925', '1,000,000+', 'https://redemptiongamestudio.blogspot.com/2018/12/redemption-game-studio-privacy-policy.html', 'asd448686@gmail.com']}
+{'com.outfit7.mytalkingtom2': ['My Talking Tom 2', '5630538819012062144', '50,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.playrix.gardenscapes': ['Gardenscapes', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/gardenscapes/index.html', 'gardenscapes@playrix.com']}
+{'com.moonactive.coinmaster': ['Coin Master', '6898760406631171989', '10,000,000+', 'http://moonactive.zendesk.com', 'support@coinmastergame.com']}
+{'com.playrix.township': ['Township', '6598096594674427568', '50,000,000+', 'https://www.playrix.com/township/index.html', 'support@playrix.com']}
+{'com.king.candycrushsaga': ['Candy Crush Saga', '6577204690045492686', '500,000,000+', 'http://candycrushsaga.com/help/', 'candycrush.techhelp@king.com']}
+{'com.WildWorks.RyansTag': ['Tag with Ryan', '5526536669105149839', '1,000,000+', 'http://tagwithryan.com', 'info@wildworks.com']}
+{'com.percent.mybest': ['Oppa doll', '0.1%25', '10,000,000+', 'http://www.facebook.com/0.1percentStudio', 'inmeteor222@gmail.com']}
+{'com.cmplay.bricksnballs': ['Bricks n Balls', 'Cheetah+Games', '10,000,000+', 'http://www.cmcm.com/protocol/site/privacy.html', 'funtimeplaycm@gmail.com']}
+{'com.rovio.baba': ['Angry Birds 2', '9133452689932095671', '100,000,000+', 'https://www.rovio.com', 'support@rovio.com']}
+{'air.com.lunime.gachalife': ['Gacha Life', '4702794943380501526', '5,000,000+', 'http://Lunime.com', 'Lunimegames@gmail.com']}
+{'com.king.candycrush4': ['Candy Crush Friends Saga', '6577204690045492686', '10,000,000+', 'http://about.king.com/', 'googleplay@king.com']}
+{'com.drawapp.magicdoodle': ['Doodle | Magic Joy', 'DrawAPP', '5,000,000+', 'http://drawapp.cc/privacy.html', 'eyewind.draw@hotmail.com']}
+{'com.raptisoft.Chuzzle2': ['Chuzzle 2', 'Raptisoft', '100,000+', 'http://www.raptisoft.com', 'wellhelloraptisoft@gmail.com']}
+{'com.outfit7.mytalkingangelafree': ['My Talking Angela', '5630538819012062144', '100,000,000+', 'http://outfit7.com/contact/android/', 'support@outfit7.com']}
+{'com.town.tinycars': ['Tiny Cars: Fast Game', 'Homa+Games', '1,000,000+', 'http://homagames.com', 'nagamobilestudio@gmail.com']}
+{'com.Seriously.BestFiends': ['Best Fiends - Free Puzzle Game', '7887547651896089900', '10,000,000+', 'http://seriously.com', 'support@seriously.com']}
+{'com.gi.talkinggarfield': ['Talking Garfield', '8714858389463466155', '5,000,000+', 'http://www.mytalkingtoys.com', 'android@generamobile.com']}
+{'air.com.xingyou.kissgame.touchherheart': ['Kiss Game : Touch Her Heart', 'To43Games', '5,000,000+', 'http://www.to43.com/yszc.html', 'centajia@gmail.com']}
+{'com.seyeonsoft.pastel': ['Pastel Girl', '6606197575519776775', '5,000,000+', 'http://www.seyeonsoft.net', 'seyeonsoft@gmail.com']}
+{'com.digitoy.fillwater': ['Fill Up Water: do better?', 'DO+GLOBAL+GAMES', '50,000+', 'https://fillupwater.weebly.com/privacy-policy.html', 'digitoy.xyz@gmail.com']}
+{'com.cocoplay.ponyfashionacademy': ['Pony Princess Academy', 'Coco+Play+By+TabTale', '5,000,000+', 'https://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'com.gameresort.sz3': ['Stupid Zombies 3', '6351423160467886303', '10,000,000+', 'http://www.gameresort.com', 'contact@gameresort.com']}
+{'it.junglestudios.cookieclickers': ['Cookie Clickers™', '7928933797733954299', '10,000,000+', 'http://www.redbitgames.it/', 'support.android@redbitgames.it']}
+{'com.linkdesks.iBubble': ['Bubble Shooter Legend', 'Bubble+Joy', '10,000,000+', 'http://www.puzzlejoyinc.com/PrivacyPolicy.html', 'bubbleshooter@puzzlejoy.com']}
+{'com.webzen.qubetown.google': ['QubeTown', '8101150351553161901', '100,000+', 'http://qubetown.webzen.com/en', 'qt-help@webzen.com']}
+{'com.IFCcorp.NoobClicker': ['NoobClicker', 'Geometry+Studios', '500,000+', 'https://geometrystudiospp.blogspot.com/2019/02/privacy-policy-geomterystudios-built.html', 'happygentleman21@gmail.com']}
+{'com.gamesforgirlsfree.unicorn': ['Unicorn Dress Up - Girls Games', 'Best+Dress+Up+Games+For+Girls', '1,000,000+', 'http://arpaplus.com/privacy-policy.txt', 'topdressupgames@gmail.com']}
+{'air.Airship2': ['Infiltrating the Airship', 'PuffballsUnited', '5,000,000+', 'http://www.puffballsunited.net', 'puffballsunited@gmail.com']}
+{'jp.co.hit_point.nekoatsume': ['Neko Atsume: Kitty Collector', '8318786497754536688', '10,000,000+', 'http://www.nekoatsume.com/', 'support@hit-point.co.jp']}
+{'com.hyperbeard.klep2cats': ['KleptoCats 2', 'HyperBeard', '1,000,000+', 'https://www.kleptocats.com', 'klep2cats@hyperbeard.com']}
+{'com.mgae.comlolsurprise.ballpop': ['L.O.L. Surprise Ball Pop', '7977425518165110203', '5,000,000+', 'https://lolsurprise.mgae.com', 'onlinedev@mgae.com']}
+{'air.com.pearsoned.poptropica': ['Poptropica', 'StoryArc+Media', '1,000,000+', 'http://www.poptropica.com', 'poptropicaapp@storyarc.media']}
+{'bg.xssoftware.ladypopular.fashionarena': ['Lady Popular: Fashion Arena', 'XS+Software+JSCo', '500,000+', 'http://xs-software.com', 'support@ladypopular.com']}
+{'com.dicedpixel.foodevolution': ['Food Evolution - Clicker Game', 'Diced+Pixel,+LLC', '1,000,000+', 'https://dicedpixel.com/pp/play/com.dicedpixel.foodevolution.txt', 'hello@dicedpixel.com']}
+{'com.batoki.kids.toddlers.fashion.hair.salon': ['Fashion Hair Salon', 'BATOKI+-+Best+Apps+for+Toddlers+and+Kids', '1,000,000+', 'http://bestappsfortoddler.wix.com/batoki', 'best.apps.for.toddlers@gmail.com']}
+{'com.buildingcraftinggames.block.girls.craft.sims.minecraft.fashion.dream.house.design.build.exploration.crafting.and.building': ['Dream House Craft: Design & Block Building Games', 'Crafting+And+Building+Games+For+Girls+Adventure', '5,000,000+', 'https://projectx-mobile.apps.craftingandbuilding.games/policy/bcindex?gamename=xcraft.dreamhouse&gametitle=xcraft.dreamhouse', 'buildingcraftinggames@gmail.com']}
+{'br.com.tapps.evolutiongalaxy': ['Evolution Galaxy - Mutant Creature Planets Game', '6615809648420562690', '1,000,000+', 'http://tappsgames.com', 'user.support+evolutiongalaxy@tappsgames.com']}
+{'com.zepni.catcondo': ['Cat Condo', 'Zepni+Ltd.', '1,000,000+', 'http://www.zepni.com', 'stanloh@zepni.com']}
+{'com.swdf.twdsty': ['Tower Destroyer', 'Machbird+Studio', '10,000+', 'http://privacy-api.machbird.com/policy/uri?packageName=com.machbird.wool_hit&countryCode=ALL&languageCode=en_US&versionCode=1&type=7', 'swordfishgp00@gmail.com']}
+{'ge.nextep.Taser': ['Taser Prank - Stun Gun', 'Talgame+ent.', '100,000+', 'http://www.talgame.com/about/privacy', 'nextep.az@gmail.com']}
+{'com.buildingcraftinggames.theme.park.games.girls.craft.roller.coaster.tycoon.block.crafting.and.building.minecraft.sims.roblox': ['Theme Park Craft: Build & Ride', 'Crafting+And+Building+Games+For+Girls+Adventure', '5,000,000+', 'https://projectx-mobile.apps.craftingandbuilding.games/policy/bcindex?gamename=xcraft.themepark&gametitle=xcraft.themepark', 'buildingcraftinggames@gmail.com']}
+{'com.smashorpassapp.smashorpass': ['Smash or Pass', 'AppsX', '1,000,000+', None, 'lasemrikpozamed@gmail.com']}
+{'com.v3.pingu.merge.plane': ['Plane Merger', 'Hubert+L.+Clausen', '50,000+', 'https://sites.google.com/site/zerostudiogamesone/', 'tatotota13@gmail.com']}
+{'ua.krou.remembery': ['Brain games | Memory games | Pairs: Remembery', 'Dreamy+Dingo', '50,000+', 'https://docs.google.com/document/d/16Ji7v9x1ySxz__bujtBQSMZIpLV06NQWJyDbj4wREcA/edit?usp=sharing', 'krou55.90@gmail.com']}
+{'com.mili.ndzqgw.go': ['Cut The Brick', 'Sweet+Sweet+Candy', '10,000+', 'https://superiorzzr.tumblr.com/post/179922573817/privacy-policy17', 'sweetsweetcandy789@gmail.com']}
+{'bwebmedia.pregnantmommy': ['Pregnant Mommy', 'bweb+media', '1,000,000+', 'http://www.dressupone.com', 'bwebmedia@rocketmail.com']}
+{'com.gameloft.android.ANMP.GloftTOHM': ['The Oregon Trail: Settler', '6258770168633898802', '10,000,000+', 'http://www.gameloft.com/', 'android.support@gameloft.com']}
+{'com.huz.Jumpioendlessrun': ['Going up - Jump helix tower', 'DO+GLOBAL+GAMES', '1,000+', 'https://www.huz.com/privacy-policy/', 'doglobal523@gmail.com']}
+{'com.candy.day.free': ['Candy Day', 'Bubble+Candy+Factory', '1,000,000+', 'https://sites.google.com/site/candyfactoryprivacypolicy/', 'bubblecandyfactory@outlook.com']}
+{'net.isitlove.mysteryspell.sebastian': ['Is-it Love? Sebastian - Adventure & Romance', '7930656545935917988', '500,000+', 'http://1492.io', 'studio@1492.io']}
+{'scratch.money.lucky.moon': ['Click is Right - Broken to Get Rewards', 'Magic+Laser+Studio', '10,000+', 'https://magiclaserstudio.blogspot.com/2019/01/magic-laser-studio-privacy-policy.html', 'zqianxu@gmail.com']}
+{'com.fluik.OfficeJerkFree': ['Office Jerk Free', 'Fluik', '10,000,000+', 'http://www.fluik.com', 'androidsupport@fluik.com']}
+{'com.interlinked.games.bubble.reward': ['Bubbles Reward - Win Prizes', '8597866051548873812', '500,000+', 'https://dragonixgame.wordpress.com/', 'interlinked.games@gmail.com']}
+{'com.glu.gordondashx': ['RESTAURANT DASH: GORDON RAMSAY', '8633921029894576093', '5,000,000+', 'http://www.glu.com/', 'androidsupport@glu.com']}
+{'com.airconsole.controller': ['AirConsole - Multiplayer Game Console', 'N-Dream', '1,000,000+', 'http://www.airconsole.com', 'hello@n-dream.com']}
+{'com.mobileguru.sweetcandybomb.free': ['Sweet Candy Bomb', 'Mobileguru', '1,000,000+', 'https://sites.google.com/site/mobileguruprivacypolicy/', 'mobileguru808@gmail.com']}
+{'com.appon.kitchentycoon': ['Cafe Tycoon – Cooking & Restaurant Simulation game', '5047556030621742681', '1,000,000+', 'http://www.appon.co.in', 'appon.innovate@gmail.com']}
+{'com.budgestudios.MissHollywoodVacation': ['Miss Hollywood: Vacation', '7489594886728593506', '1,000,000+', 'https://budgestudios.com/en/apps/detail/miss-hollywood-vacation//?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=MHV_GP', 'support@budgestudios.ca']}
+{'com.mohicanlab.zooisland': ['Zoo Island', 'Mohican+Lab', '100,000+', 'http://www.mohicanlab.com', 'support.zooisland@mohicanlab.com']}
+{'com.bfs.papertoss': ['Paper Toss', 'Backflip+Studios', '50,000,000+', 'http://www.backflipstudios.com', 'androidsupport@backflipstudios.com']}
+{'bounce.slots.bingo.ball': ['Bingo Ball - A ball slots machine game', 'Naughty+Papa+Studio', '1,000+', 'https://naughypapa.blogspot.com/2019/02/privacy-policy.html', 'congwang58@gmail.com']}
+{'com.gamesforgirlsfree.glamsalon': ['Glam Salon - Beauty & Fashion Game', 'Games+For+Girls+O%C3%9C', '1,000,000+', 'https://sites.google.com/view/gamesforgirlsru/home', 'gamesforgirlsou@gmail.com']}
+{'com.sd.google.helloKittyCafe': ['Hello Kitty Cafe', '8208248006066974551', '10,000,000+', 'http://sanriodigital.com/contact-us/headquarters-and-branches', 'gamesupport@sanriodigital.com']}
+{'pop.pearl': ['Pearl Pop', '7268898997815915359', '10,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'com.TheRefik.SkyLand': ['SkyLand', 'TheRefik', '5,000,000+', 'http://therefik.com/', 'bodahomola@seznam.cz']}
+{'com.Ghoulkiss.MonsterGirlMaker': ['Monster Girl Maker', 'GHOULKISS', '1,000,000+', 'http://ghoulkiss.net', 'ghoulkiss.dev@gmail.com']}
+{'com.linkdeskstudio.popcat': ['Pop Cat', 'LinkDesks+-+Jewel+Games+Star', '10,000,000+', 'http://linkdesks.blog.com', 'linkdesks@gmail.com']}
+{'com.Mykaelos.FrankiesBabyFireworks': ["Frankie's Baby Fireworks!", 'Mykaelos', '100,000+', 'http://www.Mykaelos.com', 'DeveloperMykaelos@gmail.com']}
+{'com.teamlava.restaurantstory': ['Restaurant Story™', '8843836569947671195', '10,000,000+', 'http://www.storm8-studios.com', 'support@storm8.com']}
+{'com.gamesforgirlsfree.glam': ['Glam Dress Up - Girls Games', 'Best+Dress+Up+Games+For+Girls', '500,000+', 'http://www.arpaplus.com/privacy-policy.txt', 'topdressupgames@gmail.com']}
+{'jp.co.ponos.korogarimasu': ['Heads Off', 'PONOS+Corporation', '1,000,000+', 'http://ponos.s3.amazonaws.com/reg/policy/index.html', 'casual_support@ponos.co.jp']}
+{'br.com.tapps.tinyautoshop': ['Tiny Auto Shop - Car Wash and Garage Game', '6615809648420562690', '1,000,000+', 'http://tappsgames.com', 'user.support+tinyautoshop@tappsgames.com']}
+{'com.naturalmotion.myhorse': ['My Horse', 'MunkyFun+Inc', '10,000,000+', 'https://www.munkyfun.com/my-horse', 'support@munkyfun.com']}
+{'com.budgestudios.ludorum.chuggington': ['Chuggington: Kids Train Game', '7489594886728593506', '10,000,000+', 'https://budgestudios.com/en/apps/detail/chuggington-traintastic-adventures/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=CHUGGTTA_GP', 'support@budgestudios.ca']}
+{'com.sweet.birds.mania.free': ['Birds Mania Match 3', 'Yunbu+Game+Studio', '1,000,000+', 'http://www.yunbu.me/hk/privacy_policy.html', 'yunbuhk@gmail.com']}
+{'com.superbox.aos.sugarpop': ['Sugar POP - Sweet Puzzle Game', '6831347196585294074', '500,000+', 'https://www.facebook.com/superbox01', 'help@superbox.kr']}
+{'com.suduck.upgradethegame3': ['Upgrade the game 3', '7540747588324462452', '100,000+', 'http://www.suduck.com', 'adrian@suduck.com']}
+{'com.gamesforgirlsfree.girlssquad': ['Girl Squad Fashion - BFF Fashionista Dress Up', 'Games+For+Girls+O%C3%9C', '500,000+', 'https://sites.google.com/view/gamesforgirlsru/home', 'gamesforgirlsou@gmail.com']}
+{'drawing.lessons.sketch.how.to.draw.portrait.thirtyday': ['Daily Easy Drawing Step by Step', '8186440931703540103', '1,000,000+', 'http://www.anappforge.com/privacy.html', 'joyapp@dailyinnovation.biz']}
+{'com.twim.dressupbattle': ['Dress Up Battle : Fashion Game', '5227289336744315478', '1,000,000+', 'http://www.twimstudiocopyright.com/', 'gabriel@twim.ro']}
+{'com.aemobile.games.dentist': ['I am Dentist - Save my Teeth', 'Kids+Fun+!', '500,000+', 'http://www.ae-mobile.com/android_game.html', 'Support.Kids@ae-mobile.com']}
+{'com.tgts.babyandmommy': ['Baby & Mommy - Pregnancy & birth care game', 'JV+APP+%26+GAME+STUDIOS', '10,000+', 'http://jvgamestudios.blogspot.com/2018/02/term-of-use.html', 'jvstudiogames@gmail.com']}
+{'ox.emdm.EgyptianMiracle': ['Egypt Miracle Match Legend', 'puzzle+game+match+world', '500,000+', 'https://sites.google.com/view/mobileappgame/home', 'highcloudweather@gmail.com']}
+{'com.dg.puzzlebrothers.bubble.blast.adventure.ocean': ['Bubble Bobble Blast - Ocean Adventure', 'Bubble+Quest+%26+Free+Bubble+Pop+by+Difference+Games', '500+', 'http://www.differencegames.com', 'bubblequest@differencegames.com']}
+{'com.milliongames.realfidgetspinner': ['Real Fidget Spinner', 'GT+Action+Games', '100,000+', 'http://www.milliongames.net', 'milliongames333@gmail.com']}
+{'com.capcom.smurfsandroid': ["Smurfs' Village", '7180779015037689973', '10,000,000+', 'http://www.flashmangames.com', 'support@smurfs.zendesk.com']}
+{'com.midasplayer.apps.bubblewitch': ['Bubble Witch Saga', '6577204690045492686', '10,000,000+', 'http://bubblewitchsaga.com/help/', 'bubblewitch.techhelp@king.com']}
+{'com.toopgames.tuoemtel': ['Parking Reward - Win Prizes', 'Toop+games+Funpin', '10,000+', 'http://letmeout.home.blog', 'Dpckrfls9305719@gmail.com']}
+{'com.pianotiles.KPOP.Games': ['Kpop piano bts tiles game', 'POP+Music+Fans', '1,000,000+', 'http://rainiergames.blogspot.com/p/pri.html', 'rainiergames01@gmail.com']}
+{'com.appon.resorttycoon': ['Resort Tycoon - Hotel Simulation Game', '5047556030621742681', '10,000,000+', 'http://www.appon.co.in', 'appon.innovate@gmail.com']}
+{'com.dg.differencegames.u.hiddenobject.ghostlymanor': ['Hidden Object Mystery: Ghostly Manor', '6535913542227910548', '50,000+', 'http://differencegames.com', 'hiddenobject@differencegames.com']}
+{'com.kidsthree.princessfashionsalon': ['Princess Makeup Salon', 'Tap+Happy', '10,000,000+', 'https://sites.google.com/site/enjoygametimeprvacypolicy/', 'enjoygametime@hotmail.com']}
+{'com.coloringone.googleplay': ['Colorfy – Colorful Life', 'Moonfly+Studio', '1,000+', 'https://sites.google.com/view/colorful-life/home', 'fayemanh@gmail.com']}
+{'com.PTGameLegned.SuperJewelsGems': ['Jewel Classic Star', 'Best+Game+Forever', '1,000,000+', 'https://sites.google.com/view/bestgameforever/bestgame', 'yangsiyu0711@gmail.com']}
+{'girlsgames.princess.fashionsalon.makeup': ['Princess Dress up Games - Princess Fashion Salon', 'Joy+Journey+Girls', '500,000+', 'http://www.edaysoft.cn/JoyJourneyGirlsPrivacyPolicy.htm', 'joy4girlgames@gmail.com']}
+{'com.buildingcraftinggames.fashion.girls.craft.princess.minecraft.barbie.creative.exploration.lite.build.top.model.design.fun': ['Girls Craft Story: Fashion', 'Crafting+And+Building+Games+For+Girls+Adventure', '1,000,000+', 'https://projectx-mobile.apps.craftingandbuilding.games/policy/bcindex?gamename=xcraft.fashion&gametitle=xcraft.fashion', 'buildingcraftinggames@gmail.com']}
+{'com.easy.dragon.virtual.reality.chat': ['VR Chat Superhero Simulator', 'Easy+Dragon', '100,000+', 'http://u92313dg.bget.ru/', 'easydragonman@gmail.com']}
+{'com.gfg.fashionmodel': ['Fashion Model 2019 - Rising Star Girl', 'Best+Dress+Up+Games+For+Girls', '1,000,000+', 'http://www.arpaplus.com/privacy-policy.txt', 'topdressupgames@gmail.com']}
+{'com.funtomic.Kizi': ['Kizi - Cool Fun Games', '8327407879856883165', '10,000,000+', 'http://kizi.com', 'app_support+kizifungames@kizi.com']}
+{'com.famobi.lovetest': ['Love Tester - Find Real Love', 'Famobi', '1,000,000+', 'http://famobi.com', 'appstore@famobi.com']}
+{'com.neongame.puzzlewings': ['Puzzle Wings: offline match 3 & free puzzle games', '6713406806947914827', '100,000+', 'http://gs.gameneon.net/privacy/neongame/privacy_policy.html', 'neongameapp@gmail.com']}
+{'games.fatlion.uphill.rush.racing.water.theme.park.free.minecraft.waterslide.games.exploration.lite.roblox.crafting.go.building': ['Water Park Craft GO: Waterslide Building Adventure', '8326642621664460077', '1,000,000+', 'https://fatlion.games/', 'admin@fatlion.games']}
+{'com.budgestudios.MissHollywood2': ['Miss Hollywood Showtime', '7489594886728593506', '1,000,000+', 'https://budgestudios.com/en/apps/detail/miss-hollywood-showtime/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=MHST_GP', 'support@budgestudios.ca']}
+{'com.gamesforgirlsfree.dressupgames': ['Dress Up Games Free', 'Games+For+Girls+O%C3%9C', '100,000+', 'https://sites.google.com/view/gamesforgirlsru/home', 'gamesforgirlsou@gmail.com']}
+{'mahjong.solitaire.games.classic.mahjong.dragon.free': ['Mahjong', 'Poker+Power', '100,000+', 'https://sites.google.com/site/sportstopgameprivacypolicy/', 'sportstopgame@hotmail.com']}
+{'com.dungeon.arrowmaster': ['Stickman Arrow Master - Legendary', 'Dungeon', '1,000,000+', 'https://docs.google.com/document/d/1AFLF2_N9TinXp3NGqBOZEyfQ6kDWL6DqB4hbJpwH_t4', 'dungeongamestudio999@gmail.com']}
+{'air.com.flipline.papalouiepals': ['Papa Louie Pals', '5394256898986964167', '1,000,000+', 'http://www.flipline.com', 'support@flipline.com']}
+{'br.com.tapps.starside': ['Starside Celebrity Resort', '6615809648420562690', '1,000,000+', 'http://tappsgames.com', 'user.support+starside@tappsgames.com']}
+{'com.hawkgames.caseclicker2': ['Case Clicker 2 - Custom cases!', '6022423555657568044', '1,000,000+', 'http://facebook.com/caseclicker', 'support@hawkgames.eu']}
+{'net.beautysalongames.nerdygirllove': ['Nerdy Girl 2! High School Life & Love Story Games', 'Beauty+Salon+Games', '5,000,000+', 'http://www.beautysalongames.net', 'contact@beautysalongames.net']}
+{'com.mobileguru.candyfrenzy.free': ['Sweet Candy Crack', 'Mobileguru', '1,000,000+', 'https://sites.google.com/site/mobileguruprivacypolicy/', 'mobileguru808@gmail.com']}
+{'air.com.BakingBlackForestCake': ['Baking black forest cake', 'LPRA+STUDIO', '10,000,000+', 'http://www.yokogames.com', 'myapps36@yahoo.com']}
+{'com.twodesperados.violasquest': ['Violas Quest - Free Match 3 Marble Blast Game', '5144412845874302637', '100,000+', 'http://www.twodesperados.com', 'support@twodesperados.com']}
+{'com.drgames.puissance4': ['4 in a Row Connect Multiplayer', 'FnG+Studios', '1,000,000+', 'http://drgames.fr/privacy_policy_apps.php?id=0', 'teamfngstudios@gmail.com']}
+{'air.com.fiftyfivepixels.cratercraft': ['Crater Craft: Farm, Build, Trade', '55pixels', '100,000+', 'http://www.55pixels.com', 'help@cratercraft.com']}
+{'com.budgestudios.StrawberryShortcakeCandyGarden': ['Strawberry Shortcake Candy Garden', '7489594886728593506', '1,000,000+', 'https://budgestudios.com/en/apps/detail/strawberry-shortcake-candy-garden/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=SSCCG_GP', 'support@budgestudios.ca']}
+{'com.cocoplay.cocoiceprincess_googleplay': ['Coco Ice Princess', 'Coco+Play+By+TabTale', '10,000,000+', 'http://tabtale.com/privacy-policy/', 'WeCare@TabTale.com']}
+{'com.cyberpony.stickman.warriors.fireskin': ['Stickman Warriors 4 Online', 'Merkury+Games', '1,000,000+', 'http://strifexxx.wixsite.com/cyberpony/privacy-policy', 'merkuryxxxvrn@gmail.com']}
+{'br.com.tapps.moneytree': ['Money Tree - Grow Your Own Cash Tree for Free!', '6615809648420562690', '5,000,000+', 'http://tappsgames.com', 'user.support+moneytree@tappsgames.com']}
+{'com.Crazy.Emergency.Doctor.Simulator': ['My Dream Hospital Doctor Games: Emergency Room', 'BubbleBee', '500,000+', 'http://www.webelinx.com', 'webpixgames2@gmail.com']}
+{'com.timuzgames.emoji.io': ['Emoji.io Free Casual Game', '8347901481645278558', '100,000+', 'http://www.timuz.com', 'info@timuz.com']}
+{'com.softwego.liedetector': ['Lie Detector Simulator Fun', '6364949389057513748', '10,000,000+', 'http://www.softwego.com', 'info@softwego.com']}
+{'bwebmedia.myfirstpregnancy': ['My First Pregnancy', 'bweb+media', '500,000+', 'http://www.microcookinggames.com', 'bwebmedia@rocketmail.com']}
+{'com.baby.games.studio.surgery.simulator.doctor': ['Surgery Simulator Doctor Game', 'BabyGamesStudio', '500,000+', 'http://babygamesstudio.com/', 'babygamesstudio@gmail.com']}
+{'com.tgg.supermarketgameforgirls': ['Supermarket Game For Girls', 'Girl+Games+-+Vasco+Games', '1,000,000+', 'http://vascogames.com', 'girlgamesvg@vascogames.com']}
+{'com.pazugames.unicorngirlshairsalon': ['Girls Hair Salon Unicorn', 'Pazu+Games', '50,000+', 'http://pazugames.com', 'playpazu@gmail.com']}
+{'com.gamesforgirlsfree.dressup': ['Dress up - Games for Girls', 'Best+Dress+Up+Games+For+Girls', '1,000,000+', 'http://www.arpaplus.com/privacy-policy.txt', 'topdressupgames@gmail.com']}
+{'pl.idreams.pottery': ["Let's Create! Pottery", '6605166034023780330', '100,000+', 'http://www.idreams.pl', 'support@idreams.pl']}
+{'com.JazzaStudios.JazzasArtyGames': ["Jazza's Arty Games", 'Jazza+Studios', '50,000+', 'http://www.jazzastudios.com', 'contact@jazzastudios.com']}
+{'net.kairosoft.android.gamedev3en': ['Game Dev Story', 'Kairosoft+Co.,Ltd', '500,000+', 'http://kairopark.jp/android/en/?from=m8', 'support_en@kairopark.jp']}
+{'com.square_enix.android_googleplay.finalfantasy': ['FINAL FANTASY', '8026010256970589886', '100,000+', 'http://www.square-enix.com/jp/', 'Android_support@square-enix.com']}
+{'com.bandainamcoent.tamagothiclassicus': ['Tamagotchi Classic - Gen1', 'BANDAI+NAMCO+Entertainment+Inc.', '50,000+', 'https://bandainamcoent.co.jp/', 'ww_tamagotchiclassic_ad@net.bandai.co.jp']}
+{'com.littleinferno.google': ['Little Inferno', 'Tomorrow+Corporation', '100,000+', 'http://tomorrowcorporation.com', 'androidsupport@tomorrowcorporation.com']}
+{'com.mtvn.SBminigame': ["SpongeBob's Game Frenzy", 'Nickelodeon', '50,000+', 'http://nick.com/appsupport/', 'appsupport@nick.com']}
+{'com.playfirst.playground.weddingdashdeluxe': ['Wedding Dash Deluxe', '8633921029894576093', '50,000+', 'http://www.glu.com/', 'androidsupport@glu.com']}
+{'com.playhome': ['My PlayHome : Play Home Doll House', '7690988119815101160', '50,000+', 'http://www.myplayhomeapp.com/', 'googleplay@myplayhomeapp.com']}
+{'com.zeptars.memesoundboardpro': ['Meme Soundboard PRO 2019', '6289768667756396269', '10,000+', 'http://uproargames.com', 'contact@zeptars.com']}
+{'com.gobit.burgershop2.premium': ['Burger Shop 2 Deluxe', 'GoBit+Games', '5,000+', 'http://www.gobit.com', 'support@gobit.com']}
+{'com.playhome.school': ['My PlayHome School', '7690988119815101160', '50,000+', 'http://www.myplayhomeapp.com/', 'googleplay@myplayhomeapp.com']}
+{'com.playhome.hospital': ['My PlayHome Hospital', '7690988119815101160', '10,000+', 'http://www.myplayhomeapp.com/', 'googleplay@myplayhomeapp.com']}
+{'com.playhome.stores': ['My PlayHome Stores', '7690988119815101160', '50,000+', 'http://www.myplayhomeapp.com/', 'googleplay@myplayhomeapp.com']}
+{'com.gamescafe.sallysspa': ["Sally's Spa", 'GamesCafe', '500+', 'http://www.gamescafe.com', 'support@gamescafe.zendesk.com']}
+{'com.adriaandejongh.hiddenfolks': ['Hidden Folks', '5996711245499992497', '10,000+', 'http://www.adriaandejongh.com', 'support@hiddenfolks.com']}
+{'com.playfirst.playground.hoteldashdeluxe': ['Hotel Dash Deluxe', '8633921029894576093', '50,000+', 'http://www.glu.com/', 'androidsupport@glu.com']}
+{'com.subatomicstudios': ['Fieldrunners HD', '4782332550188267506', '100,000+', 'http://www.fieldrunners.com', 'FrAndroid@subatomicstudios.com']}
+{'com.bigfishgames.doriangraygoogfull': ['Brink of Consciousness (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.fantasyflightgames.htmf': ["Hey, That's My Fish!", 'Fantasy+Flight+Games', '10,000+', 'http://fantasyflightgames.com', 'softwaresupport@fantasyflightgames.com']}
+{'com.playfirst.playground.dinerdashspongebobdeluxe': ['SpongeBob Diner Dash Deluxe', '8633921029894576093', '10,000+', 'http://www.glu.com/', 'androidsupport@glu.com']}
+{'com.subatomicstudios.fieldrunners2': ['Fieldrunners 2', '4782332550188267506', '100,000+', 'http://subatomicstudios.com', 'FrAndroid@subatomicstudios.com']}
+{'com.ldw.android.vf': ['Virtual Families', '7528537393826584694', '100,000+', 'http://www.lastdayofwork.com', 'support@ldw.zendesk.com']}
+{'net.kairosoft.android.school2_en': ['Pocket Academy', 'Kairosoft+Co.,Ltd', '50,000+', 'http://kairopark.jp/android/en/?from=m29', 'support_en@kairopark.jp']}
+{'com.singlecellsoftware.sandpremium': ['Sand! Premium', 'Single+Cell+Software', '50,000+', 'http://www.singlecellsoftware.com', 'singlecellsoftware@gmail.com']}
+{'com.bigfishgames.gtbmgoogfull': ['Grim Tales: Bloody Mary (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.hhdsgoogfull': ['Haunted Hotel: Death Sentence (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.google.mcfr2rgoogfull': ['MCF Return to Ravenhearst Full', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.enigmatisgooglefull': ['Enigmatis Hidden Object (Full)', '8355317828905497231', '50,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.google.voodoowhispererfull': ['Voodoo Whisperer CE (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'de.kamibox.typo': ['supertype', 'Philipp+Stollenmayer', '5,000+', 'http://www.kamibox.de/supertype', 'philipp@stollenmayer.de']}
+{'com.ldw.android.fishtycoon': ['Fish Tycoon', '7528537393826584694', '50,000+', 'http://www.ldw.com', None]}
+{'com.ldw.vv4': ['Virtual Villagers 4', '7528537393826584694', '10,000+', 'http://www.lastdayofwork.com/', 'support@ldw.zendesk.com']}
+{'com.alawar.FF3AmericanPie': ['Farm Frenzy 3: American Pie. Funny farming game', '8807757752657588254', '10,000+', 'http://www.alawar.com', 'mobile.support@alawar.com']}
+{'com.fourpixels.aircontrol2full': ['Air Control 2 - Premium', 'Four+Pixels+Games', '10,000+', 'http://fourpixelsgames.com/privacypolicyandroid.pdf', 'fourpixelsgames@gmail.com']}
+{'com.wb.goog.lfrds': ['LEGO® Friends', 'Warner+Bros.+International+Enterprises', '10,000+', 'http://support.wbgames.com', 'support@wbgames.com']}
+{'com.bigfishgames.shivermoonlitgrovegoogfull': ['Shiver Moonlit Grove CE (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'net.kairosoft.android.sushi_en': ['The Sushi Spinnery', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m58', 'support_en@kairopark.jp']}
+{'net.kairosoft.android.cruise_en': ['World Cruise Story', 'Kairosoft+Co.,Ltd', '50,000+', 'http://kairopark.jp/android/en/?from=m40', 'support_en@kairopark.jp']}
+{'com.peppapig.happymrschicken': ['Peppa Pig: Happy Mrs Chicken', '5920339924959681787', '5,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'de.kamibox.zipzap': ['Zip Zap', 'Philipp+Stollenmayer', '50,000+', 'http://www.kamibox.de/zipzap', 'philipp@kamibox.de']}
+{'com.n3vgames.android.driver': ['Trainz Driver', 'N3V+Games+PTY+LTD', '100,000+', 'http://www.trainzportal.com/product_trainz_driver_mobile.php', 'support@n3vgames.com']}
+{'com.bbc.heyduggeeexplorer': ['Hey Duggee: The Exploring App', 'BBC+Worldwide+%28Ltd%29', '1,000+', 'http://www.bbcworldwide.com/', 'support@scarybeasties.com']}
+{'au.com.penguinapps.android.babyphone.noads': ['No Ads Key - Baby Phone', '8558223608151028037', '10,000+', 'http://penguinapps.com.au/', 'support@penguinapps.com.au']}
+{'com.tommo.tgpepp3': ['Putt-Putt® Saves the Zoo', 'Humongous+Entertainment', '5,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.slbsoftware.tickler': ['SpongeBob Tickler', 'Nickelodeon', '10,000+', 'http://nick.com/appsupport/', 'appsupport@nick.com']}
+{'dareDev.HarvestMoon': ["Harvest Moon: Lil' Farmers", 'Rising+Star+Games', '1,000+', 'http://www.risingstargames.com', 'support@risingstargames.com']}
+{'com.disney.djappisodesmmchhaf_goo': ['Mickey & Donald Farm Appisodes', 'Disney', '1,000+', 'http://help.disney.com/', 'support@disneymobile.com']}
+{'net.kairosoft.android.depart_en': ['Mega Mall Story', 'Kairosoft+Co.,Ltd', '50,000+', 'http://kairopark.jp/android/en/?from=m30', 'support_en@kairopark.jp']}
+{'com.hg.cloudsandsheep2': ['Clouds & Sheep 2 Premium', '5551663097723105743', '5,000+', 'http://www.facebook.com/handygames', 'support@handy-games.com']}
+{'com.cyborgkitten.dotcounter': ['Domino Dot Counter', 'Cyborg+Kitten+LLC', '1,000+', 'https://docs.google.com/document/d/1aZu2cHb-co_BvFAGT8B1sJ7mzHZu7A2A02P41Vj_wGo/edit?usp=sharing', 'service@CyborgKitten.com']}
+{'com.micabyte.android.pirates.gold': ['Pirates and Traders: Gold!', '7037926492350133625', '10,000+', 'http://www.micabyte.com', 'support@micabyte.com']}
+{'com.bigfishgames.fthggoogfull': ['Fearful Tales: Hansel & Gretel (Full)', '8355317828905497231', '1,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.tommo.nggpepj1': ['Pajama Sam: No Need to Hide', 'Humongous+Entertainment', '5,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.bigfishgames.google.mirrormfull': ['Mirror Mysteries (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.tribeplay.pandapet': ["Dr. Panda & Toto's Treehouse", '4902729103455422060', '100,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.tommo.nggpesf1': ['Spy Fox in Dry Cereal', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.DEFICITGames.virutalMINIGOLFreality': ['virtual MINIGOLF reality', 'DEFICIT+Games', '500+', 'http://www.deficit-games.de', 'contact@deficit-games.de']}
+{'com.disney.djappisodesmmch_goo': ['Appisodes: Crystal Mickey', 'Disney', '5,000+', 'http://help.disney.com', 'support@disneymobile.com']}
+{'com.bigfishgames.google.lifequest2full': ['Life Quest 2:Metropoville Full', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'dk.logisoft.aircontrolfull': ['Air Control', 'Four+Pixels+Games', '100,000+', 'http://fourpixelsgames.com/privacypolicyandroid.pdf', 'fourpixelsgames@gmail.com']}
+{'p2Games.BenAndHolly': ['Ben & Holly: Big Star Fun', '6340267717466893283', '500+', 'http://www.p2games.co.uk', 'admin@p2games.co.uk']}
+{'com.tribeplay.swimmingpool': ["Dr. Panda's Swimming Pool", '4902729103455422060', '100,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.tommo.nggpepj2': ['Pajama Sam Thunder & Lightning', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.tommo.tgpesf3': ['Spy Fox Operation Ozone', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.HahnFilm.MiaAndMe.FreeTheUnicorns': ['Mia and me - Free the Unicorns', 'KIDDINX+Media+GmbH', '10,000+', 'http://www.mia-and-me-app.com', 'hahnfilm.games@gmail.com']}
+{'com.n3vgames.android.trainz': ['Trainz Simulator', 'N3V+Games+PTY+LTD', '50,000+', 'http://www.n3vgames.com', 'support@n3vgames.com']}
+{'com.lsgvgames.slideandflyfull': ['Dragon, Fly! Full', 'Four+Pixels+Games', '100,000+', 'http://fourpixelsgames.com/privacypolicyandroid.pdf', 'fourpixelsgames@gmail.com']}
+{'com.tommo.tgpepj3': ['Pajama Sam 3', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.disney.djappisodesdms_goo': ['Appisodes: Doc Goes McMobile', 'Disney', '1,000+', 'http://help.disney.com/', 'support@disneymobile.com']}
+{'com.magentafactory.shangui': ['Shan Gui', 'ZiX+Solutions', '100,000+', None, 'magenta@cngal.org']}
+{'com.dbal.neshunter.neshunterpro': ['NES Hunter PRO', 'Game+Misconduct+Studios', '1,000+', None, 'gamemisconductstudios@gmail.com']}
+{'com.freshgames.ranchrush2': ['Ranch Rush 2', 'FreshGames', '10,000+', 'http://www.freshgames.com', 'support@freshgames.com']}
+{'com.bigfishgames.shivervhgooglefull': ['Shiver - Hidden Objects (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'net.kairosoft.android.onsen_en': ['Hot Springs Story', 'Kairosoft+Co.,Ltd', '50,000+', 'http://kairopark.jp/android/en/?from=m25', 'support_en@kairopark.jp']}
+{'com.firerabbit.games.fmc.mad.full': ['Fix My Car: Mad Road Mechanic - Max Mayhem!', 'FireRabbit+Inc.', '1,000+', 'https://www.facebook.com/firerabbit.canada', 'clientservices@firerabbit.com']}
+{'com.bigfishgames.google.toasfmfull': ['Theatre of the Absurd CE(Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.herocraft.game.farmfrenzy': ['Farm Frenzy: Time management game', '6774717208644425046', '100,000+', 'http://www.herocraft.com', 'support@herocraft.com']}
+{'com.incrementalinc.idleevolution': ['Idle Evolution', 'Incremental+Inc.', '10,000+', 'https://twitter.com/Incremental_Inc', 'alexaulds93@gmail.com']}
+{'com.MarconiLoures.EarthlingsBeware': ['Earthlings Beware!', 'Marconi+Loures', '1,000+', 'https://www.facebook.com/earthlingsbeware', 'marconiloures.talktome@gmail.com']}
+{'com.tommo.nggpeff1': ['Freddi Fish Missing Kelp Seeds', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.sculptrvrinc.sculptrvrapp': ['SculptrVR', 'SculptrVR,+Inc.', '1,000+', 'http://www.sculptrvr.com/', 'info@sculptrvr.com']}
+{'rrTenz.farming': ['The Farming Game', 'rrTenz', '1,000+', 'https://docs.google.com/document/d/1HEmXW2tmaoNzVRx4CKaSGsMGJ6EIEuuO5xlrOc0sdJM/edit#', 'rrtenz@gmail.com']}
+{'com.bigfishgames.lifequestdroidfull': ['Life Quest® [Full]', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com/help/index.html?rn=1801', 'android.email@bigfishgames.com']}
+{'com.g5e.sm2.full': ['Supermarket Management 2 Full', '8053728788464134315', '5,000+', 'http://www.g5e.com', 'support@g5e.com']}
+{'com.tommo.nggpepp4': ['Putt-Putt® TravelsThroughTime', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.pixelstar.DNPHVIP': ['Dungeon X Pixel Hero VIP', '4684520990643024417', '100,000+', 'https://www.facebook.com/pixelstarstudio/', 'pixelstarking@gmail.com']}
+{'com.tommo.tgpeff4': ['Freddi Fish: Hogfish Rustlers', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.tommo.tgpepp2': ['Putt-Putt® Goes to the Moon', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.dustflake.innergarden.flower': ['Inner Garden: Flower Garden 1', 'Dust*flake', '5,000+', 'http://www.dustflake.com', 'dustflake.games@gmail.com']}
+{'com.bockig.geiger.paid': ['Geiger Counter PRO', 'Axel+Bock', '1,000+', 'http://bockig.com/android', 'bockaxel@googlemail.com']}
+{'com.bigfishgames.azadaamdroidfull': ['Azada: Ancient Magic (Full) CE', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com/help/index.html?rn=1801', 'android.email@bigfishgames.com']}
+{'com.firerabbit.games.fmc.truck.full': ['Fix My Truck: 4x4 Offroad Pickup Mechanic!', 'FireRabbit+Inc.', '10,000+', 'https://www.facebook.com/firerabbit.canada', 'clientservices@firerabbit.com']}
+{'com.disney.djappisodesmmchscm_goo': ['Appisodes: Sea Captain Mickey', 'Disney', '500+', 'http://help.disney.com', 'support@disneymobile.com']}
+{'com.bigfishgames.google.dtfull': ["HE4: Devil's Triangle (Full)", '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'air.foxandsheep.pettingzoo': ['Petting Zoo', '8749913084192358255', '10,000+', 'http://www.foxandsheep.com', 'contact@foxandsheep.com']}
+{'net.kairosoft.android.restaurant_en': ['Cafeteria Nipponica', 'Kairosoft+Co.,Ltd', '50,000+', 'http://kairopark.jp/android/en/?from=m43', 'support_en@kairopark.jp']}
+{'com.disney.djappisodesjnlphhhh_goo': ['Appisodes: Hide the Hideout', 'Disney', '1,000+', 'http://help.disney.com/', 'support@disneymobile.com']}
+{'com.bigfishgames.rcravengoogfull': ['Redemption: Raven (Full)', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'net.kairosoft.android.edotowns': ['Oh!Edo Towns', 'Kairosoft+Co.,Ltd', '50,000+', 'http://kairopark.jp/android/link.php?from=m52', 'support_en@kairopark.jp']}
+{'pl.idreams.CanKnockdown2': ['Can Knockdown 2', '6605166034023780330', '100,000+', 'http://www.idreams.pl', 'support@idreams.pl']}
+{'com.studiopango.pangoZoo': ['Pango Zoo', '5656437925259438538', '5,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.bigfishgames.puppetjoyvillegoogfull': ['PuppetShow: Joyville (Full)', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.google.empress1full': ['Empress of the Deep (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com/help/index.html?rn=1801', 'android.email@bigfishgames.com']}
+{'com.n3vgames.android.mfts': ['My First TRAINZ Set', 'N3V+Games+PTY+LTD', '10,000+', 'http://www.n3vgames.com', 'support@n3vgames.com']}
+{'com.easygame.marblelegendpay': ['Marble Legend Pro', 'easygame7', '10,000+', 'https://sites.google.com/site/easygame7prvacypolicy/', 'game7.winer@hotmail.com']}
+{'com.maximize.tasty': ['2 Tasty', 'Maximize+Play', '1,000+', 'http://www.maximizegames.com/', 'contact@maximizegames.com']}
+{'com.casualforge.HotelMogulHD': ['Hotel Mogul HD', '8807757752657588254', '10,000+', 'http://www.alawar.com', 'mobile.support@alawar.com']}
+{'net.kairosoft.android.fukuya_en': ['Pocket Clothier', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m67', 'support_en@kairopark.jp']}
+{'com.bigfishgames.jltolgooglefull': ['Jewel Legends (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.tommo.tgpepp1': ['Putt-Putt® Joins the Parade', 'Humongous+Entertainment', '500+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.tommo.tgpepp6': ['Putt-Putt® Joins the Circus', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.tommo.nggpeff3': ['Freddi Fish & the Stolen Shell', 'Humongous+Entertainment', '5,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'air.com.differencegames.sweetpony': ['Sweet Pony', '8738231386379978787', '1,000+', 'http://www.differencegames.com', 'info@differencegames.com']}
+{'com.odesys.freecell': ['FreeCell', 'Odesys,+LLC', '10,000+', 'http://www.odesys.com', 'support@odesys.com']}
+{'com.pixelstar.GrowZombiesVIP': ['Grow Zombie VIP - Merge Zombies', '4684520990643024417', '50,000+', 'https://www.facebook.com/pixelstarstudio/', 'x9cnnon@gmail.com']}
+{'smpxg.jewellust_platinum': ['Jewellust Platinum: match 3', 'Smartpix+Games', '100+', 'http://smartpixgames.com', 'smartpix.games@gmail.com']}
+{'com.aightivr.ShootTheCan': ['Shoot the Cans', '8i-VR', '100+', 'http://www.8i-vr.bplaced.net', 'aightivr@gmail.com']}
+{'com.dustflake.innergarden.vegetable': ['Inner Garden: Vegetable Garden', 'Dust*flake', '1,000+', 'http://www.dustflake.com', 'dustflake.games@gmail.com']}
+{'com.firerabbit.games.fmc.zs.full': ['Fix My Car: Zombie Survival!', 'FireRabbit', '10,000+', 'https://www.facebook.com/firerabbit.canada', 'clientservices@firerabbit.com']}
+{'fs.ff7.itemchecker': ['Item Check for Final Fantasy 7', 'Florian+Schoellhammer', '1,000+', 'http://www.beyond.com/fschoellhammer', 'florian.schoellhammer@gmail.com']}
+{'com.garmin1.easyclicker': ['Easy Clicker', 'Jakov+Sheynbeyn', '5+', None, 'garmin1@gmail.com']}
+{'ca.kiweb.bubblepop': ['Bubble Bliss XL', 'Fun+To+Learn', '10+', 'http://www.kiweb.ca', 'tyson@kiweb.ca']}
+{'com.tommo.tgpeff5': ['Freddi Fish: Coral Cove', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.bigfishgames.mwchgoogfull': ['Myths of the World: Chinese Healer (Full)', '8355317828905497231', '500+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.tommo.nggpemaze': ['Freddi Fish Maze Madness', 'Humongous+Entertainment', '500+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.bigfishgames.android.aofefull': ['Age of Enigma (Full)', '8355317828905497231', '1,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.the10tons.miriel2': ["Miriel's Enchanted Mystery", '7171874514561735692', '1,000+', 'http://www.10tons.com', 'androidsupport@10tons.com']}
+{'com.firerabbit.android.game.fixmycar.full': ['Fix My Car: Classic Muscle Car', 'FireRabbit', '10,000+', 'https://www.facebook.com/firerabbit.canada', 'clientservices@firerabbit.com']}
+{'com.alawar.WeirdParkBrokenTune.Full': ['Weird Park: Broken Tune. Hidden Object Puzzle Game', '8807757752657588254', '10,000+', 'http://www.alawar.com', 'android.support@alawar.com']}
+{'com.amuseware.chickenfoot': ['Chickenfoot Dominoes', 'Amuseware', '50+', 'http://www.amuseware.com', 'scott@amuseware.com']}
+{'com.roksoft.profiteer_pro': ['Space Trading Profiteer', 'RokSoft', '1,000+', 'http://profiteer.roksoft.co.uk', 'profiteer@roksoft.co.uk']}
+{'com.bigfishgames.mcfmfgoogfull': ['MCF Madame Fate (Full)', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'net.kairosoft.android.pyramid_en': ['The Pyraplex', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m76', 'support_en@kairopark.jp']}
+{'com.bigfishgames.azadadroidfull': ['Azada [Full]', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com/help/index.html?rn=1801', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.kbrooksgoogfull': ['The Secret Legacy (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.hmgoogfull': ['Haunted Manor: Mirrors (Full)', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'it.marzoli.app.batterywidgetpro': ['Battery level PRO', 'Andrea+Marzoli', '1,000+', 'http://marzoli.altervista.org', 'marzoli.developer@gmail.com']}
+{'com.alawar.FarmFrenzy3': ['Farm Frenzy 3. Farming game', '8807757752657588254', '50,000+', 'http://www.alawar.com', 'mobile.support@alawar.com']}
+{'com.PlayStar.Mini': ['NonstopDungeon', 'PlayStarGames', '500+', 'https://www.facebook.com/Playstargames-460853321112803/', 'playstar.studio@gmail.com']}
+{'air.com.nelvanadigital.bunnymakebelieve': ['Max & Ruby: Bunny Make Believe', 'Nelvana+Digital+Inc.', '1,000+', 'http://nelvanadigital.com/', 'contactnelvana@gmail.com']}
+{'com.bigfishgames.echoes1googfull': ['Echoes of the Past (Full)', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.google.heafull': ['Amazon:Hidden Expedition-Full', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.ehab1989.ONEDOLLAR': ['One Dollar App', 'amosolutions', '100+', None, 'amosolutions3@gmail.com']}
+{'com.tommo.tgpesf2': ['Spy Fox Some Assembly Required', 'Humongous+Entertainment', '1,000+', 'http://www.humongous.com', 'support@humongous.com']}
+{'com.bigfishgames.msshmgooglefull': ['Mystery Seekers (Full)', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.Chuck.ProductName': ['CHUCK', 'ADALUTE+GAMES', '5+', 'http://www.adalutegames.com', 'david@adalutegames.com']}
+{'com.bbc.heyduggeesquirrelclub': ['Hey Duggee: The Squirrel Club', 'BBC+Worldwide+%28Ltd%29', '1,000+', 'https://www.heyduggee.com/grown-ups/apps/', 'support@scarybeasties.com']}
+{'com.sgg.skyscrapercaper': ['Skyscraper Caper', 'SGG', '50+', 'https://www.socialgamegroup.com', 'support@socialgamegroup.com']}
+{'com.personalitychanger.full': ['Personality Changer', 'Daniil+Mizun', '500+', None, 'mizun@mail.ru']}
+{'com.studiopango.pangoSheep': ['Pango Sheep', '5656437925259438538', '1,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.bigfishgames.loldogoogfull': ['League of Light: Dark Omen (Full)', '8355317828905497231', '1,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.blackwidowgoogfull': ['Web of Deceit CE (Full)', '8355317828905497231', '1,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.gen8games.afmgo': ['Anime Face Maker GO', 'Gen8+Games', '1,000+', 'http://www.gen8games.com', 'admin@gen8games.com']}
+{'com.disney.djappisodesmtfrs_goo': ['Appisodes: Runaway Shuttle', 'Disney', '500+', 'http://help.disney.com', 'support@disneymobile.com']}
+{'com.bigfishgames.dgpodgoogfull': ['Dangerous Games: Prisoners of Destiny (Full)', '8355317828905497231', '1,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.bolgooglefull': ['Beast of Lycan Isle CE (Full)', '8355317828905497231', '1,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bigfishgames.trgolgoogfull': ['Time Relics (Full)', '8355317828905497231', '1,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.senspark.goldminervegas.premium': ['Gold Miner Vegas: Nostalgic Arcade Game', '7830868662152106484', '10,000+', 'http://www.senspark.com', 'feedback@senspark.com']}
+{'com.xd.gemini.google': ['Gemini', 'X.D.+Network', '1,000+', 'http://global.xd.com/privacy.html', 'indie@xindong.com']}
+{'com.bim.daydream.ctc.vr': ['City Traffic Control - VR', 'Big+Immersive', '100+', 'http://bigimmersive.com/', 'contact@bigimmersive.com']}
+{'com.disney.djappisodesdmsrrbcp_goo': ['Appisodes: Rescue Ronda', 'Disney', '500+', 'http://help.disney.com/', 'support@disneymobile.com']}
+{'com.disney.djappisodesstfbs_goo': ['Appisodes: The Big Sleepover', 'Disney', '1,000+', 'http://help.disney.com/', 'support@disneymobile.com']}
+{'com.minersidle3t.incrementalinc.minersidle3new': ["Miner's Idle 3 - Incremental Mining Game", 'Incremental+Inc.', '5,000+', 'https://twitter.com/Incremental_Inc', 'alexaulds93@gmail.com']}
+{'com.bigfishgames.cfhhgoogfull': ['Cursed Fates: The Headless Horseman (Full)', '8355317828905497231', '1,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.bullbitz.candy': ['Candy Game -Match three puzzle', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'com.furiousapps.haunt': ['The Haunt', 'Synthesis+Design+Solutions', '10,000+', 'http://www.furiousapps.com', 'appsupport@furiousapps.com']}
+{'com.bigfishgames.google.empress2full': ['Empress of the Deep 2 [Full]', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com/help/index.html?rn=1801', 'android.email@bigfishgames.com']}
+{'com.disney.djappisodesscww_goo': ['Appisodes: Toby the Cowsitter', 'Disney', '1,000+', 'http://help.disney.com', 'support@disneymobile.com']}
+{'com.tegtap.dragonmaker': ['Dragon Maker', 'TegTap', '1,000+', 'http://www.tegtap.com', 'admin@tegtap.com']}
+{'com.Alawar.AlabamaSmithPompeii': ['Alabama Smith', '8807757752657588254', '10,000+', 'http://www.alawar.com', 'mobile.support@alawar.com']}
+{'com.teatimemedia.mash': ['MASH Pro', 'teatime+media', '10,000+', 'http://www.teatimemedia.com', 'teatimemedia@gmail.com']}
+{'com.bigfishgames.android.nawpdroidfull': ['Nightmare Adventures [Full]', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com/help/index.html?rn=1801', 'android.email@bigfishgames.com']}
+{'com.playstack.helpthegame': ['HELP: Matching Games with Fun Puzzle Gameplay', '6141132371121472740', '500+', 'https://helpmobilegame.com/', 'support@helpthegame.zendesk.com']}
+{'appinventor.ai_HVEeghen.YCOTBsolutions': ["You Can't Open the Box - Solutions", 'Fede+Garay', '50+', None, 'flgaray@hotmail.com']}
+{'com.GameOven.Bounden': ['Bounden', '5996711245499992497', '5,000+', 'http://www.gameovenstudios.com', 'support@gameovenstudios.com']}
+{'com.bigfishgames.keeperslpgoogfull': ['Keepers: Lost Progeny CE(Full)', '8355317828905497231', '5,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.taleoftales.LuxuriaSuperbia': ['Luxuria Superbia', 'Tale+of+Tales', '1,000+', 'http://Tale-of-Tales.com', 'androida@tlo.tl']}
+{'com.altenmann.shooter': ['Golden Shooter', '4692850975759233644', '1+', None, 'mannalten@gmail.com']}
+{'com.mobimonsterit.truthanddarefull': ['Truth or Dare Challenge - Pro', '5414467887696876060', '10+', 'http://www.mobimonsterit.com', 'support@mobimonsterit.com']}
+{'com.HanbitSoft.AuditionVR': ['Audition VR - Idol', '5476140356962722989', '50+', 'http://t3.co.kr', 'msl1@t3.co.kr']}
+{'com.resolutiongames.narrows': ['Narrows', 'Resolution+Games+AB', '1,000+', 'http://www.resolutiongames.com', 'support@resolutiongames.com']}

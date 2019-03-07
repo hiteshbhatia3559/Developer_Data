@@ -1,0 +1,597 @@
+{'com.basevelocity.radarscope': ['RadarScope', 'Weather+Decision+Technologies,+Inc.', '50,000+', 'http://radarscope.io', 'support@wdtinc.com']}
+{'ch.threema.app': ['Threema', '7923858866786761874', '1,000,000+', 'https://threema.ch', 'support@threema.ch']}
+{'com.Relmtech.RemotePaid': ['Unified Remote Full', 'Unified+Intents', '100,000+', 'https://www.unifiedremote.com', 'support@unifiedremote.com']}
+{'com.pujie.wristwear.pujieblack': ['Watch Face - Pujie Black for Wear OS', '7780011900367662392', '100,000+', 'https://www.pujieblack.com', 'info@pujieblack.com']}
+{'com.stmp.minimalface': ['Watch Face - Minimal & Elegant for Android Wear OS', '7274979146896532847', '100,000+', 'http://academyextreme.com', 'academyextreme@gmail.com']}
+{'com.acmeaom.android.myradarpro': ['MyRadar Weather Radar Ad Free', 'ACME+AtronOmatic+LLC', '10,000+', 'http://myradar.com', 'myradarandroid@acmeaom.com']}
+{'com.phonephreak.extendedlight': ['StayLit Wear: Longer Backlight', 'PhonePhreak+Software', '10,000+', 'http://phonephreaksoftware.com', 'support@phonephreaksoftware.com']}
+{'com.safeincloud': ['Password Manager SafeInCloud Pro', 'SafeInCloud', '100,000+', 'https://www.safe-in-cloud.com', 'support@safe-in-cloud.com']}
+{'fr.yochi76.printoid.phones.premium': ['Printoid for OctoPrint [PREMIUM] (3D printing)', '5122015473710814043', '5,000+', 'https://printoid.net', 'printoid.for.octoprint@gmail.com']}
+{'net.stefano.stefanoface2': ['Ultimate Watch 2 watch face', 'Stefano+Watches', '10,000+', 'http://www.stefanowatches.com', 'ultimate.watch@stefanowatches.com']}
+{'fr.yochi76.printoid.phones.pro': ['Printoid for OctoPrint [PRO] (3D printing)', '5122015473710814043', '5,000+', 'https://printoid.net', 'printoid.for.octoprint@gmail.com']}
+{'com.daylightmap.moon.pro.android': ['Lunescope: Moon Viewer', '6589881289812568831', '100,000+', 'https://lunescope.app', 'lunescope@udellenterprises.com']}
+{'info.gryb.gacw': ['GACW - 2FA TOTP Auth Client for Wear', 'Oleg+Gryb', '500+', 'https://credelius.com/credelius/?p=241', 'admin@gryb.info']}
+{'com.runtastic.android.pro2': ['Runtastic PRO Running, Fitness', '8438666261259599516', '1,000,000+', 'http://www.runtastic.com', 'support.android@runtastic.com']}
+{'co.smartwatchface.watch.face.aviator.android.wear': ['Skymaster Pilot Watch Face', 'Zuhanden', '100,000+', 'http://smartwatchface.co', 'mobile@zuhanden.de']}
+{'com.appmosaic.tidechart': ['Tide Table Chart', 'AppMosaic', '1,000+', 'http://www.tidetablechart.com/', 'info@appmosaic.com']}
+{'com.stmp.flipclock': ['Flip Clock Watch Face for Wear OS', '7274979146896532847', '10,000+', 'http://academyextreme.com', 'academyextreme@gmail.com']}
+{'dyna.logix.wear.inactivity.tracker.stand.up.alert': ['Wear Stand-up Alert +Watchface complication bubble', '6165670359285464177', '1,000+', 'https://bubble.dataglobe.eu/2019/01/01/wear-stand-up-alert/', 'dyna.logix.hu@gmail.com']}
+{'com.mufri.authenticatorplus': ['Authenticator Plus', '6275236625060571598', '10,000+', 'https://www.authenticatorplus.com', 'support@authenticatorplus.com']}
+{'com.watch.richface.digital': ['Watch Face Military Digital', 'RichFace', '10,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'co.smartwatchface.odyssey.watch.face': ['Odyssey Watch Face', 'Zuhanden', '50,000+', 'http://www.smartwatchface.co', 'hans@smartwatchface.co']}
+{'com.northpark.drinkwaterpro': ['Water Drink Reminder Pro', 'Leap+Fitness+Group', '10,000+', 'http://www.northparkapp.com/privacypolicy.html', 'northpark.android@gmail.com']}
+{'com.angrygoat.android.squeezectrl': ['Squeeze Ctrl', 'angryGoat', '10,000+', 'http://angrygoatapps.com', 'info@angrygoatapps.com']}
+{'uk.co.wearabledesigns.ledwithweather': ['LED Watch face with Weather', '5117509099958351335', '10,000+', 'http://www.wearabledesigns.co.uk', 'support@wearabledesigns.co.uk']}
+{'com.shameronstudios.arrowwatch': ['Skinny Love Watch Face', 'Shameron+Studios', '5,000+', 'http://www.shameronstudios.com', 'cameron@shameronstudios.com']}
+{'de.bassapps.WatchChat': ['WatchChat for WhatsApp', '6484566594998218918', '5,000+', None, 'alecman95@gmail.com']}
+{'com.ua.makeev.wearcamera': ['Wear Camera', '6441983418105616174', '10,000+', 'http://makeevapps.com', 'wear.camera@gmail.com']}
+{'com.turndapage.navmusic': ['NavMusic - Wear OS Offline Music Media Nav Music', '5304767307318254576', '5,000+', 'http://turndapage.com/navmusic/', 'joelphilippage@gmail.com']}
+{'com.matteotomasini.mickeywatchface': ['Mickey Mouse Watch Face', 'Matteo+Tomasini', '1,000+', None, 'matteo.tomasini@gmail.com']}
+{'com.wearappmanager': ['Wear App Manager', '6589881289812568831', '10,000+', 'http://wearappmanager.com', 'wam@udellenterprises.com']}
+{'com.onestudio.henry.weathermavenforwearos': ['Weather Maven for Wear OS', 'Henry+Stern', '500+', 'https://onestudio.gq', 'citypanda.develops@gmail.com']}
+{'com.rjr.apps.first_watchface': ['First - a Calendar Watchface', 'RJR+Apps', '1,000+', None, 'rjrapps.llc@gmail.com']}
+{'com.hole19golf.wear': ['Hole19 Golf GPS for Smartwatch', 'Hole19', '5,000+', 'http://www.hole19golf.com', 'info@hole19golf.com']}
+{'fr.thema.wear.watch.jack': ['Jack Watch Face', 'thema', '5,000+', 'http://www.themaapps.com', 'thema.apps@gmail.com']}
+{'dev.dworks.apps.anexplorer.pro': ['File Manager Pro Android TV USB Cloud Root Apps', '8683545855643814241', '50,000+', 'https://anexplorer.co/', 'support@dworks.io']}
+{'com.stmp.toor': ['Toor - Watch Face for Android Wear - Wear OS', '7274979146896532847', '1,000+', 'http://academyextreme.com', 'academyextreme@gmail.com']}
+{'dynalogix.bubblecloud.themepack11': ['Notification Icons Watch Face Theme Status Bubbles', '6165670359285464177', '100+', 'https://bubble.dataglobe.eu/2018/11/21/notification-watch-face-theme-for-bubble-clouds/', 'bcwhelp@gmail.com']}
+{'it.claudio.chimera.virtual.volume': ['Virtual Volume', 'Claudio+Chimera', '500+', 'http://claudio.chimera.dynu.com/privacy-policy.html', 'claudio.chimera@gmail.com']}
+{'com.droidtmt.watchpipboy': ['WatchPipBoy', '8771837763501582057', '500+', 'http://www.droidtmt.com', 'contacto@droidtmt.com']}
+{'wear.webcam': ['Watch With a View - Watchface', 'Schneeweis.Technology', '1,000+', 'http://schneeweis.technology', 'info@schneeweis.technology']}
+{'com.watch.richface.runner': ['Runner Watch Face', 'RichFace', '10,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'com.gmail.maxdiland.dilandscompanion': ["Diland's companion HD watch face", '5442695033736804273', '1,000+', 'https://www.dropbox.com/s/cbej37dliiyp0ih/PrivacyPolicyDilandsCompanion.txt?dl=0', 'maxkr@mail.ru']}
+{'fr.thema.wear.watch.titanium': ['Titanium Watch Face', 'thema', '1,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.redshoes.hearttracker': ['Heart Tracker - WearOS / BLE / Garmin Heart Rate', '4900394646201414790', '10+', 'https://www.freeprivacypolicy.com/privacy/view/470e8be4915dda26b68ccaf425f3d154', 'redshoes.apps@gmail.com']}
+{'com.facer.MauriceLacroix.fcraSrnPPfboU': ['Maurice Lacroix - Masterpiece Square Wheel', '5837919682648806204', '500+', 'http://www.facer.io', 'facer-support@little-labs.com']}
+{'com.daylightclock.android.license': ['TerraTime Pro', '6589881289812568831', '50,000+', 'http://terratime.net', 'terratime@udellenterprises.com']}
+{'fr.thema.wear.watch.digital': ['Digital One Watch Face', 'thema', '5,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.watch.richface.dynamic': ['Dynamic Watch Face', 'RichFace', '10,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'dd.watchdesigner.artist': ['Artist watchface by DesignerKang', '7748240321407942094', '10+', 'https://goo.gl/5vWxW6', 'watchfacedesigner@gmail.com']}
+{'com.teslawear.danielcastro.teslaapp': ['Wear for Tesla', 'Daniel+A+Castro', '50+', 'https://sites.google.com/view/wear-for-tesla/', 'servicesdaniel4@gmail.com']}
+{'com.appgeneration.itunerpro': ['myTuner Radio Pro', '6873380610601889920', '10,000+', 'https://mytuner-radio.com', 'help@mytuner.mobi']}
+{'co.smartwatchface.watch.face.sportive.elegant': ['Sportive Watch Face', 'Zuhanden', '5,000+', 'http://www.smartwatchface.co', 'mobile@zuhanden.de']}
+{'com.apptrio.gamewatch.racer': ['Watch Game Racer(Smart Watch)', '7980043509581610980', '5,000+', 'http://down.happymobiles.co.kr/public_personal_information', 'apptriohelp@gmail.com']}
+{'fr.thema.wear.watch.christmas': ['Christmas Sweater Watch Face', 'thema', '1,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.atektura.ninetofivewatchface': ['9to5 Working Hours Watch Face', '5566278677903777243', '1,000+', 'http://atektura.pl', 'contact@atektura.watch']}
+{'fr.thema.wear.watch.morphing': ['Morphing Watch Face', 'thema', '10,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.watch.richface.futuristic': ['Futuristic Watch Face', 'RichFace', '10,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'com.virtualgs.galaxia': ['GALAXIA (Wear OS)', '7809285959465313029', '5,000+', 'http://virtual-gs.com', 'support@virtual-gs.com']}
+{'com.turndapage.navbooks': ['NavBooks - Audiobooks with offline Wear OS support', '5304767307318254576', '500+', 'http://turndapage.com/navbooks/', 'joelphilippage@gmail.com']}
+{'com.droidtmt.watchballz': ['WatchBallZ', '8771837763501582057', '50+', 'http://www.droidtmt.com', 'contacto@droidtmt.com']}
+{'com.skin1980.buttonremap': ['Wear Button Remapper', 'Skin1980', '500+', None, 'skin1980@gmail.com']}
+{'com.denite.watchface.raceday': ['Race Day HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '500+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'fr.thema.wear.watch.feisar': ['Feisar Watch Face', 'thema', '1,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.denite.watchface.sleeksheen': ['Sleek Sheen HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '1,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.denite.watchface.ledcube': ['LED Cube HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '1,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.mobvoi.ticwear.watchface.gem.appstore': ['Gem', 'Mobvoi+Watchface', '5+', None, 'support@mobvoi.com']}
+{'com.mobvoi.ticwear.watchface.elegant.appstore': ['Elegant', 'Mobvoi+Watchface', '5+', None, 'support@mobvoi.com']}
+{'com.tocapp.minesweeperwear': ['Mines Wear - Find mines on watch', '7215357436770573983', '1+', 'https://tocapp.com', 'support@tocapp.com']}
+{'com.mobvoi.ticwear.watchface.magicshadow.appstore': ['magicshadow', 'Mobvoi+Watchface', '5+', None, 'support@mobvoi.com']}
+{'com.mobvoi.ticwear.watchface.primetime.appstore': ['Primetime', 'Mobvoi+Watchface', '50+', None, 'support@mobvoi.com']}
+{'com.mobvoi.ticwear.watchface.internal_wf_misspink.playstore': ['Misspink', 'Mobvoi+Watchface', '1+', None, 'support@mobvoi.com']}
+{'com.mobvoi.ticwear.watchface.internal_wf_marble.playstore': ['Marble', 'Mobvoi+Watchface', '1+', None, 'support@mobvoi.com']}
+{'com.mobvoi.ticwear.watchface.internal_wf_celestial.playstore': ['Starry Night', 'Mobvoi+Watchface', '1+', None, 'support@mobvoi.com']}
+{'com.mobvoi.ticwear.watchface.magicshadow': ['Magicshadow', 'Mobvoi+Watchface', '1+', None, 'support@mobvoi.com']}
+{'com.mobvoi.ticwear.watchface.rubyheart': ['Rubyheart', 'Mobvoi+Watchface', '1+', None, 'support@mobvoi.com']}
+{'com.mobvoi.ticwear.watchface.rome.appstore': ['Rome', 'Mobvoi+Watchface', '1+', None, 'support@mobvoi.com']}
+{'com.littlesunsoftware.wearwheel': ['Wear Wheel', 'Little+Sun+Software', '10+', 'http://sites.google.com/site/littlesunsoftware', 'littlesunsoftware@gmail.com']}
+{'com.facer.Dalpek.fcruDal4mpsmi': ['Dalpek - Cell Dalpek', '5837919682648806204', '1+', 'https://www.facer.io', 'facer-support@little-labs.com']}
+{'com.facer.LAZARUS.fcry46ptzDteu': ['LAZARUS - Event Horizon', '5837919682648806204', '1+', 'https://www.facer.io', 'facer-support@little-labs.com']}
+{'blackspruce.com.lemontime': ['Lemon Time for Android Wear', '5978809520974942611', '5+', None, 'BlackSpruce.Software@gmail.com']}
+{'com.clearchannel.iheartradio.controller': ['iHeartRadio - Free Music, Radio & Podcasts', '8821283674927730745', '50,000,000+', 'http://iheart.com', 'android@iheartradio.com']}
+{'com.google.android.music': ['Google Play Music', '5700313618786177705', '1,000,000,000+', 'http://play.google.com/music/', 'apps-help@google.com']}
+{'com.google.android.deskclock': ['Clock', '5700313618786177705', '100,000,000+', 'http://www.google.com/', 'android-clock-feedback@google.com']}
+{'com.aa.android': ['American Airlines', 'American+Airlines,+Inc.', '5,000,000+', 'http://www.aa.com/app', 'aa.mobile@aa.com']}
+{'com.google.android.marvin.talkback': ['Android Accessibility Suite', '5700313618786177705', '1,000,000,000+', 'http://eyes-free.googlecode.com/', 'apps-help@google.com']}
+{'com.google.android.apps.maps': ['Maps - Navigate & Explore', '5700313618786177705', '1,000,000,000+', 'http://maps.google.com/about/', 'apps-help@google.com']}
+{'com.google.android.googlequicksearchbox': ['Google', '5700313618786177705', '1,000,000,000+', 'https://www.google.com/search/about/', 'apps-help@google.com']}
+{'huskydev.android.watchface.info': ['Info Watch Face', '8016075941590810026', '50,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215', 'huskydevcz@gmail.com']}
+{'pl.lawiusz.funnyweather.release': ['Fu*** Weather (Funny Weather)', '5781487188033065713', '1,000,000+', 'https://funnyweather.zsuiwal.com/privacy/?utm_source=google_play&utm_medium=lfw_privacy', 'support@zsuiwal.com']}
+{'com.callapp.contacts': ['CallApp: Caller ID, Call Blocker & Call Recorder', '6882074241033486164', '10,000,000+', 'http://callapp.com', 'support@callapp.com']}
+{'com.journey.app': ['Journey: Diary, Journal, Mood Tracker', '8945539023671021149', '1,000,000+', 'https://2appstudio.com/journey', 'help@2appstudio.com']}
+{'com.just4fun.simplevoicechanger': ['Easy Voice Changer', '7713713929802184825', '1,000,000+', 'http://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.basevelocity.radarscope': ['RadarScope', 'Weather+Decision+Technologies,+Inc.', '50,000+', 'http://radarscope.io', 'support@wdtinc.com']}
+{'com.ubercab': ['Uber', '7908612043055486674', '100,000,000+', 'http://www.uber.com', 'support@uber.com']}
+{'ch.publisheria.bring': ['Bring! Grocery Shopping List', '8519184354148100199', '1,000,000+', 'https://getbring.com', 'hello@getbring.com']}
+{'com.denite.watchface.raceday': ['Race Day HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '500+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.shazam.android': ['Shazam', 'Apple,+Inc.', '100,000,000+', 'http://www.shazam.com', 'android.support@shazamteam.com']}
+{'com.todoist': ['Todoist: To-do lists for task management & errands', '6748661820728732000', '10,000,000+', 'http://todoist.com/android', 'support@todoist.com']}
+{'com.facebook.orca': ['Messenger – Text and Video Chat for Free', 'Facebook', '1,000,000,000+', 'https://www.facebook.com/games/fbmessenger_android/', 'android-support@fb.com']}
+{'com.pandora.android': ['Pandora Music', 'Pandora', '100,000,000+', 'http://www.pandora.com', 'pandora-support@pandora.com']}
+{'com.spotify.music': ['Spotify - Music and Podcasts', 'Spotify+Ltd.', '100,000,000+', 'https://www.spotify.com', 'android-support@spotify.com']}
+{'com.ubercab': ['Uber', '7908612043055486674', '100,000,000+', 'http://www.uber.com', 'support@uber.com']}
+{'com.weather.Weather': ['Weather Radar and Forecast - The Weather Channel', '5938833519207566184', '100,000,000+', 'http://feedback.weather.com/', 'android.support@weather.com']}
+{'com.clearchannel.iheartradio.controller': ['iHeartRadio - Free Music, Radio & Podcasts', '8821283674927730745', '50,000,000+', 'http://iheart.com', 'android@iheartradio.com']}
+{'com.google.android.apps.walletnfcrel': ['Google Pay', '5700313618786177705', '100,000,000+', 'https://pay.google.com/about', 'google-payments@google.com']}
+{'com.accuweather.android': ['AccuWeather: Weather Radar & Live Forecast Maps', 'AccuWeather', '50,000,000+', 'http://www.accuweather.com', 'support@accuweather.com']}
+{'com.shazam.android': ['Shazam', 'Apple,+Inc.', '100,000,000+', 'http://www.shazam.com', 'android.support@shazamteam.com']}
+{'com.aa.android': ['American Airlines', 'American+Airlines,+Inc.', '5,000,000+', 'http://www.aa.com/app', 'aa.mobile@aa.com']}
+{'com.acorns.android': ['Acorns - Invest Spare Change', 'Acorns', '1,000,000+', 'https://www.acorns.com', 'androidsupport@acorns.com']}
+{'com.robinhood.android': ['Robinhood: Invest in Stock, Crypto, ETF & Coin', '6660669299832938042', '5,000,000+', 'https://robinhood.com/', 'support@robinhood.com']}
+{'org.telegram.messenger': ['Telegram', 'Telegram+FZ-LLC', '100,000,000+', 'https://telegram.org', 'support@telegram.org']}
+{'com.google.android.music': ['Google Play Music', '5700313618786177705', '1,000,000,000+', 'http://play.google.com/music/', 'apps-help@google.com']}
+{'com.google.android.apps.messaging': ['Messages', '5700313618786177705', '100,000,000+', 'http://www.google.com/mobile/android/', 'apps-help@google.com']}
+{'com.google.android.keep': ['Google Keep - Notes and Lists', '5700313618786177705', '100,000,000+', 'https://support.google.com/?p=notes_main', 'apps-help@google.com']}
+{'com.stubhub': ['StubHub - Tickets to Sports, Concerts & Events', 'StubHub', '5,000,000+', 'http://www.stubhub.com', 'shAndroidApp@gmail.com']}
+{'com.google.android.apps.fitness': ['Google Fit: Health and Activity Tracking', '5700313618786177705', '10,000,000+', 'http://www.android.com/', 'apps-help@google.com']}
+{'com.nest.android': ['Nest', 'Nest+Labs+Inc.', '1,000,000+', 'https://nest.com/', 'support@nest.com']}
+{'com.acmeaom.android.myradar': ['MyRadar Weather Radar', 'ACME+AtronOmatic+LLC', '10,000,000+', 'http://myradar.com', 'myradarandroid@acmeaom.com']}
+{'com.google.android.wearable.app': ['Wear OS by Google Smartwatch (was Android Wear)', '5700313618786177705', '10,000,000+', 'http://support.google.com/wearos', 'apps-help@google.com']}
+{'com.google.android.deskclock': ['Clock', '5700313618786177705', '100,000,000+', 'http://www.google.com/', 'android-clock-feedback@google.com']}
+{'com.fishbrain.app': ['Fishbrain - local fishing map and forecast app', 'Fishbrain', '5,000,000+', 'http://www.fishbrain.com', 'support@fishbrain.com']}
+{'com.anydo': ['Any.do: To do list, Calendar, Reminders & Planner', '5304780265295461149', '10,000,000+', 'https://www.any.do', 'feedback+androidtodo@any.do']}
+{'com.sillens.shapeupclub': ['Lifesum - Diet Plan, Macro Calculator & Food Diary', 'Lifesum', '10,000,000+', 'http://www.lifesum.com', 'support@lifesum.com']}
+{'com.strava': ['Strava Training: Track Running, Cycling & Swimming', 'Strava+Inc.', '10,000,000+', 'https://www.strava.com/', 'support@strava.zendesk.com']}
+{'com.apps4you.lighter': ['Virtual Lighter', '7713713929802184825', '5,000,000+', 'http://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.just4fun.virtualcola': ['Virtual Cola drinking', '7713713929802184825', '5,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.callapp.contacts': ['CallApp: Caller ID, Call Blocker & Call Recorder', '6882074241033486164', '10,000,000+', 'http://callapp.com', 'support@callapp.com']}
+{'com.google.android.inputmethod.korean': ['Google Korean Input', '5700313618786177705', '100,000,000+', 'http://www.google.com/inputtools/', 'apps-help@google.com']}
+{'com.mydiabetes': ['Diabetes:M', 'Sirma+Medical+Systems', '500,000+', 'http://www.diabetes-m.com', 'support@diabetes-m.com']}
+{'com.apps4you.virtualmilk': ['Virtual Milk drinking', '7713713929802184825', '500,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.endless.myshoppinglist': ['My Shopping List, Notes, to-do list', 'Endless', '50,000+', 'http://www.cookitrecipes.com/privacy.php', 'infinitewallpapers@gmail.com']}
+{'com.appfour.wearmail': ['Mail for Wear OS (Android Wear) & Gmail', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'fr.thema.wear.watch.swift': ['Swift Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.ammarptn.willow.digital.watch.face': ['Willow - Photo Watch face', '7414952821763503585', '100,000+', 'http://ammar.lanui.online', 'ammarptn@gmail.com']}
+{'it.ct.glicemia': ['Glimp', 'CTAPP+Software', '100,000+', 'http://www.deebee.it/?p=1411', 'ctappsoftware@gmail.com']}
+{'com.ustwo.watchfaces.hero': ['Looks Android Wear Watch Faces', '7991087096833242771', '100,000+', 'http://ustwo.com', 'wearsupport@ustwo.com']}
+{'apps.r.calculator': ['Calculator', '5504511874958019671', '500,000+', 'https://r-apps.wixsite.com/r-apps', 'r.apps.feedback@gmail.com']}
+{'com.exovoid.weather.app': ['Weather XL PRO', '6534515373655701527', '10,000,000+', 'http://www.exovoid.ch', 'support@exovoid.ch']}
+{'com.appfour.weartube': ['Video for Wear OS (Android Wear) & YouTube', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.qs.tattoo': ['Tattoo Master', 'CanaryDroid', '5,000,000+', 'http://www.canadadroid.com/policy.htm', 'contact@canadadroid.com']}
+{'com.neurondigital.exercisetimer': ['Exercise Timer', 'NeuronDigital', '1,000,000+', 'https://www.exercisetimer.net', 'melvin@neurondigital.com']}
+{'rocketstartups.wearcalculator': ['Calculator For Wear OS (Android Wear)', '9027257451638050761', '500,000+', 'http://www.wearable-software.com/', 'support@wearable-software.com']}
+{'com.watch.richface.ultra': ['Ultra Watch Face', 'RichFace', '100,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'de.lhp.rontivity': ['Rontivity', '7731055686739169047', '50,000+', 'http://lazyheroproductions.de/', 'lhproductionshelp@gmail.com']}
+{'adarshurs.android.vlcmobileremote': ['VLC Mobile Remote - PC & Mac, PC Remote - Windows', '5977440600079786686', '1,000,000+', 'https://vlcmobileremote.com/', 'adisloppy@live.com']}
+{'net.nurik.roman.muzei': ['Muzei Live Wallpaper', 'Roman+Nurik+and+Ian+Lake', '1,000,000+', 'http://muzei.co', 'support@muzei.co']}
+{'com.hole19golf.hole19.beta': ['Hole19: Golf GPS App, Rangefinder & Scorecard', 'Hole19', '500,000+', 'http://www.hole19golf.com', 'help@hole19golf.com']}
+{'com.dvtonder.chronus': ['Chronus: Home & Lock Widgets', 'DvTonder', '1,000,000+', 'https://plus.google.com/u/0/communities/116615520972804250369', 'chronus.widget@gmail.com']}
+{'com.usefullapps.fakegpslocationpro': ['Fake GPS Location PRO', '7713713929802184825', '500,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.denite.watchface.galaxyglow': ['Galaxy Glow HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '100,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'mbt925.ir.fastwearkeyboard': ['MultiTap Wear Keyboard', '8204438416220031375', '10,000+', 'http://mbt925.ir', 'mbt925@gmail.com']}
+{'com.hidglobal.mobilekeys.android.v3': ['HID Mobile Access', 'HID+Global', '100,000+', 'http://www.hidglobal.com/services/mobile-access', 'mobilekeys@assaaabloy.com']}
+{'com.usefullapps.nightvisioncamera': ['Night Vision Camera Simulation', '7713713929802184825', '5,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.paulserver.animatedwatchface': ['HQ Animated Watch Face', '6662602780538406550', '10,000+', 'http://www.paulserver.com', 'info@paulserver.com']}
+{'com.usefullapps.antimosquitoprank': ['Mosquito Sound', '7713713929802184825', '1,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.denite.watchface.blackmetal': ['Black Metal HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '500,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.just4funmobile.crocodileinphone': ['Crocodile in Phone Big Joke', '7713713929802184825', '500,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'com.just4funmobile.turtlewalksinphone': ['Turtle Walks in Phone joke', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'com.endless.healthyrecipes': ['Healthy Recipes', 'Endless', '500,000+', 'http://www.cookitrecipes.com/privacy.php', 'infinitewallpapers@gmail.com']}
+{'mobi.byss.instaweather.watchface': ['ByssWeather for Wear OS', '7690092173980578394', '1,000,000+', 'http://byss.mobi', 'mk@byss.mobi']}
+{'com.artas182x.mland': ['Android Land', 'Artur+Za%C5%82%C4%99ski+%28artas182x%29', '100,000+', 'http://artas182x.you2.pl', 'artas182x@gmail.com']}
+{'watch.richface.androidwear.digitec': ['Digitec Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.appfour.weartracker': ['GPS Tracker for Wear OS (Android Wear)', '8815886658662427637', '10,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.wearablewidgets': ['Wearable Widgets', '6589881289812568831', '100,000+', 'http://wearablewidgets.com', 'wearable@udellenterprises.com']}
+{'com.appfour.wearkeyboard': ['Keyboard for Wear OS (Android Wear)', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'support@appfour.com']}
+{'horse.schvung.equilab': ['Equilab - Equestrian Tracker', '5478903763947850773', '100,000+', 'https://www.equilab.horse', 'adam@equilab.horse']}
+{'it.claudio.chimera.virtualvolume': ['Virtual Volume Button', 'Claudio+Chimera', '500,000+', 'http://www.elconet.it/Claudio.Chimera', 'claudio.chimera@gmail.com']}
+{'com.ustwo.watchfaces.basic': ['ustwo Watch Faces', '7991087096833242771', '100,000+', 'http://wear.ustwo.com', 'wearissues@ustwo.com']}
+{'com.ustwo.watchfaces.moods': ['Moods Android Wear Watch Faces', '7991087096833242771', '100,000+', 'http://ustwo.com', 'wearsupport@ustwo.com']}
+{'com.seapip.thomas.pear_watchface': ['Pear Watch Face', '4901015553877356102', '100,000+', 'http://seapip.com', 'seahorsepip@outlook.com']}
+{'qwf.ammarptn.com.qwf': ['Holo Watch face', '7414952821763503585', '100,000+', 'http://ammar.lanui.online', 'ammarptn@gmail.com']}
+{'com.usefullapps.soundmeterhd': ['Sound Meter HQ', '7713713929802184825', '500,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.safeincloud.free': ['Password Manager SafeInCloud', 'SafeInCloud', '500,000+', 'http://www.safe-in-cloud.com', 'support@safe-in-cloud.com']}
+{'com.kjsk.watchface.animated1000': ['1000+ Animated Watch Faces', 'KJSK+Developers', '100,000+', 'https://kjskdevelopers.github.io/privacy_policy_1000AnimatedWatchFaces', 'kjsk.developers@gmail.com']}
+{'com.ppltalkin.findmywatch': ['Find My Watch for Android Wear', 'People+Talkin%27', '50,000+', 'http://ppltalkin.com/find_my_watch_privacy_policy/', 'ppltalkin@gmail.com']}
+{'cc.chenhe.weargallery': ['Wear Gallery -an open source code gallery on watch', '%E6%99%A8%E9%B9%A4', '10,000+', 'http://wg.chenhe.cc/', 'me@chenhe.cc']}
+{'com.apps4you.lasersword': ['Laser Sword', '7713713929802184825', '500,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.vuxia.wearFaceCollection': ['Wear Face Collection', 'vuxia', '500,000+', 'https://plus.google.com/112551289246220437259/posts', 'cyberniko@gmail.com']}
+{'com.jee.level': ['Compass Level & GPS', '7694058680077753790', '1,000,000+', 'https://www.facebook.com/CompassLevel', 'jeedoridori@gmail.com']}
+{'com.just4funmobile.mydeathdatecalculatorandgraveeditor': ['Death Date Calculator & Grave Editor', '7713713929802184825', '10,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'il.talent.parking': ['ParKing: Where is my car? Find my car - Automatic', '5580753889161430391', '500,000+', 'http://iltalentapps.wixsite.com/talent-apps', 'il.talent.apps@gmail.com']}
+{'com.lionscribe.hebdate': ['HebDate Hebrew Calendar', 'Lionscribe+Software+LLC', '500,000+', 'http://lionscribe.com', 'info@lionscribe.com']}
+{'dd.watchdesigner.fiore': ['Fiore watchface by Iris', '7748240321407942094', '100,000+', 'http://www.watchmastergroup.com/', 'watchfacedesigner@gmail.com']}
+{'com.paulserver.carbonneonwatchface': ['Carbon Neon Watch Face', '6662602780538406550', '100,000+', 'http://www.paulserver.com', 'info@paulserver.com']}
+{'com.apps4you.virtualcoffee': ['Virtual Coffee', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'huskydev.android.watchface.classic': ['Classic Watch Face', '8016075941590810026', '500,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215', 'huskydevcz@gmail.com']}
+{'com.numero.simplememo': ['New Notepad', '5532660247086424417', '50,000+', 'https://numeroanddev.github.io', 'numero.dev.and@gmail.com']}
+{'huskydev.android.watchface.blackclassic': ['Black Classic Watch Face', '8016075941590810026', '500,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215', 'huskydevcz@gmail.com']}
+{'watch.richface.androidwear.digitalmonster': ['Digital Monster Watch Face', 'RichFace', '50,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.just4funmobile.bunnyinphone': ['Bunny in Phone Cute joke', '7713713929802184825', '1,000,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'com.apps4you.virtualtea': ['Virtual Tea', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'org.qooapps.wearchronograph': ['Wear Chronograph Watch Face', 'qooApps', '1,000+', 'http://www.qooapps.com', 'support@qooapps.com']}
+{'rtve.tablet.android': ['RTVE alacarta', '8310510402740790411', '1,000,000+', 'http://www.rtve.es/moviles', 'movil.irtve@rtve.es']}
+{'com.denite.watchface.boldgears': ['Bold Gears HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '50,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.weareal.live': ['Weareal. Realistic Watch Faces', 'Weareal', '100,000+', 'http://weareal.com', 'contact@weareal.com']}
+{'com.usefullapps.whistlephonefinder': ['Whistle Phone Finder PRO', '7713713929802184825', '1,000,000+', 'http://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'fr.thema.wear.watch.bsidz': ['B-Sidz Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.apps4you.schoolbell': ['School Bell Sound', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'tk.mallumo.kotlin.w2maps': ['Wear Maps', 'Mallumo', '10,000+', None, 'develop.mallumo@gmail.com']}
+{'com.thedroidcrew.sixpackin30days': ['Six Pack in 30 Days - Abs Workout Lose Belly fat', 'The+Droid+Crew', '100,000+', 'https://thedroidcrew.com/privacy.html', 'support@thedroidcrew.com']}
+{'fr.thema.wear.watch.duality': ['Duality Watch Face & Clock Widget', 'thema', '10,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'dd.watchmaster': ['WatchMaster - Watch Face', '7748240321407942094', '500,000+', 'https://goo.gl/5vWxW6', 'watchfacedesigner@gmail.com']}
+{'com.rawleeks.primarypremium': ['Primary Watch Face', '8500192684173188557', '100,000+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'pandamonium.noaaweather': ['NOAA Weather International', 'Pandamonium+Software', '500,000+', 'https://noaa-weather.firebaseapp.com/privacy.html', 'pandamoniumsoftware@gmail.com']}
+{'watch.richface.androidwear.striker': ['Digital Striker Watch Face', 'RichFace', '10,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.sixtostart.zombies5ktraining': ['Zombies, Run! 5k Training (Free)', '7647923447214702510', '50,000+', 'http://www.sixtostart.com', 'support@zombiesrungame.com']}
+{'com.aita': ['App in the Air - Travel planner & Flight tracker', '6141013919453837613', '100,000+', 'http://appintheair.mobi/contacts', 'support@appintheair.mobi']}
+{'com.jee.calc': ['Multi Calculator', '7694058680077753790', '1,000,000+', 'https://www.facebook.com/MultiCalculator', 'jeedoridori@gmail.com']}
+{'com.appfour.weardocuments': ['Documents for Wear OS (Android Wear)', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.tagheuer.wear': ['Connected', 'TAG+Heuer', '100,000+', 'http://www.tagheuerconnected.com/', 'support@tagheuerconnected.com']}
+{'com.denite.watchface.ledhex': ['LED Hex HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '5,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'mrs.com.maze.android': ['Wear Maze', '5582460132077649375', '100,000+', None, 'marcelorsdev@gmail.com']}
+{'fr.thema.wear.watch.dmax': ['D-Max Watch Face & Clock Widget', 'thema', '50,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'wearableloudspeaker.com.wearableloudspeaker': ['Wear Speaker', 'Bright+Owusu-Amankwaa', '100,000+', 'https://twitter.com/brightowusu187', 'trainstationalert@gmail.com']}
+{'watch.richface.androidwear.fury': ['Fury Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch', 'richface.watch@gmail.com']}
+{'com.gmits.classicwatchface': ['Watchfaces Classic for Wear OS 2.0', 'TWOWORDS', '10,000+', 'http://www.goldenmace.com', 'info@goldenmace.com']}
+{'watch.richface.androidwear.digitalvision': ['Digital Vision Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.watch.richface.delta': ['Delta Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.appfour.wearcalendar': ['Calendar for Wear OS (Android Wear)', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.watch.richface.challenger': ['Challenger Watch Face', 'RichFace', '500,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'fr.thema.wear.watch.quante': ['Quante Watch Face & Clock Widget', 'thema', '50,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.fitiv.fitivapplication': ['FITIV Pulse: Heart Rate Monitor + Workout Tracker', 'MotiFIT+Fitness+Inc.', '10,000+', 'http://www.fitiv.com', 'support@fitiv.com']}
+{'huskydev.android.watchface.info': ['Info Watch Face', '8016075941590810026', '50,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215', 'huskydevcz@gmail.com']}
+{'com.fruit4droid.cronosurf': ['Cronosurf Wave watch', '6436823633234900023', '500,000+', 'http://cronosurf.com', 'fruit4droid@gmail.com']}
+{'fr.thema.wear.watch.advanced': ['Advanced Watch Face & Clock Widget', 'thema', '50,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.kfaraj.notepad': ['Notepad', 'Kamal+Faraj', '100,000+', 'https://www.kfaraj.com/', 'kfaraj.dev@gmail.com']}
+{'in.thedesigncycle.radii': ['Radii Watch Face for Android Wear OS', '6823428401252992981', '100,000+', 'https://thedesigncycle.com/privacypolicy.html', 'radii@thedesigncycle.com']}
+{'com.tocapp.touchroundwear': ['Touch Round - Watch game', '7215357436770573983', '5,000+', 'https://tocapp.com', 'support@tocapp.com']}
+{'fr.thema.wear.watch.venom': ['Venom Watch Face & Clock Widget', 'thema', '100,000+', 'http://themaapps.com', 'thema.apps@gmail.com']}
+{'sk.martinflorek.wear.feelthewear': ['Feel The Wear - Notifications TTS', 'Martin+Florek', '100,000+', 'https://plus.google.com/communities/112870323722024036292', 'mflorek+feelthewear@gmail.com']}
+{'com.toursprung.bikemap': ['Bikemap - GPS Bike Route Tracker & Map for Cycling', '8277403336581387825', '500,000+', 'https://www.bikemap.net/', 'support@bikemap.net']}
+{'watch.richface.androidwear.royalsteel': ['Royal Steel Watch Face', 'RichFace', '50,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.virtualmaze.gpsdrivingroute': ['GPS Driving Route® - Offline Map & Live Navigation', '6749335729462274356', '5,000,000+', 'http://virtualmaze.com', 'android@virtualmaze.com']}
+{'com.appfour.wearwifi': ['Wi-Fi Manager for Wear OS (Android Wear)', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'support@appfour.com']}
+{'com.just4funmobile.unicornonscreen': ['Unicorn on screen: Neighing joke', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'com.appfour.wearinstruments': ['Instruments for Wear OS (Android Wear)', '8815886658662427637', '10,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.rawleeks.officerarmy': ['Officer Army Watch Face', '8500192684173188557', '10,000+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'com.appfour.wearvideos': ['Video Gallery for Wear OS (Android Wear)', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'support@appfour.com']}
+{'fr.thema.wear.watch.guardian': ['Guardian Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'fr.thema.wear.watch.futuristicgui': ['Futuristic GUI Watch Face', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.brohkahn.omegawatchface': ['Omega Engine - Watch Face', '4654453048954028942', '100,000+', 'http://kevin.broh-kahn.com', 'kevin@broh-kahn.com']}
+{'com.just4fun.lizardinphone': ['Lizard in phone funny joke', '7713713929802184825', '5,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.layoutxml.twelveish': ['Twelveish - Customizable Watch Face for Wear OS', '9095680560714446900', '10,000+', 'https://rokasjankunas.com', 'hello@rokasjankunas.com']}
+{'com.just4funmobile.dogonscreen': ['Dog on screen: Woof woof joke', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'fr.thema.wear.watch.master': ['Master Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.fitnesscircle.sevenminuteworkouts': ['7 Minutes Daily Weight Loss Home Workouts : FitMe', 'Fitness+Circle', '50,000+', 'http://fitnesscircle.in/', 'crisptechno@gmail.com']}
+{'com.watch.richface.infinity': ['Infinity Watch Face', 'RichFace', '100,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'no.nrk.yr': ['Yr', 'NRK', '5,000,000+', 'http://yr.no', 'support@yr.no']}
+{'com.tpas.neon.blue.watch.face': ['Neon Blue Watch Face', '7938158485537087527', '100,000+', 'https://thaliadev.wixsite.com/thaliaapps', 'thaliasandracorner@gmail.com']}
+{'com.radefffactory.dices': ['Dices + Wear', '5896023871114494463', '5,000+', None, 'yohohoasakura@gmail.com']}
+{'com.usefullapps.transparentphone': ['Transparent Phone Screen HD Simulation', '7713713929802184825', '10,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.willblaschko.android.alexalistens': ['Listens for Alexa', 'WBPhoto', '50,000+', 'http://www.willblaschko.com', 'will.blaschko@gmail.com']}
+{'com.denite.watchface.mechanigears': ['Mechani-Gears HD Watch Face Widget Live Wallpaper', '7984230714628987712', '100,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.appfour.wearlauncher': ['Launcher for Wear OS (Android Wear)', '8815886658662427637', '50,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.appfour.wearweather': ['Weather for Wear OS (Android Wear)', '8815886658662427637', '50,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.vuxia.LadiesWatchFaces': ['Ladies Watch Face', 'vuxia', '10,000+', 'https://plus.google.com/112551289246220437259/posts', 'maxime.baret86@gmail.com']}
+{'com.jut4fun.geckoinphone': ['Gecko in Phone scary joke', '7713713929802184825', '1,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.ccswe.SmokingLog': ['Smoking Log - Stop Smoking', '8651193632568356628', '50,000+', 'http://www.ccswe.com', 'smokinglog@ccswe.com']}
+{'com.magic09.hearttrace': ['Heart Trace 2', 'magic09+applications', '10,000+', 'https://plus.google.com/communities/101781392757311833259', 'magic09.apps@gmail.com']}
+{'com.ginkage.wearmouse': ['WearMouse — Wear OS Air Mouse', 'GinKage', '1,000+', 'https://github.com/ginkage/wearmouse', 'ginkage@yandex.ru']}
+{'net.freedomforge.petquest': ['PetQuest Virtual Pet (Wear OS Games)', 'Recursive+Turtle+Game+Studio', '5,000+', None, 'jaemuzzin@gmail.com']}
+{'com.pextor.batterychargeralarm': ['Full Battery & Theft Alarm', 'Arda+%C3%87UHADARO%C4%9ELU', '1,000,000+', 'https://www.fullbatterytheftalarm.com', 'developerpextor@gmail.com']}
+{'com.facer.MVMT.fcrfXAIzwyvAh': ['MVMT - Modern Sport - Rhine', '5837919682648806204', '10,000+', 'http://www.facer.io', 'facer-support@little-labs.com']}
+{'com.appfour.wearspeedometer': ['Speedometer for Wear OS (Android Wear)', '8815886658662427637', '10,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'jp.gcreate.product.customphotowatch': ['Custom Photo Watch', 'G-CREATE', '10,000+', 'https://android.gcreate.jp/449', 'archiherewego@gmail.com']}
+{'com.glassy.pro': ['Glassy Surf Report |\xa0Forecast', 'Gradient+Technologies+S.L', '100,000+', 'http://glassy.pro', 'info@glassy.pro']}
+{'com.watch.richface.shield': ['Shield Watch Face', 'RichFace', '100,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'watch.richface.androidwear.roverone': ['RoverOne Watch Face', 'RichFace', '50,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.rawleeks.manager': ['Manager Watch Face', '8500192684173188557', '10,000+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'huskydev.android.watchface.calendar': ['Calendar Watch Face (by HuskyDEV)', '8016075941590810026', '50,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215', 'huskydevcz@gmail.com']}
+{'ch.sooon.initial': ['Initial Watch Face', '8500192684173188557', '1,000+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'com.thedesigncycle.watchfacepack': ['Roto Rally - 5 in 1 Watch Face Pack for Wear OS', '6823428401252992981', '1,000+', None, 'hello@thedesigncycle.com']}
+{'cool.watchfaces.insideglobe.coolwatchfaces': ['Cool Watch Faces', '7405579135705342632', '50,000+', 'http://www.insideglobe.com', 'support@insideglobe.com']}
+{'com.tppm.digital.watch.face': ['Digital Watch Face', '7125614350471173442', '100,000+', 'https://thaliadev.wixsite.com/thaliaapps', 'thaliamaka@gmail.com']}
+{'vg.maarten.adwatchface': ['A/D Watchface', 'Maarten+Van+Giel', '100,000+', 'http://www.maarten.vg', 'contact@maarten.vg']}
+{'com.sosscores.livefootball': ['SKORES - Live Football Scores', 'SKORES+-+Live+Football+Scores', '5,000,000+', 'http://www.skores.com', 'android@skores.com']}
+{'org.codechimp.qrwear': ['Wear Codes for Wear OS (Android Wear)', '8386908236515041315', '50,000+', 'http://wearcodes.codechimp.org/', 'android@codechimp.org']}
+{'com.denite.watchface.faceify': ['FACE-ify HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '50,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.corvettecole.pixelwatchface': ['Pixel Watch face - Minimal pixel style watch face', 'Cole.Dev', '1,000+', 'http://corvettecole.com', 'corvettecole@gmail.com']}
+{'com.moletag.gallery': ['Anytime Gallery for Wear', '7191353336399169728', '100,000+', 'http://anytime.gallery', 'support@moletag.com']}
+{'com.just4fun.fishinphone': ['Fish In Phone Aquarium Joke', '7713713929802184825', '500,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'com.smartmadsoft.wear.face.everyday': ['Everyday Digital Watch Face', '4670723780649918393', '100,000+', 'https://brouken.com/', 'm@rcel.cz']}
+{'fr.thema.wear.watch.octane': ['Octane Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'pontus.wearsnake': ['Snake for Wear', 'Pontus+Stjernstr%C3%B6m', '10,000+', 'http://www.pontek.se', 'pontusstjernstrom@gmail.com']}
+{'com.vuxia.wearFaceCollectionHD': ['Wear Face Collection HD', 'vuxia', '100,000+', 'https://plus.google.com/112551289246220437259/posts', 'cyberniko@gmail.com']}
+{'com.appfour.wearstopwatch': ['Stopwatch for Wear OS (Android Wear)', '8815886658662427637', '5,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.denite.watchface.diamondbling': ['Diamond Bling HD WatchFace Widget & Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.virtualmaze.drivingroutefinder': ['Driving Route Finder™ - Find GPS Location & Routes', '6749335729462274356', '1,000,000+', 'http://www.virtualmaze.com', 'android@virtualmaze.com']}
+{'com.just4funmobile.duckinphone': ['Duck in phone Quacking joke', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'com.denite.watchface.raceday': ['Race Day HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '500+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'fr.yochi76.printoid.phones.trial': ['Printoid for OctoPrint [LITE] (3D printing)', '5122015473710814043', '10,000+', 'https://printoid.net', 'printoid.for.octoprint@gmail.com']}
+{'com.mutau.shortreply': ['Short Reply - send reply quickly with Wear OS', '7740646526934574866', '5,000+', None, 'mutau.co@gmail.com']}
+{'watch.richface.androidwear.cluster': ['Cluster Watch Face', 'RichFace', '10,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.virtualmaze.gpscarparking': ['GPS Car Parking™ - Park & Navigate using Compass', '6749335729462274356', '50,000+', 'http://virtualmaze.com', 'info@virtualmaze.com']}
+{'com.franco.timer': ['5217 - time management for increased productivity', '8270010790606670648', '50,000+', 'http://5217.io', 'franciscofranco.1990@gmail.com']}
+{'com.for6ix.bulk': ['Bulk: Workout Tracker & Meal Plans', '6ix+LLC', '10,000+', 'http://bulktrainer.com', 'hello@bulktrainer.com']}
+{'huskydev.android.watchface.atlas': ['HuskyDEV Atlas Watch Face', '8016075941590810026', '50,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215', 'huskydevcz@gmail.com']}
+{'naukriApp.appModules.login': ['Naukri.com Job Search', 'infoedge.com', '10,000,000+', 'http://naukri.com', 'android@naukri.com']}
+{'com.radefffactory.cleanwatchface': ['Clean Watch Face', '5896023871114494463', '10,000+', None, 'yohohoasakura@gmail.com']}
+{'com.sbardyuk.abs30': ['Abs Challenge', 'Stanislav+Bardyuk', '10,000+', 'http://www.sbardyuk.com', 'kodlan@gmail.com']}
+{'com.matejdro.wearmusiccenter': ['Music Center for Wear', 'matejdro', '10,000+', 'https://github.com/matejdro/WearMusicCenter', 'matejdro+support@gmail.com']}
+{'com.andersonsolutions.weathertime': ['Weather Time for Wear', 'Anderson+Solutions+Inc.', '100,000+', None, 'andersonsolutionsinc@gmail.com']}
+{'james.metronome': ['Metronome', '5937321955284727208', '10,000+', 'https://jfenn.me/', 'dev@jfenn.me']}
+{'com.just4fun.butterflyinphone': ['Butterfly in Phone lovely joke', '7713713929802184825', '1,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.seapip.thomas.wearify': ['Wearify for Spotify', '4901015553877356102', '50,000+', 'http://seapip.com', 'seahorsepip@outlook.com']}
+{'com.xlabz.FindNearMe2': ['Find Near Me -Places Around Me', '6647722227098001928', '100,000+', 'http://www.xlabz.com/', 'support@xlabz.com']}
+{'com.usefullapps.fakecall': ['Fake Call Screen PRO', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'org.firespeed.earthcase': ['EARTH CASE - Watch Face', 'kenz', '10,000+', 'http://firespeed.org', 'android@firespeed.org']}
+{'com.denite.watchface.carbongears': ['Carbon Gears HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '50,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'nl.slisky.stopwatch': ['Stopwatch (android wear)', '6307363893616878249', '10,000+', None, 'sliskysoft@gmail.com']}
+{'com.just4fun.ladybuginphone': ['Ladybug in Phone Funny joke', '7713713929802184825', '500,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'watch.richface.androidwear.activepoint': ['Active Point Watch Face', 'RichFace', '10,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.ammarptn.river.wear.watchface': ['Yosemite motion watch face', '7414952821763503585', '10,000+', 'http://ammar.lanui.online', 'ammarptn@gmail.com']}
+{'com.tagheuer.wear.standalone.redbull': ['Red Bull Racing', 'TAG+Heuer', '10,000+', 'http://www.tagheuerconnected.com/', 'support@tagheuerconnected.com']}
+{'fr.thema.wear.watch.hex': ['Hex Watch Face & Clock Widget', 'thema', '5,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.gemsface.jewelry.sparkling.wear.watchfaces': ['Jewelry Sparkling Watch Faces', '6088908882882225682', '10,000+', 'http://gemsface.com', 'ilove@gemsface.com']}
+{'it.webxperience': ['MyStocks', 'Stefano+Baldi', '100,000+', 'https://plus.google.com/u/0/communities/108446679929719127076', 'support@webxperience.it']}
+{'com.pixeloftime.classical2': ['Classical II - Watch Face', 'PixelOfTime+Wacthes', '10,000+', 'http://pixeloftime.com', 'info@pixeloftime.com']}
+{'com.denite.watchface.ledcube': ['LED Cube HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '1,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'unique.face.watch.motivating.professional.productive.different.moving.stylish.revolving.rotating.awakening.awakeningwatchfaces': ['Awakening Watch Faces', '7405579135705342632', '50,000+', 'http://www.insideglobe.com', 'support@insideglobe.com']}
+{'com.lingjin.watchface.traveltheworld': ['Travel the world Watch Face', 'Ice+Cold+Beer', '50,000+', None, 'artistwatchface@gmail.com']}
+{'com.appfour.wearaltimeter': ['Altimeter for Wear OS (Android Wear)', '8815886658662427637', '5,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.smartartstudios.halloweensfree.interactive.watchface': ['Watch Face - Halloween Spooky', '9161924567437674144', '10,000+', 'https://www.facebook.com/notes/smart-art-studios/smart-art-studios-privacy-policy/452101328529066', 'smartartstudio6.android@gmail.com']}
+{'virtualgs.photowatchlite': ['Photo Watch Lite (Wear OS)', '7809285959465313029', '10,000+', 'http://virtual-gs.com', 'support@virtual-gs.com']}
+{'net.geekstools.floatshort': ['Floating Shortcuts', '8263190182709725073', '10,000+', 'http://www.GeeksEmpire.net/', 'Support@GeeksEmpire.net']}
+{'com.format.gesturelauncher': ['Wear Gesture Launcher - Wear OS - Wear launcher', 'HenryZ', '5,000+', None, 'henryzhang9802@gmail.com']}
+{'com.macropinch.treadmill': ['Outwalk - Track Steps, Fitness, Race With Friends', '5090037829240044490', '1,000+', 'http://macropinch.com/outwalk/', 'support@macropinch.com']}
+{'us.originally.rm_trial': ['Broadlink RM Plugin Lite', '8657364104187803118', '50,000+', 'http://originally.us', 'support@originally.us']}
+{'com.denite.watchface.simplybasic': ['Simply Basic HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '5,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.wearlover.englishdictionary': ['English Dictionary For Wear OS (Offline)', 'WearLover', '5,000+', 'http://wearlover.com/', 'nguyencongphuong@gmail.com']}
+{'huskydev.android.watchface.spin': ['Spin Watch Face (by HuskyDEV)', '8016075941590810026', '10,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215v', 'huskydevcz@gmail.com']}
+{'com.turndapage.navfit': ['Nav Fit : Personal Goals Watch Face Wear OS NavFit', '5304767307318254576', '100+', 'http://turndapage.com', 'joelphilippage@gmail.com']}
+{'com.DramaProductions.Einkaufen5': ['Shopping List - Lister', 'Lister+Studios', '1,000,000+', 'https://www.iubenda.com/privacy-policy/7928571', 'ask@lister-studios.com']}
+{'com.digutsoft.metronome': ['dMetronome: Metronome for Wear', 'Digutsoft', '10,000+', 'http://www.digutsoft.com/', 'support@digutsoft.com']}
+{'com.wyre.zmanim': ['Smart Zmanim', '6916275008903561227', '1,000+', 'https://docs.google.com/document/d/1qiUuNHnLhvedPVYuGq_0CDm04EGhSz_Oxf2ww8B0RjQ/edit?usp=sharing', 'steeltoejava@gmail.com']}
+{'fr.thema.wear.watch.phantom': ['Phant Watch Face & Clock Widget', 'thema', '50,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.denite.watchface.hypnoticrainbow': ['Hypnotic Rainbow Watch Face Widget Live Wallpaper', '7984230714628987712', '5,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.smartartstudios.materialfree.interactive.watchface': ['Watch Face - Material Interactive', '9161924567437674144', '5,000+', 'https://www.facebook.com/notes/smart-art-studios/smart-art-studios-privacy-policy/452101328529066', 'smartartstudio6.android@gmail.com']}
+{'com.fossil.wearables.sk': ['SKAGEN Watch Faces', 'Fossil+Group,+Inc.', '10,000+', 'http://www.skagen.com', 'skagenconnected@skagen.com']}
+{'com.denite.watchface.chronoflat': ['Chrono Flat HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.denite.watchface.eboniteforce': ['Ebonite Force HD WatchFace Widget & Live Wallpaper', '7984230714628987712', '1,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'pl.entera.ghostremove': ['Wear LCD Ghost Remove', '8601869867398638730', '5,000+', 'http://entera.pl', 'entera@entera.pl']}
+{'com.denite.watchface.diamondroyale': ['Diamond Royale HD Watch Face Widget Live Wallpaper', '7984230714628987712', '5,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.just4fun.snailinphone': ['Snail in Phone best joke', '7713713929802184825', '100,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.tagheuer.wear.standalone.mumbai': ['Mumbai City FC', 'TAG+Heuer', '1,000+', 'http://www.tagheuerconnected.com/', 'support@tagheuerconnected.com']}
+{'es.samsoft.wear.totalinfowatchface': ['Total Info Watch Face', '7925815075249357158', '5,000+', 'http://www.samsoft.es/Blog', 'contacto@samsoft.es']}
+{'com.denite.watchface.diamondritz': ['Diamond Ritz HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.sasyabook.businesscardapp': ['The Business Card App : Biz-Card', '4704635207187493506', '10,000+', 'http://www.sasyabook.com', 'mln@sasyabook.com']}
+{'com.yelophone.android': ['Yelo Phone - WiFi Calling, Forwarding & Voicemail', '4910247661169113307', '10,000+', 'https://www.yelophone.com', 'android@yelophone.com']}
+{'com.smartartstudios.hybridfree.interactive.watchface': ['Watch Face - Hybrid Interactive', '9161924567437674144', '1,000+', 'https://www.facebook.com/notes/smart-art-studios/smart-art-studios-privacy-policy/452101328529066', 'smartartstudio6.android@gmail.com']}
+{'com.denite.watchface.ebonitemight': ['Ebonite Might HD WatchFace Widget & Live Wallpaper', '7984230714628987712', '1,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.gmail.maxdiland.firstwatchface': ["Diland's classic watch face", '5442695033736804273', '5,000+', None, 'maxkr@mail.ru']}
+{'com.spontaniti.wearos.nebula': ['Nebula Watch Face - Wear OS / Android Wear 2.0', '7361133638261290618', '1,000+', None, 'android@spontaniti.com']}
+{'com.binois.around.elvish': ['Elvish Watch Face', '6533893922501277077', '1,000+', 'http://1-dot-binois-jimmy.appspot.com/cv', 'jimmy.binois.androis@gmail.com']}
+{'com.just4fun.flyinphone': ['Fly in phone funny joke', '7713713929802184825', '500,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.fossil.wearables.ds': ['DIESEL ON Watch Faces', 'Fossil+Group,+Inc.', '50,000+', 'http://www.fossil.com', 'dieselon@wearablessupport.com']}
+{'com.watch.richface.power': ['Power Watch Face', 'RichFace', '50,000+', 'http://www.richface.watch', 'richface.watch@gmail.com']}
+{'com.denite.watchface.blackmetal2': ['Black Metal 2 HD WatchFace Widget & Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'ch.sooon.initial2': ['Initial 2 Watch Face', '8500192684173188557', '100+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'ru.fitness.trainer.fit': ['TopFIT - fitness trainer', '7731489589335338409', '50,000+', 'https://topfit-trener.ru/', 'tatoshkabp@gmail.com']}
+{'com.kjsk.watchface.dogs': ['Dogs Watch Faces', 'KJSK+Developers', '1,000+', 'https://kjskdevelopers.github.io/privacy_policy_dogs_watchfaces', 'kjsk.developers@gmail.com']}
+{'password.cloud': ['Password Manager - Password Cloud', 'SecureApp', '50,000+', 'https://www.password-cloud.com', 'contact.pass.cloud@gmail.com']}
+{'com.tagheuer.wear.standalone.indianpremier': ['IPL 10', 'TAG+Heuer', '1,000+', 'http://www.tagheuerconnected.com/', 'support@tagheuerconnected.com']}
+{'mnf.android.wearnote': ['Wear Notes - Reminders & Chits on SmartWatch', 'Muneef+M', '10,000+', 'http://muneef.me', 'mail@muneef.me']}
+{'com.smartartstudios.retrofree.interactive.watchface': ['Watch Face - Retro Interactive', '9161924567437674144', '5,000+', 'https://www.facebook.com/notes/smart-art-studios/smart-art-studios-privacy-policy/452101328529066', 'smartartstudio6.android@gmail.com']}
+{'com.bitfire.development.calendarsnooze': ['Calendar Snooze', 'Bitfire+Development', '100,000+', 'https://calendarsnooze.uservoice.com', 'helpdesk@bitfire-development.com']}
+{'ru.s7.android': ['S7 Airlines', '8294859026492342085', '1,000,000+', 'https://www.s7.ru', 'mobile.support@s7.ru']}
+{'com.pandora.android': ['Pandora Music', 'Pandora', '100,000,000+', 'http://www.pandora.com', 'pandora-support@pandora.com']}
+{'com.clearchannel.iheartradio.controller': ['iHeartRadio - Free Music, Radio & Podcasts', '8821283674927730745', '50,000,000+', 'http://iheart.com', 'android@iheartradio.com']}
+{'com.facebook.orca': ['Messenger – Text and Video Chat for Free', 'Facebook', '1,000,000,000+', 'https://www.facebook.com/games/fbmessenger_android/', 'android-support@fb.com']}
+{'com.strava': ['Strava Training: Track Running, Cycling & Swimming', 'Strava+Inc.', '10,000,000+', 'https://www.strava.com/', 'support@strava.zendesk.com']}
+{'com.sillens.shapeupclub': ['Lifesum - Diet Plan, Macro Calculator & Food Diary', 'Lifesum', '10,000,000+', 'http://www.lifesum.com', 'support@lifesum.com']}
+{'com.fishbrain.app': ['Fishbrain - local fishing map and forecast app', 'Fishbrain', '5,000,000+', 'http://www.fishbrain.com', 'support@fishbrain.com']}
+{'com.anydo': ['Any.do: To do list, Calendar, Reminders & Planner', '5304780265295461149', '10,000,000+', 'https://www.any.do', 'feedback+androidtodo@any.do']}
+{'com.basevelocity.radarscope': ['RadarScope', 'Weather+Decision+Technologies,+Inc.', '50,000+', 'http://radarscope.io', 'support@wdtinc.com']}
+{'com.journey.app': ['Journey: Diary, Journal, Mood Tracker', '8945539023671021149', '1,000,000+', 'https://2appstudio.com/journey', 'help@2appstudio.com']}
+{'net.darksky.darksky': ['Dark Sky - Hyperlocal Weather', 'The+Dark+Sky+Company', '1,000,000+', 'http://darksky.net', 'android@darksky.net']}
+{'com.accuweather.android': ['AccuWeather: Weather Radar & Live Forecast Maps', 'AccuWeather', '50,000,000+', 'http://www.accuweather.com', 'support@accuweather.com']}
+{'com.washingtonpost.android': ['The Washington Post', 'The+Washington+Post', '1,000,000+', 'https://www.washingtonpost.com', 'help@washpost.com']}
+{'com.todoist': ['Todoist: To-do lists for task management & errands', '6748661820728732000', '10,000,000+', 'http://todoist.com/android', 'support@todoist.com']}
+{'xyz.klinker.messenger': ['Pulse SMS (Phone/Tablet/Web)', '6337185423976596164', '1,000,000+', 'https://messenger.klinkerapps.com', 'luke@klinkerapps.com']}
+{'com.runtastic.android.results.lite': ['Runtastic Results Strength Training & Bodyweight', '8438666261259599516', '10,000,000+', 'http://www.runtastic.com', 'support.android@runtastic.com']}
+{'com.jeremysteckling.facerrel': ['Facer Watch Faces', '5837919682648806204', '1,000,000+', 'https://www.facer.io/', 'facer-support@little-labs.com']}
+{'com.grinasys.fwl': ['Weight Loss Fitness by Verv', '5677246410246307336', '1,000,000+', 'https://verv.com', 'support@verv.com']}
+{'com.contorra.golfpad': ['Golf GPS Rangefinder: Golf Pad', 'Golf+Pad+GPS', '1,000,000+', 'http://www.GolfPadGPS.com', 'support@golfpadgps.com']}
+{'slide.watchFrenzy': ['WatchMaker Watch Faces', '8210063275497266236', '1,000,000+', 'http://www.getwatchmaker.com/', 'admin.androidslide@googlemail.com']}
+{'com.yazio.android': ['YAZIO Calorie Counter, Nutrition Diary & Diet Plan', 'YAZIO', '5,000,000+', 'https://www.yazio.com', 'help@yazio.com']}
+{'com.acmeaom.android.myradar': ['MyRadar Weather Radar', 'ACME+AtronOmatic+LLC', '10,000,000+', 'http://myradar.com', 'myradarandroid@acmeaom.com']}
+{'com.runtastic.android': ['Runtastic Running App & Run Tracker', '8438666261259599516', '10,000,000+', 'http://www.runtastic.com', 'support.android@runtastic.com']}
+{'com.skimble.workouts': ['Workout Trainer: fitness coach', '7573841578600866566', '10,000,000+', 'https://www.skimble.com', 'android@skimble.com']}
+{'com.weather.Weather': ['Weather Radar and Forecast - The Weather Channel', '5938833519207566184', '100,000,000+', 'http://feedback.weather.com/', 'android.support@weather.com']}
+{'se.perigee.android.seven': ['Seven - 7 Minute Workout', '6605177127598613526', '1,000,000+', 'http://www.perigee.se', 'support@perigee.se']}
+{'com.callapp.contacts': ['CallApp: Caller ID, Call Blocker & Call Recorder', '6882074241033486164', '10,000,000+', 'http://callapp.com', 'support@callapp.com']}
+{'com.mydiabetes': ['Diabetes:M', 'Sirma+Medical+Systems', '500,000+', 'http://www.diabetes-m.com', 'support@diabetes-m.com']}
+{'com.regasoftware.udisc': ['UDisc Disc Golf App', 'UDisc+LLC', '100,000+', 'http://www.udisc.com', 'team@udisc.com']}
+{'com.safetrekapp.safetrek': ['Noonlight - formerly SafeTrek', 'SafeTrek,+Inc.', '100,000+', 'https://noonlight.com', 'info@noonlight.com']}
+{'com.appfour.wearmessages': ['Messages for Wear OS (Android Wear)', '8815886658662427637', '500,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'ch.threema.app': ['Threema', '7923858866786761874', '1,000,000+', 'https://threema.ch', 'support@threema.ch']}
+{'com.Relmtech.RemotePaid': ['Unified Remote Full', 'Unified+Intents', '100,000+', 'https://www.unifiedremote.com', 'support@unifiedremote.com']}
+{'com.augmentra.viewranger.android': ['ViewRanger: Trail Maps for Hiking, Biking, Skiing', '4676350376835205257', '1,000,000+', 'http://www.viewranger.com', 'support@viewranger.com']}
+{'com.acmeaom.android.myradarpro': ['MyRadar Weather Radar Ad Free', 'ACME+AtronOmatic+LLC', '10,000+', 'http://myradar.com', 'myradarandroid@acmeaom.com']}
+{'mobi.byss.instaweather.watchface': ['ByssWeather for Wear OS', '7690092173980578394', '1,000,000+', 'http://byss.mobi', 'mk@byss.mobi']}
+{'com.superthomaslab.hueessentials': ['Hue Essentials - Philips Hue & IKEA TRÅDFRI', '7433470895643453779', '100,000+', 'https://www.hueessentials.com', 'support@hueessentials.com']}
+{'com.gotokeep.keep.intl': ['Keep Trainer - Workout Trainer & Fitness Coach', '4929115468943945630', '5,000,000+', 'http://www.keepkeep.com', 'support@gotokeep.com']}
+{'com.runtastic.android.pro2': ['Runtastic PRO Running, Fitness', '8438666261259599516', '1,000,000+', 'http://www.runtastic.com', 'support.android@runtastic.com']}
+{'com.aita': ['App in the Air - Travel planner & Flight tracker', '6141013919453837613', '100,000+', 'http://appintheair.mobi/contacts', 'support@appintheair.mobi']}
+{'com.VirtualMaze.gpsutils': ['GPS Tools® - Find, Measure, Navigate & Explore', '6749335729462274356', '1,000,000+', 'https://gpstools.app', 'android@virtualmaze.com']}
+{'com.pujie.wristwear.pujieblack': ['Watch Face - Pujie Black for Wear OS', '7780011900367662392', '100,000+', 'https://www.pujieblack.com', 'info@pujieblack.com']}
+{'com.safeincloud': ['Password Manager SafeInCloud Pro', 'SafeInCloud', '100,000+', 'https://www.safe-in-cloud.com', 'support@safe-in-cloud.com']}
+{'com.glidetalk.glideapp': ['Glide - Video Chat Messenger', '4992656828035938217', '10,000,000+', 'http://www.glide.me', 'support@glide.me']}
+{'com.customsolutions.android.alexa': ['Ultimate Alexa - The Voice Assistant', 'Custom+Solutions', '100,000+', 'http://www.UltimateVoiceAssistant.com', 'support@customsolutions.us']}
+{'com.sparkistic.photowear': ['Photo Wear Watch Face (for Wear OS)', 'Sparkistic+LLC', '500,000+', 'http://sparkistic.com', 'support@sparkistic.com']}
+{'com.hole19golf.hole19.beta': ['Hole19: Golf GPS App, Rangefinder & Scorecard', 'Hole19', '500,000+', 'http://www.hole19golf.com', 'help@hole19golf.com']}
+{'com.sg57.tesladashboard': ['Dashboard for Tesla', '5769642202835144288', '10,000+', 'https://sg57productions.com/dashboardfortesla', 'support@sg57productions.com']}
+{'com.appfour.wearmail': ['Mail for Wear OS (Android Wear) & Gmail', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.stmp.minimalface': ['Watch Face - Minimal & Elegant for Android Wear OS', '7274979146896532847', '100,000+', 'http://academyextreme.com', 'academyextreme@gmail.com']}
+{'fr.yochi76.printoid.phones.premium': ['Printoid for OctoPrint [PREMIUM] (3D printing)', '5122015473710814043', '5,000+', 'https://printoid.net', 'printoid.for.octoprint@gmail.com']}
+{'com.itunestoppodcastplayer.app': ['Podcast Republic - Podcasts, Radios and RSS feeds', '5005652231415362258', '1,000,000+', 'https://www.podcastrepublic.net/', 'tech@podcastrepublic.net']}
+{'adarshurs.android.vlcmobileremote': ['VLC Mobile Remote - PC & Mac, PC Remote - Windows', '5977440600079786686', '1,000,000+', 'https://vlcmobileremote.com/', 'adisloppy@live.com']}
+{'com.er.mo.apps.mypasswords': ['My Passwords - Password Manager', '6173162408627377904', '1,000,000+', 'https://www.my-passwords-app.com/', 'android@my-passwords-app.com']}
+{'pl.lawiusz.funnyweather.release': ['Fu*** Weather (Funny Weather)', '5781487188033065713', '1,000,000+', 'https://funnyweather.zsuiwal.com/privacy/?utm_source=google_play&utm_medium=lfw_privacy', 'support@zsuiwal.com']}
+{'com.fitiv.fitivapplication': ['FITIV Pulse: Heart Rate Monitor + Workout Tracker', 'MotiFIT+Fitness+Inc.', '10,000+', 'http://www.fitiv.com', 'support@fitiv.com']}
+{'com.dvtonder.chronus': ['Chronus: Home & Lock Widgets', 'DvTonder', '1,000,000+', 'https://plus.google.com/u/0/communities/116615520972804250369', 'chronus.widget@gmail.com']}
+{'com.bosenko.watchface.marinecommander': ['Marine Commander Watch Face for WearOS', 'Bosenko', '100,000+', 'http://policy.bosenko.com/marine_commander/', 'support@bosenko.com']}
+{'com.bestweatherfor.bibleoffline_pt_ra': ['Bible Offline', '6680565987074242063', '10,000,000+', 'http://www.bibliajfa.com.br', 'contato@bibliajfa.com.br']}
+{'com.appfour.wearphotos': ['Photo Gallery for Wear OS (Android Wear)', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'support@appfour.com']}
+{'com.appfour.weartube': ['Video for Wear OS (Android Wear) & YouTube', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'dd.watchmaster': ['WatchMaster - Watch Face', '7748240321407942094', '500,000+', 'https://goo.gl/5vWxW6', 'watchfacedesigner@gmail.com']}
+{'fr.yochi76.printoid.phones.pro': ['Printoid for OctoPrint [PRO] (3D printing)', '5122015473710814043', '5,000+', 'https://printoid.net', 'printoid.for.octoprint@gmail.com']}
+{'com.phonephreak.extendedlight': ['StayLit Wear: Longer Backlight', 'PhonePhreak+Software', '10,000+', 'http://phonephreaksoftware.com', 'support@phonephreaksoftware.com']}
+{'com.lionscribe.hebdate': ['HebDate Hebrew Calendar', 'Lionscribe+Software+LLC', '500,000+', 'http://lionscribe.com', 'info@lionscribe.com']}
+{'com.toursprung.bikemap': ['Bikemap - GPS Bike Route Tracker & Map for Cycling', '8277403336581387825', '500,000+', 'https://www.bikemap.net/', 'support@bikemap.net']}
+{'com.northpark.drinkwater': ['Water Drink Reminder', 'Leap+Fitness+Group', '10,000,000+', 'http://www.northparkapp.com/privacypolicy.html', 'northpark.android@gmail.com']}
+{'com.apposter.watchmaker': ['MR.TIME - Free Watch Face Maker', '7311986728602984127', '500,000+', 'https://mrtimemaker.com/', 'mrtimemaker@apposter.com']}
+{'com.safeincloud.free': ['Password Manager SafeInCloud', 'SafeInCloud', '500,000+', 'http://www.safe-in-cloud.com', 'support@safe-in-cloud.com']}
+{'com.appfour.wearbrowser': ['Web Browser for Wear OS (Android Wear)', '8815886658662427637', '500,000+', 'http://gplus.to/WIB', 'support@appfour.com']}
+{'fr.thema.wear.watch.swift': ['Swift Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'net.marscity.sunlight': ['Krona Sunlight Watchface', 'Simon+Barke', '10,000+', None, 'mail@simonbarke.com']}
+{'sk.martinflorek.wear.feelthewear': ['Feel The Wear - Notifications TTS', 'Martin+Florek', '100,000+', 'https://plus.google.com/communities/112870323722024036292', 'mflorek+feelthewear@gmail.com']}
+{'com.kemasdimas.wristcamera': ['Camera Remote: Wear OS, Galaxy Watch, Gear S3 App', 'Kema+Studio', '100,000+', 'https://kemasdimas.com/', 'dimas@kemasdimas.com']}
+{'watch.richface.androidwear.digitec': ['Digitec Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.ua.makeev.antitheft': ['Find my phone', '6441983418105616174', '1,000,000+', 'http://makeevapps.com', 'find.phone.app@gmail.com']}
+{'uk.co.wearabledesigns.ledwithweather': ['LED Watch face with Weather', '5117509099958351335', '10,000+', 'http://www.wearabledesigns.co.uk', 'support@wearabledesigns.co.uk']}
+{'fr.thema.wear.watch.advanced': ['Advanced Watch Face & Clock Widget', 'thema', '50,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'watch.richface.androidwear.digitalvision': ['Digital Vision Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.watch.richface.delta': ['Delta Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.fruit4droid.cronosurf.pro': ['Cronosurf Wave Pro watch', '6436823633234900023', '5,000+', 'http://cronosurf.com', 'fruit4droid@gmail.com']}
+{'com.jee.calc': ['Multi Calculator', '7694058680077753790', '1,000,000+', 'https://www.facebook.com/MultiCalculator', 'jeedoridori@gmail.com']}
+{'com.dungelin.heartrate': ['Heart Rate Plus - Pulse & Heart Rate Monitor', 'PVDApps', '1,000,000+', 'https://www.facebook.com/HeartRatePlusApp', 'pvdapps.com@gmail.com']}
+{'com.rauscha.apps.timesheet': ['Timesheet - Time Tracker', '5679862747927242348', '1,000,000+', 'https://timesheet.io', 'support@timesheet.io']}
+{'com.krisdb.wearcasts': ['Wear Casts - Podcast Player for Wear OS', '4836782574551165348', '10,000+', 'https://sites.google.com/view/wear-casts/home/privacy', 'krisdb@live.com']}
+{'com.sofascore.results': ['SofaScore Live Score', '6519401169245062308', '10,000,000+', 'http://www.sofascore.com/news/privacy-policy/', 'support@sofascore.com']}
+{'dyna.logix.bookmarkbubbles.key': ['Bubble Cloud Premium Key', '6165670359285464177', '1,000+', 'https://plus.google.com/+BubbleCloudWidgetsWearLauncherInteractiveWatchFace', 'bcwhelp@gmail.com']}
+{'wearableloudspeaker.com.wearableloudspeaker': ['Wear Speaker', 'Bright+Owusu-Amankwaa', '100,000+', 'https://twitter.com/brightowusu187', 'trainstationalert@gmail.com']}
+{'fr.thema.wear.watch.racing': ['Racing Watch Face & Clock Widget', 'thema', '50,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.appgeneration.itunerpro': ['myTuner Radio Pro', '6873380610601889920', '10,000+', 'https://mytuner-radio.com', 'help@mytuner.mobi']}
+{'huskydev.android.watchface.photo': ['Photo Watch Face by HuskyDEV', '8016075941590810026', '10,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215', 'huskydevcz@gmail.com']}
+{'co.smartwatchface.watch.face.aviator.android.wear': ['Skymaster Pilot Watch Face', 'Zuhanden', '100,000+', 'http://smartwatchface.co', 'mobile@zuhanden.de']}
+{'com.appfour.wearaltimeter': ['Altimeter for Wear OS (Android Wear)', '8815886658662427637', '5,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'com.runmore.fivektrainer': ['Runmore 5K Trainer (with Wear) - Easy Running', 'Runmore', '10,000+', 'http://RunmoreApp.com', 'runmoreapp@gmail.com']}
+{'com.denite.watchface.daringgraphite': ['Daring Graphite HD WatchFace Widget Live Wallpaper', '7984230714628987712', '100,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.franco.timer': ['5217 - time management for increased productivity', '8270010790606670648', '50,000+', 'http://5217.io', 'franciscofranco.1990@gmail.com']}
+{'com.wjp.zombie': ['Zombie Killing - Call of Killers', 'Italic+Games', '10,000,000+', 'http://www.italy-games.com/policy.htm', 'contact@italy-games.com']}
+{'fr.thema.wear.watch.futuristicgui': ['Futuristic GUI Watch Face', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'fr.thema.wear.watch.feisar': ['Feisar Watch Face', 'thema', '1,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.onestudio.henry.weathermavenforwearos': ['Weather Maven for Wear OS', 'Henry+Stern', '500+', 'https://onestudio.gq', 'citypanda.develops@gmail.com']}
+{'fr.thema.wear.watch.dmax': ['D-Max Watch Face & Clock Widget', 'thema', '50,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'fr.thema.wear.watch.bsidz': ['B-Sidz Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.for6ix.bulk': ['Bulk: Workout Tracker & Meal Plans', '6ix+LLC', '10,000+', 'http://bulktrainer.com', 'hello@bulktrainer.com']}
+{'com.rimidalv.dictaphone': ['Wear Audio Recorder', '6709487986774988367', '500,000+', 'https://plus.google.com/u/0/b/117968982809966490255/', 'binom.mobile@gmail.com']}
+{'watch.richface.androidwear.roverone': ['RoverOne Watch Face', 'RichFace', '50,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.droidtmt.watchpipboy': ['WatchPipBoy', '8771837763501582057', '500+', 'http://www.droidtmt.com', 'contacto@droidtmt.com']}
+{'watch.richface.androidwear.cluster': ['Cluster Watch Face', 'RichFace', '10,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'org.codechimp.qrwear': ['Wear Codes for Wear OS (Android Wear)', '8386908236515041315', '50,000+', 'http://wearcodes.codechimp.org/', 'android@codechimp.org']}
+{'co.smartwatchface.odyssey.watch.face': ['Odyssey Watch Face', 'Zuhanden', '50,000+', 'http://www.smartwatchface.co', 'hans@smartwatchface.co']}
+{'fr.thema.wear.watch.quante': ['Quante Watch Face & Clock Widget', 'thema', '50,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.denite.watchface.mechanigears': ['Mechani-Gears HD Watch Face Widget Live Wallpaper', '7984230714628987712', '100,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.watch.richface.digital': ['Watch Face Military Digital', 'RichFace', '10,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'de.bassapps.WatchChat': ['WatchChat for WhatsApp', '6484566594998218918', '5,000+', None, 'alecman95@gmail.com']}
+{'us.originally.tasker': ['Broadlink RM Plugin', '8657364104187803118', '10,000+', 'http://originally.us', 'support@originally.us']}
+{'in.thedesigncycle.radii': ['Radii Watch Face for Android Wear OS', '6823428401252992981', '100,000+', 'https://thedesigncycle.com/privacypolicy.html', 'radii@thedesigncycle.com']}
+{'com.ua.makeev.wearcamera': ['Wear Camera', '6441983418105616174', '10,000+', 'http://makeevapps.com', 'wear.camera@gmail.com']}
+{'com.appfour.wearwifi': ['Wi-Fi Manager for Wear OS (Android Wear)', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'support@appfour.com']}
+{'dynalogix.bubblecloud.themepack11': ['Notification Icons Watch Face Theme Status Bubbles', '6165670359285464177', '100+', 'https://bubble.dataglobe.eu/2018/11/21/notification-watch-face-theme-for-bubble-clouds/', 'bcwhelp@gmail.com']}
+{'com.denite.watchface.faceify': ['FACE-ify HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '50,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'huskydev.android.watchface.realweather2': ['Real Weather Watch Face Reborn', '8016075941590810026', '100,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215', 'huskydevcz@gmail.com']}
+{'wear.webcam': ['Watch With a View - Watchface', 'Schneeweis.Technology', '1,000+', 'http://schneeweis.technology', 'info@schneeweis.technology']}
+{'watch.richface.androidwear.activepoint': ['Active Point Watch Face', 'RichFace', '10,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'com.watch.richface.smartdrive': ['SmartDrive Watch Face', 'RichFace', '100,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'com.android2.calculator3': ['Calculator', '5699017451728970123', '1,000,000+', 'http://xlythe.com', 'xlythe@gmail.com']}
+{'com.apps4you.lighter': ['Virtual Lighter', '7713713929802184825', '5,000,000+', 'http://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.appfour.wearvideos': ['Video Gallery for Wear OS (Android Wear)', '8815886658662427637', '100,000+', 'http://www.appfour.com', 'support@appfour.com']}
+{'watch.richface.androidwear.digitalmonster': ['Digital Monster Watch Face', 'RichFace', '50,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'watch.richface.androidwear.timegate': ['Time Gate Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch', 'richface.watch@gmail.com']}
+{'com.virtualmaze.gpsdrivingroute': ['GPS Driving Route® - Offline Map & Live Navigation', '6749335729462274356', '5,000,000+', 'http://virtualmaze.com', 'android@virtualmaze.com']}
+{'co.rightminder.android': ['RightMinder® Plus - SmartWatch Fall Detection', 'ConnectUs+Life+Pty+Ltd', '100,000+', 'http://www.rightminder.com', 'support@rightminder.com']}
+{'com.wearappmanager': ['Wear App Manager', '6589881289812568831', '10,000+', 'http://wearappmanager.com', 'wam@udellenterprises.com']}
+{'com.matteotomasini.mickeywatchface': ['Mickey Mouse Watch Face', 'Matteo+Tomasini', '1,000+', None, 'matteo.tomasini@gmail.com']}
+{'com.vuxia.LadiesWatchFaces': ['Ladies Watch Face', 'vuxia', '10,000+', 'https://plus.google.com/112551289246220437259/posts', 'maxime.baret86@gmail.com']}
+{'org.qooapps.wearchronograph': ['Wear Chronograph Watch Face', 'qooApps', '1,000+', 'http://www.qooapps.com', 'support@qooapps.com']}
+{'com.denite.watchface.sleekshine': ['Sleek Shine HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.redshoes.hearttracker': ['Heart Tracker - WearOS / BLE / Garmin Heart Rate', '4900394646201414790', '10+', 'https://www.freeprivacypolicy.com/privacy/view/470e8be4915dda26b68ccaf425f3d154', 'redshoes.apps@gmail.com']}
+{'com.denite.watchface.electroplasma': ['Electro Plasma HD Watch Face Widget Live Wallpaper', '7984230714628987712', '5,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'ch.sooon.pilot': ['Pilot One Watch Face', '8500192684173188557', '500+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'com.andersonsolutions.weathertime': ['Weather Time for Wear', 'Anderson+Solutions+Inc.', '100,000+', None, 'andersonsolutionsinc@gmail.com']}
+{'saschpe.alphaplus': ['Alpha+ Player - Unofficial player for Soma FM', '8928456854249573763', '10,000+', 'https://sites.google.com/view/alpha-plus-player/home', 'sascha@peilicke.de']}
+{'com.watch.richface.shield': ['Shield Watch Face', 'RichFace', '100,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'fr.thema.wear.watch.octane': ['Octane Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'fr.thema.wear.watch.guardian': ['Guardian Watch Face & Clock Widget', 'thema', '100,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.dolcegusto.activity': ['Dolce Gusto Timer', 'Aduilio+Eduardo+da+Silva', '1,000+', 'https://sites.google.com/view/dgtimer-privacypolicy/', 'developer.aduilio@gmail.com']}
+{'com.moletag.gallery': ['Anytime Gallery for Wear', '7191353336399169728', '100,000+', 'http://anytime.gallery', 'support@moletag.com']}
+{'qubin.de.wearmedia': ['Music Player for Wear', 'QubinApps', '100,000+', 'http://www.qubin.de', 'qubinapps@gmail.com']}
+{'de.baensch.a24slowclock': ['24 Hour Slow Watch Face', 'Fabian+B%C3%A4nsch', '1,000+', 'http://baensch-pictures.de', 'kontakt@baensch-pictures.de']}
+{'com.weareal.live': ['Weareal. Realistic Watch Faces', 'Weareal', '100,000+', 'http://weareal.com', 'contact@weareal.com']}
+{'com.nick.mowen.texpert': ['Texpert SMS', '6410686151642848556', '1,000+', 'https://plus.google.com/u/0/communities/108332280583377671030', 'nick@nicknackdevelopment.com']}
+{'com.watch.richface.runner': ['Runner Watch Face', 'RichFace', '10,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'com.rawleeks.manager': ['Manager Watch Face', '8500192684173188557', '10,000+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'watch.richface.androidwear.fury': ['Fury Watch Face', 'RichFace', '100,000+', 'http://www.richface.watch', 'richface.watch@gmail.com']}
+{'com.watch.richface.infinity': ['Infinity Watch Face', 'RichFace', '100,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'fr.thema.wear.watch.digital': ['Digital One Watch Face', 'thema', '5,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'com.rawleeks.open': ['Open Watch Face', '8500192684173188557', '1,000+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'dev.dworks.apps.anexplorer': ['File Manager USB Cloud Root Apps Wear Android TV', '8683545855643814241', '100,000+', 'https://anexplorer.co/', 'support@dworks.io']}
+{'com.medicalgroupsoft.medical.directorymedtermsmultilang.free': ['Medical Terminology Dictionary:Search&Vocabulary', '4847793641155972715', '1,000,000+', 'https://www.facebook.com/pages/Medical-group-soft/1589939014573976', 'medicalgroupsoft@gmail.com']}
+{'com.daylightclock.android.license': ['TerraTime Pro', '6589881289812568831', '50,000+', 'http://terratime.net', 'terratime@udellenterprises.com']}
+{'mobi.abaddon.huenotification': ['Hue Notification - notification philips hue app', '6359665007298287516', '1,000+', 'http://www.appsforhue.com', 'contact@appsforhue.com']}
+{'com.watch.richface.dynamic': ['Dynamic Watch Face', 'RichFace', '10,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'watch.richface.androidwear.royalsteel': ['Royal Steel Watch Face', 'RichFace', '50,000+', 'http://www.richface.watch/', 'richface.watch@gmail.com']}
+{'fr.thema.wear.watch.skull': ['Skull Wear Watch Face', 'thema', '10,000+', 'http://www.themaapps.com', 'thema.apps@gmail.com']}
+{'com.virtualmaze.drivingroutefinder': ['Driving Route Finder™ - Find GPS Location & Routes', '6749335729462274356', '1,000,000+', 'http://www.virtualmaze.com', 'android@virtualmaze.com']}
+{'il.talent.parking.premium': ['ParKing Premium: Find my car - Automatic', '5580753889161430391', '1,000+', 'http://iltalentapps.wixsite.com/talent-apps', 'il.talent.apps@gmail.com']}
+{'com.denite.watchface.blackglass': ['Black Glass HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '1,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'huskydev.android.watchface.spin': ['Spin Watch Face (by HuskyDEV)', '8016075941590810026', '10,000+', 'https://www.facebook.com/notes/huskydev/husky-dev-cz-privacy-policy/871691609563215v', 'huskydevcz@gmail.com']}
+{'com.qs.tattoo': ['Tattoo Master', 'CanaryDroid', '5,000,000+', 'http://www.canadadroid.com/policy.htm', 'contact@canadadroid.com']}
+{'com.denite.watchface.simplyminimal': ['Simply Minimal HD Watch Face Widget Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.denite.watchface.retropop': ['Retro Pop HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.bitfire.development.calendarsnooze': ['Calendar Snooze', 'Bitfire+Development', '100,000+', 'https://calendarsnooze.uservoice.com', 'helpdesk@bitfire-development.com']}
+{'com.denite.watchface.diamondbling': ['Diamond Bling HD WatchFace Widget & Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.denite.watchface.chronoflat': ['Chrono Flat HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '10,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.paulserver.carbonneonwatchface': ['Carbon Neon Watch Face', '6662602780538406550', '100,000+', 'http://www.paulserver.com', 'info@paulserver.com']}
+{'com.tobotec.wearable.agenda12hwatchface': ['Agenda12h Watch Face', 'Tobotec+AB', '1,000+', 'http://www.tobotec.com', 'tobotecdev@gmail.com']}
+{'dd.watchdesigner.artist': ['Artist watchface by DesignerKang', '7748240321407942094', '10+', 'https://goo.gl/5vWxW6', 'watchfacedesigner@gmail.com']}
+{'com.pixtogram.wear.lookbehind': ['LookBehind for Android Wear', 'Pixtogram', '50,000+', 'https://plus.google.com/u/0/103120817703481624092/', 'contact@pixtogram.com']}
+{'com.yelophone.android': ['Yelo Phone - WiFi Calling, Forwarding & Voicemail', '4910247661169113307', '10,000+', 'https://www.yelophone.com', 'android@yelophone.com']}
+{'com.just4fun.virtualcola': ['Virtual Cola drinking', '7713713929802184825', '5,000,000+', 'https://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.pipperpublishing.soccerrefpro': ['Soccer Referee Pro', 'Pipper+Publishing', '100+', 'https://sites.google.com/view/pipperpublishing/home/soccer-referee-pro/privacy-policy', 'pipper.publishing@gmail.com']}
+{'com.virtualmaze.offlinemapnavigationtracker': ['Offline Map Navigation - Live GPS, Locate, Explore', '6749335729462274356', '1,000,000+', 'http://virtualmaze.com', 'info@virtualmaze.com']}
+{'us.originally.rm_trial': ['Broadlink RM Plugin Lite', '8657364104187803118', '50,000+', 'http://originally.us', 'support@originally.us']}
+{'com.endless.healthyrecipes': ['Healthy Recipes', 'Endless', '500,000+', 'http://www.cookitrecipes.com/privacy.php', 'infinitewallpapers@gmail.com']}
+{'fr.thema.wear.watch.jack': ['Jack Watch Face', 'thema', '5,000+', 'http://www.themaapps.com', 'thema.apps@gmail.com']}
+{'fr.thema.wear.watch.core': ['Core Watch Face', 'thema', '1,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'fr.thema.wear.watch.hex': ['Hex Watch Face & Clock Widget', 'thema', '5,000+', 'http://www.themaapps.com/', 'thema.apps@gmail.com']}
+{'watch.richface.androidwear.twoelegant': ['2Elegant Watch Face', 'RichFace', '5,000+', 'http://www.richface.watch', 'richface.watch@gmail.com']}
+{'com.appfour.wearspeedometer': ['Speedometer for Wear OS (Android Wear)', '8815886658662427637', '10,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'ch.sooon.toggle': ['Toggle Watch Face', '8500192684173188557', '1,000+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'com.drewapps.spotiwear': ['SpotiWear', 'DrewApps', '500+', 'http://drewapps.nl', 'andrew.bakhuis@gmail.com']}
+{'vg.maarten.adwatchface': ['A/D Watchface', 'Maarten+Van+Giel', '100,000+', 'http://www.maarten.vg', 'contact@maarten.vg']}
+{'it.claudio.chimera.virtual.volume': ['Virtual Volume', 'Claudio+Chimera', '500+', 'http://claudio.chimera.dynu.com/privacy-policy.html', 'claudio.chimera@gmail.com']}
+{'com.vuxia.wearFaceCollection': ['Wear Face Collection', 'vuxia', '500,000+', 'https://plus.google.com/112551289246220437259/posts', 'cyberniko@gmail.com']}
+{'com.daylightclock.android': ['TerraTime', '6589881289812568831', '10,000+', 'http://terratime.net', 'terratime@udellenterprises.com']}
+{'com.rjr.apps.first_watchface': ['First - a Calendar Watchface', 'RJR+Apps', '1,000+', None, 'rjrapps.llc@gmail.com']}
+{'com.shameronstudios.arrowwatch': ['Skinny Love Watch Face', 'Shameron+Studios', '5,000+', 'http://www.shameronstudios.com', 'cameron@shameronstudios.com']}
+{'com.appmosaic.moonwatch': ['Moon Calendar Watch', 'AppMosaic', '1,000+', 'http://www.mooncalendarwatch.com/', 'info@appmosaic.com']}
+{'com.timerro.app': ['Timerro - Interval Timer', 'w9+software', '5,000+', 'http://timerro.com', 'contact@timerro.com']}
+{'com.just4funmobile.catwalksinphone': ['Cat Walks in Phone Cute Joke', '7713713929802184825', '5,000,000+', 'https://www.just4funmobile.com/', 'just4funhelp@gmail.com']}
+{'com.stmp.toor': ['Toor - Watch Face for Android Wear - Wear OS', '7274979146896532847', '1,000+', 'http://academyextreme.com', 'academyextreme@gmail.com']}
+{'com.watch.richface.guard': ['Guard Watch Face', 'RichFace', '100,000+', 'http://richface.watch/', 'richface.watch@gmail.com']}
+{'com.turndapage.navmusic': ['NavMusic - Wear OS Offline Music Media Nav Music', '5304767307318254576', '5,000+', 'http://turndapage.com/navmusic/', 'joelphilippage@gmail.com']}
+{'com.atektura.hungrycatswatchface': ['Hungry Cats Watch Face', '5566278677903777243', '100+', 'http://atektura.pl', 'kontakt@atektura.pl']}
+{'com.atektura.napcatswatchface': ['Nap Cats Watch Face', '5566278677903777243', '1,000+', 'http://atektura.pl', 'contact@atektura.watch']}
+{'com.atektura.analogglowwatchface': ['Analog Glow Watch Face', '5566278677903777243', '10,000+', 'http://atektura.pl', 'contact@atektura.watch']}
+{'dynalogix.searchbuttonforzenwatch3': ['Search button for ZenWatch 3', '6165670359285464177', '100+', None, 'dyna.logix.hu@gmail.com']}
+{'james.metronome': ['Metronome', '5937321955284727208', '10,000+', 'https://jfenn.me/', 'dev@jfenn.me']}
+{'com.atektura.ninetofivewatchface': ['9to5 Working Hours Watch Face', '5566278677903777243', '1,000+', 'http://atektura.pl', 'contact@atektura.watch']}
+{'com.turndapage.navcasts': ['NavCasts - Wear OS Podcasts Offline Nav Casts', '5304767307318254576', '1,000+', 'http://turndapage.com/navcasts/', 'joelphilippage@gmail.com']}
+{'com.rawleeks.officerarmy': ['Officer Army Watch Face', '8500192684173188557', '10,000+', 'http://www.sooon.ch/', 'support@sooon.ch']}
+{'com.denite.watchface.opengears': ['Open Gears HD Watch Face Widget & Live Wallpaper', '7984230714628987712', '1,000+', 'http://deniteappz.com', 'deniteappz@gmail.com']}
+{'com.swainbrooks.spinner': ['Feel the Spin - Fidget Spinner', 'Swain+Brooks', '10+', None, 'swain.brooks@gmail.com']}
+{'in.thedesigncycle.rotogears': ['Roto Gears Watch Face for Android Wear', '6823428401252992981', '5,000+', 'https://thedesigncycle.com/privacypolicy.html', 'rotogears@thedesigncycle.com']}
+{'com.just4fun.simplevoicechanger': ['Easy Voice Changer', '7713713929802184825', '1,000,000+', 'http://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.tymometer': ['Tymometer Watch Face for Android Wear OS', '6823428401252992981', '5,000+', 'https://thedesigncycle.com/privacypolicy.html', 'tymometer@thedesigncycle.com']}
+{'com.usefullapps.whistlephonefinder': ['Whistle Phone Finder PRO', '7713713929802184825', '1,000,000+', 'http://www.just4funmobile.com/privacy-policy/', 'just4funhelp@gmail.com']}
+{'com.glgjing.wind': ['Weather Digital Watch Face', '8033310955272052059', '10+', None, 'pitaohappy@gmail.com']}
+{'com.smartartstudios.blazefree.interactive.watchface': ['Watch Face - Blaze Interactive', '9161924567437674144', '10,000+', 'https://www.facebook.com/notes/smart-art-studios/smart-art-studios-privacy-policy/452101328529066', 'smartartstudio6.android@gmail.com']}
+{'de.baensch.trainstationwatchface': ['Rail Station Watch Face', 'Fabian+B%C3%A4nsch', '5,000+', 'http://baensch-pictures.de', 'kontakt@baensch-pictures.de']}
+{'com.codeshrimp.speedwear': ['Speedwear speedometer', 'Daniel+Gauci', '50,000+', 'http://danielgauci.com', 'daniel.gauci@gmail.com']}
+{'com.ammarptn.star': ['Star Particles watch face for Android wear', '7414952821763503585', '1,000+', 'http://ammar.lanui.online', 'ammarptn@gmail.com']}
+{'com.mutau.lefty': ['Lefty - Wear OS on right wrist', '7740646526934574866', '1,000+', None, 'mutau.co@gmail.com']}
+{'com.roto360': ['Roto 360 Watch Face for Android Wear OS', '6823428401252992981', '10,000+', 'https://thedesigncycle.com/privacypolicy.html', 'roto360@thedesigncycle.com']}
+{'org.stjerndorff.dialpilot': ['Dial Pilot', 'Robin+Stjerndorff', '50+', 'https://stjerndorff.org/dialpilot', 'support@stjerndorff.org']}
+{'com.matteotomasini.mickeyanniversarywatchface': ['Mickey Anniversary Watch Face', 'Matteo+Tomasini', '10+', None, 'matteo.tomasini@gmail.com']}
+{'com.virtualgs.space': ['Space War (Wear OS)', '7809285959465313029', '5,000+', 'http://virtual-gs.com', 'support@virtual-gs.com']}
+{'com.paulserver.spacestarswatchface': ['Animated Starfield Watch Face', '6662602780538406550', '10,000+', 'http://www.paulserver.com', 'info@paulserver.com']}
+{'com.turndapage.navfit': ['Nav Fit : Personal Goals Watch Face Wear OS NavFit', '5304767307318254576', '100+', 'http://turndapage.com', 'joelphilippage@gmail.com']}
+{'com.smartartstudios.halloweensfree.interactive.watchface': ['Watch Face - Halloween Spooky', '9161924567437674144', '10,000+', 'https://www.facebook.com/notes/smart-art-studios/smart-art-studios-privacy-policy/452101328529066', 'smartartstudio6.android@gmail.com']}
+{'com.chitchatworldwide.exercises.maltesevocabularyexercises': ['Maltese Vocabulary Exercise', 'Soffer+Awesome+Apps', '50+', None, 'zucchini669@yahoo.com']}
+{'com.turndapage.navbooks': ['NavBooks - Audiobooks with offline Wear OS support', '5304767307318254576', '500+', 'http://turndapage.com/navbooks/', 'joelphilippage@gmail.com']}
+{'com.travelcroco.zodiacwatchface': ['Zodiac Watch Face', '7576147073264850735', '10+', None, 'mymalta.app@gmail.com']}

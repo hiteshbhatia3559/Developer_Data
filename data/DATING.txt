@@ -1,6 +1,266 @@
 {'com.jnj.mocospace.android.plus': ['Moco+ - Chat, Meet People', '7945334852914508868', '10,000+', 'http://www.mocospace.com', 'android@corp.mocospace.com']}
 {'com.blasianloveforeverplus.apps': ['Asian Men & Black Women Dating+ (AMBW Dating App)', 'BLF,+LLC', '1+', 'https://www.blasianloveforever.com/app-terms-privacy', 'support@blasianloveforever.com']}
+{'com.trigtech.calctheme.blue': ['Private Dating, Hide App- Blue for PrivacyHider', 'ARCHIDE', '100+', 'http://www.trigtech.me', 'supoort@trigtech.me']}
+{'com.freetoloveyoudating.apps': ['Free To Love You™ Dating App ...Chat & Connect!', 'BLF,+LLC', '1+', 'https://www.freetoloveyou.com/app-terms-privacy', 'support@freetoloveyou.com']}
+{'com.blasianluvforever.apps': ['BMAW Dating App: Black Men & Asian Women Community', 'BLF,+LLC', '1+', 'https://www.blasianluvforever.com/app-terms-privacy', 'support@blasianluvforever.com']}
+{'com.blasianloveforever.apps': ['AMBW Dating App: Asian Men & Black Women Community', 'BLF,+LLC', '5+', 'https://www.blasianloveforever.com/app-terms-privacy', 'support@blasianloveforever.com']}
+{'com.startitapp.iwilll': ['iwilll', 'Start+It+App', '50+', 'http://www.iwilllapp.com', 'office@iwilllapp.com']}
+{'com.reallyvision.realvisor1': ['Motion, sound, smoke detectors PROFESSIONAL', 'Real.Visor', '10+', 'http://www.realvisor.ru', 'lab2000@mail.ru']}
+{'com.wannameet.power.android.app': ['WannaMeet Power', '6466009090223043167', '1,000+', 'http://wannameet.com', 'admin@wannameet.com']}
+{'com.shelovesbeards.droid': ['She Loves Beards', 'She+Loves+Beards+LLC', '10+', 'http://shelovesbeards.com', 'admin@shelovesbeards.com']}
+{'com.freetoloveyoudatingplus.apps': ['Free To Love You™ Dating App+ .....Chat & Connect!', 'BLF,+LLC', '1+', 'https://www.freetoloveyou.com/app-terms-privacy', 'support@freetoloveyou.com']}
 {'com.camgirlsonlinegirlschatmeet.ccgogcm': ['Free Cam Girls – Video Chat with Girls tips', 'Chat+app+developer', '10,000+', 'https://docs.google.com/document/d/18ZUpZkHi9Cgr1eH8r3psa6DjX5LNcOlbzNs6bdQE8Q8/edit', 'lightmeuptoday@gmail.com']}
-{'com.hily.app': ['Hily Dating: Chat, Match & Meet Singles', '8466050068348543977', '100,000+', 'http://hily.com', 'apps@corp.hily.com']}
+{'com.local.hookup.discreet.adults.only.dating.app': ['Local Hookup - Discreet Adults Only Dating App', 'MingDyguha', '1,000+', 'http://mobiap.club/', 'welcome@mobiap.club']}
+{'com.omegamediacorp.app': ['Omegle', 'Omega+Media+Corporation+Ltd', '1,000+', 'http://www.omegamediacorporation.com/omegle/privacy.html', 'info@omegamediacorporation.com']}
+{'com.hoo.vvlive': ['VVLive - Flirt & Naughty Video Chat Online', 'VVCHAT+GROUP', '500+', 'https://h5.vvlive.fun/appprotocal', 'app@haioo.com']}
+{'com.freecamgirls.liveshow': ['Cam Girls - Live WebCam Show', 'Volodin+%26+Co', '1,000+', 'http://app-detick.icu/privacy_app.php', 'volodin7stas@gmail.com']}
+{'com.justloveonline.vesselschance': ['Just Love', 'Just+Love+Online', '1,000+', 'https://termsfeed.com/privacy-policy/3d3490d211e18fe6605e6146368f1b8a', 'AlexStreusM1NxS@gmail.com']}
+{'cougar.dating2': ['Cougar Dating and Chat', 'Chat++Dating+Singles', '1,000+', 'https://bit.ly/2MVN4Jr', 'hrodriguezpatricia@gmail.com']}
+{'com.asiadating.amelodies': ['Asian Melodies', 'Veronika+V', '100+', 'https://termsfeed.com/privacy-policy/18db6c0d15e2db8936023a6203ca5a6d', 'veroni4ka931@gmail.com']}
+{'pw.datingdev.asiacharm': ['Asia Charm', 'MalinkaKSU', '1,000+', 'https://termsfeed.com/privacy-policy/6120f015a36e37adc873a502afca1440', 'kseniamalina9@gmail.com']}
+{'com.chatroulette.freevideobeegchat': ['Chat Roulette - Free Video Chat', 'Zevnak', '1,000+', 'http://metricks.icu/policyforapp.php', 'Seevzevnak@gmail.com']}
+{'com.lovedate.explicitlybelow': ['Love Date', 'Love+Date', '100+', 'https://termsfeed.com/privacy-policy/3d3490d211e18fe6605e6146368f1b8a', 'VadimBorisovChar19@gmail.com']}
+{'com.capes.skins': ['Capes Skins', 'Mazur+Ilia', '1,000+', 'https://atua.iosdevsupport.biz/files/SkinsIliuha/Privacy_policy.html', 'iliamazur1194@gmail.com']}
+{'com.blackly.global': ['Blackly - Dating app for Blacks', 'Geemint+Inc.', '1,000+', 'https://blacklyapp.com', 'support@blacklyapp.com']}
+{'com.mooq.dating.chat': ['MOOQ - Free Dating App & Flirt and Chat', '7313071118166753251', '500+', 'https://www.mequeres.com', 'android@mequeres.com']}
+{'com.virgochat.hotindianchat': ['Indian Girls Live video Chat', 'VirgoChat', '10,000+', 'https://virgochatappz.blogspot.com', 'virgochatappz@gmail.com']}
+{'vidocall.randmtech': ['Live Video Chat', 'Techno+Soft+Street+Apps', '1,000+', 'https://sites.google.com/view/technostreet103/home', 'technosoft103@gmail.com']}
+{'com.love.city': ['City of Love', 'LoveCity', '5,000+', 'https://docs.google.com/document/d/1NG_Ye_9UaJc5ZVjRNXN0Aj9WvM_HO7G8SyYyKLDKDtw/edit?usp=sharing', 'lovecityapps@gmail.com']}
+{'com.pakappclub.livevideochat': ['Live Talk - Free Video Chat Live', 'Pak+App+Club', '10,000+', 'https://sites.google.com/view/livechatprivacy/home?fbclid=IwAR0POTJLQn5r3EAJ7IThXfjgkZKo08HnBtIGPBQeIl7RWLJX8LN96MjAQOk', 'intellectually.mad@gmail.com']}
+{'com.kawai.girlskins': ['Girl Skins', 'Mazur+Ilia', '100+', 'https://atua.iosdevsupport.biz/files/SkinsIliuha/Privacy_policy.html', 'iliamazur1194@gmail.com']}
+{'com.freelivechat.chatapp': ['Free video calls and chat apps guide and tips 2019', 'livefreechat', '100+', None, 'micotatino@gmail.com']}
+{'com.spicymatch.app': ['SpicyMatch', 'SpicyMatch', '1,000+', 'https://www.spicymatch.com', 'info@spicymatch.com']}
+{'com.launcher.theme3d.t600003109': ['Cute Romantic Couple Love Theme', 'Glossy+Themes+Launcher', '1,000+', 'http://penmousedesigntech.com', 'glossythemes@gmail.com']}
+{'techsoft.chatapp.enterstreet': ['Lesbian video chat : Girls Dating Chat 2019', 'Solis+App', '1,000+', 'https://sites.google.com/view/solis-app/home', 'solisapp203@gmail.com']}
+{'dating.app.datingapp': ['Dating app for adults - free mobile dating app', 'popovdat', '10,000+', 'https://docs.google.com/document/d/e/2PACX-1vRSfRxS4XVMpjUn8Srj_VFScw88CaHyhFx7hT9MdA40YZVZnuQqnj8nibemt7bibfupCm4FOXo4XRZt/pub', 'popopv.vasilii@gmail.com']}
+{'date.me.now': ['Date ME Now - Live Chat with indian girls', 'Dating+India', '5,000+', 'http://www.e-droid.net/privacy.php?ida=596903&idl=en', 'Insamaulhuq2k19@gmail.com']}
 {'com.haterdater.hater': ['Hater', 'Hater+Inc.', '100,000+', 'http://www.haterdater.com', 'contact@haterdater.com']}
+{'com.camgirlsonlinegirlschatmeet.ccgogcm': ['Free Cam Girls – Video Chat with Girls tips', 'Chat+app+developer', '10,000+', 'https://docs.google.com/document/d/18ZUpZkHi9Cgr1eH8r3psa6DjX5LNcOlbzNs6bdQE8Q8/edit', 'lightmeuptoday@gmail.com']}
+{'com.zoosk.zoosk': ['Connect with your match. Meet a loving date. Zoosk', 'Zoosk+Inc.', '10,000,000+', 'https://www.zoosk.com', 'support@zoosk.com']}
+{'com.stddating.positivesingles': ['Herpes Dating: 1,000K+ Singles', 'PositiveSingles.com+since+2002', '50,000+', 'https://www.positivesingles.com', 'support@positivesingles.com']}
+{'co.clover.clover': ['Clover Dating App', 'Clover+Inc.', '500,000+', 'http://clover.co/', 'support@clover.co']}
+{'com.farmersonly.android': ['FarmersOnly Dating', 'FarmersOnly.com', '500,000+', 'http://farmersonly.com', 'app@farmersonly.com']}
+{'com.charmy.cupist': ['GLAM - Tier Dating', '7004289232742857223', '500,000+', 'http://glam.am', 'admin@glam.am']}
+{'com.mooq.dating.chat': ['MOOQ - Free Dating App & Flirt and Chat', '7313071118166753251', '500+', 'https://www.mequeres.com', 'android@mequeres.com']}
+{'com.omegamediacorp.app': ['Omegle', 'Omega+Media+Corporation+Ltd', '1,000+', 'http://www.omegamediacorporation.com/omegle/privacy.html', 'info@omegamediacorporation.com']}
+{'com.hoo.vvlive': ['VVLive - Flirt & Naughty Video Chat Online', 'VVCHAT+GROUP', '500+', 'https://h5.vvlive.fun/appprotocal', 'app@haioo.com']}
+{'com.local.hookup.discreet.adults.only.dating.app': ['Local Hookup - Discreet Adults Only Dating App', 'MingDyguha', '1,000+', 'http://mobiap.club/', 'welcome@mobiap.club']}
+{'com.jaumo.casual': ['Casual Dating & Adult Singles - Joyride', '6485779010633223428', '5,000,000+', 'http://www.getjoyrideapp.com', 'support@getjoyrideapp.com']}
+{'com.justloveonline.vesselschance': ['Just Love', 'Just+Love+Online', '1,000+', 'https://termsfeed.com/privacy-policy/3d3490d211e18fe6605e6146368f1b8a', 'AlexStreusM1NxS@gmail.com']}
 {'com.hily.app': ['Hily Dating: Chat, Match & Meet Singles', '8466050068348543977', '100,000+', 'http://hily.com', 'apps@corp.hily.com']}
+{'com.jaumo.prime': ['Find Real Love — YouLove Premium Dating', '6485779010633223428', '10,000,000+', 'http://www.youlove.it', 'android@youlove.it']}
+{'com.lovedate.explicitlybelow': ['Love Date', 'Love+Date', '100+', 'https://termsfeed.com/privacy-policy/3d3490d211e18fe6605e6146368f1b8a', 'VadimBorisovChar19@gmail.com']}
+{'com.meetville.dating': ['Meetville - Meet New People Online. Dating App', '5431035605487416523', '1,000,000+', 'http://meetville.com', 'support@meetville.com']}
+{'com.jamesbk.senpaime': ['SenpaiME', 'SenpaiME', '10,000+', 'https://www.senpaime.com/', 'hello@senpaime.com']}
+{'su.xdesign.skylove': ['SkyLove – Dating and chat', 'Xdesign', '100,000+', 'http://xdesign.su', 'info@xdesign.su']}
+{'com.peoplemedia.blackpeoplemeet': ['Black People Meet Singles Date', 'Black+People+Meet', '1,000,000+', 'http://www.blackpeoplemeet.com', 'bpm_ad_feedback@support.peoplemedia.com']}
+{'com.chatroulette.freevideobeegchat': ['Chat Roulette - Free Video Chat', 'Zevnak', '1,000+', 'http://metricks.icu/policyforapp.php', 'Seevzevnak@gmail.com']}
+{'flirty.questions.toask.agirl': ['Flirty Questions to Ask a Girl', '6567728338289153470', '10,000+', 'http://simpleeasytech.blogspot.com/p/privacy-policy.html', 'bisap307@gmail.com']}
+{'com.conn3x.ionserv': ['Europe Date - European Dating for Singles', 'SevConnX', '5,000+', 'https://www.freeprivacypolicy.com/privacy/view/6be5f1c2322774f90202ecda2ed98c53', 'Ted.Sladesh@gmail.com']}
+{'com.affinityapps.chispa': ['Chispa - Look. Match. Chat.', '8671028793976441754', '500,000+', 'http://chispa-app.com', 'chispa_ad_feedback@support.peoplemedia.com']}
+{'com.asiainno.uplive.callme': ['Pepper- New socializing experience', 'Asia+Innovations+HK+Limited', '100,000+', 'http://www.pengpengla.com', 'pepperapp@asiainnovations.com']}
+{'com.dating.justshe': ['Just She - Top Lesbian Dating', '5431035605487416523', '100,000+', 'http://justshe.me', 'support@justshe.me']}
+{'com.app.budzy': ['Budzy', 'Cabshe+Inc', '1,000+', 'https://www.budzy.co/', 'info@budzy.co']}
+{'com.carlitosmimundodeapps.videollamadasconchicasencelularguidetutorial': ['Video Llamadas con Chicas en El Celular Guide', 'Carlitos_Mi_Mundo_De:+Apps', '50,000+', 'http://carlitosapps.blogspot.com/2018/08/politica-de-aplicaciones-moviles.html', 'mundodeapps2020@gmail.com']}
+{'com.freecamgirls.liveshow': ['Cam Girls - Live WebCam Show', 'Volodin+%26+Co', '1,000+', 'http://app-detick.icu/privacy_app.php', 'volodin7stas@gmail.com']}
+{'com.trandrapp.trandr': ['Transdr - #1 Transgender & Crossdresser Dating App', 'BestMatch+Limited', '50,000+', 'http://www.transdrapp.net/', 'support@transdrapp.net']}
+{'com.peoplemedia.singleparentmeet': ['Single Parent Meet #1 Dating', 'SingleParentMeet', '500,000+', 'http://www.singleparentmeet.com', 'spm_ad_feedback@support.peoplemedia.com']}
+{'com.asiadating.amelodies': ['Asian Melodies', 'Veronika+V', '100+', 'https://termsfeed.com/privacy-policy/18db6c0d15e2db8936023a6203ca5a6d', 'veroni4ka931@gmail.com']}
+{'com.blackly.global': ['Blackly - Dating app for Blacks', 'Geemint+Inc.', '1,000+', 'https://blacklyapp.com', 'support@blacklyapp.com']}
+{'com.millionaires.millionaires': ['Millionaires', 'Virtugenic,LLC', '1,000+', 'http://mobileappsoftwarecompany.com/Millionaires_Privacy_Policy.html', 'mobileappsoftwarecompany@gmail.com']}
+{'com.datingapps': ['Adult dating app to find adults meet chat - ys.lt', 'K%C4%99stas', '100,000+', 'http://www.ys.lt', 'manopastininkas@gmail.com']}
+{'com.neenbo': ['Neenbo - chat, dating and meeting', 'Neenbo', '1,000,000+', 'https://www.neenbo.com', 'contato@neenbo.com']}
+{'com.peoplemedia.ourtime': ['OurTime Dating for Singles 50+', 'OurTime.com', '500,000+', 'http://www.ourtime.com', 'ot_ad_feedback@support.peoplemedia.com']}
+{'com.capes.skins': ['Capes Skins', 'Mazur+Ilia', '1,000+', 'https://atua.iosdevsupport.biz/files/SkinsIliuha/Privacy_policy.html', 'iliamazur1194@gmail.com']}
+{'com.livevideochat.randomchat': ['Live Video Chat - Random Video Call with Girls', 'Myphoto+Video+Player', '100,000+', 'http://maxplayer.in/#privacy_policy', 'myphotovideoplayer@gmail.com']}
+{'com.virgochat.hotindianchat': ['Indian Girls Live video Chat', 'VirgoChat', '10,000+', 'https://virgochatappz.blogspot.com', 'virgochatappz@gmail.com']}
+{'chat.lesbianas.citas.lesbian.chat': ['Lesbian Chat - only girls', 'LATIN+APPS', '1,000+', 'http://www.e-droid.net/privacy.php?ida=589998&idl=en', 'apssrra@gmail.com']}
+{'livevideochat.indiangirl.chat.zcard': ['Free Video Calls and Fun Video Chat With Girls', 'Zcard+Studio', '10,000+', 'https://zcardstudio.blogspot.com/2018/12/privacy-policy.html', 'zcardstudio@gmail.com']}
+{'com.pl.ajoinfinity.menwomendating': ['Men and Women Personal Ads - dating and love', 'AJO+Infinity', '100,000+', 'https://httppythonapplicationsblogspotcom.000webhostapp.com/privacy_policy.html', 'ajoinfinity@gmail.com']}
+{'camtalk.app.com': ['CamTalk: Local Indian. Live Video Dating App', 'CamTalk+Live+video+chat+with+a+random+stranger', '10,000+', 'http://speaklar.com/videotalk/policy_caltalk.php', 'faridurrahamanrzaib.app@gmail.com']}
+{'com.blasianloveforeverplus.apps': ['Asian Men & Black Women Dating+ (AMBW Dating App)', 'BLF,+LLC', '1+', 'https://www.blasianloveforever.com/app-terms-privacy', 'support@blasianloveforever.com']}
+{'com.freetoloveyoudating.apps': ['Free To Love You™ Dating App ...Chat & Connect!', 'BLF,+LLC', '1+', 'https://www.freetoloveyou.com/app-terms-privacy', 'support@freetoloveyou.com']}
+{'com.blasianluvforever.apps': ['BMAW Dating App: Black Men & Asian Women Community', 'BLF,+LLC', '1+', 'https://www.blasianluvforever.com/app-terms-privacy', 'support@blasianluvforever.com']}
+{'com.blasianloveforever.apps': ['AMBW Dating App: Asian Men & Black Women Community', 'BLF,+LLC', '5+', 'https://www.blasianloveforever.com/app-terms-privacy', 'support@blasianloveforever.com']}
+{'com.hily.app': ['Hily Dating: Chat, Match & Meet Singles', '8466050068348543977', '100,000+', 'http://hily.com', 'apps@corp.hily.com']}
+{'com.zoosk.zoosk': ['Connect with your match. Meet a loving date. Zoosk', 'Zoosk+Inc.', '10,000,000+', 'https://www.zoosk.com', 'support@zoosk.com']}
+{'com.match.android.matchmobile': ['Match Dating: Chat, Date & Meet Someone New', '6150832974034049823', '10,000,000+', 'http://www.match.com', 'android.app@match.com']}
+{'com.okcupid.okcupid': ['OkCupid - The #1 Online Dating App for Great Dates', '5985505151266094438', '10,000,000+', 'http://www.okcupid.com/feedback', 'support@okcupid.com']}
+{'com.farmersonly.android': ['FarmersOnly Dating', 'FarmersOnly.com', '500,000+', 'http://farmersonly.com', 'app@farmersonly.com']}
+{'co.hinge.app': ['Hinge - Dating & Relationships', 'Hinge', '1,000,000+', 'https://www.hinge.co/', 'hello@hinge.co']}
+{'com.affinityapps.chispa': ['Chispa - Look. Match. Chat.', '8671028793976441754', '500,000+', 'http://chispa-app.com', 'chispa_ad_feedback@support.peoplemedia.com']}
+{'com.jaumo.casual': ['Casual Dating & Adult Singles - Joyride', '6485779010633223428', '5,000,000+', 'http://www.getjoyrideapp.com', 'support@getjoyrideapp.com']}
+{'com.affinityapps.blk': ['BLK - Look. Match. Chat.', '5225351988857066521', '100,000+', 'http://blk-app.com', 'blk_ad_feedback@support.peoplemedia.com']}
+{'com.meetville.dating': ['Meetville - Meet New People Online. Dating App', '5431035605487416523', '1,000,000+', 'http://meetville.com', 'support@meetville.com']}
+{'dating.app.chat.flirt.wgbcv': ['Free Dating App & Flirt Chat - Match with Singles', 'Flirt+and+Dating+Apps', '5,000,000+', 'https://www.iubenda.com/privacy-policy/59591443', 'jessirich9@gmail.com']}
+{'co.clover.clover': ['Clover Dating App', 'Clover+Inc.', '500,000+', 'http://clover.co/', 'support@clover.co']}
+{'com.jnj.mocospace.android': ['Moco - Chat, Meet People', '7945334852914508868', '10,000,000+', 'http://www.mocospace.com', 'android@corp.mocospace.com']}
+{'com.mason.wooplus': ['Curvy Singles Dating - Meet, Match & Chat Online', 'WooPlus', '1,000,000+', 'http://wooplus.com/', 'support@wooplus.com']}
+{'com.hotornot.app': ['Hot or Not - Find someone right now', '8105838278857162314', '10,000,000+', 'http://hotornot.com', 'android.support@hotornot.com']}
+{'com.eharmony': ['eharmony - Online Dating App', 'eHarmony.com', '5,000,000+', 'http://www.eharmony.com', 'usersupport@eharmony.com']}
+{'com.camgirlsonlinegirlschatmeet.ccgogcm': ['Free Cam Girls – Video Chat with Girls tips', 'Chat+app+developer', '10,000+', 'https://docs.google.com/document/d/18ZUpZkHi9Cgr1eH8r3psa6DjX5LNcOlbzNs6bdQE8Q8/edit', 'lightmeuptoday@gmail.com']}
+{'com.coffeemeetsbagel': ['CMB Free Dating App', '7286006040182189336', '1,000,000+', 'http://www.coffeemeetsbagel.com', 'contact@coffeemeetsbagel.com']}
+{'dynnsoft.strangersmeet': ['Stranger Chat & Date', 'DynnSoft', '1,000,000+', 'http://strangerchat.dynnsoft.com/privacy_policy.html', 'dynnsoft@gmail.com']}
+{'mingle.android.mingle2': ['Mingle2 - Free Online Dating & Singles Chat Rooms', 'Mingle+Dating+For+Free', '1,000,000+', 'http://mingle2.com', 'accounts@mingle.com']}
+{'com.peoplemedia.ourtime': ['OurTime Dating for Singles 50+', 'OurTime.com', '500,000+', 'http://www.ourtime.com', 'ot_ad_feedback@support.peoplemedia.com']}
+{'com.peoplemedia.blackpeoplemeet': ['Black People Meet Singles Date', 'Black+People+Meet', '1,000,000+', 'http://www.blackpeoplemeet.com', 'bpm_ad_feedback@support.peoplemedia.com']}
+{'com.charmy.cupist': ['GLAM - Tier Dating', '7004289232742857223', '500,000+', 'http://glam.am', 'admin@glam.am']}
+{'com.wildec.fastmeet': ['FastMeet: Chat, Dating, Love', '5779126857103121241', '1,000,000+', 'http://fastmeet.com', 'support@fastmeet.com']}
+{'com.jaumo.prime': ['Find Real Love — YouLove Premium Dating', '6485779010633223428', '10,000,000+', 'http://www.youlove.it', 'android@youlove.it']}
+{'com.cougardating.olderwomendating': ['Cougar Dating Life : Date Older Women Sugar Mummy', 'olderwomendating.com+since+2004', '500,000+', 'https://www.olderwomendating.com', 'support@olderwomendating.com']}
+{'com.blendr.mobile': ['Blendr - Chat, Flirt & Meet', 'Blendr', '1,000,000+', 'http://blendr.com', 'Blendrdroid@gmail.com']}
+{'chat.teen': ['Anonymous Chat Rooms, Free Dating App – AntiLand', 'Anti+Corporation', '1,000,000+', 'http://www.antichat.me', 'corporation.anti@gmail.com']}
+{'com.peoplemedia.singleparentmeet': ['Single Parent Meet #1 Dating', 'SingleParentMeet', '500,000+', 'http://www.singleparentmeet.com', 'spm_ad_feedback@support.peoplemedia.com']}
+{'com.trandrapp.trandr': ['Transdr - #1 Transgender & Crossdresser Dating App', 'BestMatch+Limited', '50,000+', 'http://www.transdrapp.net/', 'support@transdrapp.net']}
+{'com.sugardaddydating.sugardaddymeet': ['SDM: Dating App for Seeking Pure Local Arrangement', 'Sugar+Daddy+Meet+Dating+App', '100,000+', 'http://sugardaddymeet.com', 'support@sugardaddymeet.com']}
+{'com.neenbo': ['Neenbo - chat, dating and meeting', 'Neenbo', '1,000,000+', 'https://www.neenbo.com', 'contato@neenbo.com']}
+{'com.wSugarMommasDating_4791482': ['Sugar Mommas Dating And Single Search', 'CuteSugar', '1,000,000+', 'http://sugarmommadatingworld.com/privacy-policy/', 'sugarmommadatingapp@gmail.com']}
+{'flirty.questions.toask.agirl': ['Flirty Questions to Ask a Girl', '6567728338289153470', '10,000+', 'http://simpleeasytech.blogspot.com/p/privacy-policy.html', 'bisap307@gmail.com']}
+{'com.blackwhitemeet': ['Black White Interracial Dating - Interracial Match', 'Black+White+Dating', '100,000+', 'http://www.blackwhite.singles/', 'blackwhitedating2016@gmail.com']}
+{'com.asiainno.uplive.callme': ['Pepper- New socializing experience', 'Asia+Innovations+HK+Limited', '100,000+', 'http://www.pengpengla.com', 'pepperapp@asiainnovations.com']}
+{'de.appfiction.yocutiegoogle': ['YoCutie - 100% Free. The #real Dating App.', '7497686545009268709', '5,000,000+', 'https://www.yocutie.com', 'support@yocutie.com']}
+{'cdff.mobileapp': ['Christian Dating For Free App', 'E+Dating+For+Free,+Inc.', '500,000+', 'http://www.christiandatingforfree.com', 'admin@christiandatingforfree.com']}
+{'com.local.hookup.discreet.adults.only.dating.app': ['Local Hookup - Discreet Adults Only Dating App', 'MingDyguha', '1,000+', 'http://mobiap.club/', 'welcome@mobiap.club']}
+{'app.fastdates': ['Fast Dates – From flirts to trysts', 'Fastd+Dev', '10,000+', 'http://topliteapp.club/privacy-policy', 'fastd.dev@gmail.com']}
+{'com.nobluffdating.com.app': ['Free Dating App - Meet Local Singles - Flirt Chat', 'NoBluffDating+Company', '100,000+', 'http://www.nobluffdating.com', 'nobluffdating@gmail.com']}
+{'com.dongby.android.mmshow.inter': ['95Live -SG#1 Live Streaming App', 'DONCHEN+LIMITED', '1,000,000+', 'http://www.facebook.com/95LiveBroadcast/', 'goodtolastdeal@gmail.com']}
+{'com.jaumo.mature': ['Dating for 50 plus Mature Singles – FINALLY', '6485779010633223428', '1,000,000+', 'http://www.getfinally.com', 'support@getfinally.com']}
+{'de.affinitas.za.co.elitesingles.and': ['EliteSingles: Meet and Date Single Professionals', '4813727084772339873', '500,000+', 'https://www.elitesingles.com', 'support@elitesingles.com']}
+{'com.choiceoflove.dating': ['Free Dating & Flirt Chat - Choice of Love', '5835084041925301784', '10,000,000+', 'https://www.choiceoflove.com', 'support@choiceoflove.com']}
+{'com.sugadady': ['Sugar Daddy Dating App', '7500551684221959807', '100,000+', 'http://www.sugadady.com', 'support@sugadady.com']}
+{'com.app.rondevo': ['Rondevo - Dating & Chat App', 'VHAPPS', '10,000+', 'https://rondevo.com', 'apps@rondevo.com']}
+{'com.cupidmedia.wrapper.interracialcupid': ['InterracialCupid - Interracial Dating App', '6837645930350091615', '100,000+', 'https://www.interracialcupid.com/', 'team@interracialcupid.com']}
+{'com.linkhyb.singles': ['Singles - Swipe and a new match!', 'Team+Singles', '50,000+', 'http://profile.singles.best/info/SinglesPrivacyPolicy_20181017.txt', 'Service.Singles@gmail.com']}
+{'co.adultfnder.android': ['Adult Dating - AdultFinder', 'Online+Dating+%26+Matchmaking', '500,000+', 'https://www.adultfinder.co', 'info@adultfinder.co']}
+{'com.wildec.dating.meet4u': ['Meet4U - Chat, Love, Singles!', '5779126857103121241', '1,000,000+', 'http://meet4u.com/', 'support@meet4u.com']}
+{'com.dating.justshe': ['Just She - Top Lesbian Dating', '5431035605487416523', '100,000+', 'http://justshe.me', 'support@justshe.me']}
+{'ru.mobstudio.andgalaxy': ['Anonymous Chat Rooms - Galaxy', 'Galaxy+Chat', '10,000,000+', 'http://in-galaxy.com', 'support@mobstudio.ru']}
+{'com.pl.ajoinfinity.menwomendating': ['Men and Women Personal Ads - dating and love', 'AJO+Infinity', '100,000+', 'https://httppythonapplicationsblogspotcom.000webhostapp.com/privacy_policy.html', 'ajoinfinity@gmail.com']}
+{'com.cupidmedia.wrapper.blackcupid': ['BlackCupid - Black Dating App', '6837645930350091615', '100,000+', 'https://www.blackcupid.com/', 'team@blackcupid.com']}
+{'dynnsoft.anonymouschat': ['Anonymous Chat & Date for Stranger', 'DynnSoft', '100,000+', 'http://anonymouschat.dynnsoft.com/privacy_policy_anonymous.html', 'dynnsoft@gmail.com']}
+{'com.haterdater.hater': ['Hater', 'Hater+Inc.', '100,000+', 'http://www.haterdater.com', 'contact@haterdater.com']}
+{'com.stddating.positivesingles': ['Herpes Dating: 1,000K+ Singles', 'PositiveSingles.com+since+2002', '50,000+', 'https://www.positivesingles.com', 'support@positivesingles.com']}
+{'com.wildec.meet24': ['Meet24 - Love, Chat, Singles', '5779126857103121241', '5,000,000+', 'http://meet24.com', 'support@meet24.com']}
+{'com.cupidmedia.wrapper.bbwcupid': ['BBWCupid - BBW Dating App', '6837645930350091615', '100,000+', 'https://www.bbwcupid.com/', 'team@bbwcupid.com']}
+{'com.muzmatch.muzmatchapp': ['muzmatch: Muslim & Arab Singles, Marriage & Dating', 'muzmatch', '500,000+', 'http://www.muzmatch.com', 'support@muzmatch.com']}
+{'com.league.theleague': ['The League', 'The+League+App,+Inc', '100,000+', 'http://www.theleague.com', 'contact@theleague.com']}
+{'com.snapcupid.app': ['SnpCupid Dating', 'SnpCupid', '100,000+', 'http://beboldtec.com', 'support@beboldtec.com']}
+{'datee.mobi': ['USA Singles Meet, Match and Date Free - Datee', 'ApoLeaf', '500,000+', 'http://datee.mobi', 'datee@apoleaf.com']}
+{'com.omegamediacorp.app': ['Omegle', 'Omega+Media+Corporation+Ltd', '1,000+', 'http://www.omegamediacorporation.com/omegle/privacy.html', 'info@omegamediacorporation.com']}
+{'live.girls.chat.meet': ['Live Girls Chat Meet', 'MySolution+App', '10,000+', 'http://www.e-droid.net/privacy.php?ida=555717&idl=en', 'Mtw4748@gmail.com']}
+{'com.polydelic.righter': ['Righter Dating', '8641409168356786238', '5,000+', 'https://www.wearerighter.com', 'support@wearerighter.com']}
+{'com.jamesbk.senpaime': ['SenpaiME', 'SenpaiME', '10,000+', 'https://www.senpaime.com/', 'hello@senpaime.com']}
+{'com.labelsoft.trydate': ['TryDate - Free Online Dating App, Chat Meet Adults', 'Labelsoft', '1,000,000+', 'https://www.trydate.com', 'contact@trydate.com']}
+{'com.foreverbilisim.sevgilibul': ['Find Lover', 'ayesoft', '1,000,000+', 'http://www.yesertener.com', 'nghnysrtnr@gmail.com']}
+{'com.planetromeo.android.app': ['ROMEO - Gay Chat & Dating', 'ROMEO+B.V.', '5,000,000+', 'http://romeoapp.com/', 'support-apps@romeoapp.com']}
+{'media.media1e1a.arkadaslik': ['Find Friends', '1E1A+Media', '100,000+', 'http://www.1e1amedia.com', 'info@1e1amedia.com']}
+{'com.cupidmedia.wrapper.militarycupid': ['MilitaryCupid - Military Dating App', '6837645930350091615', '50,000+', 'https://www.militarycupid.com/', 'team@militarycupid.com']}
+{'chatmayores40.conocersolteros.citasamor': ['Over 40 Dating - Singles, Meet Senior People, Chat', 'pattyapps', '50,000+', 'http://socialchatspatty.blogspot.com/2018/10/politica-de-privacidad-app-contiene.html', 'pattycar69@gmail.com']}
+{'com.lioncomdev.trichat': ['TriChat - online dating chat', 'LIONCOM+UKRAINE,+LLC', '1,000,000+', 'https://docs.google.com/document/d/1-Z7XzyvoGBXI3xvkZbruKxkKli-s11jov6m12KFAhBo/edit?usp=sharing', 'lioncomdev@gmail.com']}
+{'com.mutualapp': ['Mutual - LDS Dating', 'Mutual+LLC', '100,000+', 'https://mutual.app', 'support@mutual.app']}
+{'io.gonative.android.rzkyq': ['Flirting & Dating App', 'Free+dating+%26+marriage+apps+to+meet+new+people', '1,000,000+', 'http://www.angelreturn.com', 'info@erissystem.com']}
+{'com.grokiolabs.Ferzu': ['FERZU - Furries Social Network', 'Grokio+LLC', '50,000+', 'https://www.ferzu.com', 'support@ferzu.com']}
+{'com.cupidmedia.wrapper.internationalcupid': ['InternationalCupid - International Dating App', '6837645930350091615', '100,000+', 'https://www.internationalcupid.com/', 'team@internationalcupid.com']}
+{'com.digdates.Dig': ["Dig-The Dog Person's Dating App", 'Dig+-+The+Dog+Person%27s+Dating+App', '1,000+', 'http://digdates.com', 'leigh@digdates.com']}
+{'com.findmillionaire.android': ['Adult Dating, Find Millionaire', 'Online+Dating,+Meet+and+Date', '500,000+', 'http://www.findmillionaire.net', 'admin@findmillionaire.net']}
+{'ru.chocoapp.app': ['Meet, chat & date. Free dating app - Chocolate app', 'New+Technologies+LLC', '1,000,000+', 'https://chocoapp.ru', 'webmaster@hipler.me']}
+{'im.howlr.app': ['Howlr', 'Howlr', '10,000+', 'https://howlr.im', 'contact@howlr.im']}
+{'com.katy.mexicanchat': ['Mexican Chat', 'Katy+Chat%27s', '10,000+', 'http://www.e-droid.net/privacy.php?ida=470005&idl=en', 'katykovnir@gmail.com']}
+{'trans.dating': ['Trangender Dating', 'LGBT+DATING', '100,000+', None, 'elilevit52@gmail.com']}
+{'com.cupidmedia.wrapper.pinkcupid': ['PinkCupid - Lesbian Dating App', '6837645930350091615', '50,000+', 'https://www.pinkcupid.com', 'team@pinkcupid.com']}
+{'com.embrace_2redbeans': ['2RedBeans', '2RedBeans.com', '50,000+', 'http://www.2redbeans.com', 'admin@2redbeans.com']}
+{'com.baelist.www': ['BaeList', 'BAELIST,+LLC', '10,000+', 'http://baelist.com', 'baeliatapp@gmail.com']}
+{'com.dkgohil.mixnames': ['Mix Names', 'D+K+Gohil', '100,000+', 'https://dkgohilapps.blogspot.com/p/mix-names-priva.html', 'gohildk22@gmail.com']}
+{'com.koko.dating.chat': ['Koko - Dating & Flirting to Meet Epic New People', '4747794953401106340', '100,000+', 'http://www.hallokoko.com', 'support@hallokoko.com']}
+{'com.app.christiandating': ['Christian Dating: Chat & Meet', 'MORIA+APPS', '10,000+', 'https://quantumwebapps.com/morria-apps-privacy/', 'MORIAAPPS@GMAIL.COM']}
+{'com.mantra.kiss.emoji': ['Kiss Emoji - Couple Kiss Stickers', 'appsmantra', '50,000+', 'http://allappsmantra.blogspot.in/p/privacy-policy-facebook-ads-privacy.html', 'ayushicoral@gmail.com']}
+{'com.atranssexualdate': ['A Transsexual Date', 'LoveDate+AB', '100,000+', 'http://atranssexualdate.com', 'lovedateab@gmail.com']}
+{'com.peoplemedia.christianpeoplemeet': ['Christian People Meet Dating', 'ChristianPeopleMeet.com', '10,000+', 'http://www.christianpeoplemeet.com/', 'las_ad_feedback@support.peoplemedia.com']}
+{'videodownloader.anonymouschatforusers': ['For You - Anonymous Chats with Selected Genders', 'AdPasta', '10,000+', 'http://adpasta.com', 'adpasta718@gmail.com']}
+{'com.wBlackDating_7282412': ['Black Dating', 'MyDatingDirectory', '5,000+', 'https://black.uppdating.com/', 'support@black.uppdating.com']}
+{'com.mingle.EuropianMingle': ['Europe Mingle - Dating Chat with European Singles', 'Mingle+Dating+Social+Network', '100,000+', 'http://mingle.com', 'accounts@mingle.com']}
+{'ru.loveplanet.app': ['LovePlanet – dating app & chat', 'LovePlanet.ru', '1,000,000+', 'http://loveplanet.ru', 'support@loveplanet.ru']}
+{'com.app.budzy': ['Budzy', 'Cabshe+Inc', '1,000+', 'https://www.budzy.co/', 'info@budzy.co']}
+{'app.findmate': ['Findmate - Chat & Meet Dating App', '5999611260756868907', '1,000+', 'https://findmate.app', 'findmate.asia@gmail.com']}
+{'com.atom.barev': ['Barev – Armenian dating', 'ATOM+LLC', '100,000+', 'http://barev.ru', 'atomsoft.playstore@gmail.com']}
+{'lesbian.dating2': ['Lesbian Dating', 'LGBT+DATING', '50,000+', None, 'elilevit52@gmail.com']}
+{'com.cupidmedia.wrapper.koreancupid': ['KoreanCupid - Korean Dating App', '6837645930350091615', '50,000+', 'https://www.koreancupid.com/', 'team@koreancupid.com']}
+{'chat.lesbianas.citas.lesbian.chat': ['Lesbian Chat - only girls', 'LATIN+APPS', '1,000+', 'http://www.e-droid.net/privacy.php?ida=589998&idl=en', 'apssrra@gmail.com']}
+{'com.cupidmedia.wrapper.vietnamcupid': ['VietnamCupid - Vietnam Dating App', '6837645930350091615', '100,000+', 'https://www.vietnamcupid.com/', 'team@vietnamcupid.com']}
+{'com.casldatingapp': ['Clean And Sober Love - CASL', 'CASL-Clean+and+Sober+Love', '5,000+', 'https://app.termly.io/document/privacy-policy-for-mobile-app/3fa8cf0b-556e-40d5-bf6f-8954fc6efd0b', 'kleenrawk@gmail.com']}
+{'com.techcreator.ananduarkaj.Hey': ['Hey - Meet new Friends', 'Techscreator', '1,000+', 'https://ananthusubramanian.github.io/', 'anandusubramanian@gmail.com']}
+{'com.rometic.trulyasian': ['TrulyAsian - Asian Dating App', '6168661753325346402', '50,000+', 'https://www.trulyasian.com', 'support@trulyasian.com']}
+{'vidocall.randmtech': ['Live Video Chat', 'Techno+Soft+Street+Apps', '1,000+', 'https://sites.google.com/view/technostreet103/home', 'technosoft103@gmail.com']}
+{'com.tco.thurst': ['Thurst', '8972716139981101381', '5,000+', 'http://thurst.co', 'admin@thurst.co']}
+{'com.datefit': ['Datefit', 'Datefit+LLC', '1,000+', 'http://www.datefit.com', 'support@datefit.zendesk.com']}
+{'com.app_elitemoms.layout': ['Elite Single Moms Dating', 'My+Good+Apps', '10,000+', 'http://mygoodapps1.blogspot.com.ng/p/this-privacy-policy-has-been-compiled.html', 'mygoodapps1@gmail.com']}
+{'com.ChatUSMO.frindschatus.rezfbv': ['Chat friends', '8422661233703140017', '10,000+', 'https://www.facebook.com/profile.php?id=100022925612388', 'talandrwyd915@gmail.com']}
+{'com.atornel.cupid': ['Cupid: Flirt, chat and meet people around you', '5717990719117449387', '100+', 'http://atornel.com', 'atorneldevs@gmail.com']}
+{'com.purematrimony.purematrimonyapp': ['Pure Matrimony - Marriage for Practising Muslims', 'appSquared', '10,000+', 'https://www.purematrimony.com', 'support@purematrimony.zendesk.com']}
+{'com.awake.datingapp': ['Awake Dating', '7667771660987617104', '500+', 'https://awake.dating', 'info@wideawakemedia.us']}
+{'com.vue.okthailove.app': ['OkThaiLove', 'SuiMedia', '5,000+', 'https://okthailove.com/', 'matt@saowapan.com']}
+{'online.girlschatfreelivetalk': ['ONLINE GIRLS CHAT - FREE LIVE TALK', 'Cybertoxic', '500+', 'http://www.e-droid.net/privacy.php?ida=593988&idl=en', 'atifhussain03122908806@gmail.com']}
+{'com.whct.hp': ['WhenChat', 'Danikel+Chan', '10,000+', 'http://h5.whenchat.com/Guard/Agreement.aspx', 'hzzhiliao666@gmail.com']}
+{'com.chatavenue.chaturbatestrangers': ['Chat Avenue : Strangers Rooms', 'Zevnak', '100+', 'http://metricks.icu/policyforapp.php', 'Seevzevnak@gmail.com']}
+{'com.phone_personals.voicepersonals': ['Phone Personals', 'Phone+Personals', '1,000+', 'http://www.phone-personals.com', 'admin@phone-personals.com']}
+{'questionsto.ask.yourcrush': ['QUESTIONS TO ASK YOUR CRUSH', 'Supportive+Apps', '1,000+', 'https://ctrlv.it/id/76295/3028264701', 'georgyrum@hotmail.com']}
+{'butterfly.neon.sparkle.shine.colorful.beautiful.cute.u8000000835': ['Neon Butterfly Keyboard', 'Zenith+Studio', '1,000+', 'http://d2ezgnxmilyqe4.cloudfront.net/privacy/Privacy_Policy.html', 'zenith696269@gmail.com']}
+{'com.happysun.imagenesdeamor': ['Love Pictures (Spanish)', 'HappySunMobile', '100,000+', 'https://www.facebook.com/happysunmobile', 'happysun.mobile@gmail.com']}
+{'paragraph.forher.som': ['PARAGRAPH FOR HER', 'Daily+Life+Quotes', '100+', 'https://dailyhappylifequotes.blogspot.com/', 'sales.sommarketing@gmail.com']}
+{'what.women.want.se': ['What Women Want in Relationship', '6567728338289153470', '100+', 'http://simpleeasytech.blogspot.com/p/privacy-policy.html', 'bisap307@gmail.com']}
+{'com.id.jodoh': ['Find a mate', 'Dating+Mobile+Inc.', '50,000+', 'http://kontakjodoh.bekerja.co.id/', 'misterevul@gmail.com']}
+{'com.narchat.sweden': ['Sweden Chat & Dating', 'NarChat', '50,000+', 'http://narchat.com/tos.php', 'info@narchat.com']}
+{'com.wChristianDating_7276251': ['Christian Dating', 'MyDatingDirectory', '1,000+', 'https://christians.uppdating.com/', 'support@christians.uppdating.com']}
+{'usa.girlslivechatmeet': ['USA Girls Live Chat Meet', 'BLMS.Inc', '5,000+', 'http://www.girlschatmeet.us', 'us.girlslivechatmeet@gmail.com']}
+{'girls.livechatmeet': ['Girls Live Chat Meet', 'Empowering+Youth+Technology', '1,000+', 'http://www.e-droid.net/privacy.php?ida=576385&idl=en', 'mskhan76835@gmail.com']}
+{'com.fuica.buscaramisamigosguiatutorial': ['Buscar a Mis Amigos Guía Tutorial', '6248789749501501663', '10,000+', 'http://delfuturoapps.blogspot.com/2017/11/delfuturo-politicas-de-privacidad.html', 'delfuturoapps@gmail.com']}
+{'com.smart.pink.emoji.theme': ['Smart Pink Emoji Theme\U0001f92a', 'Cool+Super+Theme', '5,000+', 'http://www.cmcm.com/protocol/launcher-theme/privacy.html', 'ahlarray4@gmail.com']}
+{'honduras.chatamoramistadycitas': ['Honduras Chat, amor, amistad y citas', '5661325241973992492', '500+', 'https://PorAca.cl', 'produccionesradiales@live.com']}
+{'com.pinoybae.app': ['Pinoy Bae - Dating App for Filipinos.', 'Geemint+Inc.', '1,000+', 'https://www.pinoybae.com', 'support@pinoybae.com']}
+{'com.hily.app': ['Hily Dating: Chat, Match & Meet Singles', '8466050068348543977', '100,000+', 'http://hily.com', 'apps@corp.hily.com']}
+{'com.okcupid.okcupid': ['OkCupid - The #1 Online Dating App for Great Dates', '5985505151266094438', '10,000,000+', 'http://www.okcupid.com/feedback', 'support@okcupid.com']}
+{'com.coffeemeetsbagel': ['CMB Free Dating App', '7286006040182189336', '1,000,000+', 'http://www.coffeemeetsbagel.com', 'contact@coffeemeetsbagel.com']}
+{'co.hinge.app': ['Hinge - Dating & Relationships', 'Hinge', '1,000,000+', 'https://www.hinge.co/', 'hello@hinge.co']}
+{'com.meetville.dating': ['Meetville - Meet New People Online. Dating App', '5431035605487416523', '1,000,000+', 'http://meetville.com', 'support@meetville.com']}
+{'com.farmersonly.android': ['FarmersOnly Dating', 'FarmersOnly.com', '500,000+', 'http://farmersonly.com', 'app@farmersonly.com']}
+{'com.mason.wooplus': ['Curvy Singles Dating - Meet, Match & Chat Online', 'WooPlus', '1,000,000+', 'http://wooplus.com/', 'support@wooplus.com']}
+{'com.jaumo.casual': ['Casual Dating & Adult Singles - Joyride', '6485779010633223428', '5,000,000+', 'http://www.getjoyrideapp.com', 'support@getjoyrideapp.com']}
+{'co.dilmil.android': ['Dil Mil: South Asian singles, dating & marriage', '4659392411820958099', '100,000+', 'http://www.dilmil.co', 'support@dilmil.co']}
+{'co.clover.clover': ['Clover Dating App', 'Clover+Inc.', '500,000+', 'http://clover.co/', 'support@clover.co']}
+{'com.jnj.mocospace.android': ['Moco - Chat, Meet People', '7945334852914508868', '10,000,000+', 'http://www.mocospace.com', 'android@corp.mocospace.com']}
+{'de.affinitas.za.co.elitesingles.and': ['EliteSingles: Meet and Date Single Professionals', '4813727084772339873', '500,000+', 'https://www.elitesingles.com', 'support@elitesingles.com']}
+{'com.league.theleague': ['The League', 'The+League+App,+Inc', '100,000+', 'http://www.theleague.com', 'contact@theleague.com']}
+{'com.stddating.positivesingles': ['Herpes Dating: 1,000K+ Singles', 'PositiveSingles.com+since+2002', '50,000+', 'https://www.positivesingles.com', 'support@positivesingles.com']}
+{'com.hotornot.app': ['Hot or Not - Find someone right now', '8105838278857162314', '10,000,000+', 'http://hotornot.com', 'android.support@hotornot.com']}
+{'com.dating.justshe': ['Just She - Top Lesbian Dating', '5431035605487416523', '100,000+', 'http://justshe.me', 'support@justshe.me']}
+{'com.muzmatch.muzmatchapp': ['muzmatch: Muslim & Arab Singles, Marriage & Dating', 'muzmatch', '500,000+', 'http://www.muzmatch.com', 'support@muzmatch.com']}
+{'com.affinityapps.chispa': ['Chispa - Look. Match. Chat.', '8671028793976441754', '500,000+', 'http://chispa-app.com', 'chispa_ad_feedback@support.peoplemedia.com']}
+{'com.jaumo.prime': ['Find Real Love — YouLove Premium Dating', '6485779010633223428', '10,000,000+', 'http://www.youlove.it', 'android@youlove.it']}
+{'com.affinityapps.blk': ['BLK - Look. Match. Chat.', '5225351988857066521', '100,000+', 'http://blk-app.com', 'blk_ad_feedback@support.peoplemedia.com']}
+{'com.mutualapp': ['Mutual - LDS Dating', 'Mutual+LLC', '100,000+', 'https://mutual.app', 'support@mutual.app']}
+{'com.embrace_2redbeans': ['2RedBeans', '2RedBeans.com', '50,000+', 'http://www.2redbeans.com', 'admin@2redbeans.com']}
+{'com.sudyapp': ['Sudy - Chat & Dating App', 'Sudy+Limited', '1,000,000+', 'https://www.sudy.app/', 'support@sudy.app']}
+{'com.blendr.mobile': ['Blendr - Chat, Flirt & Meet', 'Blendr', '1,000,000+', 'http://blendr.com', 'Blendrdroid@gmail.com']}
+{'com.dongby.android.mmshow.inter': ['95Live -SG#1 Live Streaming App', 'DONCHEN+LIMITED', '1,000,000+', 'http://www.facebook.com/95LiveBroadcast/', 'goodtolastdeal@gmail.com']}
+{'com.sugardaddydating.sugardaddymeet': ['SDM: Dating App for Seeking Pure Local Arrangement', 'Sugar+Daddy+Meet+Dating+App', '100,000+', 'http://sugardaddymeet.com', 'support@sugardaddymeet.com']}
+{'com.jaumo.mature': ['Dating for 50 plus Mature Singles – FINALLY', '6485779010633223428', '1,000,000+', 'http://www.getfinally.com', 'support@getfinally.com']}
+{'com.cougardating.olderwomendating': ['Cougar Dating Life : Date Older Women Sugar Mummy', 'olderwomendating.com+since+2004', '500,000+', 'https://www.olderwomendating.com', 'support@olderwomendating.com']}
+{'com.luzeon.BiggerCity': ['BiggerCity: Chat for gay bears, chubs & chasers', 'Luzeon+LLC', '100,000+', 'http://www.biggercityapp.com', 'support@biggercity.com']}
+{'com.millionairedating.millionairematch': ['Meet 3,900,000+ Attractive, Rich Singles', 'MillionaireMatch+Inc', '100,000+', 'http://www.millionairematch.com', 'support@millionairematch.com']}
+{'com.spark.com.silversingles.app': ['SilverSingles – Dating Over 50 for Local Singles', '4813727084772339873', '10,000+', 'http://www.affinitas.de', 'edarling.mobile@gmail.com']}
+{'com.once.android': ['Once - Quality Matches Every day', 'Once+Dating+AG', '1,000,000+', 'http://getonce.com', 'hello@getonce.com']}
+{'com.app.rondevo': ['Rondevo - Dating & Chat App', 'VHAPPS', '10,000+', 'https://rondevo.com', 'apps@rondevo.com']}
+{'cdff.mobileapp': ['Christian Dating For Free App', 'E+Dating+For+Free,+Inc.', '500,000+', 'http://www.christiandatingforfree.com', 'admin@christiandatingforfree.com']}
+{'com.trandrapp.trandr': ['Transdr - #1 Transgender & Crossdresser Dating App', 'BestMatch+Limited', '50,000+', 'http://www.transdrapp.net/', 'support@transdrapp.net']}
+{'com.jnj.mocospace.android.plus': ['Moco+ - Chat, Meet People', '7945334852914508868', '10,000+', 'http://www.mocospace.com', 'android@corp.mocospace.com']}
+{'com.successfulmatch.mpwh': ['Herpes Positive Singles Dating', 'MPWH.com+since+2001', '10,000+', 'https://www.mpwh.com', 'support@mpwh.com']}
+{'com.blackwhitemeet': ['Black White Interracial Dating - Interracial Match', 'Black+White+Dating', '100,000+', 'http://www.blackwhite.singles/', 'blackwhitedating2016@gmail.com']}
+{'com.sweetringplus.android': ['SweetRing - Meet, Match, Date', 'SweetRing', '1,000,000+', 'http://www.sweetring.com/', 'service@sweetring.com']}
+{'com.asiainno.uplive.callme': ['Pepper- New socializing experience', 'Asia+Innovations+HK+Limited', '100,000+', 'http://www.pengpengla.com', 'pepperapp@asiainnovations.com']}
+{'com.rusdate.net': ['Russian Dating & Chat for Russian speaking RusDate', 'DABLTECH+LTD', '100,000+', 'https://rusdate.net', 'mobile@datesupport.net']}
+{'ru.mobstudio.andgalaxy': ['Anonymous Chat Rooms - Galaxy', 'Galaxy+Chat', '10,000,000+', 'http://in-galaxy.com', 'support@mobstudio.ru']}
+{'chat.teen': ['Anonymous Chat Rooms, Free Dating App – AntiLand', 'Anti+Corporation', '1,000,000+', 'http://www.antichat.me', 'corporation.anti@gmail.com']}
+{'com.wildec.fastmeet': ['FastMeet: Chat, Dating, Love', '5779126857103121241', '1,000,000+', 'http://fastmeet.com', 'support@fastmeet.com']}
+{'com.gopatrio.app': ['Patrio - Patriotic Dating', 'gopatrio.com', '1,000+', 'https://www.gopatrio.com/contact-us', 'support@mypatrio.com']}
+{'com.dominicanmeet.dominicanmeet': ['Dominican Meet', 'Global+Meet', '100+', 'http://www.powerlearningenterprise.com/dominican_meet_privacy_policy.html', 'DominicanMeet@gmail.com']}
+{'com.baelist.www': ['BaeList', 'BAELIST,+LLC', '10,000+', 'http://baelist.com', 'baeliatapp@gmail.com']}

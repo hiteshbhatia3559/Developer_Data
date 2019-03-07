@@ -1,0 +1,523 @@
+{'com.favorite.game.word': ['Words Survivor', 'Good+Casual+Game', '1,000+', 'https://sites.google.com/view/wordsurvivor', 'housiyu1009@gmail.com']}
+{'com.pixign.smart.word.search': ['Smart Words - word search, word game', 'WL+Pixign+Games', '10,000+', 'http://pixign.com', 'apps@pixign.com']}
+{'com.liya.crossword': ['CrossWorld : Picture crossword', 'Liya', '1,000+', 'https://liyagames.com/page/terms', 'contact@liyagames.com']}
+{'com.severex.keywords.crosswordpuzzle': ['Codewords Adventure', 'Severex', '1,000+', 'http://www.europosit.com', 'support@europosit.com']}
+{'ir.iocean.kingofword': ['King of word', 'seven331', '100+', 'http://www.7sharge.com', 'alighamati1990@gmail.com']}
+{'com.curcasergiu.fortniteguesstheskin': ['Fortnite: Guess the Skin', 'Cs+Studio', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'sergiusiatit@gmail.com']}
+{'air.com.hfg.A200rooms': ['Escape Room - Word Finder Challenge - 200 levels', 'Hidden+Fun+Games', '1,000+', 'https://www.facebook.com/HiddenFunGames', 'reena.pakri.1992@gmail.com']}
+{'com.betis.wordfortunewheel': ['Word Fortune - Wheel of Phrases Quiz', 'Betis', '1,000+', 'http://betisapps.net/privacy_policy_and.html', 'betismobile@outlook.com']}
+{'com.adagametec.wordconnectexpert': ['Word Connect Expert', 'Ada+Games+Tec.', '500+', 'http://adagamestec.ileadsoft.cn/policy.html', 'linada1992@gmail.com']}
+{'com.theangrykraken.wordgame': ['Word Game', 'The+Angry+Kraken', '5,000+', 'http://www.theangrykraken.com', 'theangrykraken@gmail.com']}
+{'com.bible.word.connect.search.link': ['Bible Word Connect - Free Crosswords Style Game', 'Word+Games+Factory', '10+', None, 'mobinetdev@gmail.com']}
+{'com.ngocwjyn.depxvtuu.traixipadcp1007': ['1007 Game OGwjyn VMxvtuu World', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngockxxh.depctcro.traidyklmjf1076': ['1076 Game WRkxxh RJctcro Story', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '10+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocmctm.deptoyec.traigioulwm1077': ['1077 Game YDmctm HVtoyec Action', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '10+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngoclnug.depoeekw.trairyudold1012': ['1012 Game RAlnug UAoeekw Trivia', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocfnkm.depwkowp.traiziiuicb1011': ['1011 Game YPfnkm EHwkowp World', 'Hoang+Minh+Tan+PAXX+NA', '10+', None, 'phamthidao292827@gmail.com']}
+{'com.zefengtec.CrossWordACE': ['Cross Word ACE', 'HONGKONG+ZEFENG+TECHNOLOGY+CO.,LIMITED', '50+', 'http://hongkongzf.hk/', 'wordservice.bj@gmail.com']}
+{'com.nebo.tower2': ['150 Word Towers', 'Nebo+Apps', '1,000+', 'http://www.neboapps.com', 'games@neboapps.com']}
+{'com.puzzle.word.travel': ['Word Travel™ - Word Puzzle Game', 'Card+Master', '10+', 'https://s3.amazonaws.com/websitebox-ig/H5games/www.wisdomnetworkltd.com/privacy.html', 'cardgamesmaster@gmail.com']}
+{'com.ngocarsd.depsdrgd.traijyrlmtm1124': ['1124 Game ZHarsd GIsdrgd World', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocspmy.depfkzri.traievvpfcw1125': ['1125 Game FIspmy ZVfkzri Action', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.ngocxxsf.depsynqn.traivpvplzr1116': ['1116 Game CMxxsf DIsynqn Action', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.gamesfortoddlers.guessthecharactercartoons': ['Guess The Character - Cartoons', 'GamesForToddlers', '50+', 'https://quickappninja.com/game-privacy-policy.html', 'thedevilduck.no1@gmail.com']}
+{'com.outthinking.escape': ['Escape Room Puzzle : Word Mystery Game', 'ANDROID+PIXELS', '50+', 'http://www.outthinkingindia.com/privacy-policy/', 'androidpixels@gmail.com']}
+{'com.ngocvviu.depckjeg.traiqtsytkh1126': ['1126 Game WIvviu RGckjeg Love', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '10+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocpaxn.deppmvko.traiootmdxt1120': ['1120 Game JEpaxn WLpmvko World', 'Shop+Hai+Ha+Devlope', '10+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.gkcoding.wordholic': ['WordHolic: Countries', 'GKcoding', '100+', None, 'gkcoding1@gmail.com']}
+{'com.ngocngdu.depvyxrt.traixryveze1129': ['1129 Game GVngdu CZvyxrt Maria Ozava', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '10+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocxtrz.depxebaj.traiigoonam1128': ['1128 Game PSxtrz DBxebaj Story', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '10+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocttci.depewwqw.traiduiflsf1090': ['1090 Game PEttci TFewwqw Maria Ozava', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '10+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.world.connect.search.word.link': ['World Connect 2 by Word Games Factory. Free Game.', 'Word+Games+Factory', '100+', 'http://topchefcooking.com/apps-privacy/', 'mobinetdev@gmail.com']}
+{'com.nevercenter.crossgrams': ['Crossgrams', 'Nevercenter', '100+', 'http://www.nevercenter.com', 'info@nevercenter.com']}
+{'com.krape30.myapp': ['Warcraft Quiz', '8636215346555870556', '100+', None, 'Krapey1@gmail.com']}
+{'com.ngocggvf.depbkdhe.traiijjwhoe1041': ['1041 Game QCggvf VBbkdhe Maria Ozava', 'TO+THI+HOAI+24h', '10+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngocvnxt.depgmumh.traidluemnr1040': ['1040 Game GSvnxt RFgmumh Story', 'TO+THI+HOAI+24h', '10+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngocspdf.deplwrwx.traibrszxof1035': ['1035 Game ZIspdf LKlwrwx Maria Ozava', 'TO+THI+HOAI+24h', '10+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.bigstarkids.wordtravelturkishclassic': ['Kelime Gezmece Klasik', 'BigStar+Games', '10,000+', 'http://forumvs.com/policy_wordtravelturkishuncrossed.html', 'bigstarkidsmobile@gmail.com']}
+{'com.sushiGames.grannysHouse': ["Granny Mods : granny's house", 'ice+cream+APPS', '100+', 'http://grannymods.org/PrivacyPolicy', 'ellen.thewhite@gmail.com']}
+{'com.gartic.StopotS': ['StopotS - Stop, Adedonha, Adedanha', '8977642676848453827', '10,000+', 'https://stopots.com.br', 'team@gartic.com']}
+{'com.ngocvhbc.deparyph.traiufkusad1084': ['1084 Game RIvhbc IWaryph Trivia', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocdxan.dephgohr.traizqevieu1078': ['1078 Game PGdxan RShgohr Maria Ozava', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngockaqb.depxvuyg.traiouqpsez1087': ['1087 Game JRkaqb DAxvuyg World', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngoceqls.depaxpxw.traidtwvibv1089': ['1089 Game GKeqls NJaxpxw Love', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocnztx.deppjyvx.traivrsgpgj1081': ['1081 Game FFnztx PHpjyvx World', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocyqzg.depcghci.traijdlpebq1080': ['1080 Game ZUyqzg UMcghci Maria Ozava', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocvrxl.depbuxzj.traiolavosb1079': ['1079 Game VMvrxl HYbuxzj Love', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.ngocmpij.depugtnn.traiqjiwkos1099': ['1099 Game KJmpij FTugtnn Trivia', 'Hoang+Minh+Tan+PAXX+NA', '50+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocecwu.depdwxau.traijnvqssm1098': ['1098 Game WMecwu HFdwxau World', 'Hoang+Minh+Tan+PAXX+NA', '50+', None, 'phamthidao292827@gmail.com']}
+{'com.ngocnjch.depykmgo.traixzzrnim1083': ['1083 Game DCnjch FZykmgo Trivia', 'Bui+Ngoc+Dinh+VIETMMO+GROUP', '50+', 'http://buingocdinh417064.vietmmo.net', 'buingocdinh417064@vietmmo.net']}
+{'com.adrian.fotoallobche': ['2 photo 1 word', '9177578083506705328', '500+', 'https://quickappninja.com/game-privacy-policy.html', '100ideiadriantomas@gmail.com']}
+{'com.okwudiliapai.findwordswithfriendsgames': ['Words with Friends Games', 'O.+Apai', '10+', 'https://quickappninja.com/game-privacy-policy.html', 'toyin_apai@yahoo.com']}
+{'com.ideroid.ConnectPoint': ['One Line Connect Square', 'ideroid', '100+', 'https://sites.google.com/view/ideroid/home', 'ideroid.dev@gmail.com']}
+{'com.alexdimaa.findtheword': ['Word Connect!', 'SMBco', '50+', 'http://smbco.net', 'bestgames2k18@gmail.com']}
+{'com.companyname.NerdWord': ['Nerd Word', 'Twintertainment', '1+', 'http://www.twintertainment.com/', 'wade.adams.73@gmail.com']}
+{'com.ngocoays.deprqppy.traitatapan1114': ['1114 Game VOoays CLrqppy Maria Ozava', 'Shop+Hai+Ha+Devlope', '1+', 'http://shophaiha.com', 'shophaiha@gmail.com']}
+{'com.candy.game.zone.wordsearchfree': ['Word Search 2019', 'Candy+Game+Zone', '5+', 'https://candy007gamezone.blogspot.com/2018/12/privacy-policy-of-candy-game-zone.html', 'candygamezone@gmail.com']}
+{'com.ngocgbgs.depuoxhw.traiytmdkfp1034': ['1034 Game KYgbgs BGuoxhw Maria Ozava', 'TO+THI+HOAI+24h', '100+', 'http://viet24h.net', 'viet24h.org@gmail.com']}
+{'com.ngocaoyo.depnckyl.traibpjrihs1056': ['1056 Game GQdupytj PZozeut World', 'Ph%E1%BA%A1m+Th%E1%BB%8B+Th%E1%BB%A7y', '10+', 'http://phamthithuy272966.vietmmo.net', 'phamthithuy272966@gmail.com']}
+{'com.ngocadfv.depcvcos.traiqqfxnhb1053': ['1053 Game NBofxfh MPakta World', 'Ph%E1%BA%A1m+Th%E1%BB%8B+Th%E1%BB%A7y', '10+', 'http://phamthithuy272966.vietmmo.net', 'phamthithuy272966@gmail.com']}
+{'com.ngocrgps.deptimau.traiyuqrlgn1052': ['1052 Game EWsjmqyz EEbcmgsb World', 'Ph%E1%BA%A1m+Th%E1%BB%8B+Th%E1%BB%A7y', '10+', 'http://phamthithuy272966.vietmmo.net', 'phamthithuy272966@gmail.com']}
+{'com.ngoczvqr.depcficq.traiucsrupm1051': ['1051 Game BDhgjkf HBegsrzp World', 'Ph%E1%BA%A1m+Th%E1%BB%8B+Th%E1%BB%A7y', '10+', 'http://phamthithuy272966.vietmmo.net', 'phamthithuy272966@gmail.com']}
+{'com.ngocdykp.depllymg.traibmwaynv1049': ['1049 Game REyzjpp LMiqysjt Maria Ozava', 'Ph%E1%BA%A1m+Th%E1%BB%8B+Th%E1%BB%A7y', '10+', 'http://phamthithuy272966.vietmmo.net', 'phamthithuy272966@gmail.com']}
+{'com.ngocjprw.depoplau.traipqwxgat1050': ['1050 Game WPmidgft CYmfgznn Story', 'Ph%E1%BA%A1m+Th%E1%BB%8B+Th%E1%BB%A7y', '10+', 'http://phamthithuy272966.vietmmo.net', 'phamthithuy272966@gmail.com']}
+{'com.ngocqqqh.depwrdxw.traioekpaqb1003': ['1003 Game VMqqqh AFwrdxw World', 'Hoang+Minh+Tan+PAXX+NA', '1+', None, 'phamthidao292827@gmail.com']}
+{'com.olivera.sopa_letras': ['Sopa de Letras - Solo Biblia', '8582752175205301328', '10+', 'http://www.appsgeyser.com/privacy/', 'oniasolivera@gmail.com']}
+{'com.mohdfauzii.wordpairs': ['GAME : Word Pairs', 'MFK+BestApps', '1+', 'https://quickappninja.com/game-privacy-policy.html', 'mfkbestapps@gmail.com']}
+{'com.sunshinegamestudio.wordssearch.chefgame': ['Smart Word Chef 2019', 'Sunshine+Game+Studios', '10+', None, 'am7865sunshinegamestudios@gmail.com']}
+{'com.wordconnect.wordgame.id': ['Tebak Kata 2019', 'Wordpuzzle+Games', '5,000+', 'https://sites.google.com/site/wordpuzzlegamesprivaypolicy/', 'JumpMenzj@gmail.com']}
+{'com.wCRIMESHOWWORDSEARCH_8655107': ['CRIME SHOW WORD SEARCH', 'RUCKUS', '1+', 'http://www.appsgeyser.com/privacy/app/?locale=en', 'coldcaserg@gmail.com']}
+{'com.prico.omletacuvintelor': ['Omleta Cuvintelor', 'Prico', '50+', 'https://quickappninja.com/game-privacy-policy.html', 'androidgalaxy.qa@gmail.com']}
+{'com.teamo.wordgame': ['Wowords', 'Berkay+%C3%87it', '10+', None, 'berkaycit@gmail.com']}
+{'com.xygamestudio.dailywords': ['Daily Words', 'Michelle.King', '500+', None, 'Michelle.Yu.King@gmail.com']}
+{'com.androneaurelilie.guessfruitandvegetables': ['Guess! Fruit and Vegetables', 'Androne+Aure+Ilie', '10+', 'https://quickappninja.com/terms-and-conditions/', 'euando24@gmail.com']}
+{'air.com.littlebigplay.games.free.wordswing': ['Word Swing', '5001380540690243958', '5+', 'http://www.littlebigplay.com', 'littlebigplay@gmail.com']}
+{'com.catalinpopac.guessthefoodbyemoji': ['Guess The Food By Emoji', 'ZEN+Software', '5+', 'https://quickappninja.com/game-privacy-policy.html', 'cata3796@gmail.com']}
+{'com.catalinpopac.guessthefruitbyemoji': ['Guess The Fruit By Emoji', 'ZEN+Software', '10+', 'https://quickappninja.com/game-privacy-policy.html', 'cata3796@gmail.com']}
+{'com.wordcross.wordpuzzle.classicgame': ['Word Cross: Connect Letters To Make Word', 'Rise+Games+Studio', '5+', 'http://bit.ly/2tDvBNg', 'jamesharrison0303@gmail.com']}
+{'com.eduardjohn.guessthetwitchstreamer': ['Guess the Twitch Streamer', 'Eduard+John', '1+', 'https://quickappninja.com/game-privacy-policy.html', 'edicadilac55@yahoo.com']}
+{'com.robertcsatlos.findwordscity': ['Find Words: City', 'OMG+App', '1+', 'https://quickappninja.com/game-privacy-policy.html', 'infoomgapp@gmail.com']}
+{'com.rapradio.guesstherappertrapper': ['Guess the Rapper/Trapper', 'HomeLess+Studio', '5+', 'https://quickappninja.com/game-privacy-policy.html', 'iamonlyagamer@gmail.com']}
+{'com.drulapp.padashri': ['Padashri', 'Nithin+Kolekar', '5+', 'http://drulapp.org', 'drulapp@gmail.com']}
+{'com.bitmango.go.fourpicsonewordsolvethequiz': ['4 Pics Puzzle: Guess 1 Word', '6249013288401661340', '100,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.playzeit.wordcheese': ['Word Cross - Word Cheese', 'PlayZeit', '1,000,000+', 'https://sites.google.com/view/wordcheeseprivacypolicy', 'support@playzeit.com']}
+{'com.word.game.fun.puzzle.prison.escape.captain': ['Words Story - Addictive Word Game', 'Great+Puzzle+Games', '10,000,000+', 'http://www.wordgameplay.com/privacy.html', 'wordstory@boooea.com']}
+{'com.scopely.wheeloffortune': ['Wheel of Fortune: Free Play', '9028773071151690823', '10,000,000+', 'http://www.scopely.com', 'wofsupport@scopely.com']}
+{'in.crossy.daily_crossword': ['Daily Themed Crossword - A Fun crossword game', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'com.peoplefun.wordstacks': ['Word Stacks', '5908427291778944768', '1,000,000+', 'http://www.peoplefun.com', 'support@peoplefun.com']}
+{'com.peoplefun.wordcross': ['Wordscapes', '5908427291778944768', '10,000,000+', 'https://wordscapes.uservoice.com/', 'wordscapes@peoplefun.com']}
+{'com.wordgame.puzzle.block.crush': ['Word Swipe', 'Wordfun+Games', '1,000,000+', 'https://sites.google.com/site/waprivacypolicy/', 'support@wordswipe.freshdesk.com']}
+{'com.cross.word.search.word.tour.android': ['Word Tour -  World Landscapes & Wonders!', 'Classic+Word+Games', '10,000+', 'http://xiaoqinprivacypolicy.blogspot.tw/2016/12/privacy-policy.html', 'chaoyangxiaoqin@gmail.com']}
+{'com.relaxingbraintraining.wordcup': ['Word Cooking', 'PlaySpot+Games', '100,000+', 'https://www.playspot.io/games-privacy-policy', 'f2p.media.group@gmail.com']}
+{'com.heightwordsapart.game': ['8 Words Apart : 1 picture, 1 letter puzzle', 'Y+A+QU+A+production', '1,000,000+', 'http://8wordsapart.com/privacy', 'pierre.yaqua@gmail.com']}
+{'com.playzeit.wordcheeseuncross': ['Word Cheese - Word Uncross', 'PlayZeit', '50,000+', 'https://sites.google.com/view/uncrossprivacypolicy', 'support@playzeit.com']}
+{'com.freestyle.wordpuzzle': ['Word Spot', 'TerranDroid', '1,000,000+', 'http://www.terrandroid.com', 'support@terrandroid.com']}
+{'in.playsimple.tripcross': ['Crossword Jam', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'com.wordgame.puzzle.board.en': ['Word Cross', 'WePlay+Word+Games', '10,000,000+', 'https://sites.google.com/site/wordcrossprivacypolicy/', 'support@boardgame.freshdesk.com']}
+{'com.theangrykraken.twopictures': ['2 Pictures 1 Word', 'The+Angry+Kraken', '100,000+', 'http://www.theangrykraken.com', 'theangrykraken@gmail.com']}
+{'com.word.journey.crossword': ['Word Journey - New Crossword Puzzle', 'Brain+Training+Games+Dev', '50,000+', 'http://linephysics9999.blogspot.com/2018/06/privacy-policy.html', 'wuji.tian2018@gmail.com']}
+{'com.severex.keywords.crosswordpuzzle': ['Codewords Adventure', 'Severex', '1,000+', 'http://www.europosit.com', 'support@europosit.com']}
+{'best.word.connect.search.free.offline.puzzle.word.games.world': ['Word Find - Word Connect Free Offline Word Games', 'Fantasy+Word+Games', '5,000+', 'http://52.52.138.46/support/fantasyword/wordcross/policy.html', 'taolin1806@gmail.com']}
+{'wixot.word.search': ['Word Search', '7886462319320555758', '10,000+', 'http://www.wixot.com', 'hello@wixot.com']}
+{'com.bitmango.go.wordsearchhiddenwords': ['Word Search: Hidden Words', '6249013288401661340', '1,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.bigstarkids.wordtravel': ['Word City: Word Connect and Crossword Puzzle', 'Live.me+Broadcast', '100,000+', 'https://www.cmcm.com/protocol/site/privacy.html', 'games@liveme.com']}
+{'com.fanatee.cody': ['CodyCross: Crossword Puzzles', 'Fanatee,+Inc.', '10,000,000+', 'http://www.fanatee.com', 'codycross@fanatee.com']}
+{'com.histudiogames.wordtowng': ['Word Town: Search, find & crush in crossword games', '6324003795898474623', '1,000,000+', 'http://www.histudiogames.com', 'wordtown_129_2@histudiosupport.com']}
+{'com.game.puzzle.escape.saving.noah': ['Great Breakout - Funny Word Game', 'Great+Puzzle+Games', '100,000+', 'http://www.savingnoahplay.com/privacy.html', 'great_breakout@boooea.com']}
+{'ship.name.generator.otp.fandom.pairings': ['Fandom Ship Names Generator: Fluff and Fun', 'Simple+Soft+Alliance', '500,000+', 'http://simpleappalliance.blogspot.com/', 'info.catapps@gmail.com']}
+{'com.Dekovir.PixWordsScenes': ['PixWords® Scenes', 'Black+Maple+Games', '500,000+', 'http://dekovir.com', 'support@dekovir.zendesk.com']}
+{'word.cross.game.wordcrossy.free': ['Word Slide - Free Word Games & Crossword Puzzle', 'Epic+Word+Games:+Crossword,+Word+Find,+Word+Puzzle', '100,000+', 'http://www.epicwordgames.com', 'wordslide@outlook.com']}
+{'net.artgamestudio.charadesapp': ['CharadesApp - What am I? (Guessing and Mimics)', 'artGS', '1,000,000+', 'https://ailtontk.github.io/', 'artgs@outlook.com.br']}
+{'word.search.connect.wordstacks.crossy.story.wordscapes.word.games': ['Word Piles - Search & Connect the Stack Word Games', 'Brainit+Games', '1,000+', 'http://fruitcasino.online/support/brainitgames/wordcross/policy.html', 'zhongjunwei365@gmail.com']}
+{'com.randomlogicgames.crossword': ['Crossword Quiz', '8111076891443836168', '1,000,000+', 'http://randomlogicgames.com', 'support@randomlogicgames.com']}
+{'com.funlab.hangman': ['Hangman', 'fun.lab', '500,000+', 'http://forumvs.com/policy_hangman.html', 'funlabapps@gmail.com']}
+{'com.crazy.letter.wordfind': ['Word Connect- Word Games:Word Search Offline Games', 'Connect+Word+Games', '1,000,000+', 'http://play99.cn/support/crazyletter/wordfind/policy.html', 'tsanglouis58@gmail.com']}
+{'com.blacklight.word.alchemy': ['Word Alchemy - Brain Puzzle Search Game', '5109527294243675565', '10,000+', 'http://www.blacklightsw.com/', 'contact@blacklightsw.com']}
+{'ir.iocean.kingofword': ['King of word', 'seven331', '100+', 'http://www.7sharge.com', 'alighamati1990@gmail.com']}
+{'com.pixign.smart.word.search': ['Smart Words - word search, word game', 'WL+Pixign+Games', '10,000+', 'http://pixign.com', 'apps@pixign.com']}
+{'com.asmolgam.fruits': ['Fruit and Vegetables, Nuts & Berries: Picture-Quiz', 'Andrey+Solovyev', '500,000+', 'http://asmolgam.com/games/', 'asmolgam@gmail.com']}
+{'com.BerryBaby.WordGhost': ['Word Ghost : Spooky Word Game', 'BerryBaby', '100+', 'https://www.facebook.com/pages/Teamberrybaby/628363757242144', 'TeamBerryBaby@gmail.com']}
+{'air.com.pinturillo2free.pinturillo2free': ['Pinturillo 2', '6417697764174067965', '5,000,000+', 'https://www.pinturillo2.com', 'more.info@chachiware.com']}
+{'com.curcasergiu.fortniteguesstheskin': ['Fortnite: Guess the Skin', 'Cs+Studio', '100+', 'https://quickappninja.com/game-privacy-policy.html', 'sergiusiatit@gmail.com']}
+{'com.openmygame.games.android.crossword.plants': ['Crossword out of the words', 'OpenMyGame', '100,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'com.novalandheromask.mysteryboxesgames': ['Subway Mask Hero Mystery Chest Boxes', 'Suzha+Labz', '500+', 'https://www.freeprivacypolicy.com/privacy/view/f50294607b1686a52cfa8431212e1769', 'icikamnawki@gmail.com']}
+{'com.liya.crossword': ['CrossWorld : Picture crossword', 'Liya', '1,000+', 'https://liyagames.com/page/terms', 'contact@liyagames.com']}
+{'pt.cosmicode.guessupkids': ['GuessUp Kids - Party Charades', '6692707427001655430', '50+', 'https://guessupapp.com/', 'hello@guessupapp.com']}
+{'com.peoplefun.wordcross': ['Wordscapes', '5908427291778944768', '10,000,000+', 'https://wordscapes.uservoice.com/', 'wordscapes@peoplefun.com']}
+{'com.zynga.words3': ['Words With Friends 2 - Word Game', '6690081412016968981', '10,000,000+', 'http://www.zynga.com', 'android.support@zynga.com']}
+{'com.scopely.wheeloffortune': ['Wheel of Fortune: Free Play', '9028773071151690823', '10,000,000+', 'http://www.scopely.com', 'wofsupport@scopely.com']}
+{'com.fillword.cross.wordmind.en': ['Word Crossy - A crossword game', 'Word+Find', '5,000,000+', 'http://bata.mdc.akamaized.net/PrivacyPolicyOfWordMind.htm', 'Word_Crossy@outlook.com']}
+{'com.peoplefun.wordstacks': ['Word Stacks', '5908427291778944768', '1,000,000+', 'http://www.peoplefun.com', 'support@peoplefun.com']}
+{'com.bitmango.go.wordcookies': ['Word Cookies™', '6249013288401661340', '10,000,000+', 'https://www.facebook.com/wordcookiesofficial', 'help@bitmango.com']}
+{'in.playsimple.wordtrip': ['Word Trip', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'com.peoplefun.wordflowers': ['Wordscapes In Bloom', '5908427291778944768', '1,000,000+', 'http://www.peoplefun.com', 'support@peoplefun.com']}
+{'in.crossy.daily_crossword': ['Daily Themed Crossword - A Fun crossword game', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'com.zynga.wwf2.free': ['Words With Friends – Play Free', '6690081412016968981', '10,000,000+', 'https://zyngasupport.helpshift.com/a/words-with-friends/?l=en', 'android.support@zynga.com']}
+{'com.spotlight.languinis': ['Languinis: Word Game', '5479878731323183535', '1,000,000+', 'http://www.languinis.com', 'support@languinisgame.com']}
+{'com.platinumplayer.word.addict': ['Word Collect - Free Word Games', '4691791004319566419', '1,000,000+', 'https://platinumplayerllc.com/', 'support@platinumplayerllc.com']}
+{'com.crossword.bible.cookies.find.english': ['Word Connect - Word Games Puzzle', 'Word+Connect+Games', '5,000,000+', 'http://joygame.site/support/joygames/wordconnect/policy.html', 'funnyconnectgame@gmail.com']}
+{'com.wordgame.words.connect': ['Word Connect', 'Zentertain', '10,000,000+', 'http://videonews.strikingly.com/#privacy-policy', 'casual.support@zenjoy.net']}
+{'com.fanatee.cody': ['CodyCross: Crossword Puzzles', 'Fanatee,+Inc.', '10,000,000+', 'http://www.fanatee.com', 'codycross@fanatee.com']}
+{'com.zynga.words': ['Words With Friends Classic', '6690081412016968981', '50,000,000+', 'https://zyngasupport.helpshift.com/a/words-with-friends-classic/?l=en', 'android.support@zynga.com']}
+{'com.peoplefun.wordchums': ['Word Chums', '5908427291778944768', '1,000,000+', 'http://www.peoplefun.com', 'support@peoplefun.com']}
+{'in.playsimple.tripcross': ['Crossword Jam', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'com.oprah.game': ['Bold Moves', 'OWN+LLC', '500,000+', 'http://boldmovesgame.com', 'support@boldmoves.zendesk.com']}
+{'com.peoplefun.wordvistas': ['Wordscapes Uncrossed', '5908427291778944768', '500,000+', 'https://wordvistas.uservoice.com/', 'wordvistas@peoplefun.com']}
+{'com.zynga.crosswordswithfriends': ['Crosswords With Friends', '6690081412016968981', '1,000,000+', 'https://zyngasupport.helpshift.com/a/crosswords-with-friends/?l=en', 'android.support@zynga.com']}
+{'com.zynga.boggle': ['Boggle With Friends: Word Game', '6690081412016968981', '1,000,000+', 'https://zyngasupport.helpshift.com/a/boggle-with-friends/?l=en', 'android.support@zynga.com']}
+{'com.donkeysoft.wordwowfree': ['Word Wow - Brain training fun!', 'DonkeySoft+Inc.', '500,000+', 'http://www.donkeysoft.ca', 'support@donkeysoft.ca']}
+{'com.iwin.cursedwords': ['Cursed Words', 'iWin', '50,000+', 'http://www.iwin.com', 'support@iwin.com']}
+{'com.histudiogames.games.wordspace': ['Word Spark - Smart Training Game', '6324003795898474623', '500,000+', 'http://www.histudiogames.com', 'wordspark_92_2@histudiosupport.com']}
+{'air.au.com.minimega.bonza': ['Bonza Word Puzzle', '5413818837993147136', '500,000+', 'https://minimega.zendesk.com/hc/en-us/sections/200580864-Android', 'support.android@minimega.zendesk.com']}
+{'com.smartupinc.games.wordfulhexa': ['Wordful Hexa-Block Word Search', 'SMART+UP+INC', '10,000+', 'http://www.smartupinc.com', 'wordfulhexa_114_2@smartupsupport.com']}
+{'com.omgbrews.LostForWordsGP': ['Lost for Words', 'Ontario+Microbrewed+Games,+Inc.', '50,000+', 'http://omgbrews.com/', 'contact@omgbrews.com']}
+{'com.bigstarkids.wordtravel': ['Word City: Word Connect and Crossword Puzzle', 'Live.me+Broadcast', '100,000+', 'https://www.cmcm.com/protocol/site/privacy.html', 'games@liveme.com']}
+{'com.histudiogames.games.wordshop': ['Word Shop - Brain Puzzle Games', '6324003795898474623', '500,000+', 'http://www.histudiogames.com', 'wordshop_123_2@histudiosupport.com']}
+{'com.etermax.wordcrack.lite': ['Word Crack Free', '4857484411335878422', '5,000,000+', 'http://www.etermax.com', 'support@wordcrack.com']}
+{'com.eggheadgames.quicklogicproblems': ['Quick Logic Puzzles', '8905223606155014113', '100,000+', 'https://eggheadgames.com/quicklogicproblems', 'support@eggheadgames.com']}
+{'air.com.littlebigplay.games.wordgamespro': ['Word Games PRO - 64 in 1', '5001380540690243958', '1,000+', 'http://www.littlebigplay.com', 'littlebigplay@gmail.com']}
+{'com.tangramgames.gourddoll.wordcrush': ['Word Crush', 'TangramGames', '5,000+', 'https://sites.google.com/view/wordcrush/privacy-policy', 'tangramgames@outlook.com']}
+{'com.histudiogames.games.wordcrossy': ['Word Crossy - Crossword Games', '6324003795898474623', '100,000+', 'http://www.histudiogames.com', 'wordcrossy_124_2@histudiosupport.com']}
+{'com.heightwordsapart.game': ['8 Words Apart : 1 picture, 1 letter puzzle', 'Y+A+QU+A+production', '1,000,000+', 'http://8wordsapart.com/privacy', 'pierre.yaqua@gmail.com']}
+{'com.apprope.wordblobs': ['WordBlobs', 'Apprope', '100,000+', 'http://www.apprope.com/', 'info@apprope.com']}
+{'com.microsoft.wordament': ['Microsoft Wordament®', '6720847872553662727', '1,000,000+', 'http://go.microsoft.com/fwlink/?LinkId=321528', 'wordament@microsoft.com']}
+{'com.fanatee.stop': ['Stop - Categories Word Game', 'Fanatee,+Inc.', '10,000,000+', 'http://www.fanatee.com', 'hello@fanatee.com']}
+{'com.word.wordpuzzle.wordcross': ['Word Crossy! - A Crossword Scrabble Puzzle', 'Tap+Sky', '100,000+', 'http://www.tapskygames.com/privacy', 'wc_support@tapskygames.com']}
+{'com.gocrossword.free': ['Word Finder - Word Connect', 'Word+Finder+Games', '1,000,000+', 'http://www.facebook.com/2083734431856601', 'marionettepro@gmaill.com']}
+{'com.hoytinteractivemedia.wordsearchworldtraveler.android': ['Word Search World Traveler', 'Hoyt+Games', '10,000+', 'http://wordsearch.world', 'davidlhoytpuzzles@gmail.com']}
+{'com.apprope.wordwhizzlepics': ['WordWhizzle Pics', 'Apprope', '1,000+', 'http://www.apprope.com/support', 'info@apprope.com']}
+{'com.wixot.wordsearch': ['Word Search', '7886462319320555758', '5,000,000+', 'http://www.wixot.com/wordsearch', 'info@wixot.com']}
+{'com.wb.goog.ellen.psych': ['Psych! Outwit Your Friends', 'Warner+Bros.+International+Enterprises', '1,000,000+', 'http://www.ellentube.com/article/apps-and-games.html', 'psych@ellengames.com']}
+{'com.evilstudios.evilminds': ['Evil Minds: Dirty Charades!', '6896856179995238998', '500,000+', 'http://www.evilminds.party', 'help@evilminds.party']}
+{'com.wordpuzzle.wordgames': ['Word Games(Cross, Connect, Search)', 'Best+Word+Games', '50,000+', 'https://www.facebook.com/Word-Games-CrossConnectScore-366143303910350/', 'wordgames.puzzle@gmail.com']}
+{'com.wixot.wordfarm': ['Word Farm - Anagram Word Scramble', '7886462319320555758', '100,000+', 'http://www.wixot.com/wf-privacy-policy', 'hello@wixot.com']}
+{'com.pocketplay.PW1A': ['Phrase Wheel', 'Pocket+Play+Pty+Ltd', '1,000,000+', 'http://www.pocketplayapps.com', 'support@pocketplay.mail.helpshift.com']}
+{'com.cleverapps.olympics': ['Word Olympics: Online Puzzle', 'Clever+Apps+Pte.+Ltd.', '10,000+', 'https://labsystech.ru/legal/privacy.html', 'help.cleverapps@gmail.com']}
+{'com.omgpop.dstpaid': ['Draw Something', '6690081412016968981', '1,000,000+', 'https://zyngasupport.helpshift.com/a/draw-something/?l=en', 'android.support@zynga.com']}
+{'air.wms.wordify': ['Wordify: Brain Workout', '5257897235498104498', '50,000+', 'https://www.facebook.com/WordifyGame/', 'googleplay@webmediasol.com']}
+{'com.game.puzzle.escape.saving.noah': ['Great Breakout - Funny Word Game', 'Great+Puzzle+Games', '100,000+', 'http://www.savingnoahplay.com/privacy.html', 'great_breakout@boooea.com']}
+{'com.donkeysoft.wordwowseasons': ['Word Wow Seasons - More Worm', 'DonkeySoft+Inc.', '100,000+', 'http://www.donkeysoft.ca', 'support@donkeysoft.ca']}
+{'com.openmygame.games.android.wordsearchsea': ['Word Search: Unscramble words', 'OpenMyGame', '5,000,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'bible.crossword.word.game.puzzles.search': ['Crossword - Daily Word Puzzles', 'iDailybread.org', '10,000+', 'http://www.idailybread.org/bvprivacy.html', 'cs@idailybread.org']}
+{'com.etermax.apalabrados.pro': ['Aworded Crack (Ad free)', '4857484411335878422', '50,000+', 'http://www.apalabrados.com', 'android@apalabrados.com']}
+{'com.noodlecake.typeshift': ['Typeshift', '9078867188205035581', '100,000+', 'http://www.noodlecake.com', 'support+android@noodlecake.com']}
+{'com.blueox.sevenlittlewordsexpress': ['7 Little Words Express: A fun twist on crosswords', 'Blue+Ox+Family+Games,+Inc.', '10,000+', 'http://www.blueoxtech.com', 'support@blueox.email']}
+{'com.wordgames.wordconnect.flat': ['Word Guru', 'Word+Connect+Studio', '100,000+', 'http://videonews.strikingly.com/#privacy-policy', 'lisatsaiwu@gmail.com']}
+{'com.rjs.wordsearchgame': ['Word Search', '8553703844245439198', '5,000,000+', 'http://www.thewordsearchapp.com', 'support@thewordsearchapp.com']}
+{'com.bitmango.go.wordsearchhiddenwords': ['Word Search: Hidden Words', '6249013288401661340', '1,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.openmygame.games.android.wordpizza': ['Word Pizza - Word Games Puzzles', 'OpenMyGame', '500,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'com.blacklight.word.alchemy': ['Word Alchemy - Brain Puzzle Search Game', '5109527294243675565', '10,000+', 'http://www.blacklightsw.com/', 'contact@blacklightsw.com']}
+{'com.scimob.wordacademy': ['Word Academy', 'Scimob', '5,000,000+', 'http://www.thewordacademy.com', 'wordacademy@scimob.com']}
+{'air.com.flaregames.wordon': ['WordOn', 'Huckleberry+Publishing', '1,000,000+', 'https://www.wordonhd.com', 'support@wordonhd.com']}
+{'com.playinfinity.game.wordcafe': ['Word Cafe - A Crossword Puzzle', 'Play+Infinity+Games', '100,000+', 'https://playinfinity.cn/', 'support@playinfinity.cn']}
+{'com.bitfreegames.wordmagic': ['Word Stars - Letter Connect & Puzzle Bubble Game', '7411433083841951061', '50,000+', 'http://www.bitfreegames.com', 'contact@bitfreegames.com']}
+{'com.appholdings.wordranch': ['Word Ranch', 'App+Holdings', '100,000+', 'http://www.appholdings.org/privacypolicy.html', 'feedback@appholdings.org']}
+{'air.com.cupcake.lettersofgold': ['Letters of Gold - Word Search Game With Levels', '6029033932514063966', '500,000+', 'https://www.cupcakese.com', 'log@cupcakese.com']}
+{'com.adrian.morepart3': ["Over 1,000. You're a genius?", '9177578083506705328', '5,000+', 'https://quickappninja.com/game-privacy-policy.html', '100ideiadriantomas@gmail.com']}
+{'athena.studio.wordhome': ['Word Home™ - Cat Puzzle Game', '5812304909436304248', '10,000+', 'http://athena.studio', 'support@athena.studio']}
+{'org.cocos2d.wordfullfun': ['Word Full Fun', 'JHCDYY', '10,000+', 'https://www.tuyoo.com/', '903007151@qq.com']}
+{'com.monsterbrainstudios.crossword': ['Crossword Champ: Fun Word Puzzle Games Play Online', '6058954942472166484', '500,000+', 'http://www.crosswordchamp.com/', 'crosswordchamp@monsterbrainstudios.com']}
+{'com.word.zone.android': ['Word Zone - Free Word Games & Puzzles', '6243585228862702929', '50,000+', 'https://twistedbamboollc.com/', 'support@twistedbamboollc.com']}
+{'com.apprope.wordgame': ['WordWhizzle Themes', 'Apprope', '500,000+', 'http://www.apprope.com', 'info@apprope.com']}
+{'com.games.makewords2': ['Words in Word', 'BGA', '1,000,000+', 'https://ugadooga.github.io/privacy-policy/index.html', 'support@ugadooga.com']}
+{'thinkcube.project23': ['What am I? - Little Riddles', 'ThinkCube+Inc.', '1,000,000+', 'https://www.facebook.com/ThinkCubeGames', 'cc.quinn@hotmail.com']}
+{'air.au.com.minimega.bonzanatgeo': ['Bonza Planet', '5413818837993147136', '100,000+', 'http://bonzapuzzles.com', 'support.android.ng@minimega.zendesk.com']}
+{'com.rlg.guesstheemoji': ['Guess The Emoji', '8111076891443836168', '5,000,000+', 'http://randomlogicgames.com', 'support@randomlogicgames.com']}
+{'com.favorite.game.word': ['Words Survivor', 'Good+Casual+Game', '1,000+', 'https://sites.google.com/view/wordsurvivor', 'housiyu1009@gmail.com']}
+{'com.animocabrands.google.iassociate3': ['iAssociate 3', '7355551958512480791', '5,000+', 'http://www.animocabrands.com', 'support@animocabrands.com']}
+{'com.bible.cookies.crush.friends.puzzle': ['Word Connect : Word Search Games', 'Word+Connect+Games', '100,000+', 'http://joygame.site/support/joygames/wordconnect/policy.html', 'joygamellc@gmail.com']}
+{'com.astraware.crosswords': ['Astraware Crosswords', '7872918715478512763', '50,000+', 'http://www.astraware.com', 'support@astraware.com']}
+{'com.kaixin.wordabc': ['Word ABC  - A word link Game&word connect', '5040992902194996371', '500,000+', 'https://sites.google.com/view/wordabc/', 'wordpuzzlegamestudio@gmail.com']}
+{'inapp.ark': ['For The Culture', 'Ark+Creative+Company', '10,000+', 'http://ArkCreativeCompany.com', 'info@arkcreativecompany.com']}
+{'com.merigotech.fillwords.en': ['Fill-The-Words - word search', '6440209878071865926', '100,000+', 'http://www.lunappstudio.com', 'support@lunappstudio.com']}
+{'agamz.acrostics': ['Acrostics Crossword Puzzles', '8905223606155014113', '10,000+', 'https://eggheadgames.com/acrostics', 'support@eggheadgames.com']}
+{'com.kooapps.plexiwordandroid': ['Plexiword: Fun Word Guessing Games, Brain Thinking', '8438468457954317322', '100,000+', 'http://www.kooapps.com/', 'support@kooapps.com']}
+{'com.word.disco.android': ['Word Disco - Free Word Games', 'Red+Mustache+Apps+LLC', '10,000+', 'https://redmustacheappsllc.com', 'support@redmustacheappsllc.com']}
+{'net.lrstudios.wordfit': ['Fill-In Crosswords', '7426391152695288142', '500,000+', 'http://lr-studios.net/privacy.txt', 'emmanuel@lr-studios.net']}
+{'com.pizzagames.wordcrossy': ['Word Cross - Crossy Words Link', 'TGMedia+Corporation', '1,000+', 'https://d1n87gh8duj50m.cloudfront.net/word_cross_android_policy.html', 'trantruonggiang@gmail.com']}
+{'se.raketspel.wordcollapse': ['Word Collapse', 'Raketspel', '50,000+', 'http://www.raketspel.se', 'feedback@wordcollapse.com']}
+{'com.game.puzzles.words.find': ['Words Story: Escape Alcatraz - Exciting Word Game', 'Great+Puzzle+Games', '100,000+', 'http://www.findwordsplay.com/privacy.html', 'escape-alc@boooea.com']}
+{'com.onehundredpics.onehundredpicswordsearch': ['100 PICS Word Search Puzzles', 'Poptacular', '100,000+', 'http://www.poptacular.com', 'info@poptacular.com']}
+{'com.etermax.apalabrados.lite': ['Aworded Crack', '4857484411335878422', '10,000,000+', 'http://www.apalabrados.com', 'android@apalabrados.com']}
+{'agamz.cryptograms': ['Cryptogram Cryptoquote Puzzle', '8905223606155014113', '10,000+', 'https://eggheadgames.com/cryptograms', 'support@eggheadgames.com']}
+{'com.cleverapps.scramble': ['Kitty Scramble: Word Finding Game', 'Clever+Apps+Pte.+Ltd.', '100,000+', 'http://labsystech.ru/legal/privacy.html', 'help.cleverapps@gmail.com']}
+{'com.appspot.orium_blog.crossword.eng': ['English Crossword puzzle', 'Litera+Games', '100,000+', 'https://crosswords-data.appspot.com/privacy_policy.html', 'litera.games@gmail.com']}
+{'it.megasoft78.fallingword': ['Falling Word - Challenge your brain', 'megasoft78', '5,000+', 'http://techcookies.net/', 'megasoft78@yahoo.it']}
+{'com.sleepingbeastgames.spaceteam': ['Spaceteam', 'Henry+Smith', '1,000,000+', 'http://www.sleepingbeastgames.com', 'androidsupport@sleepingbeastgames.com']}
+{'com.fatchickenstudios.adultcharades': ['Adult Charades!', 'FatChicken+Studios', '10,000+', 'http://www.headsupcharadesapp.com', 'hello@fatchickenstudios.com']}
+{'com.imbalab.quizplanet': ['Quiz Planet', '5799502132495887070', '100,000+', 'http://www.imbalab.com', 'support@imbalab.com']}
+{'tr.com.fugo.wordz2': ['Wordz 2', 'Fugo+Games', '1,000,000+', 'http://www.fugo.mobi', 'info@fugo.com.tr']}
+{'com.word.wordzenen': ['Word Zen : Connect & Build Words', 'Yunbu+Game+Studio', '500,000+', 'http://www.yunbu.me/hk/privacy_policy.html', 'yunbuhk@gmail.com']}
+{'com.wordgame.puzzle.sushi.en': ['Word Sushi', 'WePlay+Word+Games', '100,000+', 'https://sites.google.com/site/privacypolicyofwordsushi/', 'support@wordgame.freshdesk.com']}
+{'com.wordbrain.wordsearch.wordcookies.word.free': ['WordPuzzles', 'KKZAP+Word+Online+Games', '100,000+', 'http://www.kkzap.com', 'kkzapfeedback@hotmail.com']}
+{'com.playflame.escapewithwords': ['Escape With Words', '6879926558019835955', '10,000+', 'http://www.playflame.com', 'business@playflame.com']}
+{'com.flybirdgames.wordjourney': ['Word Cross Journey: Word Link & Word Puzzle Game', 'FlyBird+Casual+Games', '1,000+', 'https://www.flybirdgames.com/', 'support@flybirdgames.com']}
+{'com.wordgame.words.cross': ['Word Blocks', 'Zentertain', '500,000+', 'http://www.zentertain.net', 'casual.support@zenjoy.net']}
+{'com.firecrackersw.snapcheats.wwf': ['Snap Assist', '7515761085860334575', '100,000+', 'http://firecrackersw.com', 'support@firecrackersw.com']}
+{'com.fatchicken007.headsupcharades2': ['Charades!', 'FatChicken+Studios', '5,000,000+', 'http://www.facebook.com/HeadsUpCharades', 'hello@fatchickenstudios.com']}
+{'pt.cosmicode.guessup': ['GuessUp - Word Party Charades with Friends', '6692707427001655430', '1,000,000+', 'https://guessupapp.com/', 'hello@guessupapp.com']}
+{'com.meneg.slovastr': ['600 words of riddles', '8467937417565426110', '1,000+', None, 'meneg0218@gmail.com']}
+{'com.blueboat.justtwopics': ['Just 2 Pics', '6205505168536850943', '1,000,000+', 'http://blueboatgame.com', 'support@blueboatgame.com']}
+{'com.teazel.crossword.full': ['Crossword', 'Teazel+Ltd', '50,000+', 'https://www.teazel.com', 'info@teazel.com']}
+{'com.standalone.Crosswords': ['Crosswords', 'Stand+Alone,+Inc.', '10,000+', 'http://www.standalone.com/android/crosswords/faq', 'info@standalone.com']}
+{'com.wymgame.android': ['Watch Ya Mouth Mouthguard game™', 'Watch+Ya%27+Mouth', '100,000+', 'http://wymgame.com', 'watchyamouthgame@gmail.com']}
+{'com.spacegame.wordconnect2': ['Word Connect 2', 'Zentertain', '50,000+', 'http://www.zentertain.net', 'zentertain.ltd@gmail.com']}
+{'com.mindstormstudios.wordfiends.googleplay': ['Word Fiends  - Friendly WordSearch Puzzle', 'Mindstorm+Studios', '1,000+', 'http://www.mindstormstudios.com', 'publishing@mindstormstudios.com']}
+{'air.wms.word.quest': ['Word Quest', '5257897235498104498', '50,000+', 'http://webmediasol.com/PrivacyPolicy/privacy_policy.html', 'googleplay@webmediasol.com']}
+{'com.nebo.crosswords7': ['132 Photo Crosswords', 'Nebo+Apps', '10,000+', 'http://www.neboapps.com', 'games@neboapps.com']}
+{'air.com.baconbanditgames.spellquest': ["Letter Quest: Grimm's Journey", '7789915722069929959', '50,000+', 'http://www.baconbanditgames.com', 'bugs@baconbanditgames.com']}
+{'com.liya.crossword': ['CrossWorld : Picture crossword', 'Liya', '1,000+', 'https://liyagames.com/page/terms', 'contact@liyagames.com']}
+{'com.crossword.puzzle.games': ['Word Go - Cross Word Puzzle Game', '7922628747056831519', '100,000+', 'https://www.picooapp.com/privacy.html', 'wordgo.team@gmail.com']}
+{'com.apnax.wordsnack': ['Word Snack - Your Picnic with Words', 'APNAX+Games', '1,000,000+', 'https://wordsnack.com', 'support@wordsnack.com']}
+{'com.blueriver.picwords2': ['PicWords 2', 'BlueRiver+Interactive', '1,000,000+', 'https://picwords2.com/', 'support@picwords2.com']}
+{'com.timeplusq.drawnguess': ['Draw N Guess Multiplayer', '7944893141468785505', '1,000,000+', 'http://www.timeplusq.com/', 'support@timeplusq.com']}
+{'com.lydia.wordsgame.word.talent': ['Word Talent - Best Word Connect Game', 'AURORA+STUDIOS', '10,000+', 'https://sites.google.com/view/lydiaa/homepage', 'mabelbairdadelaidelopez@gmail.com']}
+{'com.MadSallyGames.Scroodles': ['Scroodles', 'Mad+Sally+Games', '50,000+', 'http://www.madsallygames.com', 'madsallygames@gmail.com']}
+{'com.pixign.smart.word.search': ['Smart Words - word search, word game', 'WL+Pixign+Games', '10,000+', 'http://pixign.com', 'apps@pixign.com']}
+{'com.brainium.jumbline2': ['Jumbline 2', '9200952197196338626', '10,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'com.bitbash.wordsearchpuzzle': ['Word Search Puzzle World: Word Finder', 'Floc+Media', '10,000+', 'http://appicstudio.com/privacy-policy.html', 'support@flocmedia.com']}
+{'cats.word.connect.chef.puzzle.game': ['Word Cats', '8107712570664929538', '100,000+', 'https://goo.gl/dakRwv', 'fantouyulin101@gmail.com']}
+{'com.sgg.sweets4': ['Word Connection: Puzzle Game', '7444498667970408351', '100,000+', 'http://www.secondgeargames.com', 'support@secondgeargames.com']}
+{'com.lexulous.Lexulous': ['Lexulous Word Game', '8553703844245439198', '500,000+', 'http://www.lexulous.com', 'admin@lexulous.com']}
+{'com.sevens': ['Sevens: Never Not Funny Game', 'Prodigal+Creative', '1,000+', 'http://www.sevensnnf.com', 'hello@prodigalcreative.com']}
+{'com.wixot.wordfarmcrossword': ['Word Farm Crossword', '7886462319320555758', '50,000+', 'http://www.wixot.com', 'hello@wixot.com']}
+{'com.openmygame.games.android.fillwordsoffline': ['Word Search - Mind Fitness App', 'OpenMyGame', '1,000,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'com.jeux.deux2': ["Mom's Word Game", '4783625756997706919', '50,000+', 'http://jeuxdemots.ca/', 'momsjeuxdemots@gmail.com']}
+{'com.sparkgenius.TGGWordGenerator': ["The Game Gal's Word Generator", 'Spark+Genius+LLC', '500+', 'https://www.thegamegal.com', 'paige@thegamegal.com']}
+{'com.etermax.wordcrack.pro': ['Word Crack', '4857484411335878422', '10,000+', 'http://www.etermax.com', 'support@wordcrack.com']}
+{'com.astraware.crosswords.nook': ['Astraware Crosswords for NOOK', '7872918715478512763', '5,000+', 'http://www.astraware.com', 'webmaster@astraware.com']}
+{'com.astraware.krisskross': ['Astraware Kriss Kross', '7872918715478512763', '50,000+', 'http://www.astraware.com', 'support@astraware.com']}
+{'com.poptacular.crossword': ['100 PICS Crosswords Game - Daily Crossword Games', 'Poptacular', '10,000+', 'http://www.poptacular.com', 'info@poptacular.com']}
+{'com.ea.scrabblefree_na': ['SCRABBLE', '6605125519975771237', '5,000,000+', 'http://help.ea.com/en/hasbro/scrabble-na/', 'help@eamobile.com']}
+{'com.iwin.wordu': ['Word U', 'iWin', '10,000+', 'https://www.wordugame.com/', 'support@iwin.com']}
+{'com.rhs.wordhero': ['WordHero', 'SVEN+Studios+Corp', '1,000,000+', 'http://www.sven-studios.com', 'sven.wordhero@gmail.com']}
+{'com.openmygame.games.android.crossword.plants': ['Crossword out of the words', 'OpenMyGame', '100,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'wixot.word.search': ['Word Search', '7886462319320555758', '10,000+', 'http://www.wixot.com', 'hello@wixot.com']}
+{'com.sgg.twopics': ['2 Pics 1 Word: Mix Pics Puzzle', '7444498667970408351', '1,000,000+', 'http://www.secondgeargames.com', 'support@secondgeargames.com']}
+{'com.firecrackersw.wordbreakerfull': ['Word Breaker Full', '7515761085860334575', '10,000+', 'http://firecrackersw.com', 'support@firecrackersw.com']}
+{'jaguargames.wordmasterpro': ['Word Master - Pro', 'Jaguar+Studios', '1,000+', 'http://www.jaguarstds.com', 'jaguarstudios1@gmail.com']}
+{'com.teazel.crossword.cryptic.full': ['Cryptic Crossword', 'Teazel+Ltd', '10,000+', 'https://www.teazel.com', 'info@teazel.com']}
+{'com.fgl.vadim.wordfoundry': ['Word Foundry - Guess the Clues - Vocabulary Game', '5109527294243675565', '5,000+', 'https://www.fgl.com/pp.php', 'fglindieshowcase@flashgamelicense.com']}
+{'com.adveractive.game.just2wordsdroid': ['Just 2 Words', 'Adveractive,+Inc.', '10,000+', 'http://www.just-2-words.com', 'just2words@adveractive.com']}
+{'com.Wiggles3D.QuoteSlide': ['Quote Slide', 'Wiggles+3D', '5,000+', 'http://www.wiggles3d.com', 'peter@wiggles3d.com']}
+{'com.word.tropics.android': ['Word Tropics - Free Word Games and Puzzles', 'Red+Mustache+Apps+LLC', '10,000+', 'https://redmustacheappsllc.com', 'support@redmustacheappsllc.com']}
+{'in.playsimple.guessup_emoji': ['GuessUp : Guess Up Emoji', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'air.com.hfg.A200rooms': ['Escape Room - Word Finder Challenge - 200 levels', 'Hidden+Fun+Games', '1,000+', 'https://www.facebook.com/HiddenFunGames', 'reena.pakri.1992@gmail.com']}
+{'com.sgg.wordcabin': ['Word Cabin', '7444498667970408351', '10,000+', 'http://www.secondgeargames.com', 'support@secondgeargames.com']}
+{'com.almondstudio.wordsearch': ['Word Search - Word games for free', 'almond+studio', '50,000+', 'https://vk.com/page-74568003_53324752', 'almondstudio.games@gmail.com']}
+{'com.jeux.motscroises2': ["Mom's Crossword with Pictures", '4783625756997706919', '50,000+', 'http://jeuxdemots.ca', 'momsjeuxdemots@gmail.com']}
+{'com.dekovir.SliceWords': ['Slice Words', 'Black+Maple+Games', '500,000+', 'http://BlackMapleGames.com', 'support@dekovir.zendesk.com']}
+{'com.nebo.shuffle6': ['680 Photos', 'Nebo+Apps', '50,000+', 'http://www.neboapps.com', 'games@neboapps.com']}
+{'com.word.wordbakery': ['Word Search', 'World+Word+Works', '100,000+', 'http://xiaoqinprivacypolicy.blogspot.tw/2016/12/privacy-policy.html', 'sichuanxiaoqin@gmail.com']}
+{'com.greenrift.wordmixlite': ['Word Mix Lite ™', '5958652594891949341', '1,000,000+', 'http://www.greenriftsoftware.com', 'greenrift@greenriftsoftware.com']}
+{'com.pixplicity.cryptogram': ['Cryptogram', '5469071304608707294', '500,000+', 'https://pixplicity.com', 'paul+cryptogram@pixplicity.com']}
+{'com.sgg.wordrings2': ['Word Rings 2', '7444498667970408351', '100,000+', 'http://www.secondgeargames.com', 'support@secondgeargames.com']}
+{'com.huongthao.wordscookiesa2adroid': ['Words Cookies 2 - Word Link', 'Huong+Thao', '100,000+', None, 'phamthihuongthao99@gmail.com']}
+{'com.words.kingdom.wordsearch': ['Word Search', '7448460448507458941', '500,000+', 'http://www.blacklightsw.com/', 'contact@blacklightsw.com']}
+{'com.purplejamlabs.escapeword': ['Escape the Room - Type the Secret Password', 'Purple+Jam+Labs+LLC', '10,000+', 'http://www.purplejamlabs.com/privacy-policy.html', 'purplejamlabs@gmail.com']}
+{'com.brainfun.word_jumble_connect': ['Word Champ - Word Games, Free Word Connect Game', 'Brainfun+-+Word+Games+%26+Free+Brain+Puzzle+Games', '100,000+', 'http://www.vgminds.com', 'wordfun@vgminds.com']}
+{'com.histudiogames.games.crushletters': ['Crush Letters - Search Word', '6324003795898474623', '100,000+', 'http://www.histudiogames.com/', 'crushletters_5_2@histudiosupport.com']}
+{'com.bonfiremedia.one.letter.one.word': ['One Clue', 'Bonfire+Media,+Inc.', '500,000+', 'http://bonfiremedia.com', 'support@bonfiremedia.com']}
+{'com.blueboat.onecrossword': ['1 Crossword - Free Word Game', '6205505168536850943', '50,000+', 'http://blueboatgame.com', 'support@blueboatgame.com']}
+{'com.huongthao.wordconnectvswordcookiesadroid': ['Word Connect Vs Word Cookies', 'Huong+Thao', '1,000+', None, 'phamthihuongthao99@gmail.com']}
+{'com.quarzo.wordsfind': ['1000 Words', '8933575792593715746', '500,000+', 'http://www.quarzoapps.com/', 'hola@quarzoapps.com']}
+{'com.mtba.fourinone.ee': ['4 pic 1 word', 'MTBA', '100,000+', None, 'mtbaibv@gmail.com']}
+{'air.com.littlebigplay.games.premium.wordsearchunlimited': ['Word Search Unlimited PRO', '5001380540690243958', '1,000+', 'http://www.littlebigplay.com', 'littlebigplay@gmail.com']}
+{'com.nikolastudio.wordgame': ['Word Park Revolution', 'Nikolastudio', '1,000+', 'http://ro9ya-char3iya.blogspot.com/2018/03/privacy-policy-this-app-collects.html', 'abdelhak.nikolashi@gmail.com']}
+{'air.com.littlebigplay.games.premium.wordchess': ['Word Chess PRO', '5001380540690243958', '100+', 'http://www.littlebigplay.com', 'littlebigplay@gmail.com']}
+{'com.wordgame.puzzle.flat.es': ['Charm de Palabras', 'WePlay+Word+Games', '500,000+', 'https://sites.google.com/site/wcprivacypolicy/', 'support@wordgame.freshdesk.com']}
+{'com.leodesol.games.word.search.puzzle.connect': ['Word Search - Connect Letters for free', '8088934845636600471', '100,000+', 'http://maplemedia.io/', 'contact@maplemedia.io']}
+{'com.word.search.cakes.free': ['Word Cakes', 'KKZAP+Word+Online+Games', '100,000+', 'http://www.kkzap.com', 'kkzapteam@hotmail.com']}
+{'air.com.killerbytesgames.guessword': ['GuessWord', 'KillerBytes', '5+', 'http://www.KillerBytesGames.com', 'Support@KillerBytesGames.com']}
+{'air.com.killerbytesgames.blockwords': ['BlockWords', 'KillerBytes', '1+', 'http://www.KillerBytesGames.com', 'Support@KillerBytesGames.com']}
+{'air.com.killerbytesgames.wordflux': ['Word Flux', 'KillerBytes', '1+', 'http://www.KillerBytesGames.com', 'Support@KillerBytesGames.com']}
+{'com.happiiclub.tipoffapp': ['TipOff – Word Guessing Game', 'Happii', '50+', 'http://tipoffgame.com', 'Happii.Club@gmail.com']}
+{'com.merigotech.fillwordsthemes': ['Fill-The-Words: Themes', '6440209878071865926', '1,000,000+', 'http://www.lunappstudio.com', 'support@lunappstudio.com']}
+{'air.com.killerbytesgames.fallword': ['FallWord', 'KillerBytes', '1+', 'http://www.KillerBytesGames.com', 'Support@KillerBytesGames.com']}
+{'com.word.game.fun.puzzle.prison.escape.captain': ['Words Story - Addictive Word Game', 'Great+Puzzle+Games', '10,000,000+', 'http://www.wordgameplay.com/privacy.html', 'wordstory@boooea.com']}
+{'com.peoplefun.wordcross': ['Wordscapes', '5908427291778944768', '10,000,000+', 'https://wordscapes.uservoice.com/', 'wordscapes@peoplefun.com']}
+{'com.peoplefun.wordstacks': ['Word Stacks', '5908427291778944768', '1,000,000+', 'http://www.peoplefun.com', 'support@peoplefun.com']}
+{'com.wordgame.puzzle.block.crush': ['Word Swipe', 'Wordfun+Games', '1,000,000+', 'https://sites.google.com/site/waprivacypolicy/', 'support@wordswipe.freshdesk.com']}
+{'com.bitmango.go.wordcookies': ['Word Cookies™', '6249013288401661340', '10,000,000+', 'https://www.facebook.com/wordcookiesofficial', 'help@bitmango.com']}
+{'com.playzeit.wordcheese': ['Word Cross - Word Cheese', 'PlayZeit', '1,000,000+', 'https://sites.google.com/view/wordcheeseprivacypolicy', 'support@playzeit.com']}
+{'com.zynga.words3': ['Words With Friends 2 - Word Game', '6690081412016968981', '10,000,000+', 'http://www.zynga.com', 'android.support@zynga.com']}
+{'com.scopely.wheeloffortune': ['Wheel of Fortune: Free Play', '9028773071151690823', '10,000,000+', 'http://www.scopely.com', 'wofsupport@scopely.com']}
+{'com.randomlogicgames.wordsearch': ['Infinite Word Search Puzzles', '8111076891443836168', '5,000,000+', 'http://randomlogicgames.com', 'support@randomlogicgames.com']}
+{'com.wordgame.puzzle.board.en': ['Word Cross', 'WePlay+Word+Games', '10,000,000+', 'https://sites.google.com/site/wordcrossprivacypolicy/', 'support@boardgame.freshdesk.com']}
+{'com.escape.room.door.word.prison.puzzle.adventure': ['Escape Room: Mystery Word', 'Worzzle+Team', '10,000,000+', 'http://www.mysterywordplay.com/privacy.html', 'escaperoom@boooea.com']}
+{'com.wordloco.wordchallenge': ['Word Search', 'Wordloco', '10,000,000+', 'http://www.theangrykraken.com/terms.html', 'wordloco.contact@gmail.com']}
+{'com.fanatee.cody': ['CodyCross: Crossword Puzzles', 'Fanatee,+Inc.', '10,000,000+', 'http://www.fanatee.com', 'codycross@fanatee.com']}
+{'com.bitmango.go.fourpicsonewordsolvethequiz': ['4 Pics Puzzle: Guess 1 Word', '6249013288401661340', '100,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.peoplefun.wordflowers': ['Wordscapes In Bloom', '5908427291778944768', '1,000,000+', 'http://www.peoplefun.com', 'support@peoplefun.com']}
+{'in.crossy.daily_crossword': ['Daily Themed Crossword - A Fun crossword game', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'com.playzeit.wordcheeseuncross': ['Word Cheese - Word Uncross', 'PlayZeit', '50,000+', 'https://sites.google.com/view/uncrossprivacypolicy', 'support@playzeit.com']}
+{'com.word.puzzle.game.connect': ['Word Link', 'Worzzle+Games', '50,000,000+', 'http://www.wordlinkplay.com/privacy.html', 'wordlink@boooea.com']}
+{'in.playsimple.wordtrip': ['Word Trip', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'bible.wordgame.words.connect.crossword.cookies': ['Bible Word Puzzle - Free Bible Word Games', 'iDailybread.org', '1,000,000+', 'http://www.idailybread.org/bvprivacy.html', 'game_support@idailybread.org']}
+{'com.crossword.bible.cookies.find.english': ['Word Connect - Word Games Puzzle', 'Word+Connect+Games', '5,000,000+', 'http://joygame.site/support/joygames/wordconnect/policy.html', 'funnyconnectgame@gmail.com']}
+{'in.playsimple.tripcross': ['Crossword Jam', '5614380929317640208', '1,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'com.kooapps.pictowordandroid': ['Pictoword: Fun Word Games, Offline Word Brain Game', '8438468457954317322', '10,000,000+', 'http://www.kooapps.com/', 'support@kooapps.com']}
+{'com.histudiogames.wordtowng': ['Word Town: Search, find & crush in crossword games', '6324003795898474623', '1,000,000+', 'http://www.histudiogames.com', 'wordtown_129_2@histudiosupport.com']}
+{'com.wb.headsup': ['Heads Up!', 'Warner+Bros.+International+Enterprises', '10,000,000+', 'http://www.ellentube.com/article/apps-and-games.html', 'headsup@ellengames.com']}
+{'com.freestyle.wordpuzzle': ['Word Spot', 'TerranDroid', '1,000,000+', 'http://www.terrandroid.com', 'support@terrandroid.com']}
+{'com.ea.scrabblefree_na': ['SCRABBLE', '6605125519975771237', '5,000,000+', 'http://help.ea.com/en/hasbro/scrabble-na/', 'help@eamobile.com']}
+{'com.best.wordsearch.free': ['Word Search', 'KKZAP+Word+Online+Games', '10,000,000+', 'http://www.kkzap.com', 'kkzapfeedback@hotmail.com']}
+{'com.fillword.cross.wordmind.en': ['Word Crossy - A crossword game', 'Word+Find', '5,000,000+', 'http://bata.mdc.akamaized.net/PrivacyPolicyOfWordMind.htm', 'Word_Crossy@outlook.com']}
+{'com.wordgame.words.connect': ['Word Connect', 'Zentertain', '10,000,000+', 'http://videonews.strikingly.com/#privacy-policy', 'casual.support@zenjoy.net']}
+{'com.puzzlegamelab.wordsearchpopg': ['Word Search Pop - Free Fun Find & Link Brain Games', 'My+Puzzle+Game+Lab', '100,000+', 'http://www.puzzlegamelab.com/', 'wordsearchpop_143_2@puzzlegamelab.com']}
+{'word.cross.game.wordcrossy.free': ['Word Slide - Free Word Games & Crossword Puzzle', 'Epic+Word+Games:+Crossword,+Word+Find,+Word+Puzzle', '100,000+', 'http://www.epicwordgames.com', 'wordslide@outlook.com']}
+{'mobi.redstonegames.crossword.en': ['Crossword Puzzle Free', '7896272988751974486', '1,000,000+', 'http://www.redstonegames.mobi', 'helpdesk@redstonegames.mobi']}
+{'se.maginteractive.worddomination': ['Word Domination', '6558349509091194327', '1,000,000+', 'http://www.maginteractive.com', 'worddomination-support@maginteractive.se']}
+{'com.word.journey.crossword': ['Word Journey - New Crossword Puzzle', 'Brain+Training+Games+Dev', '50,000+', 'http://linephysics9999.blogspot.com/2018/06/privacy-policy.html', 'wuji.tian2018@gmail.com']}
+{'com.bitmango.go.wordsearchhiddenwords': ['Word Search: Hidden Words', '6249013288401661340', '1,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.zynga.wwf2.free': ['Words With Friends – Play Free', '6690081412016968981', '10,000,000+', 'https://zyngasupport.helpshift.com/a/words-with-friends/?l=en', 'android.support@zynga.com']}
+{'com.omgpop.dstfree': ['Draw Something Classic', '6690081412016968981', '50,000,000+', 'https://zyngasupport.helpshift.com/a/draw-something/?l=en', 'android.support@zynga.com']}
+{'com.iscoolentertainment.snc': ['Garden of Words - Word game', 'IsCool+Entertainment', '5,000,000+', 'http://www.iscoolentertainment.com/normativa-sulla-privacy/', 'google-playstore@iscool-e.com']}
+{'com.crazy.letter.wordfind': ['Word Connect- Word Games:Word Search Offline Games', 'Connect+Word+Games', '1,000,000+', 'http://play99.cn/support/crazyletter/wordfind/policy.html', 'tsanglouis58@gmail.com']}
+{'com.zynga.words': ['Words With Friends Classic', '6690081412016968981', '50,000,000+', 'https://zyngasupport.helpshift.com/a/words-with-friends-classic/?l=en', 'android.support@zynga.com']}
+{'com.platinumplayer.word.addict': ['Word Collect - Free Word Games', '4691791004319566419', '1,000,000+', 'https://platinumplayerllc.com/', 'support@platinumplayerllc.com']}
+{'com.peoplefun.wordvistas': ['Wordscapes Uncrossed', '5908427291778944768', '500,000+', 'https://wordvistas.uservoice.com/', 'wordvistas@peoplefun.com']}
+{'de.lotum.whatsinthefoto.us': ['4 Pics 1 Word', 'LOTUM+GmbH', '50,000,000+', 'http://www.lotum.de', 'games@lotum.de']}
+{'com.game.puzzle.escape.saving.noah': ['Great Breakout - Funny Word Game', 'Great+Puzzle+Games', '100,000+', 'http://www.savingnoahplay.com/privacy.html', 'great_breakout@boooea.com']}
+{'com.relaxingbraintraining.wordcup': ['Word Cooking', 'PlaySpot+Games', '100,000+', 'https://www.playspot.io/games-privacy-policy', 'f2p.media.group@gmail.com']}
+{'com.cross.word.search.word.tour.android': ['Word Tour -  World Landscapes & Wonders!', 'Classic+Word+Games', '10,000+', 'http://xiaoqinprivacypolicy.blogspot.tw/2016/12/privacy-policy.html', 'chaoyangxiaoqin@gmail.com']}
+{'com.asgardsoft.words': ['Word Search Puzzle, A Free Infinity Crossword Game', '8170592391755333851', '10,000,000+', 'https://www.AsgardSoft.com', 'Service@AsgardSoft.com']}
+{'com.blueboat.justriddles': ['Just Riddles', '6205505168536850943', '1,000,000+', 'http://blueboatgame.com', 'support@blueboatgame.com']}
+{'com.mochibits.wordtoword.google': ['Word to Word: Fun Brain Games, Offline Puzzle Game', '8600652201159507184', '50,000+', 'http://www.mochibits.com', 'support@mochibits.com']}
+{'com.randomlogicgames.upwordsearch': ['UpWord Search', '8111076891443836168', '100,000+', 'http://randomlogicgames.com', 'rlgappdev2015@gmail.com']}
+{'com.melimots.WordSearch': ['Word Search', 'Melimots', '50,000,000+', 'http://www.melimots.com', 'webmaster@melimots.com']}
+{'com.bitmango.go.wordcookiescross': ['WordCookies Cross', '6249013288401661340', '1,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.favorite.game.word': ['Words Survivor', 'Good+Casual+Game', '1,000+', 'https://sites.google.com/view/wordsurvivor', 'housiyu1009@gmail.com']}
+{'com.wordgame.cross.android.en': ['Word Calm', 'Word+Calm', '10,000+', 'https://sites.google.com/view/wordcalm/privacy-policy', 'rtingjiang@gmail.com']}
+{'com.bestword.challenge.plus': ['Word Blitz: Free Word Game & Challenge', 'pistachio+studio', '500,000+', 'http://d2prafqgniatg5.cloudfront.net/hiwordgames/wordbliz_statement.html', 'jiangjiawei301@gmail.com']}
+{'com.chippymediallc.word.nut.android': ['Word Nut: Word Puzzle Games & Crosswords', '7394025895611767371', '100,000+', 'https://chippymediallc.com/', 'support@chippymediallc.com']}
+{'word.search.puzzle': ['Word Search Puzzle', 'Word+Search+Puzzle+Games', '1,000,000+', 'https://s3-us-west-1.amazonaws.com/wordbraingames-support/privacy_policy.html', 'wordpuzzlegamez@gmail.com']}
+{'com.matchasaucellc.word.search.android': ['Word Search Addict - Word Search Puzzle Free', '5345782422249673276', '100,000+', 'http://www.MatchaSauceLLC.com', 'support@MatchaSauceLLC.com']}
+{'com.iscoolentertainment.wl': ['Bouquet of Words - Word game', 'IsCool+Entertainment', '500,000+', 'http://www.iscoolentertainment.com', 'support+bouquetofwords@iscool-e.com']}
+{'com.wb.goog.ellen.psych': ['Psych! Outwit Your Friends', 'Warner+Bros.+International+Enterprises', '1,000,000+', 'http://www.ellentube.com/article/apps-and-games.html', 'psych@ellengames.com']}
+{'com.afksoft.WordShakerAndroidFree': ['Word Shaker Free', 'AFKSoft', '1,000,000+', 'http://www.afksoft.com', 'support@afksoft.com']}
+{'com.fatchicken007.headsupcharades2': ['Charades!', 'FatChicken+Studios', '5,000,000+', 'http://www.facebook.com/HeadsUpCharades', 'hello@fatchickenstudios.com']}
+{'com.generamobile.bubblewords': ['Bubble Word Games: New Word Puzzle Games', '7309208351846755609', '1,000,000+', 'http://www.generamobile.com/', 'bubblewords.cs@gmail.com']}
+{'com.lulo.scrabble.classicwords': ['Classic Words Solo', 'Lulo+Apps', '5,000,000+', 'http://classicwords.net', 'sebas.leclerc@gmail.com']}
+{'com.peoplefun.wordcircle': ['Word Mocha', '5908427291778944768', '100,000+', 'http://www.peoplefun.com', 'support@peoplefun.com']}
+{'free.cross.word.game.scramble.puzzles': ['Wisdom Word - Quote Word Finder', 'Automatic+Call+Recorder+%26+Caller+ID', '50,000+', 'http://www.dailyinnovation.biz/privacy.html', 'cs@idailybread.org']}
+{'com.jdpapps.wordsearch': ['Word Search', '8933575792593715746', '10,000,000+', 'http://www.quarzoapps.com', 'hola@quarzoapps.com']}
+{'com.peoplefun.wordchums': ['Word Chums', '5908427291778944768', '1,000,000+', 'http://www.peoplefun.com', 'support@peoplefun.com']}
+{'com.rlg.guesstheemoji': ['Guess The Emoji', '8111076891443836168', '5,000,000+', 'http://randomlogicgames.com', 'support@randomlogicgames.com']}
+{'wixot.word.search': ['Word Search', '7886462319320555758', '10,000+', 'http://www.wixot.com', 'hello@wixot.com']}
+{'net.lrstudios.wordfit': ['Fill-In Crosswords', '7426391152695288142', '500,000+', 'http://lr-studios.net/privacy.txt', 'emmanuel@lr-studios.net']}
+{'com.zynga.boggle': ['Boggle With Friends: Word Game', '6690081412016968981', '1,000,000+', 'https://zyngasupport.helpshift.com/a/boggle-with-friends/?l=en', 'android.support@zynga.com']}
+{'com.wordgame.puzzle.board.es': ['Palabras Cruz', 'WePlay+Word+Games', '10,000,000+', 'https://sites.google.com/site/wordcrossprivacypolicy/', 'support@boardgame.freshdesk.com']}
+{'com.jlin.funphrases': ['English Guess The Phrase', 'JL+Soft', '1,000,000+', 'http://jlsoft.weebly.com/', 'jl_soft_sg@yahoo.com']}
+{'com.matchasaucellc.word.hound.android': ['Word Bound - Free Word Puzzle Games', '5345782422249673276', '100,000+', 'http://www.MatchaSauceLLC.com', 'support@matchasaucellc.com']}
+{'com.wordscapes.word.cookies.puzzle.wordbrain.collect': ['Word Cross Puzzle: Best Free Offline Word Games', 'Fantasy+Word+Games', '100,000+', 'http://52.52.138.46/support/fantasyword/wordcross/policy.html', 'taolin1806@gmail.com']}
+{'org.cocos2d.wordfullfun': ['Word Full Fun', 'JHCDYY', '10,000+', 'https://www.tuyoo.com/', '903007151@qq.com']}
+{'com.fugo.wow': ['Words of Wonders: Crossword to Connect Vocabulary', 'Fugo+Games', '10,000,000+', 'http://www.fugo.com.tr', 'wow@fugo.com.tr']}
+{'com.e3games.wordsearchspanish': ['Sopa de Letras', 'Aleaf+Games', '1,000,000+', 'http://forumvs.com/policy_wordsearchspanish.html', 'aleafgames@gmail.com']}
+{'com.timeplusq.drawnguess': ['Draw N Guess Multiplayer', '7944893141468785505', '1,000,000+', 'http://www.timeplusq.com/', 'support@timeplusq.com']}
+{'com.iscoolentertainment.vista': ['Word Land - Crosswords', 'IsCool+Entertainment', '100,000+', 'http://www.iscoolentertainment.com', 'support+wordland@iscool-e.com']}
+{'com.tasty.words.android': ['Tasty Words - Free Word Games', '5345782422249673276', '100,000+', 'http://www.MatchaSauceLLC.com', 'support@matchasaucellc.com']}
+{'com.Dekovir.PixWordsScenes': ['PixWords® Scenes', 'Black+Maple+Games', '500,000+', 'http://dekovir.com', 'support@dekovir.zendesk.com']}
+{'com.bruyere.android.wordsearch': ['Word Search', '8931371852227611263', '5,000,000+', 'http://www.lezigame.com', 'contact@lezigame.com']}
+{'com.randomlogicgames.crossword': ['Crossword Quiz', '8111076891443836168', '1,000,000+', 'http://randomlogicgames.com', 'support@randomlogicgames.com']}
+{'com.funlab.hangman': ['Hangman', 'fun.lab', '500,000+', 'http://forumvs.com/policy_hangman.html', 'funlabapps@gmail.com']}
+{'com.spotlight.languinis': ['Languinis: Word Game', '5479878731323183535', '1,000,000+', 'http://www.languinis.com', 'support@languinisgame.com']}
+{'com.sleepingbeastgames.spaceteam': ['Spaceteam', 'Henry+Smith', '1,000,000+', 'http://www.sleepingbeastgames.com', 'androidsupport@sleepingbeastgames.com']}
+{'net.artgamestudio.charadesapp': ['CharadesApp - What am I? (Guessing and Mimics)', 'artGS', '1,000,000+', 'https://ailtontk.github.io/', 'artgs@outlook.com.br']}
+{'de.lotum.whatsinthefoto.es': ['4 Fotos 1 Palabra', 'LOTUM+GmbH', '10,000,000+', 'http://www.lotum.de', 'games@lotum.de']}
+{'com.rjs.wordsearchgame': ['Word Search', '8553703844245439198', '5,000,000+', 'http://www.thewordsearchapp.com', 'support@thewordsearchapp.com']}
+{'spencerstudios.user.hangman': ['HangMan - 2 Player', 'Spencer+Studios', '100,000+', None, 'deanspencer007@gmail.com']}
+{'com.games.makewords2': ['Words in Word', 'BGA', '1,000,000+', 'https://ugadooga.github.io/privacy-policy/index.html', 'support@ugadooga.com']}
+{'com.bitmango.go.wordsfarmcross': ['Word Farm Cross', '6249013288401661340', '500,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'in.playsimple.word_up': ['Word Trek - Word Brain streak - hand made puzzles', '5614380929317640208', '5,000,000+', 'https://playsimple.in', 'support@playsimple.in']}
+{'com.best.word.search.online.multiplayer': ['Word Search Online', 'KKZAP+Word+Online+Games', '500,000+', 'http://www.kkzap.com', 'kkzapteam@hotmail.com']}
+{'com.uk.best.cross.word.game': ['Crossword Puzzle Free', '6350812843384425259', '1,000,000+', 'https://zetlabonrails.azureedge.net/privacypolicy/ExpressMobyte/index.html', 'allwsterfield@gmail.com']}
+{'air.com.pinturillo2free.pinturillo2free': ['Pinturillo 2', '6417697764174067965', '5,000,000+', 'https://www.pinturillo2.com', 'more.info@chachiware.com']}
+{'com.donkeysoft.wordwowbigcity': ['Word Wow Big City - Word game fun', 'DonkeySoft+Inc.', '1,000,000+', 'http://www.donkeysoft.ca', 'support@donkeysoft.ca']}
+{'com.baek.Gatalk3': ['Faketalk - Chatbot', 'baek', '1,000,000+', 'http://14.49.41.226/news/privacy_faketalk_en2.html', 'manbull100@gmail.com']}
+{'com.heightwordsapart.game': ['8 Words Apart : 1 picture, 1 letter puzzle', 'Y+A+QU+A+production', '1,000,000+', 'http://8wordsapart.com/privacy', 'pierre.yaqua@gmail.com']}
+{'com.pixplicity.cryptogram': ['Cryptogram', '5469071304608707294', '500,000+', 'https://pixplicity.com', 'paul+cryptogram@pixplicity.com']}
+{'com.puzzlenation.dpcrosswords': ['Daily POP Crosswords: Free Daily Crossword Puzzle', '7754299051310736648', '100,000+', 'http://www.puzzlenation.com', 'fred@puzzlenation.com']}
+{'com.bigstarkids.wordtravel': ['Word City: Word Connect and Crossword Puzzle', 'Live.me+Broadcast', '100,000+', 'https://www.cmcm.com/protocol/site/privacy.html', 'games@liveme.com']}
+{'com.fanatee.stop': ['Stop - Categories Word Game', 'Fanatee,+Inc.', '10,000,000+', 'http://www.fanatee.com', 'hello@fanatee.com']}
+{'com.hippogame.wordsdom': ['Wordsdom – crossword puzzles and sudoku game', 'The+Great+Hippo', '1,000,000+', 'http://hippo-gaming.com', 'hippogame2018@gmail.com']}
+{'word.brainmaker.puzzle.wordcandy.freeword': ['Word Candy', '5122682326576823713', '100,000+', 'http://www.imbigcat.com', 'support@imbigcat.com']}
+{'com.bitmango.wordscrush': ['Words Crush: Hidden Words!', '6249013288401661340', '5,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.touchfield.wordkuku': ['Word Search', 'touchfield', '100,000+', 'https://rawgit.com/Touchunit/Hello/master/WordSearchPrivacyPolicy.html', 'touchfield@live.com']}
+{'com.firecrackersw.snapcheats.wwf': ['Snap Assist', '7515761085860334575', '100,000+', 'http://firecrackersw.com', 'support@firecrackersw.com']}
+{'com.kooapps.plexiwordandroid': ['Plexiword: Fun Word Guessing Games, Brain Thinking', '8438468457954317322', '100,000+', 'http://www.kooapps.com/', 'support@kooapps.com']}
+{'com.mobirix.hangman': ['Hangman King', '4864673505117639552', '500,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'net.aharm.pressed': ['Pressed For Words', 'Words+and+Maps', '1,000,000+', 'http://aharm.net/PressedForWords/', 'aharmdroid@gmail.com']}
+{'com.donkeysoft.aroundtheworld': ['Word Wow Around the World', 'DonkeySoft+Inc.', '100,000+', 'http://www.donkeysoft.ca', 'supportwwatwdroid@donkeysoft.ca']}
+{'ship.name.generator.otp.fandom.pairings': ['Fandom Ship Names Generator: Fluff and Fun', 'Simple+Soft+Alliance', '500,000+', 'http://simpleappalliance.blogspot.com/', 'info.catapps@gmail.com']}
+{'com.word.fire.android': ['Word Fire - Free Word Games', '6243585228862702929', '100,000+', 'https://twistedbamboollc.com', 'support@twistedbamboollc.com']}
+{'se.maginteractive.rumble.free': ['Ruzzle Free', '6558349509091194327', '10,000,000+', 'http://www.ruzzle-game.com', 'info@ruzzle-game.com']}
+{'com.picsword.word.guessing.games': ['Word Guessing Games', 'puzzle+game+for+free', '1,000,000+', 'https://sites.google.com/view/puzzle-game-privacy-policy', 'eyewind.puzzle@hotmail.com']}
+{'com.wordgame.puzzle.flat.en': ['Word Charm', 'WePlay+Word+Games', '1,000,000+', 'https://sites.google.com/site/wcprivacypolicy/', 'support@wordgame.freshdesk.com']}
+{'com.wixot.wordsearch': ['Word Search', '7886462319320555758', '5,000,000+', 'http://www.wixot.com/wordsearch', 'info@wixot.com']}
+{'com.appspot.orium_blog.crossword.eng': ['English Crossword puzzle', 'Litera+Games', '100,000+', 'https://crosswords-data.appspot.com/privacy_policy.html', 'litera.games@gmail.com']}
+{'com.razzlepuzzles.fillins': ['Fill-Ins · Word Fit Puzzles', 'Razzle+Puzzles', '500,000+', 'https://api.razzlepuzzles.com', 'support@razzlepuzzles.com']}
+{'com.kooapps.wordxbeachandroid': ['Word Beach: Connect Letters, Fun Word Search Games', '8438468457954317322', '500,000+', 'http://www.kooapps.com/', 'support@kooapps.com']}
+{'com.magic.puzzle.word.connect.travel': ['Word City - Word Connect Puzzle Game', 'Magic+Arts', '10,000+', 'http://cdn.appcloudbox.net/magicarts/apps/androidswimming/privacy.html', 'developer@magicarts.mobi']}
+{'com.littleengine.wordpal': ['Word Wars - Word Game', 'LittleEngine+Games', '100,000+', 'http://little-engine.com/', 'littleenginegames@gmail.com']}
+{'com.twominds.HeadsUpCharadas': ['What Am I? – Family Charades (Guess The Word)', '2Minds+Dev', '10,000,000+', 'http://www.2minds.it', 'developer@2minds.it']}
+{'com.wordconnect.puzzle.es': ['Palabras Cerebro', 'Wordpuzzle+Games', '100,000+', 'https://sites.google.com/site/wordpuzzlegamesprivaypolicy/', 'JumpMenzj@gmail.com']}
+{'com.blueboat.justtwopics': ['Just 2 Pics', '6205505168536850943', '1,000,000+', 'http://blueboatgame.com', 'support@blueboatgame.com']}
+{'com.blueoxtech.sevenlittlewords': ['7 Little Words: A fun twist on crossword puzzles', 'Blue+Ox+Family+Games,+Inc.', '1,000,000+', 'http://sevenlittlewords.com', 'support@blueox.email']}
+{'com.apprope.wordwhizzlepop': ['WordWhizzle Pop', 'Apprope', '100,000+', 'http://www.apprope.com', 'info@apprope.com']}
+{'dh3games.namemeaning': ['My Name Meaning', 'DH3+Games', '50,000+', 'https://sites.google.com/view/dh3games-privacypolicy/home', 'dh3gamesinc@gmail.com']}
+{'com.crazy.letter.wordsearch': ['Word Connect - Word Cookies : Word Search', 'Connect+Word+Games', '5,000,000+', 'http://play99.cn/support/crazyletter/wordsearch/policy.html', 'tsanglouis58@gmail.com']}
+{'com.zynga.crosswordswithfriends': ['Crosswords With Friends', '6690081412016968981', '1,000,000+', 'https://zyngasupport.helpshift.com/a/crosswords-with-friends/?l=en', 'android.support@zynga.com']}
+{'com.oprah.game': ['Bold Moves', 'OWN+LLC', '500,000+', 'http://boldmovesgame.com', 'support@boldmoves.zendesk.com']}
+{'com.microsoft.wordament': ['Microsoft Wordament®', '6720847872553662727', '1,000,000+', 'http://go.microsoft.com/fwlink/?LinkId=321528', 'wordament@microsoft.com']}
+{'org.duckdodo.baikoh': ['BAIKOH', 'Mum+Not+Proud', '1,000,000+', 'http://mumnotproud.com/', 'support@playbaikoh.com']}
+{'com.evilstudios.evilminds': ['Evil Minds: Dirty Charades!', '6896856179995238998', '500,000+', 'http://www.evilminds.party', 'help@evilminds.party']}
+{'fred.scrabbledictionary': ['SCRABBLE Word Checker', 'Boondoggle+Labs', '100,000+', 'https://scrabble-word-checker.firebaseapp.com/privacy-policy.html', 'boondogglelabs@gmail.com']}
+{'com.imbalab.quizplanet': ['Quiz Planet', '5799502132495887070', '100,000+', 'http://www.imbalab.com', 'support@imbalab.com']}
+{'com.word.wordcookies': ['Word Cookies - Word Connect : Word Games', 'Puzzle+Word+Games', '100,000+', 'https://business.facebook.com/Word-Guru-230354170835069/?business_id=247787052292520', 'word.puzzle.joyworld@gmail.com']}
+{'se.maginteractive.wordbrain': ['WordBrain', '6558349509091194327', '10,000,000+', 'http://wordbrain.maginteractive.com', 'wordbrain-support@maginteractive.se']}
+{'com.openmygame.games.android.wordsearchsea': ['Word Search: Unscramble words', 'OpenMyGame', '5,000,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'com.theangrykraken.twopictures': ['2 Pictures 1 Word', 'The+Angry+Kraken', '100,000+', 'http://www.theangrykraken.com', 'theangrykraken@gmail.com']}
+{'com.quarzo.crosswords': ['Crosswords - Spanish version (Crucigramas)', '8933575792593715746', '1,000,000+', 'http://www.quarzoapps.com/', 'hola@quarzoapps.com']}
+{'com.wordgames.puzzle.board.bible': ['Bible Word Cross', 'WePlay+Pool+Games', '50,000+', 'https://sites.google.com/site/weplayprivacypolicy/', 'support@bibleword.freshdesk.com']}
+{'com.hbwares.wordfeud.free': ['Wordfeud Free', 'Bertheussen+IT', '10,000,000+', 'http://wordfeud.com/', 'support@wordfeud.com']}
+{'org.cocos2dx.wordsoup': ['Word Sauce: Free Word Connect Puzzle', 'Clever+Apps+Pte.+Ltd.', '1,000,000+', 'https://labsystech.ru/legal/privacy.html', 'help.cleverapps@gmail.com']}
+{'com.cleverapps.magicwords': ['Magic Words: Free Word Spelling Puzzle', 'Clever+Apps+Pte.+Ltd.', '500,000+', 'https://labsystech.ru/legal/privacy.html', 'help.cleverapps@gmail.com']}
+{'com.histonegames.hicrosswordg': ['Hi Crossword - Word Puzzle Game', 'GameDay+Dev+Team', '500,000+', 'http://avid.ly/zh-hans/', 'hicrossword@avid.ly']}
+{'com.moving.crossword.puzzle.games': ['Find Words–Moving Crossword Puzzle', '7922628747056831519', '10,000+', 'https://www.picooapp.com/privacy.html', 'wordgo.team@gmail.com']}
+{'com.webelinx.HouseCleaningHiddenObjectGame.HomeMakeover': ['House Cleaning Hidden Object Game – Home Makeover', 'Webelinx+Hidden+Object+Games', '100,000+', 'http://www.webelinx.com', 'midvaapps@gmail.com']}
+{'com.gocrossword.free': ['Word Finder - Word Connect', 'Word+Finder+Games', '1,000,000+', 'http://www.facebook.com/2083734431856601', 'marionettepro@gmaill.com']}
+{'com.wordgametrivia.fourpic': ['4 Pictures 1 Word', 'Word+Game+Trivia', '1,000,000+', 'http://www.theangrykraken.com/', 'wordgametrivia@gmail.com']}
+{'com.puzzlegame.wordconnect.play.wordscapegame': ['Classic Words -Free  Wordscape Game & Word Connect', 'UmbrellaStudio', '50,000+', 'http://puzzlestudio.ga/', 'khongbietduoc@yahoo.com.vn']}
+{'kr.co.xlsoft.go.wordsearchbible': ['Word Search Bible + christian', 'XLsoft', '50,000+', 'https://www.xlsoft.co.kr', 'contact@xlsoft.co.kr']}
+{'com.iscoolentertainment.wordoxfree': ['Wordox – Free multiplayer word game', 'IsCool+Entertainment', '1,000,000+', 'http://www.iscoolentertainment.com', 'support@wordox.zendesk.com']}
+{'com.almondstudio.wordsearch': ['Word Search - Word games for free', 'almond+studio', '50,000+', 'https://vk.com/page-74568003_53324752', 'almondstudio.games@gmail.com']}
+{'com.fesdroid.logoquiz': ['Logo Quiz Fun Plus', 'logos+quiz+games', '1,000,000+', 'http://fes-games.com/', 'fesgames@gmail.com']}
+{'com.Armada3D.WordsAway': ['Words Away - A Word Puzzle Game', '8923331962410261263', '10,000+', 'https://www.wordsawaygame.com/', 'support@wordsawaygame.com']}
+{'com.donkeysoft.wordwowseasons': ['Word Wow Seasons - More Worm', 'DonkeySoft+Inc.', '100,000+', 'http://www.donkeysoft.ca', 'support@donkeysoft.ca']}
+{'com.Best_Royale_Craft.Block.Builder.Creative.Game': ['Level Craft Pixel World Block Adventures', 'Daan+Inc+%28c%29', '10,000+', None, 'cterang52@gmail.com']}
+{'com.wordgames.wordcross': ['Word Cross: Word Game 2019', 'Age+Of+Brain', '10,000+', 'http://www.noodlecake.com/privacy-policy/', 'wordcross2019@gmail.com']}
+{'com.openmygame.games.kr.client': ['Draw and Guess Online', 'OpenMyGame', '1,000,000+', 'http://www.openmygame.com/', 'support@openmygame.com']}
+{'air.au.com.minimega.bonza': ['Bonza Word Puzzle', '5413818837993147136', '500,000+', 'https://minimega.zendesk.com/hc/en-us/sections/200580864-Android', 'support.android@minimega.zendesk.com']}
+{'com.soodexlabs.wordsearch2': ['The Best Word Search (Free)', 'Kieter+Labs', '100,000+', 'https://www.soodexlabs.com', 'support@soodexlabs.com']}
+{'air.com.intrepica.wordmania': ['LiteracyPlanet Word Mania', 'LiteracyPlanet', '100,000+', 'http://www.wordmania.com', 'support@literacyplanet.com']}
+{'com.shumkar.four_pics_one_word': ['4 pics 1 word - Guess the word!', '6308845291930962166', '10,000+', 'https://docs.google.com/document/d/1LRSlC_aDH-pQ8sKAilGy1XVP9rnJvianAMPGeqbROEQ', 'shumkar.apps@gmail.com']}
+{'com.startcube.biblewordsearch': ['Bible Word Search – Free Word Find Puzzle Fun', 'Agents+of+Tech', '100,000+', 'http://www.agentsoftech.com', 'support@agentsoftech.com']}
+{'com.kidswordgames.CrosswordForKids': ['Crossword For Kids - Word Games For Kids', 'NutBolt+Games', '10,000+', 'https://bhmehta7887.wixsite.com/nutbolt-games/privacy-policy', 'bhmehta7887@gmail.com']}
+{'com.app.city.milPalabras.ingles': ['Learn English Playing', 'The+city+of+the+apps', '50,000+', 'http://www.eluniversodeandroid.com/politica_privacidad/politica_privacidad_learn_english_playing.html', 'thecityoftheapps@gmail.com']}
+{'com.minikara.crossword.android': ['Crossword Daily: Word Puzzle', 'Giant_land', '10,000+', 'http://minikara.com', 'xiliangxu@gmail.com']}
+{'com.retroactive.whoknowsmebest': ['Who Knows Me Best: Ultimate BFF Quiz', 'Retroactive+Studios', '5,000+', 'https://docs.google.com/document/d/1hKI2wPbkiY2PuQRe1IncTMFtq5qL8FUv5Fcf2N1B3T8/edit?usp=sharing', 'retroactivestudiodevs@gmail.com']}
+{'com.funlab.wordsearchall': ['Word Search', 'fun.lab', '100,000+', 'http://forumvs.com/policy_wordsearchall.html', 'funlabapps@gmail.com']}
+{'com.curcasergiu.riverdaleguessthecharacter': ['Riverdale: Guess The Character', 'Cs+Studio', '5,000+', 'https://quickappninja.com/game-privacy-policy.html', 'sergiusiatit@gmail.com']}
+{'dngbilisim.tabooenglish': ['Taboo-Word Game', 'DNG-Bili%C5%9Fim', '10,000+', None, 'gunduzbilisim29@gmail.com']}
+{'com.severex.keywords.crosswordpuzzle': ['Codewords Adventure', 'Severex', '1,000+', 'http://www.europosit.com', 'support@europosit.com']}
+{'com.wordgametrivia.dosimages': ['2 Pictures 1 Word', 'Word+Game+Trivia', '5,000,000+', 'http://www.theangrykraken.com/terms/', 'wordgametrivia@gmail.com']}
+{'com.leodesol.games.word.search.puzzle.connect': ['Word Search - Connect Letters for free', '8088934845636600471', '100,000+', 'http://maplemedia.io/', 'contact@maplemedia.io']}
+{'com.liliesbirds.textingcodequiz': ['TEXTING QUIZ', 'Lilies+Birds+Ltd', '5,000+', 'https://quickappninja.com/game-privacy-policy.html', 'liliesbirdsltd@gmail.com']}
+{'se.onecool.hangman': ['Hangman Classic Free', 'onecool.se', '50,000+', 'http://www.onecool.se', 'info@onecool.se']}
+{'com.delolindo.wordbath': ['Word Bath - Learn to spell!', 'Delolindo+Games', '5,000+', 'http://delolindogames.com', 'info@delolindogames.com']}
+{'com.candywriter.apollo7': ['Letter Soup', '8094408836964062012', '100,000+', 'http://www.candywriter.com', 'support@candywriter.com']}
+{'com.apptornado.word': ['Word Hunt', 'AppTornado+Games', '1,000,000+', 'http://www.swiss-codemonkeys.com/app/word/android-word-hunt-hunt-for-words-in-this-word-search-soup.html', 'scmsoft+word@gmail.com']}
+{'air.com.littlebigplay.games.wordgamespro': ['Word Games PRO - 64 in 1', '5001380540690243958', '1,000+', 'http://www.littlebigplay.com', 'littlebigplay@gmail.com']}
+{'agamz.logic': ['Logic Puzzles - Brain Fun', '8905223606155014113', '10,000+', 'https://eggheadgames.com/logicpuzzles', 'support@eggheadgames.com']}
+{'com.hbwares.wordfeud.full': ['Wordfeud', 'Bertheussen+IT', '100,000+', 'http://wordfeud.com/', 'support@wordfeud.com']}
+{'com.lulo.scrabble.classicwordsplus': ['Classic Words Plus', 'Lulo+Apps', '50,000+', 'http://classicwords.net', 'sebas.leclerc@gmail.com']}
+{'com.fatchickenstudios.adultcharades': ['Adult Charades!', 'FatChicken+Studios', '10,000+', 'http://www.headsupcharadesapp.com', 'hello@fatchickenstudios.com']}
+{'com.blog.deschamps.crosswords.pro': ['CrossWords 10 Pro', 'Mobi4Hobby', '1,000+', 'https://www.facebook.com/Palavras10', 'mobi4hobby.apps@gmail.com']}
+{'com.omgpop.dstpaid': ['Draw Something', '6690081412016968981', '1,000,000+', 'https://zyngasupport.helpshift.com/a/draw-something/?l=en', 'android.support@zynga.com']}
+{'com.sparkgenius.TGGWordGenerator': ["The Game Gal's Word Generator", 'Spark+Genius+LLC', '500+', 'https://www.thegamegal.com', 'paige@thegamegal.com']}
+{'com.teazel.crossword.full': ['Crossword', 'Teazel+Ltd', '50,000+', 'https://www.teazel.com', 'info@teazel.com']}
+{'com.firecrackersw.wordbreakerfull': ['Word Breaker Full', '7515761085860334575', '10,000+', 'http://firecrackersw.com', 'support@firecrackersw.com']}
+{'agamz.acrostics': ['Acrostics Crossword Puzzles', '8905223606155014113', '10,000+', 'https://eggheadgames.com/acrostics', 'support@eggheadgames.com']}
+{'com.brainium.jumbline2': ['Jumbline 2', '9200952197196338626', '10,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'jaguargames.wordmasterpro': ['Word Master - Pro', 'Jaguar+Studios', '1,000+', 'http://www.jaguarstds.com', 'jaguarstudios1@gmail.com']}
+{'se.maginteractive.rumble': ['Ruzzle', '6558349509091194327', '500,000+', 'http://www.ruzzle-game.com', 'info@ruzzle-game.com']}
+{'air.com.littlebigplay.games.premium.thewordies': ['The Wordies PRO', '5001380540690243958', '500+', 'http://www.littlebigplay.com', 'littlebigplay@gmail.com']}
+{'com.teazel.crossword.cryptic.full': ['Cryptic Crossword', 'Teazel+Ltd', '10,000+', 'https://www.teazel.com', 'info@teazel.com']}
+{'com.ortsoftware.crosscrazePro': ['CrossCraze PRO', 'ORT+Software', '5,000+', 'http://www.crosscraze.com', 'ort@ortsoftware.com']}
+{'com.randomsaladgames.wordtwist': ['Word Twist', '7781541777053893917', '1,000+', 'http://randomsaladgames.com', 'support@randomsaladgames.com']}
+{'com.standalone.Crosswords': ['Crosswords', 'Stand+Alone,+Inc.', '10,000+', 'http://www.standalone.com/android/crosswords/faq', 'info@standalone.com']}
+{'com.havos.wordpuzzleplus': ['Word Fit Puzzle +', 'Havos+Ltd', '5,000+', 'http://havos.co.uk', 'developer@havos.co.uk']}
+{'pt.cosmicode.guessupkids': ['GuessUp Kids - Party Charades', '6692707427001655430', '50+', 'https://guessupapp.com/', 'hello@guessupapp.com']}
+{'me.milkbag.sidewords': ['Sidewords', 'Milkbag+Games', '1,000+', 'http://milkbag.me', 'milkbaggames@gmail.com']}
+{'air.SpellingBug2ndGradePhonics': ['Spelling Words for 2nd Grade', '4970148250064615345', '1,000+', 'http://aceedutainmentapps.com', 'admin@aceedutainmentapps.com']}

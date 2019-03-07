@@ -1,17 +1,4 @@
-import play_scraper
-from multiprocessing import Pool
-
-number_of_cores_to_use = 5
-number_of_pages_per_category = 42  # Change as you like, runtime will go up significantly
-
-COLLECTIONS = {
-    'NEW_FREE': 'topselling_new_free',
-    'NEW_PAID': 'topselling_new_paid',
-    'TOP_FREE': 'topselling_free',
-    'TOP_PAID': 'topselling_paid',
-    'TOP_GROSSING': 'topgrossing',
-    'TRENDING': 'movers_shakers',
-}
+# Counts total number of results
 
 CATEGORIES = {
     "ANDROID_WEAR": "ANDROID_WEAR",
@@ -73,40 +60,10 @@ CATEGORIES = {
     "VIDEO_PLAYERS": "VIDEO_PLAYERS",
     "WEATHER": "WEATHER",
 }
+count = 0
+for item in CATEGORIES:
+    f = open('data/' + str(item) + '.txt', 'r').readlines()
+    for item in f:
+        count += 1
 
-
-def list_of_details_of_collection(category):
-    f = open('data/' + category + '.txt', 'w')
-    print('Finding results for ' + category)
-    for collection in COLLECTIONS:
-        for page in range(0, 42):
-            try:
-                scraper = play_scraper.collection(
-                    collection=collection,
-                    category=category,
-                    results=120,
-                    page=page
-                )
-            except:
-                break
-            list_of_ids = []
-            list_of_details = []
-            for item in scraper:
-                list_of_ids.append(item['app_id'])
-
-            for id in list_of_ids:
-                a = play_scraper.details(id)
-                b = {a['app_id']: [a['title'], a['developer_id'], a['installs'], a['developer_url'],
-                                   a['developer_email']]}
-                list_of_details.append(b)
-                try:
-                    f.write(str(b) + '\n')
-                except:
-                    break
-    print(category + ' Done\n')
-
-
-if __name__ == "__main__":
-    p = Pool(number_of_cores_to_use)
-    p.map(list_of_details_of_collection,CATEGORIES)
-
+print(count)

@@ -1,0 +1,1278 @@
+{'com.corecoders.skitracks': ['Ski Tracks', 'Core+Coders+Ltd', '100,000+', 'http://www.corecoders.com', 'skitracks-android@corecoders.zendesk.com']}
+{'com.borisov.strelokpro': ['Strelok Pro', 'Igor+Borisov', '10,000+', 'http://www.borisov.mobi/StrelokPro/android', 'igor@borisov.mobi']}
+{'com.matthewlberg.j23': ['J23 - Jordan Release Dates & Restocks', 'Matt+Berg', '50,000+', 'https://j23app.com', 'j23app@gmail.com']}
+{'com.ballisticx.ballisticxapp': ['Ballistic X', 'Nomad+Innovations,+LLC', '1,000+', 'http://www.ballistic-x.com', 'ballisticxapp@gmail.com']}
+{'de.versus.android.start.full': ['versus tournament', 'Chris.H', '5,000+', 'http://www.facebook.com/versus.tournament.software', 'feedback.versus@googlemail.com']}
+{'com.goldsteintech.android': ['Skydroid - Golf GPS Scorecard', 'Folla+Media,+LLC', '100,000+', 'http://www.skydroid.net', 'contact@skydroid.net']}
+{'com.tenpintoolkit.app': ['Tenpin Toolkit', 'Tenpin+Toolkit', '100+', 'https://www.TenpinToolkit.com', 'support@tenpintoolkit.com']}
+{'com.pinpal.full': ['PinPal', 'Jeff+Stuart', '5,000+', 'http://www.pinpalapp.com', 'pinpalandroid@gmail.com']}
+{'air.com.brianstranger.ctpdigitalplaybook': ['InMotion Softball Playbook', 'InMotion+Playbooks', '100+', 'http://www.InMotionPlaybooks.com', 'Brian@iepre.com']}
+{'com.peterhohsy.mybowlingultra': ['My Bowling Scoreboard Ultra', 'Peter+Ho', '500+', None, 'peterhohsy@gmail.com']}
+{'com.borisov.strelokplus': ['Strelok+', 'Igor+Borisov', '10,000+', 'http://www.borisov.mobi/StrelokPlus', 'igor@borisov.mobi']}
+{'com.appliedballisticsllc.appliedballistics': ['Applied Ballistics', 'Applied+Ballistics', '10,000+', 'http://www.appliedballisticsllc.com', 'support@appliedballisticsllc.com']}
+{'com.iterum.inclinometer': ['Avalanche Inclinometer', 'Iterum,+LLC', '500+', 'http://AvalancheInclinometer.com', 'info@vrigger.com']}
+{'com.carlosunseri.collegelacrosse2014': ['College Lacrosse', 'Carlo+Sunseri,+LLC', '5,000+', 'http://laxvideogame.com', 'carlo@crossestudios.com']}
+{'com.niftybytes.practiscore.comp': ['PractiScore Competitor', 'NiftyBytes', '1,000+', 'http://www.niftybytes.com/', 'support@niftybytes.com']}
+{'net.iddgroup.printcheck2': ['Print Checks', 'IDDGroup,+Inc.', '1,000+', 'http://www.iddgroup.net', 'karl@iddgroup.net']}
+{'com.peterhohsy.mybowlingpro': ['My Bowling Scoreboard Pro', 'Peter+Ho', '1,000+', None, 'peterhohsy@gmail.com']}
+{'com.iterum.wbsa': ['Wasatch Backcountry Skiing Map', 'Iterum,+LLC', '1,000+', 'http://WBSkiing.com/', 'info@vrigger.com']}
+{'air.chalktalkpro.baseballpb': ['InMotion Baseball Playbook', 'InMotion+Playbooks', '100+', 'http://www.chalktalkpro.com', 'Brian@iepre.com']}
+{'com.goodbarber.cheercast': ['CheerCast', 'CheerCast', '1,000+', 'http://cheercastmedia.wix.com/home', 'cheercastmedia@gmail.com']}
+{'com.velocitip.uno': ['UNO', 'Full+Flight+Technology,+LLC', '5,000+', 'http://www.velocitip.com', 'uno@velocitip.com']}
+{'com.tenklakessoftware.swimmetry': ['Swimmetry', '10KLakes,+LLC', '1,000+', 'http://www.10klakessoftware.com', 'john@10klakessoftware.com']}
+{'evets.neg.tbe': ['Premier Bowling Scorekeeper (BDSS!)', 'Steve+Neglia', '1,000+', 'https://sites.google.com/site/premierbowlingscorekeeper/', 'tbefeedback@gmail.com']}
+{'eriegel.skiapp.pro': ['SkiApp PRO - THE Ski Computer', 'eriegel', '5,000+', None, 'eriegel@mnet-online.de']}
+{'com.pinwheelsoftware.OT2Go.q.Spine': ['OT2Go->Spine', 'Pinwheel+Software,+Inc.', '500+', 'http://www.pinwheelsoftware.com', 'support@pinwheelsoftware.com']}
+{'com.appforceus.elknut': ['ElkNut', 'Got+Game+Technologies', '1,000+', 'http://www.gotgametech.com', 'dev@gotgametech.com']}
+{'no.ks3d.bhs': ['Bow Hunt Simulator', 'Kristian+Stens%C3%B8nes', '10,000+', 'http://www.huntingsim.com', 'kristian.stensoenes@gmail.com']}
+{'com.ocrbuddy.ocrbuddy': ['OCR Buddy', 'GingerBlatt,+LLC', '1,000+', 'https://ocrbuddy.com', 'support@ocrbuddy.com']}
+{'com.sports.schedules.mlb.baseball': ['Baseball MLB 2019 Schedule & Scores: PRO Edition', '8691300293040078668', '500+', 'http://www.sportsscheduleapp.com', 'mlb@scoresapp.com']}
+{'com.ppgps.full': ['PPGpS', 'NS31+Software', '5,000+', 'http://www.ppgps.info', 'stephane.nicole31@gmail.com']}
+{'com.singletracks.Singletracks': ['Singletracks Topo: MTB Trails', 'Blue+Spruce+Ventures', '5,000+', 'http://help.singletracks.com/', 'support@singletracks.com']}
+{'com.nonostuffs.aesxpressnewpro.pro': ['AES Xpress Pro (Ad Free)', 'Active+Youth+Network,+LLC', '100+', 'http://www.activeyouthnetwork.com', 'njcavarra@activeyouthnetwork.com']}
+{'com.perfexpert': ['PerfExpert - Car Onboard Dyno', '4700318991024861286', '10,000+', 'http://www.perfexpert-app.com', 'contact@perfexpert-app.com']}
+{'appinventor.ai_trevor_lewis.TrollMaster': ['Troll Master - Trolling Lure Depth Calculator', 'Trevor+D.+Lewis', '10+', None, 'trollingcalculator@gmail.com']}
+{'com.alltensoftware.archerysuccess': ['Archery Success 2019: Archery Score, Plot, Journal', 'AllTen+Software+Pty+Ltd', '100+', 'http://ArcherySuccess.com', 'support@archerysuccess.com']}
+{'com.ionicframework.myapp906603': ['PulpMX', 'swizcore', '1,000+', 'http://www.pulpmx.com', 'swizcore@gmail.com']}
+{'com.twothumbz.gameday_notredame': ['Notre Dame Ringtones Official', '5232135485269293273', '1,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.beastmaker.beastmaker': ['Beastmaker Training App', 'Beastmaker+Ltd', '10,000+', 'http://beastmaker.co.uk', 'team@beastmaker.co.uk']}
+{'com.twothumbz.gameday_floridastate': ['Florida State Ringtones - FSU', '5232135485269293273', '1,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.fishingtimes': ['Fishing Times', 'Subclosure', '10,000+', 'https://www.fishingreminder.com', 'support+android@fishingreminder.com']}
+{'tankt72.simulator3dtrainingpro': ['Metolius hangboard training', 'TankT72', '1,000+', None, 'TankT72@outlook.com']}
+{'com.harrys.laptimertrainer': ["Harry's LapTimer GrandPrix", 'Harald+Schlangmann', '1,000+', 'http://www.gps-laptimer.de', 'Harry@gps-laptimer.de']}
+{'com.roehuntingresources.elkhuntersstrategyapp': ["Elk Hunter's Strategy App", 'Roe+Hunting+Resources', '1,000+', 'http://www.RoeHuntingResources.com', 'contact@roehuntingresources.com']}
+{'com.hole19golf.wear': ['Hole19 Golf GPS for Smartwatch', 'Hole19', '5,000+', 'http://www.hole19golf.com', 'info@hole19golf.com']}
+{'com.hayava.android.basketballPro': ['Basketball Stats Pro', 'Hayava,+Inc', '5,000+', 'http://www.hayava.com', 'info@hayava.com']}
+{'com.dgcoursereview.android': ['Disc Golf Course Review', '8389503675028336367', '5,000+', 'http://www.dgcoursereview.com', 'android-support@dgcoursereview.com']}
+{'com.shotzoom.golfshotgps': ['Golfshot Plus: Golf GPS', '5427737915563914060', '50,000+', 'http://golfshot.com', 'support@golfshot.com']}
+{'com.hachisoft.bbstlive': ['Basketball Stat Tracker Live', '7647240276974528199', '10+', 'http://apps.hachisoft.com', 'support@hachisoft.com']}
+{'com.iowadarts.app': ['Iowa Darts', 'Iowa+Darts', '100+', 'http://www.iowadarts.com', 'icdarts@gmail.com']}
+{'air.com.grahammccabe.startline': ['Starting Line', 'SquishApp', '100+', 'https://www.facebook.com/SquishApp-148556409228847/', 'Support@SquishApp.com']}
+{'t72.beastmakertrainingpro': ['Beastmaker 1000 training PRO', 'TankT72', '1,000+', None, 'tankt72@outlook.com']}
+{'com.twothumbz.gameday_ohiostate': ['Ohio State Ringtones Official', '5232135485269293273', '1,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.waterpoloapp.waterpolostats': ['Water Polo Statistics', 'Spartan220', '5+', 'http://www.waterpoloapp.com', 'markrogers1114@yahoo.com']}
+{'com.rink_tank.freeskate_1_6': ['Freeskate 1-6', 'Rink+Tank+Interactive+LLC', '500+', 'http://www.rink-tank.com', 'm.fitzgerald@me.com']}
+{'com.freecaddiepro': ['Golf GPS APP-FreeCaddie Pro', 'Folla+Media,+LLC', '50,000+', 'http://freecaddie.com', 'support@freecaddie.com']}
+{'com.kravmagaalliance.app': ['Krav Maga Pro', 'Krav+Maga+Alliance,+LLC', '500+', 'http://www.kravmagaalliance.com', 'info@kravmagaalliance.com']}
+{'com.valander.shottimerpro': ['Shot timer PRO IPSC IDPA USPSA', 'Vstd', '500+', 'http://forum.guns.ru/forummessage/78/1988664-0.html', 'lehaap1979@gmail.com']}
+{'com.wfits.gc': ['Gymnast Companion', 'WorryFree+IT+Solutions', '100+', 'http://worryfreeitsolutions.com/gc/android/', 'gcsupport@worryfreeitsolutions.com']}
+{'com.rocsel.pass': ['Pass & Shoot', 'Dr.H', '1+', 'http://rocsel.com/', 'info@rocsel.com']}
+{'trolling.leadcore.depth': ['Lead Core Line Precision Trolling Depth Calculator', 'Gone+Fishing++%3E%3C%28%28%28%C2%BA%3E', '500+', 'http://www.webeggheads.com', 'markrmarks@comcast.net']}
+{'com.rink_tank.adult_1_6': ['Adult 1-6', 'Rink+Tank+Interactive+LLC', '100+', 'http://www.rink-tank.com', 'm.fitzgerald@me.com']}
+{'com.twothumbz.gameday_texas': ['Texas Longhorns Official Tones', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.twothumbz.gameday_usc': ['USC TROJANS - OFFICIAL TONES', '5232135485269293273', '100+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.hayava.android.lacrosse': ['Lacrosse Stats', 'Hayava,+Inc', '100+', 'http://www.hayava.com', 'info@hayava.com']}
+{'com.twothumbz.gameday_alabama': ['Alabama Ringtones - Official', '5232135485269293273', '1,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'de.doegel.trackingdog': ['Tracking-Dog', 'D%C3%B6gel+GmbH', '5,000+', 'http://www.doegel.de/en/home/', 'service@working-dog.com']}
+{'com.rollerderbytestomatic.ms': ['Minimum Skills - Roller Derby', 'M14+Industries', '1,000+', 'http://rollerderbytestomatic.com/forum/minimum-skills', 'Wardrox+playdev@gmail.com']}
+{'com.dayowl.easyculling': ['Easy Culling', 'Day+Owl+LLC', '100+', 'http://easyculling.com', 'contact@easyculling.com']}
+{'com.flintcreekapps.tumbletally': ['TumbleTally Gymnastics Tracker', 'Flint+Creek+Apps', '1,000+', 'http://www.flintcreekapps.com', 'info@flintcreekapps.com']}
+{'com.precisionrifleforums.reloadersinventory': ['Reloading Inventory', 'PRF,+LLC', '100+', 'http://precisionrifleforums.com', 'admin@PrecisionRifleForums.com']}
+{'com.quantrity.ant2net_pro': ['Garmin ANT+ Watch Uploader PRO', 'Quantrity', '5,000+', 'http://dev.quantrity.com', 'quantrity@gmail.com']}
+{'com.rink_tank.basic_1_8': ['Basic 1-6', 'Rink+Tank+Interactive+LLC', '500+', 'http://www.rink-tank.com', 'm.fitzgerald@me.com']}
+{'adboco.diveplanner2.pro': ['Dive Planner 2', 'Adri%C3%A1n+Bouza+Correa', '500+', 'https://plus.google.com/u/0/+Adri%C3%A1nBouzaCorrea/posts', 'adboco@telefonica.net']}
+{'mk.forward.recreationaldiveplanner': ['Dive Plan', 'AXIS', '500+', 'http://www.scubadiveplanner.com', 'info@scubadiveplanner.com']}
+{'com.DragTimes': ['DragTimes.com Density Altitude', 'DragTimes', '1,000+', 'http://www.dragtimes.com/', 'info@dragtimes.com']}
+{'com.indiceplus.mobile_golf_tempo': ['Mobile Golf Tempo Training Aid', 'INDICE%2B+SA', '500+', 'http://www.mobile-golf-tempo.com', 'info@mobile-golf-tempo.com']}
+{'com.forslabs.boxingappSupreme': ['Precision Boxing Coach Supreme', 'Precision+Striking', '1,000+', 'http://www.precisionstriking.ca', 'precisionstriking@yahoo.com']}
+{'com.return7.tourtempo': ['Tour Tempo Golf - Total Game', 'Tour+Tempo', '5,000+', 'http://www.tourtempo.com', 'android@tourtempo.com']}
+{'com.ryzenrise.walkupsongs': ['Ballpark Walkup Songs DJ', 'ryzenrise', '500+', 'http://www.wisharcbuilder.com', 'ryzengchang@gmail.com']}
+{'com.guidepace': ['GuidePace', 'Applied+Alpinism', '100+', 'http://guidepace.net', 'highdawnalpinism@gmail.com']}
+{'com.garysweet.archerstoolkit': ["Archer's Toolkit - Scoring, Sight Marks & more", 'Gary+Sweet', '50+', 'http://www.archerstoolkit.com', 'support@archerstoolkit.com']}
+{'appinventor.ai_mackan.Straight_Shooter': ['ScopeApp - Rifle scope sight in MOA/MIL calculator', 'OrcoSoft', '10+', 'https://www.scoperuler.com', 'mackan@gmail.com']}
+{'com.iskiandride.app': ['I Ski and Ride - Visual Learn to Ski and Snowboard', 'Susan+Chase+Motzkin', '50+', 'http://iskiandride.com/', 'info@iskiandride.com']}
+{'com.globalmediadesign.WarwickSchillerHorseTraining': ['Warwick Schiller', 'Warwick+Schiller+Performance+Horsemanship', '500+', 'http://www.warwickschiller.com', 'warwick@warwickschiller.com']}
+{'com.RightSpot.RightSpotTrainer': ['Kurt Thune Training', 'RightSpot+Ltd', '500+', 'http://www.rightspot.fi', 'rightspot@rightspot.fi']}
+{'com.technosoft.Knot_List': ['Pro Knot Fishing + Rope Knots', 'John+Sherry', '5,000+', 'http://www.proknot.com', 'info@proknot.com']}
+{'com.tankt72.metoliusprojecttrainingpro': ['Project Hangboard Training PRO', 'TankT72', '100+', None, 'TankT72@outlook.com']}
+{'com.i5ve.skiptraqscorekeeper': ['SkipTraq Scorekeeper', 'i5ve,+LLC', '50+', 'http://www.skiptraq.com', 'skiptraq@i5ve.com']}
+{'cubulargames.archerytrainer': ['Target Tracker - NASP Edition', 'TDS200', '100+', 'http://thetargettracker.com/', 'tristan@thetargettracker.com']}
+{'com.rink_tank.hockey_1_4': ['Hockey 1-4', 'Rink+Tank+Interactive+LLC', '50+', 'http://www.rink-tank.com', 'm.fitzgerald@me.com']}
+{'me.pushapp.sheiko': ['Sheiko Powerlifting Training', 'Pushapp+srl', '5,000+', 'http://pushapp.me', 'luigi.papino@gmail.com']}
+{'air.totalpool.americanrotation.Scoreboard': ['American Rotation Scoreboard', 'Michas,+Inc.', '100+', 'http://www.totalpool.info/?p=arscoreboard', 'support@totalpool.info']}
+{'com.isenet.ktmjetting': ['Jetting For KTM dirt bike', 'ISEnet', '1,000+', 'http://www.isenet.es/app/ktm-jetting/', 'android@isenet.es']}
+{'com.flightscope.x2': ['FS | VX', 'FlightScope', '500+', 'http://www.flightscope.com', 'developers@edh.co.za']}
+{'com.hachisoft.stattracker': ['Basketball Stat Tracker', '7647240276974528199', '5,000+', 'http://apps.hachisoft.com', 'support@hachisoft.com']}
+{'com.sb.racingtree.android': ['Drag Racing Tree Simulator', 'Shawn+Brown', '1,000+', None, 's.brown.droiddev@gmail.com']}
+{'com.refactormedia.volleyballrotations': ['Volleyball Rotations', 'REFACTOR+MEDIA+INC.', '10+', 'https://refactormedia.com', 'lwaterman@refactormedia.com']}
+{'com.AtslanPro.Shootersapps': ['Atslan Pro', 'ShootersApps', '10+', 'http://atslan.orgfree.com/privacy_policy_atslanpro.html', 'shootersapps@gmail.com']}
+{'com.boatingtripplanner.TidalCurrentsPlusGPSLocation': ['Tidal Currents + GPS Location', '8481738770013492665', '100+', 'http://www.boatingtripplanner.com/', 'SupportAndroid@BoatingTripPlanner.com']}
+{'net.clipboardapps.billiarddrills': ['Pool and Billiard Drills', 'Clipboard+Apps', '100+', 'http://www.clipboardapps.net/', 'ClipboardApps@aol.com']}
+{'net.clipboardapps.lacrossedrills': ['Lacrosse Coaching Drills', 'Clipboard+Apps', '100+', 'http://www.clipboardapps.net/', 'ClipboardApps@aol.com']}
+{'ncaa.logolwp_georgia': ['Georgia Bulldogs Live WPs', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.supcosoftware.pitchingcounterpro': ['Pitching Counter / Stats Tracker Pro', 'Supco+Software+Solutions+LLC', '10+', 'https://sites.google.com/view/pitchingcounterstatstracker', 'supcosoftwaresolutions@gmail.com']}
+{'com.twothumbz.gameday_auburn': ['Auburn Tigers Fight Songs', '5232135485269293273', '100+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.theappdoor.ifish.ohio': ['iFish Ohio', 'The+App+Door', '100+', 'http://www.TheAppDoor.com', 'randy@TheAppDoor.com']}
+{'ncaa.logolwp_southcarolina': ['South Carolina Live Wallpaper', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.low_key_software.full.my_lane_play': ['My Lane Play', 'Low+Key+Software', '1,000+', 'http://sites.google.com/site/lowkeysoftware/home', 'lowkeysoftware@gmail.com']}
+{'com.app.blktop': ['BLK TOP', 'GameSho', '1+', 'https://appcdn.media/privacy/?app=BLKTOP', 'omoanatsea@gmail.com']}
+{'com.appsolutegroup.wrestling': ['Freestyle Wrestling movement library', 'Appsolute+LLC', '1+', 'http://appsolutegroup.com', 'lev@appsolutegroup.com']}
+{'com.accuracysoftware.highpowerwindlab_android': ['High Power Wind Lab', 'Accuracy+Software,+LTD', '10+', 'https://accuracysoftware.com/high-power-wind-lab/', 'support@accuracysoftware.com']}
+{'com.htftfixedmatches100badovip': ['HT/FT Fixed Matches 100% VIP', '5052039695613690215', '50+', 'http://badofixed.com', 'badofixed@gmail.com']}
+{'com.lionbets': ['Lion Bet VIP Half Time/Full Time Tips', 'Artan+Mobile', '5+', 'http://maddelist.com', 'artanmobileinc@gmail.com']}
+{'com.emountainworks.android.crosscountryskimontana': ['Cross Country Ski Montana', '8233080612482598419', '10+', 'http://www.emountainworks.com', 'feedback@emountainworks.com']}
+{'com.sports.schedules.womens.ncaaw.basketball.college': ["Women's College Basketball Live Scores PRO Edition", '8691300293040078668', '5+', 'http://www.scoresapp.com', 'collegebasketball@scoresapp.com']}
+{'com.hiba.supertipsbetpremium': ['Super Tips Bet Premium VIP', 'SuperTips+Arena', '50+', 'http://bet.hibatest.com/privacy-super-tips-bet.html', 'supertipsbet@gmail.com']}
+{'app.bowlr': ['Bowlr', 'Jon+Terry', '10+', 'https://bowlr.app', 'support@bowlr.app']}
+{'com.fifalab.fifaskills': ['Skill Moves in Fifa 19', 'Manoj+Shrestha', '5,000+', None, 'frenmanoj@gmail.com']}
+{'appinventor.ai_anon15776333261314.new_GFFS2': ['Get Fit 4 Soccer (Offline!)', 'Get+Fit+4+Soccer', '10+', None, 'getfitforsoccer@yahoo.com']}
+{'com.betofcity.htft': ['Bet of City HT-FT Vip', 'Bet+of+City+Betting+Tips', '100+', 'http://www.sercankaradeniz.com/ser.html', 'betofcity@gmail.com']}
+{'com.alphabet.elite': ['Alpha Bet Elite Premium Tips', '5790948763180844364', '100+', 'https://alphamobilebet.com', 'info@alphamobilebet.com']}
+{'com.Dodson.FastTracker': ['The Fast Tracker', 'Jesse+Dodson', '50+', 'http://facebook.com/thefasttracker', 'NecessityApps@gmail.com']}
+{'com.magicaltips.premiumbettingtips': ['Magical Premium Betting Tips', '5484535238210864490', '10+', 'https://www.magical-tips.com', 'support@magical-tips.com']}
+{'com.epoch.MAGCOP': ['MAGCOP Elements', 'Epoch+Software', '50+', 'http://epoch.software/', 'sadelbrid@gmail.com']}
+{'com.t2techgroup.smartbettingpremium': ['Betting Tips PREMIUM', 'T2+Mobile+Tech', '100+', 'http://t2mobiletech.com', 't2mobiletech@gmail.com']}
+{'net.themopbucket2.myapp': ['The Mop Bucket 2 Individual Wrestling Stats', '7085641910869964096', '5+', 'http://themopbucket.net', 'jmccarty@themopbucket.net']}
+{'ontarget.app1000': ['On Target 1000', 'Matthew+Harkin', '10+', None, 'matthewharkin@aol.co.uk']}
+{'com.vip.expert.betting.tips': ['Vip Betting Tips', 'Best+Tips+Control', '50+', 'https://www.freeprivacypolicy.com/privacy/view/de4a9b29c05e449838a4a8e6f0b79d86', 'besttipscontrol@gmail.com']}
+{'com.Lougheed.GoalHornApp': ['Goal Horn App', 'Carson+Lougheed', '10+', None, 'clougheed@live.co.uk']}
+{'com.mjh.fishfinderfishingactivitysolunarforecast': ['Fish Finder Solunar Forecast - Best Fishing Times', 'Wild+Outdoors', '100+', 'http://fishfindersolunarforecast.com', 'fishfindersolunarforecast@gmail.com']}
+{'fred.wmwatch.usaviatorwatch2': ['Aviator Watch Face for US Pilots, QNH', 'Jan+Benes', '10+', 'http://www.europm.com', 'jbrepo@gmail.com']}
+{'fred.wmwatch.aviatorwatch2': ['Aviator Watch Face for Pilots, QNH', 'Jan+Benes', '50+', 'http://www.europm.com', 'jbrepo@gmail.com']}
+{'nz.hwem.redstagcaller': ['The Graf Boys Red Stag Caller', 'Craig+Wearne', '100+', None, 'c.wearne@zog.co.nz']}
+{'com.guidehunting.coyoterange': ['Coyote Hunting Range Finder', 'GuideHunting+L.L.C.', '10+', 'http://www.decoypro.com', 'scott@decoypro.com']}
+{'com.it_jpn.android.fishsize.pro': ['Fish measurement', 'ITJapan', '100+', None, 'itjapan.android@gmail.com']}
+{'com.dartfish.android.DartfishExpress': ['Dartfish Express', 'Dartfish+Ltd', '1,000+', 'http://www.dartfish.com', 'support@dartfish.com']}
+{'com.grapplearts.bjjformula2': ['BJJ Guard Game Formula', 'Grapplearts+Enterprises+Inc', '1,000+', 'http://www.grapplearts.com', 'kesting@grapplearts.com']}
+{'com.naterop.freedivepro': ['Freedive Pro', 'Luca+Naterop', '100+', 'http://lucnaterop.github.io/freedive/', 'pueggel441@gmail.com']}
+{'com.decoypro.elkcallsbluetooth': ['Elk Calls -BLUETOOTH -No Ads', 'GuideHunting+L.L.C.', '10+', 'http://www.decoypro.com', 'scott@decoypro.com']}
+{'com.makes.f.tom.DartBeePro': ['DartBee - Darts Scoreboard PRO', 'Tom%27s+Software+Factory', '1,000+', None, 'TomsApplications@gmail.com']}
+{'com.mayanapps.equitrack': ['EquiTrack  - GPS Horse Trainer', 'Mayan+Apps+LLC', '500+', 'http://www.myequitrack.com', 'support@myequitrack.com']}
+{'com.Merge.ZenobiaWreckDiveSimulation': ['Scuba Dive Simulator: Zenobia', 'Kalia+Aristidou', '100+', None, 'karisteidou@gmail.com']}
+{'com.sports.schedules.ncaa.football.college': ['FBS College Football Schedule 2018: Pro Edition', '8691300293040078668', '500+', 'http://www.sportsscheduleapp.com', 'collegefootball@scoresapp.com']}
+{'com.ssafitness.absworkoutexercises': ['Abs Workout Exercises', 'ssafitness', '100+', 'http://ssafitness.com', 'admin@ssafitness.com']}
+{'com.rink_tank.snowplow_1_3': ['Snowplow 1-3', 'Rink+Tank+Interactive+LLC', '50+', 'http://www.rink-tank.com', 'm.fitzgerald@me.com']}
+{'com.tatechnique': ['Tennis Australia Technique', 'Tennis+Australia', '1,000+', 'http://www.tennis.com.au', 'australia.tennis@gmail.com']}
+{'com.mantapix.android.theroadiebikefit': ['The Roadie Bike Fit', 'Mantapix+Ltd', '5,000+', 'https://sites.google.com/site/roadiebikefitprivacypolicy/', 'android.dev@mantapix.com']}
+{'com.peterhohsy.archerypro': ['Archery Score Keeper Pro', 'Peter+Ho', '500+', None, 'peterhohsy@gmail.com']}
+{'de.swenggco.peakperformanceskating': ['Peak Performance Skating', 'Asad+Mecci', '100+', 'http://www.peakperformanceskating.com', 'asad@peakperformanceskating.com']}
+{'com.theappdoor.ifish.idaho': ['iFish Idaho', 'The+App+Door', '50+', 'http://www.TheAppDoor.com', 'randy@TheAppDoor.com']}
+{'com.pgill.football.manager': ['Soccer Team Tracker', 'Padraig+Gill', '100+', 'https://sites.google.com/site/footballmanagerstats/', 'padraigg100@gmail.com']}
+{'com.Norris.FishIDKey.US': ['Fish ID Key - U.S. Freshwater', 'Joshua+Reams+%26+Don+Norris', '100+', 'http://fishidkey.com', 'donaldnorris@charter.net']}
+{'com.gdr.derbylaptimer': ['Roller Derby Lap Timer', 'GDR', '100+', None, 'greatscott121@gmail.com']}
+{'com.Nouveda.sailtrim.upwind.one': ['sailtrim upwind one', 'Axel+Ulrich', '500+', 'http://www.sailapp.com', 'axel.ulrich@nouveda.com']}
+{'com.o_taiji.digitimer2': ['Scoreboard All', '7+peace', '1,000+', 'http://sc.oreboard.com/', 'r200502081@gmail.com']}
+{'com.appcom.iquad': ['iQuad', 'APPCOM+CANADA', '10,000+', 'http://www.iquadfqcq.ca', 'aide.iquad@gmail.com']}
+{'ncaa.logolwp_wisconsin': ['Wisconsin Badgers Live WPs', '5232135485269293273', '50+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'ncaa.logolwp_lsu': ['LSU Tigers Live Wallpapers', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'ncaa.logolwp_michiganstate': ['Michigan State Live Wallpapers', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'ncaa.logolwp_kentucky': ['Kentucky Wildcats Live WPs', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'ncaa.logolwp_auburn': ['Auburn Tigers Live WP Official', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.barakkuda.aikidoweapon.all': ['Aikido Weapons - ALL', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.louisvillecountryclub': ['Louisville Country Club', 'Talgrace+Marketing+%26+Media', '10+', 'http://www.talgrace.com', 'info@talgrace.com']}
+{'com.Richta.Odometer': ['Richta Rally Odometer', 'Rich+Bireta', '100+', 'http://www.richtarally.com', 'rbireta@gmail.com']}
+{'ncaa.logolwp_florida': ['Florida Gators Live WPs', '5232135485269293273', '1,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.appreviews4u.pooltips1': ['Pool Tips 1', 'Kevin+Baker', '100+', 'http://pooltips4u.com', 'averycheery@outlook.com']}
+{'xplat.reloadballistics': ['Reloading Ballistics', 'xPlat+Inc.', '1,000+', 'http://www.xplat.net', 'support@xplat.net']}
+{'com.hayava.android.soccer': ['Soccer Stats w/ Timer', 'Hayava,+Inc', '1,000+', 'http://www.hayava.com', 'info@hayava.com']}
+{'com.hayava.android.volleyballStats': ['Volleyball Stats', 'Hayava,+Inc', '1,000+', 'http://www.hayava.com', 'info@hayava.com']}
+{'com.thebentwoodss.GymnasticMeets': ['At The Meet', 'Brian+Bentwood', '100+', 'https://www.thebentwoods.com/Support/GymnasticMeets/support.html', 'thebentwoods-brian@att.net']}
+{'com.bruno.myapps.strikeoutstats': ['Strike Out Stats', 'BrunoTECH', '5,000+', 'http://brunotech.org/apps/privacy_policy.html', 'strikeoutstats@gmail.com']}
+{'com.fletchedlead.kuronikuru': ['Kuru Archery', 'FLETCHED+LEAD+Ltd.', '10+', 'https://kuruarchery.com', 'kuru@fletchedlead.com']}
+{'com.dopa.android.blevo': ['BLEvo - Transforms your Levo into a Smart Levo', 'Paolo+Dozio', '5,000+', 'https://blevo.forumfree.it/', 'paolo.dozio@gmail.com']}
+{'com.usagym.women': ['USA Gymnastics Compulsories', 'USA+Gymnastics', '500+', 'http://usagym.org', 'admin@usagymproductions.com']}
+{'com.ns31.airspacemap': ['Airspace Map', 'NS31+Software', '1,000+', 'http://www.ppgps.info', 'stephane.nicole31@gmail.com']}
+{'com.grapplearts.submissions': ['Submissions for BJJ & MMA', 'Grapplearts+Enterprises+Inc', '5,000+', 'http://www.grapplearts.com', 'kesting@grapplearts.com']}
+{'air.com.deligent.Clays': ['My Clays', 'Deligent+LLC', '500+', 'http://www.myclays.com', 'support@myclays.com']}
+{'com.blumer.bb643': ['6-4-3 Baseball Scorecard', 'Ryan+Blume', '5,000+', 'http://www.six-four-three.com', 'ryan@six-four-three.com']}
+{'com.decoypro.ecaller': ['Snow Goose E Caller App', 'GuideHunting+L.L.C.', '500+', 'http://www.decoypro.com', 'scott@decoypro.com']}
+{'com.livefootballontv.android': ['Live Football On TV Guide', 'Patrick+Millais', '1,000+', 'http://www.live-footballontv.com/', 'patrickmillais@gmail.com']}
+{'com.adroit.triswim': ['Tri Swim Coach', 'Kevin+Koskella', '1,000+', 'http://triswimcoach.com', 'kevin@triswimcoach.com']}
+{'com.harrys.laptimerpro': ["Harry's LapTimer Petrolhead", 'Harald+Schlangmann', '10,000+', 'http://www.gps-laptimer.de', 'Harry@gps-laptimer.de']}
+{'com.barakkuda.kyokushin.legtechniques': ['Kyokushin - Leg Techniques', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.mobincube.horse_show_pattern_pro_copy.sc_DKK2AH': ['Horse Show Pattern Pro', 'Horse+Show+Pattern+Pro', '10+', 'https://www.facebook.com/HorseShowPatternPro/', 'HorseShowPPro@gmail.com']}
+{'com.laverne.racquet_tune': ['RacquetTune', 'Laverne+Productions', '5,000+', 'http://racquettune.com', 'android@racquettune.com']}
+{'com.ebc.ui': ['Exterior Ballistics Calculator', 'XavieR', '1,000+', 'https://sites.google.com/site/scixddevexteriorballistics/', 'sci.xd.dev@gmail.com']}
+{'com.plongee.diveblender_p': ['DiveBlender', 'DiveSoft', '100+', 'http://diveblender.blogspot.ch/', 'diveblender@gmail.com']}
+{'com.appsolutegroup.knots': ['Animated Knots', 'Appsolute+LLC', '5+', 'http://appsolutegroup.com', 'lev@appsolutegroup.com']}
+{'com.precisionwrite.steelchallengeclasstracker': ['Steel Challenge Match Tracker', 'Smokey+Road+Software', '50+', 'http://www.teammatchtracker.com', 'scmatchtracker@gmail.com']}
+{'bbbkeyboard.sportsmanias.antediem.com.bbbkeyboardandroid': ['Big Baller Brand Emojis', 'Ante+Diem+LLC', '1,000+', 'http://www.sportsmanias.com', 'paulb@sportsmanias.com']}
+{'com.pupsidedown.android_stikis.penn_state_plus': ['Penn State Nittany Lions PLUS Selfie Stickers', '5232135485269293273', '10+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.cynexis.motoguide': ['MotoGuide', 'MotoGuide+App', '100+', 'https://www.motoguideapp.com/', 'admin@motoguideapp.com']}
+{'com.precisionstriking.combocreator': ['Combat Coach', 'Precision+Striking', '500+', 'http://www.precisionstriking.com', 'precisionstriking@yahoo.com']}
+{'com.johneyboy.predatorcallsadfree': ['Predator Calls - Ad Free', 'Nielsen+Family+Creations', '100+', 'http://callanimals.com', 'info@callanimals.com']}
+{'com.sports.schedules.ncaa.basketball.college': ['College Basketball Live Stats, Scores: PRO Edition', '8691300293040078668', '50+', 'http://www.sportsscheduleapp.com', 'collegebasketball@scoresapp.com']}
+{'com.sports.schedules.nhl.hockey': ['Hockey NHL Schedule, Scores, & Stats: PRO Edition', '8691300293040078668', '100+', 'http://www.sportsscheduleapp.com', 'nhl@scoresapp.com']}
+{'eu.paamand.hotairpro': ['Hot Air Balloon Pilot', 'Rune+Paamand', '100+', 'http://www.paamand.eu/hotair', 'hotair@paamand.eu']}
+{'com.pelagicnet.diverlog.android': ['DiverLog', 'Pelagic+Pressure+Systems', '500+', 'http://www.ediverlog.com', 'support@ediverlog.com']}
+{'com.racechrono.pro': ['RaceChrono Pro', 'RaceChrono', '5,000+', 'http://www.racechrono.com', 'play-store-support@racechrono.com']}
+{'com.flightscope.skillsxi': ['Xi Skills', 'FlightScope', '100+', 'http://www.flightscope.com', 'developers@edh.co.za']}
+{'com.snyderss.theaswingpro': ['The aSwing Pro Swing Analysis', 'Snyder+Software+Solutions', '100+', 'http://theaswingpro.com', 'support@theaswingpro.com']}
+{'com.harrys.laptimer': ["Harry's LapTimer Rookie", 'Harald+Schlangmann', '5,000+', 'http://www.gps-laptimer.de', 'Harry@gps-laptimer.de']}
+{'pishtech.mfaprokey': ['My Fishing Advisor Pro', 'Pishtech+LLC', '10,000+', 'http://www.myfishingadvisor.com', 'info@myfishingadvisor.com']}
+{'com.barakkuda.kyokushin.stances': ['Kyokushin - Stances & Moves', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.barakkuda.kyokushin.handtechniques': ['Kyokushin - Hand Techniques', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.barakkuda.kyokushin.katakokyu': ['Kyokushin - Kata & Kokyu', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.theappdoor.ifish.alberta': ['iFish Alberta', 'The+App+Door', '5,000+', 'http://www.iFishAlberta.com', 'info@AppsForAnglers.com']}
+{'com.homemade.ffm2.adfree': ['Fantasy Football Manager Pro', '7445268337799528367', '5,000+', 'https://sites.google.com/view/fantasyfootballmanagerpro', 'contact.homemadeapps@gmail.com']}
+{'com.edisongauss.bertotirepressure': ['Bicycle Tire Pressure Calc', 'Edison+Gauss+Publishing', '1,000+', 'http://www.edisongauss.com', 'tirepressure@edisongauss.com']}
+{'ncaa.logolwp_nebraska': ['Nebraska Cornhuskers Live WPS', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'ncaa.logolwp_northcarolina': ['UNC Tar Heels Live Wallpapers', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'ncaa.logolwp_iowa': ['Iowa Hawkeyes Live WPs', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'ncaa.logolwp_alabama': ['Alabama Crimson Tide LWP &Tone', '5232135485269293273', '1,000+', 'http://2Thumbzmobile.com', 'my2thumbz@gmail.com']}
+{'com.flightscope.skills': ['FlightScope Skills', 'FlightScope', '100+', 'http://www.flightscope.com', 'developers@edh.co.za']}
+{'com.twothumbz.gameday_northcarolina': ['UNC TAR HEELS Ringtones  - Official', '5232135485269293273', '100+', 'http://2thumbz.com/', 'My2Thumbz@gmail.com']}
+{'com.supcosoftware.battingcounterpro': ['Batting Counter / Stats Tracker Pro', 'Supco+Software+Solutions+LLC', '10+', 'https://sites.google.com/view/battingcounterstatstracker/privacy-policy', 'supcosoftwaresolutions@gmail.com']}
+{'com.trackmyroll': ['Track My Roll', 'Dynamic+Data+Apps', '100+', 'http://trackmyroll.com/', 'info@trackmyroll.com']}
+{'com.joshdsommer.WhoopLaps': ['Whoop Laps', 'Josh+Sommer', '500+', 'http://whooplaps.com', 'WhoopLaps@gmail.com']}
+{'fr.oroger.bsc.pro': ['Baseball Stats Pro', 'Olivier+Roger', '100+', 'http://oroger.fr', 'roger.olivier@gmail.com']}
+{'com.dotsa.tcmanager': ['Manager for Team Cowboy', 'Petka+XOXO/%5C', '1,000+', None, 'dotsad@gmail.com']}
+{'com.tankt72.contacttrainingpro': ['Metolius Contact Training PRO', 'TankT72', '100+', None, 'TankT72@outlook.com']}
+{'com.wearlynx.skilynxapp': ['SkiLynx', 'Wearlynx,+Inc.', '100+', 'http://wearlynx.com', 'skilynx@wearlynx.com']}
+{'com.gate.special': ['Betting Tips Special', 'Bet+Gate', '10+', 'https://betgateinfo.wixsite.com/website/about', 'betgateinfo@gmail.com']}
+{'jp.co.wasabiapps.bestbowling': ['Best Bowling', 'Wasabi+Applications+%28%E3%82%8F%E3%81%95%E3%81%B3%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%29', '100+', 'http://wasabi-apps.co.jp', 'support@wasabi-apps.co.jp']}
+{'com.pupsidedown.android_stikis.wisconsin': ['Wisconsin Badgers Selfie Stickers', '5232135485269293273', '1+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.ericsgear.scoreboard': ['Scoreboard - EG', 'Eric%27s+Gear', '1+', 'http://EricsGear.com', 'sales@ericsgear.com']}
+{'com.gkstopper.stopper': ['Stopper', 'Kilo+Communications+Inc', '10+', 'http://gkstopper.com', 'support@gkstopper.com']}
+{'com.deserttech.TRASOL': ['TRASOL', 'Desert+Tech+LLC', '1,000+', 'http://www.deserttech.com', 'TRASOLEngine@deserttech.com']}
+{'com.emountainworks.android.huntingaccess': ['Montana Hunting Access 2018', '8233080612482598419', '500+', 'http://www.emountainworks.com', 'feedback@emountainworks.com']}
+{'com.gabrowski.targetscan': ['TargetScan ISSF Pistol & Rifle', '7291215393228938730', '5,000+', 'https://targetshootingapp.com/', 'support@targetshootingapp.com']}
+{'com.parlay': ['Parlay Calculator', 'Phoenix+Sports', '10+', 'http://www.parlaycalculator.com', 'ronraymond@rogers.com']}
+{'com.flightscope.xiplus': ['Xi+', 'FlightScope', '100+', 'http://www.flightscope.com', 'developers@edh.co.za']}
+{'com.essency.gunsonics': ['GunShot Suppressor', 'Essency+Ltd', '100+', 'http://www.essency.co.uk/', 'gunshotsuppressor@essency.co.uk']}
+{'com.reloaderscloud.rangebuddypro': ['Range Buddy Pro', 'Reloader%27s+Cloud', '1,000+', 'http://reloaderscloud.appspot.com/', 'service.reloaderscloud@gmail.com']}
+{'com.ytiming.liveresults': ['YTiming Results', 'BigFishSoftware', '100+', 'http://www.ytiming.net/', 'info@ytiming.net']}
+{'com.twothumbz.gameday_oklahoma': ['Oklahoma Sooners Ringtones', '5232135485269293273', '1,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'nl.software101.stats': ['Easy Basketball Stats', 'Software101', '100+', 'http://www.facebook.com/easybasketballstats', 'support@software101.nl']}
+{'com.theappdoor.ifish.massachusetts': ['iFish Massachusetts', 'The+App+Door', '50+', 'http://www.TheAppDoor.com', 'randy@TheAppDoor.com']}
+{'com.stakhaus.gssfmyscores': ['GSSF myScore', 'Hippopotamus+Farms', '100+', 'http://hippofarms.blogspot.com/', 'hippofarms@gmail.com']}
+{'ch.bfh.ti.baspo.ll': ['Cross-country skiing technique', 'Bundesamt+f%C3%BCr+Sport+BASPO', '1,000+', 'http://www.sport-apps.ch/skilanglauf', 'media@baspo.admin.ch']}
+{'com.theappdoor.ifish.georgia': ['iFish Georgia', 'The+App+Door', '50+', 'http://www.TheAppDoor.com', 'randy@TheAppDoor.com']}
+{'com.theappdoor.ifish.missouri': ['iFish Missouri', 'The+App+Door', '50+', 'http://www.TheAppDoor.com', 'randy@TheAppDoor.com']}
+{'com.isenet.airdensitymeter': ['Air Density & RAD Meter', 'ISEnet', '1,000+', 'http://www.isenet.es/app/air-density-meter/', 'android@isenet.es']}
+{'com.splashme': ['SplashMe', 'geologix+AG', '10,000+', 'http://www.geologix.ch', 'geologix.bern@gmail.com']}
+{'com.markwu.matchpointscoreboardpro': ['Match Point Scoreboard Pro for Volleyball PingPong', 'Mark+S.+Wu', '1,000+', None, 'matchpoint.scoreboard@gmail.com']}
+{'com.isenet.kartchassissetup': ['Kart Chassis Setup for racing', 'ISEnet', '1,000+', 'http://www.isenet.es/app/kart-chassis-setup/', 'android@isenet.es']}
+{'com.fishheadenterprises.critter_trax': ['Critter Trax - Wild Animal Tra', 'Fishhead+Enterprises,+LLC', '500+', 'http://fishheadenterprises.weebly.com/', 'fishheadent@gmail.com']}
+{'com.gdt.equallineup.baseball': ['Equal Lineup Baseball', 'Good+Darn+Technology', '1,000+', None, 'good.darn.technology@gmail.com']}
+{'natavision.calc.android': ['Stopwatch Calculator', 'Natavision', '100+', 'https://www.natavision.com', 'customer_service@natavision.com']}
+{'net.hcsoft.sailsafePro': ['Sailsafe Pro. Anchor alarm.', 'HCSoft+S.L.', '1,000+', 'http://www.hcsoft.net', 'oficina@hcsoft.net']}
+{'com.battletac': ['BattleTac airsoft', 'Koczo+Balazs', '1,000+', 'http://battletac.com', 'support@battletac.com']}
+{'com.visualdesign.livefootballontv': ['Live Football On TV', 'Visual+Design', '10,000+', 'http://www.visualdesign.ie', 'info@visualdesign.ie']}
+{'com.athomeplus.android': ['Round & Workout Timer+', 'MedNotes+Plus', '1,000+', 'https://www.facebook.com/AndroidWorkoutTimer/', 'mednotes.android@gmail.com']}
+{'steelersradio.activities': ['Pittsburgh Football Radio', 'Red+Ripe+Media+LLC', '1,000+', None, 'profootballradio@hotmail.com']}
+{'com.belmontstakesringtone': ['Horse Racing Ringtone', 'Cliff+Koperski', '1,000+', 'https://www.facebook.com/AppsByCliff', 'c.koperski2@gmail.com']}
+{'com.kurtbagby.RandomGate': ['Random Gate', 'Kurt+Bagby', '1,000+', 'http://sites.google.com/site/randomgateapplicationhelp/', 'randomgateapplicationhelp@gmail.com']}
+{'com.kentuckyderbyringtone': ['Call To Post Ringtone', 'Cliff+Koperski', '1,000+', 'https://www.facebook.com/AppsByCliff', 'c.koperski2@gmail.com']}
+{'com.jimbl.kayakingplanner': ['Kayak planner', 'Jimbl', '100+', 'http://www.jimbl.com', 'jimbl.labs@gmail.com']}
+{'com.kimhyungtak.archery.app': ['Kim, Hyung-Tak Archery', 'Johan+Weiss+Hansen', '100+', 'http://kimarcheryapp.com', 'johanweisshansen@gmail.com']}
+{'com.eisordevelopment.gotrapping': ['GoTrapping!', 'EiSor+Development', '1,000+', 'http://ei-sor.squarespace.com', 'eisordevelopment@gmail.com']}
+{'com.app.suredailybettingtips': ['SURE DAILY BETTING TIPS', 'Verified+Tips+Services', '10+', 'https://instagram.com/suredailybettingtips', 'suredailybettingtips@yahoo.com']}
+{'com.betcontrol.basket': ['BetControl Basketball Tips', 'JuanSolo', '500+', None, 'marketingadsonline@hotmail.com']}
+{'com.haynes.roadbikemanual': ['The Road Bike Manual', 'Haynes', '500+', 'http://www.haynes.com', 'appsupport@haynes.co.uk']}
+{'com.pupsidedown.android_stikis.byu_plus': ['BYU Cougars PLUS Selfie Stickers', '5232135485269293273', '1+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.pupsidedown.android_stikis.ohio_plus': ['Ohio State Buckeyes PLUS Selfie Stickers', '5232135485269293273', '5+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.fgpartners.thescienceofwinning': ['The Science of Winning', 'F%26G+Partners', '50+', 'http://www.partnersinsports.be/nl', 'fg.partners@telenet.be']}
+{'com.golfaccountant.ga': ['Golf Accountant', 'JimBowApps', '10+', 'http://golfaccountant.com', 'JimBowApps@gmail.com']}
+{'com.deerwhitetail.decoypro': ['Range Finder for Deer Hunting!', 'GuideHunting+L.L.C.', '500+', 'http://www.decoypro.com', 'scott@decoypro.com']}
+{'com.gogalpublishing.streams.se': ['Stream Map USA - Southeast', 'Gogal+Publishing+Company', '100+', 'http://gogalpublishing.com', 'support@gogalpublishing.com']}
+{'com.countingkicks': ['Counting Kicks - Sneaker Log', 'Marcus+Payne+%28757%29', '50+', None, '7marcus5payne7@gmail.com']}
+{'com.teanapps.penaltytimer': ['Penalty Timer 4 Roller Derby', 'Tean+Apps', '100+', 'http://teanapps.com', 'support@teanapps.com']}
+{'com.grapplearts.bjjformula3': ['BJJ Top Game Formula', 'Grapplearts+Enterprises+Inc', '1,000+', 'http://www.grapplearts.com', 'kesting@grapplearts.com']}
+{'pt.bluecover.swingtempo': ['Trueshot Swing Tempo', 'Bluecover+Technologies', '5,000+', 'http://www.bluecover.pt', 'info@bluecover.pt']}
+{'com.sports.schedules.nba.basketball': ['Basketball NBA 2018 Schedule & Scores: PRO Edition', '8691300293040078668', '100+', 'http://www.sportsscheduleapp.com', 'nba@scoresapp.com']}
+{'com.timeontarget.survival': ['Time on Target Survival Mode', 'RedZone+Tactical+Inc.', '100+', 'http://www.TimeOnTargetApps.com', 'TimeOnTargetApps@gmail.com']}
+{'com.acesportsapps.soccerteammate': ['Soccer Teammate', 'Andrew+England', '1,000+', 'http://www.soccerteammate.com', 'support@soccerteammate.com']}
+{'com.boatingtripplanner.TidalCurrentsPlusGPSLocationWestCoast': ['WestCoast-Tidal Currents+GPS', '8481738770013492665', '100+', 'http://www.boatingtripplanner.com/', 'SupportAndroid@BoatingTripPlanner.com']}
+{'com.apportable.RussBrayAndroid': ['Russ Bray Darts Scorer', 'TIG+Apps+Limited', '10,000+', 'http://www.russthevoicebray.co.uk/index.php/en/', 'russbrayapp@gmail.com']}
+{'com.fridayapps.wakeye': ['Wakeye', 'FridayApps.com', '500+', 'http://www.wakeye.com', 'contact@wakeye.com']}
+{'au.com.fne.myomaps': ['MyOMaps', 'FNE+Enterprises', '100+', 'http://MyOMaps.com', 'support@fne.com.au']}
+{'net.clipboardapps.softballcoachingdrills': ['Softball Coaching Drills', 'Clipboard+Apps', '500+', 'http://www.clipboardapps.net/', 'ClipboardApps@aol.com']}
+{'xplat.reloadballistics.data_pack_454_casull': ['454 Casull Ballistics Data', 'xPlat+Inc.', '10+', 'http://www.xplat.net', 'support@xplat.net']}
+{'com.coursewalk.coursewalk': ['CourseWalk', 'Finder+Network,+LLC', '1,000+', 'http://www.coursewalkapp.com', 'support@coursewalkapp.com']}
+{'com.strokes': ['Golf Strokes & Bets', 'Class+Mate+Software', '500+', 'http://classmategrading.com/strokes', 'rmicaletti@gmail.com']}
+{'com.compegps.twonavfull': ['TwoNav GPS: Premium', 'CompeGPS+Team+SL', '10,000+', 'http://www.twonav.com', 'support@twonav.com']}
+{'info.ifuller1.bikeDoctor': ['Bike Doctor', 'Lock+Stock', '5,000+', 'http://www.bikedoctorapp.com', 'android@bikedoctorapp.com']}
+{'org.ksolution.solunartable': ['Solunar - Fishing & Hunting TM', '8413021153262246042', '10,000+', 'http://www.outdoor-apps.com', 'support@ksolution.org']}
+{'com.hiphopinstruction.formations': ['Dance & Cheer Formations', 'Kevin+Andrews+Industries', '1,000+', 'http://www.hiphopinstruction.com', 'support@hiphopinstruction.com']}
+{'de.felle.hockeylessons': ['Ice Hockey Pro', '8120074582605905323', '10+', 'https://festapplication.jimdo.com/', 'fest.app.development@gmail.com']}
+{'com.boudy.a2001.fencingnoads': ['Fencing Score & Timer ( No Ads )', '5073860151906340552', '1+', 'http://boudyapps.wixsite.com/boudyapps', 'boudyapps@gmail.com']}
+{'com.tennis_solutions_ts19': ['Tournois Tennis Solutions 2019', 'Tennis+Solutions+-+M.+Dominique+RICCI', '100+', 'http://tournois-tennis.fr', 'dominique_ricci@hotmail.fr']}
+{'paid.duck.id.app': ['The Duck ID App Premium', 'Hunters+Education+Systems', '10+', None, 'matthew.barrett.pd@gmail.com']}
+{'rammor.wmwatch.FlyBackKnight': ['FlyBack Knight Watch', 'Ram+Mor', '10+', 'http://www.getwatchmaker.com/user/r1cQcf7x-', 'rammor2000@yahoo.com']}
+{'net.colino.stravaautostartstop': ['Stravomatic', 'Colin+Leroy', '100+', 'https://www.colino.net/wordpress/en/stravomatic-an-app-to-start-strava-automatically/', 'colin@colino.net']}
+{'com.tinygarage.saildroid.pro': ['SailDroid Pro', 'tinygarage', '500+', 'http://www.tinygarage.com', 'info@tinygarage.com']}
+{'com.Ali.JumpOffPro': ['Jump Off Pro', 'Forelock,+LLC', '100+', 'http://www.jumpoffapp.com', 'JumpOff.Help@gmail.com']}
+{'com.cesd.www.squashpro': ['Squash Match/Stats Scorer', 'ChemEng+Software+Design', '1+', 'http://www.cesd.com', 'waltercesd@gmail.com']}
+{'brandoncharliekaylie_industries.com.g_meterapp': ['G-meter Torque & Horsepower', 'BCK+Industries', '10+', None, 'brandmiddleton616@gmail.com']}
+{'com.johneyboy.turkeycallsadfree': ['Turkey Calls - Ad Free', 'Nielsen+Family+Creations', '100+', 'http://callanimals.com', 'info@callanimals.com']}
+{'com.gmail.deltafoxtrotzulu.thetracktracker': ['The Track Tracker: Motorcycles', 'Daniel+Zahn+and+Eddie+Robison', '50+', 'https://www.facebook.com/TheTrackTracker', 'danielzahn@gmail.com']}
+{'com.acbelter.cheerapp.form.full': ['CheerApp Formations', 'acbelter', '100+', None, 'acbelter@gmail.com']}
+{'info.kazusoftware.pooltigerv4': ['POOL TIGER', 'KAZUsoftware', '100+', 'http://kazusoftware.info/', 'kazusoftware@zeus.eonet.ne.jp']}
+{'ch.perfectpower.PerfectPower': ['PerfectPower Cars Onboard Dyno', 'David+METTEY', '500+', 'http://www.perfectpower-autos.eu', 'perfectpower27@gmail.com']}
+{'com.Dev_Face.PITA': ['NY Hunting Regulations (PITA)', 'Dev+Face', '10+', 'http://www.dev-face.com/pita/android.html', 'PetePallo@gmail.com']}
+{'com.twothumbz.gameday_lsu': ['LSU Tigers Ringtone Fightsongs', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.theappdoor.ifish.westvirginia': ['iFish West Virginia', 'The+App+Door', '50+', 'http://www.TheAppDoor.com', 'randy@TheAppDoor.com']}
+{'com.McStats.BBStats': ['McStats-BBall Basketball Stats', 'McStats', '100+', 'http://www.mcstats23.com', 'mcstats23@gmail.com']}
+{'com.grapplearts.subdef': ['Sub Defense', 'Grapplearts+Enterprises+Inc', '1,000+', 'http://www.grapplearts.com', 'stephankesting@gmail.com']}
+{'co.uk.ipsoft.android.dressagescoringwizard': ['Dressage Scoring Wizard', 'Ipswich+Software+Ltd', '10+', 'http://www.ipsoft.co.uk', 'tech@ipsoft.co.uk']}
+{'xplat.reloadballistics.data_pack_300_winchester_magnum': ['300 Win Magnum Ballistics Data', 'xPlat+Inc.', '100+', 'http://www.xplat.net', 'support@xplat.net']}
+{'com.gogalpublishing.gpsfishingpa': ['GPS Fishing Guide to PA', 'Gogal+Publishing+Company', '500+', 'http://gogalpublishing.com', 'sales@gogalpublishing.com']}
+{'ru.humantouch.trainer_paid': ['Swim a Mile Pro', 'Humantouch,+Llc.', '1,000+', 'http://human-touch.us/', 'egor.ovcharenko@gmail.com']}
+{'com.embedia.regatta_pro': ['Regatta pro & start timer', 'embedia', '100+', 'http://embedia.it', 'michele.bevi@gmail.com']}
+{'com.designsbyjw.ehsmobilepaid': ['EHS Mobile Sports', 'Prep+Connect+Mobile,+LLC.', '500+', 'http://www.prepconnectmobile.com', 'contact@prepconnectmobile.com']}
+{'com.gcore.android.all': ['G-CORE Green Caddy Golf World', 'SSIATECH', '10+', 'http://www.gcore.co.kr', 'kisungjung@gmail.com']}
+{'bet.predictionvip': ['Bet Prediction VIP', 'Domenico+Campeglia', '1,000+', 'https://www.iubenda.com/privacy-policy/87480978', 'dcampeglia@gmail.com']}
+{'com.ddrmic.footballpredictionpro': ['Football Prediction PRO', '6025406100762697169', '1,000+', 'http://26games.net/', 'info@26games.net']}
+{'com.aaf': ['Alliance of American Football', 'Alliance+of+American+Football', '100,000+', 'https://aaf.com', 'mobile@aaf.com']}
+{'com.ussport.freelivegame.nhl.mlb.nba.ncaaf.nfl': ['US Sports News Network', 'Stream+NBA+NFL+MLB+NHL+-+Live+US', '1,000+', 'http://ussportsalbreakingnews.org', 'ussportsalbreakingnews@gmail.com']}
+{'com.sports.stream.nba': ['NBA Stream Live', 'On+Sports', '500+', 'https://f002.backblazeb2.com/file/beercode/allstream/policyFootball/policyFootball.html', 'matrixlife.2020@gmail.com']}
+{'com.dfstream.mlb': ['Baseball MLB Live Streaming', 'DFStreaming+Ltd', '1,000+', 'https://privacypolicies.com/privacy/view/752fa0899c73402c1047ceab42b8ee22', 'anushkhachiyan2475@gmail.com']}
+{'com.bpdj.ballparkdj': ['BallparkDJ', '6816049802861429441', '500+', 'http://www.ballparkdj.com', 'info@ballparkdj.com']}
+{'com.hyperfame.car_parking_driving2019': ['Car Parking Driving 2019 Free', 'Hyperfame+Games+Studio', '10,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.allspr.nfl.nba.nhl.sports.ads': ['Live Stream for NFL NBA NCAAF MLB and many sports', 'tafik+dev', '1,000+', 'https://www.freeprivacypolicy.com/privacy/view/85d03d89a4ba9a0d3462f66a5a19f44c', 'lotfirafik693@gmail.com']}
+{'com.gami.soccerchamp': ['Football championship Fever', 'Takbeer+Apps', '10,000+', 'https://takbeerapps.blogspot.com/2019/02/takbeer-apps-privacy-policy-background.html', 'takbeerapps2019@gmail.com']}
+{'com.liftopia': ['Liftopia Ski Deals - Tickets, Lessons & Rentals', 'Liftopia', '500+', 'https://www.liftopia.com', 'apps@liftopia.com']}
+{'com.teamsnap.thespringgames': ['THE Spring Games', 'TeamSnap+Tournaments', '100+', 'https://www.teamsnap.com', 'josh.antweiler@teamsnap.com']}
+{'com.sports.stream.nfl': ['NFL Stream Live', 'On+Sports', '100+', 'https://f002.backblazeb2.com/file/beercode/allstream/policyFootball/policyFootball.html', 'matrixlife.2020@gmail.com']}
+{'com.golfchannel.pass': ['GOLFPASS', 'Golf+Channel', '100+', 'https://www.golfpass.com', 'webreply@thegolfchannel.com']}
+{'com.superfanu.sanantoniofcsanantoniofc': ['San Antonio FC', 'SuperFanU,+Inc', '100+', 'https://www.superfanu.com', 'info@superfanu.com']}
+{'com.lck.redscore': ['RedFoot: Live Football', 'Live+Football', '10,000+', 'https://app.termly.io/document/privacy-policy/cf225035-3487-4049-911e-cad5f059e75b', 'pintusharma1630207@gmail.com']}
+{'com.puresweatbasketball.talosdigital': ['Pure Sweat Basketball Workouts', 'Pure+Sweat+Basketball', '500+', 'http://www.puresweatbasketball.com', 'info@puresweatbasketball.com']}
+{'com.hyperfame_police.car.racing2019': ['Police Car Racing 2019 Free', 'Hyperfame+Games+Studio', '5,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.sports.stream.mlb': ['MLB Stream Live', 'Sports+Live+Today', '50+', 'https://f002.backblazeb2.com/file/beercode/allstream/policyFootball/policyFootball.html', 'wilsonbruce.2025@gmail.com']}
+{'game.lightowl.bikestunts_racing2019free': ['Bike Stunts Sports 2019', 'Light+Owl+Entertainment', '5,000+', 'https://lightowlprivacypolicy.blogspot.com/', 'lightowlentertainment@gmail.com']}
+{'com.chapin': ['Fútbol Chapín', 'Armando+Torre', '100+', 'http://futbolchapinenvivo.com/', 'futbolchapinenvivo@gmail.com']}
+{'com.QuickScores.QuickScoresApp': ['QuickScores', 'QuickScores', '500+', 'http://www.quickscores.com', 'feedback@quickscores.com']}
+{'com.maxmob.dailypoolrewards.freecoins': ['Free Pool Rewards - Daily Free Coins & Cash', 'Max+Mobile+Games+Studios', '5,000+', 'https://maxmobilegames.blogspot.com/', 'abubakar.afzal1991@gmail.com']}
+{'com.nbcsports.apps.tv': ['NBC Sports', 'NBCUniversal+Media,+LLC', '100+', 'http://www.nbcuni.com', 'android@nbcuni.com']}
+{'com.freemium.android.apps.skipal': ['SkiPal - Accurate Ski Tracks', 'Hot+Android+Apps', '1,000+', 'http://skipal.us', 'danielross286@gmail.com']}
+{'com.ergbot777': ['ErgBot', 'ErgBot', '100+', 'https://www.instagram.com/ergbot/', 'ergbot.rowing@gmail.com']}
+{'com.brandtinfo.outdoorsia': ['Go Outdoors IA', 'Go+Outdoors+Iowa,+LLC', '100+', 'https://gooutdoorsiowa.com', 'mobile@gooutdoorsiowa.com']}
+{'com.dreamsoccer.kits': ['Dream League Kits', 'rpml+dev', '5,000+', 'https://policyprivacy12.blogspot.com/2017/07/privacy-policy-of-small-tattoo-designs.html', 'mrdz7697@gmail.com']}
+{'esportetudo.futebol': ['EsporteTudo - Futebol Ao vivo', 'Ag%C3%AAncia+Dort%27s', '10,000+', 'http://www.e-droid.net/privacy.php?ida=593453&idl=pt', 'dorti_@hotmail.com']}
+{'com.hyperfame_ATV.citytraffic.racinggames2019': ['ATV City Traffic Racing Games 2019', 'Hyperfame+Games+Studio', '1,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.clutchpoints.ClutchPoints': ['ClutchPoints – Your Go-To Sports App', 'ClutchPoints', '100+', 'https://clutchpoints.com/', 'thememeco@gmail.com']}
+{'fondos.clubamerica': ['Wallpaper Club America', '2AMV', '100+', 'http://www.e-droid.net/privacy.php?ida=350983&idl=en', 'abelmv0724@gmail.com']}
+{'com.cricingif.psl': ['HBL PSL 2019 - Official Pakistan Super League App', 'Cricingif', '10,000+', 'https://cricingif.com', 'shahid@cricingif.com']}
+{'com.speed.boat.water.racing': ['Speed Boat Racing 2019', 'AfterGames+365', '1,000+', 'https://aftergames365.blogspot.com/2018/07/privacy-policy.html', 'aftergames365@gmail.com']}
+{'tendencia.sportkkk1': ['Tendencia Sport | Fútbol Paraguayo', 'Tendencia+Sport', '5,000+', 'https://www.futbolparaguayoenvivo.com/', 'anonpy@hotmail.com']}
+{'com.funnyplaygames.formulacarracing.policechase': ['Formula Car Racing Chase: Police Pursuit', 'Funny+Play+Games', '1,000+', 'https://burakcakmakce.wixsite.com/privacypolicy', 'burakcakmak.ce@gmail.com']}
+{'com.gamestorm.rageboxing.fight': ['Rage Boxing :  Free Style Boxing Fight', 'Legend+Game+Storm', '500+', 'http://salmanashraf.org/privacypolicy/privacypolicy.html', 'legendgamestorm@gmail.com']}
+{'com.launcher.theme3d.t600003023': ['Neon Ice Hockey Gravity Theme\U0001f945', '3d+Theme+Studio', '100+', 'https://www.cmcm.com/protocol/site/privacy.html', '3dthemestudio@gmail.com']}
+{'air.com.repu.woodbridge': ['WHS Warriors', '5177114267834249850', '10+', 'https://www.repusports.com', 'support+woodbridge3166@repusports.com']}
+{'com.xp.studio.sportslivehdtv': ['Sports Live TV HD', 'Amir+studio+live', '1,000+', None, 'amir510786@gmail.com']}
+{'com.closersports': ['Closer Sports', 'DeepMed,+Inc.', '10+', 'https://closersports.com', 'support@closersports.com']}
+{'fondos.hd.river.plate': ['River Plate - Fondos & Wallpapers', 'TechApps+MS', '1,000+', 'http://www.myappterms.com/reader.php?id=1', 'jeremysal2009@gmail.com']}
+{'live.cricket.ipl.psl.livecricket': ['Live Cricket Craze', 'Cricket+Craze', '100+', None, 'gk.authority@gmail.com']}
+{'com.wUSASoccerNewsNow_8574415': ['USA Soccer News Now', 'Storm2050', '1+', 'https://sites.google.com/view/storm2050/accueil', 'hf2018k@gmail.com']}
+{'com.app.freelivesports': ['Free Live Sports', 'MOHSINWORLD', '100+', 'http://freelivesports.net', 'freelivesports.net@gmail.com']}
+{'com.catchsports.catchsports': ['Bleacher Report Live', 'Bleacher+Report+Inc.', '100,000+', 'https://live.bleacherreport.com', 'support@br.live']}
+{'com.handmark.sportcaster': ['CBS Sports App - Scores, News, Stats & Watch Live', 'CBS+Interactive,+Inc.', '10,000,000+', 'http://www.cbssports.com', 'cbssports-android@cbsinteractive.com']}
+{'com.hyperfame.car.gamesracing2019_free': ['Car Racing Games 2019 Free', 'Hyperfame+Games+Studio', '10,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.tour.pgatour': ['PGA TOUR', 'PGA+TOUR', '1,000,000+', 'http://www.pgatour.com/', 'mobile@pgatourhq.com']}
+{'com.espn.droid.bracket_bound': ['ESPN Tournament Challenge', 'ESPN+Inc', '1,000,000+', 'http://m.espn.go.com', 'espnmobilefeedback@espncustomercare.com']}
+{'com.maxpreps.teamsapp': ['Teams by MaxPreps', 'CBS+MaxPreps', '10,000+', 'http://www.maxpreps.com', 'maxpreps-android@cbsinteractive.com']}
+{'com.mossyoakgo': ['Mossy Oak Go: Free Outdoor TV', 'Haas+Outdoors,+Inc.', '50,000+', 'http://www.mossyoak.com', 'appdev@mossyoak.com']}
+{'com.dazn': ['DAZN Live Fight Sports: Boxing, MMA & More', 'DAZN', '5,000,000+', 'https://www.dazn.com', 'help@dazn.com']}
+{'com.yinzcam.nba.timberwolves': ['Minnesota Timberwolves', 'Minnesota+Timberwolves', '10,000+', 'http://www.nba.com/timberwolves/mobile-app-faqs', 'fansfirst@timberwolves.com']}
+{'com.nikon.spoton': ['Nikon SpotOn Ballistic Match', 'Nikon+Melville', '100,000+', 'http://www.nikonusa.com', 'support@nikon.net']}
+{'com.ncaa.mmlive.app': ['NCAA March Madness Live', 'Turner+Sports+Interactive,+Inc', '5,000,000+', 'http://mmlfaq.ncaa.com/', 'mmlivehelp@turner.com']}
+{'com.yinzcam.tennis.bnpparibas': ['2019 BNP Paribas Open', 'Desert+Champions+LLC', '10,000+', 'http://bnpparibasopen.com', 'tix@iwtg.net']}
+{'com.heed.heedapp': ['HEED: Live Sports - UFC and EuroLeague Highlights!', 'Heed,+LLC', '100,000+', 'http://www.heedlive.com', 'support@heedlive.com']}
+{'com.fanpictor.dallasstarslightshow': ['Dallas Stars Light Show', 'Fanpictor', '5,000+', 'http://www.fanpictor.com', 'hello@fanpictor.com']}
+{'com.cueaudio.tennessee': ['Hoops Hype', 'CUE+Audio', '5,000+', 'http://cueaudio.com', 'jameson@cueaudio.com']}
+{'com.acc': ['ACC Sports', 'Raycom+Media,+Inc', '100,000+', 'http://www.theacc.com/', 'support@sidearmsports.com']}
+{'com.sports.stream.mlb': ['MLB Stream Live', 'Sports+Live+Today', '50+', 'https://f002.backblazeb2.com/file/beercode/allstream/policyFootball/policyFootball.html', 'wilsonbruce.2025@gmail.com']}
+{'com.finishedresults.liveresults': ['Finished Results Live', 'Finished+Results', '10,000+', 'http://www.finishedresults.com', 'support@finishedresults.com']}
+{'com.siplay.android_siplay': ['SI Play - Sports Team Management Free App', 'SI+Play+LLC', '500,000+', 'http://www.siplay.com/leagues', 'sipapp@siplay.com']}
+{'com.watchstadium': ['Stadium', 'Stadium,+LLC', '10,000+', 'http://www.watchstadium.com', 'info@watchstadium.com']}
+{'com.exposure.blufftonbasketball': ['Bluffton Lady Tigers BBall', 'Exposure+Events,+LLC', '100+', 'http://basketball.exposureevents.com/mobile', 'info@exposureevents.com']}
+{'com.hyperfame.oil.tanker_truck2019simulator_free': ['Offroad Oil Tanker Transport Truck Simulator 2019', 'Hyperfame+Games+Studio', '500,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.yinzcam.nfl.bengals': ['Cincinnati Bengals', '9047556097149013853', '100,000+', 'http://www.yinzcam.com', 'support@yinzcam.com']}
+{'com.active.endurance.experience': ['Active Experience', 'ACTIVE+Network,+LLC', '10,000+', 'http://www.active.com/mobile', 'mobilesupport@activenetwork.com']}
+{'com.televisa.deportes.android': ['Televisa Deportes', 'Televisa', '5,000,000+', 'http://www.televisa.com', 'sugerencias-apps@esmas.com']}
+{'com.kings': ['SacramentoKings+Golden1Center', 'Sacramento+Kings', '10,000+', 'http://kings.com', 'kings@kings.com']}
+{'com.statechamps': ['StateChamps: Tickets to High School Events', 'TicketBiscuit', '10,000+', 'https://statechamps.com/', 'support@statechamps.com']}
+{'com.ohiobobcats.fan': ['Ohio Bobcats Gameday', 'From+Now+On', '100+', 'http://from-now-on.com/', 'support@fnoex.com']}
+{'com.futbolenvivohd.futbolmexicanoenvivo': ['Live Mexican Soccer', 'F%C3%BAtbol+en+Vivo+HD', '100,000+', 'http://futbolmexicanohd.com/', 'rootlaameeputa@gmail.com']}
+{'com.sports.stream.nba': ['NBA Stream Live', 'On+Sports', '500+', 'https://f002.backblazeb2.com/file/beercode/allstream/policyFootball/policyFootball.html', 'matrixlife.2020@gmail.com']}
+{'com.sagedom.tennispal': ['TennisPAL', 'SageDom', '5,000+', 'http://www.sagedom.com', 'admin@sagedom.com']}
+{'com.fandrafted': ['Fan Drafted - Mock Draft Simulator', 'Dunnivan+Pty+Ltd', '1,000+', 'http://www.fandrafted.com', 'admin@fandrafted.com']}
+{'com.sportinginnovations.omsnmaa': ['NMAA 24/7', 'NMAA', '100+', 'http://www.nmact.org', 'tyler@nmact.org']}
+{'com.uefa.ucl': ['UEFA Champions League', '6457984355316309163', '10,000,000+', 'https://helpcenter.uefa.com/hc/en-gb', 'mobile.support@uefa.com']}
+{'com.sports.stream.nfl': ['NFL Stream Live', 'On+Sports', '100+', 'https://f002.backblazeb2.com/file/beercode/allstream/policyFootball/policyFootball.html', 'matrixlife.2020@gmail.com']}
+{'com.uwatch.eagle': ['UWEAR', '%E6%B7%B1%E5%9C%B3%E5%B8%82%E8%8E%B1%E7%89%B9%E6%97%B6%E4%BB%A3%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8', '1,000+', 'http://www.uwatchsz.com/', 'uwatch.lee@gmail.com']}
+{'com.hyperfame.car_parking_driving2019': ['Car Parking Driving 2019 Free', 'Hyperfame+Games+Studio', '10,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.nascar.accelerationnation': ['NASCAR Acceleration Nation - racing for kids', '8371661405490770271', '100,000+', 'https://www.nascar.com/support', 'appfeedback@nascar.com']}
+{'com.playdraft.playdraft': ['DRAFT: Daily & Season-Long Fantasy Sports Contests', 'DRAFT', '100,000+', 'http://draft.com', 'support@draft.com']}
+{'net.opix.Gemini': ['Gemini Live', 'Opix', '50,000+', 'http://www.gemininext.com', 'osamu@opix.net']}
+{'com.footballscores.leagueslivematches': ['LiveScores 7/24 - Football Scores, Fixtures, News', 'Smart+Trendy+mobile+apps', '10,000+', 'https://www.appcalibre.com/#/privacy-policy', 'giovannimargarmob@gmail.com']}
+{'nl.meetmijntijd.erlangerchattanooga': ['Erlanger Chattanooga Marathon', 'MYLAPS+Experience+Lab', '500+', 'http://www.mylaps.com', 'info.mel@mylaps.com']}
+{'com.lck.redscore': ['RedFoot: Live Football', 'Live+Football', '10,000+', 'https://app.termly.io/document/privacy-policy/cf225035-3487-4049-911e-cad5f059e75b', 'pintusharma1630207@gmail.com']}
+{'com.funnware.horseshowtracker': ['Horse Show Tracker - FunnWare', 'FunnWare+Development', '5,000+', 'https://www.funnware.com/horse-show-tracker/', 'info@funnware.com']}
+{'com.rooterdog.dixieDeerClassic': ['Dixie Deer Classic', 'rooterdog', '500+', 'http://www.rooterdog.com', 'jefffurr@mac.com']}
+{'com.yinzcam.nba.suns': ['Phoenix Suns Mobile', '9047556097149013853', '50,000+', 'http://www.yinzcam.com', 'support@yinzcam.com']}
+{'onxmaps.hunt': ['onX Hunt: Hunting Maps, Offline GPS/Nav & Weather', 'onXmaps', '1,000,000+', 'https://www.onxmaps.com', 'support@onxmaps.com']}
+{'com.rainoutline.app': ['RainoutLine.com 2017', 'Status+Share+LLC', '10,000+', 'http://rainoutline.com', 'support@rainoutline.com']}
+{'com.sportspilot.quickclub': ['QuickClub', 'SportsPilot', '10,000+', 'http://www.quick.club', 'support@sportspilot.com']}
+{'com.sjearthquakes.earthquakes': ['Avaya Stadium', 'San+Jose+Earthquakes', '5,000+', 'http://www.sjearthquakes.com', 'sjearthquakesweb@gmail.com']}
+{'com.qraider.oklahoma': ['OU Lights', 'CUE+Audio', '1,000+', 'http://QRaider.com', 'jrader@qraider.com']}
+{'net.paniniamerica.direct': ['Panini Direct', 'Panini+America+Inc.', '10,000+', 'http://store.paniniamerica.net', 'jhowarth@paniniamerica.net']}
+{'com.tennischannel.tceverywhere': ['Tennis Channel', 'Tennis+Channel', '100,000+', 'http://www.tennischannel.com', 'website@tennischannel.com']}
+{'com.phonegap.snocru': ['SNOCRU Ski Tracking App', 'SNOCRU+LLC', '100,000+', 'http://www.snocru.com', 'tech@snocru.com']}
+{'com.freemium.android.apps.skipal': ['SkiPal - Accurate Ski Tracks', 'Hot+Android+Apps', '1,000+', 'http://skipal.us', 'danielross286@gmail.com']}
+{'com.maxmob.dailypoolrewards.freecoins': ['Free Pool Rewards - Daily Free Coins & Cash', 'Max+Mobile+Games+Studios', '5,000+', 'https://maxmobilegames.blogspot.com/', 'abubakar.afzal1991@gmail.com']}
+{'com.bpdj.ballparkdj': ['BallparkDJ', '6816049802861429441', '500+', 'http://www.ballparkdj.com', 'info@ballparkdj.com']}
+{'com.redbull.paperwings': ['Red Bull Paper Wings', '5147660840707403654', '1,000+', 'https://paperwings.redbull.com', 'rbmh.digitalmedia@gmail.com']}
+{'com.dreamsoccer.kits': ['Dream League Kits', 'rpml+dev', '5,000+', 'https://policyprivacy12.blogspot.com/2017/07/privacy-policy-of-small-tattoo-designs.html', 'mrdz7697@gmail.com']}
+{'com.ibm.events.android.atlantaunited': ['Atlanta United FC', 'Atlanta+United+FC', '10,000+', 'http://www.atlutd.com', 'info@atlutd.com']}
+{'com.gami.soccerchamp': ['Football championship Fever', 'Takbeer+Apps', '10,000+', 'https://takbeerapps.blogspot.com/2019/02/takbeer-apps-privacy-policy-background.html', 'takbeerapps2019@gmail.com']}
+{'com.july.univision': ['Univision Deportes: Liga MX, MLS, Fútbol En Vivo', 'Univision+Communications+Inc.', '5,000,000+', 'http://www.univision.com', 'deportesappfeedback@univision.net']}
+{'com.copasenvivohd.ligadecampeonesenvivo': ['Live CONCACAF Championes League', '6037735850818607492', '1,000+', 'http://futbol-vivohd.com/liga-de-campeones-concacaf/', 'masenrpoluna@gmail.com']}
+{'com.fasterthanmonkeys.iscore': ['iScore Baseball/Softball', 'SI+Play+LLC', '100,000+', 'http://iscoresports.com', 'support@iscoresports.com']}
+{'uk.co.disciplemedia.bassiq': ['Bass IQ', 'Bass+IQ', '100+', 'http://www.BassIQ.com', 'karen@bassiq.com']}
+{'com.golfchannel.pass': ['GOLFPASS', 'Golf+Channel', '100+', 'https://www.golfpass.com', 'webreply@thegolfchannel.com']}
+{'com.chelseafc.the5thstand': ['Chelsea FC - The 5th Stand Mobile App', '8813214164449752048', '1,000,000+', 'http://www.chelseafc.com', 'appsupport@chelseafc.com']}
+{'com.futbolfc.futbolmexicanoenvivo': ['Live Mexican Soccer', 'F%C3%BAtbol+en+Vivo+FC', '10,000+', 'http://futbolfc.com/mexico/', 'pumgatkomet@gmail.com']}
+{'com.liftopia': ['Liftopia Ski Deals - Tickets, Lessons & Rentals', 'Liftopia', '500+', 'https://www.liftopia.com', 'apps@liftopia.com']}
+{'com.sports.scores.baseball.schedule.new_york.yankees': ['Yankees Baseball: Live Scores, Stats, Plays, Games', '7234972279410353413', '10,000+', 'http://www.sportsscheduleapp.com', 'sportsscoresapp@gmail.com']}
+{'com.discussthegame': ['Discuss TheGame', 'Weblom+Inc', '5,000+', 'http://www.discussthegame.com', 'support@discussthegame.com']}
+{'com.fanhero.lionnation': ['LionNation', 'FanHero', '10,000+', 'http://www.fanhero.com', 'fanherodev@gmail.com']}
+{'messi.wallpapers.lionelmessi': ['Lionel Messi Wallpapers', 'MACS+Group+Apps', '10,000+', None, 'conpoderyamor@gmail.com']}
+{'com.doapps.android.mln.MLN_3454e94e0644b2c3413d52beb5c350da': ['BaseballStL St. Louis Baseball', 'KMOV-TV,+Inc', '100,000+', 'http://www.doapps.com', 'android@doapps.com']}
+{'com.bg.kungfu.karate.fighting.tiger.martialarts.punchkick.ninja': ['Kung Fu Master Karate Fighting Tiger Punch 2019', 'Billion+Game', '10,000+', 'https://docs.google.com/document/d/1g9o7LWzfHiismeWgvWSOa4se6WkCE3CndexxCw1fwrM/edit?usp=sharing', 'billiongames.feedback@gmail.com']}
+{'com.beckett': ['Beckett Mobile', 'Beckett', '10,000+', 'http://www.beckett.com', 'customerservice@beckett.com']}
+{'com.siplay.tourneymachine_android': ['Tourney Machine', 'SI+Play+LLC', '100,000+', 'http://www.tourneymachine.com', 'support@tourneymachine.com']}
+{'com.eisterhues_media_2': ['GoalAlert Football Live Scores Fixtures Results', 'TorAlarm+GmbH', '1,000,000+', 'https://toralarm.com', 'support@toralarm.eu']}
+{'com.maxpreps.mpscoreboard': ['MaxPreps', 'CBS+MaxPreps', '100,000+', 'http://www.maxpreps.com', 'maxpreps-android@cbsinteractive.com']}
+{'com.pro.football.league.concacaf.champions': ['Scores for Concacaf Champions League. Live Results', 'Steve+Brockman', '1,000+', 'http://bo.365plus.ro/privacy/privacy.html', 'steve2brockman@gmail.com']}
+{'com.tiplay.central': ['iScore Central - Game Viewer', 'SI+Play+LLC', '50,000+', 'http://iscoresports.com', 'support@iscoresports.com']}
+{'org.usaswimming.deckpassplus': ['Deck Pass Plus', 'USA+Swimming', '10,000+', 'https://www.usaswimming.org/deckpass', 'deckpass@usaswimming.org']}
+{'com.baseball.wallpapers.hd': ['Baseball Wallpapers HD 2019', 'Enissaystudio', '1,000+', None, 'enissaywins@gmail.com']}
+{'com.supersaika.nhl.hockey.free.hd.sports.bowl': ['NHL Hockey Stream', 'Anzio+NFL+Ink', '1,000+', 'http://45.63.4.106/privacy', 'dipu476@gmail.com']}
+{'com.scar.gameday': ['Gamecocks', 'IMG+College+Digital', '10,000+', 'http://www.sidearmsports.com/privacy-policy/', 'support@sidearmsports.com']}
+{'com.rader.southcarolina': ['Gamecock Lights', 'CUE+Audio', '1,000+', 'http://QRaider.com', 'jrader@qraider.com']}
+{'org.playball.mobile': ['USA Baseball Mobile Coach', 'United+States+Baseball+Federation', '10,000+', 'http://www.usabaseball.com', 'mediarelations@usabaseball.com']}
+{'com.caesarsmob1': ['Caesars Sports & More', 'Mezelhoa', '100+', None, 'khanhmitusahoa@gmail.com']}
+{'com.soundersfc.android': ['Seattle Sounders FC', 'Seattle+Sounders+FC', '10,000+', 'http://www.soundersfc.com/mobileapps', 'customerservice@soundersfc.com']}
+{'gt.com.tigo.tigosports': ['Tigo Sports Guatemala', 'Tigo+Guatemala', '500,000+', 'http://www.tigo.com.gt', 'tigoappsguatemala@gmail.com']}
+{'com.appsloft.live.psl2019': ['Psl schedule 2019 – Live Psl Fixtures, Team detail', 'appsloft+studio', '100,000+', 'https://appsloft786.blogspot.com/', 'mushtaqahmad2640@gmail.com']}
+{'amigostudio.photoeditorforwwe2017': ['Photo Editor For WWE', 'Amigo+Studio', '10,000+', 'http://amigostudioprivacypolicies.blogspot.in/2017/03/amigo-studio-privacy-policy.html', 'shashifame93@gmail.com']}
+{'gov.ny.its.HuntFishNY': ['HuntFishNY', 'NYS+Office+of+Information+Technology+Services', '10,000+', 'http://www.dec.ny.gov/about/27720.html', 'its.sm.googleplay.license@its.ny.gov']}
+{'com.sports.scores.baseball.schedule.detroit.tigers': ['Tigers Baseball: Live Scores, Stats, Plays & Games', '7234972279410353413', '10,000+', 'http://www.sportsscheduleapp.com', 'sportsscoresapp@gmail.com']}
+{'com.supcosoftware.pitchingcounter': ['Pitching Counter / Stats Tracker', 'Supco+Software+Solutions+LLC', '1,000+', None, 'supcosoftwaresolutions@gmail.com']}
+{'com.hudl.focus': ['Hudl Focus', 'Agile+Sports', '500+', 'http://www.hudl.com/products/focus', 'support@hudl.com']}
+{'com.avai.amp.iscautoclub': ['AAA Speedway', 'AVAI+Mobile+Solutions', '5,000+', 'http://avaimobile.com', 'AndroidDevelopers@avai.com']}
+{'appinventor.ai_trevor_lewis.TrollMaster': ['Troll Master - Trolling Lure Depth Calculator', 'Trevor+D.+Lewis', '10+', None, 'trollingcalculator@gmail.com']}
+{'com.waterpoloapp.waterpolostats': ['Water Polo Statistics', 'Spartan220', '5+', 'http://www.waterpoloapp.com', 'markrogers1114@yahoo.com']}
+{'com.app.blktop': ['BLK TOP', 'GameSho', '1+', 'https://appcdn.media/privacy/?app=BLKTOP', 'omoanatsea@gmail.com']}
+{'com.gate.special': ['Betting Tips Special', 'Bet+Gate', '10+', 'https://betgateinfo.wixsite.com/website/about', 'betgateinfo@gmail.com']}
+{'com.racquetbuddy': ["TennisTension: Tennis Racquet's String Tension", 'TennisTension+Ltd.', '10+', 'https://www.tennistension.app/', 'tennistension@gmail.com']}
+{'com.espn.score_center': ['ESPN', 'ESPN+Inc', '10,000,000+', 'http://espn.com/', 'espnmobilefeedback@espncustomercare.com']}
+{'tv.fubo.mobile': ['fuboTV: Watch Live Sports & TV', 'fuboTV', '1,000,000+', 'https://www.fubo.tv', 'support@fubo.tv']}
+{'com.gamestr.atv.traffic.racer.kart': ['ATV Traffic Rider 2019: Quad Bike & Kart', '4764708700745874704', '1,000,000+', 'https://gamestr2020.blogspot.com/2018/11/privacy-policy.html', 'gamestr2019@gmail.com']}
+{'com.nbadigital.gametimelite': ['NBA', 'NBA+Digital', '10,000,000+', 'http://www.nba.com', 'nba1@custhelp.com']}
+{'com.fishbrain.app': ['Fishbrain - local fishing map and forecast app', 'Fishbrain', '5,000,000+', 'http://www.fishbrain.com', 'support@fishbrain.com']}
+{'com.gotv.nflgamecenter.us.lite': ['NFL', '7468190409947973272', '50,000,000+', 'http://www.nfl.com/mobile/app', 'support@nfldigitalcare.zendesk.com']}
+{'com.catchsports.catchsports': ['Bleacher Report Live', 'Bleacher+Report+Inc.', '100,000+', 'https://live.bleacherreport.com', 'support@br.live']}
+{'com.hyperfame.oil.tanker_truck2019simulator_free': ['Offroad Oil Tanker Transport Truck Simulator 2019', 'Hyperfame+Games+Studio', '500,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.theathletic': ['The Athletic', 'The+Athletic+Media+Company', '100,000+', 'https://theathletic.com', 'support@theathletic.com']}
+{'com.gc.android': ['GameChanger Baseball & Softball Scorekeeper', 'GameChanger+Media', '500,000+', 'http://www.GC.com/', 'help@gc.com']}
+{'com.handmark.sportcaster': ['CBS Sports App - Scores, News, Stats & Watch Live', 'CBS+Interactive,+Inc.', '10,000,000+', 'http://www.cbssports.com', 'cbssports-android@cbsinteractive.com']}
+{'com.bamnetworks.mobile.android.gameday.atbat': ['MLB At Bat', 'MLB+Advanced+Media,+L.P.', '5,000,000+', 'http://www.mlb.com', 'mlb-mobile-cs@mlb.com']}
+{'com.bamnetworks.mobile.android.ballpark': ['MLB Ballpark', 'MLB+Advanced+Media,+L.P.', '1,000,000+', 'http://www.mlb.com', 'mlb-mobile-cs@mlb.com']}
+{'com.beinsports.andcontent': ['beIN SPORTS', 'beIN+MEDIA+GROUP', '10,000,000+', 'http://www.beinsports.com', 'nmservices@bein.net']}
+{'com.foxsports.android': ['FOX Sports: Live Streaming, Scores & News', 'FOX+Sports+Interactive', '5,000,000+', 'http://www.foxsports.com/mobile', 'mobile@support.foxsports.com']}
+{'com.siplay.android_siplay': ['SI Play - Sports Team Management Free App', 'SI+Play+LLC', '500,000+', 'http://www.siplay.com/leagues', 'sipapp@siplay.com']}
+{'ptv.bein.ui': ['beIN SPORTS CONNECT', 'beIN+MEDIA+GROUP', '1,000,000+', 'http://www.beinsports.com/', 'beinsportandroid@gmail.com']}
+{'com.bleacherreport.android.teamstream': ['Bleacher Report: sports news, scores, & highlights', 'Bleacher+Report+Inc.', '5,000,000+', 'http://bleacherreport.com', 'br_app_android@bleacherreport.com']}
+{'com.foxsports.videogo': ['FOX Sports GO: Watch Live', 'FOX+Sports+Interactive', '5,000,000+', 'http://www.foxsports.com', 'mobile@support.foxsports.com']}
+{'com.july.univision': ['Univision Deportes: Liga MX, MLS, Fútbol En Vivo', 'Univision+Communications+Inc.', '5,000,000+', 'http://www.univision.com', 'deportesappfeedback@univision.net']}
+{'com.gc.teammanager': ['GameChanger Team Manager', 'GameChanger+Media', '100,000+', 'http://www.GC.com', 'teammanager@gc.com']}
+{'air.com.nbcuni.com.nbcsports.liveextra': ['NBC Sports', 'NBCUniversal+Media,+LLC', '5,000,000+', 'http://www.nbcsports.com/live-faq', 'support@nbcsports.com']}
+{'com.yahoo.mobile.client.android.sportacular': ['Yahoo Sports - scores, stats, news, & highlights', '5536369398281991413', '5,000,000+', 'https://sports.yahoo.com', 'sports-app-android-feedback@oath.com']}
+{'com.fivemobile.thescore': ['theScore: Live Sports Scores, News, Stats & Videos', '8331818305029646302', '10,000,000+', 'http://company.thescore.com', 'thescoreapp@thescore.com']}
+{'com.sports.live.football.tv': ['Live Football TV', 'Sports+Stream', '1,000,000+', 'http://onlinemobilestream.com/', 'hightech.links786@gmail.com']}
+{'games.mini.sports.easy.basketball': ['Basketball strikes 2019: Play Slam Basketball Dunk', 'Mini+Sports', '100,000+', 'https://docs.google.com/document/d/1yVYaVtRMH_GdgsXIUKuveBAdjJm5FzahTaj9OzSKK0Y/edit?usp=sharing', 'games.sportsarena@gmail.com']}
+{'com.sportngin.android': ['SportsEngine – Sports Team Management', 'SportsEngine', '500,000+', 'http://www.sportsengine.com', 'semobile@sportsengine.com']}
+{'com.teamapp.teamapp': ['Team App', 'Team+Mates+Pty.+Ltd.', '1,000,000+', 'http://www.teamapp.com', 'help@teamapp.com']}
+{'com.neulion.smartphone.ufc.android': ['UFC', 'UFC%C2%AE+-+The+Ultimate+Fighting+Championship%C2%AE', '5,000,000+', 'http://www.UFC.TV', 'support@ufc.tv']}
+{'com.aaf': ['Alliance of American Football', 'Alliance+of+American+Football', '100,000+', 'https://aaf.com', 'mobile@aaf.com']}
+{'onxmaps.hunt': ['onX Hunt: Hunting Maps, Offline GPS/Nav & Weather', 'onXmaps', '1,000,000+', 'https://www.onxmaps.com', 'support@onxmaps.com']}
+{'com.nhl.gc1112.free': ['NHL', 'BAMTECH+LLC', '5,000,000+', 'https://www.nhl.com/info/contact-us', 'customersupport@web.nhl.com']}
+{'com.uefa.ucl': ['UEFA Champions League', '6457984355316309163', '10,000,000+', 'https://helpcenter.uefa.com/hc/en-gb', 'mobile.support@uefa.com']}
+{'com.tour.pgatour': ['PGA TOUR', 'PGA+TOUR', '1,000,000+', 'http://www.pgatour.com/', 'mobile@pgatourhq.com']}
+{'com.mobile.basemap': ['BaseMap: #1 New Hunting, Hiking, Fishing GPS App', 'BaseMap+Inc', '10,000+', 'http://www.basemap.com', 'support@basemap.com']}
+{'com.nbcsports.mobile.rsnlocalsports': ['MyTeams by NBC Sports', 'NBCUniversal+Media,+LLC', '500,000+', 'http://www.comcastsportsnet.com', 'appcontact@comcastsportsnet.com']}
+{'org.x90live.fcbarcelona2018': ['Barcelona Live — Unofficial app for FC Barca Fans', '7116248744604331048', '100,000+', 'http://90live.org/', 'info@90live.org']}
+{'es.lfp.gi.main': ['La Liga Live Soccer Scores, Stats, News Highlights', '6013359427889042354', '10,000,000+', 'http://www.laliga.es', 'laliga@play.laliga.es']}
+{'com.kicksonfire.android': ['KicksOnFire: Shop, Release Calendar & Price Guide', 'KicksOnFire.com+LLC', '1,000,000+', 'http://www.KicksOnFire.com', 'android@kicksonfire.com']}
+{'com.yahoo.mobile.client.android.fantasyfootball': ['Yahoo Fantasy Sports - #1 Rated Fantasy App', '5536369398281991413', '5,000,000+', 'http://mobile.yahoo.com/fantasy-football/android', 'fantasy-mobile-android-feedback@oath.com']}
+{'com.yinzcam.tennis.bnpparibas': ['2019 BNP Paribas Open', 'Desert+Champions+LLC', '10,000+', 'http://bnpparibasopen.com', 'tix@iwtg.net']}
+{'com.espn.fantasy.lm.football': ['ESPN Fantasy Sports', 'ESPN+Inc', '5,000,000+', 'http://www.espn.com/fantasy/', 'espnmobilefeedback@espncustomercare.com']}
+{'com.nascar.nascarmobile': ['NASCAR MOBILE', '8371661405490770271', '1,000,000+', 'http://support.nascar.com/', 'nascarappsupport@nascar.com']}
+{'de.motain.iliga': ['Onefootball - Soccer Scores', 'Onefootball+GmbH', '10,000,000+', 'http://www.onefootball.com/', 'info@onefootball.com']}
+{'com.draftkings.dknativermgGP': ['DraftKings - Daily Fantasy Sports for Cash Prizes', 'DraftKings,+Inc.', '1,000,000+', 'http://www.draftkings.com', 'support@draftkings.com']}
+{'com.mlssoccer': ['MLS: Live Soccer Scores & News', 'Major+League+Soccer', '500,000+', 'http://www.mlssoccer.com', 'feedback@mlssoccer.com']}
+{'com.hudl.hudroid': ['Hudl', 'Agile+Sports', '1,000,000+', 'http://www.hudl.com/', 'support@hudl.com']}
+{'sneakercrush.mobile.sc': ['Sneaker Crush - Release Dates', 'The+New+Leaf', '1,000,000+', 'http://beatsbystackson.com/sc/pp.pdf', 'david@thesneakercrush.com']}
+{'com.ncaa.mmlive.app': ['NCAA March Madness Live', 'Turner+Sports+Interactive,+Inc', '5,000,000+', 'http://mmlfaq.ncaa.com/', 'mmlivehelp@turner.com']}
+{'com.espn.droid.bracket_bound': ['ESPN Tournament Challenge', 'ESPN+Inc', '1,000,000+', 'http://m.espn.go.com', 'espnmobilefeedback@espncustomercare.com']}
+{'com.sportstreaming.nbalive': ['NBA Live', 'Sport+Streaming', '50,000+', 'https://privacypolicies.com/privacy/view/cf91510fd8b2053969852b20c7a8efa0', 'phuctam2111@gmail.com']}
+{'com.chelseafc.the5thstand': ['Chelsea FC - The 5th Stand Mobile App', '8813214164449752048', '1,000,000+', 'http://www.chelseafc.com', 'appsupport@chelseafc.com']}
+{'com.fanduel.android.self': ['FanDuel: Daily Fantasy Sports', 'FanDuel', '1,000,000+', 'http://www.fanduel.com', 'support@fanduel.com']}
+{'com.huntstand.core': ['HuntStand', 'TerraStride+Inc.', '1,000,000+', 'http://www.huntstand.com', 'support@huntstand.com']}
+{'com.nfhsnetwork.stream': ['NFHS Network', 'NFHS+Network', '10,000+', 'http://www.nfhsnetwork.com', 'memberadmin@nfhsnetwork.com']}
+{'com.valander.shottimer': ['Shot timer IPSC IDPA USPSA', 'Vstd', '500,000+', 'http://forum.guns.ru/forummessage/78/1988664-0.html', 'lehaap1979@gmail.com']}
+{'com.ussport.freelivegame.nhl.mlb.nba.ncaaf.nfl': ['US Sports News Network', 'Stream+NBA+NFL+MLB+NHL+-+Live+US', '1,000+', 'http://ussportsalbreakingnews.org', 'ussportsalbreakingnews@gmail.com']}
+{'com.mossyoakgo': ['Mossy Oak Go: Free Outdoor TV', 'Haas+Outdoors,+Inc.', '50,000+', 'http://www.mossyoak.com', 'appdev@mossyoak.com']}
+{'com.mcentric.mcclient.FCBWorld': ['FC Barcelona Official App', 'F.C.+Barcelona', '5,000,000+', 'http://www.fcbarcelona.com', 'android.suport@fcbarcelona.cat']}
+{'com.lids.retail.android': ['LIDS Access Pass', 'Hatworld+Inc', '100,000+', 'http://www.LIDS.com', 'lidsecommerce@gmail.com']}
+{'com.maxpreps.mpscoreboard': ['MaxPreps', 'CBS+MaxPreps', '100,000+', 'http://www.maxpreps.com', 'maxpreps-android@cbsinteractive.com']}
+{'com.maxpreps.teamsapp': ['Teams by MaxPreps', 'CBS+MaxPreps', '10,000+', 'http://www.maxpreps.com', 'maxpreps-android@cbsinteractive.com']}
+{'org.x90live.realmadrid2018': ['Real Live: Unofficial football app for Madrid Fans', '7116248744604331048', '100,000+', 'http://90live.org/', 'info@90live.org']}
+{'com.golfnow.android.teetimes': ['GolfNow: Tee Time Deals at Golf Courses, Golf GPS', 'GolfNow+-+Mobile+Development+Team', '1,000,000+', 'http://www.golfnow.com', 'golfnowmobile@gmail.com']}
+{'com.digby.android.cabela': ["Cabela's", 'Cabela%27s', '500,000+', 'http://www.cabelas.com', 'mobile.team@cabelas.com']}
+{'com.futbolx.ligamx': ['Liga Bancomer MX App Oficial', 'APPCENTRAL', '1,000,000+', 'http://www.appcentral.mx', 'support@appcentralmx.zendesk.com']}
+{'com.siplay.tourneymachine_android': ['Tourney Machine', 'SI+Play+LLC', '100,000+', 'http://www.tourneymachine.com', 'support@tourneymachine.com']}
+{'com.sole.insider.free': ['SoleInsider -  Release Dates', 'Devverse', '1,000,000+', 'http://www.soleinsider.com', 'soleinsiderapp@gmail.com']}
+{'com.foxdeportes.PuntoExtra': ['Fox Deportes', 'FOX+Sports+Interactive', '100,000+', 'http://www.foxdeportes.com', 'foxdeportes.support@fox.com']}
+{'com.heja.app': ['Heja - Sports Team Management', 'Heja', '50,000+', 'http://heja.io', 'support@heja.io']}
+{'com.teamreach.app': ['TeamReach - Your Team App', 'Straxis+Technology', '50,000+', 'http://www.teamreach.com/', 'support@teamreach.com']}
+{'com.mu.muclubapp': ['Manchester United Official App', 'Manchester+United+Limited', '1,000,000+', 'https://www.manutd.com', 'digitalfeedback@manutd.co.uk']}
+{'gt.com.tigo.tigosports': ['Tigo Sports Guatemala', 'Tigo+Guatemala', '500,000+', 'http://www.tigo.com.gt', 'tigoappsguatemala@gmail.com']}
+{'com.crrepa.band.dafit': ['Da Fit', 'CRREPA', '100,000+', 'http://wei.malitu.com/app/index.php?i=4&c=site&a=site&do=detail&id=2', 'support@mofit.me']}
+{'com.televisa.deportes.android': ['Televisa Deportes', 'Televisa', '5,000,000+', 'http://www.televisa.com', 'sugerencias-apps@esmas.com']}
+{'com.vailresorts.epicmix': ['EpicMix', 'Vail+Resorts', '100,000+', 'http://www.epicmix.com', 'epicmix@snow.com']}
+{'com.dazn': ['DAZN Live Fight Sports: Boxing, MMA & More', 'DAZN', '5,000,000+', 'https://www.dazn.com', 'help@dazn.com']}
+{'com.topgolf.mobile': ['Topgolf', 'Topgolf', '100,000+', 'http://topgolf.com/company/contact/', 'info@topgolf.com']}
+{'com.neulion.android.tablet.nfl.wnfln': ['Watch NFL Network', '7468190409947973272', '1,000,000+', 'http://www.nfl.com/watchnflnetwork', 'watchnflnetwork.support@nfl.com']}
+{'com.mobilefootie.wc2010': ['FotMob - Live Soccer Scores', '6773510280946221606', '10,000,000+', 'http://www.fotmob.com', 'support@norapps.no']}
+{'com.resultadosfutbol.mobile': ['BeSoccer - Soccer Live Score', '6675318340245338110', '10,000,000+', 'http://www.besoccerapps.com', 'soporte@besoccer.com']}
+{'com.fishangler.fishangler': ['FishAngler - Fishing Forecast, Maps & Reports', 'FishAngler,+LLC', '100,000+', 'https://www.fishangler.com', 'support@fishangler.com']}
+{'com.gol_footbal_sa.mx': ['Football Live Scores Mexico 2019 - GoalAlert', 'GoalAlert', '100,000+', 'https://toralarm.com/en/privacy', 'footballappslive@gmail.com']}
+{'com.gregacucnik.fishingpoints': ['Fishing Points: GPS, Tides & Fishing Forecast', '7089577652931039187', '1,000,000+', 'https://fishingpoints.app', 'fishingpointsapp@gmail.com']}
+{'com.msgi.msggo': ['MSG GO', 'Madison+Square+Garden', '100,000+', 'http://www.msggo.com/', 'msggo@msgnetworks.com']}
+{'com.exatools.skitracker': ['Ski Tracker', 'EXA+Tools', '500,000+', 'http://examobile.com/files/privacypolicy.htm', 'exatools@gmail.com']}
+{'com.biza.canknockdown.hit.smashballs': ['Hit Cans & Knockdown', 'Biza+Studio', '100,000+', 'http://www.bizastudeo.com', 'support@bizastudeo.com']}
+{'com.neulion.smartphone.btn2go.android': ['BTN2Go', 'Big+Ten+Network+LLC', '1,000,000+', 'http://www.btn2go.com', 'btn2gosupport@btn.com']}
+{'com.fanatics': ['Fanatics: Shop NFL, NBA, NHL & College Sports Gear', 'Fanatics,+Inc', '100,000+', 'http://www.fanatics.com', 'apps@fanatics.com']}
+{'com.myoutdoortv': ['MyOutdoorTV: Hunting, Fishing, Shooting videos', 'KSE+MOTV+HOLDINGS+LLC', '100,000+', 'http://myoutdoortv.com', 'support@myoutdoortv.com']}
+{'com.sportsaction.action': ['The Action Network: Sports Scores & Live Tracker', 'SportsAction,+Inc', '100,000+', 'https://www.actionnetwork.com', 'feedback@actionnetwork.com']}
+{'com.lucidappeal.appmold': ['Los Angeles Lakers', 'Los+Angeles+Lakers', '100,000+', 'http://yinzcam.com', 'support@yinzcam.com']}
+{'com.nascar.accelerationnation': ['NASCAR Acceleration Nation - racing for kids', '8371661405490770271', '100,000+', 'https://www.nascar.com/support', 'appfeedback@nascar.com']}
+{'tv.livextream.nbalive': ['NBA Live Streaming', 'LiveXtream', '10,000+', 'http://livextream.tv', 'livextreamsport@gmail.com']}
+{'com.livesoccertv': ['Live Soccer TV - Scores & Stats', 'Live+Sport+Interactive', '1,000,000+', 'http://www.livesoccertv.com/app', 'info@livesoccertv.com']}
+{'com.heed.heedapp': ['HEED: Live Sports - UFC and EuroLeague Highlights!', 'Heed,+LLC', '100,000+', 'http://www.heedlive.com', 'support@heedlive.com']}
+{'ddidev94.fishingweather': ['Fishing forecast', '8512062328688644353', '500,000+', 'https://termsfeed.com/privacy-policy/00e9fb11d76da4e26077a8deb840c534', 'ddi.dev.94@gmail.com']}
+{'com.yinzcam.nba.warriors': ['Golden State Warriors', 'Golden+State+Warriors', '500,000+', 'http://www.warriors.com', 'pr@gs-warriors.com']}
+{'com.beckett': ['Beckett Mobile', 'Beckett', '10,000+', 'http://www.beckett.com', 'customerservice@beckett.com']}
+{'com.andromo.dev516135.app503709': ['Beginner workout - You First Month Gym Program', 'App4Life+dev', '100,000+', 'https://sites.google.com/view/app4lifedev/privacypolicy', 'muelsoft@gmail.com']}
+{'air.com.nbcuni.com.telemundo.envivo': ['Telemundo Deportes', 'NBCUniversal+Media,+LLC', '1,000,000+', 'http://www.nbcuni.com', 'Telemundo.apps@nbcuni.com']}
+{'com.sports.live.cricket.tv': ['Live Cricket TV HD', 'Sports+Stream', '1,000,000+', 'http://www.blecktechs.com', 'hightech.links786@gmail.com']}
+{'com.dfstream.nfl': ['Football AAF and NFL Live Streaming', 'DFStreaming+Ltd', '10,000+', 'https://privacypolicies.com/privacy/view/a600af821f3e78a367815f1ef66b43ff', 'anushkhachiyan2475@gmail.com']}
+{'com.hyperfame.car.gamesracing2019_free': ['Car Racing Games 2019 Free', 'Hyperfame+Games+Studio', '10,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.blizzard.owl': ['Overwatch League', '8636572569301896616', '100,000+', 'https://overwatchleague.com/', 'support@blizzard.com']}
+{'com.sofascore.results': ['SofaScore Live Score', '6519401169245062308', '10,000,000+', 'http://www.sofascore.com/news/privacy-policy/', 'support@sofascore.com']}
+{'com.techsmith.apps.coachseye.free': ["Coach's Eye", 'TechSmith+Corporation', '1,000,000+', 'http://www.coachseye.com/', 'coachseyeinfo@techsmith.com']}
+{'com.nascar.raceviewmobile': ['NASCAR RACEVIEW MOBILE', '8371661405490770271', '1,000,000+', 'http://www.nascar.com/mobile', 'nascarappsupport@nascar.com']}
+{'com.mcentric.mcclient.MyMadrid': ['Real Madrid App', '8475645928530194529', '5,000,000+', 'http://www.realmadrid.es', 'rmapp@corp.realmadrid.com']}
+{'com.fishangler.fishingspots': ['Fishing Spots - Local Fishing Maps & Forecast', 'FishAngler,+LLC', '50,000+', 'http://www.fishangler.com', 'support@fishangler.com']}
+{'com.rschooltoday.activityscheduler': ['Activity Scheduler', 'rSchoolToday', '50,000+', 'http://www.support.rschooltoday.com/page/2486', 'app-support@rschooltoday.com']}
+{'com.contorra.golfpad': ['Golf GPS Rangefinder: Golf Pad', 'Golf+Pad+GPS', '1,000,000+', 'http://www.GolfPadGPS.com', 'support@golfpadgps.com']}
+{'com.pl.premierleague': ['Premier League - Official App', 'The+Football+Association+Premier+League+Ltd', '5,000,000+', 'http://www.premierleague.com', 'info@premierleague.com']}
+{'league.poolplayers.com': ['Pool League', 'American+Poolplayers+Assoc', '50,000+', 'https://www.poolplayers.com', 'web@poolplayers.com']}
+{'com.venuetize.lafc': ['LAFC', 'Venuetize,+LLC', '5,000+', 'https://www.mlssoccer.com/privacy-policy', 'Club@LAFC.com']}
+{'com.twothumbsapp.futbolLigaMexicana': ['Soccer Mexican League', '2ThumbsApp', '1,000,000+', 'http://www.2thumbsapp.com', 'flm_support@2thumbsapp.com']}
+{'com.anglrtech.anglrapp': ['ANGLR Fishing App - Fishing Logbook of Your Trips', 'ANGLER+LABS+INC.', '10,000+', 'https://www.anglr.com', 'Support@anglr.com']}
+{'com.fubo.firetv.screen': ['fuboTV: Watch Live Sports & TV', 'fuboTV', '50,000+', 'http://www.fubo.tv', 'schoi@fubo.tv']}
+{'com.neulion.espnplayer': ['ESPN Player', 'ESPN+Inc', '50,000+', 'http://espnplayer.com', 'espnmobilefeedback@espncustomercare.com']}
+{'com.mapbile.kravmaga': ['KRAV MAGA Effective Self Defense', 'Mapbile', '100,000+', 'http://mapbile.com', 'support@mapbile.com']}
+{'com.acc': ['ACC Sports', 'Raycom+Media,+Inc', '100,000+', 'http://www.theacc.com/', 'support@sidearmsports.com']}
+{'com.hikingproject.android': ['Hiking Project', 'Recreational+Equipment,+Inc.', '100,000+', 'http://www.hikingproject.com', 'admin@adventureprojects.net']}
+{'com.noticesoftware.FanSided': ['FanSided | Sports & Ent. News', 'FanSided+Inc.', '100,000+', 'http://fansided.com/app-support/', 'appsupport@fansided.com']}
+{'com.paninidigitalinc.blitz': ['NFL Blitz - Play Football Trading Card Games', 'Panini+Digital+Inc', '100,000+', 'http://www.paniniamerica.net', 'digital1@paniniamerica.net']}
+{'com.sports.stream.nba': ['NBA Stream Live', 'On+Sports', '500+', 'https://f002.backblazeb2.com/file/beercode/allstream/policyFootball/policyFootball.html', 'matrixlife.2020@gmail.com']}
+{'com.cueaudio.tennessee': ['Hoops Hype', 'CUE+Audio', '5,000+', 'http://cueaudio.com', 'jameson@cueaudio.com']}
+{'com.supremegolf.app': ['Supreme Golf', 'Supreme+Golf,+Inc', '10,000+', 'https://supremegolf.com', 'support@supremegolf.com']}
+{'com.scores365': ['365Scores - Live Scores & Sports News', '365Scores+LTD', '10,000,000+', 'http://www.365scores.com', 'contact@365scores.com']}
+{'com.lucyselezneva.rojadirectafutbol': ['Roja Directa Futbol', 'Roja+Directa+Futbol', '500,000+', 'http://rd-tv.com/', 'seleznevalusi@gmail.com']}
+{'com.sportsyou.sportsYou': ['sportsYou', 'sportsYou', '10,000+', 'https://www.sportsyou.com', 'info@sportsyou.com']}
+{'com.fishrulesapp.fishrules2013': ['Fish Rules', 'Fish+Rules', '100,000+', 'https://www.fishrulesapp.com', 'info@fishrulesapp.com']}
+{'com.sneakersteal.android': ['SNEAKERSTEAL', 'SNEAKERSTEAL+LLC', '10,000+', 'http://www.sneakersteal.com', 'info@sneakersteal.com']}
+{'com.bonziteamandroid': ['Sports Team Connect', 'Stack+Sports', '50,000+', 'https://stacksports.com', 'teamconnect@stacksports.com']}
+{'com.nikon.spoton': ['Nikon SpotOn Ballistic Match', 'Nikon+Melville', '100,000+', 'http://www.nikonusa.com', 'support@nikon.net']}
+{'com.myleaderboard.GolfChannel': ['Golf Channel', 'Golf+Channel', '1,000,000+', 'http://www.golfchannel.com/mobile-feedback', 'mobilefeedback@golfchannel.com']}
+{'com.futbolfc.futbolespanolenvivo': ['Live Spanish Soccer', 'F%C3%BAtbol+en+Vivo+FC', '50,000+', 'http://futbolfc.com/espana/', 'pumgatkomet@gmail.com']}
+{'com.peterhohsy.mybowling': ['My Bowling Scoreboard', 'Peter+Ho', '50,000+', None, 'peterhohsy@gmail.com']}
+{'tv.livextream.nba': ['NBA Basketball Live Streaming', 'LiveXtream', '10,000+', 'http://livextream.tv', 'livextreamsport@gmail.com']}
+{'es.lfp.laligatv': ['LaLigaSportstv - Official soccer channel in HD', '6013359427889042354', '5,000,000+', 'http://www.laliga.es', 'soportelaligatv@laliga.es']}
+{'com.pinkbike.trailforks': ['Trailforks', 'Pinkbike.com', '100,000+', 'http://www.trailforks.com/', 'feedback@trailforks.com']}
+{'com.antonnikitin.solunarforecast': ['Fishing & Hunting Solunar Time', 'ANTON+NIKITIN', '1,000,000+', 'http://fhstime.com', 'fhstime@gmail.com']}
+{'com.yinzcam.nba.jazz': ['Utah Jazz + Vivint Arena', 'Larry+H+Miller+Sports+and+Entertainment', '10,000+', 'http://www.nba.com/jazz/app/support', 'appsupport@utahjazz.com']}
+{'com.sports.schedules.scores.baseball.mlb': ['Baseball MLB 2019 Live Scores, Stats, & Schedules', '6787175416888052145', '100,000+', 'https://www.scoresapp.com', 'mlb@scoresapp.com']}
+{'com.golflogix.ui': ['GolfLogix GPS + Putt Breaks', 'GolfLogix+Golf+GPS', '1,000,000+', 'http://www.GolfLogix.com', 'smartphone@golfgps.com']}
+{'com.xymob.instateam': ['InstaTeam Sports Team Management for team managers', 'Sports+Team+Management', '50,000+', 'http://www.instateam.net/contact', 'instateam@xymob.com']}
+{'com.bvd.ldwxgyyfecrxviagrsa': ['theBVD Mobile Events', 'Team+for+Bovada', '50,000+', 'http://www.thebvd.com/privacy', 'hepolzatebum@gmail.com']}
+{'org.ncsasports.rms': ['NCSA Athletic Recruiting', 'NCSA+Athletic+Recruiting', '100,000+', 'http://www.ncsasports.org', 'AndroidApp@ncsasports.org']}
+{'com.smartboxtv.nunchee.fanatiz': ['Fanatiz', 'Fanatiz', '10,000+', 'http://www.fanatiz.com', 'app@fanatiz.com']}
+{'com.active.aps.meetmobile': ['Meet Mobile: Swim', 'ACTIVE+Network,+LLC', '500,000+', 'http://www.active.com/mobile', 'swimmingsupport-mobile@activenetwork.com']}
+{'com.turner.android.ncaa': ['NCAA Sports', 'Turner+Sports+Interactive,+Inc', '500,000+', 'http://www.turner.com/brands/turner-sports', 'ncaasportsapp@turner.com']}
+{'com.advancedmobile.android.ghin': ['GHIN Mobile', 'Golf+Handicap+and+Information+Network', '100,000+', 'http://www.ghin.com', 'ghinmobile@usga.org']}
+{'com.futbolenvivohd.futbolmexicanoenvivo': ['Live Mexican Soccer', 'F%C3%BAtbol+en+Vivo+HD', '100,000+', 'http://futbolmexicanohd.com/', 'rootlaameeputa@gmail.com']}
+{'com.kings': ['SacramentoKings+Golden1Center', 'Sacramento+Kings', '10,000+', 'http://kings.com', 'kings@kings.com']}
+{'com.danpatrick': ['The Dan Patrick Show', 'its0n.tv', '50,000+', 'http://www.danpatrick.com/', 'dp@danpatrick.com']}
+{'com.yinzcam.nfl.cowboys': ['Dallas Cowboys', 'Dallas+Cowboys', '1,000,000+', 'http://www.dallascowboys.com', 'cowboys.support@yinzcam.com']}
+{'com.mtbproject.android': ['MTB Project', 'Recreational+Equipment,+Inc.', '100,000+', 'http://www.mtbproject.com', 'admin@mtbproject.com']}
+{'com.borisov.strelok': ['Strelok. Ballistic calculator', 'Igor+Borisov', '500,000+', 'http://www.borisov.mobi/android/', 'igor@borisov.mobi']}
+{'com.sports.schedules.college.basketball.ncaa': ['College Basketball Live Scores, Plays, & Schedules', '6787175416888052145', '50,000+', 'https://www.scoresapp.com', 'collegebasketball@scoresapp.com']}
+{'com.cbs.sports.fantasy': ['CBS Sports Fantasy', 'CBS+Interactive,+Inc.', '1,000,000+', 'http://www.cbssports.com', 'cbsfbandroid@cbsinteractive.com']}
+{'com.ArbiterSports.ArbiterSports': ['ArbiterMobile', 'ArbiterSports', '50,000+', 'http://www.arbitersports.com/', 'success@arbitersports.com']}
+{'com.digiturk.ligtv': ['beIN SPORTS TR', 'Digiturk', '10,000,000+', 'http://tr.beinsports.com', 'destek@digiturk.com.tr']}
+{'nl.meetmijntijd.littlerockmarathon': ['LRMarathon', 'MYLAPS+Experience+Lab', '1,000+', 'http://www.mylaps.com', 'info@meetmijntijd.nl']}
+{'com.allfootballapp.multilingual': ['All Football GO-  Live Score,Games', 'All+Football+Inc.', '1,000,000+', 'https://allfootballapp.com/about/privacy_policy', 'allfootballapps@gmail.com']}
+{'com.yinzcam.nba.bucks': ['Bucks & Fiserv Forum App', 'Milwaukee+Bucks,+Inc.', '50,000+', 'http://redirect.yinzcam.com/1/860205', 'webmaster@bucks.com']}
+{'com.yinzcam.nba.rockets': ['Houston Rockets', 'Houston+Rockets', '100,000+', 'http://www.rockets.com', 'mobileapp@rocketball.com']}
+{'com.iobapps.chestworkout': ['30 days chest workout challenge at home', 'IOB+Apps', '500,000+', 'https://www.facebook.com/notes/carlos-verde/privacy-policy/121330208456789/', 'icarus.onlinebusiness@gmail.com']}
+{'com.usga.rulesofgolf': ['The Official Rules of Golf', 'United+States+Golf+Association,+USGA', '100,000+', 'http://www.usga.org/', 'rulesapp@usga.org']}
+{'com.yinzcam.nba.spurs': ['San Antonio Spurs', 'Spurs.com', '100,000+', 'http://spurs.com', 'ogonzalez@attcenter.com']}
+{'com.dfstream.mlb': ['Baseball MLB Live Streaming', 'DFStreaming+Ltd', '1,000+', 'https://privacypolicies.com/privacy/view/752fa0899c73402c1047ceab42b8ee22', 'anushkhachiyan2475@gmail.com']}
+{'com.garmin.android.apps.golf': ['Garmin Golf', 'Garmin', '100,000+', 'http://www.garmin.com/apps', 'GolfBeta.Feedback@garmin.com']}
+{'com.futbolenvivohd.futbolespanolenvivo': ['Live Spanish Football', 'F%C3%BAtbol+en+Vivo+HD', '50,000+', 'http://futbolespanolhd.com/', 'rootlaameeputa@gmail.com']}
+{'com.livescore': ['LiveScore: Live Sport Updates', 'LiveScore+Ltd.', '10,000,000+', 'https://www.livescore.com', 'support@livescore.com']}
+{'com.nicusa.utdwrmobile': ['Utah Hunting and Fishing', 'NIC+Inc.', '100,000+', 'http://www.egov.com', 'mobile@egov.com']}
+{'com.scorestream.scorestream': ['ScoreStream High School Sports', 'ScoreStream,+Inc.', '100,000+', 'http://scorestream.com', 'feedback@scorestream.com']}
+{'com.allfootball.news': ['All Football - Latest News & Live Scores', '5999028863524402166', '10,000,000+', 'http://m.allfootballapp.com', 'allfootballapp@gmail.com']}
+{'com.alpinereplay.android': ['Trace Snow Ski Snowboard Track', 'AlpineReplay', '500,000+', 'http://snow.traceup.com', 'david@traceup.com']}
+{'com.onefc.android.app': ['ONE Championship', 'ONE+Championship', '100,000+', 'https://www.onefc.com', 'appdev@onefc.com']}
+{'com.fasterthanmonkeys.iscore': ['iScore Baseball/Softball', 'SI+Play+LLC', '100,000+', 'http://iscoresports.com', 'support@iscoresports.com']}
+{'gov.tn.portal.twra': ['TWRA On the Go', 'GoOutdoorsTennessee.com', '50,000+', 'http://www.tn.gov/twra/', 'Ask.TWRA@tn.gov']}
+{'com.tvazteca.deportes': ['Azteca Deportes', 'TV+AZTECA', '1,000,000+', 'http://www.aztecadeportes.com', 'appsazteca@tvazteca.com.mx']}
+{'com.soundhouse.scoreboardfree': ['Scoreboard Free', 'Sound+House+LLC', '100,000+', 'http://www.soundhouseapps.com', 'toanvvu@gmail.com']}
+{'us.openocean.proangler': ['Pro Angler - Fish like a Pro!', '8577489580432223104', '50,000+', 'http://www.proangler.us', 'google@proangler.us']}
+{'com.ptvsports.livefootballmatchstreaming': ['Football TV Live Streaming HD', 'Salman+Syed', '500,000+', 'https://bitbytecorp.wordpress.com/privacy-policy/', 'Bitbytecorp@gmail.com']}
+{'com.codehaha.football_live_scores': ['Football Live Scores', 'Chat+App', '1,000,000+', 'http://www.livescore.com', 'info@stalkapp.com']}
+{'com.regasoftware.udisc': ['UDisc Disc Golf App', 'UDisc+LLC', '100,000+', 'http://www.udisc.com', 'team@udisc.com']}
+{'com.flipps.fitetv': ['FITE - Boxing, Wrestling, MMA', '8920797348503464233', '500,000+', 'http://www.fite.tv', 'info@fite.tv']}
+{'com.sleeperbot': ['Sleeper - Leagues & Alerts (Formerly Sleeperbot)', 'Blitz+Studios,+Inc.', '100,000+', 'http://www.sleeper.app', 'support@sleeperbot.com']}
+{'com.huami.watch.hmwatchmanager': ['Amazfit Watch', 'Huami', '500,000+', 'https://www.amazfit.com', 'support@amazfit.com']}
+{'com.pac_12.android_player': ['Pac-12 Now', 'Pac-12+Networks', '100,000+', 'http://www.pac-12.com', 'support@pac-12.org']}
+{'com.footballscores.leagueslivematches': ['LiveScores 7/24 - Football Scores, Fixtures, News', 'Smart+Trendy+mobile+apps', '10,000+', 'https://www.appcalibre.com/#/privacy-policy', 'giovannimargarmob@gmail.com']}
+{'com.imleagues': ['IMLeagues', 'IMLeagues,+LLC', '50,000+', 'https://www.imleagues.com', 'Support@imleagues.com']}
+{'com.draftkings.dklive': ['DK Live - Sports Play by Play', 'DraftKings,+Inc.', '100,000+', 'http://www.draftkings.com', 'support@draftkings.com']}
+{'com.ooyala.att.sportsnet': ['AT&T SportsNet', 'Ooyala+Android+Developer', '10,000+', 'http://www.attsportsnet.com/contact-us/', 'role-android_dev@ooyala.com']}
+{'com.livenettvapp.livenetnews': ['Live Net Sports', 'Live++Entertainmnet+Media', '100,000+', 'https://docs.google.com/document/d/1kzX9HZ4RqAmzKFPdO-i7-u7s78GW2o0334ox-UOsIv8/edit', 'cn68go20@gmail.com']}
+{'com.wwwfutboltv.fuboltv': ['Fútbol TV', 'F%C3%BAtbol+TV', '10,000+', None, 'lhezver19@gmail.com']}
+{'com.taylormadegolf.myroundpro.android': ['myRoundPro Golf App', 'Taylor+Made+Golf+Company,+Inc.', '10,000+', 'https://myroundpro.com/', 'myRoundProSupport@taylormadegolf.com']}
+{'com.swingbyswing': ['Golf GPS by SwingU', 'Swing+by+Swing+Golf+GPS', '1,000,000+', 'http://www.swingbyswing.com', 'support@swingu.com']}
+{'com.strong.legs.workout.muscle.fitness': ['Leg Workout for Men - Thigh, Muscle Fitness 30 Day', '7685610634539575262', '100,000+', 'https://appxpertorg.wordpress.com/privacy-policy/', 'tenappsstudios@gmail.com']}
+{'com.bsb.TeamSportsHQ': ['DICK’S Team Sports HQ', 'Blue+Sombrero,+LLC', '100,000+', 'http://www.bluesombrero.com', 'developer@bluesombrero.com']}
+{'com.eeec.depor': ['Depor', 'Empresa+Editora+El+Comercio', '50,000+', 'http://depor.pe', 'mobilepub@comercio.com.pe']}
+{'com.yinzcam.PenguinsMobile': ['Pittsburgh Penguins Mobile', 'Pittsburgh+Penguins,+LP', '100,000+', 'http://www.yinzcam.com', 'support@yinzcam.com']}
+{'video.ringtones.wallpaper': ['WWE Ringtone video 2019 ( updated )', 'Happy+to+help+you', '10,000+', None, 'write.happyday@gmail.com']}
+{'com.bskyb.sportnews.international': ['Sky Sports International', 'Sky+UK+Limited', '50,000+', 'http://www.skysports.com', 'apps@sky.uk']}
+{'com.plan.tipsvbx': ['V bucks Battle Royale proTips 2k18', 'Official+Live+Apps', '10,000+', 'http://www.eleganttakhleeq.com', 'drdevhi@gmail.com']}
+{'com.fishidy': ['Fishidy: Fishing Hot Spot Maps, Reports & Tips', 'Fishidy', '100,000+', 'https://www.fishidy.com', 'support@fishidy.com']}
+{'com.bassforecast.android': ['BassForecast', 'BassForecast,+LLC', '50,000+', 'http://www.bassforecast.com', 'support@bassforecast.com']}
+{'com.sports.schedules.basketball.nba': ['Basketball NBA Live Scores, Stats, Schedules: 2019', '6787175416888052145', '100,000+', 'https://www.scoresapp.com', 'nba@scoresapp.com']}
+{'com.fantasypros.draftwizard.mlb': ['Fantasy Baseball Draft Wizard', 'FantasyPros', '10,000+', 'https://draftwizard.fantasypros.com/baseball/', 'draftwizard-android@marzenmedia.com']}
+{'com.nfl.fantasy.core.android': ['Fantasy Football', '7468190409947973272', '5,000,000+', 'http://fantasy.nfl.com/', 'support@nfldigitalcare.zendesk.com']}
+{'andrewgilman.dartsscoreboard': ['Darts Scoreboard', 'Andy+Pandy', '500,000+', 'https://sites.google.com/view/darts-scoreboard-privacy', 'andypandy.apps@gmail.com']}
+{'com.nesn.nesnplayer': ['NESNgo', 'NESN', '50,000+', 'http://nesn.com', 'newmediatech@nesn.com']}
+{'live.sportstvhd': ['Live Sports TV - Streaming HD SPORTS Live', 'CLUB7+CREATIONS', '100,000+', None, 'club7creations@gmail.com']}
+{'com.o_taiji.digitimer': ['Scoreboard Basketball', '7+peace', '500,000+', 'http://sc.oreboard.com/', 'r200502081@gmail.com']}
+{'com.bpdj.ballparkdj': ['BallparkDJ', '6816049802861429441', '500+', 'http://www.ballparkdj.com', 'info@ballparkdj.com']}
+{'com.johneyboy.predatorcalls': ['Predator Calls', 'Nielsen+Family+Creations', '50,000+', 'http://callanimals.com', 'info@callanimals.com']}
+{'com.mfutbg.app': ['Soccer Live on TV', 'Media+Group+24+Ltd.', '500,000+', 'http://football-on-tv.net/', 'contact@football-on-tv.net']}
+{'com.copasenvivohd.championsleagueenvivo': ['Live Champions League', '6037735850818607492', '10,000+', 'http://futbol-vivo.com/champions-league/', 'masenrpoluna@gmail.com']}
+{'com.teeoff.teeoff_mobile_android': ['TeeOff by PGA TOUR', 'Teeoff+Media', '100,000+', 'http://www.teeoff.com', 'teeoffmedia@ezlinks.com']}
+{'com.bcgroup.sport': ['sport TV Live - Sport Television', 'BCGROUP', '50,000+', 'https://www.brandcreatorsgroup.com', 'info@brandcreatorsgroup.com']}
+{'com.supersaika.mb.basebaball.free.hd.sports.bowl': ['MLB Baseball Stream', 'Anzio+NFL+Ink', '1,000+', 'http://45.63.4.106/privacy', 'dipu476@gmail.com']}
+{'com.mobile.android.patriots': ['New England Patriots', 'New+England+Patriots', '500,000+', 'http://www.patriots.com', 'web@patriots.com']}
+{'com.horseracesnow.android': ['Horse Races Now', 'Horse+Races+Now,+LLC', '100,000+', 'http://horseracesnow.com', 'Info@HorseRacesNow.com']}
+{'com.csl1911a1.livefiretrainer': ['Splits - Shot Timer', 'CSL1911A1', '50,000+', 'https://www.facebook.com/csl1911a1/', 'csl1911a1@gmail.com']}
+{'com.ibm.events.android.atlantaunited': ['Atlanta United FC', 'Atlanta+United+FC', '10,000+', 'http://www.atlutd.com', 'info@atlutd.com']}
+{'com.majorleaguefishing.app': ['Major League Fishing', 'Major+League+Fishing', '10,000+', 'http://www.majorleaguefishing.com', 'majorleaguefishing@gmail.com']}
+{'com.lumiplan.montagne.SquawValley': ['Squaw Valley | Alpine Meadows', 'Squaw+Valley+Ski+Holdings,+LLC', '10,000+', 'http://squawalpine.com/', 'feedback@squawalpine.com']}
+{'com.baseball.wallpapers.hd': ['Baseball Wallpapers HD 2019', 'Enissaystudio', '1,000+', None, 'enissaywins@gmail.com']}
+{'com.futbin': ['FUT 19 Draft, Squad Builder & SBC - FUTBIN', 'FUTBIN', '1,000,000+', 'http://www.futbin.com', 'support@futbin.com']}
+{'com.bosc.cointoss': ['Coin Toss - Best Coin Flip App', 'Bosc+Services', '10,000+', 'http://bosc.in', 'info@bosc.in']}
+{'satellite.nba_games.live_tv_scores': ['NBA Games Live on TV - Free', 'Mo+Apps', '10,000+', 'https://docs.google.com/document/d/e/2PACX-1vS9RWKqw-D5MbF3jIuk_OZ8bJo3JlIZtbO6ZRpldPoespx8QpDI9e1YeCDhQ93igxeEYgurBWzx2ejD/pub', 'mo.apps.ma@gmail.com']}
+{'com.mobyleinc.ligamx': ['Mexican Football Scores: Liga, Copa and more', '9074544499212936110', '50,000+', 'http://mobyleinc.com/', 'mobyleinc@gmail.com']}
+{'com.live.free.uefa.champions.league.hd.pp': ['Live free Uefa Champions League HD 720p', 'Alshameri', '5,000+', None, 'oalshameri@gmail.com']}
+{'ca.compusport.compusport': ['CompuSport', 'CompuSport', '50,000+', 'http://compusport.us', 'info@compusport.ca']}
+{'com.Basic.Gymnastics.Training.Moves': ['Gymnastics Moves', 'Sports+Learning+Tips', '50,000+', 'https://sites.google.com/site/sportsprivacypolicy/', 'sports.learning.tips@gmail.com']}
+{'com.squarevalley.i8birdies': ['18Birdies: Golf GPS App', '18Birdies+LLC', '500,000+', 'https://18birdies.com/', 'support@18Birdies.com']}
+{'com.netcosports.and.foxsports': ['Fox Sports - AFL, NRL & Sports', 'Fox+Sports+Australia', '100,000+', 'http://www.foxsports.com.au/', 'digital.support@foxsports.com.au']}
+{'com.hyperfame.car_parking_driving2019': ['Car Parking Driving 2019 Free', 'Hyperfame+Games+Studio', '10,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.softpauer.f1timingapp2014.basic': ['Formula 1®', 'Formula+One+Digital+Media+Limited', '1,000,000+', 'http://www.formula1.com', 'CustomerCare@formula1.com']}
+{'com.flipgive.app': ['FlipGive: Team Funding Made Easy', 'FlipGive', '10,000+', 'https://www.flipgive.com', 'team@flipgive.com']}
+{'com.dorna.officialmotogp': ['MotoGP™', 'Dorna+Sports+S.L.', '1,000,000+', 'http://www.motogp.com', 'feedback-apps@dorna.com']}
+{'com.super.bowl.posts': ['SuperBowl NFL 2019 Community - for Football Fan', 'counselor.', '5,000+', 'https://github.com/amorfatiworld/PolicyRepository/blob/master/Privacy%20policy', 'amorfatiworld@gmail.com']}
+{'com.tennischannel.tceverywhere': ['Tennis Channel', 'Tennis+Channel', '100,000+', 'http://www.tennischannel.com', 'website@tennischannel.com']}
+{'com.paninidigitalinc.nbadunk': ['NBA Dunk - Play Basketball Trading Card Games', 'Panini+Digital+Inc', '100,000+', 'http://www.paniniamerica.net', 'digital1@paniniamerica.net']}
+{'com.desiderata.ihunt': ['iHunt Calls: 600 hunting calls', 'iHunt,+LLC', '10,000+', 'http://ihuntcalls.com', 'support@ihuntcalls.com']}
+{'com.xcosoftware.miamiheat': ['Miami HEAT Mobile', 'Miami+HEAT', '100,000+', 'http://www.heat.com/app', 'mobile@heat.com']}
+{'com.resortstapped.STEAMBOAT': ['Steamboat Ski and Resort', 'Resorts+Tapped+LLC', '10,000+', 'http://www.resortstapped.com', 'support@resortstapped.com']}
+{'com.zerothebugs.ligamx0': ['Fútbol MX', 'Zero+the+Bugs', '100,000+', 'https://docs.google.com/document/d/1vvhXhSmeozNZSny7189F6bpkb1YM-Ly2DdeovK4jAQw/edit?usp=sharing', 'zerothebugs@gmail.com']}
+{'aheschl.easyvolleyballscorekeeper': ['Easy Volleyball Scorekeeper - With Text Messaging', 'Andrew+Heschl', '5,000+', 'https://app.termly.io/document/privacy-policy-for-mobile-app/6faa289e-924f-4a6e-be0c-1f2215e8e9e1', 'ajheschl@gmail.com']}
+{'com.mountainproject.android': ['Mountain Project', 'Recreational+Equipment,+Inc.', '100,000+', 'http://mountainproject.com', 'support@mountainproject.com']}
+{'jp.co.runners.ouennavi': ['R-navi', 'R-bies,INC.', '100,000+', 'https://runnet.jp/', 'netadmin@runners.co.jp']}
+{'com.mobile.android.celtics': ['Boston Celtics', 'Boston+Celtics', '100,000+', 'http://www.nba.com/celtics/', 'celticsdeveloper@gmail.com']}
+{'com.allspr.nfl.nba.nhl.sports.ads': ['Live Stream for NFL NBA NCAAF MLB and many sports', 'tafik+dev', '1,000+', 'https://www.freeprivacypolicy.com/privacy/view/85d03d89a4ba9a0d3462f66a5a19f44c', 'lotfirafik693@gmail.com']}
+{'com.yinzcam.nfl.steelers': ['Pittsburgh Steelers', '9047556097149013853', '500,000+', 'http://www.yinzcam.com', 'support@yinzcam.com']}
+{'com.basketball.wallpapers.hd': ['Basketball Wallpapers HD 2019', 'Enissaystudio', '5,000+', None, 'enissaywins@gmail.com']}
+{'com.rainoutline.app': ['RainoutLine.com 2017', 'Status+Share+LLC', '10,000+', 'http://rainoutline.com', 'support@rainoutline.com']}
+{'com.playdraft.playdraft': ['DRAFT: Daily & Season-Long Fantasy Sports Contests', 'DRAFT', '100,000+', 'http://draft.com', 'support@draft.com']}
+{'com.brandtinfo.outdoorsok': ['Go Outdoors Oklahoma', 'Go+Outdoors+Oklahoma,+LLC', '1,000+', 'https://gooutdoorsoklahoma.com', 'mobile@gooutdoorsoklahoma.com']}
+{'com.freecaddie': ['Free Golf GPS APP - FreeCaddie', 'Folla+Media,+LLC', '1,000,000+', 'http://freecaddie.com', 'support@freecaddie.com']}
+{'com.footylight.android.ga': ['Footylight   - Football livescore & highlights', 'DoDock+Sports', '10,000+', 'https://www.dodock.com/privacy-policy', 'our.biz.talks@gmail.com']}
+{'com.nicusa.huntfishms': ['MDWFP Hunting and Fishing', 'NIC+Inc.', '10,000+', 'http://ms.gov', 'mobile@egov.com']}
+{'com.fatmaprn': ['FATMAP: Ski, Bike & Hike Guide', 'Terrascope+Ltd', '50,000+', 'https://www.fatmap.com', 'support@fatmap.com']}
+{'com.vzw.indycar': ['INDYCAR', 'INDYCAR', '100,000+', 'https://www.indycar.com', 'indycar@indycar.com']}
+{'com.fridaylab.deeper': ['Deeper - Smart Sonar', 'Deeper,+UAB', '1,000,000+', 'https://www.deepersonar.com', 'support@deeper.eu']}
+{'net.studioexitt.golfdistance': ['Measure Distance and Aiming', '8557897500959922480', '100,000+', 'http://cafe.naver.com/gexit', 'studio.exitt@gmail.com']}
+{'itargetpro.com.targetpro': ['iTarget Pro', 'Joe+Jenius+inc', '50,000+', 'http://www.itargetpro.com', 'sales@itargetpro.com']}
+{'com.buoy76.huntpredictor': ['HuntWise: The Hunting App', 'Sportsman+Tracker', '100,000+', 'https://huntwise.com', 'hello@huntwise.com']}
+{'com.roberts.croberts.mantis': ['MantisX', 'Bookoo+Ventures', '10,000+', 'https://mantisx.com', 'support@mantisx.com']}
+{'com.supersport.android.phone': ['SuperSport', 'SuperSport+Online', '10,000,000+', 'http://www.supersport.com/', 'support@supersport.com']}
+{'com.appstem.mammoth': ['Mammoth', 'Mammoth+Mountain', '10,000+', 'http://www.mammothmountain.com', '800Mammoth@MammothResorts.com']}
+{'com.iphonedroid.marca': ['MARCA - Diario Líder Deportivo', 'Unidad+Editorial,+S.A.', '5,000,000+', 'http://www.marca.com', 'marca.android@gmail.com']}
+{'com.netcosports.andflowsports': ['Flow Sports', 'Cable+%26+Wireless+Communications', '100,000+', 'http://www.discoverflow.co', 'flowapps@cwc.com']}
+{'net.paniniamerica.direct': ['Panini Direct', 'Panini+America+Inc.', '10,000+', 'http://store.paniniamerica.net', 'jhowarth@paniniamerica.net']}
+{'arm.master.fitness.workout': ['Arm Master-30 Days Plan', 'Annie%27s+Grammy', '100,000+', 'https://docs.google.com/document/d/e/2PACX-1vSLIRcS0BECA3ECxLrAz1oaUR5P8K_Tp0PHb66RaMlq_g8t-xFz57B6gUbjFZ4NXVQ9J768GltibGlG/pub', 'awesomeoctober2018@gmail.com']}
+{'gov.mo.mdc.hunter.android': ['MO Hunting', 'Missouri+Department+of+Conservation', '100,000+', 'http://mdc.mo.gov/mobile/mobile-apps/mo-hunting', 'mdcweb@mdc.mo.gov']}
+{'com.ftbpro.app': ['90min - Live Soccer News App', 'Minute+Media', '1,000,000+', 'http://www.minutemedia.com', 'feedback@minutemedia.com']}
+{'com.hole19golf.hole19.beta': ['Hole19: Golf GPS App, Rangefinder & Scorecard', 'Hole19', '500,000+', 'http://www.hole19golf.com', 'help@hole19golf.com']}
+{'com.vtvy.hiphtr': ['Your Tv player all in one', 'Prodev;+My+Pro+Apps', '50,000+', 'https://yourtvplayer.blogspot.com/2018/09/privacyPolicy.html', 'yourtvyoutvamigos@gmail.com']}
+{'com.sbweb.worldcupjersey': ['Football Jersey Maker', 'Ice+Point', '500,000+', 'http://sbwebtechnology.com', 'bdhakal207@gmail.com']}
+{'com.spond.spond': ['Spond - Sports Team Management', 'Spond+AS', '100,000+', 'http://spond.com', 'feedback@spond.com']}
+{'com.gelsoftpr.bsnpr': ['Baloncesto Superior Nacional', 'Gelsoft+LLC', '10,000+', 'http://www.bsnpr.com/', 'gelsoftpr@gmail.com']}
+{'com.playsight.tennis': ['PlaySight', 'PlaySight+Interactive+LTD', '10,000+', 'https://www.playsight.com', 'info@playsight.com']}
+{'app.namnh.chesstimer': ['Chess Timer', 'YOLO-Studio', '50,000+', 'https://sites.google.com/view/yolo-studio-privacypolicy/', 'mhainam0901@gmail.com']}
+{'com.mylaps.eventapp.sporthivelive': ['MYLAPS Sporthive Live Events', 'MYLAPS+Experience+Lab', '5,000+', 'https://mylaps.zendesk.com/hc/en-us/sections/201537322-4-Athlete-Fans-Guide-', 'info.mel@mylaps.com']}
+{'com.ooyala.att.rootsports': ['ROOT SPORTS', 'Ooyala+Android+Developer', '10,000+', 'http://rootsports.itmwpb.com/contact-us/', 'role-android_dev@ooyala.com']}
+{'com.yinzcam.nba.hawks': ['Hawks + State Farm Arena', 'Atlanta+Hawks', '10,000+', 'http://www.hawks.com', 'hawks.mailbag@hawks.com']}
+{'com.b3connect.dmf.pistons': ['Detroit Pistons', 'B3Connect', '50,000+', 'http://fanserv.com', 'pistonsfeedback@b3connect.com']}
+{'com.divessi.ssi': ['MySSI', 'SSI+Scuba+Schools+International', '100,000+', 'http://www.divessi.com', 'ck@beyond.de']}
+{'com.mapbile.wingchun': ['Wing Chun Kung Fu', 'Mapbile', '100,000+', 'http://mapbile.com', 'support@mapbile.com']}
+{'com.tiplay.central': ['iScore Central - Game Viewer', 'SI+Play+LLC', '50,000+', 'http://iscoresports.com', 'support@iscoresports.com']}
+{'com.usbc.bowl': ['BOWL.com', 'United+States+Bowling+Congress', '50,000+', 'https://bowl.com', 'Jason.Overstreet@bowl.com']}
+{'com.dribbleupsoccer': ['Soccer Game Drills - DribbleUp', 'DribbleUp+Inc', '10,000+', 'http://dribbleup.com', 'eric@dribbleup.com']}
+{'com.giobat.troviamoci': ['A-GPS Tracker', 'Gio+Bat', '100,000+', None, 'giobat.mailbox@gmail.com']}
+{'com.reloaderscloud.rangebuddy': ['Range Buddy', 'Reloader%27s+Cloud', '50,000+', 'http://reloaderscloud.appspot.com/', 'service.reloaderscloud@gmail.com']}
+{'tv.willow': ['Willow', 'Willow+TV+International', '100,000+', 'http://www.willow.tv', 'support@willow.tv']}
+{'com.statechamps': ['StateChamps: Tickets to High School Events', 'TicketBiscuit', '10,000+', 'https://statechamps.com/', 'support@statechamps.com']}
+{'com.jome.fishsmart': ['Humminbird FishSmart', 'Johnson+Outdoors', '10,000+', 'https://chartselect.humminbird.com/fishsmart', 'service@humminbird.com']}
+{'com.twoscape.sportler': ['Sportler Ski Tracker', 'TwoScape', '50,000+', 'http://getsportler.com', 'twoscapeapps@gmail.com']}
+{'horse.schvung.equilab': ['Equilab - Equestrian Tracker', '5478903763947850773', '100,000+', 'https://www.equilab.horse', 'adam@equilab.horse']}
+{'com.bamnetworks.mobile.android.gameday.milb': ['MiLB First Pitch', 'MLB+Advanced+Media,+L.P.', '100,000+', 'http://www.mlb.com', 'mlb-mobile-cs@mlb.com']}
+{'com.sports.scores.baseball.schedule.new_york.yankees': ['Yankees Baseball: Live Scores, Stats, Plays, Games', '7234972279410353413', '10,000+', 'http://www.sportsscheduleapp.com', 'sportsscoresapp@gmail.com']}
+{'com.gami.soccerchamp': ['Football championship Fever', 'Takbeer+Apps', '10,000+', 'https://takbeerapps.blogspot.com/2019/02/takbeer-apps-privacy-policy-background.html', 'takbeerapps2019@gmail.com']}
+{'com.sagedom.tennispal': ['TennisPAL', 'SageDom', '5,000+', 'http://www.sagedom.com', 'admin@sagedom.com']}
+{'ecusports.appequ': ['Ecuador-Sport', 'J.+Gorotiza+-+Developer', '10,000+', 'http://www.e-droid.net/privacy.php?ida=468987&idl=en', 'johngorotiza38@gmail.com']}
+{'com.funnware.horseshowtracker': ['Horse Show Tracker - FunnWare', 'FunnWare+Development', '5,000+', 'https://www.funnware.com/horse-show-tracker/', 'info@funnware.com']}
+{'de.perished.android.apps.fishingknots': ['Fishing Knots', 'Phillip+Steffensen', '1,000,000+', 'http://www.perished-apps.de', 'market@perished-apps.de']}
+{'com.nike.nikeconnect': ['NikeConnect', '5943102410143165456', '50,000+', 'https://www.nike.com/us/en_us/c/connected-jerseys/faq', 'Nike.googleplaysupport@nike.com']}
+{'org.tokyomarathon_app': ['TOKYO MARATHON FOUNDATION APP', 'Tokyo+Marathon+Foundation', '10,000+', 'http://www.marathon.tokyo/', 'daihyo@tokyo42195.org']}
+{'com.sports.scores.baseball.schedule.philadelphia.phillies': ['Phillies Baseball: Live Scores, Stats, Plays Games', '7234972279410353413', '10,000+', 'http://www.sportsscheduleapp.com', 'sportsscoresapp@gmail.com']}
+{'timer.boxing': ['Boxing Timer', 'Ronald+Koster', '50,000+', 'https://ronaldkoster.github.io/privacy_policy_boxing_timer', 'ronald.koster07@gmail.com']}
+{'com.teamunify.ondeck': ['OnDeck', 'SportsEngine', '50,000+', 'http://www.teamunify.com', 'ondeckandroid@teamunify.com']}
+{'org.playball.mobile': ['USA Baseball Mobile Coach', 'United+States+Baseball+Federation', '10,000+', 'http://www.usabaseball.com', 'mediarelations@usabaseball.com']}
+{'com.velocor.mScorecard': ['mScorecard - Golf Scorecard', 'Velocor', '100,000+', 'http://www.mscorecard.com', 'contact@mscorecard.com']}
+{'com.mileyenda.manager': ['Bracket Maker & Tournament App', '8937205989014611212', '100,000+', 'https://leverade.com/tournament', 'manager@leverade.com']}
+{'holoduke.soccer_gen': ['Football Live Scores', 'Football+Soccer+Scores', '5,000,000+', 'http://holoduke.nl', 'gillis.haasnoot@gmail.com']}
+{'gov.wa.dfw.fishwashington': ['Fish Washington', 'Washington+State+Dept.+of+Fish+and+Wildlife', '10,000+', 'http://wdfw.wa.gov/', 'BDS.SWAT@dfw.wa.gov']}
+{'com.teamsnap.thespringgames': ['THE Spring Games', 'TeamSnap+Tournaments', '100+', 'https://www.teamsnap.com', 'josh.antweiler@teamsnap.com']}
+{'com.decoypro.coyoteuk': ['Coyote Hunting Calls UK', 'GuideHunting+L.L.C.', '1,000+', 'http://www.decoypro.com', 'scott@decoypro.com']}
+{'com.yinzcam.nfl.eagles': ['Eagles Official Mobile', 'PhiladelphiaEagles', '500,000+', 'http://www.philadelphiaeagles.com/mobile', 'support@yinzcam.com']}
+{'com.resortstapped.JHT': ['JH Tapped', 'Resorts+Tapped+LLC', '10,000+', 'http://www.resortstapped.com', 'support@resortstapped.com']}
+{'com.sports_it.mysam': ['Dash Online', 'Dash+Platform', '10,000+', 'http://www.dashplatform.com', 'support@sports-it.com']}
+{'com.venuenext.mnunited': ['Minnesota United FC', 'Minnesota+United+FC', '1,000+', 'http://www.mnufc.com', 'info@mnufc.com']}
+{'com.mapbile.karatewkf': ['Karate WKF', 'Mapbile', '500,000+', 'http://mapbile.com', 'support@mapbile.com']}
+{'com.exposure.classic': ['Classic Tournaments & Events', 'Exposure+Events,+LLC', '1,000+', 'http://basketball.exposureevents.com/mobile', 'info@exposureevents.com']}
+{'com.zepp.zgolf': ['Zepp Golf Swing Analyzer', 'Zepp+Labs,+Inc.', '100,000+', 'http://www.zepp.com/golf/', 'support@zepplabs.com']}
+{'se.footballaddicts.livescore': ['Forza Football - Live soccer scores', '6148087948029332112', '5,000,000+', 'http://www.forzafootball.com', 'support@forzafootball.com']}
+{'com.yinzcam.nba.sixers': ['Philadelphia 76ers', 'Philadelphia+76ers,+L.P.', '50,000+', 'http://redirect.yinzcam.com/1/860208', 'mobile@sixers.com']}
+{'lunosoftware.sportsalerts': ['Sports Alerts - real-time scores, stats & odds', 'Luno+Software,+Inc.', '100,000+', 'http://www.lunosoftware.com', 'support@lunosoftware.com']}
+{'sport.mobile2ds.com': ['Live Sports TV Listings Guide', 'Mobile2ds', '100,000+', 'https://sport-tv-guide.live', 'app@sport-tv-guide.live']}
+{'com.sports.stream.nfl': ['NFL Stream Live', 'On+Sports', '100+', 'https://f002.backblazeb2.com/file/beercode/allstream/policyFootball/policyFootball.html', 'matrixlife.2020@gmail.com']}
+{'com.cricbuzz.android': ['Cricbuzz - Live Cricket Scores & News', 'Cricbuzz.com', '50,000,000+', 'https://www.cricbuzz.com/', 'android@cricbuzz.com']}
+{'com.eisterhues_media_2': ['GoalAlert Football Live Scores Fixtures Results', 'TorAlarm+GmbH', '1,000,000+', 'https://toralarm.com', 'support@toralarm.eu']}
+{'com.yinzcam.nba.bulls': ['Chicago Bulls', 'Chicago+Bulls', '100,000+', 'http://Bulls.com', 'bullsapps@gmail.com']}
+{'com.fanduel.scout': ['FanDuel Scout', 'FanDuel', '50,000+', 'http://www.fanduel.com', 'support@fanduel.com']}
+{'com.sportinginnovations.omsnmaa': ['NMAA 24/7', 'NMAA', '100+', 'http://www.nmact.org', 'tyler@nmact.org']}
+{'com.espnsportsradiopodcast.espnradiosportspodcenter': ['Podcast ESPN SPORTS & Radio Sports Podcasts', 'Media+Digital+Mobile+LLC', '5,000+', 'http://mediadigitalmobile.blogspot.mx/2018/05/privacy-policy-for-mobile-applications.html', 'media.digital.mobile@mail.com']}
+{'com.copa.libertadores.livescores': ['CONMEBOL Libertadores', 'CONMEBOL', '50,000+', 'http://www.conmebol.com', 'ltroche@conmebol.com']}
+{'com.golftripgenius.android.leaguegenius': ['Golf Genius', 'Golf+Genius+Software,+LLC.', '50,000+', 'https://www.golfgenius.com', 'help@golfgenius.com']}
+{'com.mapbile.aikidoma': ['Aikido MA', 'Mapbile', '100,000+', 'http://mapbile.com', 'support@mapbile.com']}
+{'com.gotsoccer.teamApp': ['GotSoccer Team', 'GotSoccer+LLC', '10,000+', 'http://www.gotsoccer.com', 'mobileapps@gotsport.com']}
+{'com.fsof': ['15SOF', '15+Seconds+of+Fame,+Inc.', '10,000+', 'http://www.15secondsoffame.com', 'support@15sof.com']}
+{'com.microsoft.amp.apps.bingsports': ['MSN Sports - Scores & Schedule', '6720847872553662727', '500,000+', 'http://www.microsoft.com', 'msnappsupport@microsoft.com']}
+{'org.worldrugby.sevens': ['HSBC Sevens Series 2019', 'World+Rugby', '50,000+', 'https://www.rwcsevens.com/', 'irbmobapp@gmail.com']}
+{'com.doapps.android.mln.MLN_3454e94e0644b2c3413d52beb5c350da': ['BaseballStL St. Louis Baseball', 'KMOV-TV,+Inc', '100,000+', 'http://www.doapps.com', 'android@doapps.com']}
+{'com.nbcsports.news': ['NBC Sports Scores', 'NBCUniversal+Media,+LLC', '500,000+', 'http://www.nbcolympics.com%20', 'android@nbcuni.com']}
+{'com.sports.scores.baseball.schedule.chicago.cubs': ['Cubs Baseball: Live Scores, Stats, Plays & Games', '7234972279410353413', '10,000+', 'http://www.sportsscheduleapp.com', 'sportsscoresapp@gmail.com']}
+{'com.teeupapp': ['Tee Up - Find Golf Partners Near You!', 'TeeUp', '1,000+', 'http://teeupapp.net', 'info@teeupapp.net']}
+{'com.yinzcam.nfl.chiefs': ['Chiefs Mobile', '9047556097149013853', '100,000+', 'http://www.yinzcam.com', 'support@yinzcam.com']}
+{'com.pickstream': ['Scores & Odds by Onside Sports', 'Pickstream', '100,000+', 'http://www.onsidesportsapp.com/', 'feedback_android@onsidesportsapp.com']}
+{'tr.solunar_forecast': ['Solunar Time Forecast', 'Burak+Karabulut', '50,000+', 'https://sites.google.com/view/solunar-time-forecast/privacy', 'burakkarabulut.dev@gmail.com']}
+{'com.topps.bunt': ['MLB BUNT: Baseball Card Trader', '7474025739963323294', '100,000+', 'http://www.topps.com/customer-service/topps-apps-support', 'support@topps.zendesk.com']}
+{'com.futboltvonline.libertadores': ['Copa Libertadores EN VIVO', 'FUTBOL+MOBILE+INC', '10,000+', 'http://futboltvonline.com/', 'futboltvonline94@gmail.com']}
+{'com.org.nfhs.rulebook': ['NFHS Rules', 'NFHS', '10,000+', 'http://www.nfhs.org', 'mmeenan@nfhs.org']}
+{'com.aspensnowmass.app': ['Aspen Snowmass App', 'Aspen+Skiing+Company', '5,000+', 'http://aspensnowmass.com', 'mobileapp@aspensnowmass.com']}
+{'id.akusantri.ronaldowallpaperhd': ['Ronaldo Wallpaper HD', '7413431291863238399', '1,000,000+', 'https://www.freeprivacypolicy.com/privacy/view/d57a78da1e886c158c9a7ba81981005b', 'info.akusantri@gmail.com']}
+{'com.hofr': ['HOFr', 'Timeline+Interactive', '10,000+', 'http://hofrsports.com', 'feedback@hofrsports.com']}
+{'com.ideasmobilelab.iproone': ['Live Football TV', 'Ideas+MobileLab', '100,000+', 'https://docs.google.com/document/d/e/2PACX-1vSeDJ3Hf1jwkyocK-zD3knxB2kjp19T0StKB3cxObhTk6k8xLxW5-koa3nVxL96mBHXkUqWjnP3hNv_/pub', 'mamunabdullah100@gmail.com']}
+{'com.moutriemobile.android.tyche': ['Moultrie Mobile', 'PRADCO+Outdoor+Brands', '10,000+', 'https://www.moultriemobile.com/#/contact', 'customerservice@moultriemobile.com']}
+{'com.copasenvivohd.ligadecampeonesenvivo': ['Live CONCACAF Championes League', '6037735850818607492', '1,000+', 'http://futbol-vivohd.com/liga-de-campeones-concacaf/', 'masenrpoluna@gmail.com']}
+{'com.venuetize.redbulls': ['NY Red Bulls', 'Red+Bull+New+York,+Inc.', '5,000+', 'http://newyorkredbulls.com', 'nyrbmedia@gmail.com']}
+{'com.fanpictor.dallasstarslightshow': ['Dallas Stars Light Show', 'Fanpictor', '5,000+', 'http://www.fanpictor.com', 'hello@fanpictor.com']}
+{'com.celltick.lockscreen.theme.ESPN_Games': ['ESPN Games', 'ESPN+Inc', '10,000+', 'http://espn.com.br/espngames', 'espnmobilefeedback@espncustomercare.com']}
+{'eu.virtualtraining': ['Rouvy', 'VirtualTraining+s.r.o.', '50,000+', 'https://www.rouvy.com', 'support@rouvy.com']}
+{'com.sierrabullets.ReloadingManual': ['Sierra Bullets Reloading Manual V6.0', 'Sierra+Bullets', '1,000+', 'https://www.sierrabullets.com', 'sierra@sierrabullets.com']}
+{'com.nicusa.fishboatpa': ['FishBoatPA', 'NIC+Inc.', '10,000+', 'http://www.pa.gov/Pages/contactus.aspx', 'PAHelp@egov.com']}
+{'com.mgdevs.championsleague': ['Champions League Calculator', 'Fixtury', '10,000+', 'https://twitter.com/fixtury', 'martingomez.dev@gmail.com']}
+{'com.livelike.vr.fsgo.cardboard': ['FOX Sports VR', 'FOX+Sports+Interactive', '100,000+', 'http://www.foxsports.com', 'androiddev@foxsports.com']}
+{'com.mobdub.channel.WIAA': ['Magic of March', 'Quincy+Media,+Inc.', '5,000+', 'http://mobdub.com', 'news-app-support@franklyinc.com']}
+{'de.versus.android.start': ['versus tournament (free)', 'Chris.H', '50,000+', 'http://www.facebook.com/versus.tournament.software', 'feedback.versus@googlemail.com']}
+{'net.alexapps.boxingitimer': ['Boxing iTimer', 'TATIANA+MALKO', '10,000+', 'http://alexapps.net', 'support@alexapps.net']}
+{'com.aplicacionescomocancha.championsleague1': ['Ver Champions League En Vivo Stream Guía TV Gratis', 'Aplicacionescomocancha', '10,000+', 'https://aplicacionescomocancha.blogspot.com/2018/08/politicas-de-privacidad-sabemos-que-la.html', 'Aplicacionescomocancha@gmail.com']}
+{'com.bg.footballgame': ['World Star Football Hero Soccer Cup Strike\xa02019\xa0', 'Billion+Game', '1,000,000+', 'https://docs.google.com/document/d/1g9o7LWzfHiismeWgvWSOa4se6WkCE3CndexxCw1fwrM/edit?usp=sharing', 'billiongames.feedback@gmail.com']}
+{'net.teamer.android': ['Teamer - Sports Team App', 'Teamer.net', '100,000+', 'http://teamer.net', 'help@teamer.net']}
+{'com.rotogrinders.rg_lineups': ['RotoGrinders - DFS Strategy, Lineups, and Alerts', 'RotoGrinders', '50,000+', 'https://rotogrinders.com/static/privacy-policy', 'support@rotogrinders.com']}
+{'free_tv.satellite.live_channels': ['Live Football on TV - Free Channels', 'Mo+Apps', '50,000+', 'https://docs.google.com/document/d/e/2PACX-1vRsrK4SG6s3VXg3XSlaIUHBwa0dPQdbepQOxCrKDFhG_7Mm_N25b4xD1qJGE9X4nLtzTzCto8dQPAad/pub', 'mo.apps.ma@gmail.com']}
+{'com.yinzcam.nfl.packers': ['Official Green Bay Packers', '9047556097149013853', '500,000+', 'http://www.yinzcam.com', 'support@yinzcam.com']}
+{'arm.chest.fit.fitness.men': ['Arm&Chest Blasting', 'Ohome+Fancy', '100,000+', 'https://docs.google.com/document/d/e/2PACX-1vQUCXnjQUvKLAZTwd4jcMhVVr7JasT-Nopt17HvJHl8UZ2T2mpmRtNTvljpurxrJN-oqhntBRbEjHgl/pub', 'goodoctober2018@gmail.com']}
+{'com.neulion.android.collegesports.big122012.free': ['The Big 12', 'NeuLion,+Inc.', '10,000+', 'http://www.neulion.com', 'fansupport@neulion.com']}
+{'nl.meetmijntijd.erlangerchattanooga': ['Erlanger Chattanooga Marathon', 'MYLAPS+Experience+Lab', '500+', 'http://www.mylaps.com', 'info.mel@mylaps.com']}
+{'com.yinzcam.nba.magic': ['Orlando Magic', 'Orlando+Magic', '10,000+', 'http://www.orlandomagic.com', 'mobileapp@orlandomagic.com']}
+{'curse.media.muthead_android': ['Muthead', 'Curse', '100,000+', 'http://www.muthead.com', 'mobile-support@muthead.com']}
+{'com.karttuner.racemonitor': ['Race Monitor', 'Race+Monitor', '100,000+', 'http://www.race-monitor.com', 'support@race-monitor.com']}
+{'www.evolvebasketballapp.com': ['Evolve Basketball', 'Evolve+Sports+LLC', '50,000+', 'http://www.evolvebasketballapp.com/', 'devonbutler@evolvebasketballapp.com']}
+{'com.iphonedroid.radiomarca': ['Radio Marca - Hace Afición', 'Unidad+Editorial,+S.A.', '500,000+', 'http://www.marca.com', 'moviles@unidadeditorial.es']}
+{'com.sb.racingtree_free.android': ['Drag Racing Tree Lite', 'Shawn+Brown', '50,000+', None, 's.brown.droiddev@gmail.com']}
+{'com.precisiontrollingdata.precisiontrollingdata': ['Precision Trolling Data', 'Precision+Trolling+Data', '10,000+', 'http://www.precisiontrollingdata.com', 'appdeveloper@precisiontrollingdata.com']}
+{'com.nbcuni.nbcsports.rotoworld': ['Rotoworld News & Draft Guides', 'NBCUniversal+Media,+LLC', '100,000+', 'http://www.nbcuni.com', 'help@rotoworld.com']}
+{'com.onemainstream.lucasoiltv.android': ['Lucas Oil Racing TV', 'Lucas+Oil+Products,+Inc.', '10,000+', 'https://www.lucasoilracing.tv', 'support@lucasoilracing.tv']}
+{'com.golfchannel.pass': ['GOLFPASS', 'Golf+Channel', '100+', 'https://www.golfpass.com', 'webreply@thegolfchannel.com']}
+{'com.l1inc.bushnellapp': ['Bushnell Golf', 'L1+Technologies,+Inc.', '10,000+', 'http://bushnellgolf.com/', 'support@l1inc.com']}
+{'com.shotzoom.golfshot2': ['Golfshot: Golf GPS + Tee Times', '5427737915563914060', '500,000+', 'http://golfshotgps.com', 'info@golfshot.com']}
+{'com.musta.mustafa.proteintracker': ['Protein Tracker', 'moustapha+AI', '10,000+', None, 'moustaphaaussie@gmail.com']}
+{'com.beyondthescores.gym': ['Beyond the Scores Gymnastics', 'SportsEngine', '10,000+', 'http://www.beyondthescores.com', 'info@beyondthescores.com']}
+{'com.thebhwgroup.rankonesport': ['Parent/Public Rank One', 'AllPlayers+Network', '10,000+', 'http://www.rankonesport.com', 'support@rankonesport.com']}
+{'com.miros.whentofish': ['When to Fish', 'Miroslav+Capkovic', '50,000+', 'https://whento.fish', 'capkovic.miro@gmail.com']}
+{'lunosoftware.scoresandodds': ['Live Scores & Odds', 'Luno+Software,+Inc.', '50,000+', 'http://www.lunosoftware.com', 'support@lunosoftware.com']}
+{'com.v1.v1golf2': ['V1 Golf', 'V1+Sports', '500,000+', 'https://v1sports.com', 'support@ifrontiers.com']}
+{'com.superfanu.sanantoniofcsanantoniofc': ['San Antonio FC', 'SuperFanU,+Inc', '100+', 'https://www.superfanu.com', 'info@superfanu.com']}
+{'com.mnhockeytourney.sport.android': ['Minnesota Hockey Tournaments', 'SportsEngine', '1,000+', 'http://www.sportsengine.com/solutions/tourney/tourney-mobile/', 'help@sportsengine.com']}
+{'com.reelsonar.ibobber': ['iBobber', 'ReelSonar', '50,000+', 'http://www.reelsonar.com', 'Info@ReelSonar.com']}
+{'com.jenda.basketballboard': ['Basketball Tactic Board', 'Jan+Soukup', '100,000+', None, 'jan.soukup3@gmail.com']}
+{'com.adcnr.outdooral': ['Outdoor AL', 'ADCNR', '10,000+', 'http://www.outdooralabama.com/', 'support@alabamainteractive.org']}
+{'com.directv.supercast': ['NFL Sunday Ticket', 'DIRECTV,+LLC', '1,000,000+', 'http://www.directv.com', 'directvcustomercare@directv.com']}
+{'org.usaswimming.deckpassplus': ['Deck Pass Plus', 'USA+Swimming', '10,000+', 'https://www.usaswimming.org/deckpass', 'deckpass@usaswimming.org']}
+{'com.tapatalk.crappiecomcrappie': ['Crappie Fishing - Crappie.com Fishing Forums', 'ed+moes', '10,000+', 'http://crappie.com/crappie', 'slabsauce@gmail.com']}
+{'com.sigsauer.bdx': ['SIG BDX', 'Sig+Sauer+Application+Development', '5,000+', 'https://www.sigsauer.com/products/electro-optics/bdx/', 'sigsauer.app.developer@gmail.com']}
+{'games.mini.sports.street.soccer.league': ['Street Soccer League 2019: Play Live Football Game', 'Mini+Sports', '1,000,000+', 'https://docs.google.com/document/d/1yVYaVtRMH_GdgsXIUKuveBAdjJm5FzahTaj9OzSKK0Y/edit?usp=sharing', 'games.sportsarena@gmail.com']}
+{'sv.com.tigo.tigosports': ['Tigo Sports El Salvador', '5160481614036655789', '100,000+', 'https://www.facebook.com/TigoSportsSV/', 'tigosports@sv.tigo.com']}
+{'com.decoypro.crowaustrailia': ['Crow Calls and Crow Sounds', 'GuideHunting+L.L.C.', '1,000+', 'http://www.decoypro.com', 'scott@decoypro.com']}
+{'com.yinzcam.nba.thunder': ['Oklahoma City Thunder', 'okcthundermobile', '100,000+', 'http://thunder.nba.com', 'rmatthews@thunder-nba.com']}
+{'com.brooklynnets.android': ['Brooklyn Nets', 'Brooklyn+Nets', '50,000+', 'http://www.brooklynnets.com/', 'fans@brooklynnets.com']}
+{'com.golftec.mppc': ['GOLFTEC', 'GolfTEC+Enterprises', '1,000+', 'http://www.GolfTEC.com', 'appdev@golftec.com']}
+{'com.fifa.fifaapp.android': ['FIFA - Tournaments, Soccer News & Live Scores', 'FIFA', '10,000,000+', 'http://www.fifa.com', 'officialapp@fifa.org']}
+{'mabi.android.gcmrunner': ['Reconnect Garmin Watch', 'Martin+Birk', '100,000+', 'http://martinbirk.dk/reconnectgarmin/PrivacyPolicy.txt', 'mb040574@gmail.com']}
+{'com.futbolfc.futbolmexicanoenvivo': ['Live Mexican Soccer', 'F%C3%BAtbol+en+Vivo+FC', '10,000+', 'http://futbolfc.com/mexico/', 'pumgatkomet@gmail.com']}
+{'com.lsdlive.GolTv': ['GolTV Play', 'GolTV+Play', '10,000+', 'http://play.goltv.tv', 'play@goltv.tv']}
+{'com.july.cricinfo': ['ESPNCricinfo - Live Cricket Scores, News & Videos', 'ESPN+Inc', '10,000,000+', 'http://www.espncricinfo.com', 'espnmobilefeedback@espncustomercare.com']}
+{'com.zepp.baseball': ['Zepp Baseball - Softball', 'Zepp+Labs,+Inc.', '100,000+', 'http://www.zepp.com/baseball/', 'support@zepplabs.com']}
+{'com.finishedresults.liveresults': ['Finished Results Live', 'Finished+Results', '10,000+', 'http://www.finishedresults.com', 'support@finishedresults.com']}
+{'com.wsinc.toycubeblast.kidstoycrush': ['Kids Toy Crush', 'Block+Chain+US', '10,000+', 'https://sites.google.com/view/blockchainus/home', 'marscityjin@gmail.com']}
+{'com.arccosgolf.androidFlagship': ['Arccos Caddie AI Golf Platform', 'Arccos+Golf+LLC', '10,000+', 'https://www.arccosgolf.com', 'starter@arccosgolf.com']}
+{'com.dragonfly.max.live': ['DragonFly MAX', 'DragonFly+Athletics', '10,000+', 'http://www.dragonflyathletics.com', 'help@dragonflyathletics.com']}
+{'com.fishverify': ['FishVerify: FLORIDA Fish ID', 'FishVerify,+LLC.', '1,000+', 'http://www.fishverify.com', 'support@fishverify.com']}
+{'com.edufii': ['CoachNow: Coaching Platform', '5427737915563914060', '50,000+', 'https://coachnow.io/', 'support@coachnow.io']}
+{'com.sportinginnovations.smilas': ['Las Vegas Motor Speedway', 'Speedway+Motorsports,+Inc.', '10,000+', 'http://www.fanthreesixty.com/', 'support@fanthreesixty.com']}
+{'ca.tsn.mobile.android': ['TSN', 'Bell+Media+Inc.', '1,000,000+', 'http://www.tsn.ca', 'help@tsn.ca']}
+{'com.apporder.ZortsTournament': ['Zorts Sports', 'App-Order.com', '10,000+', 'https://www.zortssports.com', 'info@zortssports.com']}
+{'com.scoreholio.android': ['Scoreholio: Cornhole Brackets & Scoring', 'Scoreholio', '1,000+', 'https://scoreholio.com', 'info@scoreholio.com']}
+{'com.ibm.events.android.masters': ['The Masters Golf Tournament', '8479499838535781328', '1,000,000+', 'http://www.masters.com', 'social@augustanational.com']}
+{'com.mll.laxsportsnetwork': ['Lax Sports Network', 'Viewlift', '5,000+', 'http://www.laxsportsnetwork.com', 'contactus@laxsportsnetwork.com']}
+{'games.mini.sports.mix.martial.arts.fighting': ['Fighting Manager 2019:Martial Arts Game', 'Mini+Sports', '10,000+', 'https://docs.google.com/document/d/1yVYaVtRMH_GdgsXIUKuveBAdjJm5FzahTaj9OzSKK0Y/edit?usp=sharing', 'askgames.minisports@gmail.com']}
+{'com.andromo.dev727943.app803426': ['Best Shoulder Workouts', 'MedVision+apps', '10,000+', 'https://sites.google.com/view/csuri-privacy-policy/accueil', 'csuri6813@gmail.com']}
+{'com.yinzcam.nfl.bengals': ['Cincinnati Bengals', '9047556097149013853', '100,000+', 'http://www.yinzcam.com', 'support@yinzcam.com']}
+{'org.x90live.mu': ['Manchester Live – Unofficial app for United Fans', '7116248744604331048', '500,000+', 'http://90live.org/', 'info@90live.org']}
+{'com.lck.redscore': ['RedFoot: Live Football', 'Live+Football', '10,000+', 'https://app.termly.io/document/privacy-policy/cf225035-3487-4049-911e-cad5f059e75b', 'pintusharma1630207@gmail.com']}
+{'com.toddbrady.motorsportsRadio': ['Motorsports Live Radio Stream', 'Brady+Software+LLC', '5,000+', 'https://www.brady-software.com/projects/motorsports-radio', 'appsupport@brady-software.com']}
+{'com.phonegap.snocru': ['SNOCRU Ski Tracking App', 'SNOCRU+LLC', '100,000+', 'http://www.snocru.com', 'tech@snocru.com']}
+{'com.yinzcam.nfl.bears': ['Chicago Bears Official App', '9047556097149013853', '500,000+', 'http://www.yinzcam.com', 'support@yinzcam.com']}
+{'com.andromo.dev614880.app890603': ['Meal Plans For Bodybuilders', 'adamapp', '1,000+', 'http://wonderworld.info/policy/', 'kamui.cool@gmail.com']}
+{'com.cbssports.collegenetwork.collegesportsliveapp': ['SportsLive: Watch & Listen', 'CBS+Interactive+Advanced+Media', '100,000+', 'http://collegenetwork.cbssports.com/', 'cbsicollegesportsmobile@cbs.com']}
+{'com.arccosgolf.driver': ['Arccos Driver w/ Cobra Connect', 'Arccos+Golf+LLC', '10,000+', 'https://www.arccosgolf.com', 'starter@arccosgolf.com']}
+{'com.nicusa.huntfishva': ['GoOutdoorsVA', 'Go+Outdoors+Virginia', '50,000+', 'http://www.dgif.virginia.gov', 'help@gooutdoorsvirginia.com']}
+{'com.venuetize.amaliearena': ['AMALIE Arena', 'Venuetize,+LLC', '5,000+', 'https://www.nhl.com/app/lightning/team/privacy-policy', 'app@amaliearena.com']}
+{'com.uspsa.uspsaapp': ['USPSA App', 'USPSA', '1,000+', 'https://uspsa.org', 'it@uspsa.org']}
+{'com.andromo.dev576843.app615257': ['Gymnastics training', 'Canada+Dev+Apps', '10,000+', 'https://sites.google.com/view/canada-dev-apps-privacy-policy/accueil', 'sadikfatima41@gmail.com']}
+{'com.thescore.esports': ['theScore esports', '8331818305029646302', '500,000+', 'http://www.thescoreesports.com', 'esportsapp@thescore.com']}
+{'com.superfanu.camelrewards': ['Camel Rewards App', 'SuperFanU,+Inc', '10,000+', 'http://superfanu.com', 'info@superfanu.com']}
+{'com.nbaimd.nbadl.android': ['NBA G League', 'NBA+G+League', '100,000+', 'http://www.nba.com/gleague', 'nbadleaguedev@gmail.com']}
+{'com.trailrunproject.android': ['Trail Run Project', 'Recreational+Equipment,+Inc.', '10,000+', 'http://www.trailrunproject.com', 'admin@adventureprojects.net']}
+{'com.toptracer.community': ['Toptracer Range', 'Topgolf+Media', '10,000+', 'http://www.toptracer.com', 'range@protracer.se']}
+{'com.mlbam.wwe_asb_app': ['WWE Network', 'WWE,+Inc.', '50,000+', 'http://www.wwe.com', 'appfeedback@wwe.com']}
+{'com.juventus.app.android': ['Juventus', '5389091197874774371', '1,000,000+', 'http://www.juventus.com', 'webmaster@juventus.com']}
+{'uk.co.disciplemedia.bassiq': ['Bass IQ', 'Bass+IQ', '100+', 'http://www.BassIQ.com', 'karen@bassiq.com']}
+{'com.gbeegames.football': ['Football Play Designer and Coach Tactic Board', 'GBeeGames', '10,000+', 'http://www.gbeegames.com', 'support@gbeegames.com']}
+{'com.battenfeld.chrono': ['Caldwell Ballistic Chronograph', 'Battenfeld+Technologies', '50,000+', 'http://www.battenfeldtechnologies.com/', 'customerservice@btibrands.com']}
+{'com.sports.scores.baseball.schedule.boston.red_sox': ['Red Sox Baseball: Live Scores, Stats, Plays, Games', '7234972279410353413', '10,000+', 'http://www.sportsscheduleapp.com', 'sportsscoresapp@gmail.com']}
+{'com.tenn.gameday': ['Tennessee Volunteers Gameday', 'IMG+College+Digital', '50,000+', 'http://www.sportslabs.com', 'support@sidearmsports.com']}
+{'com.fansided.arrowheadaddict': ['Arrowhead Addict: Chiefs News', 'FanSided+Inc.', '5,000+', 'http://arrowheadaddict.com', 'techsupport@fansided.com']}
+{'com.mylaps.eventapp.thewoodlandsmarathon': ['The Woodlands Marathon', 'MYLAPS+Experience+Lab', '500+', 'https://mylaps.zendesk.com/hc/en-us/sections/201537322-4-Athlete-Fans-Guide-', 'info.mel@mylaps.com']}
+{'io.fruitful.dorsal': ['Dorsal Shark Reports', 'Fruitful+Technologies', '50,000+', 'https://www.dorsalwatch.com', 'info@dorsalwatch.com']}
+{'com.neulion.smartphone.ufc.android': ['UFC', 'UFC%C2%AE+-+The+Ultimate+Fighting+Championship%C2%AE', '5,000,000+', 'http://www.UFC.TV', 'support@ufc.tv']}
+{'com.bamnetworks.mobile.android.gameday.atbat': ['MLB At Bat', 'MLB+Advanced+Media,+L.P.', '5,000,000+', 'http://www.mlb.com', 'mlb-mobile-cs@mlb.com']}
+{'com.espn.score_center': ['ESPN', 'ESPN+Inc', '10,000,000+', 'http://espn.com/', 'espnmobilefeedback@espncustomercare.com']}
+{'onxmaps.hunt': ['onX Hunt: Hunting Maps, Offline GPS/Nav & Weather', 'onXmaps', '1,000,000+', 'https://www.onxmaps.com', 'support@onxmaps.com']}
+{'com.nbadigital.gametimelite': ['NBA', 'NBA+Digital', '10,000,000+', 'http://www.nba.com', 'nba1@custhelp.com']}
+{'com.gc.android': ['GameChanger Baseball & Softball Scorekeeper', 'GameChanger+Media', '500,000+', 'http://www.GC.com/', 'help@gc.com']}
+{'com.nhl.gc1112.free': ['NHL', 'BAMTECH+LLC', '5,000,000+', 'https://www.nhl.com/info/contact-us', 'customersupport@web.nhl.com']}
+{'com.fishbrain.app': ['Fishbrain - local fishing map and forecast app', 'Fishbrain', '5,000,000+', 'http://www.fishbrain.com', 'support@fishbrain.com']}
+{'com.theathletic': ['The Athletic', 'The+Athletic+Media+Company', '100,000+', 'https://theathletic.com', 'support@theathletic.com']}
+{'com.dazn': ['DAZN Live Fight Sports: Boxing, MMA & More', 'DAZN', '5,000,000+', 'https://www.dazn.com', 'help@dazn.com']}
+{'com.active.aps.meetmobile': ['Meet Mobile: Swim', 'ACTIVE+Network,+LLC', '500,000+', 'http://www.active.com/mobile', 'swimmingsupport-mobile@activenetwork.com']}
+{'com.dorna.officialmotogp': ['MotoGP™', 'Dorna+Sports+S.L.', '1,000,000+', 'http://www.motogp.com', 'feedback-apps@dorna.com']}
+{'com.nascar.nascarmobile': ['NASCAR MOBILE', '8371661405490770271', '1,000,000+', 'http://support.nascar.com/', 'nascarappsupport@nascar.com']}
+{'com.topps.bunt': ['MLB BUNT: Baseball Card Trader', '7474025739963323294', '100,000+', 'http://www.topps.com/customer-service/topps-apps-support', 'support@topps.zendesk.com']}
+{'com.golflogix.ui': ['GolfLogix GPS + Putt Breaks', 'GolfLogix+Golf+GPS', '1,000,000+', 'http://www.GolfLogix.com', 'smartphone@golfgps.com']}
+{'com.fantasypros.myplaybook': ['Fantasy Football My Playbook', 'FantasyPros', '100,000+', 'https://www.fantasypros.com/nfl/myplaybook/', 'myplaybook-android@marzenmedia.com']}
+{'com.topps.ice': ['NHL SKATE: Hockey Card Trader', '7474025739963323294', '50,000+', 'https://topps-support.zendesk.com/hc/en-us/requests/new?ticket_form_id=389508', 'support@topps.zendesk.com']}
+{'com.myoutdoortv': ['MyOutdoorTV: Hunting, Fishing, Shooting videos', 'KSE+MOTV+HOLDINGS+LLC', '100,000+', 'http://myoutdoortv.com', 'support@myoutdoortv.com']}
+{'com.sportsaction.action': ['The Action Network: Sports Scores & Live Tracker', 'SportsAction,+Inc', '100,000+', 'https://www.actionnetwork.com', 'feedback@actionnetwork.com']}
+{'com.fantasypros.draftwizard.football': ['Fantasy Football Draft Wizard', 'FantasyPros', '100,000+', 'https://draftwizard.fantasypros.com/football/', 'draftwizard-android@marzenmedia.com']}
+{'com.topps.huddle': ['NFL HUDDLE: Card Trader', '7474025739963323294', '100,000+', 'http://www.topps.com/customer-service/topps-apps-support', 'support@topps.zendesk.com']}
+{'com.flipps.fitetv': ['FITE - Boxing, Wrestling, MMA', '8920797348503464233', '500,000+', 'http://www.fite.tv', 'info@fite.tv']}
+{'com.catchsports.catchsports': ['Bleacher Report Live', 'Bleacher+Report+Inc.', '100,000+', 'https://live.bleacherreport.com', 'support@br.live']}
+{'com.contorra.golfpad': ['Golf GPS Rangefinder: Golf Pad', 'Golf+Pad+GPS', '1,000,000+', 'http://www.GolfPadGPS.com', 'support@golfpadgps.com']}
+{'com.karttuner.racemonitor': ['Race Monitor', 'Race+Monitor', '100,000+', 'http://www.race-monitor.com', 'support@race-monitor.com']}
+{'com.nascar.raceviewmobile': ['NASCAR RACEVIEW MOBILE', '8371661405490770271', '1,000,000+', 'http://www.nascar.com/mobile', 'nascarappsupport@nascar.com']}
+{'com.swingbyswing': ['Golf GPS by SwingU', 'Swing+by+Swing+Golf+GPS', '1,000,000+', 'http://www.swingbyswing.com', 'support@swingu.com']}
+{'com.paninidigitalinc.blitz': ['NFL Blitz - Play Football Trading Card Games', 'Panini+Digital+Inc', '100,000+', 'http://www.paniniamerica.net', 'digital1@paniniamerica.net']}
+{'com.huntstand.core': ['HuntStand', 'TerraStride+Inc.', '1,000,000+', 'http://www.huntstand.com', 'support@huntstand.com']}
+{'com.rotoql.betql': ['BetQL', '6078764175206603489', '50,000+', 'http://www.rotoql.com', 'support@rotoql.com']}
+{'com.atlasappco.draftkingsdailyfootball': ['LineStar For DK', 'Fantasy+Sports+Company', '50,000+', 'https://www.fantasysportsco.com', 'info@fantasysportsco.com']}
+{'com.beckett': ['Beckett Mobile', 'Beckett', '10,000+', 'http://www.beckett.com', 'customerservice@beckett.com']}
+{'com.atlasappco.fanduellineups': ['LineStar for FanDuel', 'Fantasy+Sports+Company', '50,000+', 'https://www.fantasysportsco.com', 'info@fantasysportsco.com']}
+{'com.softpauer.f1timingapp2014.basic': ['Formula 1®', 'Formula+One+Digital+Media+Limited', '1,000,000+', 'http://www.formula1.com', 'CustomerCare@formula1.com']}
+{'com.buoy76.huntpredictor': ['HuntWise: The Hunting App', 'Sportsman+Tracker', '100,000+', 'https://huntwise.com', 'hello@huntwise.com']}
+{'com.mobile.basemap': ['BaseMap: #1 New Hunting, Hiking, Fishing GPS App', 'BaseMap+Inc', '10,000+', 'http://www.basemap.com', 'support@basemap.com']}
+{'com.ArbiterSports.ArbiterSports': ['ArbiterMobile', 'ArbiterSports', '50,000+', 'http://www.arbitersports.com/', 'success@arbitersports.com']}
+{'com.rotoql.express': ['RotoQL Express - Daily Fantasy Tool', '6078764175206603489', '50,000+', 'http://www.rotoql.com', 'support@rotoql.com']}
+{'com.squarevalley.i8birdies': ['18Birdies: Golf GPS App', '18Birdies+LLC', '500,000+', 'https://18birdies.com/', 'support@18Birdies.com']}
+{'com.gregacucnik.fishingpoints': ['Fishing Points: GPS, Tides & Fishing Forecast', '7089577652931039187', '1,000,000+', 'https://fishingpoints.app', 'fishingpointsapp@gmail.com']}
+{'pbr.now.ver2': ['RidePass', 'Professional+Bull+Riders,+LLC', '100,000+', 'http://www.ridepass.com', 'RidePassSupport@RidePass.com']}
+{'com.onemainstream.lucasoiltv.android': ['Lucas Oil Racing TV', 'Lucas+Oil+Products,+Inc.', '10,000+', 'https://www.lucasoilracing.tv', 'support@lucasoilracing.tv']}
+{'com.borisov.strelokpro': ['Strelok Pro', 'Igor+Borisov', '10,000+', 'http://www.borisov.mobi/StrelokPro/android', 'igor@borisov.mobi']}
+{'com.rotogrinders.rg_lineups': ['RotoGrinders - DFS Strategy, Lineups, and Alerts', 'RotoGrinders', '50,000+', 'https://rotogrinders.com/static/privacy-policy', 'support@rotogrinders.com']}
+{'com.topps.kick': ['KICK: Football Card Trader', '7474025739963323294', '1,000,000+', 'http://www.topps.com/customer-service/topps-apps-support', 'support@topps.zendesk.com']}
+{'com.precisiontrollingdata.precisiontrollingdata': ['Precision Trolling Data', 'Precision+Trolling+Data', '10,000+', 'http://www.precisiontrollingdata.com', 'appdeveloper@precisiontrollingdata.com']}
+{'com.smartboxtv.nunchee.fanatiz': ['Fanatiz', 'Fanatiz', '10,000+', 'http://www.fanatiz.com', 'app@fanatiz.com']}
+{'com.shotzoom.golfshot2': ['Golfshot: Golf GPS + Tee Times', '5427737915563914060', '500,000+', 'http://golfshotgps.com', 'info@golfshot.com']}
+{'com.fishidy': ['Fishidy: Fishing Hot Spot Maps, Reports & Tips', 'Fishidy', '100,000+', 'https://www.fishidy.com', 'support@fishidy.com']}
+{'com.fantasypros.draftwizard.mlb': ['Fantasy Baseball Draft Wizard', 'FantasyPros', '10,000+', 'https://draftwizard.fantasypros.com/baseball/', 'draftwizard-android@marzenmedia.com']}
+{'eu.virtualtraining': ['Rouvy', 'VirtualTraining+s.r.o.', '50,000+', 'https://www.rouvy.com', 'support@rouvy.com']}
+{'com.manutd.mutv': ['MUTV - Manchester United TV', 'Manchester+United+Limited', '500,000+', 'https://www.manutd.com', 'mutvapp-support@manutd.co.uk']}
+{'com.jome.fishsmart': ['Humminbird FishSmart', 'Johnson+Outdoors', '10,000+', 'https://chartselect.humminbird.com/fishsmart', 'service@humminbird.com']}
+{'com.techsmith.apps.coachseye.free': ["Coach's Eye", 'TechSmith+Corporation', '1,000,000+', 'http://www.coachseye.com/', 'coachseyeinfo@techsmith.com']}
+{'com.paninidigitalinc.nbadunk': ['NBA Dunk - Play Basketball Trading Card Games', 'Panini+Digital+Inc', '100,000+', 'http://www.paniniamerica.net', 'digital1@paniniamerica.net']}
+{'com.guaranteedtipsheet.gts': ['Guaranteed Tip Sheet - Horse Racing Picks', 'Kennaco+Assets,+LLC', '10,000+', 'http://www.guaranteedtipsheet.com', 'tips@guaranteedtipsheet.com']}
+{'com.regasoftware.udisc': ['UDisc Disc Golf App', 'UDisc+LLC', '100,000+', 'http://www.udisc.com', 'team@udisc.com']}
+{'com.formulaone.production': ['F1 TV', 'Formula+One+Digital+Media+Limited', '100,000+', 'http://www.f1tv.com', 'general@en.formula1.com']}
+{'com.application.sportscapping': ['Sports Capping', 'SportsCapping.com,+LLC', '1,000+', 'http://www.sportscapping.com', 'admin@sportscapping.com']}
+{'com.tennischannel.tceverywhere': ['Tennis Channel', 'Tennis+Channel', '100,000+', 'http://www.tennischannel.com', 'website@tennischannel.com']}
+{'com.ripcharts.android': ['RipCharts', 'RipCharts', '10,000+', 'http://www.ripcharts.com', 'cfullilove@ripcharts.com']}
+{'com.appliedballisticsllc.appliedballistics': ['Applied Ballistics', 'Applied+Ballistics', '10,000+', 'http://www.appliedballisticsllc.com', 'support@appliedballisticsllc.com']}
+{'com.nbadigital.gatv': ['NBA for Android TV', 'NBA+Digital', '100,000+', 'http://www.nba.com', 'turnernbadigital@gmail.com']}
+{'com.tiplay.central': ['iScore Central - Game Viewer', 'SI+Play+LLC', '50,000+', 'http://iscoresports.com', 'support@iscoresports.com']}
+{'com.espn.fantasy.lm.football': ['ESPN Fantasy Sports', 'ESPN+Inc', '5,000,000+', 'http://www.espn.com/fantasy/', 'espnmobilefeedback@espncustomercare.com']}
+{'com.grint.thegrint.pro': ['TheGrint | Your Golferhood', 'Grint+LLC', '100,000+', 'http://www.thegrint.com', 'contactus@thegrint.com']}
+{'com.corecoders.skitracks': ['Ski Tracks', 'Core+Coders+Ltd', '100,000+', 'http://www.corecoders.com', 'skitracks-android@corecoders.zendesk.com']}
+{'com.v1.v1golf2': ['V1 Golf', 'V1+Sports', '500,000+', 'https://v1sports.com', 'support@ifrontiers.com']}
+{'com.bassforecast.android': ['BassForecast', 'BassForecast,+LLC', '50,000+', 'http://www.bassforecast.com', 'support@bassforecast.com']}
+{'com.grappleartcontainer': ['BJJ Master App by Grapplearts', 'Grapplearts+Enterprises+Inc', '5,000+', 'http://www.grapplearts.com', 'kesting@grapplearts.com']}
+{'laola1.wrc': ['WRC – The Official App', 'WRC+Promoter+GmbH', '500,000+', 'http://www.wrc.com', 'info@wrc.com']}
+{'us.openocean.proangler': ['Pro Angler - Fish like a Pro!', '8577489580432223104', '50,000+', 'http://www.proangler.us', 'google@proangler.us']}
+{'com.fantasysportsco.yahoodf': ['LineStar DFS - Daily Fantasy Sports Analytics', 'Fantasy+Sports+Company', '1,000+', 'https://www.LineStarApp.com', 'info@fantasysportsco.com']}
+{'com.active.consumer.laxpower': ['LaxPower', 'ACTIVE+Network,+LLC', '5,000+', 'http://www.laxpower.com/', 'mobilesupport@activenetwork.com']}
+{'com.etn.etnlive': ['ETN', 'ETN+Media,+Inc', '100,000+', 'http://www.etnlive.com', 'help@etnlive.com']}
+{'com.geoballistics.ballisticsarc': ['BallisticsARC', 'GeoBallistics,+LLC', '10,000+', 'http://www.geoballistics.com', 'support@geoballistics.com']}
+{'com.bpdj.ballparkdj': ['BallparkDJ', '6816049802861429441', '500+', 'http://www.ballparkdj.com', 'info@ballparkdj.com']}
+{'com.ballisticx.ballisticxapp': ['Ballistic X', 'Nomad+Innovations,+LLC', '1,000+', 'http://www.ballistic-x.com', 'ballisticxapp@gmail.com']}
+{'com.shotzoom.golfshotgps': ['Golfshot Plus: Golf GPS', '5427737915563914060', '50,000+', 'http://golfshot.com', 'support@golfshot.com']}
+{'com.alphabet.elite': ['Alpha Bet Elite Premium Tips', '5790948763180844364', '100+', 'https://alphamobilebet.com', 'info@alphamobilebet.com']}
+{'com.antonnikitin.solunarforecast': ['Fishing & Hunting Solunar Time', 'ANTON+NIKITIN', '1,000,000+', 'http://fhstime.com', 'fhstime@gmail.com']}
+{'com.fantasypros.myplaybookmlb': ['Fantasy Baseball My Playbook', 'FantasyPros', '10,000+', 'https://www.fantasypros.com/mlb/myplaybook/', 'fantasybaseball@marzenmedia.com']}
+{'us.playwiththepros.swingshot': ['Swing Index', 'LifeJourney,+Inc', '1,000+', 'https://swingindex.golf', 'support@swingindex.golf']}
+{'tv.willow': ['Willow', 'Willow+TV+International', '100,000+', 'http://www.willow.tv', 'support@willow.tv']}
+{'com.pinpal.full': ['PinPal', 'Jeff+Stuart', '5,000+', 'http://www.pinpalapp.com', 'pinpalandroid@gmail.com']}
+{'com.yahoo.mobile.client.android.sportacular': ['Yahoo Sports - scores, stats, news, & highlights', '5536369398281991413', '5,000,000+', 'https://sports.yahoo.com', 'sports-app-android-feedback@oath.com']}
+{'com.hole19golf.hole19.beta': ['Hole19: Golf GPS App, Rangefinder & Scorecard', 'Hole19', '500,000+', 'http://www.hole19golf.com', 'help@hole19golf.com']}
+{'com.jacobsmedia.sparts': ['Spartan Sports Network', 'Spartan+Sports+Network,+Inc.', '10,000+', 'http://www.onseeker.com/contact-us.html', 'android@onseeker.com']}
+{'itargetpro.com.targetpro': ['iTarget Pro', 'Joe+Jenius+inc', '50,000+', 'http://www.itargetpro.com', 'sales@itargetpro.com']}
+{'com.harrys.laptimertrainer': ["Harry's LapTimer GrandPrix", 'Harald+Schlangmann', '1,000+', 'http://www.gps-laptimer.de', 'Harry@gps-laptimer.de']}
+{'com.flaxgroup.div1baseball': ['D1 Baseball', 'D1+Baseball+Holdings,+LLC', '1,000+', 'http://www.d1baseball.com', 'jkpete76@yahoo.com']}
+{'com.tenpintoolkit.app': ['Tenpin Toolkit', 'Tenpin+Toolkit', '100+', 'https://www.TenpinToolkit.com', 'support@tenpintoolkit.com']}
+{'com.rotoql.squadql': ['SquadQL', '6078764175206603489', '10,000+', 'http://www.rotoql.com', 'mobile-dev@rotoql.com']}
+{'com.hyperfame.oil.tanker_truck2019simulator_free': ['Offroad Oil Tanker Transport Truck Simulator 2019', 'Hyperfame+Games+Studio', '500,000+', 'http://hyperfamegamesprivacypolicy.blogspot.com/', 'redapplegames20@gmail.com']}
+{'com.rotogrinders.rg_lineups_fd': ['LineupHQ: FanDuel Lineups', 'RotoGrinders', '10,000+', 'https://rotogrinders.com/static/privacy-policy', 'support@rotogrinders.com']}
+{'com.get.gsappalpha1': ['G-Sight Laser Training Pro - Award-Winning App', 'Guidance+Sports', '10,000+', 'http://www.guidance-sports.com', 'info@guidance-sports.com']}
+{'com.rotogrinders.rg_lineups_dk': ['LineupHQ Express: DraftKings Lineups', 'RotoGrinders', '10,000+', 'https://rotogrinders.com/static/privacy-policy', 'support@rotogrinders.com']}
+{'com.mikeson.android': ["Mike's On", 'Mike%27s+On,+LLC', '1,000+', 'https://mikeson.com', 'contact@mikeson.com']}
+{'com.lifeplus.diveplus': ['Dive+ : Make your diving extraordinary', 'Life+Plus+Tech+%28Shenzhen%29+Co.,+Ltd.', '100,000+', 'http://dive.plus/', 'diveplus.dev@gmail.com']}
+{'com.wcn.fishingtv': ['Fishing TV', 'World+Channel+Network+Limited', '10,000+', 'https://www.fishingtv.com', 'support@fishingtv.com']}
+{'com.bu.unitedteamfree': ['Betting United - Betting Tips (No Ads)', 'Betting+United+Team', '10,000+', 'http://bettingunited.xyz', 'sedasayinbetting@gmail.com']}
+{'com.fatmaprn': ['FATMAP: Ski, Bike & Hike Guide', 'Terrascope+Ltd', '50,000+', 'https://www.fatmap.com', 'support@fatmap.com']}
+{'com.howtohunt.howtohunt': ['Big Game Hunting by HowtoHunt', 'Howtohunt+Outdoors+LTD', '1,000+', 'http://www.howtohunt.com', 'proguide66@howtohunt.com']}
+{'com.betofcity.htft': ['Bet of City HT-FT Vip', 'Bet+of+City+Betting+Tips', '100+', 'http://www.sercankaradeniz.com/ser.html', 'betofcity@gmail.com']}
+{'com.puresweatbasketball.talosdigital': ['Pure Sweat Basketball Workouts', 'Pure+Sweat+Basketball', '500+', 'http://www.puresweatbasketball.com', 'info@puresweatbasketball.com']}
+{'com.futbolx.ligamx': ['Liga Bancomer MX App Oficial', 'APPCENTRAL', '1,000,000+', 'http://www.appcentral.mx', 'support@appcentralmx.zendesk.com']}
+{'com.playerline.android': ['Fantasy Football & NFL News', 'Playerline,+LLC.', '100,000+', 'https://www.playerline.com', 'help@playerline.com']}
+{'com.phonegap.snocru': ['SNOCRU Ski Tracking App', 'SNOCRU+LLC', '100,000+', 'http://www.snocru.com', 'tech@snocru.com']}
+{'org.dsc.tkd.scoring.referee': ['TKD Scoring WiFi Client', 'Taekwondo+Scoring+Wi-Fi', '10,000+', 'http://www.scoring-wifi.com/', 'support@scoring-wifi.com']}
+{'net.iddgroup.printcheck2': ['Print Checks', 'IDDGroup,+Inc.', '1,000+', 'http://www.iddgroup.net', 'karl@iddgroup.net']}
+{'com.desiderata.ihuntNA': ['iHunt 750 - Hunting Calls & Solunar Tables', 'iHunt,+LLC', '100,000+', 'http://ihuntcalls.com', 'support@ihuntcalls.com']}
+{'com.myracepass.myracepass': ['MyRacePass - The Official MRP App', '4758119343208726946', '10,000+', 'https://www.myracepass.com', 'apps@myracepass.com']}
+{'com.velocitip.uno': ['UNO', 'Full+Flight+Technology,+LLC', '5,000+', 'http://www.velocitip.com', 'uno@velocitip.com']}
+{'com.eiref.boatcoach': ['BoatCoach for rowing & erging', 'Dan+Eiref', '50,000+', 'http://www.boatcoachapp.com/blog', 'boatcoachapp@gmail.com']}
+{'com.borisov.strelokplus': ['Strelok+', 'Igor+Borisov', '10,000+', 'http://www.borisov.mobi/StrelokPlus', 'igor@borisov.mobi']}
+{'com.mll.laxsportsnetwork': ['Lax Sports Network', 'Viewlift', '5,000+', 'http://www.laxsportsnetwork.com', 'contactus@laxsportsnetwork.com']}
+{'com.horseplayertoolkit.horseplayer': ['Free Horse Racing Picks & Tips', '6433972658872908158', '50,000+', 'https://horseplayertoolkit.uservoice.com/', 'nathan.prather@horseplayertoolkit.com']}
+{'com.howtohunt.howtohuntflyfishing': ['Stillwater Fly Fishing', 'Howtohunt+Outdoors+LTD', '10,000+', 'http://www.howtohunt.com', 'proguide66@howtohunt.com']}
+{'com.appforceus.elknut': ['ElkNut', 'Got+Game+Technologies', '1,000+', 'http://www.gotgametech.com', 'dev@gotgametech.com']}
+{'com.fishverify': ['FishVerify: FLORIDA Fish ID', 'FishVerify,+LLC.', '1,000+', 'http://www.fishverify.com', 'support@fishverify.com']}
+{'com.watchstadium': ['Stadium', 'Stadium,+LLC', '10,000+', 'http://www.watchstadium.com', 'info@watchstadium.com']}
+{'air.com.seamantec.mobile.messages': ['EDO sailing instruments', 'Seamantec+Kft', '1,000+', 'http://seamantec.com', 'info@seamantec.com']}
+{'com.fitivity.basketball_point_guard': ['Basketball Point Guard', '9073701198403467753', '10,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'se.vasaloppet.android.winter': ['Vasaloppet Winter', 'Vasaloppet', '50,000+', 'http://www.vasaloppet.se', 'info@vasaloppet.se']}
+{'com.FBCurves.TDGym': ['3D GYM - FB CURVES', 'FB+CURVES+3D+GYM+LIMITED', '5,000+', 'http://www.fb-curves.com', 'contact@fb-curves.com']}
+{'com.texterity.android.RoadBike': ['Road Bike Action Magazine', 'Hi-Torque+Publications', '5,000+', 'http://hi-torque.com', 'timl@hi-torque.com']}
+{'com.appfour.weartracker': ['GPS Tracker for Wear OS (Android Wear)', '8815886658662427637', '10,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'talentbettingtipsuser.talentbetting.com.myapplication': ['Talent Betting Tips: High odds', 'TB+Apps', '10,000+', 'http://erkanaren.com', 'bettingtipstalent@gmail.com']}
+{'com.myplaydesigner.basketball.playdesignerlite': ['Basketball Play Designer and Coach Tactic Board', 'GBeeGames', '10,000+', 'http://www.gbeegames.com', 'support@gbeegames.com']}
+{'com.maz.combo69': ['Outside TV Features', 'Outside+TV', '5,000+', 'http://www.mazdigital.com', 'dev@mazdigital.com']}
+{'com.dawbin.dailypick': ['The Daily Sports Pick', 'DawBin+LLC', '10,000+', 'http://dawbin.com', 'sales@dawbin.com']}
+{'com.betcontrol.basket': ['BetControl Basketball Tips', 'JuanSolo', '500+', None, 'marketingadsonline@hotmail.com']}
+{'com.fitivity.golf_conditioning': ['Golf - Strength, Power & Control', '9073701198403467753', '5,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'evets.neg.tbe': ['Premier Bowling Scorekeeper (BDSS!)', 'Steve+Neglia', '1,000+', 'https://sites.google.com/site/premierbowlingscorekeeper/', 'tbefeedback@gmail.com']}
+{'brandoncharliekaylie_industries.com.g_meterapp': ['G-meter Torque & Horsepower', 'BCK+Industries', '10+', None, 'brandmiddleton616@gmail.com']}
+{'com.bluelinden.coachboard': ['Coach Tactic Board: Soccer', 'BLUELINDEN', '100,000+', 'http://www.coachtacticalboard.com', 'support@evlonsoft.com']}
+{'com.fishingtimes': ['Fishing Times', 'Subclosure', '10,000+', 'https://www.fishingreminder.com', 'support+android@fishingreminder.com']}
+{'com.hudl.hudroid': ['Hudl', 'Agile+Sports', '1,000,000+', 'http://www.hudl.com/', 'support@hudl.com']}
+{'com.grapplearts.bjjformula2': ['BJJ Guard Game Formula', 'Grapplearts+Enterprises+Inc', '1,000+', 'http://www.grapplearts.com', 'kesting@grapplearts.com']}
+{'com.teamapp.teamapp': ['Team App', 'Team+Mates+Pty.+Ltd.', '1,000,000+', 'http://www.teamapp.com', 'help@teamapp.com']}
+{'com.topfan.TopFan.DenverBroncos': ['Denver Broncos Orange Herd', 'TopFan', '10,000+', 'https://www.orangeherd.com', 'customer.support@topfan.com']}
+{'com.predictor.app': ['Betting Tips', 'PredictoR', '100,000+', 'https://predictortips.wordpress.com/2018/09/24/the-journey-begins', 'predictor.tips@gmail.com']}
+{'com.reloaderscloud.rangebuddypro': ['Range Buddy Pro', 'Reloader%27s+Cloud', '1,000+', 'http://reloaderscloud.appspot.com/', 'service.reloaderscloud@gmail.com']}
+{'air.com.deligent.Clays': ['My Clays', 'Deligent+LLC', '500+', 'http://www.myclays.com', 'support@myclays.com']}
+{'com.racechrono.pro': ['RaceChrono Pro', 'RaceChrono', '5,000+', 'http://www.racechrono.com', 'play-store-support@racechrono.com']}
+{'com.grapplearts.bjjformula3': ['BJJ Top Game Formula', 'Grapplearts+Enterprises+Inc', '1,000+', 'http://www.grapplearts.com', 'kesting@grapplearts.com']}
+{'kr.co.igolfi.completegolfcoach': ['Complete Golf Coach', 'Robin+Symes', '1,000+', 'http://www.completegolfcoach.com', 'support@completegolfcoach.com']}
+{'com.revolutiongolf.rgmobile': ['Revolution Golf', 'Revolution+Golf', '100+', 'https://www.revolutiongolf.com/', 'customerservice@revolutiongolf.com']}
+{'com.turkamobile.packagevipbettingtips': ['HT/FT Vip Betting Tips', 'Turka+Mobile', '50+', None, 'turkamobile@gmail.com']}
+{'com.nifah.bettingtips': ['Betting Tips - %100 WIN', 'Eser+Soft', '500,000+', 'http://www.esersoft.net', 'contact@esersoft.net']}
+{'com.fitivity.sprinting_speed': ['Increase Sprinting Speed', '9073701198403467753', '10,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.fitivity.basketball_drills': ['Basketball Training', '9073701198403467753', '100,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.lantar.sportsillustrated': ['Sports Illustrated TV', 'Q+Platform+Americas,+LLC', '5,000+', 'https://si.tv', 'support@si.tv']}
+{'com.islandsportsnetwork': ['Island Sports Network', 'Heartbeat+Media+Solutions+Inc.', '500+', 'http://islandsports.net/', 'info@islandsports.net']}
+{'com.flintcreekapps.tumbletally': ['TumbleTally Gymnastics Tracker', 'Flint+Creek+Apps', '1,000+', 'http://www.flintcreekapps.com', 'info@flintcreekapps.com']}
+{'com.dgcoursereview.android': ['Disc Golf Course Review', '8389503675028336367', '5,000+', 'http://www.dgcoursereview.com', 'android-support@dgcoursereview.com']}
+{'www.evolvebasketballapp.com': ['Evolve Basketball', 'Evolve+Sports+LLC', '50,000+', 'http://www.evolvebasketballapp.com/', 'devonbutler@evolvebasketballapp.com']}
+{'com.dopa.android.blevo': ['BLEvo - Transforms your Levo into a Smart Levo', 'Paolo+Dozio', '5,000+', 'https://blevo.forumfree.it/', 'paolo.dozio@gmail.com']}
+{'com.AtslanPro.Shootersapps': ['Atslan Pro', 'ShootersApps', '10+', 'http://atslan.orgfree.com/privacy_policy_atslanpro.html', 'shootersapps@gmail.com']}
+{'com.texterity.android.DirtWheels': ['DIRT WHEELS MAGAZINE', 'Hi-Torque+Publications', '5,000+', 'http://hi-torque.com', 'timl@hi-torque.com']}
+{'com.low_key_software.full.my_lane_play': ['My Lane Play', 'Low+Key+Software', '1,000+', 'http://sites.google.com/site/lowkeysoftware/home', 'lowkeysoftware@gmail.com']}
+{'com.tenklakessoftware.swimmetry': ['Swimmetry', '10KLakes,+LLC', '1,000+', 'http://www.10klakessoftware.com', 'john@10klakessoftware.com']}
+{'com.hayava.android.basketballPro': ['Basketball Stats Pro', 'Hayava,+Inc', '5,000+', 'http://www.hayava.com', 'info@hayava.com']}
+{'com.texterity.android.ElectricBike': ['Electric Bike Action Magazine', 'Hi-Torque+Publications', '5,000+', 'http://hi-torque.com', 'timl@hi-torque.com']}
+{'com.decoypro.diversandroid': ['Diver Duck Decoy Spreads', 'GuideHunting+L.L.C.', '10+', 'http://www.howtofixduckandgoosedecoys.com', 'scott@decoypro.com']}
+{'com.telstra.android.afl': ['AFL Live Official App', 'Telstra+Corporation+Ltd.', '1,000,000+', 'http://www.afl.com.au%20', 'afl.live@team.telstra.com']}
+{'com.smartkartnotes.SmartKartNotes': ['Smart Kart Notes', 'Billy+Dzama', '100+', 'http://www.SmartKartNotes.com', 'SmartKartNotes@gmail.com']}
+{'com.barakkuda.aikidoweapon.all': ['Aikido Weapons - ALL', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.icatchapp': ['iCatch- Fishing Tournaments', 'Digital+Outdoor+Holdings+LLC', '5,000+', 'https://www.icatchapp.com', 'support@icatchapp.com']}
+{'com.rink_tank.solodance': ['Solo Dance', 'Rink+Tank+Interactive+LLC', '5+', 'http://www.rink-tank.com', 'm.fitzgerald@me.com']}
+{'com.supcosoftware.pitchingcounterpro': ['Pitching Counter / Stats Tracker Pro', 'Supco+Software+Solutions+LLC', '10+', 'https://sites.google.com/view/pitchingcounterstatstracker', 'supcosoftwaresolutions@gmail.com']}
+{'com.nonostuffs.aesxpressnewpro.pro': ['AES Xpress Pro (Ad Free)', 'Active+Youth+Network,+LLC', '100+', 'http://www.activeyouthnetwork.com', 'njcavarra@activeyouthnetwork.com']}
+{'com.fitivity.hand_to_hand_combat': ['Hand to Hand Combat Training', '9073701198403467753', '10,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.emountainworks.android.huntingaccess': ['Montana Hunting Access 2018', '8233080612482598419', '500+', 'http://www.emountainworks.com', 'feedback@emountainworks.com']}
+{'com.fitivity.baseball_batting': ['Baseball Batting Training', '9073701198403467753', '5,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.coursewalk.coursewalk': ['CourseWalk', 'Finder+Network,+LLC', '1,000+', 'http://www.coursewalkapp.com', 'support@coursewalkapp.com']}
+{'com.fitivity.basketball_training': ['Basketball Training - Advanced', '9073701198403467753', '50,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'io.fruitful.dorsal': ['Dorsal Shark Reports', 'Fruitful+Technologies', '50,000+', 'https://www.dorsalwatch.com', 'info@dorsalwatch.com']}
+{'com.src.gmmobile': ['Golfmetrics', 'Golfmetrics+LLC', '1,000+', 'http://golfmetrics.com', 'info@golfmetrics.com']}
+{'com.fitivity.football_quarterback': ['Football Quarterback Training', '9073701198403467753', '10,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.gbeegames.football': ['Football Play Designer and Coach Tactic Board', 'GBeeGames', '10,000+', 'http://www.gbeegames.com', 'support@gbeegames.com']}
+{'com.gabrowski.targetscan': ['TargetScan ISSF Pistol & Rifle', '7291215393228938730', '5,000+', 'https://targetshootingapp.com/', 'support@targetshootingapp.com']}
+{'com.fitivity.football_wide_receiver': ['Football Wide Receiver Program', '9073701198403467753', '10,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.fitivity.basketball_conditioning': ['Basketball Strength & Conditioning Training', '9073701198403467753', '10,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.fitivity.basketball_ball_handling': ['Dribbling Speed & Hand Quickness', '9073701198403467753', '50,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.insideoutside.ihunteralberta': ['iHunter Alberta', 'Inside+Outside+Studios+Inc.', '10,000+', 'http://www.ihunterapp.com', 'info@ihunterapp.com']}
+{'com.lag66.golfscoring4': ['Golf Scoring', 'lag66.com', '5+', 'http://www.lag66.com', 'lhsu66@gmail.com']}
+{'com.fitivity.basketball_jumping_finishing': ['Basketball - Jump Training & Athletic Finishes', '9073701198403467753', '10,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.sailgrib.anchoralarm': ['Anchor Alarm  - SailGrib AA', '6152949195244037426', '5,000+', 'http://www.sailgrib.com', 'henri@sailgrib.com']}
+{'com.deserttech.TRASOL': ['TRASOL', 'Desert+Tech+LLC', '1,000+', 'http://www.deserttech.com', 'TRASOLEngine@deserttech.com']}
+{'com.fitivity.softball_conditioning': ['Softball - Strength & Conditioning', '9073701198403467753', '5,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.oddworks.isc': ['ISC Sports Network', 'ISC+Sports+Network', '500+', 'http://www.iscsportsnetwork.com', 'iscsportsnetwork@gmail.com']}
+{'ch.bfh.ti.baspo.ll': ['Cross-country skiing technique', 'Bundesamt+f%C3%BCr+Sport+BASPO', '1,000+', 'http://www.sport-apps.ch/skilanglauf', 'media@baspo.admin.ch']}
+{'com.alpinereplay.android': ['Trace Snow Ski Snowboard Track', 'AlpineReplay', '500,000+', 'http://snow.traceup.com', 'david@traceup.com']}
+{'com.freebaseballlineups.testapp': ['Free Baseball Lineups.com', 'Postage+Saver+Software', '1,000+', 'http://FreeBaseballLineups.com', 'support@FreeBaseballLineups.com']}
+{'com.gogalpublishing.gpsfishingpa': ['GPS Fishing Guide to PA', 'Gogal+Publishing+Company', '500+', 'http://gogalpublishing.com', 'sales@gogalpublishing.com']}
+{'com.ionicframework.myapp906603': ['PulpMX', 'swizcore', '1,000+', 'http://www.pulpmx.com', 'swizcore@gmail.com']}
+{'com.fitivity.parkour_strength': ['Parkour Strength & Athleticism', '9073701198403467753', '10,000+', 'http://www.getfitivity.com', 'guy@getfitivity.com']}
+{'com.harrys.laptimer': ["Harry's LapTimer Rookie", 'Harald+Schlangmann', '5,000+', 'http://www.gps-laptimer.de', 'Harry@gps-laptimer.de']}
+{'com.goodbarber.cheercast': ['CheerCast', 'CheerCast', '1,000+', 'http://cheercastmedia.wix.com/home', 'cheercastmedia@gmail.com']}
+{'air.totalpool.americanrotation.Scoreboard': ['American Rotation Scoreboard', 'Michas,+Inc.', '100+', 'http://www.totalpool.info/?p=arscoreboard', 'support@totalpool.info']}
+{'com.precisionstriking.combocreator': ['Combat Coach', 'Precision+Striking', '500+', 'http://www.precisionstriking.com', 'precisionstriking@yahoo.com']}
+{'com.rink_tank.freeskate_1_6': ['Freeskate 1-6', 'Rink+Tank+Interactive+LLC', '500+', 'http://www.rink-tank.com', 'm.fitzgerald@me.com']}
+{'twothumbz.ncaa.logolwptj': ['NCAA  Live Wallpapers &Tones', '5232135485269293273', '50,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.divisionbyzero.livetennis': ['Live Tennis Rankings / LTR', 'Philippe+Sobczak', '10,000+', 'http://live-tennis.eu', 'mobile@live-tennis.eu']}
+{'com.confatalis.win2win': ['Win2Win', 'Confatalis+LLC', '10,000+', 'https://win2winofficial.com', 'win2win@confatalis.com']}
+{'com.texterity.android.ATVAction': ['ATV UTV ACTION Magazine', 'Hi-Torque+Publications', '10,000+', 'http://hi-torque.com', 'timl@hi-torque.com']}
+{'com.vapeldoorn.artemislite': ['ArtemisLite', 'Marcel+van+Apeldoorn', '10,000+', 'http://artemis.vapeldoorn.net', 'artemislite@vapeldoorn.net']}
+{'com.wearlynx.skilynxapp': ['SkiLynx', 'Wearlynx,+Inc.', '100+', 'http://wearlynx.com', 'skilynx@wearlynx.com']}
+{'com.crags27.crags27': ['27 Crags - Rock climbing topo', '27+Crags', '10,000+', 'https://27crags.com', 'accounts@27crags.com']}
+{'com.biza.canknockdown.hit.smashballs': ['Hit Cans & Knockdown', 'Biza+Studio', '100,000+', 'http://www.bizastudeo.com', 'support@bizastudeo.com']}
+{'com.DragTimes': ['DragTimes.com Density Altitude', 'DragTimes', '1,000+', 'http://www.dragtimes.com/', 'info@dragtimes.com']}
+{'eu.peterbosch.climbingtrainingtimer': ['Rock Prodigy Timer', 'Trango+Climbing', '5,000+', 'http://www.trango.com', 'info@trango.com']}
+{'com.livesoccertv': ['Live Soccer TV - Scores & Stats', 'Live+Sport+Interactive', '1,000,000+', 'http://www.livesoccertv.com/app', 'info@livesoccertv.com']}
+{'uk.co.elcsoft.futalert': ['FUT Alert', 'ELC+Soft+Limited', '10,000+', 'https://www.futalert.co.uk', 'info@futalert.co.uk']}
+{'com.betsperts': ['Betsperts', 'BETSPERTS', '100+', 'http://www.betsperts.com', 'contactbetsperts@gmail.com']}
+{'com.isenet.kartchassissetup': ['Kart Chassis Setup for racing', 'ISEnet', '1,000+', 'http://www.isenet.es/app/kart-chassis-setup/', 'android@isenet.es']}
+{'com.sports.schedules.ncaa.basketball.college': ['College Basketball Live Stats, Scores: PRO Edition', '8691300293040078668', '50+', 'http://www.sportsscheduleapp.com', 'collegebasketball@scoresapp.com']}
+{'com.sports.schedules.nhl.hockey': ['Hockey NHL Schedule, Scores, & Stats: PRO Edition', '8691300293040078668', '100+', 'http://www.sportsscheduleapp.com', 'nhl@scoresapp.com']}
+{'com.ocrbuddy.ocrbuddy': ['OCR Buddy', 'GingerBlatt,+LLC', '1,000+', 'https://ocrbuddy.com', 'support@ocrbuddy.com']}
+{'com.barakkuda.kyokushin.legtechniques': ['Kyokushin - Leg Techniques', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.eisordevelopment.gotrapping': ['GoTrapping!', 'EiSor+Development', '1,000+', 'http://ei-sor.squarespace.com', 'eisordevelopment@gmail.com']}
+{'com.iphonedroid.marca': ['MARCA - Diario Líder Deportivo', 'Unidad+Editorial,+S.A.', '5,000,000+', 'http://www.marca.com', 'marca.android@gmail.com']}
+{'com.twothumbz.gameday_northcarolina': ['UNC TAR HEELS Ringtones  - Official', '5232135485269293273', '100+', 'http://2thumbz.com/', 'My2Thumbz@gmail.com']}
+{'com.k1speed.app': ['K1 Speed', 'K1+Speed,+Inc.', '10,000+', 'https://www.k1speed.com', 'app-feedback@k1speed.com']}
+{'com.twothumbz.gameday_floridastate': ['Florida State Ringtones - FSU', '5232135485269293273', '1,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'t72.beastmakertrainingpro': ['Beastmaker 1000 training PRO', 'TankT72', '1,000+', None, 'tankt72@outlook.com']}
+{'com.livefootballontv.android': ['Live Football On TV Guide', 'Patrick+Millais', '1,000+', 'http://www.live-footballontv.com/', 'patrickmillais@gmail.com']}
+{'com.aro.tryrugbypro': ['TryRugby Scoring Pro', 'T.+Orsini', '1+', 'http://aro-software.com', 'To15108@gmail.com']}
+{'air.com.grahammccabe.startline': ['Starting Line', 'SquishApp', '100+', 'https://www.facebook.com/SquishApp-148556409228847/', 'Support@SquishApp.com']}
+{'com.tech4biz.itrackhockey': ['iTrackHockey - Track Hockey Stats', 'CheckReal+Corporation', '5,000+', 'http://www.itrackhockey.com', 'support@itrackhockey.com']}
+{'com.gilmanlabs.sports.budsalley.sportslines': ['Sports Lines and Odds', 'Gilman+Labs', '10,000+', 'https://sportslinesandodds.net', 'kdgabel@icloud.com']}
+{'com.resultadosfutbol.mobile': ['BeSoccer - Soccer Live Score', '6675318340245338110', '10,000,000+', 'http://www.besoccerapps.com', 'soporte@besoccer.com']}
+{'com.iowadarts.app': ['Iowa Darts', 'Iowa+Darts', '100+', 'http://www.iowadarts.com', 'icdarts@gmail.com']}
+{'free.bet.tips': ['Football Betting Tips, Odds & Livescore - Pro Bet', '6158668354176088404', '5,000+', 'https://probet.tips/', 'support@probet.tips']}
+{'com.mp.betting.vincent.us': ['Betting Tips & Picks for USA Sports Daily Analysed', 'Vicentiu+Mobile+Apps', '5,000+', 'http://bo.365plus.ro/privacy/privacy.html', 'vincentmanole@gmail.com']}
+{'at.laola1.laola1tv': ['LAOLA1.tv', 'LAOLA1', '500,000+', 'http://www.thesportsmanholding.com/', 'office@laola1.at']}
+{'au.com.netball': ['Netball Live Official', 'Telstra+Digital+Media', '50,000+', 'http://netball.com.au/', 'tmapps@team.telstra.com']}
+{'duchow.julien.prodarts': ['Pro Darts Scoreboard', 'Julien+Duchow', '100,000+', None, 'support@pro-darts.net']}
+{'io.puntersbook': ['PUNTERSBOOK', 'puntersbook', '1,000+', None, 'puntersbookapp@gmail.com']}
+{'com.McStats.VBStats': ['McStats-VBall VolleyBall Stats', 'McStats', '500+', None, 'mcstats23@gmail.com']}
+{'com.maz.kayakangler': ['Kayak Angler', 'Rapid+Media', '1,000+', 'http://www.rapidmedia.com', 'subscriptions@rapidmedia.com']}
+{'fi.celain.chasingsilver': ['Chasing Silver Magazine', 'Celain+Oy', '500+', 'https://www.chasingsilvermagazine.com/', 'support@chasingsilvermagazine.com']}
+{'com.mayanapps.equitrack': ['EquiTrack  - GPS Horse Trainer', 'Mayan+Apps+LLC', '500+', 'http://www.myequitrack.com', 'support@myequitrack.com']}
+{'com.isenet.ktmjetting': ['Jetting For KTM dirt bike', 'ISEnet', '1,000+', 'http://www.isenet.es/app/ktm-jetting/', 'android@isenet.es']}
+{'co.uk.ipsoft.android.dressagescoringwizard': ['Dressage Scoring Wizard', 'Ipswich+Software+Ltd', '10+', 'http://www.ipsoft.co.uk', 'tech@ipsoft.co.uk']}
+{'info.kazusoftware.pooltigerv4': ['POOL TIGER', 'KAZUsoftware', '100+', 'http://kazusoftware.info/', 'kazusoftware@zeus.eonet.ne.jp']}
+{'com.novabroadcastinggroup.dxplay': ['Diema Xtra', 'Nova+Broadcasting+Group+AD', '50,000+', 'https://play.diemaxtra.bg/', 'apps@ntv.bg']}
+{'net.outdoorwizard.FishinWizard': ["Fishin' Wizard -#1 Fishing App", 'Outdoor+Wizard,+LLC', '10,000+', 'https://fishinwizard.com', 'info@fishinwizard.com']}
+{'air.com.thetourtracker.cntt': ['Tour Tracker Grand Tours', 'Tour+Tracker+LLC', '100,000+', 'http://thetourtracker.com', 'support@thetourtracker.com']}
+{'com.twothumbz.gameday_texas': ['Texas Longhorns Official Tones', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'pishtech.mfaprokey': ['My Fishing Advisor Pro', 'Pishtech+LLC', '10,000+', 'http://www.myfishingadvisor.com', 'info@myfishingadvisor.com']}
+{'com.mobincube.horse_show_pattern_pro_copy.sc_DKK2AH': ['Horse Show Pattern Pro', 'Horse+Show+Pattern+Pro', '10+', 'https://www.facebook.com/HorseShowPatternPro/', 'HorseShowPPro@gmail.com']}
+{'com.sartuga.android.drypractice': ['Dry Practice Drill', 'Sartuga+Software+LLC', '10,000+', 'http://drypractice.net', 'admin@drypractice.net']}
+{'com.ovidda.vip': ['VIP Betting Tips & Odds', 'BettingTipsTeam', '1,000+', None, 'vuralmelikenur@gmail.com']}
+{'com.rink_tank.hockey_1_4': ['Hockey 1-4', 'Rink+Tank+Interactive+LLC', '50+', 'http://www.rink-tank.com', 'm.fitzgerald@me.com']}
+{'mk.forward.recreationaldiveplanner': ['Dive Plan', 'AXIS', '500+', 'http://www.scubadiveplanner.com', 'info@scubadiveplanner.com']}
+{'com.twothumbz.gameday_ohiostate': ['Ohio State Ringtones Official', '5232135485269293273', '1,000+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'au.com.fne.myomaps': ['MyOMaps', 'FNE+Enterprises', '100+', 'http://MyOMaps.com', 'support@fne.com.au']}
+{'com.singletracks.Singletracks': ['Singletracks Topo: MTB Trails', 'Blue+Spruce+Ventures', '5,000+', 'http://help.singletracks.com/', 'support@singletracks.com']}
+{'com.cloose2u.biketrace.pro': ['Bike Trace Pro - GPS tracker', 'CLOOSE2U', '10+', 'http://www.cloose2u.com/appl/biketrace', 'biketrace@cloose2u.com']}
+{'com.dribblesticktraining.app': ['Dribble Stick Training', 'Fitcom', '100+', 'https://www.dribblesticktraining.com/', 'gboyd@fitcomadmin.com']}
+{'com.cloose2u.skitrace.pro': ['Ski Trace Pro - GPS tracker', 'CLOOSE2U', '100+', 'http://www.cloose2u.com/appl/skitrace', 'skitrace@cloose2u.com']}
+{'air.com.yudu.ReaderAIR3156503': ['American Fly Fishing', 'Northwest+Fly+Fishing', '5,000+', 'http://www.matchthehatch.com', 'steve@matchthehatch.com']}
+{'com.miros.whentofish': ['When to Fish', 'Miroslav+Capkovic', '50,000+', 'https://whento.fish', 'capkovic.miro@gmail.com']}
+{'com.maz.usasport': ['USA Today Sports Weekly', 'MAZ+Digital+Inc.', '5,000+', 'http://www.mazdigital.com', 'dev@mazdigital.com']}
+{'com.locomolabs.mfl': ['MFL Fantasy Football 2018', 'ChrisStewart', '50,000+', 'https://gist.githubusercontent.com/chrisstewart/27b730823acb4211fd24d6ed6c97e1f3/raw/73fafb99fcae3eb9bc24b876fbdad1d061ea3eab/gistfile1.txt', 'androidmfl@gmail.com']}
+{'com.v1.rightviewpro': ['RVP:Baseball & Softball video', 'V1+Sports', '50,000+', 'http://www.rightviewpro.com/', 'support@ifrontiers.com']}
+{'com.designsbyjw.ehsmobilepaid': ['EHS Mobile Sports', 'Prep+Connect+Mobile,+LLC.', '500+', 'http://www.prepconnectmobile.com', 'contact@prepconnectmobile.com']}
+{'com.hayava.android.lacrosse': ['Lacrosse Stats', 'Hayava,+Inc', '100+', 'http://www.hayava.com', 'info@hayava.com']}
+{'com.technosoft.Knot_List': ['Pro Knot Fishing + Rope Knots', 'John+Sherry', '5,000+', 'http://www.proknot.com', 'info@proknot.com']}
+{'com.freecaddiepro': ['Golf GPS APP-FreeCaddie Pro', 'Folla+Media,+LLC', '50,000+', 'http://freecaddie.com', 'support@freecaddie.com']}
+{'ncaa.logolwp_southcarolina': ['South Carolina Live Wallpaper', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'net.clipboardapps.lacrossedrills': ['Lacrosse Coaching Drills', 'Clipboard+Apps', '100+', 'http://www.clipboardapps.net/', 'ClipboardApps@aol.com']}
+{'com.waterpoloapp.waterpolostats': ['Water Polo Statistics', 'Spartan220', '5+', 'http://www.waterpoloapp.com', 'markrogers1114@yahoo.com']}
+{'air.basketballeditor': ['CoachIdeas - BasketBall Playbook Coach', 'TodoEntrenadores', '100,000+', 'http://www.todoentrenadores.com', 'alberto@todoentrenadores.com']}
+{'ovh.sauzanaprod.predictionfoot': ['Soccer Prediction', 'SauzanaProd', '1,000,000+', 'https://sauzanaprod.ovh/privacy_policy.html', 'lesfrancaisprod@gmail.com']}
+{'com.gkstopper.stopper': ['Stopper', 'Kilo+Communications+Inc', '10+', 'http://gkstopper.com', 'support@gkstopper.com']}
+{'com.embedia.regatta_pro': ['Regatta pro & start timer', 'embedia', '100+', 'http://embedia.it', 'michele.bevi@gmail.com']}
+{'com.macri92.swimingchrono': ['Swimming StopWatch', 'macri92', '10+', 'http://www.macri92.com', 'macri92@gmail.com']}
+{'org.jaqb.f1readerapp': ['Freader1 - Formula Racing News', 'Jaqb', '50,000+', 'http://www.jaqb.org', 'info@jaqb.org']}
+{'com.talkingdata.apps.android.betdata': ['Bet Data - VIP Betting Tips, Stats, Live Scores', 'Talking+Data', '100,000+', 'http://www.talking-data.com', 'apps@talking-data.com']}
+{'com.Merge.ZenobiaWreckDiveSimulation': ['Scuba Dive Simulator: Zenobia', 'Kalia+Aristidou', '100+', None, 'karisteidou@gmail.com']}
+{'com.compegps.twonavfull': ['TwoNav GPS: Premium', 'CompeGPS+Team+SL', '10,000+', 'http://www.twonav.com', 'support@twonav.com']}
+{'com.silvermustangstudios.ultimatepredatorcalls': ['Ultimate Predator Calls', 'Silver+Mustang+Studios', '100+', 'http://www.silvermustangstudios.com', 'info@silvermustangstudios.com']}
+{'jp.co.wasabiapps.bestbowling': ['Best Bowling', 'Wasabi+Applications+%28%E3%82%8F%E3%81%95%E3%81%B3%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%29', '100+', 'http://wasabi-apps.co.jp', 'support@wasabi-apps.co.jp']}
+{'com.plongee.diveblender_p': ['DiveBlender', 'DiveSoft', '100+', 'http://diveblender.blogspot.ch/', 'diveblender@gmail.com']}
+{'com.csl1911a1.reloadcost': ['Reloading Calculator - Ammo', 'CSL1911A1', '10,000+', 'https://www.facebook.com/csl1911a1/', 'csl1911a1@gmail.com']}
+{'com.Richta.Odometer': ['Richta Rally Odometer', 'Rich+Bireta', '100+', 'http://www.richtarally.com', 'rbireta@gmail.com']}
+{'com.optimysports.soccermesh_stats': ['Team Stats', 'OPTIMYSports', '100+', 'http://www.soccermesh.com', 'support@soccermesh.com']}
+{'com.espn.droid.bracket_bound': ['ESPN Tournament Challenge', 'ESPN+Inc', '1,000,000+', 'http://m.espn.go.com', 'espnmobilefeedback@espncustomercare.com']}
+{'com.bassmaster.magazine': ['Bassmaster Magazine', 'B.A.S.S.,+LLC', '1,000+', 'http://www.bassmaster.com', 'mag.developer+play@bassmaster.com']}
+{'air.com.basketballeditor.SoccerTactics': ['Soccer Board Tactics', 'TodoEntrenadores', '100,000+', 'http://www.todoentrenadores.com', 'alberto@todoentrenadores.com']}
+{'com.vectorflight.airflare': ['AirFlare', 'Vector+Flight', '1,000+', 'http://airflare.com', 'support@airflare.com']}
+{'com.strokes': ['Golf Strokes & Bets', 'Class+Mate+Software', '500+', 'http://classmategrading.com/strokes', 'rmicaletti@gmail.com']}
+{'com.emountainworks.android.crosscountryskimontana': ['Cross Country Ski Montana', '8233080612482598419', '10+', 'http://www.emountainworks.com', 'feedback@emountainworks.com']}
+{'com.divenav.idivecomputer': ['iDive (SCUBA Dive) Computer', 'DiveNav,+Inc.', '10,000+', 'http://www.ediving.us/forum/viewtopic.php?f=138&t=1819', 'customer.service@divenav.com']}
+{'com.shootingsportsman.mag': ['Shooting Sportsman', 'Down+East+Enterprise,+Inc.', '500+', 'http://www.shootingsportsman.com', 'appsupport@shootingsportsman.com']}
+{'com.mamicotech.viphighoddsbettingtips': ['VIP High Odds Betting Tips', 'Fractaltree', '100+', None, 's.muhammetulas@gmail.com']}
+{'com.apportable.RussBrayAndroid': ['Russ Bray Darts Scorer', 'TIG+Apps+Limited', '10,000+', 'http://www.russthevoicebray.co.uk/index.php/en/', 'russbrayapp@gmail.com']}
+{'tinysoftwarefactory.bikecomputer': ['Bike Computer', 'Tiny+Software+Factory', '50,000+', 'https://www.facebook.com/notes/bike-computer/privacy-policy/1327345517324665', 'zawalich.michal@gmail.com']}
+{'net.themopbucket2.myapp': ['The Mop Bucket 2 Individual Wrestling Stats', '7085641910869964096', '5+', 'http://themopbucket.net', 'jmccarty@themopbucket.net']}
+{'air.RugbyDoodFree': ['Rugby Dood', 'mola', '10,000+', 'http://www.sportsdood.com', 'info@sportsdood.com']}
+{'com.parlay': ['Parlay Calculator', 'Phoenix+Sports', '10+', 'http://www.parlaycalculator.com', 'ronraymond@rogers.com']}
+{'com.mantapix.android.theroadiebikefit': ['The Roadie Bike Fit', 'Mantapix+Ltd', '5,000+', 'https://sites.google.com/site/roadiebikefitprivacypolicy/', 'android.dev@mantapix.com']}
+{'com.homemade.ffm2.adfree': ['Fantasy Football Manager Pro', '7445268337799528367', '5,000+', 'https://sites.google.com/view/fantasyfootballmanagerpro', 'contact.homemadeapps@gmail.com']}
+{'com.toysoft.hockeydj': ['Hockey Music Pro', 'Toysoft+Inc.', '100+', 'http://www.toysoft.ca', 'info@toysoft.ca']}
+{'com.battletac': ['BattleTac airsoft', 'Koczo+Balazs', '1,000+', 'http://battletac.com', 'support@battletac.com']}
+{'com.forslabs.boxingcoach3d': ['Virtual Sparring Partner', 'Precision+Striking', '50,000+', 'http://www.precisionstriking.ca', 'precisionstriking@yahoo.com']}
+{'com.ns31.airspacemap': ['Airspace Map', 'NS31+Software', '1,000+', 'http://www.ppgps.info', 'stephane.nicole31@gmail.com']}
+{'de.juwei.scorebuddy': ['3D Score Buddy', 'Juwei-Apps', '5,000+', 'http://www.3dscorebuddy.de', 'mail@3dscorebuddy.de']}
+{'adboco.diveplanner2.pro': ['Dive Planner 2', 'Adri%C3%A1n+Bouza+Correa', '500+', 'https://plus.google.com/u/0/+Adri%C3%A1nBouzaCorrea/posts', 'adboco@telefonica.net']}
+{'com.appfour.wearspeedometer': ['Speedometer for Wear OS (Android Wear)', '8815886658662427637', '10,000+', 'http://www.appfour.com', 'info@appfour.com']}
+{'net.hcsoft.sailsafePro': ['Sailsafe Pro. Anchor alarm.', 'HCSoft+S.L.', '1,000+', 'http://www.hcsoft.net', 'oficina@hcsoft.net']}
+{'com.it_jpn.android.fishsize.pro': ['Fish measurement', 'ITJapan', '100+', None, 'itjapan.android@gmail.com']}
+{'fred.wmwatch.aviatorwatch2': ['Aviator Watch Face for Pilots, QNH', 'Jan+Benes', '50+', 'http://www.europm.com', 'jbrepo@gmail.com']}
+{'com.theappdoor.ifish.alberta': ['iFish Alberta', 'The+App+Door', '5,000+', 'http://www.iFishAlberta.com', 'info@AppsForAnglers.com']}
+{'com.haynes.roadbikemanual': ['The Road Bike Manual', 'Haynes', '500+', 'http://www.haynes.com', 'appsupport@haynes.co.uk']}
+{'com.itesta.fishmemo': ['FishMemo - fishing tracker', 'Va+Apps', '10,000+', 'http://www.fishmemoapp.com', 'fishmemoapp@gmail.com']}
+{'com.musta.mustafa.proteintracker': ['Protein Tracker', 'moustapha+AI', '10,000+', None, 'moustaphaaussie@gmail.com']}
+{'com.sports.schedules.nba.basketball': ['Basketball NBA 2018 Schedule & Scores: PRO Edition', '8691300293040078668', '100+', 'http://www.sportsscheduleapp.com', 'nba@scoresapp.com']}
+{'ca.hockeycanada.network': ['Hockey Canada Network', 'Hockey+Canada', '10,000+', 'http://www.hockeycanadanetwork.com', 'HCNsupport@hockeycanada.ca']}
+{'com.relevans.fernandoalonso': ['Fernando Alonso for Whatsapp', 'Relevans+Global', '10,000+', 'http://www.relevans.es/', 'developer@relevans.es']}
+{'com.objectdesignlabs.dfsblg': ['DFS Bulk Lineup Generator', 'Object+Design+Labs', '1,000+', 'http://www.objectdesignlabs.com', 'dfsblg@objectdesignlabs.com']}
+{'com.supcosoftware.battingcounterpro': ['Batting Counter / Stats Tracker Pro', 'Supco+Software+Solutions+LLC', '10+', 'https://sites.google.com/view/battingcounterstatstracker/privacy-policy', 'supcosoftwaresolutions@gmail.com']}
+{'com.hiphopinstruction.formations': ['Dance & Cheer Formations', 'Kevin+Andrews+Industries', '1,000+', 'http://www.hiphopinstruction.com', 'support@hiphopinstruction.com']}
+{'com.fightscore.boxing.android': ['Fight Score (Boxing Scorecard)', 'CC+Solutions', '10,000+', 'http://steven-macleod.com/Support.html', 'smacleod1993@gmail.com']}
+{'fred.wmwatch.usaviatorwatch2': ['Aviator Watch Face for US Pilots, QNH', 'Jan+Benes', '10+', 'http://www.europm.com', 'jbrepo@gmail.com']}
+{'org.ksolution.solunartable': ['Solunar - Fishing & Hunting TM', '8413021153262246042', '10,000+', 'http://www.outdoor-apps.com', 'support@ksolution.org']}
+{'com.barakkuda.ninjutsu.movement': ['Ninjutsu Movements', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'contact-ibudokan@ibudokan.com']}
+{'com.besac.statsbasket': ['Stats Pro Basket', 'Allan', '100+', 'http://statspro.cieli.fr', 'statsprobasket@gmail.com']}
+{'com.barakkuda.aikidoweapons.one': ['Aikido Weapons 1', 'Barakkuda+Co.+Ltd', '10+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.barakkuda.kyokushin.stances': ['Kyokushin - Stances & Moves', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.grapplearts.subdef': ['Sub Defense', 'Grapplearts+Enterprises+Inc', '1,000+', 'http://www.grapplearts.com', 'stephankesting@gmail.com']}
+{'com.barakkuda.kyokushin.handtechniques': ['Kyokushin - Hand Techniques', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.Lougheed.GoalHornApp': ['Goal Horn App', 'Carson+Lougheed', '10+', None, 'clougheed@live.co.uk']}
+{'com.chartmygolf.www.chartmygolf': ['Chart My Golf', 'Jon+Ashman', '100+', 'http://www.chartmygolf.com', 'contactus@chartmygolf.com']}
+{'com.McStats.BBStats': ['McStats-BBall Basketball Stats', 'McStats', '100+', 'http://www.mcstats23.com', 'mcstats23@gmail.com']}
+{'com.barakkuda.ukemi.all': ['Ukemi', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'com.sports.schedules.womens.ncaaw.basketball.college': ["Women's College Basketball Live Scores PRO Edition", '8691300293040078668', '5+', 'http://www.scoresapp.com', 'collegebasketball@scoresapp.com']}
+{'com.barakkuda.kyokushin.katakokyu': ['Kyokushin - Kata & Kokyu', 'Barakkuda+Co.+Ltd', '100+', 'http://www.ibudokan.com', 'ibudokandroid@gmail.com']}
+{'nl.software101.stats': ['Easy Basketball Stats', 'Software101', '100+', 'http://www.facebook.com/easybasketballstats', 'support@software101.nl']}
+{'com.divinglog.divelog': ['Diving Log', 'Sven+Knoch', '10,000+', 'https://www.divinglog.de', 'info@divinglog.de']}
+{'com.gbeegames.soccer': ['Soccer Play Designer and Coach Tactic Board', 'GBeeGames', '1,000+', 'http://www.gbeegames.com', 'support@gbeegames.com']}
+{'com.gannett.dolly.CJCardinals': ['Cards HQ', 'Gannett', '1,000+', 'http://www.gannett.com', 'mobilesupportldsn@gannett.com']}
+{'org.ksolution.huntpro': ['Hunt Pro - Calls and Solunar', '8413021153262246042', '50,000+', 'http://www.outdoor-apps.com', 'support@ksolution.org']}
+{'ncaa.logolwp_georgia': ['Georgia Bulldogs Live WPs', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.iskiandride.app': ['I Ski and Ride - Visual Learn to Ski and Snowboard', 'Susan+Chase+Motzkin', '50+', 'http://iskiandride.com/', 'info@iskiandride.com']}
+{'com.sarahardy.suplex': ['Suplex - Wrestling Journal', 'Sara+Hardy', '1,000+', 'http://suplexapp.com', 'suplexapp@gmail.com']}
+{'com.toddbrady.motorsportsRadio': ['Motorsports Live Radio Stream', 'Brady+Software+LLC', '5,000+', 'https://www.brady-software.com/projects/motorsports-radio', 'appsupport@brady-software.com']}
+{'com.twothumbz.gameday_auburn': ['Auburn Tigers Fight Songs', '5232135485269293273', '100+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.sportsconnectu': ['SportsConnectU by HSA', 'Hardwood+Sports+Academy', '100+', 'http://www.sportsconnectu.mobi', 'team@hardwoodsportsacademy.com']}
+{'com.boatingtripplanner.TidalCurrentsPlusGPSLocation': ['Tidal Currents + GPS Location', '8481738770013492665', '100+', 'http://www.boatingtripplanner.com/', 'SupportAndroid@BoatingTripPlanner.com']}
+{'ncaa.logolwp_kentucky': ['Kentucky Wildcats Live WPs', '5232135485269293273', '500+', 'http://2thumbz.com/', 'my2thumbz@gmail.com']}
+{'com.sb.racingtree.android': ['Drag Racing Tree Simulator', 'Shawn+Brown', '1,000+', None, 's.brown.droiddev@gmail.com']}
+{'com.laverne.racquet_tune': ['RacquetTune', 'Laverne+Productions', '5,000+', 'http://racquettune.com', 'android@racquettune.com']}
+{'com.snyderss.theaswingpro': ['The aSwing Pro Swing Analysis', 'Snyder+Software+Solutions', '100+', 'http://theaswingpro.com', 'support@theaswingpro.com']}
+{'com.garysweet.archerstoolkit': ["Archer's Toolkit - Scoring, Sight Marks & more", 'Gary+Sweet', '50+', 'http://www.archerstoolkit.com', 'support@archerstoolkit.com']}

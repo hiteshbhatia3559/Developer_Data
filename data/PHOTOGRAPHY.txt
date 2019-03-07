@@ -1,0 +1,973 @@
+{'com.photoeditor.videopiccollage': ['Photo Editor: Pic Collage', 'Photo-Editor+Pro', '10,000+', 'http://bit.ly/2MFXNHX', 'photocollagepro2019@gmail.com']}
+{'com.intermedia.hd.camera.pro': ['HD Camera Pro : Best Camera HD Professional', '5910680070765708570', '100,000+', 'https://intermedia-inc.weebly.com/privacy-policy.html', 'intermedia.inc@gmx.com']}
+{'com.moonlab.unfold': ['Unfold — Create Stories', 'Unfold+Creative+LLC', '5,000,000+', 'http://www.unfoldstori.es', 'hello@unfold.us']}
+{'com.picstudio.photoeditorplus': ['X Photo Editor - Cartoon Effect & Fashion Makeup', '5518877975164386758', '1,000,000+', 'http://d2prafqgniatg5.cloudfront.net/XPicStudio/XPhotoEditor_privacy.html', 'aiprocessingstudio@gmail.com']}
+{'com.asurion.android.mediabackup.vault.sprint': ['Sprint Complete Storage', 'Sprint', '100,000+', 'https://protection.sprint.com/', 'CompleteStorageSupport@asurion.com']}
+{'remove.unwanted.object': ['Remove Object from Photo - Unwanted Object Remover', 'Native,+Inc.', '5,000,000+', 'https://islamicurdu.wordpress.com', 'rawodatulatfal@gmail.com']}
+{'com.hqgames.pencil.sketch.photo': ['Pencil Photo Sketch-Sketching Drawing Photo Editor', 'Minerva+Studios+Private+Limited', '10,000,000+', 'https://sites.google.com/view/pencilphotosketch/home', 'hqgames1080@gmail.com']}
+{'com.pavahainc.smokenameart': ['Smoke Effect Art Name: Focus Filter Maker', 'Pavaha+Lab', '1,000,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'best.photo.app.babyphotostickers': ['Tootsie Baby Photo', 'Best+Photo+Apps', '50,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'designblur.photo.android.app.addquick': ['Design Blur (Radial Blur)', 'addquick', '100,000+', 'http://addquick.website/', 'addquicks@gmail.com']}
+{'com.palmeralabs.mardi_gras_photo_stickers': ['Mardi Gras Photo Stickers', '8577558281498808594', '10,000+', 'http://palmeralabs.com', 'palmeralabs@gmail.com']}
+{'photoeditor.photocollage.collageframepro': ['Pic Collage Frame - Photo Collage Maker PicEditor', 'fly+team', '100,000+', 'http://47.91.139.139/Policy/Android/CollageFramePro/PrivacyPolicy.html', 'leijunguo85@gmail.com']}
+{'com.loopsie.android': ['Loopsie - Pixeloop Video Effect & Living Photos', '6640495756547439787', '1,000,000+', 'http://www.loopsie.it', 'android.support@loopsie.it']}
+{'io.faceapp': ['FaceApp', 'FaceApp+Inc', '10,000,000+', 'http://www.faceapp.com', 'support.android@faceapp.com']}
+{'com.lightricks.facetune.free': ['Facetune - Selfie Photo Editor for Perfect Selfies', 'Lightricks+Ltd.', '5,000,000+', 'http://www.facetuneapp.com/index.html', 'android@facetuneapp.com']}
+{'com.photo.bestbeautycamera': ['Best Beauty Camera', 'Summer+Mobile+Studio', '1,000,000+', 'http://www.kungfu365.com/best/src/policy.html', 'rosshuang666@gmail.com']}
+{'pixelab.camart.cartoon': ['cartoon camera', 'Pixelab', '1,000,000+', 'http://www.isystemgroup.org/pixelab_policy.html', 'pixelab@isystem.gr']}
+{'com.lightx.storyz': ['StoryZ Photo Motion & Cinemagraph', 'Andor+Communications+Pvt+Ltd', '1,000,000+', 'https://www.storyzapp.com/privacy_policy.html', 'andorcommunications@gmail.com']}
+{'com.kingsapps.selfiecamera': ['Selfie Camera Professional - NEW Filters', 'Kings+Apps+developers', '1,000+', 'https://privacypolicyfs.blogspot.com/', 'albahrsdeve@gmail.com']}
+{'com.VictoryRoyalePhotoEditor.FBRSKINS.FortniteStickers': ['Victory Royale Photo Editor - FBR SKINS', 'Fun+And+Free+Apps+For+All', '10,000+', 'https://funandfreeappsfora.wixsite.com/mysite', 'funandfreeappsforall@gmail.com']}
+{'com.lyrebirdstudio.background_eraser': ['Background Eraser: Transparent & White Background', '8117239212302166287', '50,000+', 'http://lyrebirdstudio.net/privacy.txt', 'lyrebirdstudio@gmail.com']}
+{'com.simplifieditproducts.picturekeeperconnect': ['Picture Keeper Connect', 'Simplified+IT+Products,+LLC', '10,000+', 'https://picturekeeper.com/', 'sales@picturekeeper.com']}
+{'com.offiwiz.resize.photo.resizer': ['Photo & Image Resizer - Resize and Crop Picture HD', '7817067652190205522', '50,000+', 'http://www.offiwiz.com', 'offiwiz@gmail.com']}
+{'com.tfc.carnivalmasks.photoeditor.carnival.facemask.app': ['Carnival Masks Photo Frame Editor', 'The+Fashion+Crazier', '10,000+', 'https://thefashioncrazier.blogspot.com/2017/11/the-fashion-crazier-privacy-policy.html', 'fashioncrazier@gmail.com']}
+{'com.pic.pipcamera': ['PIP CAM - Photo Maker', '7153679079505837871', '10,000,000+', 'https://pictoolsgroup.tumblr.com/post/157522018949/privacy-policy-of-pic-tools-group-photo-editor', 'wongcti12214@gmail.com']}
+{'com.pratipalstickers.MardiGrasStickers': ['Mardi Gras Stickers To Add To Your Photos Studio', 'stickers+photo+editor', '100+', 'http://www.veritastechnolabs.com/privacypolicy.htm', 'krutic2313@gmail.com']}
+{'com.pavahainc.newphotoframes': ['New Photo Frames', 'Pavaha+Lab', '100+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.nickcullen.prog': ['Prog', 'Nicholas+Cullen', '100+', 'https://nickcullen.net', 'contact@nickcullen.net']}
+{'com.chatbooks': ['Chatbooks: Photo Books & Cards', 'Chatbooks', '500,000+', 'http://www.chatbooks.com', 'support@chatbooks.com']}
+{'com.lightx': ['LightX Photo Editor & Photo Effects', 'Andor+Communications+Pvt+Ltd', '10,000,000+', 'https://lightxapp.com/', 'support@lightxapp.com']}
+{'com.outthinking.photoeditorformen': ['Handsome : Men Editor, Hair Styles, Mustache, Abs', 'ANDROID+PIXELS', '5,000,000+', 'http://www.outthinkingindia.com/privacy-policy/', 'androidpixels@gmail.com']}
+{'com.ycc365closeli.aws': ['YCC365', 'cloudcam', '50,000+', 'http://ycc365.support.com', 'support@cloudiotcam.com']}
+{'com.thirtythreebits.tattoo': ['Tattoo —  virtual ink maker', 'Cosmoshark+LLC.', '1,000+', 'http://www.cosmoshark.com/', 'support@cosmoshark.com']}
+{'com.fundaymagnifying.zoomtelescopecamera': ['Magnifying Zoom Telescope Camera', 'FS+studio', '500,000+', 'https://fsstudio08.wixsite.com/privacy-policy', 'fsstudio08@gmail.com']}
+{'photoeditor.selfiecamera.snappycamera.MakeupPhotoEditor': ['Makeup Photo Editor: Selfie Camera and Face Makeup', 'Chipo+Created', '500,000+', 'http://chipocreated.com', 'chipocreated@gmail.com']}
+{'net.luxuryapps.squarenocrop': ['Blur Square - No Crop Photo Editor & Collage Maker', 'Square+Photo+Editor+Apps', '100,000+', 'https://photoyou.me', 'luxurydevnet@gmail.com']}
+{'com.pic.photoeditor': ['Photo Editor - Beauty Camera & Photo Filters', '7153679079505837871', '50,000,000+', 'https://delicatelykeenmilkshake.tumblr.com/post/157351060150/privacy-policy-of-photo-editor', 'wongcti12214@gmail.com']}
+{'com.picsart.studio': ['PicsArt Photo Studio: Collage Maker & Pic Editor', '5408830062919995155', '100,000,000+', 'https://picsart.com', 'support@picsart.com']}
+{'com.triciaapps.photoframes.PhotoFramesLove': ['Photo Frames Love', '7238397895237322423', '500,000+', 'https://sites.google.com/view/triciaappspolicy', 'surcotricia@gmail.com']}
+{'com.pavahainc.sparkleoverlayphotoapp': ['Sparkle Overlay Photo App', 'Pavaha+Lab', '500+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.radianceappstudio.carnivalphotoframes': ['Carnival Photo Frames', 'Radiance+App+Studio', '500+', 'https://radianceprivacypolicy.blogspot.com/', 'radiance02app@gmail.com']}
+{'com.instagram.boomerang': ['Boomerang from Instagram', 'Instagram', '100,000,000+', 'http://instagram.com', 'support+android@instagram.com']}
+{'com.dailyselfie.newlook.studio': ['Sweet Camera - Selfie Filters, Beauty Camera', '8095884964308210606', '50,000,000+', 'https://oneappteamcamera.weebly.com/', 'feedback.s.camera@outlook.com']}
+{'com.photoaffections.freeprints': ['FreePrints – Free Photos Delivered', 'PlanetArt', '1,000,000+', 'http://www.freeprints.com', 'support@freeprintsapp.com']}
+{'com.appwallet.faceprojector': ['Face Projector Editor : Photo Projector Editor App', 'Appwallet+Technologies', '1,000,000+', 'http://www.appwallettech.com', 'appwallettechnologies@gmail.com']}
+{'walmart.photo.centerappkiosk': ['Photos for Walmart - Kiosk & Print App', 'Photo+Mart+Tech', '100+', 'http://bit.ly/photo-center-walmart', 'photomartapp@techie.com']}
+{'com.youthhr.phonto': ['Phonto - Text on Photos', 'youthhr', '10,000,000+', 'http://phon.to/download', 'contact@phon.to']}
+{'photoeditor.snapgrid.photocollage': ['Snap Collage Maker - Sticker, Filter Selfie Editor', 'fly+team', '100,000+', 'http://47.91.139.139/Policy/Android/SnapGrid/PrivacyPolicy.html', 'leijunguo85@gmail.com']}
+{'com.adobe.lrmobile': ['Adobe Lightroom CC', '4734916851270416020', '10,000,000+', 'https://www.adobe.com/products/photoshop-lightroom.html', 'LrAndroid-Feedback@adobe.com']}
+{'com.fotoable.faceswap.c403': ['Face Swap', 'Weather+Radar+Forecast', '10,000,000+', 'http://www.fotoable.com/privacy.html', 'weiyameng@fotoable.com']}
+{'com.artisanstate.photobooks': ['Zno: Photo Books & Prints', 'Zno+Inc.', '100,000+', 'http://www.zno.com', 'support@zno.com']}
+{'com.hefe.pro.editor': ['Photo Editor Pro – Sticker, Filter, Collage Maker', 'PikaSnap+DEV', '10,000,000+', 'http://privacy.subcdn.com/policy/com_hefe_pro_editor/ALL/en/582/privacy.html', 'totalgol7@gmail.com']}
+{'com.appster.facejjang': ['Facejjang', 'Sangmin+Bang', '10,000,000+', 'https://www.facebook.com/fjjang', 'facejjang50@gmail.com']}
+{'selfie.photo.apps.facemaskcamera': ['Anonymous Face Mask', 'Selfie+Photo+Apps', '50,000+', 'https://docs.google.com/document/d/17Phqvzwfe8vS4XNvMmuZzrd_gKetfiFNFV2844nr1vw/edit?usp=sharing', 'selfiephotoapps@gmail.com']}
+{'com.filmlabapp.filmlab.android': ['FilmLab, for analog flilm', 'Abe+Fettig', '100+', 'http://filmlabapp.com', 'abe@filmlabapp.com']}
+{'photo.smile.red.eyes.changer.color': ['FoxEyes - Change Eye Color by Real Anime Style', '8472459119037168027', '1,000,000+', 'https://sites.google.com/site/gamesmilestudio/home', 'gamesmilestudio@gmail.com']}
+{'com.AllSeason.Battleroyale': ['Battle Royale Wallpapers', 'Royale+Dev', '500,000+', 'https://sites.google.com/view/battle-privacy/', 'galilitomson@gmail.com']}
+{'girls.photo.editor.apps.girlsherocostume': ['Girl Hero Costume - Princess Dress & Makeup', 'Girls+Photo+Editor', '100,000+', 'https://docs.google.com/document/d/15mznIkEAl4n2M-u5WW2-3CwIbjI5lMkWwb0DinUfRUI/edit?usp=sharing', 'girls.photo.editor.apps@gmail.com']}
+{'com.pavahainc.pictureblender': ['Picture Blender & Photo Merge / Mixer Apps', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.pavahainc.horrorframesphotoeditor': ['Horror Frames Photo Editor', 'Pavaha+Lab', '10,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.musicvideo.photoeditor.squarefit': ['Square Blur- Blur Image Background Music Video Cut', 'CameraStudiopro', '500,000+', 'http://119.28.31.90/Policy/Android/SquareFit/PrivacyPolicy.html', 'photo2labs@gmail.com']}
+{'com.codeseed.labs.pencildrawing': ['Pencil Drawing Art', '5414897073837567444', '1,000,000+', 'http://codeseedlabs.com/', 'contact@codeseedlabs.com']}
+{'com.bigbeardevapps.photofunnybaby': ['Baby Photo Montage', 'Big+Bear+Dev', '100,000+', 'https://bigbeardev.wordpress.com/', 'bigbeardevapps@gmail.com']}
+{'com.pavahainc.rosephotoframesnew': ['Rose Photo Frames New', 'Pavaha+Lab', '500+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.pavahainc.namepictureonbirthdaycake': ['Name Picture on Birthday Cake', 'Pavaha+Lab', '500+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.viewbug.viewbug': ['ViewBug - Photography', 'Golozo,+LLC', '10,000+', 'https://www.viewbug.com', 'members@viewbug.com']}
+{'com.asafinc.ilkcamera': ['Pro Selfie Beauty Camera', 'Caktxmob', '10,000+', 'http://asafinc.blogspot.com.tr/2018/02/permissions-camera-permission-required.html', 'asafappsinc@gmail.com']}
+{'photoframefamily.familyphotocollage.maruti': ['Family Photo Collage Maker', 'shree+maruti+plastic', '100,000+', 'https://sites.google.com/site/privacypolicymarutiplastic/', 'plastmaruti@gmail.com']}
+{'com.gif.gifmaker': ['GIF Maker - Video to GIF, GIF Editor', 'NVGCode', '100,000+', 'https://nvgcode.wordpress.com/2018/06/06/gif-maker-privacy-policy/', 'nvgcode@gmail.com']}
+{'com.planetart.easytiles.ww': ['EasyTiles', 'PlanetArt', '5,000+', 'http://www.easytiles.com', 'support@easytiles.com']}
+{'com.time.date.stamp.camera.xixifunction': ['Date Stamp Camera New: Auto Add Timestamp on Photo', 'gujing+love+camera', '100,000+', 'https://docs.google.com/document/d/1byApyxacaTA9GpXiDyg9iPLiH1H7oJC5Flfl1dIhjPU/edit?usp=sharing', 'xjg65251948@gmail.com']}
+{'com.pavahainc.sparklephotoframes': ['Sparkle Photo Frames: Glitter Effects Editor', 'Pavaha+Lab', '1,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.MinniMousePhotoStickers.CutePhotoEditor': ['Minni Mouse Photo Stickers', 'Little+Oasis+Apps+for+Kids+and+Adults', '1,000,000+', 'https://lukozi00.wixsite.com/littleoasisapps', 'slepiimis1988@gmail.com']}
+{'com.photoappworld.photo.sticker.creator.wastickerapps': ['Create custom stickers to WhatsApp - WAStickerApps', '6475314061831648652', '500,000+', 'http://www.photoappworld.com', 'support@photoappworld.com']}
+{'silent.multiphotoblender.com': ['Multiple Photo Blender - Blend Me Collage', 'Silent+Media+App', '5,000+', 'https://silentmediaapp.blogspot.com', 'silentmediaapp405@gmail.com']}
+{'com.totsieapp': ['Totsie – Baby Photo Editor', 'Burleigh+Creative', '1,000,000+', 'https://www.totsieapp.com', 'support@totsieapp.com']}
+{'com.touchretouch.remove.unwanted.object.photoeditor.textonphoto': ['Unwanted Object Remover: Touch Retouch 2019', 'Decent+Creations:+Earth+Maps+%26+Live+GPS+Navigation', '50,000+', 'https://sites.google.com/site/objectremoverunwantedobject/', 'talhakd8651@gmail.com']}
+{'com.dozingcatsoftware.asciicam': ['AsciiCam', 'Dozing+Cat+Software', '100,000+', 'http://www.dozingcatsoftware.com', 'bnenning@gmail.com']}
+{'com.sixhandsapps.shapicalx': ['Shapical X: Combine, Blend and Edit Photos', '9159635076379979111', '100,000+', 'http://sixhandsapps.com', 'support@sixhandsapps.com']}
+{'image.photoedit.photogallery': ['Photo Gallery HD & Editor', 'iJoysoft', '1,000,000+', 'https://s3.amazonaws.com/ijoysoftprivacy/AppPrivacy.txt', 'smartchen2015@gmail.com']}
+{'com.pic.photo.editor.eraser': ['Pic Eraser', 'bingbing+joy+team', '100,000+', 'https://docs.google.com/document/d/1pyrHS6UaNpzVveASkzZ8LTOKgJt_a3ga8yMKAz9eZUQ/edit?usp=sharing', 'chenyibing2019@gmail.com']}
+{'com.arsenal_android_2': ['Arsenal - The Intelligent Camera Assistant', 'North+of+You', '10,000+', 'https://witharsenal.com', 'help@witharsenal.com']}
+{'best.photo.app.rangerphoto': ['Rangers Costume Photo Montage', 'Best+Photo+Apps', '1,000,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.rv_image_video_gallery': ['Photo Gallery', 'Gallery+Llc', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/3e9f4ff7215595c91ea6e81cc49c4e6b', 'galleryllc6285@gmail.com']}
+{'com.tppm.animal.face.photo': ['Animal Face Photo App', '7125614350471173442', '1,000,000+', 'https://thaliadev.wixsite.com/thaliaapps', 'thaliamaka@gmail.com']}
+{'coocent.app.photo.editor.effect': ['Photo Editor Pro', 'Dreams+Room', '5,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Dreeam_Room/privacy.txt', 'panjiaqiong@gmail.com']}
+{'com.wombatica.facewarp': ['Face Warp', '8362224284024253047', '5,000,000+', 'http://wombatica.com', 'apps@wombatica.com']}
+{'sweet.selfie.beauty.camera': ['Selfie Camera - Beauty Camera & AR Stickers', 'Dreams+Room', '100,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/Dreeam_Room/privacy.txt', 'panjiaqiong@gmail.com']}
+{'go.android.eraser': ['Background Eraser', 'MediaCoding,Inc.', '1,000,000+', 'http://bsoftjsc.com/pr/privacy_policy.html', 'lockscreen.inc.2016@gmail.com']}
+{'com.photoeffect.intensephotoeffect': ['Intense Photo Effects', 'Shagajer+Infotech', '500,000+', 'https://livpoo.blogspot.com', 'pateljatinj@gmail.com']}
+{'nl.fotoview.yeswecan': ['Obama Style Pop Art Image', 'Fotoview', '500,000+', 'http://www.fotoview.nl', 'contact@fotoview.nl']}
+{'com.energysh.onlinecamera1': ['MagiCut - Auto Cut Paste Photo Editor', 'Cut+Out+Photo+Editor+%26+Photo+Maker+Studio', '1,000,000+', 'https://docs.google.com/document/d/1b8MM7ZI4qcn6vynDABaZtpg2XBwtxRUzEHgGBdzR0Fs/pub', 'malick.aiqi@gmail.com']}
+{'com.best.photo.app.weddinghairstyle': ['Wedding Hairstyles', 'Best+Photo+Apps', '1,000,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.belenchu.saintpatrick': ["St Patrick's Day photo editor", 'Belenchu+Intercom', '1,000+', 'https://www.dropbox.com/s/beftr4ijsn2c4ik/Belenchu.txt?dl=0', 'belenchumego@gmail.com']}
+{'com.snapfish.mobile': ['Snapfish: Prints,Photo Cards,Photo Books,Canvas', 'Snapfish', '1,000,000+', 'https://support.snapfish.com', 'soma-feedback-android@snapfish-llc.com']}
+{'com.lyrebirdstudio.emoji_camera': ['Emoji Camera: Selfie Makeup and Beauty Editor', '8117239212302166287', '1,000,000+', 'http://lyrebirdstudio.net/privacy.txt', 'lyrebirdstudio@gmail.com']}
+{'com.psd2filters.trippyeffects': ['Trippy Effects- Digital Art & Aesthetic Filters', 'James+Thomas+Carter', '1,000,000+', 'http://psd2filter.com/site/landing/privacy_policy', 'comforttransit@gmail.com']}
+{'com.axiemsystems.photoeditorminus': ['Photo Editor-', 'Axiem+Systems', '5,000,000+', 'http://axiemsystems.com', 'support@axiemsystems.com']}
+{'com.pavahainc.bracescamera': ['Braces Camera', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'mixerappco.heart.crown': ['Heart Crown Photo Editor - Live Face, Collage', 'Mixer+App+co', '5,000,000+', 'https://sites.google.com/view/mixerappco-privacy-policy', 'mixerappco@gmail.com']}
+{'com.vintro.heartcrownphotoeditor.stickereffects': ['Heart Crown Camera - Heart Sticker 2019', '5141208227687717850', '100,000+', 'https://docs.google.com/document/d/1mJ-Lcrh7RWiQ0Suxd_TPMcowsOQCXPceLX8s-UHu96s/edit?usp=sharing', 'vodichthienha1008@gmail.com']}
+{'com.km.picturequotes': ['Picture Quotes', 'Dexati', '5,000,000+', 'http://www.dexati.com', 'kumar@dexati.com']}
+{'com.bhima.textnameonpic': ['Name / Text on Photo', 'Bhima+Apps', '100,000+', 'https://bhimaapps.blogspot.in/2017/02/privacy-policy.html', 'bhimaapps.help@gmail.com']}
+{'com.fujifilm.wifi': ['Fujifilm Kiosk Photo Transfer', 'Fujifilm+North+America+Corp', '1,000,000+', 'http://myfujifilmkiosk.com/', 'fnacappsupport@fujifilm.com']}
+{'com.fotoable.fotobeauty': ['InstaBeauty -Makeup Selfie Cam', 'Fotoable,Inc.', '50,000,000+', 'http://www.fotoable.com', 'contact@fotoable.com']}
+{'com.photo.art.blend.box.window.multi': ['Photo Effect - 3D | Blur | Blending | Art Effect', 'Effect+of+Arts', '500+', 'https://ungoverned-elapses.000webhostapp.com/privacy.html', 'effectsofarts@gmail.com']}
+{'com.photoappzone.photoframes.blackandwhitephotoframes': ['Black and White Photo Frames', 'PhotoAppzone', '100,000+', 'https://photoappzoneprivacy.blogspot.in/', 'photoapps2017@gmail.com']}
+{'com.goscam.ulife.smart.en.goscom': ['GOSCOM', 'Ulife+team', '5,000+', 'http://www.ulifecam.com', 'ulifeteam@gmail.com']}
+{'com.prathamtech.negativeimageeffect': ['Negative Image - Invert Image', 'Pratham+Tech', '1,000+', 'https://unmastered-dots.000webhostapp.com/privacy.html', 'prathamtech633@gmial.com']}
+{'anasun.magnifier': ['Magnifier Text Zoom 30x', '6969017632527521961', '10,000+', 'https://sites.google.com/view/anasun/home', 'anasun.publisher@gmail.com']}
+{'com.memoria.photos.gallery': ['Memoria Photo Gallery', '6398976066977003210', '50,000+', 'https://memoriaphotogallery.com/', 'support@memoriaphotogallery.com']}
+{'com.next.textonphoto': ['Text On Photo - Text Editor', 'NextApp+Design', '100,000+', 'https://nextappsite.wordpress.com/', 'nextapp905@gmail.com']}
+{'com.beauty.face.makeup': ['Beauty Makeup', 'Elixir+Editors', '5,000+', 'http://phpstack-184762-662488.cloudwaysapps.com/policy/', 'hiraben1967@gmail.com']}
+{'com.picfix.familypicturecollagemaker': ['Family Image collage maker', 'Picfix+Art+Studio', '50,000+', 'http://picfixartstudio.blogspot.in', 'picfixart@gmail.com']}
+{'com.pic.mycamera': ['Selfie Camera - Beauty Camera & Photo Editor', '7153679079505837871', '50,000,000+', 'https://dreamilyswimmingwizard.tumblr.com/post/158662658467/privacy-policy', 'photoartiststudio@outlook.com']}
+{'com.SimplyEntertaining.addwatermark': ['Add Watermark on Photos', 'Simply+Entertaining', '500,000+', 'http://www.simplyentertaining.us', 'Simplyentertaining1@gmail.com']}
+{'com.githcode.magiccamera.owcamera': ['Magic Camera', '8140938121015904910', '1,000,000+', 'https://docs.google.com/document/d/1v6J1mN9AEe9eh51sjOzFqHc1sGxXvq8BhvFPsLo8Mkg/edit', 'scholar2163@gmail.com']}
+{'com.vasu.cutpaste': ['Cut Paste Photo Editor', 'Pic+Frame+Photo+Collage+Maker+%26+Picture+Editor', '500,000+', 'https://www-drv.com/site/ospvje1jv1xsjw7hloccrw/Privacy/', 'chauhanraviraj21@gmail.com']}
+{'com.githcode.zoomcamera.saman': ['Super ZOOM HD Camera', '8140938121015904910', '500,000+', 'https://docs.google.com/document/d/1v6J1mN9AEe9eh51sjOzFqHc1sGxXvq8BhvFPsLo8Mkg/edit', 'scholar2163@gmail.com']}
+{'com.touchnote.android': ['TouchNote: Cards & Gifts', 'TouchNote+Ltd', '1,000,000+', 'https://www.touchnote.com', 'help@touchnote.com']}
+{'video.editor.videoeditor.videomaker': ['Video Editor Pro', '7919802900964223526', '100,000+', 'https://plus.google.com/116794250597377070773/posts/SYoEZWDm77x', 'fantasyllc2018@gmail.com']}
+{'com.pavahainc.princesscameranew': ['Princess Camera', 'Pavaha+Lab', '1,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'editor.free.ephoto.vn.ephoto': ['Ephoto 360 - Photo Effects', 'Yogroup+Studio', '1,000,000+', 'http://ephoto360.com/en', 'thiepmung.com@gmail.com']}
+{'com.picstudio.photoeditorpro': ['Photo Editor Pro - Photo Collage', 'Picsgram', '5,000,000+', 'https://goo.gl/XHRxHP', 'picsgram2017@gmail.com']}
+{'com.appwallet.blendme': ['Blend Me Photo Mixture', 'Appwallet+Technologies', '5,000,000+', 'http://www.appwallettech.com', 'appwallettechnologies@gmail.com']}
+{'com.varnist': ['Varnist - Photo art effects', 'Varnist', '1,000,000+', 'https://varnist.com', 'team@varnist.com']}
+{'com.dageek.socialtoolbox_android': ['Gbox - Toolkit for Instagram.', '4829809212871316099', '100,000+', 'https://grambox.app', 'hi@dageek.in']}
+{'com.vintro.typography.textonphoto.quotes': ['Typography maker - Typography app', '5141208227687717850', '10,000+', 'https://www.facebook.com/notes/vintro-media-photo-editor/overlay-sticker-privacy-policy/1950300735085675/', 'vodichthienha1008@gmail.com']}
+{'com.pavahainc.pictureartpaintingeffects': ['Picture Art Painting Filters Effects', 'Pavaha+Lab', '10,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.appwallet.clonefoto': ['Clone Foto : Echo mirror with multi photo', 'Appwallet+Technologies', '100,000+', 'http://www.appwallettech.com', 'appwallettechnologies@gmail.com']}
+{'com.pavahainc.wingsforphotos': ['Wings for Photos: Angel Wings Photo Editor', 'Pavaha+Lab', '1,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.baf.ash.mani.videomaker': ['Photo Video Maker Slideshow with Music Editor', 'Most+Malleable+Fun', '5,000,000+', 'https://sites.google.com/view/mostmalleablefun', 'saakuanndhm@gmail.com']}
+{'sweet.snapface.facefilter': ['Face camera - live filter, Selfie photo', '6091442766932589829', '500,000+', 'http://res.ufotosoft.com/aboutus/src/policy.snap.html', 'qifhh123@gmail.com']}
+{'com.pavahainc.monsterphotoeditor': ['Scary Monster Photo Editor', 'Pavaha+Lab', '50,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'sweetsnap.lite.snapchat': ['Sweet Snap Lite -live filter & nice selfie sticker', '6091442766932589829', '5,000,000+', 'http://www.ufotosoft.com', 'support@ufotosoft.com']}
+{'com.pavahainc.alienufophotoeditor': ['Alien UFO Photo Editor', 'Pavaha+Lab', '50,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.cerdillac.filmmaker': ['Film Maker Pro - free movie editor', 'cerdillac', '500,000+', 'http://www.tribiecommunity.com', 'cerdillaczhang@gmail.com']}
+{'com.cam001.selfie361': ['Candy selfie - photo editor, live filter camera', '6091442766932589829', '10,000,000+', 'http://res.ufotosoft.com/aboutus/src/policy.snap.html', 'qlzhenghz@gmail.com']}
+{'cadiniapp.familyphotoframe': ['Family Photo Frames', 'Cadini+App', '50,000+', 'https://cadiniapp.blogspot.com/', 'cadiniapp114@gmail.com']}
+{'com.butterflyframes.app': ['Butterfly Photo Frames', 'Perfect+Frames+Studio', '5,000+', 'http://perfectframes.blogspot.com/2018/09/we-are-sole-owners-of-information.html', 'perfectframes18@gmail.com']}
+{'com.tza.stpatricksdayframes': ['St Patricks Day Frames', 'TrendZone+Apps', '5,000+', 'http://trendzoneapps.blogspot.com/2018/09/privacy-policy.html', 'trendzoneapps@gmail.com']}
+{'com.velosys.patrick_frames': ['St. Patrick Day Photo Frames', '5000038923620026679', '5,000+', 'https://www.facebook.com/wishgreetingcards/', 'akshitamanathia@gmail.com']}
+{'com.extra.zoom.camera.high.resolution.camera': ['Night Mode Binoculars Zoom Camera', 'TechnieApps', '500+', 'https://technieappsfree.wordpress.com/', 'Technieappsfree@gmail.com']}
+{'com.pavahainc.graffitiphotoeditor': ['Graffiti Photo Editor', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.palmeralabs.saint_patricks_day_stickers': ["St Patrick's day photostickers", '8577558281498808594', '5,000+', 'http://palmeralabs.com', 'palmeralabs@gmail.com']}
+{'com.cameraa7.bahimcam': ['New Camera Galaxy A7 2018 - Triple camera', 'rachid+arardi', '100,000+', 'https://sites.google.com/view/pirvacy-policy-tonipower/home', 'rachidarardi50@gmail.com']}
+{'com.informativeapps.photowiz': ['Photo Wiz', 'Informative+Apps+Solutions', '500,000+', 'http://imformatiappsprivacypolicy.blogspot.in/2018/01/privacy-policy-protecting-your-privacy.html', 'informativeappssolution@gmail.com']}
+{'com.photoeditor.videopiccollage': ['Photo Editor: Pic Collage', 'Photo-Editor+Pro', '10,000+', 'http://bit.ly/2MFXNHX', 'photocollagepro2019@gmail.com']}
+{'com.pixels.camera.beauty.sticker': ['Pixels Beauty Camera 2019', 'Camera+Beauty+Pro+-++2019', '500,000+', 'https://www.thinkpacifica.com/privacy/', 'beautycamera@outlook.com']}
+{'com.lightx.storyz': ['StoryZ Photo Motion & Cinemagraph', 'Andor+Communications+Pvt+Ltd', '1,000,000+', 'https://www.storyzapp.com/privacy_policy.html', 'andorcommunications@gmail.com']}
+{'ru.roadar.dpth': ['DPTH', 'RoadAR,+Inc.', '10,000+', 'http://dpth.app', 'info@roadar.ru']}
+{'com.mobwontools.pixel.blur.editor': ['Pixel Blur Editor', 'xff', '500,000+', 'https://docs.google.com/document/d/1W35qUC7Vv4F1mCQZ0Cp9yM-g1y761qXYcdcrOulN7u8/edit?usp=sharing', 'xff5788@gmail.com']}
+{'com.photoeditor.background.change': ['Background Changer: Easy To Edit', 'FixD', '500,000+', 'https://snaptoolscom.wordpress.com/privacy/', 'bary.wei@gmail.com']}
+{'com.photoeditor.photoframe.collage': ['Photo Frame - collage, template, photo editor', 'Photo-Editor+Pro', '100+', 'http://bit.ly/2NhwZhK', 'photocollagepro2019@gmail.com']}
+{'com.youmakeup.photoeditor.beautycam': ['Beauty Camera Makeup Face Selfie And Photo Editor', 'Virgilo+Malley', '10,000+', 'http://bit.ly/2SrfbpU', 'virgilomalley.tp0207@gmail.com']}
+{'com.pic.photo.editor.eraser': ['Pic Eraser', 'bingbing+joy+team', '100,000+', 'https://docs.google.com/document/d/1pyrHS6UaNpzVveASkzZ8LTOKgJt_a3ga8yMKAz9eZUQ/edit?usp=sharing', 'chenyibing2019@gmail.com']}
+{'com.darkcube.telescope': ['Telescope 45x Zoom Camera (Photo and Video)', '9104794895434837838', '5,000+', 'https://sites.google.com/view/darkcubeapps', 'nat.afonina2018@gmail.com']}
+{'com.instasaver.fast.downloader': ['InstaSaver - Fast Saver for Instagram', 'YellowStudio', '10,000+', None, 'redstudio2018@gmail.com']}
+{'com.time.date.stamp.camera.xixifunction': ['Date Stamp Camera New: Auto Add Timestamp on Photo', 'gujing+love+camera', '100,000+', 'https://docs.google.com/document/d/1byApyxacaTA9GpXiDyg9iPLiH1H7oJC5Flfl1dIhjPU/edit?usp=sharing', 'xjg65251948@gmail.com']}
+{'com.magic.effect.photo.editor_apps': ['Magic Effects Photo Editor', 'PHOTO+EDITOR+APPS', '50+', 'https://photoeditorapplications.wordpress.com/#privacy', 'nicolat.leger@gmail.com']}
+{'com.BoyHairSalon.HairStylerApp.CostumePhotoEditor': ['Boy Hair Salon', 'Fun+And+Free+Apps+For+All', '100+', 'https://funandfreeappsfora.wixsite.com/mysite', 'funandfreeappsforall@gmail.com']}
+{'com.DiptoApps_NaturePhotoFramesImageEditor': ['Nature Photo Frames New : Image Editor', 'Dipto+Apps+House', '500+', 'https://diptosappshouseprivacypolicy.blogspot.com/p/dipto-apps-house-privacy-policy.html', 'diptoappshouse@gmail.com']}
+{'com.eyecolorchanger.niceeyesfree.photoeditor.textonphoto': ['Eye Color Changer Studio: Auto Eye Lens Detector', 'AppStack+Locker+Team', '10+', 'https://sites.google.com/view/gophotoeditor/home', 'gophotoeditor@gmail.com']}
+{'information.Management.Dual.photo.frame.HappyBirthdayDualPhotoFrame': ['Happy birthday dual photo frame', 'Information+management', '5+', 'https://informationmanagement118.blogspot.com', 'informationmanagement118@gmail.com']}
+{'com.dpzone.leopardphotodp': ['Leopard Photo DP', 'DP+Zone', '1+', 'https://sites.google.com/view/dpzone/privacy_at_dpzone', 'dpzone2019@gmail.com']}
+{'com.verona.village.photo.editor.villagephotoframes': ['Village Photo Editor', 'Verona+Apps', '10+', 'https://www.facebook.com/notes/verona-apps/privacy-policy-of-verona-apps/130849937571157/', 'veronaapps@gmail.com']}
+{'com.verona.nature.photo.frame.nature.photoeditor.naturephotoframes': ['Nature Photo Frames - Nature Photo Editor', 'Verona+Apps', '1+', 'https://www.facebook.com/notes/verona-apps/privacy-policy-of-verona-apps/130849937571157/', 'veronaapps@gmail.com']}
+{'com.verona.missyou.naughty.girlfriend.photoframe': ['Miss You Photo Frames : Editor', 'Verona+Apps', '50+', 'https://www.facebook.com/notes/verona-apps/privacy-policy-of-verona-apps/130849937571157/', 'veronaapps@gmail.com']}
+{'com.cameraphotoeditor.dinosaur': ['Dinosaur Toy Camera Photo Editor', 'Camera+%26+Photo+Editor', '10+', 'https://docs.google.com/document/d/1w4ssN1sMbwHJYR_XcW2NgYXPTMtvUAclXcCQBXBgTIY/edit', 'cameraphotoeditor@gmail.com']}
+{'com.ChangeYourVoiceFFAPPS': ['Change Your Voice', 'Fast+and+Fun+Apps', '10+', 'https://fastandfununiqueap.wixsite.com/fastandfun', 'fastandfununiqueapps@gmail.com']}
+{'com.photosuit.lovecouplephotosuit': ['Love couple photo suit', 'Camera+Effects', '100+', 'http://phpstack-117334-706407.cloudwaysapps.com', 'lvyjecktech@gmail.com']}
+{'com.verona.wildanimal.photoeditor': ['Wild Animal Photo Editor - Animal Photo Frames', 'Verona+Apps', '100+', 'https://www.facebook.com/notes/verona-apps/privacy-policy-of-verona-apps/130849937571157/', 'veronaapps@gmail.com']}
+{'com.verona.love.photoeditor': ['Love Photo Editor', 'Verona+Apps', '10+', 'https://www.facebook.com/notes/verona-apps/privacy-policy-of-verona-apps/130849937571157/', 'veronaapps@gmail.com']}
+{'com.verona.bullet.menmoto.photoeditor': ['Bullet Men Moto Photo Editor', 'Verona+Apps', '100+', 'https://www.facebook.com/notes/verona-apps/privacy-policy-of-verona-apps/130849937571157/', 'veronaapps@gmail.com']}
+{'com.photofilter.instacollage': ['Instacollage', 'Photo+filter', '5+', 'https://docs.google.com/document/d/1cuZK9QmvniFIQp_teitM29xBTSQCE0L2q2woBM31ZzQ/edit?usp=drivesdk', 'Photofilter007@gmail.com']}
+{'com.andromo.dev803435.app919541': ['Buenos Dias y Buenas Noches', 'ElivoApps', '10+', None, 'ngthanhamobisa@gmail.com']}
+{'com.verona.natural.photosuit.editor': ['Natural Photo Suit : Natural Photo Editor', 'Verona+Apps', '500+', 'https://www.facebook.com/notes/verona-apps/privacy-policy-of-verona-apps/130849937571157/', 'veronaapps@gmail.com']}
+{'com.yelinaung.instaborder': ['InstaBorder', 'Ye+Lin+Aung', '1+', 'http://www.yelinaung.com', 'me@yelinaung.com']}
+{'com.kingsstore.WomenBodyconPhotoSuit': ['Women Bodycon Photo Suit', 'kings+store', '10+', 'https://kingsstore14.blogspot.com/', 'kingsstore14@gmail.com']}
+{'com.BenzylStudios.photoframes': ['Photo Frames', 'Benzyl+Studios', '1,000+', 'https://benzylstudios.com/privacypolicy.html', 'benzyllstudiosind@gmail.com']}
+{'com.flintandsteelstudios.storytellr': ['Storytellr', 'Spark+Weddings', '1+', 'https://www.flintandsteelstudios.com/', 'eric@flintandsteelstudios.com']}
+{'com.sigmaappsolution.shimmerphotoeditor': ['Shimer Photo Effect-Blur Background , PIP Editor', 'Sigma+App+Solution', '1+', 'https://www.facebook.com/notes/radhe-patel/privacy-policy/129726614194002', 'sigmaappsolution12@gmail.com']}
+{'com.parth.animaldualphotoframe': ['Animal Dual Photo Frame', 'Parth+App+Labs', '10+', 'https://sites.google.com/view/privacypolicyparth', 'parthapplabs@gmail.com']}
+{'com.PlayZone.Crazy.Photo.Effects.Echo.Mirror.Editor': ['Crazy Photo Effects 2019 \U0001f92a Echo Mirror Editor', 'PlayZone+Apps', '100+', 'https://playzoneapps.weebly.com', 'playzoneapps@gmail.com']}
+{'world.media.threed.smoke.effect': ['Smoke Effects Art Name : Smoky Effect Name Maker', 'WorldMediaApps', '10+', 'http://www.rbrgloblesolution.in/WorldMediaApps/PolicyPage/app_privacy.html', 'worldmediaapps99@gmail.com']}
+{'com.vaporwave.photostudio': ['VaporWave Photo Editor: Glitch Sticker', 'Live+Star+Empires+Dev', '50+', 'https://tinyurl.com/ybpo85bd', 'peterzinker123@gmail.com']}
+{'com.VLSG.BeautySelfieCameraAppWithPhotoFilters.Picture.Effects': ['Beauty Selfie Camera App with Photo Filters', '6553761212657999804', '10+', 'https://androiddesign.wixsite.com/virtuallovestorygame', 'virtuallovestorygames5@gmail.com']}
+{'com.photobutler.bbyo': ['BBYO Photo App', 'Gnommme,+LLC', '10+', 'http://www.photobutler.com', 'support@photobutler.com']}
+{'com.gujaratikeyboard.voicetyping.speechtotext.converter': ['Gujarati Voice Typing keyboard – Gujarati Keyboard', 'Voice+Text', '500+', 'https://voiceandtexttranslator.blogspot.com/2018/07/privacy-policy-for-voice-text-apps.html', 'voicetext123@gmail.com']}
+{'com.diwali.valentinephotoeditor': ['Valentine Day Photo Frame – Valentine Status 2019', 'Valentine+Day+App+Collection+2019', '500+', 'http://diwaliappcollection.blogspot.in/', 'diwali701@gmail.com']}
+{'selfiephoto.anushkasen': ['Selfie With Anushka', 'Apps+Photo+World', '500+', 'https://docs.google.com/document/d/e/2PACX-1vQrfh9tp9XFBuQ_-QVLqfTG13q3R2BrJTwqijY2ZbvXhvESDXY_tyxxIxeXgnpa08nQMXT1fR3G40yO/pub', 'appsphoto12@gmail.com']}
+{'com.autocutpaste.worldfamousplacephotoeditor': ['World Famous Photo Frame', 'Cut+Paste+Photo', '100+', 'https://cutnpastetool.blogspot.com/2018/12/this-privacy-policy-describes.html', 'cutnpastetool222@gmail.com']}
+{'com.Photoeditor.Bestiamgemakerandimageeffect': ['Photo Editor & Image Maker', 'Somaroho++apps+ltd.', '100+', 'https://somarohoappsprivacyplolicy.blogspot.com/p/somareho-apps-privacy-plocy.html', 'shsalahuddin20@gmail.com']}
+{'com.musicplayer.musicmedia.weddingphotosuit': ['Wedding Photo Suit - Wedding Photo Frame', 'Music+Media+2019', '1,000+', 'https://musicmedia2019.blogspot.com', 'musicmedia40575@gmail.com']}
+{'com.DiptoApps_GardenPhotoFramesBeautyImageEffects': ['Garden Photo Frames New : Image Editor', 'Dipto+Apps+House', '500+', 'https://diptosappshouseprivacypolicy.blogspot.com/p/dipto-apps-house-privacy-policy.html', 'diptoappshouse@gmail.com']}
+{'com.lovelocketphotoediter.lovelocketframes.locketsphotoframes.photoframes.lovelocketphotoframes': ['love locket photo frames', 'freeappslot', '100+', 'https://freeappslot.blogspot.in/2017/11/privacy-policy.html', 'vasureddy180@gmail.com']}
+{'com.maxielmalagmail.WelbZAKI': ['welbar ZAKI', 'Zak+messenger', '5+', 'http://appygen.net/apps', 'zakariaelkati88@gmail.com']}
+{'com.special3d.overlay.blender.photo.effect': ['3D overlay Photo Effect', 'PHOTO+EDITOR+APPS', '1+', 'https://photoeditorapplications.wordpress.com/#privacy', 'nicolat.leger@gmail.com']}
+{'com.SunglassesStickers.GlassesPhotoEditor.StylishSunglasses.Eyeglasses': ['Sunglasses Stickers', 'Fun+And+Free+Apps+For+All', '10+', 'https://funandfreeappsfora.wixsite.com/mysite', 'funandfreeappsforall@gmail.com']}
+{'com.militaryman.photosuit': ['Military Photo Suit : Military Photo Editor', 'Photo+Frames+%26+Photo+Editor', '100+', 'https://photoeditorphotoframes.wordpress.com/2018/10/25/privacy-policy/', 'photoeditorphotoframes@gmail.com']}
+{'com.stylishmen.photosuit': ['Stylish Men Photo Suit', 'Photo+Frames+%26+Photo+Editor', '100+', 'https://photoeditorphotoframes.wordpress.com/2018/10/25/privacy-policy/', 'photoeditorphotoframes@gmail.com']}
+{'com.womentraditional.dress': ['Women Traditional Dresses', 'Photo+Frames+%26+Photo+Editor', '100+', 'https://photoeditorphotoframes.wordpress.com/2018/10/25/privacy-policy/', 'photoeditorphotoframes@gmail.com']}
+{'com.picsart.studio': ['PicsArt Photo Studio: Collage Maker & Pic Editor', '5408830062919995155', '100,000,000+', 'https://picsart.com', 'support@picsart.com']}
+{'com.kii.safe': ['Keepsafe Photo Vault: Hide Private Photos & Videos', '7409182767575593474', '50,000,000+', 'https://www.getkeepsafe.com', 'support@getkeepsafe.com']}
+{'com.picstudio.photoeditorplus': ['X Photo Editor - Cartoon Effect & Fashion Makeup', '5518877975164386758', '1,000,000+', 'http://d2prafqgniatg5.cloudfront.net/XPicStudio/XPhotoEditor_privacy.html', 'aiprocessingstudio@gmail.com']}
+{'com.adobe.lrmobile': ['Adobe Lightroom CC', '4734916851270416020', '10,000,000+', 'https://www.adobe.com/products/photoshop-lightroom.html', 'LrAndroid-Feedback@adobe.com']}
+{'com.vsco.cam': ['VSCO', '5032127892134861949', '50,000,000+', 'http://vsco.co', 'support@vsco.co']}
+{'vsin.t16_funny_photo': ['Photo Lab Picture Editor: face effects, art frames', '6017800222101031429', '100,000,000+', 'http://android.pho.to', 'support@pho.to']}
+{'io.faceapp': ['FaceApp', 'FaceApp+Inc', '10,000,000+', 'http://www.faceapp.com', 'support.android@faceapp.com']}
+{'com.gopro.smarty': ['GoPro', 'GoPro', '10,000,000+', 'http://gopro.com/contact-us', 'support@gopro.com']}
+{'com.jsdev.instasize': ['InstaSize: Photo Editing Made Easy', '5679077225552137504', '50,000,000+', 'http://instasize.com%20', 'instasize@munkee.co']}
+{'com.gurushots.app': ['GuruShots - Photography Game', 'GuruShots+Ltd.', '1,000,000+', 'http://gurushots.com', 'support@gurushots.freshdesk.com']}
+{'com.iart.camera.photo': ['iArt Camera: Art Effects & Multiple Exposure', 'Voyage+Photo+Lab', '1,000,000+', 'http://resource.cdn.bbcget.com/iArtworkshop/iArtcamera_privacy.html', 'com.iart.camera.photo@gmail.com']}
+{'com.roidapp.photogrid': ['PhotoGrid: Video & Pic Collage Maker, Photo Editor', 'Cheetah+Mobile+%28Photo+Editor%29', '100,000,000+', 'http://www.cmcm.com/en-us/photo-grid/', 'photogrid@cmcm.com']}
+{'com.kung.follow.grow': ['Mass Followers™', 'Ethan+Wu', '1,000,000+', 'https://docs.google.com/document/d/1q3aIIu0Xxfv8PeeUYgdi-mmips5hTV9cTdNBD3M-uZs/edit?usp=sharing', 'kungfu9969@gmail.com']}
+{'com.camerasideas.instashot': ['Video Editor & Photo Editor - InShot', 'InShot+Inc.', '100,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.magicv.airbrush': ['AirBrush: Easy Photo Editor', 'Meitu+%28China%29+Limited', '10,000,000+', 'http://www.appairbrush.com', 'support@appairbrush.com']}
+{'com.filmic.filmicpro': ['FiLMiC Pro', 'FiLMiC+Inc.', '50,000+', 'http://www.filmicpro.com', 'androidsupport@filmicpro.com']}
+{'com.cyberlink.photodirector': ['PhotoDirector Photo Editor App, Picture Editor Pro', '7495131674787494593', '50,000,000+', 'http://www.cyberlink.com/', 'PhotoDirector_Android@cyberlink.com']}
+{'com.picmonkey.picmonkey': ['PicMonkey Photo Editor: Design, Touch Up, Filters', 'by+PicMonkey', '1,000,000+', 'https://www.picmonkey.com/mobile-app', 'googleplay@picmonkey.com']}
+{'photo.editor.photoeditor.photoeditorpro': ['Photo Editor Pro', 'InShot+Inc.', '10,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.cyberlink.youperfect': ['YouCam Perfect - Best Selfie Photo Editor', '5286790089270932286', '100,000,000+', 'http://www.perfectcorp.com/', 'YouCamPerfect_android@perfectcorp.com']}
+{'com.sensio.instapreview': ['Preview - Plan your Instagram', 'Preview+App+Pty+Ltd', '1,000,000+', 'https://thepreviewapp.com', 'hi@thepreviewapp.com']}
+{'com.flavionet.android.cinema.pro': ['Cinema FV-5', 'FGAE', '100,000+', 'http://www.cinemafv5.com/', 'support@cinemafv5.com']}
+{'com.monogram.maker.wallpaper.creator': ['Monogram It - Monogram Wallpaper Backgrounds Maker', 'Twice-as-Nice+Apps', '100,000+', 'https://twiceasniceapps.wordpress.com/privacy-policy/', 'twiceasniceapps@gmail.com']}
+{'com.applicationgap.easyrelease': ['Easy Release - Model Release App', 'ApplicationGap+LLC', '10,000+', 'https://applicationgap.com', 'info@applicationgap.com']}
+{'com.fstop.photo.key': ['F-Stop Gallery Pro', 'Seelye+Engineering', '50,000+', 'http://www.fstopapp.com/', 'support@fstopapp.com']}
+{'com.niftybytes.rhonna_android': ['Rhonna Designs', 'Rhonna+Designs', '100,000+', 'http://rhonnadesigns.com', 'support@freshprod.co']}
+{'com.memoria.photos.gallery.pro': ['Memoria Photo Gallery Pro', '6398976066977003210', '5,000+', 'https://memoriaphotogallery.com/', 'support@memoriaphotogallery.com']}
+{'com.desygner.logos': ['Logo Maker', '7834691532460600952', '500,000+', 'http://www.desygner.com', 'info@desygner.com']}
+{'info.qdd': ['qDslrDashboard', 'Zoltan+Hubai', '10,000+', 'http://dslrdashboard.info', 'hubaiz@gmail.com']}
+{'com.psd2filter.musicalbumart': ['Album Cover Maker- Cover Art & Album Art', 'Tara+Valdez', '100,000+', 'http://taratheastrologer.com/privacy-policy.php', 'davechue21@gmail.com']}
+{'com.diune.pictures': ['Piktures - Beautiful Gallery', '6256086716650712908', '1,000,000+', 'https://www.piktures.app/', 'piktures@diune.com']}
+{'com.ryzenrise.vaporcamera': ['Glitchy - psychedelic camera for VHS & glitch art', 'ryzenrise', '1,000,000+', 'http://www.wisharcbuilder.com', 'ryzengchang@gmail.com']}
+{'com.ajnaware.sunseeker': ['Sun Seeker - Sunrise Sunset Times Tracker, Compass', 'ozPDA', '10,000+', 'https://www.ozpda.com', 'sunseeker@ozpda.com']}
+{'com.distantblue.cadrage': ["Cadrage Director's Viewfinder", 'distant+blue+-+mobile+solutions', '5,000+', 'http://www.cadrage.at', 'support@cadrage.at']}
+{'com.simplemobilephotoresizer': ['Photo & Picture Resizer', 'farluner+apps+%26+games', '10,000,000+', 'http://www.simpleimageresizer.com', 'farluner@gmail.com']}
+{'com.ilixa.chroma': ['Chroma Lab', 'Ilixa', '500,000+', 'http://ilixa.com', 'contact@ilixa.com']}
+{'com.wecut.vapor': ['VaporCam-Vintage Camera, Vaporwave Profile Picture', 'WecutCentury+Inc.', '1,000,000+', 'http://vaporcam.wecut.com', 'appwecut@gmail.com']}
+{'com.smartwatchstudios.app.camera': ['Camera Pro - Remote Control for Samsung Watch', 'SmartWatch+Studios', '1,000+', 'http://www.SmartWatchStudios.com', 'info@SmartWatchStudios.com']}
+{'com.hld.anzenbokusufakelite': ['Calculator Photo Vault - Hide Photos & Videos', '5073499114004010169', '10,000+', 'https://github.com/Hiraten/PrivacySafe', 'FishingNetTech@yeah.net']}
+{'com.flayvr.flayvr': ['Gallery', 'Flayvr+Media', '10,000,000+', 'http://www.avast.com', 'android@avast.com']}
+{'com.coolapps.covermaker': ['Cover Photo Maker - Banners & Thumbnails Designer', 'Photo+Cool+Apps', '1,000,000+', 'https://photocoolapps.wordpress.com', 'photocoolapps@gmail.com']}
+{'net.sourceforge.photomaton18': ['Photobooth mini FULL', 'medtoure', '1,000+', 'http://photoboothmini.app/', 'support@photoboothmini.app']}
+{'com.shews.mobile.refinst': ['Royalty - ig followers boost', 'Royal+followers+and+likes', '100,000+', 'https://github.com/roryaltyLandF/RoyaltyLikesBoost/blob/master/README.md', 'alexeyguliat@gmail.com']}
+{'com.picas.photo.artfilter.android': ['Picas - Art Photo Filter, Picture Filter', 'Picas,+Inc.', '1,000,000+', 'https://www.picas.tech/', 'support@picas.tech']}
+{'com.morningshine.autocutpaste': ['Auto Photo Cut Paste', 'photoshop+mobile+apps', '1,000,000+', 'https://photoshopmobileapps.wordpress.com/', 'ankitdeveloperpbh@gmail.com']}
+{'com.blink.academy.nomopro': ['NOMO - Point and Shoot', 'Blink+Academy+Ltd.', '100,000+', 'https://nomo-cdn-ec.dafork.com/privacy_cn.html', 'blinkacademy2014@gmail.com']}
+{'com.btows.photo': ['Toolwiz Photos - Pro Editor', 'Toolwiz.com', '10,000,000+', 'http://www.toolwiz.com', 'James@toolwiz.com']}
+{'com.pic.photoeditor': ['Photo Editor - Beauty Camera & Photo Filters', '7153679079505837871', '50,000,000+', 'https://delicatelykeenmilkshake.tumblr.com/post/157351060150/privacy-policy-of-photo-editor', 'wongcti12214@gmail.com']}
+{'com.iudesk.android.photo.editor': ['Photo Editor', 'dev.macgyver', '50,000,000+', 'https://www.iudesk.com/', 'dev.photoeditor@gmail.com']}
+{'com.psd2filters.thumbnailmaker': ['Thumbnail Maker & Banner Maker', 'James+Thomas+Carter', '1,000,000+', 'http://psd2filter.com/site/landing/privacy_policy', 'comforttransit@gmail.com']}
+{'com.footej.camera': ['Footej Camera', 'Semaphore+Inc.', '1,000,000+', 'http://footej.camera', 'info@footej.com']}
+{'overlay.codemybrainsout.com.overlay': ['Overlay', '8782626067473947084', '5,000,000+', 'https://www.codemybrainsout.com', 'codemybrainsout@gmail.com']}
+{'com.godimage.splitlens': ['Split Lens 2-Clone Yourself in Photo & Video', 'Bigger+Lens+LLC', '500,000+', 'http://www.biggerlens.com', 'luciuscyx@gmail.com']}
+{'com.seductive_mobile.miku.android': ['Miku', 'MIKU+Limited', '5,000+', 'http://www.miku.company', 'support@miku.company']}
+{'com.ultralabapps.filterloop': ['Filterloop: Photo Filters and Analog Film Effects', '6838180324272490672', '1,000,000+', 'http://ultralabapps.com/', 'platformeug@gmail.com']}
+{'com.dumplingsandwich.pencilsketchhd': ['Pencil Sketch HD', 'Dumpling+Sandwich', '500+', 'http://www.dumplingsandwich.com', 'support@dumplingsandwich.com']}
+{'com.hikaru.photowidget': ['Animated Photo Widget +', '6032270301651614018', '50,000+', 'http://www.facebook.com/animatephoto', 'corphikaru@gmail.com']}
+{'com.frozenvolcano.android.cinema4k': ['Cinema 4K', 'Frozen+Volcano', '100,000+', 'http://www.frozenvolcano.com', 'info@frozenvolcano.com']}
+{'com.pixite.fragment': ['Fragment', 'Pixite+LLC', '100,000+', 'http://fragmentapp.com', 'android@fragmentapp.com']}
+{'pl.vipek.camera2': ['Manual Camera', '7802674182799039323', '100,000+', 'http://geekydevs.com', 'support@geekydevs.com']}
+{'com.eco.textonphoto.quotecreator': ['Text To Photo - Photo Text Edit', '8686530146623450955', '1,000,000+', 'https://www.facebook.com/notes/vi%E1%BA%BFt-ch%E1%BB%AF-l%C3%AAn-%E1%BA%A3nh-c%C3%A2u-n%C3%B3i-hay/vi%E1%BA%BFt-ch%E1%BB%AF-l%C3%AAn-%E1%BA%A3nh-c%C3%A2u-n%C3%B3i-hay-privacy-policy/2110149452559906/', 'luongtrungvuong158@gmail.com']}
+{'com.longexposure2': ['Long Exposure Camera 2', 'AAASDream', '1,000,000+', 'http://aaasdream.blogspot.tw/', 'aaasdream@gmail.com']}
+{'com.thegiantsquare': ['Giant Square for Instagram', 'John+Galliano', '1,000,000+', 'http://johngalliano.d.pr/YmjQ', 'business@johnatangalliano.com']}
+{'net.kayisoft.photogo': ['PhotoGo - No Crop & Square for Instagram', 'Kayisoft', '100,000+', 'https://www.kayisoft.net/photogo', 'info@kayisoft.net']}
+{'photocollage.photoeditor.photocollageeditor': ['Photo Collage Maker - Photo Editor & Photo Mirror', 'InShot+Inc.', '1,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.yingwen.photographertools': ['Planit! for Photographers', 'PlanIt+Photo+Inc.', '100,000+', 'http://www.planitphoto.com/', 'info@planitphoto.com']}
+{'com.magix.camera_mx': ['Camera MX - Free Photo & Video Camera', '5350134666311877976', '10,000,000+', 'http://www.cameramx.com', 'cameramx_support@magix.net']}
+{'editor.free.ephoto.vn.ephoto': ['Ephoto 360 - Photo Effects', 'Yogroup+Studio', '1,000,000+', 'http://ephoto360.com/en', 'thiepmung.com@gmail.com']}
+{'com.wandapps.multilayerphoto': ['Multi Layer - Photo Editor', '4882659288321571540', '100,000+', 'http://www.multilayer.wandapps.com', 'multilayer@wandapps.com']}
+{'com.lisbonlabs.faceinhole': ['FACEinHOLE® - Premium', '5438135198542809472', '50,000+', 'http://apps.lisbonlabs.com/app-faceinhole/', 'support@lisbonlabs.com']}
+{'com.fotoable.fotobeauty': ['InstaBeauty -Makeup Selfie Cam', 'Fotoable,Inc.', '50,000,000+', 'http://www.fotoable.com', 'contact@fotoable.com']}
+{'com.nchsoftware.videopad_paid': ["VideoPad Master's Edition", 'NCH+Software', '1,000+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'com.jpbrothers.android.polaroid.sub1': ['InstaMini - Instant Cam, Retro Cam', '7489105120650111643', '1,000,000+', 'http://www.jp-brothers.com', 'candygirl@jp-brothers.com']}
+{'com.almalence.opencam_plus': ['A Better Camera Unlocked', 'Almalence', '100,000+', 'http://www.facebook.com/abettercam', 'support@abc.almalence.com']}
+{'mobi.charmer.fotocollage': ['Pic Collage Maker, Photo Editor - Foto Collage', '7001382058935314759', '10,000,000+', 'http://www.youjia.cloud/privacypolicy.html', 'photocollage.feedback@gmail.com']}
+{'com.pa.modelreleaseapp': ['Model Releaser - Model Release Maker / Creator', '9136059489602014766', '10,000+', 'http://photographersarsenal.com', 'admin@photographersarsenal.com']}
+{'com.mobiledevelopment.lazarpesic.capturethemagic': ['Catch Santa, Fairy, & more with Capture The Magic', 'Capture+The+Magic', '500,000+', 'http://www.capturethemagic.com', 'support@capturethemagic.com']}
+{'camera.vintage.vhs.recorder': ['Vintage 8mm Video - VHS', 'Zinila+Nguyen', '500,000+', 'http://zinila.com', 'Zinilaus@gmail.com']}
+{'com.androidvilla.addwatermark': ['Add Watermark', 'AndroidVilla', '50,000+', 'http://androidvilla.wordpress.com', 'androidvilla@gmail.com']}
+{'com.marginz.snap': ['Snap Camera HDR', 'Marginz+Software', '50,000+', 'http://www.marginz.co.nz/snap', 'support@marginz.co.nz']}
+{'com.dama.paperartistgp': ['Paper Artist', 'JFDP+Labs', '50,000+', 'http://www.jfdplabs.com', 'paper-artist-android@jfdplabs.com']}
+{'com.tappytaps.android.geotagphotospro2': ['Geotag Photos Pro 2', '7865470206882283925', '50,000+', 'http://www.geotagphotos.net', 'support@tappytaps.com']}
+{'photo.studio.editor.snap.selfie.camera': ['Selfie Camera: Filters & Stickers Photo Editor', 'Picasso+Studio', '1,000,000+', 'http://www.camera360.com/privacy_selfie_en.html', 'maxstudiobat@gmail.com']}
+{'com.presco': ['Presco - Edit your photos like a professional', 'Long+Tail+LLC', '50,000+', 'https://presco.app/', 'hq@presco.app']}
+{'com.snapwood.photos2': ['pFolio - Google Photos Gallery and Uploader', 'Snapwood+Photo+and+Upload+Apps', '5,000+', 'http://www.snapwoodapps.com', 'snapwoodapps@gmail.com']}
+{'com.zenaapps.backgroundvideorecorder2': ['Background Video Recorder 2', 'ZenaApps', '100,000+', 'http://zenaapps.com', 'zenahelp@gmail.com']}
+{'accky.kreved.skrwt.skrwt': ['SKRWT', 'mjagielski', '100,000+', 'http://www.skrwt.com', 'hello@skrwt.com']}
+{'air.com.befunky.BeFunkyPhotoEditorPro': ['BeFunky Photo Editor Pro', 'BeFunky+INC', '50,000+', 'http://www.befunky.com', 'support@befunky.com']}
+{'com.media.zatashima.studio': ['GIF Maker, GIF Editor, Video Maker, Video to GIF', 'GIF+Maker+%26+GIF+Editor+%26+Video+Maker', '1,000,000+', 'https://sites.google.com/view/gif-maker-private-policy', 'zatashimalab@gmail.com']}
+{'com.lisbonlabs.faceinhole.free': ['FACEinHOLE®', '5438135198542809472', '1,000,000+', 'http://apps.lisbonlabs.com/app-faceinhole/', 'support@lisbonlabs.com']}
+{'com.psd2filter.tshirtdesign': ['Design Clothes- Shirt Designer & Clothes Designer', 'Tara+Valdez', '100,000+', 'http://taratheastrologer.com/privacy-policy.php', 'davechue21@gmail.com']}
+{'com.journiapp.journi': ['Journi Travel Journal & Photo Books', '5750320649893405847', '100,000+', 'http://www.journiapp.com', 'androidsupport@journiapp.com']}
+{'net.xnano.android.photoexifeditor': ['Photo Exif Editor - Metadata Editor', 'Banana+Studio', '500,000+', 'http://www.xnano.net', 'support@xnano.net']}
+{'com.imaginstudio.imagetools.pixellab': ['PixelLab - Text on pictures', 'App+Holdings', '10,000,000+', 'http://appholdings.org/privacypolicy.html', 'imaginstudio.apps@gmail.com']}
+{'com.camera.recorder.hdvideorecord.pro': ['Video Recorder PRO', 'lockscreen+%26+recorder', '1,000+', 'http://bsoftjsc.com/pr/privacy_policy.html', 'lockscreen.studio@gmail.com']}
+{'com.jeyluta.timephotovideo': ['Timestamp Photo and Video', 'Yubin+Chen', '1,000+', 'http://www.timestampcamera.com/TimestampPhoto.htm', 'cybfriend@gmail.com']}
+{'com.zmobileapps.babypics': ['Baby Pics Free', 'Z+Mobile+Apps', '1,000,000+', 'https://zmobileapps.wordpress.com', 'adit.zoom1@gmail.com']}
+{'jal.clickstudio.mainpack': ['Clayframes - stop motion', 'Mr+Lightbox', '10,000+', 'http://sites.google.com/site/mrlightbox/', 'mrlightbox@gmail.com']}
+{'com.fueled.afterlight': ['Afterlight', 'Afterlight+Collective,+Inc', '5,000,000+', 'http://afterlight.us', 'android@afterlight.us']}
+{'pifox.app.imagecoloreditor': ['Paletta - Smart color splash', '5020055174429686286', '100,000+', 'http://www.pifox.io', 'pifoxlab@gmail.com']}
+{'com.logit.droneflight': ['CAVU FPV for DJI GO 4 Drones', 'Logit+Ltd.', '50,000+', 'http://www.cavu.io', 'feedback@cavu.io']}
+{'com.eightwestinc.prophotoshootv2': ['Pro Photo Shoot (Beta)', '8WEST', '10,000+', 'http://www.prophotoshoot.com', 'info@prophotoshoot.com']}
+{'com.cmpsoft.MediaBrowser': ['PhotoGuru Media Player', 'CMP-Soft,+LLC', '50,000+', 'http://www.cmpsoft.com', 'gurusupport@cmpsoft.com']}
+{'com.bornehltd.photoeditorpro': ['Photo Editor Pro – Filters, Sticker', '7958183103997712351', '50,000+', 'https://bornehofficial.com/phedi/privacy.txt', 'photoeditorpro@bornehofficial.com']}
+{'com.gif.gifmaker': ['GIF Maker - Video to GIF, GIF Editor', 'NVGCode', '100,000+', 'https://nvgcode.wordpress.com/2018/06/06/gif-maker-privacy-policy/', 'nvgcode@gmail.com']}
+{'com.km.textoverphoto': ['Text Over Photo', 'Dexati', '1,000,000+', 'http://www.dexati.com', 'kumar@dexati.com']}
+{'vivex.neweyes': ['New Eyes Editor', '7698211350514863293', '500,000+', 'http://www.neweyesapp.com/', 'contact@vivex-company.com']}
+{'com.wecut.poly': ['PolyCam-Vintage Filters Cam, Aesthetic Leak Effect', 'Wonder+App+Team', '1,000,000+', 'https://hdpage.wecut.com/girlscam/girlscam_faq.html?appName=PolyCam', 'somebeautyfb@gmail.com']}
+{'com.rupiapps.cameraprocontrol': ['Camera Pro Control', 'RupiApps', '100+', 'https://www.facebook.com/cameraconnect/', 'rupiapps.com@gmail.com']}
+{'com.appfortype.appfortype': ['AppForType', 'AppForType', '1,000,000+', 'http://appfortype.com', 'appfortype@gmail.com']}
+{'com.photoappworld.cut.paste.photo': ['Cut and Paste photos', '6475314061831648652', '1,000,000+', 'http://www.photoappworld.com', 'support@photoappworld.com']}
+{'com.kayak.studio.gifmaker': ['GIF Maker  - GIF Editor', 'Kayak+Studio', '5,000,000+', 'http://kayakstudio.890m.com', 'com.kayak.quickquick@gmail.com']}
+{'com.advasoft.handyphoto': ['Handy Photo', 'ADVA+Soft', '50,000+', 'http://www.adva-soft.com', 'handyphoto@adva-soft.com']}
+{'com.aerotools.photo.sketch.maker.editor': ['Photo Sketch Maker', '7621580035006571828', '1,000,000+', 'https://aerotools.wordpress.com/about/', 'aerophototools@gmail.com']}
+{'photo.photoeditor.snappycamera.prettymakeup': ['Pretty Makeup, Beauty Photo Editor & Snappy Camera', '9178808402024357731', '5,000,000+', 'http://47.89.33.217/Privacypolicy/InstaBox/PrivacyPolicy.html', 'baiwang2013@gmail.com']}
+{'com.photo3dapps.makeit3d.free': ['MakeIt3D - 3D Camera', 'PHOTO3DLAB', '1,000,000+', 'https://www.photo3dlab.com/', 'makeit3d@photo3dlab.com']}
+{'com.plumamazing.iwatermarkplus': ['iWatermark+ Watermark Videos & Photos Protection', '6717844423438938263', '5,000+', 'http://plumamazing.com', 'info@plumamazing.com']}
+{'com.jeyluta.intimestampcamera': ['In Timestamp Camera Pro', 'Yubin+Chen', '1,000+', 'http://www.timestampcamera.com/PrivacyPolicy.html', 'cybfriend@gmail.com']}
+{'com.roundwoodstudios.comicstripitpro': ['Comic Strip pro - Cartoon Comic Maker', '7847140177405238162', '10,000+', 'http://www.comicstripit.com/', 'roundwoodstudios@gmail.com']}
+{'com.covermaker.thumbnail.maker': ['Thumbnail Maker: Youtube Thumbnail & Banner Maker', '6096060713339252212', '100,000+', 'http://www.contentarcade.com', 'contentarcadeapps@gmail.com']}
+{'com.mobisystems.msgs': ['PhotoSuite 4 Pro', '4895393381068725503', '100,000+', 'http://www.mobisystems.com', 'support@mobisystems.com']}
+{'com.ryzenrise.menscamera': ['Beard & Abs Photo Editor for Bodybuilding - Macho', 'ryzenrise', '100,000+', 'http://www.wisharcbuilder.com', 'ryzengchang@gmail.com']}
+{'com.eyeappsllc.prohdr': ['Pro HDR Camera', 'EyeApps+LLC', '100,000+', 'http://www.eyeapps.com', 'android@eyeappsllc.com']}
+{'com.pic.pipcamera': ['PIP CAM - Photo Maker', '7153679079505837871', '10,000,000+', 'https://pictoolsgroup.tumblr.com/post/157522018949/privacy-policy-of-pic-tools-group-photo-editor', 'wongcti12214@gmail.com']}
+{'com.plumamazing.iwatermark': ['iWatermark-Watermark Photos with Logo, Text, QR...', '6717844423438938263', '10,000+', 'http://plumamazing.com', 'julian@plumamazing.com']}
+{'com.tungdiep.petpics': ['Pet Pictures - Photo Editor - Pet Face Wallpapers', '7958405082226061986', '10,000+', 'http://tdpicstudio.com', 'analogcamera2017@gmail.com']}
+{'com.desygner.collages': ['Collage Maker', '7834691532460600952', '10,000+', 'http://www.desygner.com', 'info@desygner.com']}
+{'com.momentogifs.momento': ['GIF Maker by Momento', 'Popixels+Ltd.', '10,000+', 'https://www.momentogifs.com', 'android@momentogifs.com']}
+{'org.jpegrepair.vgjr': ['VG JPEG Image Repair', 'VGS+Data+Recovery', '10,000+', 'https://www.jpeg-repair.org', 'support@jpeg-repair.org']}
+{'com.lyrebirdstudio.hdr': ['Photo Editor HDR FX Pro', '8117239212302166287', '10,000+', 'http://lyrebirdstudio.net/app/faux-hdr/', 'lyrebirdstudio@gmail.com']}
+{'com.aplus.camera.android': ['A+Camera', 'Cameradeveloper', '5,000+', 'https://sites.google.com/view/apluscamera/', 'apluscameradeveloper@gmail.com']}
+{'com.camlyapp.Camly': ['Camly photo editor & collages', 'Camly', '5,000,000+', 'http://camlyapp.com', 'support@camlyapp.com']}
+{'com.jellybus.Moldiv': ['MOLDIV by JellyBus', '4799836742395269025', '5,000,000+', 'http://www.jellybus.com/moldiv', 'contact@jellybus.com']}
+{'com.zombodroid.imagecombinerpaid': ['Image Combiner PRO', '7550045746771355552', '100+', 'http://www.facebook.com/ZomboDroidMemeGenerator', 'zombodroid@gmail.com']}
+{'com.pcvirt.ImageEditor': ['Image Editor', 'Byte+Mobile', '10,000,000+', 'http://byteexperts.com', 'contact@byteexperts.com']}
+{'com.coolapps.dslrcamera': ['DSLR Camera Blur Effects', 'Photo+Cool+Apps', '1,000,000+', 'https://photocoolapps.wordpress.com', 'photocoolapps@gmail.com']}
+{'com.zenaapps.backgroundcamera': ['Background Camera', 'ZenaApps', '100,000+', 'http://zenaapps.com', 'zenahelp@gmail.com']}
+{'com.text.metal.effect': ['Text Effects Pro - Text on photo', 'Yogroup+Studio', '500,000+', 'https://textpro.me', 'thiepmung.com@gmail.com']}
+{'dstudio.tool.instasave': ['QuickSave for Instagram', '7543870582958839055', '10,000,000+', 'https://instasave.herokuapp.com/instasave/policy', 'contact@instasave.me']}
+{'com.alphatech.photable': ['Photable', 'AlphaMobileTech', '100,000+', 'http://www.topcam.cc/collage_privacy.html', 'photable.android@yahoo.com']}
+{'com.s2d1.tattoompaid': ['Tattoom', '7151984065612858182', '1,000+', 'http://bestwpaperz.blogspot.com.tr/2017/01/papers-apps-terms-of-service.html', 'bestwpapers@gmail.com']}
+{'com.framify.frames': ['Photo Frame Editor Collage Picture Effects Framify', 'Anita+Chauhan', '100,000+', 'http://notoveryet.wordpress.com/', 'thewebanalyzers@gmail.com']}
+{'com.zmobileapps.cutpasteframes': ['Cut Paste Photos & Video Frames', 'Z+Mobile+Apps', '500,000+', 'https://zmobileapps.wordpress.com', 'adit.zoom1@gmail.com']}
+{'com.vidstitch.pro': ['Vidstitch Pro - Video Collage', 'Fresh+Squeezed+Apps', '50,000+', 'http://www.freshsqueezedapps.com', 'contactus@freshsqueezedapps.com']}
+{'com.everimaging.photoeffectstudio': ['Fotor Photo Editor - Photo Collage & Photo Effects', '8665182620209793262', '10,000,000+', 'http://www.fotor.com', 'support@fotor.com']}
+{'com.tssystems.photomate3': ['Photo Mate R3', 'TS+Systems', '100,000+', 'http://www.photo-mate.com', 'support@photo-mate.com']}
+{'de.worldiety.athentech.perfectlyclear': ['Perfectly Clear', 'Athentech', '100,000+', 'http://www.athentech.com', 'help@athentech.com']}
+{'com.puripix': ['PURIPIX', 'MAKESOFTWARE+Inc.', '100,000+', 'https://puripix.com/info/app/', 'sp-support@puripix.com']}
+{'com.mt.mtxx.mtxx': ['Meitu – Beauty Cam, Easy Photo Editor', 'Meitu,+Inc.', '10,000,000+', 'https://api.meitu.com/privacy-policy/index.html?lang=en', 'app@meitu.com']}
+{'com.minaxsoft.gmonitor': ['GMonitor', 'Minax+Coding+Team', '1,000+', 'https://www.minaxsoft.com', 'minaxsoft@gmail.com']}
+{'com.willblaschko.android.lightmeterv2.pro': ['Light Meter', 'WBPhoto', '1,000+', 'http://www.willblaschko.com', 'will.blaschko+lightmeter@gmail.com']}
+{'com.SimplyEntertaining.movieeffect': ['3D Movie Effects - Movie FX Photo Effects', 'Simply+Entertaining', '500,000+', 'http://www.simplyentertaining.us', 'Simplyentertaining1@gmail.com']}
+{'com.firitools.firitools.imagenegative': ['Negative Image', 'firisoft', '100,000+', 'https://firisoft-privacypolicy.blogspot.com/2018/10/negative-image-privacy-policy.html', 'firisoft@gmail.com']}
+{'me.airtake': ['Airtake', 'Tuya+Inc.', '100,000+', 'http://photo.tuya.com', 'app@tuya.com']}
+{'com.jellybus.rookie': ['Rookie Cam by JellyBus', '4799836742395269025', '1,000,000+', 'http://www.jellybus.com/rookiecam', 'contact@jellybus.com']}
+{'com.moonlightingsa.pixanimator': ['PixAnimator - Fun Photo Videos', '6946543381545334426', '500,000+', 'http://pixanimator.com', 'feedback@moonlighting.io']}
+{'com.learnphoto.app365': ['Learn Photo365', 'LearnPhoto365', '1,000+', 'http://www.learnphoto365.com', 'noel@learnphoto365.com']}
+{'app.pr0.com.aquariumcamera': ['Aquarium Camera', 'Aquarium+Apps', '500+', 'http://aquariumcameraapp.com', 'info@seahostler.com']}
+{'com.camtechstudio.lumiocam': ['Lumio Cam', '5841129832196690596', '500,000+', 'http://www.lumiocam.com', 'info@lumiocam.com']}
+{'com.motionone.afterfocus_pro': ['AfterFocus Pro', 'MotionOne', '50,000+', 'http://www.appm1.com', 'android.appm1@gmail.com']}
+{'com.irisstudio.standout': ['StandOut - Artsy Photo Effects', 'Iris+Studios+and+Services', '100,000+', 'https://irisstudioprivacypolicy.wordpress.com', 'Iris.Studio51515@gmail.com']}
+{'com.m3apps.storymaker': ['Story Maker - Create stories to Instagram', 'M3+apps', '500,000+', 'https://www.iubenda.com/privacy-policy/88616035', 'email.m3apps@gmail.com']}
+{'com.snapwood.skyfolio': ['SkyFolio - OneDrive Photo Gallery and Uploader', 'Snapwood+Photo+and+Upload+Apps', '5,000+', 'http://snapwoodapps.com/portfolio.html', 'snapwoodapps@gmail.com']}
+{'net.xnano.android.photoexifeditor.pro': ['Photo Exif Editor Pro - Metadata Editor', 'Banana+Studio', '5,000+', 'http://www.xnano.net', 'support@xnano.net']}
+{'com.mobisystems.msgsreg': ['PhotoSuite 4 Free', '4895393381068725503', '1,000,000+', 'http://www.mobisystems.com', 'support@mobisystems.com']}
+{'com.scalc.scalc': ['Secret Photo Album: Photo Vault - Hide Photos', 'AKASHASOFT+LLC', '1,000,000+', 'https://www.akashasoft.com/', 'support@akashasoft.com']}
+{'com.hirota41.misphereconverter': ['MiSphere Converter', 'hirota41', '1,000+', 'https://sites.google.com/view/h360/', 'hirota41d+mc@gmail.com']}
+{'com.bothwing.allpicdownloaderpro': ['Image Downloader Pro', 'bothwing', '10,000+', 'http://bothwing.com/index_en.htm', 'bothwingsoft@gmail.com']}
+{'com.aksharastudios.eop': ['Elements of Photography', 'Arkenstone+Technologies+Pvt.+Ltd.', '100,000+', 'http://www.elementsofphotography.com', 'feedback@elementsofphotography.com']}
+{'baby.pics.story.photo.editor': ['Baby Pics Free - Milestones Pics - Pregnancy Photo', '7958405082226061986', '100,000+', 'http://tdpicstudio.com/', 'analogcamera2017@gmail.com']}
+{'com.galery3dkefcal.kefcal': ['Pro 3D Live Gallery', 'Magicapp2163', '500+', 'https://docs.google.com/document/d/1ZKIgiudnVzQzSkD-ALbHVdopiKnZk5wFrWJIi1qnC7A/edit?usp=sharing', 'kefcalapp@gmail.com']}
+{'com.psd2filter.newr4ve': ['Vaporwave- Aesthetic Filters & Photo Glitch Art', 'Tara+Valdez', '100,000+', 'http://taratheastrologer.com/privacy-policy.php', 'davechue21@gmail.com']}
+{'camera360.lite.beauty.selfie.camera': ['Camera360 Lite - Selfie Camera', '7074450904720558835', '10,000,000+', 'http://www.camera360.com/privacy_lite_en.html', 'lite@camera360.com']}
+{'me.imgbase.imgplay.android': ['ImgPlay - GIF Maker', 'ImgBase,+Inc.', '100,000+', 'http://imgbase.me', 'imgplay.and@imgbase.me']}
+{'com.stefsoftware.android.photographerscompanionpro': ["Photographer's companion Pro", 'Stef+Software', '1,000+', 'https://sites.google.com/view/photographerscompanion/home', 'stefsoftware@gmail.com']}
+{'com.insfull.bigprofilepicture': ['insFull - big profile photo picture', '%C4%B0rfan+%C5%9EENER', '500,000+', 'https://www.zerostagram.com', 'irfansener00@gmail.com']}
+{'com.ilixa.mosaic': ['Mosaic Art Lab', 'Ilixa', '100,000+', 'http://ilixa.com', 'fmorvill.ilixa@gmail.com']}
+{'com.olav.logolicious': ['Add your own logo, watermark, and text to photos', '7782049575403806674', '1,000,000+', 'http://addyourlogoapp.com', 'helpdesk@thelaughingdutchmen.com']}
+{'com.vyom.gallery': ['Gallery', '8076261452952585124', '10,000,000+', 'http://vyomy.blogspot.com/', 'vyomcorpteam@gmail.com']}
+{'com.sixhandsapps.deleo': ['Deleo - Combine, Blend, and Edit Photos', '9159635076379979111', '500,000+', 'http://sixhandsapps.com', 'support@sixhandsapps.com']}
+{'com.groundupworks.partyphotobooth': ['Party Photo Booth', 'Ground+Up+Works', '5,000+', 'http://www.groundupworks.com', 'ground.up.works@gmail.com']}
+{'com.Paradyme.FireshotFree': ['Fireshot Fireworks', '7923322729985684144', '10,000+', 'http://paradym3.com', 'apps@paradym3.com']}
+{'com.jellybus.fx': ['PicsPlay Pro', '4799836742395269025', '50,000+', 'http://www.jellybus.com/picsplay', 'contact@jellybus.com']}
+{'com.ist.postermaker': ['Poster Maker : Flyers, Invitation, Banner Design', 'Piyush+Patel', '100,000+', 'http://infostringtechnolabs.com/postermaker/privacy-policy.php', 'pvaghasiya59@gmail.com']}
+{'com.heaveninfotech.photostamper': ['Auto Add Date and Timestamp on Camera Photos', 'Photo+Stamp', '50,000+', 'http://www.heaveninfotech.com/privacy_policy_photo_stamper_app.html', 'photostamperapp@gmail.com']}
+{'textonphoto.quotestext.typography': ['Typography Master - Text on photo, quotes text', '6389919162818792210', '100,000+', 'https://docs.google.com/document/d/1xA-Ouknk0ersmn3RTw78qS7kq_iHUjAsLOwDvHJEGhA/edit?usp=sharing', 'chiencv2017@gmail.com']}
+{'com.tssystems.rawdecoderfree': ['Raw Decoder', 'TS+Systems', '100,000+', 'http://www.photo-mate.com', 'support@photo-mate.com']}
+{'com.dbroyal.squarenocroplite': ['Square No Crop White Background Post for Instagram', 'DBRoyal', '50,000+', None, 'theroyalskewer@gmail.com']}
+{'com.instagrid.free': ['Grid Maker for Instagram', 'CodeAndPlayVn', '1,000,000+', 'https://cheryl1511.github.io/gridmaker', 'code.and.play.vn@gmail.com']}
+{'com.photomontagerfull': ['PhotoMontager Full', '6946543381545334426', '10,000+', 'http://moonlighting.io/photomontager.php', 'feedback@moonlighting.io']}
+{'com.peaksystems.diptic': ['Diptic', 'UpTop+Corp', '100,000+', 'http://android.dipticapp.com/', 'support@dipticapp.com']}
+{'com.darkcube.binnm': ['Binoculars Night Mode (45x zoom)', '9104794895434837838', '1,000,000+', 'https://sites.google.com/view/darkcubeapps', 'nat.afonina2018@gmail.com']}
+{'com.irisstudio.backgrounderaser': ['Ultimate Background Eraser', 'Iris+Studios+and+Services', '1,000,000+', 'https://irisstudioprivacypolicy.wordpress.com', 'Iris.Studio51515@gmail.com']}
+{'com.arsa.nanodvrpronew': ['Hidden Video Recorder -  Pro Version', '8179638299679516614', '100+', 'https://codemeandroid.wordpress.com/privacy-policy/', 'nanobyteapp@gmail.com']}
+{'com.arsa.nanobvrpronew': ['Secret camera with voice recorder Pro', '8179638299679516614', '10+', 'https://codemeandroid.wordpress.com/privacy-policy/', 'nanobyteapp@gmail.com']}
+{'com.pa.chromatix': ['Black and White Photo Colorizer - Chromatix', 'Christopher+Changchien', '50,000+', 'http://changchien.com', 'chromatix_support@changchien.com']}
+{'com.dooblou.SECuRETSpyCam': ['SECuRET ProCam', 'dooblou', '10,000+', 'http://dooblou.blogspot.com/', 'pauldyble82@gmail.com']}
+{'dk.appdictive.colorNegativeViewer': ['Photo Negative Scanner: View & Convert color film', '5551194754577067188', '100,000+', 'http://www.appdictive.dk', 'team.appdictive@gmail.com']}
+{'com.psd2filter.pencilsketch': ['Sketch Pictures- Pencil Sketch to Draw Yourself', 'PSD2Filter+Pte+Ltd', '50,000+', 'http://www.psd2filter.com', 'dave.psd2filter@gmail.com']}
+{'jp.scn.android': ['Scene: Organize & Share Photos', 'Ripplex+Inc.', '1,000,000+', 'https://www.scn.jp', 'play-support@scn.jp']}
+{'com.whizpool.ezywatermarkpro': ['eZy Watermark Photo - Pro', 'Whizpool', '1,000+', 'http://www.whizpool.com', 'whizpool@gmail.com']}
+{'com.appsymptote.yipro': ['Yi Pro - Yi Action camera control and scripting', 'Kacper+Dziubek', '5,000+', 'http://www.yiscript.pro/', 'support@yiscript.pro']}
+{'best.sweet.selfie': ['Sweet Camera - photo editor, beauty effect', '6091442766932589829', '1,000,000+', 'http://www.ufotosoft.com', 'meiqp@ufotosoft.com']}
+{'com.tohsoft.camera.sweet.beauty.selfie.pro': ['Selfie Camera Pro', 'Best+App+-+Top+Droid+Team', '50,000+', 'https://sites.google.com/view/hd-camera-privacy', 'app.contact@tohsoft.com']}
+{'com.franco.focus': ['Focus - Picture Gallery', '8270010790606670648', '100,000+', 'https://kernels.franco-lnx.net/privacy.html', 'franciscofranco.1990@gmail.com']}
+{'poster.maker.designer.scopic': ['Poster Maker & Poster Designer', '5801011190684159526', '1,000,000+', 'http://lightcreativelab.com/policy.html', 'lf.creativelab@gmail.com']}
+{'com.outthinking.videoonphoto': ['Picstun - Animate Photos, Animator, Pic Animation', 'ANDROID+PIXELS', '100,000+', 'http://www.outthinkingindia.com/privacy-policy/', 'androidpixels@gmail.com']}
+{'com.coolapps.carbon': ['Carbon Photo Lab - Double Exposure Blending Effect', 'Photo+Cool+Apps', '100,000+', 'https://photocoolapps.wordpress.com', 'photocoolapps@gmail.com']}
+{'com.wrongturn.magicphotolab': ['Photo Lab - Photo Art and Effect', 'WrongTurn+Apps', '1,000,000+', 'https://wrongturnapps.wordpress.com/privacy-policy/', 'wrongturnapps@gmail.com']}
+{'com.blackandwhitephotoeditor.rni.vsco.afterlight.blackypro': ['Darkroom Editor: Premium 8mm Retro & VHS Effect', '6487689772561878828', '1,000+', 'http://www.blackfilmapp.co/landing', 'blackfilmapp@gmail.com']}
+{'com.ascendapps.cameraautotimestamp': ['Camera Auto Timestamp', 'AscendApps', '100,000+', 'http://www.ascendapps.com', 'admin@ascendapps.net']}
+{'com.photo_to_art.pro': ['Photo To Art Pro', 'Photo+Into+Painting', '500+', 'https://www.iubenda.com/privacy-policy/8075903', 'khrgrisha@gmail.com']}
+{'com.psma.postlab': ['PostLab: Designer Collages, Posters, Layouts', 'photoshop+mobile+apps', '10,000+', 'https://photoshopmobileapps.wordpress.com/', 'ankitdeveloperpbh@gmail.com']}
+{'com.roundwoodstudios.comicstripit': ['Comic Strip! - Cartoon & Comic Maker', '7847140177405238162', '500,000+', 'http://www.comicstripit.com/', 'roundwoodstudios@gmail.com']}
+{'com.lyrebirdstudio.art': ['ArtistA Cartoon & Sketch Filter & Artistic Effects', '8117239212302166287', '5,000,000+', 'http://lyrebirdstudio.net/privacy.txt', 'lyrebirdstudio@gmail.com']}
+{'it.softcontrol.fenophoto': ['Fenophoto - Automatic photo enhancer', 'Beniamino+Ferrari', '10,000+', 'http://www.fenophoto.com', 'fenophoto@gmail.com']}
+{'com.touchbyte.photosync.nas': ['PhotoSync NAS Add-On', 'touchbyte', '1,000+', 'http://www.touchbyte.com', 'touchbyte@googlemail.com']}
+{'com.nchsoftware.photopad_free': ['PhotoPad Photo Editor Free', 'NCH+Software', '100,000+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'com.instamag.activity': ['Photo Collage - InstaMag', 'Fotoable,Inc.', '10,000,000+', 'http://www.fotoable.com', 'support@fotoable.com']}
+{'com.hvt.horizon': ['Horizon Camera', '6914804546773495184', '500,000+', 'http://horizon.camera', 'press@horizon.camera']}
+{'com.jixipix.simplywatercolor': ['Simply Watercolor', 'JixiPix+Software', '10+', 'https://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.zmobileapps.passportphoto': ['Passport Size Photo Maker', 'Z+Mobile+Apps', '500,000+', 'https://zmobileapps.wordpress.com/', 'adit.zoom1@gmail.com']}
+{'hu.don.instashapepro': ['Image Shape Pro', 'Don+Apps+-+iPhotoApps', '100,000+', 'https://www.facebook.com/iphotoapps', 'the.don.apps@gmail.com']}
+{'com.touchbyte.photosync.autotransfer': ['PhotoSync Autotransfer Add-On', 'touchbyte', '1,000+', 'http://www.touchbyte.com', 'touchbyte@googlemail.com']}
+{'com.ua.makeev.wearcamera': ['Wear Camera', '6441983418105616174', '10,000+', 'http://makeevapps.com', 'wear.camera@gmail.com']}
+{'com.rawzor.fixphotopro': ['Rawzor Fix Photo', '4878052604321693721', '1,000+', 'http://www.rawzor.com', 'support@rawzor.com']}
+{'com.hodanny.instagrid': ['9square for Instagram', 'hodanny', '5,000,000+', 'http://hodanny.github.io/Instagrid/', 'hodannyy@gmail.com']}
+{'com.spritefish.fastburstcamera': ['Fast Burst Camera', 'Spritefish', '100,000+', 'http://www.facebook.com/fastburstcamera', 'support@spritefish.com']}
+{'com.pa.astronomersfriend': ["Astronomer's Friend - Astronomy Tools", '9136059489602014766', '10,000+', 'http://photographersarsenal.com', 'admin@photographersarsenal.com']}
+{'com.eximlabs.pocketAC': ['Pocket AC', 'Exim+Labs', '1,000+', 'http://www.pocketac.com/', 'pocketAC@gmail.com']}
+{'com.pa.lightingdiagrams': ['Studio Lighting Diagram Maker for Photography', '9136059489602014766', '5,000+', 'http://photographersarsenal.com', 'admin@photographersarsenal.com']}
+{'in.co.pixeltech.lightningtrigger': ['Lightning Trigger™ App', 'Pixel+Tech', '500+', 'http://www.pixeltech.co.in', 'pixeltechcoin@gmail.com']}
+{'com.lyrebirdstudio.tinyplanet': ['Tiny Planet FX Pro', '8117239212302166287', '100,000+', 'http://lyrebirdstudio.net/privacy.txt', 'lyrebirdstudio@gmail.com']}
+{'com.pa.northernlights': ['Northern Lights Forecast', '9136059489602014766', '10,000+', 'http://photographersarsenal.com', 'admin@photographersarsenal.com']}
+{'com.BrainyLantern.slingShotPortfolio': ['Portfolio RAW Photo Manager', 'Brainy+Lantern+Ltd.', '50,000+', 'http://brainylantern.com', 'products@brainylantern.com']}
+{'photofilter.facecamera.snapchat': ['Sweet Snap Pro - No Ads, Unique Filter & Sticker', '6091442766932589829', '10+', 'http://www.ufotosoft.com', 'wangsh@ufotosoft.com']}
+{'air.ca.esdot.PicShop': ['PicShop - Photo Editor', 'esDot+Development+Studio', '10,000+', 'http://esdot.ca', 'Support@esdot.ca']}
+{'com.fgnm.baconcamera.donation': ['Bacon Camera Donation', 'F.G.N.M.', '1,000+', 'https://www.baconcamera.com', 'fgnm.dev@gmail.com']}
+{'com.motionone.stickit': ['StickIt! - Photo Sticker Maker', 'MotionOne', '1,000,000+', 'http://www.appm1.com', 'android.appm1@gmail.com']}
+{'com.swiitt.pixgram': ['Pixgram- video photo slideshow', 'Swiitt+Computing+Inc.', '5,000,000+', 'https://pixgram.weebly.com/', 'swiitt.computing@gmail.com']}
+{'com.mvtrail.photo.watermark': ['Photo Watermark', 'MVTrail+Tech', '1,000,000+', 'http://policy-158010.appspot.com/privacy_policy.html', 'mediaplayer.sky@gmail.com']}
+{'covariance.com.imagefilter': ['Tattoo Stencil', 'Pony+Lawson', '1,000+', 'http://maydaytattoosupply.com', 'info@maydaytattoosupply.com']}
+{'com.ocusell.ocusell.production': ['Ocusell - Pro Photos Instantly', 'Ocusell+LLC', '1,000+', 'http://www.ocusell.com', 'info@ocusell.com']}
+{'com.snapwood.flickfolio': ['FlickFolio - Flickr Photo Gallery and Uploader', 'Snapwood+Photo+and+Upload+Apps', '10,000+', 'http://snapwoodapps.com/flickfolio.html', 'snapwoodapps@gmail.com']}
+{'com.foraway.militarysuperspyzoombinoculars': ['Military Super Spy Zoom Binoculars', 'faraways', '500,000+', 'https://farawaysprivacy.weebly.com', 'farawaystudio2@gmail.com']}
+{'com.surmin.pinstaphoto': ['Instant Photo - PinstaPhoto', 'Bringe', '500,000+', 'http://www.facebook.com/PhotoFancie', 'acforuserfeedback@gmail.com']}
+{'com.cortexcamera.cortexcamera_production': ['Cortex Camera', 'Whimsical+Productions', '1,000+', 'http://cortexcamera.com', 'cortexcamera@gmail.com']}
+{'bitasobhani.phototocoloringbook': ['Photo to Coloring Book', 'BitDeveloper', '50,000+', 'http://sites.google.com/site/mybitdeveloper/home/android/photo-to-coloring-book', 'bitasobhani2@gmail.com']}
+{'com.mbognar.reciprocity_failure': ['Exposure Assistant', 'Matthew+Bognar', '500+', 'http://www.stat.uiowa.edu/~mbognar', 'mattbognar@gmail.com']}
+{'com.km.morph': ['Pic Morph - Morph Faces', 'Dexati', '100,000+', 'http://www.picmorph.co', 'kumar@dexati.com']}
+{'gotravel.camera.skylight.filter.picnic': ['Picnic GO: Photo editor, sky overlay, lens flare', '5833450415358570393', '10,000+', 'http://pixellab.top', 'laurence.cletus@gmail.com']}
+{'com.filmlabapp.filmlab.android': ['FilmLab, for analog flilm', 'Abe+Fettig', '100+', 'http://filmlabapp.com', 'abe@filmlabapp.com']}
+{'com.jixipix.simplywatercolor': ['Simply Watercolor', 'JixiPix+Software', '10+', 'https://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.mohmmadbanva68.statusBull_pro': ['PEXELS PRO, advance futures No ads 2019', '7506486097590149635', '5+', 'https://hindustaneee.blogspot.com/p/privacy-policy-effective-date-february.html?m=1', 'mohmmadbanva68@gmail.com']}
+{'com.thesinistrals.facegenerator': ['Face Generator E-1337', '9119265111220756179', '10+', 'https://TheSinistrals.com', 'Support@TheSinistrals.com']}
+{'com.snapwood.flickfolio': ['FlickFolio - Flickr Photo Gallery and Uploader', 'Snapwood+Photo+and+Upload+Apps', '10,000+', 'http://snapwoodapps.com/flickfolio.html', 'snapwoodapps@gmail.com']}
+{'com.LasseMidtseim.CameraLightMeter': ['Camera Light Meter', 'Lasse+Midtseim', '100+', 'https://ymsestorage.blob.core.windows.net/cameralightmeter/PrivacyPolicy.html', 'lassemidt@gmail.com']}
+{'com.moiggi.arto.watercolor': ['Arto:watercolor painting photo', '9011426470016824264', '1,000+', 'http://www.moiggi.com/', 'arto@moiggi.com']}
+{'covariance.com.imagefilter': ['Tattoo Stencil', 'Pony+Lawson', '1,000+', 'http://maydaytattoosupply.com', 'info@maydaytattoosupply.com']}
+{'com.fgnm.baconcamera.donation': ['Bacon Camera Donation', 'F.G.N.M.', '1,000+', 'https://www.baconcamera.com', 'fgnm.dev@gmail.com']}
+{'com.touchbyte.photosync.photoservices': ['PhotoSync Cloud Add-On', 'touchbyte', '1,000+', 'http://www.touchbyte.com', 'touchbyte@googlemail.com']}
+{'uk.co.esscomp.depthoffieldcalculator': ['Depth of Field Calc', 'Essence+Computing+Ltd', '500+', 'http://www.essence-computing.co.uk', 'jimthedim@gmail.com']}
+{'com.Firecannon.InstaSplit': ['Pic Splitter for Instagram', 'Firecannon', '1,000+', 'http://firecannon.com', 'stuart@firecannon.com']}
+{'com.jixipix.dramaticbw': ['Dramatic Black & White', 'JixiPix+Software', '10,000+', 'http://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.mbognar.reciprocity_failure': ['Exposure Assistant', 'Matthew+Bognar', '500+', 'http://www.stat.uiowa.edu/~mbognar', 'mattbognar@gmail.com']}
+{'com.jixipix.simplywatercolor': ['Simply Watercolor', 'JixiPix+Software', '10+', 'https://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.sweetgram.camera.pro': ['Sweetgram Pro - Filter effect in trendy style', 'XoX+Mobile', '50+', 'https://sweetgram.net/privacy-policy.php', 'itplus.xoxmobile@gmail.com']}
+{'com.mobilephoton.intervalometer': ['Intervalometer', 'MobilePhoton', '1,000+', 'https://www.mobilephoton.com', 'mobilephoton17@gmail.com']}
+{'xyz.masmas.film.cloudy': ['Cloudy Film - Fade Filter 100% Reproduced!', 'MASMAS+Studio', '10,000+', 'https://s3.ap-northeast-2.amazonaws.com/masmas-film-apps/privacy/2017_08_15_ko.html', 'moogung.mobile+masmas@gmail.com']}
+{'com.hirota41.photospheretaggerpro': ['meta360 (former Photosphere XMP Tagger)', 'hirota41', '1,000+', 'https://sites.google.com/view/h360/', 'hirota41d+meta@gmail.com']}
+{'com.teapps.thetasremote': ['Theta S Remote Control', '7696735658928707700', '1,000+', 'http://www.mobwheel.com/thetasremote', 'mobapps@mobwheel.com']}
+{'com.iioannou.timelapsecalculatorpro': ['TimeLapse Calculator PRO', '7522328388587088193', '100+', 'http://www.ioannisioannou.me', 'contactiioannou@gmail.com']}
+{'com.saawanapps.photocompresspro': ['Photo Compress Pro 2.0', 'Saawan+Apps', '1,000+', 'http://saawanapps.blogspot.com', 'saawanapps@gmail.com']}
+{'com.jeyluta.kidsagecamera': ['Days from Date Camera', 'Yubin+Chen', '100+', 'http://www.timestampcamera.com/PrivacyPolicy.html', 'cybfriend@gmail.com']}
+{'com.moiggi.arto.infrared': ['Arto: f.infrared photo', '9011426470016824264', '500+', 'http://www.moiggi.com', 'arto@moiggi.com']}
+{'com.nchsoftware.videopad_paid': ["VideoPad Master's Edition", 'NCH+Software', '1,000+', 'http://www.nchsoftware.com', 'storesupport@nchsoftware.com']}
+{'com.jellybus.fx': ['PicsPlay Pro', '4799836742395269025', '50,000+', 'http://www.jellybus.com/picsplay', 'contact@jellybus.com']}
+{'jp.suto.stereoroidpro': ['3DSteroid Pro', 'StereoMaker', '5,000+', 'http://stereo.jpn.org/eng/index.html', 'stereopub@stereo.jpn.org']}
+{'com.tohsoft.camera.sweet.beauty.selfie.pro': ['Selfie Camera Pro', 'Best+App+-+Top+Droid+Team', '50,000+', 'https://sites.google.com/view/hd-camera-privacy', 'app.contact@tohsoft.com']}
+{'uk.co.neilandtheresa.NewVignette': ['Vignette • Photo effects', 'bitsquirrel', '100,000+', 'http://bitsquirrel.co.uk/vignette/user-guide', 'vignette@bitsquirrel.co.uk']}
+{'jp.snowlife01.android.mutecamera': ['Mute Camera Pro', 'HDM+Dev+Team', '10,000+', 'http://snowlife01.com/MuteCameraPro/', 'ifeeqp2002@gmail.com']}
+{'com.arsa.nanobvrpronew': ['Secret camera with voice recorder Pro', '8179638299679516614', '10+', 'https://codemeandroid.wordpress.com/privacy-policy/', 'nanobyteapp@gmail.com']}
+{'com.playthisstudios.Meld': ['Meld (#madewithmeld)', 'Play+This!+Studios', '1,000+', 'http://www.madewithmeld.com', 'support@madewithmeld.com']}
+{'aspiration.studio.photo.painter.pro': ['Photo Painter', 'Imagic+Mobile', '1,000+', 'http://www.facebook.com/ImagicMobile', 'trustswz@gmail.com']}
+{'com.xnview.XnResize': ['Resize Me! Pro - Photo & Picture resizer', '8969484046335453277', '50,000+', 'http://www.xnview.com', 'contact@xnview.com']}
+{'org.sifter.painteresque': ['Painteresque', 'Simon+Funk', '10,000+', 'http://sifter.org/painteresque/android/about.html', 'android.support@sifter.org']}
+{'azshu.pebble.pblcamera': ['Camera for Pebble', '9119051711844257493', '10,000+', 'http://sasgis.ru/privacy-policy/shu-apps/', 'azya52@gmail.com']}
+{'com.spritefish.fastburstcamera': ['Fast Burst Camera', 'Spritefish', '100,000+', 'http://www.facebook.com/fastburstcamera', 'support@spritefish.com']}
+{'com.pineapple.colorsplashpro': ['Color Splash Pro', 'Pineapple+infotech', '50+', 'http://pineappleinfotech2017.blogspot.com', 'pineappleinfotech2017@gmail.com']}
+{'com.onions.too.colorow': ['Colorow', 'too.onions', '1,000+', 'http://colorow.creatorlink.net', 'too.onions@gmail.com']}
+{'com.galery3dkefcal.kefcal': ['Pro 3D Live Gallery', 'Magicapp2163', '500+', 'https://docs.google.com/document/d/1ZKIgiudnVzQzSkD-ALbHVdopiKnZk5wFrWJIi1qnC7A/edit?usp=sharing', 'kefcalapp@gmail.com']}
+{'com.jpbrothers.android.pictail.sub6': ['PICTAIL - LimitedEdition', '7489105120650111643', '500,000+', 'http://www.jp-brothers.com', 'candygirl@jp-brothers.com']}
+{'com.rocasoftware.binocularspremium2': ['Binoculars Pro Premium No Ads - HD Max Camera Zoom', 'Roca+Software+Apps', '500+', 'http://www.facebook.com/roca.software.sv', 'roca.software.sv@gmail.com']}
+{'com.photo_to_art.pro': ['Photo To Art Pro', 'Photo+Into+Painting', '500+', 'https://www.iubenda.com/privacy-policy/8075903', 'khrgrisha@gmail.com']}
+{'com.panagola.app.iphotovrpro': ['iPhotoVR Pro', '7035112057115406030', '500+', 'http://www.panagola.com', 'support@panagola.com']}
+{'com.dooblou.SECuRETSpyCam': ['SECuRET ProCam', 'dooblou', '10,000+', 'http://dooblou.blogspot.com/', 'pauldyble82@gmail.com']}
+{'com.thesinistrals.facegenerator': ['Face Generator E-1337', '9119265111220756179', '10+', 'https://TheSinistrals.com', 'Support@TheSinistrals.com']}
+{'com.camera.recorder.hdvideorecord.pro': ['Video Recorder PRO', 'lockscreen+%26+recorder', '1,000+', 'http://bsoftjsc.com/pr/privacy_policy.html', 'lockscreen.studio@gmail.com']}
+{'pl.vipek.camera': ['DSLR Camera Pro', '7802674182799039323', '10,000+', 'http://geekydevs.com', 'dslrcameraapp@gmail.com']}
+{'com.mohmmadbanva68.statusBull_pro': ['PEXELS PRO, advance futures No ads 2019', '7506486097590149635', '5+', 'https://hindustaneee.blogspot.com/p/privacy-policy-effective-date-february.html?m=1', 'mohmmadbanva68@gmail.com']}
+{'com.tomatotimes.pipcam': ['Pip Cam - Picture-in-Picture From Your Camera', 'TomatoTimes', '100+', 'http://www.tomatotimes.com', 'sales@tomatotimes.com']}
+{'eveandelse.com.ndfilterexpert.pro': ['ND Filter Expert Pro', 'Eve%26Else', '10+', 'https://nd-filter.expert.com', 'support@nd-filter-expert.com']}
+{'com.motion.HypeWallpapers4KPRO': ['Hype Wallpapers 4K PRO Hype Backgrounds', '5005220843709800158', '1,000+', 'http://www.amoledwallpapers.com/', 'Motionwallpapers@gmail.com']}
+{'com.gst.lucidlayer': ['TranzBi - Transparent Wallpaper on your Screen', 'GhostProductions', '5,000+', 'http://apps.more-infos.net/TPL.html', 'apps@more-infos.net']}
+{'com.hirota41.misphereconverter': ['MiSphere Converter', 'hirota41', '1,000+', 'https://sites.google.com/view/h360/', 'hirota41d+mc@gmail.com']}
+{'com.creapp.photoeditorlite': ['Photo Editor Pro 2018', 'CRE+APP.COM', '1,000+', 'http://photoeditorbycreapp.blogspot.in', 'aaradhyarao18@gmail.com']}
+{'com.digitalfilmtools.refine': ['reFine', 'Digital+Film+Tools,+LLC', '100+', 'http://www.digitalfilmtools.com/', 'support@digitalfilmtools.com']}
+{'com.jpbrothers.android.pictail.sub2': ['PICTAIL - Mojito', '7489105120650111643', '100,000+', 'http://www.jp-brothers.com', 'candygirl@jp-brothers.com']}
+{'com.photo.pink.moon': ['PinkMoon', 'Scenty+Studio', '1,000+', 'https://www.instagram.com/pinkmoon_pinkfilter', 'pinkmoon.pinkfilter@foxmail.com']}
+{'com.followmemobile.bebopdefisheye': ['Bebop - DeFisheye', 'FollowMe+Mobile', '1,000+', 'http://www.followmemobile.com', 'info@followmemobile.com']}
+{'com.hirota41.thetahdr': ['THETA S Bracket for HDR (for S/SC, not for V)', 'hirota41', '500+', 'https://sites.google.com/view/h360/', 'hirota41d+bracket@gmail.com']}
+{'com.ultralabapps.filterlooppro': ['Filterloop Pro: Tool for share cool edited photos', '6838180324272490672', '10,000+', 'http://ultralabapps.com', 'platformeug@gmail.com']}
+{'za.co.lateral.saber': ['Saber Photo Editor', '1code.co', '100+', 'http://1code.co', 'craig@1code.co']}
+{'com.teapps.thetashdr': ['HDR for Theta S Cameras', '7696735658928707700', '500+', 'http://www.mobwheel.com', 'mobapps@mobwheel.com']}
+{'com.jeyluta.cameratext': ['Camera Text Watermark', 'Yubin+Chen', '100+', 'http://www.timestampcamera.com/PrivacyPolicy.html', 'cybfriend@gmail.com']}
+{'com.smartphoneremote.watcherwear': ['Watcher - Android Wear Camera', 'SmartphoneRemote', '100+', 'http://www.SmartphoneRemote.com', 'support@SmartPhoneRemote.com']}
+{'com.jixipix.rippix': ['RipPix', 'JixiPix+Software', '500+', 'http://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.iioannou.phototipspro': ['Photo Tips PRO - Learn Photography', '7522328388587088193', '100+', 'http://www.ioannisioannou.com', 'contactiioannou@gmail.com']}
+{'com.candyapplab.chromakey': ['CHROMA KEY GREEN SCREEN STUDIO', 'Candy+AppLab', '500+', 'http://www.candyapplab.com', 'candy.applab@gmail.com']}
+{'com.berad.areffectkittens': ['Kittens', 'Be-Rad+Entertainment', '5,000+', 'http://www.be-rad.com', 'be.rad.entertainment@gmail.com']}
+{'com.moiggi.arto.monochrome': ['Arto: black and white photo', '9011426470016824264', '1,000+', 'http://www.moiggi.com', 'arto@moiggi.com']}
+{'net.kadru.magicuniversalviewfinder': ['Magic Universal ViewFinder', 'Roman+Medvid', '1,000+', 'http://dev.kadru.net/', 'dev@kadru.net']}
+{'com.bellabytes.xcamlgsettings': ['XCam LG Settings', 'BellaBytes', '10,000+', 'http://www.bellabytes.com', 'info@bellabytes.com']}
+{'com.triplehand.app.infiniteshot_full': ['Unlimited Burst Camera', 'TripleHand', '500+', 'http://www.triplehand.com/2014/09/infinite-shot.html', 'triplehand@triplehand.com']}
+{'com.jixipix.vintagescene': ['Vintage Scene', 'JixiPix+Software', '1,000+', 'http://www.jixipix.com', 'ansupport@jixipix.com']}
+{'ru.neverdark.phototools.azimuth': ['Azimuth plugin', 'Artem+Yankovskiy', '1,000+', 'https://github.com/yankovskiy/Azimuth.Plugin', 'artemyankovskiy@gmail.com']}
+{'com.onemanwithstereo.full': ['3D Camera Pro', 'Wise+Shark+Software', '1,000+', 'http://wisesharksoftware.com', 'she.loves.apps@gmail.com']}
+{'pl.machinery.hdr': ['Machinery HDR Effects', 'Ace+Soft', '1,000+', 'http://www.machineryhdr.com/android', 'android@machineryhdr.com']}
+{'com.hantor.CozyCameraPlus': ['High-Speed Camera Plus', 'HANTOR', '50,000+', 'http://hantorlab.blogspot.kr', 'hantor89@gmail.com']}
+{'com.teapps.lightstrokecamera': ['Light Painting/Strokes Camera', '7696735658928707700', '1,000+', 'http://www.mobwheel.com', 'mobapps@mobwheel.com']}
+{'com.teapps.camerapro': ['CameraPro', '7696735658928707700', '1,000+', 'http://www.mobwheel.com/camerapro', 'mobapps@mobwheel.com']}
+{'com.myboyfriendisageek.panostitch': ['PanoStitch Panorama Picture HD', '7104035099060517441', '10,000+', 'http://www.myboyfriendisageek.com/market/privacy.html', 'support@myboyfriendisageek.com']}
+{'com.sr.goddess.aura': ['Goddess Aura Photography app', '5248360492504326295', '1,000+', 'http://www.goddessauraphotography.com', 'perrytexas@gmail.com']}
+{'air.ca.esdot.PicShop': ['PicShop - Photo Editor', 'esDot+Development+Studio', '10,000+', 'http://esdot.ca', 'Support@esdot.ca']}
+{'com.paintlefull': ['Paintle Full', '6946543381545334426', '1,000+', 'http://moonlighting.io/paintle.php', 'feedback@moonlighting.io']}
+{'com.jellybus.tiltshift': ['Awesome Miniature Pro', '4799836742395269025', '10,000+', 'http://www.jellybus.com', 'contact@jellybus.com']}
+{'com.zara.app.compassprok': ['Living in the sun Pro', 'Zero.Point', '10,000+', 'http://devzara.blogspot.kr/2017/03/private-policy-for-living-in-sun.html', 'devzara@gmail.com']}
+{'com.groundupworks.partyphotobooth': ['Party Photo Booth', 'Ground+Up+Works', '5,000+', 'http://www.groundupworks.com', 'ground.up.works@gmail.com']}
+{'com.photomontagerfull': ['PhotoMontager Full', '6946543381545334426', '10,000+', 'http://moonlighting.io/photomontager.php', 'feedback@moonlighting.io']}
+{'com.motion.hd4KWallpapers': ['4K Wallpapers - Full 4K + HD (Pro)', '5005220843709800158', '10,000+', 'http://www.amoledwallpapers.com/', 'Motionwallpapers@gmail.com']}
+{'cf.fastpro.ner.photo_editor': ['Ner - Photo Editor, Pip, Square, Filters, Pro', 'Fast+Pro+Apps', '50,000+', 'https://mohebyasser.github.io/', 'fast.pro.apps@gmail.com']}
+{'com.igcmobile.android.photoframepro': ['Photo Slides (Photo Frame) Pro', '9144907755440817486', '1,000+', 'http://www.igcmobile.com', 'support@igcmobile.com']}
+{'nz.co.activedevelopment.picframe_android': ['PicFrame', 'Active+Development', '100,000+', 'http://android.picframeapp.com', 'contact@activedevelopment.co.nz']}
+{'com.almalence.hdr_plus': ['HDR Camera+', 'Almalence', '100,000+', 'http://www.facebook.com/pages/Almalence/459753787388980', 'support@mobilehdr.almalence.com']}
+{'com.motion.PixelWallpapers4KPRO': ['Pixel 3 Wallpapers 4K Pro Backgrounds', '5005220843709800158', '10,000+', 'http://www.amoledwallpapers.com/', 'Motionwallpapers@gmail.com']}
+{'com.vtsoftware.vrvideorecorder': ['VR Video Recorder', 'VT+software', '100+', 'https://www.vt-software.eu', 'vtsoftwareservice@gmail.com']}
+{'com.jixipix.portraitpainter': ['Portrait Painter', 'JixiPix+Software', '10,000+', 'http://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.teapps.goprocontrol': ['Camera Control - Hero 4 Cameras', '7696735658928707700', '1,000+', 'http://www.mobwheel.com/gopro', 'mobapps@mobwheel.com']}
+{'com.pixtogram.wear.zicam': ['PixtoCam for Android Wear', 'Pixtogram', '50,000+', 'https://plus.google.com/u/0/103120817703481624092/', 'contact@pixtogram.com']}
+{'ru.arcticengineer.spectracam': ['SpectraCam — See invisible. Near IR & UV camera.', 'ArcticEngineer', '10+', 'https://arcticengineer.github.io/spectracam_privacy_policy.html', 'arcticengineer@yandex.ru']}
+{'com.beautysweet.b360.pro': ['B360 - Pro filters Effect ( No Ads + 20 filters )', 'Panaroza+Ltd', '10+', 'http://panaroza.com', 'selfie@panaroza.com']}
+{'com.extinct.dslrgurupro': ['DSLR Guru - Photography guide ad free', 'Extinct+Entertainments', '5+', None, 'extinct.entertainments@gmail.com']}
+{'com.caketuzz.timelapsecreator': ['Timelapse Creator', 'caketuzz', '5+', 'http://caketuzz.com', 'wapcamer@gmail.com']}
+{'uk.co.firefly.tiltandshift.tiltandshift': ['Tilt Shift Lens Calculator', 'Rowland+Cook', '5+', None, 'rowland.cook@gmail.com']}
+{'com.reactivstudios.android.selfieflashplus': ['Selfie Flash Plus - bright pictures in any camera', 'Reactiv+Studios', '100+', 'http://www.reactivstudios.com', 'reactiv.studios@gmail.com']}
+{'com.bhanu.shoton': ['Shot on Watermark on Photo - Like Shot On one plus', '5586168019301814022', '10,000+', 'http://yogeshdama.com/', 'yogi.306@gmail.com']}
+{'com.genewarrior.touchremove2': ['TouchRemove', 'GeneWarrior', '50,000+', None, 'contact@genewarrior.com']}
+{'com.luckyxmobile.pentaxphotosync': ['Photo Sync - Companion for Pentax/Ricoh Cameras', 'Breet.Jia', '500+', 'http://www.facebook.com/mengmengbug', 'breet.jia@gmail.com']}
+{'com.digitalfilmtools.rays': ['Rays', 'Digital+Film+Tools,+LLC', '1,000+', 'http://www.digitalfilmtools.com/', 'support@digitalfilmtools.com']}
+{'scrumtimer.dev.mvp.mywearapplication': ['Wear Sony Cam Control', 'mvp.development', '100+', 'http://mvp-dev.appspot.com/', 'pba.se.team.sports@googlemail.com']}
+{'com.hirota41.thetaconverterpro': ['edit360 (former THETA Converter Pro)', 'hirota41', '1,000+', 'https://sites.google.com/view/h360', 'hirota41d+tcpro@gmail.com']}
+{'com.premiumphotoexpert.pro': ['Premium Photo Expert Pro - Advanced Photo Editor', 'Chris+Diamond', '10+', 'https://www.facebook.com/Premium-Photo-Expert-Free-Collage-Maker-325672071121574/', 'itzo_usa@yahoo.com']}
+{'de.jeisfeld.randomimagepro': ['Random Image Pro', 'J%C3%B6rg+Eisfeld', '50+', 'http://randomimage.jeisfeld.de', 'randomimage@jeisfeld.de']}
+{'com.jixipix.impresso': ['Artista Impresso', 'JixiPix+Software', '10,000+', 'http://www.jixipix.com', 'ansupport@jixipix.com']}
+{'slide.cameraZoom.pack_card_birthday': ['Birthday Pack', '8210063275497266236', '1,000+', 'http://www.androidslide.com', 'admin.androidslide@googlemail.com']}
+{'com.xnview.xnblackcampro': ['BlackCam Pro - B&W Camera', '8969484046335453277', '100,000+', 'http://www.xnview.com', 'contact@xnview.com']}
+{'com.highhay.hashtag': ['Hashter: Gorgeous poster-maker', 'Giocode', '500+', 'http://giocode.github.io', 'rindranirina@gmail.com']}
+{'com.jixipix.photoartistaoil': ['PhotoArtista - Oil', 'JixiPix+Software', '1,000+', 'http://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.portable.timelapse': ['24/7 TimeLapse', 'Portable+Electronics+Ltd', '100+', 'http://247timelapse.com/', 'app@portable.geek.nz']}
+{'com.IdanScamerazoom': ['Camera ZOOM', '8646265049076640853', '10,000+', 'http://generalpp.scaleapp.net', 'bzingsupport@outlook.com']}
+{'com.IdanS.binoculars': ['Binoculars - Zoom Camera', '8646265049076640853', '10,000+', 'http://generalpp.scaleapp.net', 'bzingsupport@outlook.com']}
+{'com.xnview.XnRetroPro': ['XnRetro Pro', '8969484046335453277', '10,000+', 'http://www.xnview.com', 'contact@xnview.com']}
+{'com.ideamats.perfectshot': ['PerfectShot Unlimited', '7500620090617409572', '1,000+', 'http://ideamats.com', 'ideamats@gmail.com']}
+{'com.sleepwalkers.photoalbums.pro': ['Photo Album Pro', '4725615955378054830', '1,000+', 'http://www.droidveda.com/photoalbum-help/index.html', 'photoalbumpro@gmail.com']}
+{'com.snapwood.gfolio': ['gFolio - Google Drive Photo Gallery and Uploader', 'Snapwood+Photo+and+Upload+Apps', '1,000+', 'http://snapwoodapps.com/gfolio.html', 'snapwoodapps@gmail.com']}
+{'com.jeffmenter.lenslab': ['Lens•Lab', 'Jeff+Menter', '1,000+', 'http://www.jeffmenter.com', 'jmenter@gmail.com']}
+{'com.snapwood.shutterfolio': ['ShutterFolio - Shutterfly Photos and Uploader', 'Snapwood+Photo+and+Upload+Apps', '10,000+', 'http://snapwoodapps.com/shutterfolio.html', 'snapwoodapps@gmail.com']}
+{'photography.darkroom.pro': ['Film Developer Pro', '6155985772721285346', '1,000+', 'https://darkroom-solutions.com/start', 'bumbam.hammerer@gmail.com']}
+{'com.superbannerfull': ['SuperBanner Full', '6946543381545334426', '5,000+', 'http://moonlighting.io/superbanner.php', 'feedback@moonlighting.io']}
+{'org.remote.camera': ['Remote Camera', 'Emparador', '1,000+', 'http://programy.jastrzab.com/', 'emperedorrex@gmail.com']}
+{'photofilter.facecamera.snapchat': ['Sweet Snap Pro - No Ads, Unique Filter & Sticker', '6091442766932589829', '10+', 'http://www.ufotosoft.com', 'wangsh@ufotosoft.com']}
+{'com.gotiacapp.gropo': ['Control for GoPro Hero3 Wear', '9083622143859150505', '1,000+', 'http://www.goticapp.com', 'info@goticapp.com']}
+{'com.enxine.kids.camera': ["Kids' Camera Pro", 'Enxine', '100+', 'http://enxine.com/portfolio/kids-camera/', 'info@enxine.com']}
+{'com.jessdev.donatehdcu': ['Donate HD Camera Ultra', 'Jess+Development', '10,000+', None, 'jessdevelopment@gmail.com']}
+{'net.PikaApp.Camera4kPro': ['Camera 4K Pro - Perfect, Selfie, Video, Photo', '8179630876663812461', '50,000+', 'https://docs.google.com/document/d/e/2PACX-1vQS5y0BvrZauuTUh4Nq49e8gI5d2-j6HElBavOOniSvP4VO0ND1OiCrBa_RsMnOz-c72HQyJsecx8bg/pub', 'pikaapplication@gmail.com']}
+{'com.motion.AbandonedWallpapers4KPRO': ['Abandoned Wallpapers 4K PRO Abandoned Backgrounds', '5005220843709800158', '1,000+', 'http://www.amoledwallpapers.com/', 'Motionwallpapers@gmail.com']}
+{'com.cam.camera4k': ['Camera4K Perfect Selfie Video Photo Editor', 'AKEL', '10,000+', 'http://www.ademkuzu.com', 'ademkuzu@gmail.com']}
+{'com.screwbar.gudakcamera': ['Gudak Cam', 'Screw+Bar+Inc.', '10,000+', 'http://www.screw-bar.com', 'contact@screw-bar.com']}
+{'com.aspiration.loopvidpro': ['Loop Video Pro-Loop vid to GIFs&video to GIF maker', '8723773889149131310', '100+', 'http://aspirationsolutions.com', 'info@aspirationsolutions.com']}
+{'com.jpbrothers.android.pictail.sub1': ['PICTAIL - PinkLady', '7489105120650111643', '50,000+', 'http://www.jp-brothers.com', 'candygirl@jp-brothers.com']}
+{'com.godimage.ghostlens.pro': ['Ghost Lens Pro - Clone & Ghost Photo Video Editor', 'Bigger+Lens+LLC', '500+', 'http://www.biggerlens.com', 'luciuscyx@gmail.com']}
+{'com.arsa.nanodvrpronew': ['Hidden Video Recorder -  Pro Version', '8179638299679516614', '100+', 'https://codemeandroid.wordpress.com/privacy-policy/', 'nanobyteapp@gmail.com']}
+{'com.llamabrain.eyeblinker': ['Eye Blinker', 'Llamabrain+Inc.', '100+', 'http://www.llamabrain.com/', 'dev@llamabrain.com']}
+{'com.andapp.Photo4': ['8mm Cam 360 - Photo Filters', '7066946033472630712', '100+', 'https://itunes.apple.com/us/app/8mm-cam-360-pro-photo-editor/id955336325?mt=8', 'psdcbook@me.com']}
+{'mobi.omegacentauri.SendReduced_pro': ['Send Reduced Pro', 'Omega+Centauri+Software', '1,000+', 'http://pruss.mobi', 'omegacentaurisoftware@gmail.com']}
+{'com.jeyluta.fisheyevideopro': ['FishEyeVideo', 'Yubin+Chen', '1,000+', 'http://www.timestampcamera.com/PrivacyPolicy.html', 'cybfriend@gmail.com']}
+{'com.teapps.goprohdr': ['HDR for Hero Cameras', '7696735658928707700', '100+', 'http://www.mobwheel.com/goprohdr', 'mobapps@mobwheel.com']}
+{'com.jixipix.mokuhanga': ['Moku Hanga', 'JixiPix+Software', '10,000+', 'http://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.jixipix.grungetastic': ['Grungetastic', 'JixiPix+Software', '1,000+', 'http://www.jixipix.com', 'ansupport@jixipix.com']}
+{'com.a54.perspectives': ['Perspective', 'A54Studio', '500+', 'http://A54studio.com', 'a54studio@gmail.com']}
+{'com.snapwood.dropfolio': ['dFolio - Dropbox Photo Gallery and Uploader', 'Snapwood+Photo+and+Upload+Apps', '1,000+', 'http://snapwoodapps.com/dfolio.html', 'snapwoodapps@gmail.com']}
+{'com.novacoast.flirpaint': ['Thermal Paint - FLIROne/CatS60', 'Whale+Tale+Games', '1,000+', 'http://whaletalegames.com', 'ibutler@novacoast.com']}
+{'to.pho.visagelab_pro': ['Visage Lab PRO - face retouch', '6017800222101031429', '10,000+', 'http://android.pho.to', 'support@pho.to']}
+{'com.jpbrothers.android.pictail.sub7': ['PICTAIL - NewYork', '7489105120650111643', '100,000+', 'http://www.jp-brothers.com', 'candygirl@jp-brothers.com']}
+{'com.solezero.android.webimageslideshow': ['Web Image Slideshow', 'SOLEZERO.COM', '10+', 'https://www.toptip.ca/p/web-image-slideshow-android-app.html', 'support@solezero.com']}
+{'com.guerri.federico.stickercreator30': ['Stickers Creator Pro', 'Federico+Guerri', '10,000+', None, 'fede95gg@gmail.com']}
+{'com.minaxsoft.gmonitor': ['GMonitor', 'Minax+Coding+Team', '1,000+', 'https://www.minaxsoft.com', 'minaxsoft@gmail.com']}
+{'com.visualvertigo.threedfpvapp': ['3D FPV for DJI Mavic / Phantom', 'VISUAL+VERTIGO+Software+Technologies+GmbH', '500+', 'http://www.visual-vertigo.com', 'support@visual-vertigo.com']}
+{'com.selfishop.camera.help': ['Selfishop Camera License', 'SoftArtStudio', '5,000+', 'http://www.softartstudio.com', 'denoson@gmail.com']}
+{'com.plstech.pebble_gallery': ['Pebble Gallery', 'PlsTech', '100+', None, 'plstech.taha@gmail.com']}
+{'com.plug.photo.shutter_speed': ['Shutter-Speed', 'Lukas+Fritz', '1,000+', 'http://www.photoplug.de', 'lukasfritz@gmx.net']}
+{'com.dreamers.photo.maskapppremium': ['MaskApp - Photomontage Premium', 'Dreamers', '500+', 'http://www.maskapp.net', 'software.dreamers@gmail.com']}
+{'com.jedisalat.idphotopro': ['ID Photo PRO', 'JediSalat', '500+', 'https://docs.google.com/document/d/1rOdYTdEDxdlEYMArMoJpK80jPhdNBm-eerQyAouxQUE/edit?usp=sharing', 'idphototeam@gmail.com']}
+{'slide.cameraZoom.pack_card_easter': ['Camera ZOOM FX Easter Pack', '8210063275497266236', '500+', 'http://www.androidslide.com', 'admin.androidslide@googlemail.com']}
+{'com.fstopspot.poser': ['Portrait Photography Poses Pro', '5630015230872675658', '1,000+', 'http://fstopspot.com/pocketposer/', 'pocketposer@fstopspot.com']}
+{'com.ascendapps.timestampcamera': ['Camera Timestamp', 'AscendApps', '5,000+', 'http://www.ascendapps.com', 'admin@ascendapps.net']}
+{'com.photo.college.effect.profull': ['Photo Effect Full', '7489345339141897795', '500+', 'http://www.novaradix.com', 'novaradix@gmail.com']}
+{'it.smartphoneapps.jcrenamepro': ['Photos and Files Renamer Pro', 'Fabio+Crovatto', '1,000+', 'http://www.smartphone-apps.it', 'jcrename@smartphone-apps.it']}
+{'cb56.FullScreenPicPro': ['Full Screen Pic PRO', 'cb56', '1,000+', 'http://cb56developer.blogspot.com/', 'cb56@hotmail.it']}
+{'nz.net.flatpossum.goprowifixfer480p': ['GoPro WiFi Media Transfer 480p', 'Flat+Possum', '1,000+', 'http://flatpossum.net.nz', 'info@flatpossum.net.nz']}
+{'in.co.pixeltech.lightningtrigger': ['Lightning Trigger™ App', 'Pixel+Tech', '500+', 'http://www.pixeltech.co.in', 'pixeltechcoin@gmail.com']}
+{'com.eximlabs.pocketAC': ['Pocket AC', 'Exim+Labs', '1,000+', 'http://www.pocketac.com/', 'pocketAC@gmail.com']}
+{'com.moblynx.camerajbplus': ['Camera JB+', 'Moblynx', '10,000+', 'http://www.moblynx.com', 'moblynx.us@gmail.com']}
+{'com.madhavray.watchgallerypro': ['Wear Gallery Pro.', 'MadhavRay', '100+', 'https://sites.google.com/view/weargallerypermission/home', 'madhavray88tech@gmail.com']}
+{'com.motion.milkywayWallpapers4KPRO': ['Milkyway Wallpapers 4K PRO Milkyway Backgrounds', '5005220843709800158', '10,000+', 'http://www.amoledwallpapers.com/', 'Motionwallpapers@gmail.com']}
+{'com.eih.timestamp_gps_camera': ['Timestamp - GPS Camera PRO', '5005220843709800158', '10,000+', 'http://www.amoledwallpapers.com/', 'Motionwallpapers@gmail.com']}
+{'com.vtsoftware.converter2d3dvr': ['VR 2D3D Converter', 'VT+software', '50+', 'https://www.vt-software.eu', 'vtsoftwareservice@gmail.com']}
+{'com.jpbrothers.android.polaroid.sub2': ['Rearca - Pro', '7489105120650111643', '1,000+', 'http://www.jp-brothers.com', 'candygirl@jp-brothers.com']}
+{'com.jpbrothers.android.pictail.sub3': ['PICTAIL - BlueHawaii', '7489105120650111643', '100,000+', 'http://www.jp-brothers.com', 'candygirl@jp-brothers.com']}
+{'com.arsa.nanosvrpronew': ['Secret Video Recorder Pro Unlimited', '8179638299679516614', '100+', 'https://codemeandroid.wordpress.com/privacy-policy/', 'nanobyteapp@gmail.com']}
+{'com.onx.prohero': ['ProHero for GoPro® Cam', 'Adrien+PARIS', '100+', 'http://www.beprohero.com/', 'contact@beprohero.com']}
+{'net.sb_software.hiddencamera': ['Hidden Cam', '6984262481190159331', '500+', 'http://www.sb-software.net', 'support@sb-software.net']}
+{'com.derekr.AngleCamPro': ['AngleCam Pro - Angular Camera', 'Derekr+Corp.', '100+', 'http://anglecam.derekr.com/', 'derekrservice@gmail.com']}
+{'crocus.apps.cambi.pro': ['Cambi Photo Camera', 'Crocus+apps', '100,000+', 'http://crocus-apps.com', 'support@crocus-apps.com']}
+{'com.iioannou.ndcalculator.pro': ['ND Calculator PRO', '7522328388587088193', '100+', 'http://www.ioannisioannou.com', 'contactiioannou@gmail.com']}
+{'com.quarterpi.watermark': ['Watermark', '8081602437182518779', '100+', 'http://www.quarterpi.com', 'support@quarterpi.com']}
+{'com.aimenrg.dofpro': ['DOF Calculator Pro', 'Aimen+RG+Pro', '1,000+', 'http://aimenrg.com', 'info@aimenrg.com']}
+{'com.reallusion.biglens': ['Big Lens', 'Reallusion+Inc.', '10,000+', 'http://app.reallusion.com/biglens.html', 'support@reallusion.com']}
+{'org.jajaz.gallery': ['Gallery (Wear)', 'Jajaz.org', '5,000+', 'http://jajaz.org', 'jajaz.org@gmail.com']}
+{'com.apploftandroid.illumes': ['illumes (Night Camera)', 'Apploft+Studios', '100+', 'http://instagram.com/illumescamera', 'apploftandroid@gmail.com']}
+{'it.jcsoftmobile.snailcamera.snailcamerapro': ['Snail Camera Pro', 'j.cSoftMobile', '100+', 'http://jcsoftmobile.altervista.org/', 'j.csoftmobile@gmail.com']}
+{'ru.neverdark.phototoolsdonate': ['Photo Tools Full', 'Artem+Yankovskiy', '5,000+', None, 'artemyankovskiy@gmail.com']}
+{'com.lyrebirdstudio.tinyplanet': ['Tiny Planet FX Pro', '8117239212302166287', '100,000+', 'http://lyrebirdstudio.net/privacy.txt', 'lyrebirdstudio@gmail.com']}
+{'com.moblynx.cameraicsplus': ['Camera ICS+', 'Moblynx', '50,000+', 'http://www.moblynx.com', 'moblynx.us@gmail.com']}
+{'com.lyrebirdstudio.hdr': ['Photo Editor HDR FX Pro', '8117239212302166287', '10,000+', 'http://lyrebirdstudio.net/app/faux-hdr/', 'lyrebirdstudio@gmail.com']}
+{'com.octoroid.komadori': ['Stop Motion Maker - KomaDori', 'octoroid', '5,000+', 'http://twitter.com/octoroid8', 'octoroid+komadori@gmail.com']}
+{'com.picsart.studio': ['PicsArt Photo Studio: Collage Maker & Pic Editor', '5408830062919995155', '100,000,000+', 'https://picsart.com', 'support@picsart.com']}
+{'com.picstudio.photoeditorplus': ['X Photo Editor - Cartoon Effect & Fashion Makeup', '5518877975164386758', '1,000,000+', 'http://d2prafqgniatg5.cloudfront.net/XPicStudio/XPhotoEditor_privacy.html', 'aiprocessingstudio@gmail.com']}
+{'photo.editor.photoeditor.photoeditorpro': ['Photo Editor Pro', 'InShot+Inc.', '10,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.google.android.apps.photos': ['Google Photos', '5700313618786177705', '1,000,000,000+', 'https://support.google.com/photos', 'apps-help@google.com']}
+{'com.xprodev.cutcam': ['Cut Cut - Cutout & Photo Background Editor', 'Barrier+Reef+Team', '10,000,000+', 'http://privacy.apusapps.com/policy/com_xprodev_cutcam/ALL/en/1331/privacy.html', 'cutcutcut.service@gmail.com']}
+{'com.camerasideas.instashot': ['Video Editor & Photo Editor - InShot', 'InShot+Inc.', '100,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.camera.beautycam': ['Face Filter, Selfie Editor - Sweet Camera', 'ONE+App+Team', '10,000,000+', 'http://cdn.appcloudbox.net/picstudios/apps/camerapro/privacy.html', 'feedback.colorcamera@hotmail.com']}
+{'com.instagram.layout': ['Layout from Instagram: Collage', 'Instagram', '100,000,000+', 'http://instagram.com', 'support+android@instagram.com']}
+{'com.shutterfly': ['Shutterfly: Free Prints, Photo Books, Cards, Gifts', 'Shutterfly,+Inc', '5,000,000+', 'http://www.shutterfly.com/mobile', 'androidsupport@cs.shutterfly.com']}
+{'com.adobe.psmobile': ['Adobe Photoshop Express:Photo Editor Collage Maker', '4734916851270416020', '100,000,000+', 'http://www.adobe.com/privacy/policy.html', 'PSX-Feedback@adobe.com']}
+{'com.adobe.lrmobile': ['Adobe Lightroom CC', '4734916851270416020', '10,000,000+', 'https://www.adobe.com/products/photoshop-lightroom.html', 'LrAndroid-Feedback@adobe.com']}
+{'photocollage.photoeditor.collagemaker': ['Collage Maker - photo collage & photo editor', 'InShot+Inc.', '10,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.pic.mycamera': ['Selfie Camera - Beauty Camera & Photo Editor', '7153679079505837871', '50,000,000+', 'https://dreamilyswimmingwizard.tumblr.com/post/158662658467/privacy-policy', 'photoartiststudio@outlook.com']}
+{'com.instagram.boomerang': ['Boomerang from Instagram', 'Instagram', '100,000,000+', 'http://instagram.com', 'support+android@instagram.com']}
+{'com.photoeditor.videopiccollage': ['Photo Editor: Pic Collage', 'Photo-Editor+Pro', '10,000+', 'http://bit.ly/2MFXNHX', 'photocollagepro2019@gmail.com']}
+{'photoeditor.photocollage.collageframepro': ['Pic Collage Frame - Photo Collage Maker PicEditor', 'fly+team', '100,000+', 'http://47.91.139.139/Policy/Android/CollageFramePro/PrivacyPolicy.html', 'leijunguo85@gmail.com']}
+{'gr.pixelab.sketch': ['Sketch Camera', 'Pixelab', '5,000,000+', 'https://mysystemgroup.000webhostapp.com/pixelab_policy.html', 'pixelab@isystem.gr']}
+{'com.vsco.cam': ['VSCO', '5032127892134861949', '50,000,000+', 'http://vsco.co', 'support@vsco.co']}
+{'com.pic.pipcamera': ['PIP CAM - Photo Maker', '7153679079505837871', '10,000,000+', 'https://pictoolsgroup.tumblr.com/post/157522018949/privacy-policy-of-pic-tools-group-photo-editor', 'wongcti12214@gmail.com']}
+{'com.pixlr.express': ['Pixlr – Free Photo Editor', '123RF', '50,000,000+', 'http://pixlr.com', 'info@pixlr.com']}
+{'com.pic.photoeditor': ['Photo Editor - Beauty Camera & Photo Filters', '7153679079505837871', '50,000,000+', 'https://delicatelykeenmilkshake.tumblr.com/post/157351060150/privacy-policy-of-photo-editor', 'wongcti12214@gmail.com']}
+{'video.editor.videoeditor.videomaker': ['Video Editor Pro', '7919802900964223526', '100,000+', 'https://plus.google.com/116794250597377070773/posts/SYoEZWDm77x', 'fantasyllc2018@gmail.com']}
+{'com.photoaffections.freeprints': ['FreePrints – Free Photos Delivered', 'PlanetArt', '1,000,000+', 'http://www.freeprints.com', 'support@freeprintsapp.com']}
+{'com.dailyselfie.newlook.studio': ['Sweet Camera - Selfie Filters, Beauty Camera', '8095884964308210606', '50,000,000+', 'https://oneappteamcamera.weebly.com/', 'feedback.s.camera@outlook.com']}
+{'com.amazon.clouddrive.photos': ['Amazon Photos', 'Amazon+Mobile+LLC', '10,000,000+', 'http://www.amazon.com/CloudDrive', 'clouddrive-android-feedback@amazon.com']}
+{'com.lightricks.facetune.free': ['Facetune - Selfie Photo Editor for Perfect Selfies', 'Lightricks+Ltd.', '5,000,000+', 'http://www.facetuneapp.com/index.html', 'android@facetuneapp.com']}
+{'com.niksoftware.snapseed': ['Snapseed', '5700313618786177705', '50,000,000+', 'https://support.google.com/snapseed', 'apps-help@google.com']}
+{'com.handycloset.android.eraser': ['Background Eraser', 'handyCloset+Inc.', '10,000,000+', 'https://support.en.handycloset.app/2018/09/privacy-policy.html', 'support_android@handycloset.com']}
+{'com.roidapp.photogrid': ['PhotoGrid: Video & Pic Collage Maker, Photo Editor', 'Cheetah+Mobile+%28Photo+Editor%29', '100,000,000+', 'http://www.cmcm.com/en-us/photo-grid/', 'photogrid@cmcm.com']}
+{'com.cyberlink.youcammakeup': ['YouCam Makeup - Magic Selfie Makeovers', '5286790089270932286', '100,000,000+', 'http://www.perfectcorp.com/', 'YouCamMakeup_android@perfectcorp.com']}
+{'photoeditor.layout.collagemaker': ['Collage Maker - Photo Editor & Photo Collage', 'InShot+Inc.', '10,000,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.asurion.android.mediabackup.vault.sprint': ['Sprint Complete Storage', 'Sprint', '100,000+', 'https://protection.sprint.com/', 'CompleteStorageSupport@asurion.com']}
+{'pixelab.camart.cartoon': ['cartoon camera', 'Pixelab', '1,000,000+', 'http://www.isystemgroup.org/pixelab_policy.html', 'pixelab@isystem.gr']}
+{'com.rocasoftware.camerazoom': ['Camera Zoom - Zoom Enhancer', 'Roca+Software+Apps', '1,000,000+', 'http://www.facebook.com/roca.software.sv', 'roca.software.sv@gmail.com']}
+{'camera.photo.beauty.editor': ['Fancy Photo Editor - Collage, Sticker, Makeup', 'i+Dev.', '5,000,000+', 'https://docs.google.com/document/d/12lDFzBXj52CqKmm6Vj4uNfnEkWRQBZ95dHXoWfZKIO8/edit?ts=5b57f5f3', 'woniuhudong@gmail.com']}
+{'com.google.android.apps.photos.scanner': ['PhotoScan by Google Photos', '5700313618786177705', '10,000,000+', 'https://support.google.com/photos?p=scan_help', 'apps-help@google.com']}
+{'com.cardinalblue.piccollage.google': ['PicCollage - Free Photo Grid Editor Fonts Stickers', '9190674693874246066', '50,000,000+', 'http://pic-collage.com/', 'support@piccollage.com']}
+{'com.iart.camera.photo': ['iArt Camera: Art Effects & Multiple Exposure', 'Voyage+Photo+Lab', '1,000,000+', 'http://resource.cdn.bbcget.com/iArtworkshop/iArtcamera_privacy.html', 'com.iart.camera.photo@gmail.com']}
+{'com.darkcube.binnm': ['Binoculars Night Mode (45x zoom)', '9104794895434837838', '1,000,000+', 'https://sites.google.com/view/darkcubeapps', 'nat.afonina2018@gmail.com']}
+{'com.photoappworld.cut.paste.photo': ['Cut and Paste photos', '6475314061831648652', '1,000,000+', 'http://www.photoappworld.com', 'support@photoappworld.com']}
+{'com.duowan.supervideo': ['Noizz', 'Augus', '1,000,000+', 'https://www.noizztv.com', 'noizztv@gmail.com']}
+{'io.faceapp': ['FaceApp', 'FaceApp+Inc', '10,000,000+', 'http://www.faceapp.com', 'support.android@faceapp.com']}
+{'com.appsbaba.binocularcamera': ['Night Vision Camera', 'appsbaba', '500,000+', 'http://www.appsbaba.com', 'appsbaba2018@gmail.com']}
+{'selfie.photo.apps.facemaskcamera': ['Anonymous Face Mask', 'Selfie+Photo+Apps', '50,000+', 'https://docs.google.com/document/d/17Phqvzwfe8vS4XNvMmuZzrd_gKetfiFNFV2844nr1vw/edit?usp=sharing', 'selfiephotoapps@gmail.com']}
+{'com.appwallet.faceprojector': ['Face Projector Editor : Photo Projector Editor App', 'Appwallet+Technologies', '1,000,000+', 'http://www.appwallettech.com', 'appwallettechnologies@gmail.com']}
+{'vsin.t16_funny_photo': ['Photo Lab Picture Editor: face effects, art frames', '6017800222101031429', '100,000,000+', 'http://android.pho.to', 'support@pho.to']}
+{'best.photo.app.besthairstyles': ['Best Hairstyles', 'Best+Photo+Apps', '1,000,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.fujifilm.wifi': ['Fujifilm Kiosk Photo Transfer', 'Fujifilm+North+America+Corp', '1,000,000+', 'http://myfujifilmkiosk.com/', 'fnacappsupport@fujifilm.com']}
+{'com.adobe.photoshopmix': ['Adobe Photoshop Mix - Cut-out, Combine, Create', '4734916851270416020', '10,000,000+', 'http://www.adobe.com/products/mix.html', 'PSMix-Android@adobe.com']}
+{'com.linecorp.b612.android': ['B612 - Beauty & Filter Camera', 'SNOW,+Inc.', '100,000,000+', 'http://b612.snow.me/', 'line-support@line.me']}
+{'com.photovideozone.colorsplash': ['Color Splash Photo Effect', '8011527337429819776', '1,000,000+', 'http://photovideozone.com/admin/policy.html', 'photovideozone701@gmail.com']}
+{'com.gopro.smarty': ['GoPro', 'GoPro', '10,000,000+', 'http://gopro.com/contact-us', 'support@gopro.com']}
+{'com.redart.man.fit.body.photo.editor': ['Man Fit Body Photo Editor : Man Abs Editor', 'Red+Art+Photo+Studio', '500,000+', 'https://sites.google.com/site/privacypolicyredart/', 'redartphotodeveloper@yahoo.com']}
+{'com.hqgames.pencil.sketch.photo': ['Pencil Photo Sketch-Sketching Drawing Photo Editor', 'Minerva+Studios+Private+Limited', '10,000,000+', 'https://sites.google.com/view/pencilphotosketch/home', 'hqgames1080@gmail.com']}
+{'com.pic.collagemaster': ['Photo Collage – Photo Editor & Pic Collage Maker', '7153679079505837871', '10,000,000+', 'https://pictoolsgroup.tumblr.com/post/157522018949/privacy-policy-of-pic-tools-group-photo-editor', 'wongcti12214@gmail.com']}
+{'com.pixels.camera.beauty.sticker': ['Pixels Beauty Camera 2019', 'Camera+Beauty+Pro+-++2019', '500,000+', 'https://www.thinkpacifica.com/privacy/', 'beautycamera@outlook.com']}
+{'com.royale.challenge.dances.battle': ['Dance Challenge Battle Royale', 'Forobarcos', '100,000+', 'https://www.iubenda.com/privacy-policy/94573600', 'mdmgarbnk@gmail.com']}
+{'com.adobe.adobephotoshopfix': ['Adobe Photoshop Fix', '4734916851270416020', '10,000,000+', 'http://www.adobe.com/products/fix.html', 'PSFix-Feedback-Android@adobe.com']}
+{'com.cateater.stopmotionstudio': ['Stop Motion Studio', '7791776099225258043', '5,000,000+', 'http://www.cateater.com', 'support@cateater.com']}
+{'com.photoaffections.wrendaus': ['FreePrints Photobooks  –  Free book every month', 'PlanetArt', '1,000,000+', 'http://www.photoaffections.com', 'pbsupport@freeprintsapp.com']}
+{'com.jsdev.instasize': ['InstaSize: Photo Editing Made Easy', '5679077225552137504', '50,000,000+', 'http://instasize.com%20', 'instasize@munkee.co']}
+{'com.aerotools.photo.sketch.maker.editor': ['Photo Sketch Maker', '7621580035006571828', '1,000,000+', 'https://aerotools.wordpress.com/about/', 'aerophototools@gmail.com']}
+{'com.coolapps.artfulphotoblend': ['Artful Photo Blend', 'Photo+Cool+Apps', '500,000+', 'https://photocoolapps.wordpress.com', 'photocoolapps@gmail.com']}
+{'com.tpas.neon.animals.wallpaper.moving.backgrounds': ['Neon Animals Wallpaper Moving Backgrounds', '7938158485537087527', '1,000,000+', 'https://thaliadev.wixsite.com/thaliaapps', 'thaliasandracorner@gmail.com']}
+{'com.streamlabs': ['Streamlabs - Stream Live to Twitch and Youtube', 'Stream+labs', '1,000,000+', 'https://streamlabs.com', 'support@streamlabs.com']}
+{'com.fotoable.cartoon.cam': ['Cartoon Art Pics Photo Editor', 'Fotoable,Inc.', '5,000,000+', 'http://www.fotoable.com', 'zhengliling@fotoable.com']}
+{'com.lightx.storyz': ['StoryZ Photo Motion & Cinemagraph', 'Andor+Communications+Pvt+Ltd', '1,000,000+', 'https://www.storyzapp.com/privacy_policy.html', 'andorcommunications@gmail.com']}
+{'com.pipcamera.activity': ['PIP Camera-Photo Editor Pro', 'Fotoable,Inc.', '100,000,000+', 'http://fotoable.com', 'weiyameng@fotoable.com']}
+{'com.photo.bestbeautycamera': ['Best Beauty Camera', 'Summer+Mobile+Studio', '1,000,000+', 'http://www.kungfu365.com/best/src/policy.html', 'rosshuang666@gmail.com']}
+{'com.moonlab.unfold': ['Unfold — Create Stories', 'Unfold+Creative+LLC', '5,000,000+', 'http://www.unfoldstori.es', 'hello@unfold.us']}
+{'best.photo.app.pinkhair': ['Pink Hair', 'Best+Photo+Apps', '500,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'hd.camera': ['HD Camera', '6776354245234746269', '10,000,000+', 'https://hd-camera.weebly.com/', 'nice_team@foxmail.com']}
+{'com.pavahainc.bracescamera': ['Braces Camera', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.meihillman.photocollage': ['Photo Collage Editor', 'MeiHillMan', '10,000,000+', 'http://privacypolicy-meihillman.blogspot.com', 'meihillman0831@gmail.com']}
+{'com.planetart.fptiles.ww': ['FreePrints Photo Tiles', 'PlanetArt', '500,000+', 'http://www.freephototiles.com', 'ptsupport@freeprintsapp.com']}
+{'com.smartgalleryllc.photogallery': ['Photo Gallery', 'Gallery+LLC', '1,000,000+', 'https://delightapps.wordpress.com/', 'galleryllc195@gmail.com']}
+{'girls.photo.editor.apps.girlsherocostume': ['Girl Hero Costume - Princess Dress & Makeup', 'Girls+Photo+Editor', '100,000+', 'https://docs.google.com/document/d/15mznIkEAl4n2M-u5WW2-3CwIbjI5lMkWwb0DinUfRUI/edit?usp=sharing', 'girls.photo.editor.apps@gmail.com']}
+{'bestfreelivewallpapers.funny_photo_editor': ['Funny Photo Editor', 'Visu+Entertainment', '10,000,000+', 'https://sites.google.com/site/visuentertainment/privacy-policy', 'visuentertainment@gmail.com']}
+{'com.simplemobilephotoresizer': ['Photo & Picture Resizer', 'farluner+apps+%26+games', '10,000,000+', 'http://www.simpleimageresizer.com', 'farluner@gmail.com']}
+{'com.triciaapps.photoframes.PhotoFramesLove': ['Photo Frames Love', '7238397895237322423', '500,000+', 'https://sites.google.com/view/triciaappspolicy', 'surcotricia@gmail.com']}
+{'com.flambestudios.picplaypost': ['PicPlayPost - Photo & Video Collage Maker Editor', 'Mixcord+Inc', '5,000,000+', 'http://www.mixcord.co', 'support@mixcord.co']}
+{'com.lab.sketcheffect': ['Sketch Photo  Maker', '4990275998009813533', '500,000+', 'http://blackbuckstudio.blogspot.com/2018/10/privacy-policy-blackbuck-studio-built_16.html', 'mahmaniya22@gmail.com']}
+{'com.picadelic.moshow': ['MoShow - Slideshow Movie Maker', '6605831940140622570', '1,000,000+', 'https://www.picadelic.com', 'support@picadelic.com']}
+{'com.axiemsystems.photoeditorminus': ['Photo Editor-', 'Axiem+Systems', '5,000,000+', 'http://axiemsystems.com', 'support@axiemsystems.com']}
+{'photo.camera.hdcameras': ['Camera for Android', 'App+Camera,+Inc.', '10,000,000+', 'https://github.com/andrioper/android_permission/wiki/Camera-for-Android', 'wuxm2014@gmail.com']}
+{'com.imaginstudio.imagetools.pixellab': ['PixelLab - Text on pictures', 'App+Holdings', '10,000,000+', 'http://appholdings.org/privacypolicy.html', 'imaginstudio.apps@gmail.com']}
+{'com.morningshine.autocutpaste': ['Auto Photo Cut Paste', 'photoshop+mobile+apps', '1,000,000+', 'https://photoshopmobileapps.wordpress.com/', 'ankitdeveloperpbh@gmail.com']}
+{'com.psd2filters.trippyeffects': ['Trippy Effects- Digital Art & Aesthetic Filters', 'James+Thomas+Carter', '1,000,000+', 'http://psd2filter.com/site/landing/privacy_policy', 'comforttransit@gmail.com']}
+{'photo.editor.photoeditor.filtersforpictures': ['Photo Editor, Filters for pictures - Lumii', 'InShot+Inc.', '500,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.youcam.selfiefilters.makeup': ['Face Makeup Camera & Beauty Photo Makeup Editor', 'Alex+Joe', '1,000,000+', 'http://bit.ly/2Rdux08', 'alexjoe2309@gmail.com']}
+{'com.nikon.snapbridge.cmru': ['SnapBridge', 'Nikon+Corporation', '1,000,000+', 'http://imaging.nikon.com/', 'Snapbridge.App@nikon.com']}
+{'com.energysh.onlinecamera1': ['MagiCut - Auto Cut Paste Photo Editor', 'Cut+Out+Photo+Editor+%26+Photo+Maker+Studio', '1,000,000+', 'https://docs.google.com/document/d/1b8MM7ZI4qcn6vynDABaZtpg2XBwtxRUzEHgGBdzR0Fs/pub', 'malick.aiqi@gmail.com']}
+{'com.bigbeardevapps.photofunnybaby': ['Baby Photo Montage', 'Big+Bear+Dev', '100,000+', 'https://bigbeardev.wordpress.com/', 'bigbeardevapps@gmail.com']}
+{'com.SimplyEntertaining.addwatermark': ['Add Watermark on Photos', 'Simply+Entertaining', '500,000+', 'http://www.simplyentertaining.us', 'Simplyentertaining1@gmail.com']}
+{'com.logopit.thumbnailMaker': ['Thumbnail Maker', '7819119204962676474', '1,000,000+', 'http://logopit.net', 'contact@logopit.net']}
+{'best.photo.app.babyphotostickers': ['Tootsie Baby Photo', 'Best+Photo+Apps', '50,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.gamebrain.cartoon': ['Cartoon Photo Editor', 'Game+Brain', '10,000,000+', 'https://mysystemgroup.000webhostapp.com/gamebrain_policy.html', 'gamebrain@isystem.gr']}
+{'com.mariia.venom': ['Venom Wallpaper HD 2018', 'Mariia+Maksimova', '100,000+', None, 'mariiamaksimova05@gmail.com']}
+{'com.enchantedcloud.photovault': ['Private Photo Vault', 'Legendary+Software+Labs+LLC', '5,000,000+', 'https://privatephotovault.com', 'support@privatephotovault.com']}
+{'com.americanapps.magnifier': ['Magnifier Free - Magnifying Glass - Flashlight', 'Roca+Software+Apps', '100,000+', 'https://www.facebook.com/roca.software.sv', 'roca.software.sv@gmail.com']}
+{'photo.editor.polarr': ['Polarr Photo Editor', '6529370066455570332', '5,000,000+', 'https://www.polarr.co/', 'support@polarr.co']}
+{'com.atomicadd.fotos': ['A+ Gallery - Photos & Videos', 'AtomicAdd+Team', '10,000,000+', 'https://atomicadd.com', 'support@atomicadd.com']}
+{'com.total.photostudio': ['Total Photo Studio', '6472532994656970792', '5,000,000+', 'https://s3-us-west-2.amazonaws.com/atomobi/policy.html', 'photoartiststudio@outlook.com']}
+{'com.iudesk.android.photo.editor': ['Photo Editor', 'dev.macgyver', '50,000,000+', 'https://www.iudesk.com/', 'dev.photoeditor@gmail.com']}
+{'com.meepo.instasave': ['InstaSave - Instagram photo and video downloader', 'MeepoDev', '100,000+', 'https://dwz.cn/ki3FeFic', 'dev.meepo@gmail.com']}
+{'com.smart3dgallery.trend': ['Pro 3D Smart Gallery', 'Zeus+INC', '500,000+', 'https://docs.google.com/document/d/1yWb0j87ux3Ej-8_I9AAIlX-s8WMogV0wcmmTSHr1VFQ/edit', 'soaringapps@gmail.com']}
+{'best.photo.app.rangerphoto': ['Rangers Costume Photo Montage', 'Best+Photo+Apps', '1,000,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.BestPhotoEditor.QuotesMaker': ['Quotes Maker', '8814226609646914318', '100,000+', 'https://bestphotoeditor.wordpress.com/privacy-policy/', 'lorenteraware@gmail.com']}
+{'its.myapps.haircolorchanger': ['Hair Color Changer Real', '6576118876020305173', '10,000,000+', 'https://sites.google.com/site/itsmyappsreal/', 'itsmyapps.com@gmail.com']}
+{'com.musicvideo.photoeditor.squarefit': ['Square Blur- Blur Image Background Music Video Cut', 'CameraStudiopro', '500,000+', 'http://119.28.31.90/Policy/Android/SquareFit/PrivacyPolicy.html', 'photo2labs@gmail.com']}
+{'com.spectrum.telescope': ['Telescope OPTI. 45x zoom /Photo And Video/', '7902364016979977775', '500,000+', 'http://spectrumdi.info/privacy_policy.html', 'spectrum.di.store@gmail.com']}
+{'com.pavahainc.magazinecover2': ['Magazine Cover Maker - Photo Superstar Fake Style', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.postermaster.postermaker': ['Poster Maker, Flyer Designer, Ads Page Designer', 'stylish+app+world', '100,000+', 'https://sites.google.com/view/stylish-app-world', 'divyeshkhunt@gmail.com']}
+{'com.pavahainc.superpowereffectsphotomontage': ['Superpower Effects Photo Montage', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.eabdrazakov.photomontage': ['Cut Paste Photo Seamless Edit', 'Photo2Photo', '10,000,000+', 'https://docs.google.com/document/d/1OECPlmKCw6ePc2Ln6TapDSwLAJMYiYjt9lmzE1cbyH8/edit', 'eldariof@gmail.com']}
+{'photoeditor.snapgrid.photocollage': ['Snap Collage Maker - Sticker, Filter Selfie Editor', 'fly+team', '100,000+', 'http://47.91.139.139/Policy/Android/SnapGrid/PrivacyPolicy.html', 'leijunguo85@gmail.com']}
+{'com.campmobile.snow': ['SNOW - Beauty & makeup camera', 'SNOW,+Inc.', '50,000,000+', 'https://snow.me', 'support@snow.me']}
+{'com.sk.thumbnailmaker': ['Ultimate Thumbnail Maker: Youtube Thumbnail Maker', 'Nilesh+Jain', '100,000+', 'https://sites.google.com/view/3martians', 'nilesh.sanghavi92@gmail.com']}
+{'com.kinteks.xhdcamera': ['HD Camera', 'kimteks+Inc.', '10,000,000+', 'http://kimteksinc.blogspot.com.tr/2017/03/permissions-camera-permission-required.html', 'procamaraaps@gmail.com']}
+{'vn.remove.photo.content': ['Remove Unwanted Object', '6392356590982227555', '1,000,000+', 'https://dslrcamerastudio.wordpress.com', 'blurbackgroundstudio@gmail.com']}
+{'com.maros.gallery': ['Gallery Plus', '7415335330373355244', '100,000+', 'http://fxmagic-studio.blogspot.com/2017/11/fx-magic-studio-privacy-policy-your.html', 'apps.maros@gmail.com']}
+{'com.wombatica.facewarp': ['Face Warp', '8362224284024253047', '5,000,000+', 'http://wombatica.com', 'apps@wombatica.com']}
+{'swifty.photoblender': ['Multiple Photo Blender Double Exposure', 'Productivity+And+Tool+Developer', '1,000,000+', 'http://productivityandtooldeveloper.blogspot.in/', 'hp59601@gmail.com']}
+{'com.pavahainc.heavenframesforpictures': ['Heaven Frames for Pictures', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.filters.motion.live.face.sticker.stickers': ['Live Face Sticker – Sweet Camera with Live Filter', 'Face+Sticker+And+Sweet+Camera', '1,000,000+', 'https://facesticker.wordpress.com/', 'facesticker.broxa33@gmail.com']}
+{'com.wrongturn.magicphotolab': ['Photo Lab - Photo Art and Effect', 'WrongTurn+Apps', '1,000,000+', 'https://wrongturnapps.wordpress.com/privacy-policy/', 'wrongturnapps@gmail.com']}
+{'jack.martin.mykeyboard.myphotokeyboard': ['My Photo Keyboard', 'Jack+Martin+Apps', '10,000,000+', 'http://jackinfotech.in/privacy_policy.html', 'jackmartin7078@gmail.com']}
+{'toolappbasket.multiplephotoblender': ['Multiple Photo Blenders', 'Tool+App+Basket', '100,000+', 'https://toolappbasket.blogspot.com/', 'toolappbasket@gmail.com']}
+{'com.ffff.glitch': ['Glitcho - Glitch Video & Photo Editor', 'The+FFFF+Studio', '100,000+', 'https://docbaoonline24h.com/games/privacy', 'the.ffff.studio@gmail.com']}
+{'com.touchnote.android': ['TouchNote: Cards & Gifts', 'TouchNote+Ltd', '1,000,000+', 'https://www.touchnote.com', 'help@touchnote.com']}
+{'com.fabbyhair.android': ['Fabby Look — hair color changer & style effects', 'Research+at+Google', '1,000,000+', 'https://www.fab.by/', 'play@aimatter.com']}
+{'image.photoedit.photogallery': ['Photo Gallery HD & Editor', 'iJoysoft', '1,000,000+', 'https://s3.amazonaws.com/ijoysoftprivacy/AppPrivacy.txt', 'smartchen2015@gmail.com']}
+{'com.snaperfect.inframe1': ['InFrame - Photo Editor & Pic Frame', 'InFrame+Inc.', '1,000,000+', 'http://inframeapp.com', 'snaperfect@gmail.com']}
+{'com.adobe.creativeapps.gather': ['Adobe Capture CC', '4734916851270416020', '1,000,000+', 'http://www.adobe.com/', 'Adobe-Capture-Feedback@adobe.com']}
+{'com.pavahainc.skullfacecamera': ['Skull Face Camera', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'ru.roadar.dpth': ['DPTH', 'RoadAR,+Inc.', '10,000+', 'http://dpth.app', 'info@roadar.ru']}
+{'best.photo.app.princessphoto': ['Princess Photo', 'Best+Photo+Apps', '1,000,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.toh.hdcamera': ['HD Camera +', 'Best+App+-+Top+Droid+Team', '1,000,000+', 'https://sites.google.com/view/hd-camera-privacy', 'talentdroidteam@tohsoft.com']}
+{'com.irisstudio.photomixer': ['Ultimate Photo Blender / Mixer', 'Iris+Studios+and+Services', '5,000,000+', 'https://irisstudioprivacypolicy.wordpress.com', 'Iris.Studio51515@gmail.com']}
+{'com.modiface.haircolorstudio.free': ['Hair Color Studio', 'ModiFace', '10,000,000+', 'http://modiface.com/', 'support@modiface.com']}
+{'vStudio.Android.Camera360': ['Camera360: Selfie Photo Editor with Funny Sticker', '7074450904720558835', '100,000,000+', 'http://www.camera360.com/privacy_en.html', 'support@pinguo.us']}
+{'com.mixtiles.android': ['Mixtiles', 'Mixtiles', '1,000,000+', 'http://www.mixtiles.com/', 'hi@mixtiles.com']}
+{'com.joeware.android.gpulumera': ['Candy Camera - selfie, beauty camera, photo editor', '7489105120650111643', '100,000,000+', 'http://www.jp-brothers.com', 'candygirl@jp-brothers.com']}
+{'pl.netigen.photoeditor.unicorn': ['Unicorn Photo Editor', '7501858847402947482', '100,000+', 'http://unicorn.netigen.pl/', 'mobile@netigen.pl']}
+{'com.rcplatform.nocrop': ['No Crop & Square for Instagram', '7983076240713157601', '10,000,000+', 'http://www.facebook.com/rcplatform2014', 'rcplatform.help@gmail.com']}
+{'beauty.hut.magic.selfie.makeovers.beauty.camera': ['Magic Selfie Makeovers-Beauty Camera', 'Beauty+Hut', '100,000+', 'https://beautyhutprivacypolicy.weebly.com/', 'beautyhutofficial@gmail.com']}
+{'com.pavahainc.graffiticreator': ['Graffiti Creator', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.gamma.photoeditor': ['Photo Editor PRO', '7739323866949324662', '1,000,000+', 'http://www.gammaplay.com/', 'gammaplay.com@gmail.com']}
+{'com.best.photo.app.boyhairchanger': ['Boy Hair Changer', 'Best+Photo+Apps', '5,000,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.vt.calligraphy': ['Calligraphy Name', 'VinTool+Studio', '100,000+', 'http://45.63.22.220/policy/policy.html', 'vintooleditor@gmail.com']}
+{'best.photo.app.unicornphoto2': ['Unicorn Photo Game', 'Best+Photo+Apps', '500,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.appwallet.backgroundremoverpro': ['Background Remover Pro : Background Eraser changer', 'Appwallet+Technologies', '5,000,000+', 'http://www.appwallettech.com', 'appwallettechnologies@gmail.com']}
+{'com.petales.fonts': ['500 fonts - Add Text to Photo', '8127418737583233594', '1,000,000+', 'https://sites.google.com/view/petalesprivacypolicy', 'info.petales@gmail.com']}
+{'com.nand.addtext': ['Add Text on Photo: Typography Design, 800+ Fonts', 'Gabo+Apps', '1,000,000+', 'https://addtextblog.wordpress.com/privacy-policy/', 'add.text.feedback@gmail.com']}
+{'com.ram.kidsphotoframes': ['Kids Photo Frames', 'RamkumarApps', '1,000,000+', 'http://ramkumarapps.com/RamkumarAppsPrivacyPolicy.html', 'ram.inspire25@gmail.com']}
+{'com.picmax.cupace': ['Cupace - Cut and Paste Face Photo', 'Picmax', '1,000,000+', 'http://ivanharsono.com', 'ivanharson@gmail.com']}
+{'com.fotoable.selfieplus': ['Beauty Camera Photo Editor', 'Fotoable,Inc.', '10,000,000+', 'http://www.fotoable.com/privacy.html', 'support@fotoable.com']}
+{'com.pavahainc.cyborgcameraphotoeditor': ['Cyborg Camera Photo Editor', 'Pavaha+Lab', '500,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.MinniMousePhotoStickers.CutePhotoEditor': ['Minni Mouse Photo Stickers', 'Little+Oasis+Apps+for+Kids+and+Adults', '1,000,000+', 'https://lukozi00.wixsite.com/littleoasisapps', 'slepiimis1988@gmail.com']}
+{'com.piupiuapps.photobaby': ['Baby Photo Editor', 'Piu+Piu+Apps', '500,000+', 'http://piupiuapps.com', 'piupiuapps@gmail.com']}
+{'com.mt.mtxx.mtxx': ['Meitu – Beauty Cam, Easy Photo Editor', 'Meitu,+Inc.', '10,000,000+', 'https://api.meitu.com/privacy-policy/index.html?lang=en', 'app@meitu.com']}
+{'com.picmonkey.picmonkey': ['PicMonkey Photo Editor: Design, Touch Up, Filters', 'by+PicMonkey', '1,000,000+', 'https://www.picmonkey.com/mobile-app', 'googleplay@picmonkey.com']}
+{'com.ryzenrise.storyart': ['StoryArt - story creator for instagram', 'ryzenrise', '1,000,000+', 'http://www.wisharcbuilder.com', 'ryzengchang@gmail.com']}
+{'photo.android.hd.camera': ['HD Camera for Android', 'Mobile_V5', '10,000,000+', 'https://s3.amazonaws.com/appprivacy/HDCameraPrivacyPolicy.txt', 'tingstudio.dev@gmail.com']}
+{'com.foap.android': ['Foap - sell your photos', 'Foap+AB', '1,000,000+', 'http://www.foap.com', 'info@foap.com']}
+{'com.ilixa.mirror': ['Mirror Lab', 'Ilixa', '1,000,000+', 'http://ilixa.com', 'contact@ilixa.com']}
+{'com.wecut.vapor': ['VaporCam-Vintage Camera, Vaporwave Profile Picture', 'WecutCentury+Inc.', '1,000,000+', 'http://vaporcam.wecut.com', 'appwecut@gmail.com']}
+{'com.vysionapps.faceswap': ['Face Swap - Photo Face Swap', 'VysionApps', '10,000,000+', 'https://www.iubenda.com/privacy-policy/7831612', 'vysionapps@gmail.com']}
+{'com.scoompa.slideshow': ['Scoompa Video - Slideshow Maker and Video Editor', 'Scoompa', '10,000,000+', 'http://www.scoompa.com', 'contact+sm@scoompa.com']}
+{'com.pcvirt.ImageEditor': ['Image Editor', 'Byte+Mobile', '10,000,000+', 'http://byteexperts.com', 'contact@byteexperts.com']}
+{'io.moonlighting.painnt': ['Painnt - Pro Art Filters', '6946543381545334426', '5,000,000+', 'http://moonlighting.io/painnt', 'feedback@moonlighting.io']}
+{'photo.smile.red.eyes.changer.color': ['FoxEyes - Change Eye Color by Real Anime Style', '8472459119037168027', '1,000,000+', 'https://sites.google.com/site/gamesmilestudio/home', 'gamesmilestudio@gmail.com']}
+{'com.kodakalaris.kodakmomentsapp': ['KODAK MOMENTS: Create premium prints & photo gifts', 'Kodak+Alaris+Inc.', '1,000,000+', 'https://www.kodakmoments.com/', 'james.hargreaves@kodakalaris.com']}
+{'com.yahoo.mobile.client.android.flickr': ['Flickr', '5536369398281991413', '10,000,000+', 'https://www.flickr.com', 'flickrandroidapp-feedback@oath.com']}
+{'vhs.vaporwave.glitcheffects.glitchphotoeditor': ['Glitch Photo Editor -VHS, glitch effect, vaporwave', 'InShot+Inc.', '100,000+', 'http://www.myinstashot.com/privacypolicy.html', 'cameras.ideas@gmail.com']}
+{'com.pixel.forall.magicframe': ['Magic Photo Frames', 'Neev+Infotech', '1,000,000+', 'https://neev-infotech.000webhostapp.com/', 'neevinfotech441@gmail.com']}
+{'com.pavahainc.magicoverlay': ['Magic Effects for Pictures', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.photo.prettymakeup.photoeditor.snappycamera': ['Makeup Photo Editor: Makeup Camera & Makeup Editor', '5031823138188911337', '5,000,000+', 'https://sites.google.com/view/videodownloaderinst', 'cutpastephotostore@gmail.com']}
+{'com.LittlePonyMakeoverCameralollipop': ['Little Pony Makeover Camera', 'Lollipop+Apps+Network', '100,000+', None, 'lollipopapps6486@gmail.com']}
+{'com.evsoft.photoshoot.fun2': ['Fun Photo Camera 2', '8378617178875547862', '1,000,000+', 'http://evsoftapps.com', 'evsimages@gmail.com']}
+{'com.outthinking.photoeditorformen': ['Handsome : Men Editor, Hair Styles, Mustache, Abs', 'ANDROID+PIXELS', '5,000,000+', 'http://www.outthinkingindia.com/privacy-policy/', 'androidpixels@gmail.com']}
+{'com.collagemaker.photoeditor.photoeffect.photogrid.stickers': ['Photo Collage - Photo Editor & Pic Collage', 'wing+team', '50,000+', 'https://shimo.im/docs/jl9ImCUsxfcR4ceK/', 'wingcheung612@gmail.com']}
+{'com.photoeditor.freecameraeffects': ['Photo Editor for Android™', '5897884894800312966', '1,000,000+', 'https://www.facebook.com/appsforIG', 'appsforig@gmx.com']}
+{'com.gif.gifmaker': ['GIF Maker - Video to GIF, GIF Editor', 'NVGCode', '100,000+', 'https://nvgcode.wordpress.com/2018/06/06/gif-maker-privacy-policy/', 'nvgcode@gmail.com']}
+{'com.instaeditor.treeframescollage': ['Tree Photo Frames', 'Insta+Image+Editor', '1,000,000+', 'http://iieprivacypolicy.blogspot.in/2017/02/privacy-policy.html', 'instaimageeditor@gmail.com']}
+{'com.phototransfer': ['Photo Transfer App', 'Bitwise+Software+SL', '1,000,000+', 'http://www.phototransferapp.com', 'support-android@phototransferapp.com']}
+{'com.shutterfly.android.sharesites': ['Shutterfly Share Sites', 'Shutterfly,+Inc', '100,000+', 'http://www.shutterfly.com/mobile', 'pvalkov@shutterfly.com']}
+{'com.r22software.splitcam': ['Split Camera', '8362224284024253047', '1,000,000+', 'http://wombatica.com', 'apps@wombatica.com']}
+{'com.btows.photo': ['Toolwiz Photos - Pro Editor', 'Toolwiz.com', '10,000,000+', 'http://www.toolwiz.com', 'James@toolwiz.com']}
+{'com.thalia.make.me.old.camera': ['Make me Old Camera', '4630864123770839911', '500,000+', 'http://aleksandrasmiljkov.wixsite.com/thalia-privacy/privacy-policy', 'starathalia@gmail.com']}
+{'com.psychos.militarybinoculars': ['Military Binoculars/Night Mode/Compass Camera', '8570213072951632668', '500,000+', 'http://psychos.mobi/PsychosPrivacyPolicy', 'psychos.devs@gmail.com']}
+{'com.sensio.instapreview': ['Preview - Plan your Instagram', 'Preview+App+Pty+Ltd', '1,000,000+', 'https://thepreviewapp.com', 'hi@thepreviewapp.com']}
+{'com.fentazy.animoji': ['EMOJI Face Recorder', 'Fentazy', '500,000+', 'https://fentazyblog.wordpress.com/fentazy-eula/', 'fentazy@hotmail.com']}
+{'com.irisstudio.logomaker': ['Logo Maker - Logo Creator, Generator & Designer', 'Iris+Studios+and+Services', '5,000,000+', 'https://irisstudioprivacypolicy.wordpress.com', 'Iris.Studio51515@gmail.com']}
+{'com.tppm.animal.face.photo': ['Animal Face Photo App', '7125614350471173442', '1,000,000+', 'https://thaliadev.wixsite.com/thaliaapps', 'thaliamaka@gmail.com']}
+{'com.samtex.hdkameraprofesyonel': ['Hd Camera Professional', 'Samtex', '1,000,000+', 'http://samtex01app.blogspot.com.tr/2018/02/permissions-camera-permission-required.html', 'samtex01app@gmail.com']}
+{'com.SimplyEntertaining.blemishremover': ['Face Blemish Remover - Smooth Skin & Beautify Face', 'Simply+Entertaining', '1,000,000+', 'http://www.simplyentertaining.us', 'Simplyentertaining1@gmail.com']}
+{'com.pavahainc.boyhairstyle': ['Boy Hair Style', 'Pavaha+Lab', '1,000,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.techiecomputers.apps.flashtotorch': ['Best magnifying glass with light - Flash to Torch', '9007628073524743938', '50,000+', 'http://www.techiecomputers.com', 'appSupport@techiecomputers.com']}
+{'com.bigblueclip.picstitch': ['Pic Stitch - #1 Collage Maker', 'Big+Blue+Clip+LLC', '1,000,000+', 'http://www.bigblueclip.com', 'bigblueclip@gmail.com']}
+{'com.lyrebirdstudio.mirror': ['Mirror Photo Editor: Collage Maker & Selfie Camera', '8117239212302166287', '50,000,000+', 'http://lyrebirdstudio.net/privacy.txt', 'lyrebirdstudio@gmail.com']}
+{'chumob.cut.paste.photo.editor': ['Cut Paste Photo Editor', 'CHUMOB+CO.,+LTD.', '5,000,000+', 'http://chumob.me/', 'OanhTHT.Pub@gmail.com']}
+{'com.digitalruby.youdoodle': ['You Doodle - Draw on Photos', 'Digital+Ruby,+LLC', '100,000+', 'http://youdoodle.net', 'support@youdoodle.net']}
+{'com.pavahainc.vampireyourself': ['Vampire Yourself: Camera Booth Maker', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.emoji.maker.faces.keyboard.emoticons': ['Emoji Maker - Your Personal Emoji', 'Suit+Photo+Editor+Montage+Maker+%26+Face+Changer', '100,000+', 'https://www-drv.com/site/bj3qcu1lq7ncxzzolfhtda/Privacy/index.html', 'vnkumbhani@gmail.com']}
+{'photoframefamily.familyphotocollage.maruti': ['Family Photo Collage Maker', 'shree+maruti+plastic', '100,000+', 'https://sites.google.com/site/privacypolicymarutiplastic/', 'plastmaruti@gmail.com']}
+{'wansview.p2pwificam.client': ['Wansview', 'Cloud+IPCamera', '100,000+', 'http://www.wansview.com', 'wansview.com@gmail.com']}
+{'com.dragon.saiyajin.photomaker': ['Super Saiya Camera Hair Studio', 'Live+Star+Empires+Dev', '1,000,000+', None, 'peterzinker123@gmail.com']}
+{'com.hefe.pro.editor': ['Photo Editor Pro – Sticker, Filter, Collage Maker', 'PikaSnap+DEV', '10,000,000+', 'http://privacy.subcdn.com/policy/com_hefe_pro_editor/ALL/en/582/privacy.html', 'totalgol7@gmail.com']}
+{'com.hdselfie.applecamera.iphonecamera.icamera': ['HD iCamera OS  12 – Phone X and Phone 8', 'IOSLegend+Store', '100,000+', 'https://sites.google.com/view/ogsprivacy', 'legendappstore@gmail.com']}
+{'br.com.blackmountain.photo.tattoosimulator': ['Photo Tattoo Simulator', '6475314061831648652', '1,000,000+', 'http://www.photoappworld.com', 'support@photoappworld.com']}
+{'com.gorgeous.liteinternational': ['Ulike - Define your selfie in trendy style', 'Lemon,+Inc.', '10,000,000+', 'http://ures.kuaima.im/bm/agreement/index.html', 'beauty_me_2018@163.com']}
+{'com.weapons.picturestudio': ['Weapon Photo Maker Editor Guns', 'Ultimative+Developer+Face+Whats+2016', '500,000+', None, 'vanessabruehter@gmail.com']}
+{'best.edtphoto.Military_Man_photo_Editor': ['Military Man Photo Editor', 'best+photo+editing+apps', '1,000,000+', 'http://bestphotoeditingappspolicy.blogspot.in/2017/09/best-photo-editing-apps-privacy-policy.html', 'komalgosai1312@gmail.com']}
+{'com.simplifieditproducts.picturekeeperconnect': ['Picture Keeper Connect', 'Simplified+IT+Products,+LLC', '10,000+', 'https://picturekeeper.com/', 'sales@picturekeeper.com']}
+{'com.softsquare.body.builder.photo.suit.editor': ['Body Builder Photo Suit', 'SoftSquare+InfoSoft', '1,000,000+', 'http://www.omsquare.in/privacy_policy/Softsquare_Infosoft_Privacy_Policy.html', 'kayurbpatel27@gmail.com']}
+{'com.newytwo.gallery': ['Photo Gallery', 'Gallery+%26+Photos', '100,000+', 'https://photogalleory.blogspot.com/2018/10/photo-gallery.html', 'jackpetel92@gmail.com']}
+{'com.flowers.images.gif': ['Flowers Images Gif 2019', '7717068664800828599', '100,000+', 'http://mrdevv2017.com', 'mrdevv2017@gmail.com']}
+{'com.kvadgroup.photostudio': ['Photo Studio', '5488771027629832739', '10,000,000+', 'http://www.kvadgroup.com', 'support@kvadgroup.com']}
+{'com.vimage.android': ['VIMAGE - cinemagraph animator & live photo editor', 'vimage', '1,000,000+', 'http://vimageapp.com', 'hello@vimageapp.com']}
+{'com.irisstudio.textopro': ['TextO Pro - Write on Photos', 'Iris+Studios+and+Services', '1,000,000+', 'https://irisstudioprivacypolicy.wordpress.com', 'Iris.Studio51515@gmail.com']}
+{'com.lyrebirdstudio.colorizer.lite': ['Selfie Camera Editor: Take Selfies & Edit Photos', '8117239212302166287', '50,000,000+', 'http://lyrebirdstudio.net/app/colorizer-effect/', 'lyrebirdstudio@gmail.com']}
+{'com.inglesdivino.blurimage': ['Blur Image', 'inglesdivino', '1,000,000+', 'http://www.inglesdivino.com/', 'fabril.and@hotmail.com']}
+{'com.loomatix.colorgrab': ['Color Grab (color detection)', 'Loomatix', '1,000,000+', 'http://www.loomatix.com', 'contact@loomatix.com']}
+{'com.pavahainc.girlhairstyles': ['Girl Hairstyles', 'Pavaha+Lab', '100,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'app.gandr': ['Gandr — A photo collage maker without limits', 'Tiddmodz', '500,000+', 'http://gandr.app', 'pd.tidd@gmail.com']}
+{'com.etoolkit.lovecollage': ['Love Collage - Photo Editor', '7316137962324369721', '10,000,000+', 'https://lovecollage.me', 'msupport@etoolkit.com']}
+{'designblur.photo.android.app.addquick': ['Design Blur (Radial Blur)', 'addquick', '100,000+', 'http://addquick.website/', 'addquicks@gmail.com']}
+{'camera360.lite.beauty.selfie.camera': ['Camera360 Lite - Selfie Camera', '7074450904720558835', '10,000,000+', 'http://www.camera360.com/privacy_lite_en.html', 'lite@camera360.com']}
+{'com.psd2filters.thumbnailmaker': ['Thumbnail Maker & Banner Maker', 'James+Thomas+Carter', '1,000,000+', 'http://psd2filter.com/site/landing/privacy_policy', 'comforttransit@gmail.com']}
+{'rvideo.slideshow.maker': ['Slideshow Maker', 'kkapps', '500,000+', 'http://kkapps.vacau.com/kkapps-Privacy-Policy.html', 'kandkfontapps@gmail.com']}
+{'com.irisstudio.picturequotes': ['Ultimate Picture Quotes', 'Iris+Studios+and+Services', '1,000,000+', 'https://irisstudioprivacypolicy.wordpress.com', 'Iris.Studio51515@gmail.com']}
+{'com.xenstudio.birthdaycake.photoframe': ['Photo On Cake 2019', '6773780251750155124', '1,000,000+', 'https://xenstudioapps.wordpress.com/', 'xenisims@gmail.com']}
+{'research.visulizations.piccollagemaker': ['Pic Collage Maker', 'Research+visualization+Technology', '500,000+', 'http://researchvisu.blogspot.in', 'researchvisulizations@gmail.com']}
+{'beauty.camera.photo.editor': ['Beauty Camera - Selfie Camera with Photo Editor', 'Coocent', '1,000,000+', 'http://privacypolicy.oss-us-west-1.aliyuncs.com/KuXunAppTeam/privacy.txt', 'KuXun.AppTeam@gmail.com']}
+{'com.vkraushan.photoframe': ['Photo Frame 2018', 'vkraushan', '100,000+', 'http://vkraushan.info', 'vkraushan@gmail.com']}
+{'com.pavahainc.pipshapes': ['PIP Shapes - Geometry camera magic collage blur', 'Pavaha+Lab', '1,000,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.americanapps.binoculars': ['Reading Glasses - Magnifier - Visual Aid Zoom', 'Roca+Software+Apps', '500,000+', 'https://www.rocasoftware.net', 'roca.software.sv@gmail.com']}
+{'com.chensz.instablender': ['Photo Blender: Mix Photos', '8713018207726107849', '1,000,000+', 'https://www.facebook.com/pages/Momentic-Apps/1481647898716001', 'momentic@outlook.com']}
+{'com.phoenix.nightphotovideo': ['Night Photo and Video Shoot (Night Vision Camera)', '8936363665367904148', '100,000+', 'https://sites.google.com/view/fenix2029/home', 'fenix.publisher@gmail.com']}
+{'com.ffs.birthday.photo.frames': ['birthday photo frame with name and photo', 'photo+frame+stock', '1,000,000+', 'https://docs.google.com/document/d/1_CGoLcdLoRRj5rO_RcuDQ5mi7yM4VqJMWJbpRKC8cYY/edit?usp=sharing', 'dv14792@gmail.com']}
+{'com.creedon.Nixplay': ['Nixplay App', 'Nixplay', '100,000+', 'http://www.nixplay.com', 'support@nixplay.com']}
+{'com.ilixa.ebp': ['8Bit Photo Lab, Retro Effects', 'Ilixa', '1,000,000+', 'http://ilixa.com', 'contact@ilixa.com']}
+{'com.cameracamera.camhdapps': ['Day-Night Camera HD', 'Practical+And+Functional', '1,000,000+', 'https://docs.google.com/document/d/1m6ZvndmO6KOPZhWaI0GwXiuphnWHvCDapQkSwLtInrM/edit?usp=sharing', 'practicalandfunctional@gmail.com']}
+{'com.instagrid.free': ['Grid Maker for Instagram', 'CodeAndPlayVn', '1,000,000+', 'https://cheryl1511.github.io/gridmaker', 'code.and.play.vn@gmail.com']}
+{'com.framify.frames': ['Photo Frame Editor Collage Picture Effects Framify', 'Anita+Chauhan', '100,000+', 'http://notoveryet.wordpress.com/', 'thewebanalyzers@gmail.com']}
+{'com.retouchme': ['Retouch Me – Body editor & Face tune & Photo fix', 'Oleksandr+Lozytskyi', '1,000,000+', 'http://retouchme.com', 'info@retouchme.com']}
+{'com.lyrebirdstudio.art_filter': ['Art Filter Photo Editor & Pic Art Painting Effects', '8117239212302166287', '10,000,000+', 'http://lyrebirdstudio.net/privacy.txt', 'lyrebirdstudio@gmail.com']}
+{'com.jb.zcamera': ['Z Camera - Photo Editor, Beauty Selfie, Collage', '5518877975164386758', '100,000,000+', 'http://www.gomo.com', 'zcamerafeedback@gmail.com']}
+{'neev.graffiti.nameart': ['Graffiti Name Art - Graffiti Text Effects', 'Neev+Infotech', '50,000+', 'https://neev-infotech.000webhostapp.com/', 'neevinfotech441@gmail.com']}
+{'com.AddWingsToPhoto.AngelWingPhotoEditor': ['Add Wings to Photo', 'Little+Oasis+Apps+for+Kids+and+Adults', '100,000+', 'https://lukozi00.wixsite.com/littleoasisapps', 'slepiimis1988@gmail.com']}
+{'com.covermaker.thumbnail.maker': ['Thumbnail Maker: Youtube Thumbnail & Banner Maker', '6096060713339252212', '100,000+', 'http://www.contentarcade.com', 'contentarcadeapps@gmail.com']}
+{'com.hodanny.instagrid': ['9square for Instagram', 'hodanny', '5,000,000+', 'http://hodanny.github.io/Instagrid/', 'hodannyy@gmail.com']}
+{'com.best.photo.app.womanhairstyles': ['Woman Hairstyles', 'Best+Photo+Apps', '1,000,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}
+{'com.kemasdimas.wristcamera': ['Camera Remote: Wear OS, Galaxy Watch, Gear S3 App', 'Kema+Studio', '100,000+', 'https://kemasdimas.com/', 'dimas@kemasdimas.com']}
+{'face.changer.funnystickers.faceapp.editor': ['Face Changer Photo Gender Editor', '5676677565057188036', '500,000+', 'https://sites.google.com/view/tdevteam-privacy-policy-gdpr/privacy-policy', 'tdev.team1@gmail.com']}
+{'com.sketch.effect.photo.pro.alvita': ['Sketch Effect Photo 2019 Pro', 'Alvita+Dev', '100,000+', 'https://www.dropbox.com/s/od4ad8vi6ke9bcm/Privacy%20Policy%20of%20Sketch%20Effect%20Photo%202018%20Pro.docx?dl=0', 'alvitadev@gmail.com']}
+{'com.atsdev.hdphotoeditor': ['HD Photo Editor', 'AT+Software+Developers', '1,000,000+', 'https://atsoftdeveloper.wordpress.com/', 'thuongthaopoluzenry@gmail.com']}
+{'com.r22software.mirrors': ['Face Warp: Photo Booth', '8362224284024253047', '1,000,000+', 'http://wombatica.com', 'apps@wombatica.com']}
+{'com.falstad.megaphotofree': ['Mega Photo', 'Paul+Falstad', '1,000,000+', 'http://megaphoto.uservoice.com', 'apps@falstad.com']}
+{'com.thuglife.photostudio': ['Thug Life Photo Maker Editor', 'Live+Star+Empires+Dev', '5,000,000+', None, 'peterzinker123@gmail.com']}
+{'de.nextsol.deeparteffects.app': ['Deep Art Effects - AI Photo Filter & Art Filter', '7278635385981253175', '1,000,000+', 'https://www.deeparteffects.com/', 'info@deeparteffects.com']}
+{'com.motionone.afterfocus': ['AfterFocus', 'MotionOne', '10,000,000+', 'http://appm1.com/afterfocus', 'android.appm1@gmail.com']}
+{'com.lyrebirdstudio.art': ['ArtistA Cartoon & Sketch Filter & Artistic Effects', '8117239212302166287', '5,000,000+', 'http://lyrebirdstudio.net/privacy.txt', 'lyrebirdstudio@gmail.com']}
+{'com.pro.magic.camera': ['Pro Magic Camera  -  Full HD', 'Bilingoo++INC', '10,000+', 'https://docs.google.com/document/d/1sAxbxBzpBdrkq2wkxc7jLwDiEOTMAFjr_dbuGcoJd64/edit', 'bilingooapps@gmail.com']}
+{'best.camera': ['Best Camera', '6776354245234746269', '1,000,000+', 'https://hd-camera.weebly.com/', 'nice_team@foxmail.com']}
+{'com.playlist.portra': ['PORTRA – Stunning art filter', 'Playlist+Corporation', '1,000,000+', 'https://portra.me/terms.html', 'portra.me@gmail.com']}
+{'com.HeavenPhotoFrames.BeautifulAngelFrames.RestInPeace': ['Heaven Photo Frames - Beautiful Angel Frames', 'Free+Photo+Editing+Apps', '10,000+', 'https://and96miloje.wixsite.com/mysite', 'and96miloje@gmail.com']}
+{'com.outthinking.picsplit': ['Split Picture', 'ANDROID+PIXELS', '100,000+', 'http://www.outthinkingindia.com/privacy-policy/', 'androidpixels@gmail.com']}
+{'com.photovideoslide.photomoviemaker': ['photo editor with music', 'photovideoslide', '1,000,000+', 'https://photovideoslide.wordpress.com', 'photovideoslider@gmail.com']}
+{'com.SimplyEntertaining.fontrush': ['Font Rush', 'Simply+Entertaining', '100,000+', 'http://www.simplyentertaining.us', 'Simplyentertaining1@gmail.com']}
+{'com.zhiyun.zyplay': ['ZY Play', 'zhiyun-tech', '100,000+', 'http://www.zhiyun-tech.com', 'dev@zhiyun-tech.com']}
+{'editor.free.ephoto.vn.ephoto': ['Ephoto 360 - Photo Effects', 'Yogroup+Studio', '1,000,000+', 'http://ephoto360.com/en', 'thiepmung.com@gmail.com']}
+{'com.gallery3d.trend': ['Pro 3D Magic Gallery', 'Olympus+INC', '1,000,000+', 'https://docs.google.com/document/d/11W9CFNXB3xK2io89m8z1wJ7NzQ_EYI3zuBD_h1Si0SU/edit', 'polinomapp@gmail.com']}
+{'com.zico.cartoonfacechanger': ['Cartoon Face Changer Pro-Anime', '5657070661695387487', '1,000,000+', 'https://www.facebook.com/alsaeedahdeveloper', 'zakariaalsheikh1993@gmail.com']}
+{'sweetsnap.lite.snapchat': ['Sweet Snap Lite -live filter & nice selfie sticker', '6091442766932589829', '5,000,000+', 'http://www.ufotosoft.com', 'support@ufotosoft.com']}
+{'com.ycc365closeli.aws': ['YCC365', 'cloudcam', '50,000+', 'http://ycc365.support.com', 'support@cloudiotcam.com']}
+{'com.vyom.gallery': ['Gallery', '8076261452952585124', '10,000,000+', 'http://vyomy.blogspot.com/', 'vyomcorpteam@gmail.com']}
+{'com.pavahainc.wantedposterphotoframesmaker': ['Wanted Poster Photo Frames Maker', 'Pavaha+Lab', '10,000+', 'http://letapps.com/privacy.html', 'pavahainc@gmail.com']}
+{'com.gsoft.photoframe': ['Photo frame - Photo collage', 'greensoftvn+team', '100,000+', 'https://sites.google.com/view/gsoftteam', 'hunghiep164@gmail.com']}
+{'com.photobucket.android': ['Photobucket - Save Print Share', 'Photobucket+Corporation', '10,000,000+', 'http://photobucket.com', 'mobilesupport@photobucket.com']}
+{'com.BestPhotoEditor.BabyStory': ['Baby Story - Pregnancy & Baby Milestones Photos', '8814226609646914318', '50,000+', 'https://bestphotoeditor.wordpress.com/privacy-policy/', 'lorenteraware@gmail.com']}
+{'com.varnist': ['Varnist - Photo art effects', 'Varnist', '1,000,000+', 'https://varnist.com', 'team@varnist.com']}
+{'blush.kawaii.faceapp.anime.stickers': ['Blush: red cheeks, shy face, kawaii anime stickers', 'LaboDroid', '100,000+', 'https://sites.google.com/view/labodroid-privacy', 'madiandrolab@gmail.com']}
+{'com.fyusion.fyuse': ['Fyuse - 3D Photos', 'Fyusion,+Inc.', '1,000,000+', 'http://fyu.se', 'fyuse@fyusion.com']}
+{'com.word.swag.text': ['TextSwag, Typography generator', 'Zinila+Nguyen', '500,000+', 'http://zinila.com', 'Zinilaus@gmail.com']}
+{'com.tasnim.colorsplash': ['Color Pop Effects : Black & White Photo Editor', 'KITE+GAMES+STUDIO', '1,000,000+', 'http://www.kitegamesstudio.com/', 'info.kite.an@gmail.com']}
+{'sweet.snapface.facefilter': ['Face camera - live filter, Selfie photo', '6091442766932589829', '500,000+', 'http://res.ufotosoft.com/aboutus/src/policy.snap.html', 'qifhh123@gmail.com']}
+{'com.microsoft.hyperlapsemobile': ['Microsoft Hyperlapse Mobile', '6720847872553662727', '1,000,000+', 'http://aka.ms/hyperlapse', 'hyperlapsedf@microsoft.com']}
+{'premium.heaven.photo.frames': ['Heaven Photo Frame', 'PREMIUM+PHOTO+STUDIO', '100,000+', 'https://raw.githubusercontent.com/premiumphotostudio/storage/master/privacy-policy', 'thanhltnapp@gmail.com']}
+{'in.mettletech.virtualhairstyle': ['Hairstyle Changer app, virtual makeover women, men', 'Mettletech', '1,000,000+', 'http://hairstylesapps.com/', 'hairstylesapps@gmail.com']}
+{'com.willblaschko.android.lightmeterv2.free': ['Light Meter - Free', 'WBPhoto', '100,000+', 'http://www.willblaschko.com', 'will.blaschko+lightmeter@gmail.com']}
+{'com.per.pixel.pastel': ['Photo Editor - cartoon Art Filter', 'PER+PIXEL+SOFTWARE', '1,000,000+', 'http://perpixelsoft.my-free.website/', 'per.pixel.software@gmail.com']}
+{'jp.gr.java_conf.siranet.idphoto': ['ID Photo application', 'siranet', '1,000,000+', 'https://siranet.web.fc2.com/', 'siranet36@gmail.com']}
+{'org.gimp.inkscape': ['GIMP Inkscape', '8387589286898375037', '1,000,000+', 'http://libsdl-android.sourceforge.net/', 'x.pelya.x@gmail.com']}
+{'toolmediaapp.familyphotoframe': ['Family Photo Frame: Family Collage Photo', 'Tool+Media+App', '100,000+', 'http://toolmediaapp.blogspot.com/', 'toolmediaapp@gmail.com']}
+{'com.TrippyEffects.PsychedelicCamera.ArtFilterApp': ['Trippy Effects - Psychedelic Camera', 'Free+Photo+Editing+Apps', '500,000+', 'https://and96miloje.wixsite.com/mysite', 'and96miloje@gmail.com']}
+{'com.vtcreator.android360': ['Panorama 360 Camera:360 Photos for FB:Photosphere', 'TeliportMe+Inc.', '10,000,000+', 'http://www.teliportme.com', '360@teliportme.com']}
+{'com.smartpixel.square.blur.pic': ['Square Blur Pic : No crop', 'SmartPixel+Technology', '500,000+', 'https://sites.google.com/view/smartpixel-privacypolicy', 'smartpixel9@gmail.com']}
+{'com.simplemobiletools.gallery3d': ['Smart  Gallery - Full Functional', 'Bilingoo++INC', '50,000+', 'https://docs.google.com/document/d/1sAxbxBzpBdrkq2wkxc7jLwDiEOTMAFjr_dbuGcoJd64/edit', 'bilingooapps@gmail.com']}
+{'com.topfreeapps.photoblender': ['Photo Overlays - Blender', 'Z+Mobile+Apps', '1,000,000+', 'https://zmobileapps.wordpress.com', 'adit.zoom1@gmail.com']}
+{'com.BestPhotoEditor.TextOnPhoto': ['Text On Photo', '8814226609646914318', '1,000,000+', 'https://bestphotoeditor.wordpress.com/privacy-policy/', 'lorenteraware@gmail.com']}
+{'com.mrgenius.cam1': ['Full HDr+ Video Camera', 'mrgenius', '1,000,000+', 'http://kabasakal197.blogspot.de', 'kabasakal197@gmail.com']}
+{'hippeis.com.photochecker': ['Photo Sherlock - Reverse Image Search', 'Hippeis', '500,000+', 'https://s3.eu-central-1.amazonaws.com/photo-sherlock/privacy_policy.html', 'hippeistudio@gmail.com']}
+{'com.picfix.shapecollage': ['Shape Collage - Automatic Photo Collage Maker', 'Picfix+Art+Studio', '500,000+', 'http://picfixartstudio.blogspot.in', 'picfixart@gmail.com']}
+{'com.selfie.camera.editor.master': ['UniSelfie – Selfie Photo Editor, Beauty Camera', 'Finger+Studios', '1,000,000+', 'http://cdn.appcloudbox.net/creativitylab/apps/cellocamera/privacy.html', 'creativitylabapp@gmail.com']}
+{'com.standardApp.invitationcardmaker': ['Invitation Card Maker : Invitation Maker', 'standardApp', '100,000+', 'https://sites.google.com/view/standardapp/home', 'standardapp433@gmail.com']}
+{'com.photoeditor.background.change': ['Background Changer: Easy To Edit', 'FixD', '500,000+', 'https://snaptoolscom.wordpress.com/privacy/', 'bary.wei@gmail.com']}
+{'com.dageek.socialtoolbox_android': ['Gbox - Toolkit for Instagram.', '4829809212871316099', '100,000+', 'https://grambox.app', 'hi@dageek.in']}
+{'com.gamingphoto.splintereditor': ['Gaming Photo Editor: Night Vision Shooter Sticker', 'Live+Star+Empires+Dev', '50,000+', None, 'peterzinker123@gmail.com']}
+{'com.flavionet.android.camera.lite': ['Camera FV-5 Lite', 'FGAE', '10,000,000+', 'http://www.camerafv5.com/', 'support@camerafv5.com']}
+{'com.appwallet.easyblur': ['Blurfoto : Auto blur photo background & DSLR focus', 'Appwallet+Technologies', '1,000,000+', 'http://www.appwallettech.com', 'appwallettechnologies@gmail.com']}
+{'com.mykeyboard.myphotokeyboard': ['My Photo Keyboard', 'Abbott+Cullen', '10,000,000+', 'http://myphotokeyboard.in/privacy.html', 'abtcullen@gmail.com']}
+{'com.textonphoto': ['Text on pictures - Write words & text art on photo', '8718099592606828786', '1,000,000+', 'http://www.gpower.co', 'contact@gpowers.net']}
+{'com.withwho.gulgram': ['Geulgram - Text on Photo, quote maker', 'withwho', '1,000,000+', 'https://instagram.com/_u/geulgram', 'contact@withwho.co.kr']}
+{'com.signindroid.afghanarmy.uniform_changer': ['Afghan Army Suit Editor - Uniform changer 2017', 'SignInDroid', '1,000,000+', 'https://signindroidprivacypolicy.blogspot.com/2017/07/signindroid-privacy-policy.html', 'Viva.Solutions777@gmail.com']}
+{'com.panasonic.avc.cng.imageapp': ['Panasonic Image App', 'Panasonic+Corporation', '1,000,000+', 'https://panasonic.jp/support/software/image_app/index.html', 'no-reply-imageapp@gg.jp.panasonic.com']}
+{'com.tudasoft.android.BeMakeup': ['Beauty Makeup – Photo Makeover', 'TudaSoft', '5,000,000+', 'https://www.ubitusoft.com/tudas/privacy_notice.php', 'tudasoft@gmail.com']}
+{'de.vsmedia.imagesize': ['Image Size - Photo Resizer', 'Codenia', '500,000+', 'https://www.image-size.com', 'support@codenia.com']}
+{'com.studio8apps.instasizenocrop': ['Square InPic - Photo Editor & Collage Maker', 'Studio+8+Apps', '50,000,000+', 'http://www.studio8apps.com/privacy-policy/', 'studio8apps@gmail.com']}
+{'pt.muffin.instapanorama': ['PanoramaCrop for Instagram', 'Muffin', '100,000+', 'https://www.instagram.com/panoramacrop/', 'apps.muffin@gmail.com']}
+{'com.tupe.make.me.old.face.changer': ['Make me Old Face Changer', '6843492019547118327', '500,000+', 'http://aleksandrasmiljkov.wixsite.com/thalia-privacy/privacy-policy', 'thaliaultimatephotoediting@gmail.com']}
+{'com.beauty.hut.makeup.photo.editor.beauty.selfie.camera': ['Makeup Photo Editor-Beauty Selfie Camera', 'Beauty+Hut', '100,000+', 'https://beautyhutprivacypolicy.weebly.com/', 'beautyhutofficial@gmail.com']}
+{'club.magicphoto.squarequicknew': ['Square Quick Pro - Photo Editor, No Crop, Collage', '7001382058935314759', '5,000,000+', 'http://www.youjia.cloud/privacypolicy.html', 'connect.squarequick@outlook.com']}
+{'best.photo.app.costume': ['Costume', 'Best+Photo+Apps', '1,000,000+', 'http://bestphotoapps.ru/privacy-policy.html', 'best.photo.app@gmail.com']}

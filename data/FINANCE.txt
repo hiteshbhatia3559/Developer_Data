@@ -1,0 +1,1041 @@
+{'gokart.com.principal': ['Principal®', 'Principal+Financial+Group', '1,000+', 'http://www.principal.com', 'DLRISMOBILEAPPDEV@exchange.principal.com']}
+{'com.looklike.makemoney': ['Make Money Online& Work From Home Ideas', '8224345892189664347', '5,000+', 'http://www.bestonelist.com', 'kar.yer22751@gmail.com']}
+{'org.orangecountyscu.android.banking': ['Orange County Credit Union', 'Orange+County%27s+Credit+Union', '1,000+', 'http://www.orangecountyscu.org/', 'eservices@orangecountyscu.org']}
+{'com.pheaa.mobile.pheaafls': ['FedLoan Student Loans', 'Pennsylvania+Higher+Education+Assistance+Agency', '500+', 'http://www.pheaa.org', 'accountinfo@MyFedLoan.org']}
+{'com.paydayloans.online.oneclickloan': ['ClickLoan – Fast Loans Online', '9218365957739550170', '1,000+', 'https://clickloan.pp.ua', 'vladislavme80@gmail.com']}
+{'net.univest.grip': ['Univest', 'Univest+Bank+and+Trust+Co', '1,000+', 'http://www.univest.net', 'electronicbanking@univest.net']}
+{'com.nymbus.inspire': ['Inspire Federal Credit Union', 'Inspire+Federal+Credit+Union', '500+', 'http://www.inspirefcu.org', 'bphillips@inspirefcu.org']}
+{'com.mfoundry.mb.android.mb_byline175': ['Byline Bank Mobile', 'Byline+Bank', '5,000+', 'https://www.bylinebank.com', 'appman@bylinebank.com']}
+{'com.morganstanley.prod.SumSPC': ['StockPlan Connect', 'Morgan+Stanley+and+Co.+LLC', '1,000+', 'https://stockplanconnect.morganstanley.com/', 'stockplanconnectms@morganstanley.com']}
+{'com.carter.mobile': ['Carter on the Go', 'Carter+Bank+%26+Trust', '1,000+', 'https://www.carterbankandtrust.com/', 'CustomerService@CarterBankandTrust.com']}
+{'com.malauzai.DH23609': ['Capital Credit Union', 'Capital+Credit+Union+of+North+Dakota', '1,000+', 'https://www.capcu.org/', 'email@capcu.org']}
+{'com.digitalinsight.cma.fiid01665': ['Rogue Credit Union', 'Rogue+Credit+Union', '10,000+', 'https://www.roguecu.org', 'mkt@roguecu.org']}
+{'com.timberlandbank.grip': ['Timberland Bank', 'Timberland+Bank', '1,000+', 'http://www.timberlandbank.com', 'helpdesk@timberlandbank.com']}
+{'com.aafes.militarystar': ['MILITARY STAR® Mobile', 'Army+%26+Air+Force+Exchange+Service', '1,000+', 'http://www.myecp.com', 'MilitaryStarApp@aafes.com']}
+{'org.theta.wallet': ['Theta Wallet', 'Theta+Labs,+Inc.', '1,000+', 'http://www.thetatoken.org', 'support@thetatoken.org']}
+{'com.meetcleo.cleo': ['Cleo', 'Cleo+AI+Ltd', '500+', 'https://meetcleo.com', 'team@meetcleo.com']}
+{'com.stardust.makemoney': ['Make Real Money Online - Microjobs on the internet', '5729615708263491421', '500+', 'http://www.APPBeta.net/', 'hamit_23_25@hotmail.com']}
+{'com.proponentfederalcreditunion5188.mobile': ['Proponent FCU Mobile', 'Proponent+Federal+Credit+Union', '1,000+', 'https://www.profcu.org', 'memberservices@profcu.org']}
+{'com.digitalinsight.cma.fiid01674': ['Jordan Credit Union', None, '1,000+', 'https://jordan-cu.org/', 'memberhelp@jordan-cu.org']}
+{'com.kohlercreditunion.mobile5189.mobile': ['Kohler Credit Union Mobile', 'Kohler+Credit+Union+Digital', '1,000+', 'http://kohlercu.com', 'memberservice@kohlercu.com']}
+{'com.healthcarefirstfcu.mobile': ['HealthCare First CU Mobile', 'Healthcare+First+Credit+Union', '100+', 'http://www.healthcarefirstcu.com', 'meghan@healthcarefirstcu.com']}
+{'com.cmcflex.ftmobile.csl': ['Cal State LA FCU', 'Cal+State+LA+FCU', '100+', 'http://www.calstatela-fcu.org', 'dhines@calstatela-fcu.org']}
+{'com.p9b8805d001412d141092d7bd9d076dcd.neuraltradingrobot': ['Neural Forex Trading Robot.', 'Neural+Trade+System', '1,000+', 'https://rofx.guru/', 'starttradeinc@gmail.com']}
+{'com.a25327840.wallet.cardcontrol': ['SC Federal Card Controls', 'SCFederal', '1,000+', 'https://www.scfederal.org/', 'contactcenter@scfederal.org']}
+{'org.fhfcu.grip': ['First Heritage FCU', 'First+Heritage+Federal+Credit+Union', '1,000+', 'http://www.fhfcu.org', 'firstheritagefcu@gmail.com']}
+{'com.pheaa.mobile.pheaaaes': ['AES Student Loans', 'Pennsylvania+Higher+Education+Assistance+Agency', '100+', 'http://www.pheaa.org', 'aescs@aessuccess.org']}
+{'com.syomortgagemobile': ['Shop Your Own Mortgage', 'SYO+Mortgage', '1,000+', 'https://www.syomortgage.com/', 'info@syomortgage.com']}
+{'com.mfoundry.mb.android.mb_271171616': ['DeWitt Savings Bank', 'DeWitt+Savings+Bank', '100+', 'https://www.dewittsavingsbank.com', 'onlinebanker@dewittsb.com']}
+{'com.blacktowerinvestments.stinu': ['Stinu', 'Black+Tower+Investments+Ltd.', '1,000+', 'https://www.urbanforex.com', 'info@urbanforex.com']}
+{'com.mfoundry.mb.android.mb_56t': ['InBank Mobile', 'International+Bank', '100+', 'https://www.inbank.com', 'ifs04742@gmail.com']}
+{'com.trademarkfsu.nsconfig': ['Trademark Mobile', 'Trademark+Mobile', '100+', 'http://www.trademarkfcu.org', 'memberservices@trademarkfcu.org']}
+{'com.loans.for.bad.credit': ['Loans For Bad Credit - Cash Advance App', 'Loans+For+Bad+Credit+Online', '100+', 'https://takelend.com/privacy', 'cupid@nycmail.com']}
+{'com.csiweb.digitalbanking.bk0435': ['CedarStone Bank', 'Computer+Services+Inc.', '100+', 'https://www.cedarstonebank.com/', 'twinfree@cedarstonebank.com']}
+{'com.ufbdirect.udb': ['UFB Direct®', 'Axos+Bank', '50+', 'https://www.ufbdirect.com', 'customerservice@ufbdirect.com']}
+{'com.bankjoyapp.first': ['Mutual 1st Mobile Banking', 'Mutual+Web+Development', '100+', 'https://www.mutualfirst.com', 'webmaster@mutualfirst.com']}
+{'com.enova.cashnet.installment': ['CashNetUSA Installment', 'Enova+International,+Inc.', '100+', 'https://www.cashnetusa.com', 'support@cashnetusa.com']}
+{'com.wvcu.wvcu': ['WESTERN VISTA', 'WVCUDeveloper', '500+', 'https://www.wvista.com', 'wvista@wvista.com']}
+{'expense.tracker.income.receipt.budget': ['Free Expense & Budget Tracker Bookipi', 'Bookipi+-+Billing+Estimate', '1,000+', 'https://bookipi.com/expense', 'support@help.bookipi.com']}
+{'com.empower.retirement.android.Retire53.Mobile': ['FIFTH THIRD BANK RETIREMENT', 'Great-West+Developers', '50+', 'https://53.retirementpartner.com/participant/#/login', 'developer@retirementpartner.com']}
+{'com.mfoundry.mb.android.mb_bylinebeb175': ['Byline Bank Business Mobile', 'Byline+Bank', '100+', 'https://www.bylinebank.com', 'appman@bylinebank.com']}
+{'com.fnbmanhattan.grip': ['1st Bank of Manhattan', 'FBM+Mobile', '50+', 'https://www.fnbmanhattan.com', 'godoughman@gmail.com']}
+{'com.bitfinex.mobileapp': ['Bitfinex', 'Bitfinex', '5,000+', 'https://www.bitfinex.com', 'mobile-app@bitfinex.com']}
+{'com.ig.android.ta': ['IG Academy: Trading Courses – Learn How to Trade', '6150299331106222925', '100,000+', 'http://www.ig.com', 'helpdesk.uk@ig.com']}
+{'com.cashmaniac.app': ['Cash Maniac - Enjoy Free Reward', 'cashidea', '1,000+', 'https://www.cashideapp.com', 'cashidea@mail.com']}
+{'com.cecilbank.mobile': ['Cecil Bank Mobile', 'Cecil+Bank+Inc.', '50+', 'http://www.cecilbank.com', 'cecilbank1650@gmail.com']}
+{'com.borrowermobileapp': ['Prodigy Finance', 'Prodigy+Finance', '500+', 'https://prodigyfinance.com/', 'info@prodigyfinance.com']}
+{'com.dominofcu.mobile': ['Domino Federal Credit Union', 'Domino+Federal+Credit+Union', '100+', 'http://www.dominofcu.com', 'rdunlap@dominofcu.com']}
+{'com.mfoundry.mb.android.mb_261170533': ['Heritage Bank GA', 'Heritage+Bank+GA', '500+', 'http://www.heritagebank.com', 'Customer.service@heritagebank.com']}
+{'com.DNAPPS.cashmo_international': ['Cashmo Rewards - Convert Gift Card', 'DNAApps', '500+', 'http://cashmorewards.ga/services/', 'info.dnaapps@gmail.com']}
+{'com.caped.cardcommand': ['CapEd CardCommand', 'CapEd+Credit+Union', '10+', 'https://www.caped.com', 'toby@caped.com']}
+{'com.malauzai.pinckneyville': ['FNB Pinckneyville', 'First+National+Bank+in+Pinckneyville', '100+', 'http://www.fnbpville.com', 'abozeman@fnbpville.com']}
+{'com.csiweb.digitalbanking.bk0608': ["People's Bank of Commerce", 'Computer+Service+Inc.', '100+', 'https://www.peoplesbank.bank/', 'support@peoplesbank.bank']}
+{'com.ecfcu.ecfcumobile': ['Erie Community FCU Mobile Banking', 'CU+Interface', '10+', 'http://www.eriecommunityfcu.org/', 'mobileapps@eriecommunityfcu.org']}
+{'com.equitableonline.grip': ['Equitable E-Banking', 'Equitable+Bank', '500+', 'https://www.equitableonline.com/home/home', 'support@equitableonline.com']}
+{'com.coincodex.coincodexapp': ['CoinCodex - Bitcoin & Crypto Portfolio', 'CoinCodex', '100+', 'https://coincodex.com', 'info@coincodex.com']}
+{'com.bankofclarendon.grip': ['The Bank of Clarendon', 'The+Bank+of+Clarendon', '100+', 'http://www.bankofclarendon.com', 'jeffreid@bankofclarendon.bank']}
+{'org.umecreditunion.mobile': ['UMe Mobile', 'UMe+Federal+Credit+Union', '1,000+', 'http://www.umecreditunion.com', 'contactus@umecreditunion.com']}
+{'com.martingale.pact': ['Pact | Car Insurance', 'Pact+Insurance', '100+', 'https://www.pactinsurance.com', 'nelson@pactinsurance.com']}
+{'io.vembar.fundamentalspeculation': ['FundSpec : Financial Models, News & Data', 'Vembar+LLC', '100+', 'https://www.fundamentalspeculation.io', 'support@fundamentalspeculation.io']}
+{'money.haven.app': ['Haven Money: Invest & Save with Ease', 'Haven+Money', '10+', 'https://havenmoney.com', 'help@havenmoney.com']}
+{'com.astra.delta': ['Astra: Automated Savings', 'Astra+Inc', '100+', 'https://astra.finance', 'gil@astra.finance']}
+{'com.cspiinc.ConcordiaBankMobile': ['Concordia Bank Mobile', 'Concordia+Bank', '100+', 'https://www.concordia-bank.com', 'info@concordia-bank.com']}
+{'com.goalsetter': ['Goalsetter', 'Goalsetter', '10+', 'http://Goalsetter.co', 'hello@goalsetter.co']}
+{'com.whatchawatchin.easycashrewards': ['Whatchawatchin Video Rewards - Gifts & Rewards', 'Ultimate+Instinct', '50+', 'https://videorewards.wordpress.com/', 'samuelsteil121@gmail.com']}
+{'com.starlingbank.android': ['Starling Bank - Better Mobile Banking', 'Starling+Bank', '100,000+', 'https://www.starlingbank.com', 'help@starlingbank.com']}
+{'info.fandroid.dowcryptsdcr': ['Dow Crypts (DCR): cryptocurrency index', 'Pavel+Nikonov', '100+', 'http://privacypolicy.fandroid.info/DowCrypts_Privacy_Policy.pdf', 'Pvlniko@gmail.com']}
+{'io.airtm': ['Airtm', 'airtm+Inc.', '1,000+', 'http://airtm.io', 'support@airtm.io']}
+{'com.onefinance.loans': ['1Finance - Payday Loans and Cash Advance', 'First+Finance+Loans+LLC', '1,000+', 'https://telegra.ph/First-Finance-1Finance-app-PRIVACY-POLICY-02-19', '1finance.help@gmail.com']}
+{'com.softek.ofxclmobile.heartlandcreditunion': ['Heartland CU Mobile MN', 'Heartland+Credit+Union+MN', '100+', 'https://www.heartlandcu.com/', 'eservices@heartlandcu.com']}
+{'antroid.cxtech.com.cxandroidproject': ['DX.Exchange', 'COINS+MARKETPLACE+TECHNOLOGIES+OU', '100+', 'https://dx.exchange', 'dx.mobileteam@gmail.com']}
+{'com.turbinecu.turbinecu': ['Turbine Credit Union', 'Turbine+Federal+Credit+Union', '100+', 'http://turbinecu.com', 'member.service@turbinecu.com']}
+{'com.csiweb.digitalbanking.bk0748': ['Fayette County National Bank', 'Computer+Service+Inc.', '10+', 'https://www.fcnbonline.com/', 'no-reply@fcnbonline.com']}
+{'com.peoplessandlco.mobile': ['PSALC Banking App', 'Peoples+Savings+and+Loan+Company', '100+', 'https://www.psalc.com', 'peoples@psalc.com']}
+{'org.usemycu.mycu': ['MyCU Mobile Banking', 'Mycu', '10+', 'http://www.usemycu.org', 'alex@usemycu.org']}
+{'com.money.reward.cash.reward.free': ['Game Reward - Money Reward', 'Cash+App+Studio', '10,000+', 'https://docs.google.com/document/d/1071XoD9HJpPRiHZTBKTceCiZtlHX_jEiU_JMcIvND0Y/edit', 'heizzzzzzzzzz@gmail.com']}
+{'com.app.creditsoars': ['Credit Soars', 'Credit+Soars', '100+', 'http://www.creditsoars.com', 'support@creditsoars.com']}
+{'com.firstcombankiowa.mobile': ['FCB4U First Community Bank', 'First+Community+Bank+Newell', '10+', 'http://www.fcb4u.com/', 'cathy@fcb4u.com']}
+{'com.malauzai.DH22003': ['FirstNet', 'First+National+Bank+%26+Trust,+Elk+City', '100+', 'http://www.fnbec.com/', '103101576.fnb@gmail.com']}
+{'nl.belastingdienst.maa2018.pub': ['Aangifte 2018', 'Belastingdienst', '100,000+', 'http://www.belastingdienst.nl', 'mcc.beheer@belastingdienst.nl']}
+{'app.crescentpay.src': ['Crescent Pay', 'Crescent+Pay', '50+', 'https://crescentpay.app', 'pokkst@protonmail.com']}
+{'com.csiweb.digitalbanking.bk1865': ['Peoples State Bank - Texas', 'Computer+Service+Inc.', '50+', 'http://psbtexas.com/', 'psbolb@psbtexas.com']}
+{'com.AdvantageInternationalAgent.one': ['AdvantageInternationalAgent ONE', 'PalmAgent', '50+', 'https://www.advantageinternationalagent.com', 'support@palmagent.com']}
+{'com.wrg': ['Western Reserve Group Policyholder App', 'Western+Reserve+Group', '10+', 'http://wrg-ins.com', 'rick_stilgenbauer@wrg-ins.com']}
+{'com.appswesll.tipsfergofree': ['Free Tips Mobile Wall Fergo 2019', 'Agmar+Piersons+inc.', '10+', 'https://sites.google.com/view/free-mobile-well-fergo-guide', 'admloernads12@gmail.com']}
+{'com.sm.mortgage.calculator': ['Mortgage Calculator', 'CashlessInfo', '10+', 'http://s3.ap-south-1.amazonaws.com/cashlessinfo/privacypolicy.html', 'cashlessinfoka@gmail.com']}
+{'org.highdesertcu.mteller': ['High Desert Community CU', 'High+Desert+Community+Credit+Union', '5+', 'http://www.highdesertcu.org', 'info@highdesertcu.org']}
+{'com.cmcflex.ftmobile.mhf': ['Mohawk Valley FCU', 'Mohawk+Valley+FCU', '5+', 'http://www.mohawkvalleyfcu.org', 'mohawkvalleyfcu@gmail.com']}
+{'com.dowgwcu.mobile': ['Dow Credit Union', 'Dow+Great+Western+Credit+Union', '50+', 'https://dowcu.org/', 'dowcu@dowcu.org']}
+{'com.adityapk.zcash.zqwandroid': ['ZecQT Wallet', 'zec-qt-wallet', '100+', 'http://www.zecqtwallet.com', 'zcash@adityapk.com']}
+{'com.kandg.kandgappv3': ['KandG App', 'Kaufmann+and+Goble+Associates,+Inc.', '10+', 'http://www.kandg.com', 'administrator@kandg.com']}
+{'org.tricu.tricitiescu': ['Tri-Cities Credit Union', 'Tri-Cities+Credit+Union', '10+', 'http://tricu.org', 'support@tricu.org']}
+{'com.app.updateaadharcard': ['Update Aadhar Card', 'eNest+IT+Solutions', '5,000+', 'http://uidaidownload.com/', 'info@rojgarcenters.com']}
+{'com.curiousminds.savvy': ['Savvy - Invoices and Estimates', 'Curious+Minds', '10+', 'http://www.getsavvy.co', 'support@getsavvy.co']}
+{'com.rediff.android.money': ['Rediff Moneywiz - BSE, NSE, Stocks, Sensex, IPO', 'Rediff.com', '1,000+', 'https://money.rediff.com/index.html', 'customersupport@rediff.co.in']}
+{'com.mfoundry.mb.android.mb_beb101428': ['Heritage Bank GA Business', 'Heritage+Bank+GA', '50+', 'http://www.heritagebank.com', 'Customer.service@heritagebank.com']}
+{'id.co.bri.brimo': ['BRImo BRI', 'PT+Bank+Rakyat+Indonesia+%28Persero%29+Tbk.', '10,000+', 'http://www.bri.co.id', 'it_developer@bri.co.id']}
+{'com.moneymorning.app': ['Money Morning', 'Money+Map+Press,+LLC', '50+', 'https://moneymorning.com', 'kmelchor@moneymappress.com']}
+{'com.drakebank.biz': ['Drake Bank Business Banking', 'Drake+Bank', '1+', 'http://www.drake-bank.com', 'customerservice@drake-bank.com']}
+{'com.helvetia.android.movilcoop.coop062': ['Isabela MovilCoop', 'Helvetia+Del+Caribe', '1+', 'http://www.helvetia-pr.com/', 'helvetiapr@gmail.com']}
+{'com.coin.blockchain': ['Blockchain: Track Bitcoin, Bitcoin Cash, Ethereum', '5265812957420896405', '10+', 'https://invovn.com', 'living.solutions.vn@gmail.com']}
+{'com.citadel.cardcontrol': ['Citadel Card Control', 'CitadelBanking.com', '5+', 'http://www.citadelbanking.com', 'it-development@citadelbanking.com']}
+{'com.columbiabank.bizconnectmobile': ['CB Business', 'Columbia+State+Bank', '1+', 'http://www.columbiabank.com', 'treasurymanagementservices@ColumbiaBank.com']}
+{'app.alpaca.markets': ['Alpaca Dashboard', 'AlpacaDB,+Inc.', '50+', 'https://alpaca.markets', 'info@alpaca.markets']}
+{'com.americasrealdeal.portal': ["America's Real Deal", 'America%27s+Real+Deal', '5+', 'http://portal.americasrealdeal.com', 'info@americasrealdeal.com']}
+{'photoappsstore.atmbalancecheck': ['Bank Balance Check : All Bank Balance Inquiry', 'Photo+Apps+Store', '5,000+', 'https://photoappsstore.blogspot.com/', 'photoappstore@gmail.com']}
+{'com.pipaclife.lifequotes': ['Mobile Life Insurance Quotes by PIPAC', 'PIPAC', '5+', 'http://www.pipaclife.com', 'casey@pipaclife.com']}
+{'com.etoro.wallet': ['eToro Wallet', 'eToroX', '5,000+', 'http://www.etorox.com/PrivacyPolicy.pdf', 'android@etorox.com']}
+{'com.pk.loan': ['Access Bank Loan', 'Uplink+Tech', '5,000+', 'http://Accessbankloan.com', 'support@Accessbankloan.co']}
+{'com.moneyfor_app': ['MoneyFor', 'Alex+Dolgun', '100+', 'https://moneyfor.app', 'dev@moneyfor.app']}
+{'org.gascu.mobile': ['GASCU Mobile App', 'Glendale+Area+Schools+CU', '10+', 'http://www.gascu.org', 'customerservice@gascu.org']}
+{'com.ifs.businessbanking.fiid4644': ['Athol Savings Business Mobile', 'Athol+Savings+Bank', '5+', 'https://www.atholsb.com', 'IFS04644@gmail.com']}
+{'com.siri.billsmanagerfree': ['Bills Manager Free', '4989017747836324536', '50+', 'https://www.facebook.com/siri.homebudgetmanager', 'sirimobileapps@gmail.com']}
+{'com.csiweb.digitalbanking.bk1885': ['High Plains Bank Mobile App', 'Computer+Service+Inc.', '50+', 'http://hpbank.us', 'support@hpbank.us']}
+{'com.germany.payday.loans.online': ['Payday Loans Online', 'AppsPool+Developer', '5,000+', None, 'victorovvova28@gmail.com']}
+{'com.simplenexus.loans.client.s__38763': ['dwell Mortgage', 'DAS+Acquisition,+LLC', '10+', 'https://www.dwellmtg.com', 'digitalsystems@dasacquisition.com']}
+{'com.htmobileapps.plinqit': ['Plinqit', 'HT+Mobile+Apps,+LLC', '10+', 'https://plinqit.com/faqs/', 'support@plinqit.com']}
+{'cash.fast010.instantloans': ['Instant Cash Loans - Cheap Mobile Money Loans', 'Finance+Solutions', '5,000+', 'http://bit.ly/2GJ8wkR', 'kipzilla94@gmail.com']}
+{'com.mobiletrendsrl.newgrants': ['US Grants', 'Mobile+App+Media+101', '5+', 'https://sites.google.com/view/mobileappmediapolicy', 'mobileappmedia1001@gmail.com']}
+{'com.vaultzap57': ['RoamHR', 'RoamHR', '10+', 'http://www.roamhr.com', 'admin@vaultz.io']}
+{'com.kescoenergy.ekesco': ['eKesco - Fatura Online', '5284060780153037788', '1,000+', 'http://www.kesco-energy.com', 'contactcenter@kesco-energy.com']}
+{'uz.xsoft.myinfin': ['InfinBANK', '%D0%90%D0%9A%D0%91+%22InfinBank%22', '1,000+', 'http://infinbank.com', 'myinfin@infinbank.com']}
+{'io.dexlab.dexwallet': ['DexWallet - xDAI', 'Dev+Dexlab', '10+', 'https://www.dexwallet.io', 'dev@dexlab.io']}
+{'com.arqma.Droid': ['arqmaDroid wallet', 'ArqTras', '10+', 'https://arqma.com', 'support@arqma.com']}
+{'com.omantel.efloos.subscriber': ['efloos', 'Omantel', '500+', 'http://www.omantel.om', 'Mahmoud.Hinai@omantel.om']}
+{'com.origincatcher': ['Origin Wallet', 'Origin+Protocol,+Inc.', '1+', 'https://www.originprotocol.com', 'support@originprotocol.com']}
+{'com.andrewdeplacito.Daily_Passive_Cash_Flow': ['Daily Passive Cash Flow', 'Sparkblu,+LLC', '1+', 'https://sparkblu.com', 'andrewdeplacito@gmail.com']}
+{'com.amimembernet.ahcu2': ['Archer Heights Member.Net', 'AMI,+Inc.', '1+', 'http://www.archerheights.com/', 'support@amicusystems.com']}
+{'com.roc.android.roc': ['Retail Openings & Closings', 'Market+Service,+Inc.', '5+', 'http://www.RetailTools.com', 'retailTools@creditntell.com']}
+{'com.mfoundry.mb.android.mb_beb101426': ['InBank Business Mobile', 'International+Bank', '1+', 'https://www.inbank.com', 'ifs04742@gmail.com']}
+{'com.internationalbank.inbank': ['InBank Mobile for Tablet', 'International+Bank', '1+', 'https://www.inbank.com', 'ifs04742@gmail.com']}
+{'com.timo.timeismoney': ['TiMo -Time is money', 'Vasiliu+Andrei', '10+', None, 'v_andu@yahoo.com']}
+{'com.bosusoft.dpaniagua0.currencyconverter': ['Currency Converter', 'Bosusoft', '1,000+', None, 'dev@bosusoft.co']}
+{'com.nakachain.wallet': ['Naka Wallet', 'Ockchain,+Inc.', '1+', 'https://www.nakachain.org', 'developer@nakachain.org']}
+{'com.bdmobile.f1824c': ['Girard', 'Univest+Bank+and+Trust+Co', '1+', 'http://www.univest.net', 'electronicbanking@univest.net']}
+{'com.ras.newcrypto.hub': ['Crypto Hub', 'RAS+Technologies', '1+', 'http://cryptoohub.net', 'rudeemachughtai1@gmail.com']}
+{'com.cellpay': ['Cellpay', 'Cellcom+Private+Limited', '10+', 'http://www.cellcom.net.np', 'info@cellcom.net.np']}
+{'com.citynationalbankofflorida3809.mobile.production': ['CNB ePartner Mobile', 'City+National+Bank+of+Florida', '1+', 'https://www.citynationalcm.com', 'tmsupport@citynational.com']}
+{'com.kazantip.alfawmr': ['ALFA BONUS', 'Kazantip', '10+', 'https://wm-money.000webhostapp.com/igor/privacy/privacy_policy.html', 'igor.milewskiy@gmail.com']}
+{'com.liquid': ['LIQUID: Save, Invest, Conquer goals. [Ghana Beta]', 'Liquid+Financial+Services', '100+', 'https://liquid.com.gh', 'support@liquid.com.gh']}
+{'app.troygold': ['Troy Gold', 'Troy+Gold', '50+', 'https://troygold.app/', 'support@troygold.app']}
+{'md.classic.on.baycreditunion.mobileapp': ['My BayCU', 'Bay+Credit+Union+Ltd.', '10+', 'http://www.baycreditunion.com', 'MobileApps@baycreditunion.com']}
+{'org.bcu.videochat': ['BCU Video Chat', 'BCU', '1+', 'http://www.bcu.org', 'ask@bcu.org']}
+{'com.vananecon': ['Vanan Econ', 'VananServices', '10+', 'https://vananservices.com', 'android@vananservices.com']}
+{'com.hanoverbank.biz': ['Hanovermobile Business', 'Hanover+Community+Bank', '1+', 'https://hanoverbank.com/wp-content/uploads/2018/02/Updated_PP.pdf', 'hanovercb@gmail.com']}
+{'com.dutadeal.id.nd': ['Duta Deal', 'Deirdre+Swiger', '50,000+', 'https://dutadeal.com', 'Cynthia.SCynthias31971@gmail.com']}
+{'com.neo.mobilebanking': ['EON Bank PH', 'Union+Bank+of+the+Philippines', '100+', 'https://www.eonbankph.com', 'unionbank.online.ph@gmail.com']}
+{'co.wingu.bridge': ['Bridge Money', 'Wingu', '50+', 'http://www.wingu.shop', 'wingu.co@gmail.com']}
+{'com.FISCA.farmersstatebank': ['FSB My Card', 'Farmers+State+Bank', '10+', 'http://www.farmersebank.com/', 'eBanking@farmersebank.com']}
+{'com.goodbarber.dineroint': ['Dinero Inteligente', 'Irvin+Isidor', '100+', 'http://dinerointeligenterd.com', 'dinerointeligenteinfo@gmail.com']}
+{'com.sanshak.fulizia.loans.kenya': ['Fast Fuliza Loans Lite', 'FulizaApps', '1,000+', None, 'alexischumbaa@gmail.com']}
+{'com.siri.bundle': ['Finance Bundle License ( One License for all )', '4989017747836324536', '100+', 'https://www.facebook.com/siri.homebudgetmanager', 'sirimobileapps@gmail.com']}
+{'com.capitalmarketshandbook': ['Capital Markets Handbook', 'Hidden+Pathway+LLC', '1+', 'http://www.hpathway.com', 'info@hpathway.com']}
+{'com.Ultrabot.PayForNothing': ['Pay For Nothing', 'Ultrabot', '1+', None, 'ctziapouras8@gmail.com']}
+{'com.utilities.mortgagecalculatorpro': ['Mortgage Calculator Pro', 'Financept', '1+', 'https://mortgage-calculator.net', 'postmaster@mortgage-calculator.net']}
+{'com.investmentcalculator.financialcalculatorpro': ['Financial Calculators Pro', 'Financept', '1+', 'https://online-calculator.org', 'postmaster@online-calculator.org']}
+{'com.claritymoney.android.prod': ['Clarity Money - Budget Planner', 'Clarity+Money,+Inc', '500,000+', 'https://claritymoney.com', 'support@claritymoney.com']}
+{'gov.irs': ['IRS2Go', 'Internal+Revenue+Service', '10,000,000+', 'https://www.irs.gov/', 'irs2go@irs.gov']}
+{'gokart.com.principal': ['Principal®', 'Principal+Financial+Group', '1,000+', 'http://www.principal.com', 'DLRISMOBILEAPPDEV@exchange.principal.com']}
+{'com.chase.sig.android': ['Chase Mobile', 'JPMorgan+Chase', '10,000,000+', 'http://www.Chase.com/mobile', 'chasemobilesupport@emailonline.chase.com']}
+{'com.creditkarma.mobile': ['Credit Karma', 'Credit+Karma,+Inc.', '10,000,000+', 'http://www.creditkarma.com', 'support@creditkarma.com']}
+{'com.intuit.qbse': ['QuickBooks Self-Employed:Mileage Tracker and Taxes', '7987416923533646496', '1,000,000+', 'https://quickbooks.intuit.com/global/privacy/', 'QB_selfemployed@intuit.com']}
+{'com.lifelock.memberapp': ['LifeLock: Identity Theft Protection App', 'LifeLock', '500,000+', 'http://www.lifelock.com', 'support@lifelock.com']}
+{'com.transunion.TransUnion': ['TransUnion: Score & Report', 'TransUnion+Consumer+interactive', '100,000+', 'http://www.transunion.com', 'mobile.agent@transunion.com']}
+{'com.chasepay.sig.android': ['Chase Pay® | Earn, Save, Order', 'JPMorgan+Chase', '1,000,000+', 'https://www.chase.com/digital/digital-payments/chase-pay', 'chasemobilesupport@emailonline.chase.com']}
+{'com.finhabits.finhabitsapp': ['Finhabits - Roth IRA Made Easy', 'Finhabits+Advisors', '100,000+', 'http://www.finhabits.com?utm_source=playstore&utm_campaign=appview', 'advisor@finhabits.com']}
+{'com.infonow.bofa': ['Bank of America Mobile Banking', '5615837024201601069', '10,000,000+', 'https://www.bankofamerica.com/mobile/mobile-banking-help.go', 'mobileappstore@bankofamerica.com']}
+{'com.konylabs.capitalone': ['Capital One® Mobile', 'Capital+One+Services,+LLC', '10,000,000+', 'https://www.capitalone.com/contact/', 'webinfo@capitalone.com']}
+{'com.joinroot.root': ['Root Car Insurance: Good drivers save money', 'Root+Insurance', '1,000,000+', 'https://www.joinroot.com', 'support@joinroot.com']}
+{'com.activehours': ['Earnin - Get Paid Today', 'Activehours+Inc.', '1,000,000+', 'https://www.earnin.com', 'support@earnin.com']}
+{'com.intuit.turbotax.mobile': ['TurboTax Tax Return App – Max Refund Guaranteed', '7987416923533646496', '5,000,000+', 'https://turbotax.intuit.com/personal-taxes/mobile-apps/turbotax.jsp%20', 'TTAppFeedback@intuit.com']}
+{'com.wf.wellsfargomobile': ['Wells Fargo Mobile', 'Wells+Fargo+Mobile', '10,000,000+', 'https://wf.com', 'Appstorefeedback@wellsfargo.com']}
+{'com.installment.and.payday.loans': ['Payday loans: Borrow money in few minutes', 'Payday+loans+Master', '50,000+', None, 'xtimekillergames@gmail.com']}
+{'com.earny.android': ['Earny: Automatic Cash Back', 'Earny+Inc.', '100,000+', 'https://www.earny.co', 'contact@earny.co']}
+{'com.phonevalley.progressive': ['Progressive', 'Progressive+Insurance', '5,000,000+', 'http://www.progressive.com', 'App_Feedback@progressive.com']}
+{'com.onedebit.chime': ['Chime - Mobile Banking', 'Chime', '1,000,000+', 'http://chimebank.com/', 'support@chimebank.com']}
+{'org.uwcu.app.mobile': ['UW Credit Union', 'UW+Credit+Union', '50,000+', 'http://www.uwcu.org', 'is-app@uwcu.org']}
+{'com.nymbus.inspire': ['Inspire Federal Credit Union', 'Inspire+Federal+Credit+Union', '500+', 'http://www.inspirefcu.org', 'bphillips@inspirefcu.org']}
+{'com.folionet.mobile.android.trader': ['Folionet', 'Santos+Capital+Group+LLC', '100+', 'http://www.folionet.com', 'support@folionet.com']}
+{'com.americanexpress.android.acctsvcs.us': ['Amex', 'American+Express', '5,000,000+', 'https://www.americanexpress.com/us/content/mobile/android.html', 'android@aexp.com']}
+{'com.creditonebank.mobile': ['Credit One Bank Mobile', 'Credit+One+Bank,+N.A.', '1,000,000+', 'https://www.creditonebank.com/', 'AppStoreDevAcct@creditone.com']}
+{'com.usbank.mobilebanking': ['U.S. Bank', 'U.S.+Bank+Mobile', '1,000,000+', 'http://usbank.com/mobile', '1800usbanks@usbank.com']}
+{'com.pheaa.mobile.pheaafls': ['FedLoan Student Loans', 'Pennsylvania+Higher+Education+Assistance+Agency', '500+', 'http://www.pheaa.org', 'accountinfo@MyFedLoan.org']}
+{'com.hellobrigit.Brigit': ['Brigit: Get $250 Between Paychecks, End Overdrafts', 'Brigit', '100,000+', 'https://hellobrigit.com', 'info@hellobrigit.com']}
+{'com.csam.icici.bank.imobile': ['iMobile by ICICI Bank', 'ICICI+Bank+Ltd.', '10,000,000+', 'http://www.icicibank.com', 'mobileapps@icicibank.com']}
+{'com.bbva.compassBuzz': ['BBVA Compass Banking', '6321507411823178986', '500,000+', 'https://www.bbvacompass.com/digital-banking-services/mobile-banking.html', 'mobile-banking.usa.group@bbva.com']}
+{'com.blacktowerinvestments.stinu': ['Stinu', 'Black+Tower+Investments+Ltd.', '1,000+', 'https://www.urbanforex.com', 'info@urbanforex.com']}
+{'com.p9b8805d001412d141092d7bd9d076dcd.neuraltradingrobot': ['Neural Forex Trading Robot.', 'Neural+Trade+System', '1,000+', 'https://rofx.guru/', 'starttradeinc@gmail.com']}
+{'com.malauzai.CPFCU': ['CP Federal Mobile', 'Malauzai+Software', '10,000+', 'http://www.cpfederal.com', 'cpfcu@cpfederal.com']}
+{'com.paydayloans.online.oneclickloan': ['ClickLoan – Fast Loans Online', '9218365957739550170', '1,000+', 'https://clickloan.pp.ua', 'vladislavme80@gmail.com']}
+{'com.harlandfs.ofx.mobile.fiid273073848': ['Premier CU Mobile Banking', 'Premier+Credit+Union', '1,000+', 'http://www.premiercu.org', 'memberservice@premiercu.org']}
+{'com.caped.cardcommand': ['CapEd CardCommand', 'CapEd+Credit+Union', '10+', 'https://www.caped.com', 'toby@caped.com']}
+{'com.bankofamerica.prepaid': ['BofA Prepaid Mobile', '5615837024201601069', '100,000+', 'https://prepaid.bankofamerica.com/content/PRC384/_Docs/DIGITAL-BofAPrepaid-Help.pdf', 'MobileServices@prepaidcard.bankofamerica.com']}
+{'com.cmcflex.ftmobile.csl': ['Cal State LA FCU', 'Cal+State+LA+FCU', '100+', 'http://www.calstatela-fcu.org', 'dhines@calstatela-fcu.org']}
+{'com.ml.mobile.mymerrill': ['MyMerrill for Android', 'Merrill+Lynch,+Pierce,+Fenner,+and+Smith+Inc.', '100,000+', 'http://www.mymerrill.com', 'ml_mobile_android_support@ml.com']}
+{'com.evertec.athmovil.android': ['ATH Móvil', 'EVERTEC+Group,+LLC', '1,000,000+', 'http://www.athmovil.com', 'servicioalcliente@athmovil.com']}
+{'network.celsius.wallet': ['Celsius Network – Crypto Wallet: Earn Interest Now', 'Celsius+Network', '10,000+', 'https://celsius.network', 'keith@celsius.network']}
+{'de.schildbach.wallet': ['Bitcoin Wallet', '5750589945930020869', '1,000,000+', 'https://github.com/bitcoin-wallet/bitcoin-wallet', 'bitcoin.wallet.developers+play@gmail.com']}
+{'com.scottsdalesilver.certi_lock': ['Certi-Lock', 'Scottsdale+Mint', '1,000+', 'http://www.scottsdalemint.com', 'sales@scottsdalesilver.com']}
+{'com.meetcleo.cleo': ['Cleo', 'Cleo+AI+Ltd', '500+', 'https://meetcleo.com', 'team@meetcleo.com']}
+{'me.tomorrow.android': ['Tomorrow - Need a Will? Get the app!', 'Tomorrow+Ideas,+Inc.', '10,000+', 'https://www.tomorrow.me', 'support@tomorrow.me']}
+{'com.even.harmony': ['Even - How busy people master their money', 'Even+Responsible+Finance', '100,000+', 'https://www.even.com', 'hello@teameven.com']}
+{'com.healthcarefirstfcu.mobile': ['HealthCare First CU Mobile', 'Healthcare+First+Credit+Union', '100+', 'http://www.healthcarefirstcu.com', 'meghan@healthcarefirstcu.com']}
+{'com.financial.calculator': ['Financial Calculators', 'Bishinews', '1,000,000+', 'http://www.fncalculator.com', 'pfinanceapp@gmail.com']}
+{'com.csiweb.digitalbanking.bk0748': ['Fayette County National Bank', 'Computer+Service+Inc.', '10+', 'https://www.fcnbonline.com/', 'no-reply@fcnbonline.com']}
+{'com.DailyPay.DailyPay': ['DailyPay', 'DailyPay+Inc.', '10,000+', 'https://www.dailypay.com', 'support@dailypay.com']}
+{'com.refundo.wmr': ['Where’s My Refundo? IRS Status', 'Refundo+Inc.', '5,000+', 'http://www.refundo.com', 'hello@refundo.com']}
+{'com.pheaa.mobile.pheaaaes': ['AES Student Loans', 'Pennsylvania+Higher+Education+Assistance+Agency', '100+', 'http://www.pheaa.org', 'aescs@aessuccess.org']}
+{'com.creditsesame': ['Credit Sesame', 'Credit+Sesame,+Inc.', '1,000,000+', 'http://www.creditsesame.com', 'mobilesupport@creditsesame.com']}
+{'com.verifly.smb': ['Verifly – General Liability Insurance', 'Verifly+Technology,+Ltd.', '10,000+', 'http://verifly.com', 'android-help@verifly.com']}
+{'com.payday.loan.reading': ['Payday loans & Bad credit Loans - Loannn', 'Cash+Inloan+Dev', '100+', 'https://checkintocash.com/privacy-policy/', 'cashinloandev@gmail.com']}
+{'com.stash.stashinvest': ['Stash: Invest. Learn. Save.', 'Stash+Invest', '1,000,000+', 'http://www.stashinvest.com', 'support@stashinvest.com']}
+{'com.transunion.DSS': ['myTransUnion: Credit Freeze', 'TransUnion+Consumer+interactive', '10,000+', 'http://www.transunion.com', 'mobileagent@tuinteractive.com']}
+{'com.changEd.administrator.changedapp_production': ['The ChangEd App', 'ChangEd+Inc.', '5,000+', 'https://www.gochanged.com/', 'support@changedapps.com']}
+{'com.opportunitybom.mobile': ['Opportunity Bank of Montana', 'Opportunity+Bank', '1,000+', 'http://www.opportunitybank.com', 'info@oppbank.com']}
+{'com.current.app': ['Current - A better bank for a brighter future', 'Current', '100,000+', 'https://current.com', 'support@current.com']}
+{'com.mobill.app': ['MoBill Budget and Reminder', 'hakane', '500,000+', 'http://www.mobillbudget.com', 'support@mobillbudget.com']}
+{'com.qtquotes.android': ['QT Commodity Quotes', 'QT+Technology+Staff', '500+', 'http://www.qtinfo.com', 'sales@qtinfo.com']}
+{'com.ravencoin': ['RVN Wallet', 'Medici+Ventures+Inc.', '1,000+', 'https://ravencoin.com', 'support@ravenwallet.org']}
+{'com.andromo.dev430081.app392812': ['Make Money: Passive Income & Work From Home Ideas', 'AlphaRay+Apps', '1,000,000+', 'http://alpharayapps.com', 'contact@alpharayapps.com']}
+{'com.oxbowsoft.debtplanner': ['Debt Payoff Planner', 'OxbowSoft+LLC', '100,000+', 'http://www.debt-payoff-planner.com', 'support@stebt.com']}
+{'com.mfoundry.mb.android.mb_271171616': ['DeWitt Savings Bank', 'DeWitt+Savings+Bank', '100+', 'https://www.dewittsavingsbank.com', 'onlinebanker@dewittsb.com']}
+{'jp.united.app.kanahei.money': ['Household account book', 'UNITED,+Inc.', '1,000,000+', 'http://united.jp', 'appli-manager@united.jp']}
+{'com.sherpashare.simple': ['Simple - A Better Mileage Tracker For Free', 'SherpaShare,+Inc', '1,000+', 'https://www.getsimple.app', 'info@getsimple.app']}
+{'com.morganstanley.prod.SumSPC': ['StockPlan Connect', 'Morgan+Stanley+and+Co.+LLC', '1,000+', 'https://stockplanconnect.morganstanley.com/', 'stockplanconnectms@morganstanley.com']}
+{'com.honeydue.honeydue': ['Honeydue: Budget, Bills & Money for Couples', 'WalletIQ,+Inc.', '50,000+', 'https://www.honeydue.com', 'support@honeydue.com']}
+{'com.ufbdirect.udb': ['UFB Direct®', 'Axos+Bank', '50+', 'https://www.ufbdirect.com', 'customerservice@ufbdirect.com']}
+{'com.geico.mobile': ['GEICO Mobile - Car Insurance', 'GEICO+Insurance', '10,000,000+', 'https://www.geico.com/web-and-mobile/mobile-apps/', 'mobileapphelp@geicomail.com']}
+{'com.sbai.coinburn': ['Coinburn-Bitcoin & Blockchain Trading Platform', 'bitcoin+coinburn+Co.,+Ltd', '500+', 'https://c1.ska0p7.com/operate/uptext/protect.html', 'm13316495548@163.com']}
+{'com.looklike.makemoney': ['Make Money Online& Work From Home Ideas', '8224345892189664347', '5,000+', 'http://www.bestonelist.com', 'kar.yer22751@gmail.com']}
+{'com.yapstone.rentpayment': ['RentPayment - by YapStone™', 'Yapstone+Mobile', '100,000+', 'http://www.rentpayment.com/', 'android@yapstone.com']}
+{'com.intersections.identityguard': ['Identity Guard®', 'Identity+Guard', '100,000+', 'http://www.identityguard.com/', 'customersupport@identityguard.com']}
+{'com.scoutinvest.vest': ['Vest: Cryptocurrency & Bitcoin Investor', 'Scout+Invest,+Inc.', '1,000+', 'https://www.vest.app', 'support@vest.app']}
+{'com.conduent.ebt': ['ConnectEBT', 'Conduent,+Inc', '50,000+', 'http://www.ConnectEBT.com', 'ConnectEBT@Conduent.com']}
+{'com.ouro.ouro': ['I am rich - Premium', 'Brapps+Inc.', '1,000+', None, 'brappsconsole@gmail.com']}
+{'com.suntrust.mobilebanking': ['SunTrust Mobile App', 'SunTrust+Banks,+Inc.', '1,000,000+', 'https://www.suntrust.com/mobileapp', 'customercare@suntrust.com']}
+{'com.i2c.mcp.goldenNugget': ['Golden Nugget', 'i2c+Inc.', '10,000+', 'http://www.i2cinc.com', 'support@loyaltycardplus.com']}
+{'io.socash.withdrawal.user': ['SOCASH', 'soCash+Pte+Ltd', '50,000+', 'https://www.socash.io', 'admin@socash.sg']}
+{'com.onefinance.loans': ['1Finance - Payday Loans and Cash Advance', 'First+Finance+Loans+LLC', '1,000+', 'https://telegra.ph/First-Finance-1Finance-app-PRIVACY-POLICY-02-19', '1finance.help@gmail.com']}
+{'com.abc.jayes.waller': ['Money Manager, Expense Manager, Budget app', 'J25', '1,000+', 'https://medcare.000webhostapp.com/Waller/Aboutus.html', 'waller.finance@gmail.com']}
+{'com.quppy': ['Quppy – Secure Bitcoin Wallet. Crypto Exchange', 'Quppy+Europe+OU', '10,000+', 'http://quppy.com/', 'support@quppy.com']}
+{'com.org.mocafi.mocafi': ['MoCaFi - Spend Smart, Build Credit, Live Wealthy', 'Wole+Coaxum', '5,000+', 'http://www.mocafi.com', 'wole.coaxum@mocafi.com']}
+{'com.paytomat': ['Paytomat Wallet: Bitcoin, Ethereum, EOS, tokens', 'Paytomat', '5,000+', 'http://www.paytomat.com', 'android@paytomat.com']}
+{'com.malauzai.pinckneyville': ['FNB Pinckneyville', 'First+National+Bank+in+Pinckneyville', '100+', 'http://www.fnbpville.com', 'abozeman@fnbpville.com']}
+{'pay.freecash.earnmoney': ['Real Pay – Watch Video and Earn Money App', 'RV+Groups', '10,000+', 'https://sites.google.com/view/realpay', 'rvgroup29@gmail.com']}
+{'com.haulpay_mobile': ['HaulPay - Automate Freight Payments', 'ComFreight', '1,000+', 'https://haulpay.co', 'support@comfreight.com']}
+{'com.keefegroup.access.corrections': ['Access Corrections', 'Keefe+Group+LLC', '100,000+', 'http://www.keefegroup.com', 'customerservice@accesscorrections.com']}
+{'com.qarasoft.kosho': ['KOSHO - AI Deep Learning Robo-Advisor', 'Kosho', '10,000+', 'https://www.kosho.ai', 'cs@kosho.ai']}
+{'com.htsu.hsbcpersonalbanking': ['HSBC Mobile Banking', 'HSBC', '5,000,000+', 'http://hsbc.mobi/', 'hsbc.app.support@hsbc.com']}
+{'com.realbyteapps.moneymanagerfree': ['Money Manager Expense & Budget', 'Realbyte+Inc.', '5,000,000+', 'http://realbyteapps.com', 'help@realbyteapps.com']}
+{'com.amfam.myamfam': ['MyAmFam', 'American+Family+Insurance', '100,000+', 'http://www.amfam.com', 'accountsupport@amfam.com']}
+{'com.independentbank3157.uwnmobile': ['IB Mobile', 'Independent+Bank+Group', '10,000+', 'http://www.ibtx.com', 'info@ibtx.com']}
+{'com.suneoneapps.earnextraincome': ['Earn Extra Income - Make Real Money Online', '5883421560769933545', '1,000,000+', 'http://sunoneapps.com', 'admin@sunoneapps.com']}
+{'com.ig.android.forex': ['IG Forex: spot FX trading', '6150299331106222925', '100+', 'http://www.ig.com', 'mobile.iggroup@googlemail.com']}
+{'com.sentry.pl.customer.dairylandapp': ['Dairyland®', 'Dairyland%C2%AE', '50,000+', 'https://www.dairylandinsurance.com/Contact-Dairyland-Insurance', 'Help@DairylandInsurance.com']}
+{'com.francisinvco.moneyadvice': ['MoneyAdvice@Work®', 'Francis+Investment+Counsel+LLC', '500+', 'http://francisinvco.com', 'matthew.vandre@francisinvco.com']}
+{'mobi.muntean.pile.pile': ['Pile - Receipt Scanner & Expense Report', 'Muntean+mobi', '1,000+', 'https://www.muntean.mobi/pile', 'contact@muntean.mobi']}
+{'com.popular.android.mibanco': ['Mi Banco Mobile', 'Banco+Popular+de+Puerto+Rico', '1,000,000+', 'http://www.popular.com/', 'internet@bppr.com']}
+{'tsc.loandayusa.com': ['Loan Day USA - Cash loans today', 'Loan+Day+America+Services', '5,000+', 'http://www.loandayusa.com', 'loandayamerica@gmail.com']}
+{'com.bbt.myfi': ['U by BB&T', 'BBT+Mobile', '1,000,000+', 'http://www.bbt.com/mobile', 'Mobile@bbandt.com']}
+{'sk.tb.mp.tatraandroid': ['MobilePay', 'Tatra+banka,+a.s.', '100,000+', 'http://www.tatrabanka.sk', 'mobilepay@tatrabanka.sk']}
+{'com.elan.icsmobile.elanapp': ['Elan Credit Card', 'Elan+Financial+Services', '100,000+', 'http://www.myaccountaccess.com', 'elan.mobile@usbank.com']}
+{'mx.com.bancoazteca.bazdigitalmovil': ['Banco Azteca', 'Banco+Azteca+S.A.+Instituci%C3%B3n+de+Banca+Multiple', '5,000,000+', 'http://www.bancoazteca.com.mx', 'ayuda@bancoazteca.com.mx']}
+{'com.gotruemotion.ubi.travelers.intellidrive': ['Travelers IntelliDrive™', 'The+Travelers+Indemnity+Company', '10,000+', 'http://www.travelers.com', 'custadvo@travelers.com']}
+{'com.q2e.firstfinancial3268.ffbmobile.uwnmobile': ['First Financial Bank - Mobile', 'First+Financial+Bank', '100,000+', 'http://www.bankatfirst.com/contact-us/', 'Client.service@bankatfirst.com']}
+{'biz.a_pay.a_pay': ['APay', 'Zeb+Reardon', '10,000+', 'https://www.a-pay.biz/', 'zreardon@gmail.com']}
+{'com.themoneysource.mobile': ['TMS Happinest', 'The+Money+Source', '10,000+', 'https://themoneysource.com/', 'contactus@cypertech.net']}
+{'com.sfbcic.android': ['Farm Bureau MobileAgent', 'Southern+Farm+Bureau+Casualty+Insurance+Company', '50,000+', 'http://www.sfbcic.com', 'mobileagentsc@gmail.com']}
+{'money.expense.budget.wallet.manager.track.finance.tracker': ['Money Manager: Expense Tracker, Free Budgeting App', 'Money+Manager,+Expense+Tracker,+Currency+Exchange', '1,000,000+', 'http://www.anappforge.com/privacy.html', 'youngzi@dailyinnovation.biz']}
+{'com.colpit.diamondcoming.isavemoney': ['Monthly Budget Planner & Daily Expense Tracker', 'DigitLeaf,+llc', '1,000,000+', 'http://www.pay-debt.com', 'contact.isavemoney@gmail.com']}
+{'com.Splitwise.SplitwiseMobile': ['Splitwise', 'Splitwise', '5,000,000+', 'http://splitwise.com', 'android-support@splitwise.com']}
+{'com.farmers.ifarmers': ['Farmers', 'Farmers+Group+Inc', '100,000+', 'http://www.farmers.com/', 'USW.Mobile.AppTeam@farmersinsurance.com']}
+{'com.cecilbank.mobile': ['Cecil Bank Mobile', 'Cecil+Bank+Inc.', '50+', 'http://www.cecilbank.com', 'cecilbank1650@gmail.com']}
+{'com.empower.retirement.android.Retire53.Mobile': ['FIFTH THIRD BANK RETIREMENT', 'Great-West+Developers', '50+', 'https://53.retirementpartner.com/participant/#/login', 'developer@retirementpartner.com']}
+{'mx.com.miapp': ['BanCoppel Express', 'BanCoppel', '500,000+', 'http://www.bancoppel.com', 'bancoppel.info@gmail.com']}
+{'com.cashyou.loan.app.online': ['CashYou - Payday Loans Online', '%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9+%D0%9A%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B8%D0%BD', '1,000+', 'http://paydayloans.pp.ua/', 'arcadkuroch779@gmail.com']}
+{'com.gorillatrades.gorillatrades': ['GorillaTrades', 'Gorilla+Trades+Inc.', '1,000+', 'https://www.gorillatrades.com', 'thegorilla@gorillatrades.com']}
+{'com.lemonadeinc.lemonade': ['Lemonade: Renters & Homeowners Insurance', '4782657628587472295', '100,000+', 'https://lemonade.com', 'feedback@lemonade.com']}
+{'com.lexingtonlaw': ['Lexington Law - Credit Repair', 'Progrexion,+IP', '100,000+', 'https://clients.lexingtonlaw.com/login', 'app@lexingtonlaw.com']}
+{'com.lendmobi': ['LendMobi', 'lendmobi', '100,000+', 'http://www.lendmobi.com/', 'support@lendmobi.com']}
+{'com.finicity.mvelopes': ['Mvelopes Budget App', 'Finicity+Corp.', '100,000+', 'http://www.mvelopes.com', 'customer.support@mvelopes.com']}
+{'com.navyfederal.android': ['Navy Federal Credit Union', 'Navy+Federal', '1,000,000+', 'https://www.navyfederal.org', 'mobilehelp@navyfederal.org']}
+{'com.mfoundry.mb.android.mb_bylinebeb175': ['Byline Bank Business Mobile', 'Byline+Bank', '100+', 'https://www.bylinebank.com', 'appman@bylinebank.com']}
+{'com.loans.for.bad.credit': ['Loans For Bad Credit - Cash Advance App', 'Loans+For+Bad+Credit+Online', '100+', 'https://takelend.com/privacy', 'cupid@nycmail.com']}
+{'com.syf.cc': ['CareCredit Mobile', 'Synchrony', '500,000+', 'https://www.carecredit.com/', 'appsupport@synchronyfinancial.com']}
+{'com.woodforest': ['Woodforest Mobile Banking', 'Woodforest+National+Bank', '1,000,000+', 'https://www.woodforest.com/', 'mobilesupport@woodforest.com']}
+{'com.tdameritrade.mobile3': ['TD Ameritrade Mobile', 'TD+Ameritrade+IP+Company,+Inc.', '1,000,000+', 'http://www.tdameritrade.com/mobileapp', 'tdameritrademobile@tdameritrade.com']}
+{'com.progfinance.progressivemobile': ['Progressive Leasing Mobile', 'Progressive+Leasing', '100,000+', 'http://www.progleasing.com', 'customersupport@progleasing.com']}
+{'com.bossrevolution.money.production': ['Boss Revolution – International Money Transfer', 'Boss+Revolution', '500,000+', 'https://bossrevolution.com', 'moneyapp@idt.net']}
+{'com.pnc.ecommerce.mobile.vw.android': ['Virtual Wallet by PNC', 'PNC+Bank,+N.A.', '1,000,000+', 'https://www.pnc.com', 'insidethewallet@pnc.com']}
+{'cornero.allbankbalancecheck': ['All Bank Balance Check Any Bank Ac Balance Enquiry', 'cornero+apps', '50,000+', 'https://corneroapps.blogspot.com/2018/11/cornero-apps-privacy-policy.html', 'corneroapps@gmail.com']}
+{'com.rubicoin.invest': ['Invest – Learn Stock Investing with MyWallSt', 'MyWallSt', '50,000+', 'http://www.mywallst.com', 'a@mywallst.com']}
+{'lv.fitstergroup.forexhero': ['Forex Hero Trading Game - currency investing', 'Forex+illustrated', '100,000+', 'http://www.forexillustrated.com/', 'ugis@forexillustrated.com']}
+{'com.banregio.hey': ['Hey Banco', 'Banregio', '10,000+', 'http://www.heybanco.com', 'contacto@heybanco.com']}
+{'com.fidelity.android': ['Fidelity Investments', 'Fidelity+Investments', '1,000,000+', 'https://www.fidelity.com', 'ElectronicChannelSupport@fidelity.com']}
+{'com.morganstanley.clientmobile.prod': ['Morgan Stanley Wealth Mgmt', 'Morgan+Stanley+and+Co.+LLC', '50,000+', 'http://www.morganstanley.com/online', 'onlinesupport@morganstanley.com']}
+{'com.etrade.mobilepro.activity': ['E*TRADE: Invest. Trade. Save.', 'E*TRADE+Financial', '1,000,000+', 'http://us.etrade.com', 'mobile@etrade.com']}
+{'com.firstpremier.mypremiercreditcard': ['My Premier Credit Card', 'PREMIER+SD', '500,000+', 'https://www.mypremiercreditcard.com', 'mobileappsupport@premierbankcard.com']}
+{'com.key.android': ['KeyBank Mobile', 'KeyBank,+N.A.', '1,000,000+', 'http://www.key.com', 'KeyMobileApplication@keybank.com']}
+{'com.lmig.pm.internet.mobile.android.libertymutual': ['Liberty Mutual Mobile', 'Liberty+Mutual+Insurance+Company', '100,000+', 'http://libertymutual.com/liberty-mutual-mobile', 'Mobile_Apps@LibertyMutual.com']}
+{'com.worldremit.android': ['WorldRemit Money Transfer', 'WorldRemit', '1,000,000+', 'https://www.worldremit.com/', 'feedback@worldremit.com']}
+{'com.aflac.access': ['MyAflac', 'Aflac+US', '100,000+', 'https://www.aflac.com/about-aflac/privacy-policy.aspx', 'aflacuscolumbus@aflac.com']}
+{'com.mychime.waveremit.app': ['Wave—Send Money to Africa', 'Chime+Inc', '100,000+', 'http://www.wave.com', 'help@wave.com']}
+{'com.ipacc.android': ['Infinity Auto', 'Infinity+Insurance', '100,000+', 'http://www.infinityauto.com', 'agenthelpdesk@ipacc.com']}
+{'com.umpquabank.mobilebanking': ['Umpqua Bank Mobile Banking', 'Umpqua+Bank', '100,000+', 'https://www.umpquabank.com/', 'customerservice@umpquabank.com']}
+{'com.rac.mobile': ['RAC Auto', 'BBT+Mobile', '50,000+', 'https://www.regionalacceptance.com/', 'RACMobileApp@regacc.com']}
+{'com.citizensbank.androidapp': ['Citizens Bank Mobile Banking', 'Citizens+Bank,+N.A.', '1,000,000+', 'http://www.citizensbank.com/online-and-mobile-banking/apps.aspx', 'mobilesupport@citizensbank.com']}
+{'com.afterpaymobile.us': ['Afterpay - Shop Now, Pay Later', 'Afterpay', '100,000+', 'https://www.afterpay.com', 'info@afterpay.com.au']}
+{'com.aspiration.app': ['Aspiration Banking Services', 'Aspiration+Partners+Inc', '100,000+', 'https://www.aspiration.com/summit', 'support@aspiration.com']}
+{'com.ifs.banking.fiid5039': ['EECU', 'Educational+Employees+Credit+Union', '100,000+', 'http://www.myeecu.org', 'info@myeecu.org']}
+{'com.jbremt.richofferrorcoins': ['Rich Off Error Coins', 'Erik%27s+Apps', '100,000+', 'http://www.eriksapps.com', 'jbremt@gmail.com']}
+{'com.botw.mobilebanking': ['Bank of the West Mobile', 'Bank+of+the+West', '500,000+', 'http://bankofthewest.com', 'MobileBanking@bankofthewest.com']}
+{'com.atlanticus.fortivaols': ['Fortiva Account Center', 'MyFortiva', '10,000+', 'https://www.myfortiva.com', 'fortivait@atlanticus.com']}
+{'com.youpei.android': ['Pei - Automatic Cash Back', 'Pei+Technology+Inc', '1,000+', 'https://getpei.com/', 'support@youpei.me']}
+{'com.fiserv.popmoney': ['Popmoney', 'Fiserv+Inc.', '100,000+', 'http://www.popmoney.com', 'support@popmoney.com']}
+{'com.branch_international.branch.branch_demo_android': ['Branch - Personal Finance Loans', 'Branch+International', '5,000,000+', 'https://Branch.co', 'support@branch.co']}
+{'com.usaa.mobile.android.usaa': ['USAA Mobile', '8585147789153326395', '5,000,000+', 'http://www.usaa.com/mobile', 'mobile@usaa.com']}
+{'com.xerox.epc.way2go': ['Go Program Way2Go Card', 'Conduent,+Inc', '100,000+', 'https://www.goprogram.com/goedcclient/contactUs.eppic%20', 'Way2GoCard@conduent.com']}
+{'mx.intelifin.android.albo': ['albo - Adiós bancos. ¡Hola albo!', 'Inteligencia+en+Finanzas+SAPI+de+CV', '10,000+', 'https://www.albo.mx', 'hola@albo.mx']}
+{'com.lender411.Davidson_Group': ['HomeWise', 'Lender411', '1,000+', 'http://davidsongroup.net/', 'cbrown@servicefirstmtg.com']}
+{'com.myfico': ['myFICO - Official FICO® Scores', 'FICO', '100,000+', 'http://www.myfico.com', 'myfico_android@fico.com']}
+{'com.answerfinancial': ['Answer Mobile', 'Answer+Financial+Inc.', '50,000+', 'http://www.answerfinancial.com', 'answermobilesupport@answerfinancial.com']}
+{'com.sovereign.santander': ['Santander Bank US', 'Santander+Bank,+NA', '500,000+', 'https://customerservice.santanderbank.com', 'mobilebankingsupport@santander.us']}
+{'com.bluebird.mobile': ['Bluebird by American Express', 'Interactive+Communications+International,+Inc.', '1,000,000+', 'http://bluebird.com', 'MobileDevelopement@incomm.com']}
+{'com.vanguard': ['Vanguard', 'The+Vanguard+Group,+Inc.', '500,000+', 'http://www.vanguard.com', 'online@vanguard.com']}
+{'com.w2cyk.android.balance4directexpress': ['ITW Balance 4 SSI / SSD', 'ITWeRKS', '10,000+', 'http://www.rfinder.net', 'bobofthedeep@gmail.com']}
+{'com.barclaycardus': ['Barclays US for Android', 'Barclays+Bank+Delaware', '1,000,000+', 'https://www.barclaysus.com', 'androidapps@barclaycardus.com']}
+{'com.tcf.d3': ['TCF Bank', 'TCF+Bank', '100,000+', 'http://www.tcfbank.com', 'rbccustcare@tcfbank.com']}
+{'com.softek.ofxclmobile.macu': ['Mountain America Credit Union', 'Mountain+America+Credit+Union', '100,000+', 'http://www.macu.com', 'apple@macu.com']}
+{'com.drcalculator.android.mortgage': ["Karl's Mortgage Calculator", 'Dr+Karl+Jeacle', '1,000,000+', 'https://www.drcalculator.com/', 'karl@jeacle.ie']}
+{'com.gpsrv.opte': ['Revolve Finance', 'Curo+/+Galileo+Processing', '100+', 'https://secure.myrevolveaccount.com/', 'mobile.support@galileoprocessing.com']}
+{'com.citibank.mobile.cn': ['Citi Mobile', 'Citibank+Mobile+CN', '100,000+', 'http://www.citibank.com.cn', 'qian.xie@citi.com']}
+{'com.ml.mobile.edge': ['Merrill Edge for Android', 'Merrill+Lynch,+Pierce,+Fenner,+and+Smith+Inc.', '100,000+', 'http://www.merrilledge.com', 'ml_mobile_android_support@ml.com']}
+{'com.mcom.firstcitizens': ['First Citizens Mobile Banking', 'First+Citizens+Bank+%26+Trust', '100,000+', 'http://www.firstcitizens.com/mobile', 'fcdirect@firstcitizens.com']}
+{'com.mint': ['Mint: Budget, Bills, Finance', '7987416923533646496', '5,000,000+', 'http://www.mint.com', 'feedback-mobile@mint.com']}
+{'com.supportpay': ['SupportPay - Child Support, Expenses & Alimony', 'SupportPay', '10,000+', 'http://help.supportpay.com', 'help@supportpay.com']}
+{'com.scbt.mobile': ['South State Mobile Banking', 'South+State+Bank', '100,000+', 'https://www.southstatebank.com', 'ClientBrandedApp@Fiserv.com']}
+{'org.schoolsfirstfcu.mobile': ['SchoolsFirst FCU Mobile', 'SchoolsFirst+FCU', '100,000+', 'http://www.schoolsfirstfcu.org', 'info@SchoolsFirstfcu.org']}
+{'com.firstpremierbank3390.mobile': ['First PREMIER Mobile Banking', 'First+PREMIER+Bank', '100,000+', 'http://www.firstpremier.com', 'CustomerCare@firstpremier.com']}
+{'com.iccu.iccu': ['Idaho Central Mobile Banking', 'Idaho+Central+Credit+Union', '100,000+', 'https://www.iccu.com', 'memberservice@iccu.com']}
+{'com.banamex.wallet': ['Citibanamex Pay', 'Banco+Nacional+de+M%C3%A9xico+S.A.', '100,000+', 'https://www.banamex.com/es/personas/servicios/banca-digital/wallet.html', 'pay@citibanamex.com']}
+{'com.firstnational.omaha': ['First National Bank of Omaha', 'FNNI', '100,000+', 'https://www.fnbo.com/', 'mobilefeedback@fnni.com']}
+{'com.citi.mobile.ccc': ['CitiManager', 'Citibank+N.A.', '10,000+', 'http://www.citimanager.com', 'citimanagerappfeedback@citi.com']}
+{'com.ifs.mobilebanking.fiid3500': ['GECU Mobile', 'GECU', '100,000+', 'http://www.gecu.com', 'GECUSupport@gecu-ep.org']}
+{'com.midflorida.mobile.branch': ['MIDFLORIDA Mobile Branch', 'MIDFLORIDA+Credit+Union', '100,000+', 'http://www.midflorida.com', 'helpdesk@midflorida.com']}
+{'org.arrowhead.mobile': ['Arrowhead Credit Union', 'ACU+Mobile+Developer', '50,000+', 'http://www.arrowheadcu.org', 'info@arrowheadcu.org']}
+{'com.calllevelsapp': ['Call Levels - Free FX Alerts', 'Call+Levels', '100,000+', 'http://www.call-levels.com', 'contact@call-levels.com']}
+{'co.mynd.resident': ['Mynd Resident', 'Mynd+Management,+Inc', '500+', 'https://www.mynd.co', 'admin-gdev@mynd.co']}
+{'com.cashmaniac.app': ['Cash Maniac - Enjoy Free Reward', 'cashidea', '1,000+', 'https://www.cashideapp.com', 'cashidea@mail.com']}
+{'com.snappays': ['Papaya Payments: Pay Every Bill', 'SnapPays', '10,000+', 'https://ppaya.com', 'help@ppaya.com']}
+{'com.buenadigital.taxaudit': ['TaxAudit App', 'TaxAudit', '100+', 'http://www.taxaudit.com', 'appsupport@taxaudit.com']}
+{'com.inadaydevelopment.cashcalculator': ['10bii Financial Calculator', 'In+A+Day+Development', '10,000+', 'http://www.inadaydevelopment.com/app/android/10bii-Financial-Calculator', 'theteam@inadaydevelopment.com']}
+{'com.roaddogssoftware.cardapp': ['MyCard - NFC Payment', 'Road+Dogs+Software', '5,000+', 'https://www.dropbox.com/s/mf1l6t5e7h2a4rz/privacy-policy.pdf?dl=0', 'roaddogssoftware@gmail.com']}
+{'com.onetwoapps.mh': ['My Budget Book', 'OneTwoApps', '100,000+', None, 'onetwoapps@gmail.com']}
+{'com.LynnfieldLLC.MilitaryRetire': ['Military Retirement', 'LYNNFIELD+LLC', '1,000+', 'http://lynnfieldllc.com', 'support@lynnfieldllc.com']}
+{'com.hp.hp12c': ['HP 12c Financial Calculator', '8070428187829536606', '10,000+', 'http://www.shopping.hp.com/en_US/home-office/-/products/Accessories/Calculators', 'Calculators@hp.com']}
+{'mic.app.gastosdiarios_licencia': ['Daily Expenses License', '4725112966377296748', '100,000+', 'http://www.gastos-diarios.com', 'michelcarvill@gmail.com']}
+{'com.calculator.ccPayoffPro': ['Debt Payoff Planner', 'Swiftmatic+LLC', '10,000+', 'http://swiftmatic.com/', 'swiftmatic.apps@gmail.com']}
+{'com.anishu.homebudget.full': ['Home Budget with Sync', 'Anishu,+Inc.', '50,000+', 'http://www.anishu.com', 'support@anishu.com']}
+{'com.molovi.checkbook': ['Checkbook Pro', 'Molovi+Software', '10,000+', 'http://www.molovi.com', 'support@molovi.com']}
+{'com.wingboat.AllowanceBot': ['Allowance & Chores Bot', 'Wingboat.com+LLC', '1,000+', 'http://www.wingboat.com', 'support@wingboat.com']}
+{'cn.com.calculator.finance': ['Ba Financial Calculator plus', 'liningbo', '1,000+', None, 'liningbo_lnb@aliyun.com']}
+{'com.financial.calculator.pro': ['Financial Calculators Pro', 'Bishinews', '5,000+', 'https://sites.google.com/site/fncalc/', 'pfinanceapp@gmail.com']}
+{'com.drcalculator.android.mortgagepro': ["Karl's Mortgage Calculator Pro", 'Dr+Karl+Jeacle', '1,000+', 'http://www.drcalculator.com/', 'karl@jeacle.ie']}
+{'fakebank.prankbank.bankaccount.bankstatment.pro': ['Prank Bank Account Pro', 'COMPUTERSS', '500+', 'http://www.moneyhelp.com', 'struggleone99@gmail.com']}
+{'com.brightact.android.bankaroo': ['Bankaroo-virtual bank for kids', 'BrightAct+LLC', '100+', 'http://www.bankaroo.com', 'support@bankaroo.com']}
+{'ca.mishell.budget': ['Budget Calendar', 'MiShell+Software+Systems', '5,000+', 'http://www.mishell.ca/', 'mnefedov7@gmail.com']}
+{'fakebank.prankbank.paycheck.generator.fakeid.generator.pro': ['Prank Bank Check Account Pro', 'COMPUTERSS', '1,000+', 'http://www.computerss.com', 'struggleone99@gmail.com']}
+{'com.boondoggle': ['Car Loan Calculator Ad-Free', 'Boondoggle+Studios', '100+', 'http://www.boondogglestudios.com', 'jake@boondogglestudios.com']}
+{'br.com.shorane.supercalc': ['Financial Calculator', '8237430299917465563', '1,000+', 'http://calculadorafinanceira.net', 'contato@calculadorafinanceira.net']}
+{'com.pxdworks.nfcemvreader': ['NFC EMV Card Reader', 'Viliyan+Vasilev', '500+', None, 'n37sn4k3@gmail.com']}
+{'com.andromoney.pro': ['AndroMoney Pro', 'AndroMoney', '10,000+', 'http://web.andromoney.com', 'service@andromoney.com']}
+{'com.expensemanager.pro': ['Expense Manager Pro', 'Bishinews', '10,000+', 'https://sites.google.com/site/expensemgr/', 'pfinanceapp@gmail.com']}
+{'com.siri.bundle': ['Finance Bundle License ( One License for all )', '4989017747836324536', '100+', 'https://www.facebook.com/siri.homebudgetmanager', 'sirimobileapps@gmail.com']}
+{'appinventor.ai_GavinGT.DeliveryTipTrackerPro_ready_for_market': ['Delivery Tip Tracker Pro', 'Gavin%27s+App+Creations', '1,000+', 'http://gavingt.github.io', 'gavingt@gmail.com']}
+{'com.ekorau.android.ciry.pro': ['Can I Retire Yet? - Pro', 'Ekorau', '100+', 'http://www.ekorau.com', 'support@ekorau.com']}
+{'com.softmimo.android.mileagetracker': ['Mileage Tracker', 'SoftMiMo+LLC.', '10,000+', 'http://www.softmimo.com', 'support@softmimo.com']}
+{'com.parallelfocus.pod': ['Pay Off Debt by Jackie Beck', '7605848101512202682', '1,000+', 'https://www.jackiebeck.com/pay-off-debt-app-info/support/', 'jackie@jackiebeck.com']}
+{'nfc.credit.card.reader.pro2': ['Pro Credit Card Manager NFC', 'Thomas+Erdontrin', '1,000+', 'https://erdontrin.github.io/android/credit-card-reader-cgu-en.html', 'erdontrint43@gmail.com']}
+{'wb.receiptspro': ['Smart Receipts Plus', 'Smart+Receipts+LLC', '10,000+', 'https://www.smartreceipts.co/', 'support@smartreceipts.co']}
+{'com.aspiring.checkbook14': ['Check Register', 'Aspiring+Investments+Corp', '100+', 'http://aspiringapps.com', 'enroll@tickervalue.com']}
+{'com.fxsentimentmarket.pro': ['Forex Sentiment Market Pro', 'FXmarket', '100+', 'http://www.fxsentimentmarket.com', 'support@fxsentimentmarket.com']}
+{'com.avocsoft.myweeklybudget': ['My Weekly Budget®', 'AvocSoft+LLC', '10,000+', 'http://www.avocsoft.com', 'support@avocsoft.com']}
+{'org.efalk.rpncalcfinancial': ['RpnCalc Financial Calculator', 'Edward+Falk', '1,000+', 'http://www.efalk.org/RpnCalcFinancial', 'efalk@users.sourceforge.net']}
+{'com.aa3.easybillsreminderpremium': ['Easy Bills Reminder Premium', 'AA3+Apps', '1,000+', 'https://sites.google.com/view/easybillsreminderpremium/privacy', 'aa3apps@gmail.com']}
+{'com.aspiring.rentreceipt': ['Rent Receipt', 'Aspiring+Investments+Corp', '100+', 'http://aspiringapps.com', 'enroll@tickervalue.com']}
+{'com.centuryegg.pdm.paid': ['Debt Manager and Tracker Pro', 'Century+Egg', '10,000+', 'http://www.centuryegg.com', 'enquiries@centuryegg.com']}
+{'net.taobits.officecalculator.android.pro': ['Office Calculator Pro', 'taobits.net', '10,000+', 'https://plus.google.com/+TaobitsNet', 'android@taobits.net']}
+{'com.stock.scanner.pro': ['Ultimate Penny Stock Scanner', 'DayTrader+Apps', '100+', None, 'daytraderapps@gmail.com']}
+{'recaptcha.anybalance.dukei.com.anybalancerecaptcha': ['AnyBalance ReCaptcha', 'Dmitry+Kochin', '500+', 'http://anybalance.ru', 'dco@mail.ru']}
+{'com.stockmarket.pennystocks_pro': ['Penny Stocks Pro', 'Financept', '1,000+', 'http://www.stocksunder1.org', 'postmaster@stocksunder1.org']}
+{'org.marbot.travel.money.unlock': ['Travel Money Unlocker', 'Marbot+Apps', '5,000+', 'http://travelmoney.marbotapps.com/', 'francois.marbot@gmail.com']}
+{'com.realbyteapps.moneya': ['Money Manager (+PC Editing)', 'Realbyte+Inc.', '50,000+', 'http://realbyteapps.com', 'help@realbyteapps.com']}
+{'boydthurston.moneytrackerpro': ['Simple Money Tracker Pro', 'Apps+by+Boyd', '500+', None, 'redgameboy69@gmail.com']}
+{'air.A1PESOS': ['1 PESO', '8162954085225066088', '10,000+', 'https://drive.google.com/open?id=1egqEtY_agG75XOWTc0W3HD_rPpilEVP8', 'weropitonchvz@gmail.com']}
+{'elezertech.yieldcalculator.pro': ['Property Yield Calculator', 'ELEZERTECH', '50+', 'https://elezertech.blogspot.com', 'elezertech@gmail.com']}
+{'com.clbsystems.superiortipcalculatorII.paid': ['Superior Tip Calculator II (P)', 'CLB+Systems', '1+', 'http://www.clbsystems.com/Mobile.aspx', 'mobile_support@clbsystems.com']}
+{'com.appsnblue.expensescalcpro': ['Expenses Calc Pro', '5129722025140706898', '100+', None, 'appsnblue@gmail.com']}
+{'io.cordova.kidsbux1b00f53567404092b26c288159905c38': ['KidsBux & Chores & Allowance', 'Image+Technologies', '10+', 'http://www.takemykid.com', 'kidsbuxapp@gmail.com']}
+{'io.appery.project.tsastg': ['The Stock Advisor STG 9', 'Epsilon+Financial+%26+Business+Development,+Inc.', '10+', 'http://www.thestockadvisorstg.com', 'info@thestockadvisorstg.com']}
+{'com.myapps.wags76.myaccounts': ['myAccount$', 'Christopher+M+Wagner', '100+', 'http://wags76myapps.blogspot.com/', 'wags76.myapps@gmail.com']}
+{'com.redlee90.donation1': ['redlee90 donation $1', '5407683851911152361', '10+', None, 'redlee90@gmail.com']}
+{'elvin.debitmanager': ['Debt Payoff Manager', 'Swan+Solutions', '100+', 'http://www.swanittech.com', 'support@swanittech.com']}
+{'com.RADLabs.ExpenseTracker': ['Expense Tracker Pro', 'Rahul+Dhumal', '100+', 'http://publications.rahuldhumal.com', 'rdlabs.development@gmail.com']}
+{'com.aspiring.PackingSlip': ['Packing Slip', 'Aspiring+Investments+Corp', '50+', 'http://aspiringapps.com', 'enroll@tickervalue.com']}
+{'com.gasapppro': ['Fuel Tracker', 'Rogan+Software', '100+', 'http://www.rogansoftware.com/gasapp', 'rogan.software@gmail.com']}
+{'com.MinDis.android': ['RMD Calculator', 'Bryce+Campbell', '50+', 'http://brycecampbell.me:100', 'android@brycecampbell.me']}
+{'com.blogspot.imapp.imcertsafeformarket': ['PrivateCert OnOff', 'INAPP', '1,000+', 'http://imapp.blogspot.com/', 'imapp.help@gmail.com']}
+{'com.intuit.turbotax.mobile': ['TurboTax Tax Return App – Max Refund Guaranteed', '7987416923533646496', '5,000,000+', 'https://turbotax.intuit.com/personal-taxes/mobile-apps/turbotax.jsp%20', 'TTAppFeedback@intuit.com']}
+{'com.mobiledatalabs.mileiq': ['Mileage Tracker by MileIQ', 'Mobile+Data+Labs,+Inc.', '1,000,000+', 'http://www.mileiq.com', 'support@mileiq.com']}
+{'com.intuit.qbse': ['QuickBooks Self-Employed:Mileage Tracker and Taxes', '7987416923533646496', '1,000,000+', 'https://quickbooks.intuit.com/global/privacy/', 'QB_selfemployed@intuit.com']}
+{'com.everydollar.android': ['EveryDollar: Budget Tool and Expense Tracker', '6120167175602606308', '1,000,000+', 'https://everydollar.com/', 'help@everydollar.com']}
+{'com.experian.android': ['Experian - Free Credit Report & FICO Score', 'Experian', '1,000,000+', 'http://www.experian.com', 'appfeedback@experianinteractive.com']}
+{'app.hurdlr.com': ['Hurdlr: Mileage Tracker, Expenses & Receipts Log', '9005072224595143352', '100,000+', 'https://hurdlr.com', 'hello@hurdlr.com']}
+{'com.droid4you.application.wallet': ['Wallet - Finance Tracker and Budget Planner', '6437300643703400451', '1,000,000+', 'http://www.budgetbakers.com', 'support@budgetbakers.com']}
+{'com.vectorvest.mango': ['VectorVest Stock Advisory', 'VectorVest,+Inc.', '100,000+', 'http://www.vectorvest.com', 'support@vectorvest.com']}
+{'com.creditsesame': ['Credit Sesame', 'Credit+Sesame,+Inc.', '1,000,000+', 'http://www.creditsesame.com', 'mobilesupport@creditsesame.com']}
+{'com.truebill': ['Truebill Budget Planner, Bill Tracker and Reminder', 'Finance,+Budget+Planner+%26+Bill+Tracker+-+Truebill', '100,000+', 'https://www.truebill.com/', 'hello@truebill.com']}
+{'io.getdelta.android': ['Delta - Bitcoin & Cryptocurrency Portfolio Tracker', '9048730481312549573', '100,000+', 'https://delta.app', 'support@delta.app']}
+{'com.thestockwhisperer.darkpoolapp': ['Dark Pool App', 'The+Stock+Whisperer', '1,000+', 'http://www.thestockwhisperer.com', 'darkpoolapp@gmail.com']}
+{'com.DNAPPS.cashmo_international': ['Cashmo Rewards - Convert Gift Card', 'DNAApps', '500+', 'http://cashmorewards.ga/services/', 'info.dnaapps@gmail.com']}
+{'com.medusa.wpayment': ['Payment Module', 'MEDUSA+APPS', '10,000+', 'https://wpayment.com.tr/pp', 'wonline@sidewinderx.com']}
+{'org.dayup.stocks': ['Webull: Invest Smart, Trade Free - Stocks, ETFs.', 'Webull+Limited', '1,000,000+', 'https://www.webull.com', 'feedback@webull.com']}
+{'com.roaddogssoftware.cardapp': ['MyCard - NFC Payment', 'Road+Dogs+Software', '5,000+', 'https://www.dropbox.com/s/mf1l6t5e7h2a4rz/privacy-policy.pdf?dl=0', 'roaddogssoftware@gmail.com']}
+{'com.seekingalpha.webwrapper': ['Seeking Alpha', 'SeekingAlpha', '1,000,000+', 'https://seekingalpha.com', 'android@seekingalpha.com']}
+{'com.finicity.mvelopes': ['Mvelopes Budget App', 'Finicity+Corp.', '100,000+', 'http://www.mvelopes.com', 'customer.support@mvelopes.com']}
+{'com.investors.business.daily': ["Investor's Business Daily", 'Investor%27s+Business+Daily,+Inc', '50,000+', 'http://www.investors.com', 'support@investors.com']}
+{'br.com.gerenciadorfinanceiro.controller': ['Mobills Budget', '5723502633915819194', '5,000,000+', 'http://mobills.com.br', 'suporte@mobills.com.br']}
+{'wb.receipts': ['Smart Receipts', 'Smart+Receipts+LLC', '500,000+', 'https://www.smartreceipts.co/', 'support@smartreceipts.co']}
+{'io.rydar.rydarnext': ['Rydar 2.0: Rideshare & delivery driver assistant', 'Rydar+Inc.', '10,000+', 'https://rydar.io', 'support@rydar.io']}
+{'com.dayspringtech.envelopes': ['Goodbudget: Budget & Finance', 'Dayspring+Technologies', '1,000,000+', 'https://goodbudget.com', 'support@goodbudget.com']}
+{'com.handyapps.expenseiq': ['Expense IQ Money Manager', '8513200865613590694', '1,000,000+', 'http://www.expense-iq.com/', 'support@handyappsforlife.com']}
+{'com.pocketguard.android.app': ['PocketGuard: Personal Finance, Money & Budget', 'PocketGuard,+Inc.', '10,000+', 'https://pocketguard.com', 'android@pocketguard.com']}
+{'com.mzbapps.serverlife': ['ServerLife - Tip Tracker', 'MZBApps+LLC', '50,000+', 'http://www.serverlifeapp.com', 'support@serverlifeapp.com']}
+{'com.fortnofffinancial.dealcheck_rentals': ['DealCheck - Real Estate Analysis', '4765944831828395772', '50,000+', 'https://dealcheck.io', 'support@dealcheck.io']}
+{'com.colpit.diamondcoming.isavemoney': ['Monthly Budget Planner & Daily Expense Tracker', 'DigitLeaf,+llc', '1,000,000+', 'http://www.pay-debt.com', 'contact.isavemoney@gmail.com']}
+{'com.ghmdev.rewardconverter': ['Reward Converter', 'GHM+Dev', '5,000+', 'http://godheadmedia.com', 'ghmdev7@gmail.com']}
+{'com.fusionmedia.investing': ['Stocks, Forex, Finance, Markets: Portfolio & News', '4813878430564579954', '5,000,000+', 'https://www.investing.com', 'mobile@investing.com']}
+{'com.inadaydevelopment.cashcalculator': ['10bii Financial Calculator', 'In+A+Day+Development', '10,000+', 'http://www.inadaydevelopment.com/app/android/10bii-Financial-Calculator', 'theteam@inadaydevelopment.com']}
+{'com.rubicoin.invest': ['Invest – Learn Stock Investing with MyWallSt', 'MyWallSt', '50,000+', 'http://www.mywallst.com', 'a@mywallst.com']}
+{'com.dapi.iamrichplus.iamrichplus': ['I am Rich Plus', 'KloudX', '100,000+', None, 'kloudx@tutanota.com']}
+{'com.wcd.tipsee': ['Tip Tracker - TipSee Free', 'Web+Coast+Apps+-+Apps+For+Life', '100,000+', 'http://webcoastapps.com/tipsee-tip-tracker/tipsee-free-mobile-tip-tracker/', 'support.tipsee@webcoastapps.com']}
+{'com.investorvista.stockspyod': ['Stocks: Realtime Quotes Charts & Investor News', 'StockSpy+Apps+Inc.', '1,000,000+', 'http://www.stock-spy.com', 'support@stock-spy.com']}
+{'com.honeydue.honeydue': ['Honeydue: Budget, Bills & Money for Couples', 'WalletIQ,+Inc.', '50,000+', 'https://www.honeydue.com', 'support@honeydue.com']}
+{'com.hp.hp12c': ['HP 12c Financial Calculator', '8070428187829536606', '10,000+', 'http://www.shopping.hp.com/en_US/home-office/-/products/Accessories/Calculators', 'Calculators@hp.com']}
+{'com.appxy.checkbook2': ['Checkbook - Account Tracker', 'Appxy', '100,000+', 'http://www.appxy.com', 'checkbook.a@appxy.com']}
+{'org.pixelrush.moneyiq': ['1Money - expense tracker, money manager, budget', '6083226804231060524', '500,000+', 'http://www.pixelrush.org/money_privacy.html', 'support@pixelrush.org']}
+{'com.milecatcher.milecatcher': ['MileCatcher - Automatic Mileage tracker log', 'MileCatcher,+Inc.', '50,000+', 'https://milecatcher.com', 'support@milecatcher.com']}
+{'com.cleevio.spendee': ['Spendee - Budget and Expense Tracker & Planner', 'SPENDEE+s.r.o.', '1,000,000+', 'https://www.spendee.com/', 'hello@spendee.com']}
+{'com.paymentsystem.apps': ['Payment System', 'Payment+System', '5,000+', 'http://www.wpaymentsystem.com/privacy.html', 'omernarman6960@gmail.com']}
+{'app.gcm.BSN': ['Best Stocks Now!', 'bill@gundersoncapital.com', '10,000+', 'http://pwstreet.com', 'financialperson@gmail.com']}
+{'com.pixelindustrie.harmonic': ['harmonic signal', 'samibelDev', '50,000+', 'https://s3.amazonaws.com/appprivacypolicy/policy.html', 'pixelindustrie.de@gmail.com']}
+{'de.elfsoft.bestbrokers': ['Best Brokers: Stock Simulator', 'Clemens+Elflein+%26+Daniel+Fontes+OHG', '1,000,000+', 'http://www.bestbrokers.de', 'support@bestbrokers.de']}
+{'com.LynnfieldLLC.MilitaryRetire': ['Military Retirement', 'LYNNFIELD+LLC', '1,000+', 'http://lynnfieldllc.com', 'support@lynnfieldllc.com']}
+{'com.realbyteapps.moneymanagerfree': ['Money Manager Expense & Budget', 'Realbyte+Inc.', '5,000,000+', 'http://realbyteapps.com', 'help@realbyteapps.com']}
+{'com.savved.uptick': ['Stock Market Tracker', '%E2%AD%90+Uplift+Investment+Studios', '50,000+', 'https://upliftstocks.com/', 'uplifthelp@gmail.com']}
+{'com.thirdframestudios.android.expensoor': ['Toshl Finance - Personal Budget & Expense Tracker', 'Toshl+Inc.', '1,000,000+', 'http://www.toshl.com/', 'support+android@toshl.com']}
+{'com.bakua.worktimemanager': ['Timesheet - Track Time Hours and Salary Timecard', 'Timesheetapp.co', '100,000+', 'http://www.timesheetapp.co', 'support@timesheetapp.co']}
+{'com.stockmarket.stockscreener': ['Stock Screener', 'Financept', '100,000+', 'http://www.stock-screener.org', 'postmaster@stock-screener.org']}
+{'com.mhriley.spendingtracker': ['Spending Tracker', 'MH+Riley+Ltd', '1,000,000+', 'http://www.mhriley.com/spendingtracker', 'support@mhriley.com']}
+{'paystub.calculator.epaystub.paycheck.payroll.fakeid.generator.free': ['Paycheck Calculator Paystub', 'Paystubscheck', '10,000+', 'https://paystubscheck.com/', 'eric35175@gmail.com']}
+{'com.investry.dev.tsptips': ['TSP Tips', 'Investry+Analytics+LLC', '1,000+', 'https://www.tsptips.com', 'contact@tsptips.com']}
+{'com.bookmark.money': ['Money Lover: Money Manager, Budget Expense Tracker', '5130448887408336541', '5,000,000+', 'https://moneylover.me/', 'contact@moneylover.me']}
+{'com.mometic.momo': ['MOMO Realtime Stock Discovery', 'Mometic+LLC', '5,000+', 'http://www.mometic.com', 'hello@mometic.com']}
+{'com.blodhgard.easybudget': ['Fast Budget - Expense & Money Manager', 'FerApps+-+Mobile+Solutions', '1,000,000+', 'https://fastbudget.app/', 'support@fastbudget.it']}
+{'com.tastytrade.bobthetrader': ['Bob the Trader', 'tastytrade,+Inc.', '10,000+', 'https://www.tastytrade.com', 'support@tastytrade.com']}
+{'com.profittrading.forkraken': ['ProfitTrading For Kraken - Trade much faster', '6470884744111312194', '1,000+', 'https://profittradingapp.com/', 'krksupport@profittradingapp.com']}
+{'com.profittrading.forhitbtc': ['ProfitTrading for HitBTC - Trade much faster', '6470884744111312194', '1,000+', 'https://profittradingapp.com/', 'hitsupport@profittradingapp.com']}
+{'com.financial.calculator.pro': ['Financial Calculators Pro', 'Bishinews', '5,000+', 'https://sites.google.com/site/fncalc/', 'pfinanceapp@gmail.com']}
+{'com.volkron.checkbook.android': ['Volkron CheckBook', 'Volkron+Development', '50,000+', 'http://checkbook.volkron.net', 'checkbook@volkron.net']}
+{'com.anishu.homebudget.full': ['Home Budget with Sync', 'Anishu,+Inc.', '50,000+', 'http://www.anishu.com', 'support@anishu.com']}
+{'co.dollarbird': ['Dollarbird - Personal finance calendar', 'Dollarbird', '10,000+', 'http://dollarbird.co', 'hello@dollarbird.co']}
+{'com.disrapp.coinkeeper.material': ['CoinKeeper: spending tracker', 'Disrapp+LLC', '500,000+', 'http://www.coinkeeper.me/', 'material@coinkeeper.me']}
+{'com.taguru.ChartPro': ['Professional Stock Chart', 'Petanoi+Ltd', '100,000+', 'http://www.prostockchart.com', 'office@prostockchart.com']}
+{'com.monefy.app.lite': ['Monefy - Money Manager', 'Aimbity+AS', '5,000,000+', 'http://www.monefy.me', 'support@monefy.me']}
+{'com.app.tradealike': ['TradeAlike', 'GoOptionsPro+LLC', '500+', 'https://www.tradealike.com', 'tradealikeapp@gmail.com']}
+{'com.rammigsoftware.bluecoins': ['Bluecoins Finance: Budget, Money & Expense Manager', '8626215351142204812', '100,000+', 'http://www.bluecoinsapp.com', 'support@bluecoinsapp.com']}
+{'com.mobill.app': ['MoBill Budget and Reminder', 'hakane', '500,000+', 'http://www.mobillbudget.com', 'support@mobillbudget.com']}
+{'me.wallylite.android': ['Wally Next', 'Wally+Global+Inc.', '10,000+', 'http://wally.me/', 'devlabs@wally.me']}
+{'com.paymentcenter.app': ['Payment Center', 'PAYMENT+CENTER', '5,000+', 'http://www.wpaymentcenter.com/privacy.html', 'yasarleblebici47560@gmail.com']}
+{'com.stocktrendadvanced': ['S&P 500 Forecast Advanced', 'Alphabry', '5+', 'https://forecastmark.wixsite.com/forecastone', 'alphabry1@gmail.com']}
+{'in.usefulapp.timelybills': ['Bills Reminder, Payments & Expense Manager App', 'TimelyBills', '100,000+', 'https://timelybills.app/privacy-policy/', 'support@timelybills.app']}
+{'com.tforp.markettrends': ['Market trends - Algorithmic forex signals', 'Finansoft+Ltd', '100,000+', 'http://www.trading4pro.com', 'support@trading4pro.com']}
+{'cn.com.calculator.finance': ['Ba Financial Calculator plus', 'liningbo', '1,000+', None, 'liningbo_lnb@aliyun.com']}
+{'com.coinstats.crypto.portfolio': ['Coin Stats - Crypto portfolio tracker', 'Coin+Stats,+Inc', '50,000+', 'http://coinstats.app', 'support@coinstats.app']}
+{'com.abukai.expenses': ['Expense Reports, Receipts with ABUKAI Expenses', 'ABUKAI,+Inc.', '50,000+', 'http://abukai.com', 'support@abukai.com']}
+{'com.profittrading.foryobit': ['ProfitTrading For Yobit - Trade much faster!', '6470884744111312194', '5,000+', 'https://profittradingapp.com/', 'yobsupport@profittradingapp.com']}
+{'com.easy.alerts': ['Easy Alerts+ - For Forex, Indices & Commodities', '8474327749823841674', '5,000+', 'http://www.easyindicators.com', 'support@easyindicators.com']}
+{'com.onetwoapps.mh': ['My Budget Book', 'OneTwoApps', '100,000+', None, 'onetwoapps@gmail.com']}
+{'com.crypter.cryptocyrrency': ['Crypto App - Widgets, Alerts, News, Bitcoin Prices', '4863280409170893318', '500,000+', 'https://thecrypto.app', 'info@thecrypto.app']}
+{'com.maduranga.android.forexalerts': ['Forex Alerts: Live & Daily Forex Signals', 'Consegic', '10,000+', 'https://sites.google.com/site/forexalertsios/', 'fxalertsmobile@gmail.com']}
+{'com.jstudio.dealcrunch': ['DealCrunch - Real Estate Analysis and Calculator', 'Szeto+Invest+SC+LLC', '500+', 'https://dealcrunch.io', 'support@dealcrunch.io']}
+{'com.invstr.invstrandroidv3': ['Invstr: Investing for Everyone', 'invstr+Limited', '100,000+', 'https://invstr.com/', 'info@invstr.com']}
+{'com.moneywiz_2.androidphone_free': ['MoneyWiz 3 - Fiat & Crypto', 'SILVERWIZ+LLC', '50,000+', 'https://wiz.money', 'hello@wiz.money']}
+{'com.barchart.app': ['Barchart Stocks & Futures', 'Barchart.com', '100,000+', 'http://www.barchart.com/app', 'app@barchart.com']}
+{'com.pandonee.finwiz': ['FinWiz-Stocks, News, Investing,Portfolio & Markets', '5665862832461957427', '50,000+', 'http://www.finwiz.co', 'info@finwiz.co']}
+{'com.netdania': ['NetDania Stock & Forex Trader', 'NetDania+SRL', '500,000+', 'http://www.netdania.com', 'android@netdania.net']}
+{'com.fourdesire.fortunecity': ['Fortune City - A Finance App', '6202116406895586041', '1,000,000+', 'http://fourdesire.com', 'technology@fourdesire.com']}
+{'com.molovi.checkbook': ['Checkbook Pro', 'Molovi+Software', '10,000+', 'http://www.molovi.com', 'support@molovi.com']}
+{'com.stripe.credit.card.payment': ['Stripe Payments, Stripe Payment Processing PayNow', 'FacilePay+Technology+Canada+Inc.', '10,000+', 'https://www.facilepay.ca/', 'support@facilepay.ca']}
+{'de.sfr.calctape': ['CalcTape Calculator with Tape', 'schoettler+Software+GmbH', '1,000,000+', 'https://www.schoettler-software.com', 'support@schoettler-software.com']}
+{'com.ibearsoft.moneyproandroid': ['Money Pro - Personal Finance & Expense Tracker', 'iBear+LLC', '100,000+', 'https://money.pro', 'support@ibearsoft.com']}
+{'com.computerss.global.paystub.free': ['Global Paystub Payslip Maker', 'Paystubscheck', '5,000+', 'https://paystubscheck.com/', 'struggleone99@gmail.com']}
+{'com.dannyconnell.android.fudget': ['Fudget: Budget and expense tracking app', 'Danny+Connell', '100,000+', 'http://www.fudget.com', 'fudget@dconnell.co.uk']}
+{'com.bitcoin.blockchain.wallet': ['Bitcoin Wallet', '5265812957420896405', '10,000+', 'https://github.com/hoanghiephui/base-mvp-android/wiki/Privacy-Policy', 'living.solutions.vn@gmail.com']}
+{'com.aa3.easybillsreminder': ['Easy Bills Reminder', 'AA3+Apps', '100,000+', 'https://sites.google.com/view/easybillsreminder/privacy', 'aa3apps@gmail.com']}
+{'mic.app.gastosdiarios_licencia': ['Daily Expenses License', '4725112966377296748', '100,000+', 'http://www.gastos-diarios.com', 'michelcarvill@gmail.com']}
+{'com.restructureddesign.nannypayadvisor': ['Nanny Pay Advisor: DIY Payroll, Paycheck, Tax', 'RESTRUCTURED+Design', '1,000+', 'http://www.nannypayadvisor.com', 'contact@nannypayadvisor.com']}
+{'st.brothas.mtgoxwidget': ['Bitcoin Ticker Widget', 'XBT+Apps', '1,000,000+', 'https://uniweb.ua/tos/bitcoin_ticker.html', 'android@xbtapps.com']}
+{'com.easy.dashboard': ['EasyIndicators Dashboard - Forex and Commodities', '8474327749823841674', '10,000+', 'http://www.easyindicators.com', 'support@easyindicators.com']}
+{'com.roaddogssoftware.cardapplite': ['MyCard lite', 'Road+Dogs+Software', '500+', 'https://dl.dropboxusercontent.com/u/84142458/privacy-policy.pdf', 'roaddogssoftware@gmail.com']}
+{'com.restructureddesign.caregiverpay': ['Caregiver Pay Advisor: Payroll, Paycheck, Tax', 'RESTRUCTURED+Design', '500+', 'http://www.restructureddesign.com', 'caregiver@restructureddesign.com']}
+{'com.screenulator.ischarts': ['Interactive Stock Charts', 'Screenulator.com', '100,000+', 'http://www.screenulator.com/apps.html', 'yue.j.qi@gmail.com']}
+{'com.kickinglettuce.debtplanner': ['Debt Planner & Calculator with Banking Ledger', 'KickingLettuce+Studios', '50,000+', 'http://www.kickinglettuce.com/android-apps/', 'feedback@kickinglettuce.com']}
+{'com.andromoney.pro': ['AndroMoney Pro', 'AndroMoney', '10,000+', 'http://web.andromoney.com', 'service@andromoney.com']}
+{'co.peeksoft.stocks': ['My Stocks Portfolio & Widget', 'Peeksoft', '100,000+', 'https://twitter.com/peeksoft', 'peeksoftco+mystock@gmail.com']}
+{'com.investmentpropertycalculator.ipc': ['Investment Property Calculator - Real Estate', 'Ultimarcs+Team', '10,000+', 'https://tinyurl.com/ipc-privacypolicy', 'Ultimarcs@gmail.com']}
+{'appinventor.ai_GavinGT.DeliveryTipTrackerPro_ready_for_market': ['Delivery Tip Tracker Pro', 'Gavin%27s+App+Creations', '1,000+', 'http://gavingt.github.io', 'gavingt@gmail.com']}
+{'com.computerss.paystub.us': ['Paystub Payslip Calculator U.S', 'Paystubscheck', '1,000+', 'https://paystubscheck.com/', 'struggleone99@gmail.com']}
+{'onetcup.cryptostats': ['Crypto Tracker - Bitcoin, Ethereum + more tracker', 'One+Tcup+LLC', '100,000+', 'https://www.cryptotrackerapp.com/', 'onetcupappdev@gmail.com']}
+{'com.xosignals.app': ['Forex Signals & Forex Tips & Forex strategies', '6214507680680154683', '100,000+', 'http://www.xosignals.com', 'support@xosignals.com']}
+{'com.jsd.cryptoport': ['CryptoPort - Coin portfolio tracker', 'Cryptoport', '50,000+', 'https://cryptoport.me/privacy', 'jesada.gyoto@gmail.com']}
+{'com.bitscreener.cryptotracker': ['Crypto Tracker by BitScreener - Live coin tracking', 'BITSCREENER+PTE.+LTD.', '10,000+', 'https://bitscreener.com/', 'bitscreener@gmail.com']}
+{'net.thesimplest.managecreditcardinstantly': ['Credit Card Manager Pro', 'TheSimplest.Net', '1,000+', 'http://www.thesimplest.net', 'admin@thesimplest.net']}
+{'com.yellocus.savingsapp': ['Thriv - Savings Goal', 'Yellocus', '100,000+', 'https://www.docracy.com/0qycpq747w8/privacy-policy-for-thriv-savings-goal', 'yellocus@gmail.com']}
+{'com.ancient.tradingsignals': ['Forex Signals - FX Genie', '7770958472110235790', '50,000+', 'http://www.fxgenie.com', 'info@ancientinc.com']}
+{'ca.mishell.budget': ['Budget Calendar', 'MiShell+Software+Systems', '5,000+', 'http://www.mishell.ca/', 'mnefedov7@gmail.com']}
+{'com.iPhonePokerIncome': ['Poker Income ™ - Best Tracker', 'PokerIncome.com', '5,000+', 'http://www.pokerincome.com', 'support@pokerincome.com']}
+{'com.bizce.accountbook': ['Account Book - Money Management', '5118979098837587733', '100,000+', 'https://defter.net', 'info@defter.net']}
+{'jp.united.app.kanahei.money': ['Household account book', 'UNITED,+Inc.', '1,000,000+', 'http://united.jp', 'appli-manager@united.jp']}
+{'com.hipstertrader.app': ['Daily Forex Signals - Live Buy/Sell Signals', '6214507680680154683', '10,000+', 'http://www.hipstertrader.com/', 'contact@hipstertrader.com']}
+{'com.needly.eoslynx': ['EOS Lynx', '6197516738676648946', '5,000+', 'https://eoslynx.com/', 'support@eoslynx.com']}
+{'finance.empower': ['Empower - Get Paid to Bank', 'Empower+Finance', '50,000+', 'https://empower.me', 'support@empower.me']}
+{'com.kvannli.simonkvannli.dailybudget': ['Daily Budget', 'Kvannli', '50,000+', None, 'simonkvannli@gmail.com']}
+{'com.easy.macdx': ['Easy MACD Crossover (12, 26, 9)', '8474327749823841674', '10,000+', 'http://www.easyindicators.com', 'support@easyindicators.com']}
+{'mic.app.gastosdiarios_clasico': ['Daily Expenses 2', '4725112966377296748', '1,000,000+', 'http://www.michmobile.com/gastos-diarios-2/', 'michelcarvill@gmail.com']}
+{'com.tabtrader.android': ['TabTrader Buy Bitcoin and Ethereum on exchanges', '7393035604173981991', '500,000+', 'http://www.tab-trader.com', 'support@tab-trader.com']}
+{'com.nonapp.taxnote': ['Taxnote Accounting Bookkeeping', 'Non+Umemoto', '10,000+', 'https://texttospeech.helpshift.com/a/taxnote/', 'umekun123@gmail.com']}
+{'com.Splitwise.SplitwiseMobile': ['Splitwise', 'Splitwise', '5,000,000+', 'http://splitwise.com', 'android-support@splitwise.com']}
+{'fakebank.prankbank.bankaccount.bankstatment.pro': ['Prank Bank Account Pro', 'COMPUTERSS', '500+', 'http://www.moneyhelp.com', 'struggleone99@gmail.com']}
+{'org.efalk.rpncalcfinancial': ['RpnCalc Financial Calculator', 'Edward+Falk', '1,000+', 'http://www.efalk.org/RpnCalcFinancial', 'efalk@users.sourceforge.net']}
+{'com.organizze.android': ['Organizze: Expense Tracker and Budget Planner', 'Finan%C3%A7as+pessoais+e+controle+de+gastos+-+Organizze', '500,000+', 'https://www.organizze.com.br', 'contato@organizze.com.br']}
+{'com.realbyteapps.moneya': ['Money Manager (+PC Editing)', 'Realbyte+Inc.', '50,000+', 'http://realbyteapps.com', 'help@realbyteapps.com']}
+{'paystub.paycheck.payroll.calculator.fullversion.pro': ['PayCheck Paystub Calculator Pro', 'Paystubscheck', '100+', 'https://paystubscheck.com/', 'struggleone99@gmail.com']}
+{'com.accelerator.btc.deal.pro': ['BTC Accelerator Pro', 'XiaoLiang+Chen', '5+', 'https://mp.weixin.qq.com/s?__biz=MzA5OTg4NDgyOQ==&mid=2449257253&idx=2&sn=fa341fa7f6877deebf4ce11b394ddf6d&chksm=84f39957b3841041b78744ca7cc997b3a391ebce9e1b81c2d2afd7707d7fb43fe3f16fedee6d#rd', 'cloudplay328@gmail.com']}
+{'com.drcalculator.android.mortgagepro': ["Karl's Mortgage Calculator Pro", 'Dr+Karl+Jeacle', '1,000+', 'http://www.drcalculator.com/', 'karl@jeacle.ie']}
+{'com.screenulator.breakout.charts': ['Breakout Stock Charts', 'Screenulator+Inc.', '10,000+', 'http://www.screenulator.com', 'yue.j.qi@gmail.com']}
+{'org.yccheok.jstock.gui': ['JStock - Stock Market, Portfolio & News', 'Yocto+Enterprise', '500,000+', 'https://jstock.org', 'yancheng.cheok@gmail.com']}
+{'com.ssmobiletech.android.homebudget': ['My Budget Organizer - Budget Planner with Sync', '9198875821443465849', '1,000+', 'https://ssmobiletech.wixsite.com/mbo-privacy', 'ssmobiletech@gmail.com']}
+{'com.surfcityapps.attractwealth': ['Attract Wealth Hypnosis - Success Vision Board', '8109834627490819650', '50,000+', 'http://surfcityapps.com', 'gp-feedback@surfcityapps.com']}
+{'com.pxdworks.nfcemvreader': ['NFC EMV Card Reader', 'Viliyan+Vasilev', '500+', None, 'n37sn4k3@gmail.com']}
+{'com.tnx.apps.coinportfolio': ['Coin Portfolio for Bitcoin & Altcoin tracker', '6432583819740001146', '10,000+', 'http://coin-portfolio.com', 'info@coin-portfolio.com']}
+{'com.af.pmodule': ['Payment Tool', 'AppWappline', '1,000+', 'http://wl2.4bitsocial.net/privacy-wlog.html', 'brcyslsn@gmail.com']}
+{'com.calculator.ccPayoffPro': ['Debt Payoff Planner', 'Swiftmatic+LLC', '10,000+', 'http://swiftmatic.com/', 'swiftmatic.apps@gmail.com']}
+{'com.nisi.debitbook': ['Debt Book - Debt Manager', 'Nisi+Jsc', '50,000+', 'https://ducnxq.blogspot.com/p/chinh-sach-bao-mat-thong-tin-chung-toi.html', 'nisi.application@gmail.com']}
+{'com.simplethebetter.tradertrainer': ['Professional Trader Training', 'Simplethebetter', '100,000+', None, 'weijieshi2008@gmail.com']}
+{'com.paygame.wallet.sea': ['Top Up Helper', 'Top+Up+Helper', '10,000+', 'https://sdk.yaxgame.com/web/protocol', 'shinejun122@gmail.com']}
+{'br.com.shorane.supercalc': ['Financial Calculator', '8237430299917465563', '1,000+', 'http://calculadorafinanceira.net', 'contato@calculadorafinanceira.net']}
+{'com.slapp.subby': ['Subby - The Subscription Manager', 'DevNotFoundException', '10,000+', 'https://subby.online/', 'support@subby.online']}
+{'com.kyriakosalexandrou.coinmarketcap': ['CoinMarketApp: Cryptocurrency Portfolio, Youtubers', '7210118740238020410', '500,000+', 'http://www.coinmarketapp.co.uk', 'PrograMonks@gmail.com']}
+{'ru.var.procoins.app': ['ProCoins debt tracker, spending tracker, budgeting', '8500856922550158162', '10,000+', 'http://procoins.ru', 'support@procoins.ru']}
+{'com.computerss.global.paystub.paycheck': ['Global Paystub Paycheck Maker', 'Paystubscheck', '1,000+', 'https://paystubscheck.com/', 'struggleone99@gmail.com']}
+{'tubin.debts': ['IOU - debt manager', 'S.+Tubin', '100,000+', 'http://ioutool.net', 'sergeytubindev@gmail.com']}
+{'com.aa3.easybillsreminderpremium': ['Easy Bills Reminder Premium', 'AA3+Apps', '1,000+', 'https://sites.google.com/view/easybillsreminderpremium/privacy', 'aa3apps@gmail.com']}
+{'com.qarasoft.kosho': ['KOSHO - AI Deep Learning Robo-Advisor', 'Kosho', '10,000+', 'https://www.kosho.ai', 'cs@kosho.ai']}
+{'com.rkayapps.compoundinterestcalculatorpro': ['Loan & Interest Calculator Pro', '8419052485035179336', '500+', 'http://www.rkapps.co', 'rk@rkapps.co']}
+{'cicero.minhasfinancas': ['My Finances - Personal Finances Manager', 'C%C3%ADcero+Moura', '100,000+', 'https://www.facebook.com/MinhasFinancasApp', 'myfinancesmail@gmail.com']}
+{'com.krutadennisllc.android.paybillsontime': ['Bills Reminder', 'Dennis+Kruta+LLC', '5,000+', None, 'dennis.kruta.llc@gmail.com']}
+{'com.monefy.app.pro': ['Monefy Pro - Money Manager', 'Aimbity+AS', '50,000+', 'http://www.monefy.me', 'support@monefy.me']}
+{'com.altherat.bitrift': ['Bitrift - Cryptocurrency Portfolio & Widgets', 'Altherat', '10,000+', 'http://bitrift.altherat.com/privacy', 'contact@altherat.com']}
+{'net.xelnaga.exchanger': ['Exchange Rates - Currency Converter', 'Universal+Currency', '5,000,000+', 'https://exchanger-web.netlify.com/privacy/privacy-policy-en.html', 'exchange.rates.app@gmail.com']}
+{'com.easy.sto': ['Easy STO (14 ,3, 3) - Momentum Oscillator', '8474327749823841674', '5,000+', 'http://www.easyindicators.com', 'support@easyindicators.com']}
+{'com.karwosts.PortfolioMap.Pro': ['Portfolio Map Pro', 'Tim+K', '100+', 'https://pastebin.com/0x4zvHV9', 'karwosts@gmail.com']}
+{'org.cryptowl.android': ['Crypto Arbitrage & Price Tracker', '6388397711575045309', '100+', 'http://ashokvarma.me', 'ashokvitece@gmail.com']}
+{'com.MinDis.android': ['RMD Calculator', 'Bryce+Campbell', '50+', 'http://brycecampbell.me:100', 'android@brycecampbell.me']}
+{'com.clbsystems.superiortipcalculatorII.paid': ['Superior Tip Calculator II (P)', 'CLB+Systems', '1+', 'http://www.clbsystems.com/Mobile.aspx', 'mobile_support@clbsystems.com']}
+{'elvin.debitmanager': ['Debt Payoff Manager', 'Swan+Solutions', '100+', 'http://www.swanittech.com', 'support@swanittech.com']}
+{'com.easy.trend': ['Easy Trend Meter for Forex and Commodities', '8474327749823841674', '50,000+', 'http://www.easyindicators.com', 'support@easyindicators.com']}
+{'com.allinonepivotcalc.pro': ['All In One Pivot Calc Pro', 'Leonardo+Rhenals', '100+', 'http://finanzasydinero.com/blog/disclosure-disclaimer-pivot-calc/', 'leorhenals@gmail.com']}
+{'com.apna.khata': ['ApnaKhata', 'SangamOne+Connected+Services', '50+', 'http://www.sangamone.com', 'cs@sangamone.com']}
+{'com.natesaves.nate': ['Nate - A Subscription Manager', 'Darn+Good', '1,000+', 'http://getnate.app', 'darngoodstudio@gmail.com']}
+{'com.appsnblue.expensescalcpro': ['Expenses Calc Pro', '5129722025140706898', '100+', None, 'appsnblue@gmail.com']}
+{'com.valcourgames.walletwatch.android': ['BTC Wallet Watch', 'Valcour+Games', '1,000+', 'http://www.valcourgames.com/', 'support@valcourgames.com']}
+{'amrmohamed.fibonaccistockcalculatorpro': ['Fibonacci For Stock PRO', '6455898371689333372', '50+', 'http://audaxdev.com', 'audaxdevelopment@gmail.com']}
+{'com.pourbrain.trackmypocket': ['Track My Pocket - An Expense Manager app', 'Track+My+Pocket', '10,000+', 'http://www.trackmypocket.com', 'support@trackmypocket.com']}
+{'org.bacal.calculator101': ['BA Pro Financial Calculator', 'Tsung-Hsien+Lin', '1,000+', None, 'ba.pro.financial.calculator@hotmail.com']}
+{'br.paiva.finance.pro': ['Finance Pro', 'Paiva+Piovesan+Softwares', '500+', 'http://www.paiva.com.br', 'paiva@paiva.com.br']}
+{'com.avighna.expensemanager': ['Moneycontrol - Family budget', 'Avighna+Apps', '100+', None, 'avighnaapps@gmail.com']}
+{'annytab.fc.pro': ['Finance Calculator', 'A+Name+Not+Yet+Taken+AB', '10+', 'http://www.annytab.se', 'a.name.not.yet.taken@gmail.com']}
+{'com.sevencsolutions.myfinances': ['My Finances', '7csolutions', '1,000,000+', 'http://7csolutions.com', 'info@7csolutions.com']}
+{'com.kontrolo.kontrolofull': ['Kontrolo Pro Personal Finance', 'Kontrolo+Mobile', '50+', 'http://kontrolomobile.com.br/policies/kontrolopro_privacy_policy_v01.html', 'kontrolo.mobile@gmail.com']}
+{'com.cloupix.scribed': ['Scribed', 'Cloupix', '1,000+', None, 'Cloupix@gmail.com']}
+{'com.logan19gp.financial_calc': ['Financial Calculators', '5184757019930588185', '10+', None, 'logan19gp@gmail.com']}
+{'com.easy.aroon': ['Easy Aroon (14) - For Forex & Cryptocurrencies', '8474327749823841674', '10,000+', 'http://www.easyindicators.com', 'support@easyindicators.com']}
+{'com.flufflydelusions.app.commoncalculation': ['Financial Calculators', 'Fluffy+Delusions', '100+', 'http://fluffydelusions.blogspot.com/', 'flufflydelusions@gmail.com']}
+{'eu.qcon.money': ['Fake Money Detector', 'Q-con+GmbH', '50+', 'http://www.q-con.eu', 'android@q-con.eu']}
+{'com.starflowersolutions.mortgagepmtcalcpro': ['Mortgage Home Loan Payment Calculator Pro', '4770830285497666976', '10+', 'https://www.facebook.com/MortgageHomeLoanPaymentCalculator/', 'sunflowersoft1-a@yahoo.com']}
+{'elezertech.yieldcalculator.pro': ['Property Yield Calculator', 'ELEZERTECH', '50+', 'https://elezertech.blogspot.com', 'elezertech@gmail.com']}
+{'com.boroscsaba.myapplication': ['My Piggy Bank Savings Tracker', 'Boros+Apps', '50,000+', 'http://www.boroscsaba.com', 'boros.csaba94@gmail.com']}
+{'com.GJHDigital.AnyPal': ['AnyPal', 'GJHDigital', '100+', 'http://www.gjhdigital.net/anypal', 'gjhdigitalmedia@gmail.com']}
+{'com.gpl.dailycost': ['DailyCost', '7288359359247519504', '100+', 'http://dailycost.com', 'support@dailycost.com']}
+{'com.mobileanarchy.dividendsdashboard': ['Dividends Dashboard', 'MobileAnarchy', '10,000+', 'http://www.mobileanarchy.com', 'admin@mobileanarchy.com']}
+{'com.aspiring.rentreceipt': ['Rent Receipt', 'Aspiring+Investments+Corp', '100+', 'http://aspiringapps.com', 'enroll@tickervalue.com']}
+{'com.appybuilder.bukanoor.Morososv1': ['Morosos - Debtor Manager', 'Victor+Bahena', '1,000+', 'http://www.morosos.com.mx', 'soporte@morosos.com.mx']}
+{'com.payrollguru.paycheckcalculator.lite': ['Paycheck Calc', 'Payrollguru,+Inc.', '1,000+', 'http://www.payrollguru.mobi', 'support@payrollguru.mobi']}
+{'com.itmarlin.fx_alert.ios': ['FXAlert - RateNotification', '7294266137910511020', '10,000+', 'http://www.itmarlin.com', 'support@itmarlin.com']}
+{'com.smartamount.smartamount': ['SmartAmount - Money Forecast', 'SmartAmount', '5,000+', 'http://smartamount.16mb.com/', 'smartamount@gmx.com']}
+{'com.saving': ['SavePal: Savings and goals tracker', 'Julio', '1,000+', 'http://www.savepal.es/', 'hello@savepal.es']}
+{'com.cashbackcategories': ['CashBack Categories', 'Vinod+Shinde', '1,000+', 'http://www.cashbackcategories.com/Android', 'vms.developer@gmail.com']}
+{'ru.sunandroid.sale': ['Discounts calculator', 'sunrasoft', '10,000+', 'https://yadi.sk/i/VkKiM8Ck3adZXs', 'sunrasoft@gmail.com']}
+{'com.elvin.checkbookmanager': ['Check Book Manager for Android', 'Swan+Solutions', '100+', 'http://www.swanittech.com', 'support@swanittech.com']}
+{'com.davidkomrska.release.budgetapp': ['Budget App (No Adds) Expense Tracker', 'Hatson+Group', '10+', None, 'dav.komrska@gmail.com']}
+{'com.stupendous.stocktracker': ['Stock Tracker', 'Tanuj+Agrawal', '1+', None, 'stupendous.tanuj@gmail.com']}
+{'com.samruston.flip': ['CoinCalc - Currency Converter with Cryptocurrency', '8635532423115474166', '100,000+', 'http://www.samruston.co.uk', 'reports@samruston.co.uk']}
+{'com.molenkamp.TradeSize': ['Trade Position Size Calculator', 'FG+Molenkamp', '100+', 'http://www.molenkamp.com', 'info@molenkamp.com']}
+{'com.easy.currencystrength': ['Easy Currency Strength', '8474327749823841674', '10,000+', 'http://www.easyindicators.com', 'support@easyindicators.com']}
+{'finatec.Chartz': ['Chartz', 'Finatec+Inc', '500+', 'https://www.facebook.com/finatec.chartz', 'finatec.inc@gmail.com']}
+{'com.crashtestdummylimited.militaryreserveretirementpaycalculator': ['US Military Reserve Retirement', 'Crash+Test+Dummy+Limited,+LLC', '100+', 'http://crashtestdummylimited.com/?page_id=27', 'support@crashtestdummylimited.com']}
+{'com.byteslab.businessexintracker': ['Business ExIn Tracker', 'BytesLab+Technologies+OPC+Pvt.+Ltd.', '500+', 'http://byteslab.in/exin-tracker', 'info@byteslab.in']}
+{'com.said.finance': ['Finance Diary', 'Bobo+Angkasa', '500+', 'https://www.iubenda.com/privacy-policy-generator/1094067/services', 'Saidsalimssdc@gmail.com']}
+{'biz.tekeye.phonecontracts': ['Compare Phone Contracts', 'Tek+Eye', '1+', 'http://tekeye.biz', 'info@tekeye.biz']}
+{'com.bearpixel.premiumfinancialcalc': ['Premium Financial Calculators', 'Bear+Pixel', '500+', 'https://www.facebook.com/BearPixel/', 'bearpixel@gmail.com']}
+{'com.tsoftone.savingscalculator': ['Savings Calculator', 'TSoftOne', '10,000+', 'http://tsoftone.com', 'tsoftone@gmail.com']}
+{'com.Ultrabot.PayForNothing': ['Pay For Nothing', 'Ultrabot', '1+', None, 'ctziapouras8@gmail.com']}
+{'com.buyingyourfreedom.cashflow': ['Simple Budget', 'Jimmy+Winters', '10,000+', None, 'sb@jwint.xyz']}
+{'com.centuryegg.pdm': ['Debt Manager and Tracker', 'Century+Egg', '100,000+', 'http://www.centuryegg.com', 'enquiries@centuryegg.com']}
+{'com.radyanit.mobiletax': ['Integrity - A Mobile Tax', 'Integrity+Tax+Services,+Helen+Tucker', '10+', 'https://www.integritytaxsvc.com/', 'helenherron50@gmail.com']}
+{'com.tsoftone.autoloancalculator': ['Auto Loan Calculator', 'TSoftOne', '1,000+', 'http://tsoftone.com', 'tsoftone@gmail.com']}
+{'com.johnsimon.payback': ['Pay Back - IOU Manager', 'John+Simon+Co', '10,000+', 'http://johnsimonco.github.io/pp.html', 'johnsimondev@gmail.com']}
+{'com.sawhney.boss': ['Social Security Benefits Optimizer', 'Sawhney+Systems', '10,000+', 'http://www.sawhney.com', 'jaipsawhney@gmail.com']}
+{'com.dancam.subscriptions': ['Subscriptions - Subscriptions Manager', 'Daniele+Cambi', '1,000+', 'https://www.instagram.com/daniele_c_96/', 'dancam.dev@gmail.com']}
+{'com.aspiring.smallbusinessvaluationtab': ['Company Valuation', 'Aspiring+Investments+Corp', '10+', 'http://aspiringapps.com', 'enroll@tickervalue.com']}
+{'com.gtmsoftware.ligie2019': ['LIGIE 2019 - Ley de los Impuestos Generales de Imp', 'Brainy+Tower', '10+', 'http://moviley.brainytower.com', 'brainytower@gmail.com']}
+{'cps.mmxi.tipcalculator': ['Tip and Split Calculator', 'C.P.S.', '1,000+', 'http://www.cpsdevelopment.com', 'cps.development@gmail.com']}
+{'com.debtables.oncelogix': ['Debtables', 'OnceLogix', '100+', 'http://www.oncelogix.com', 'info@oncelogix.com']}
+{'su.azure.paymaster': ['Daily Expenses & Income Record app - Paymaster', 'Sergei+Koleskin', '100,000+', 'https://paymaster.site', 'support@paymaster.site']}
+{'com.idealratings': ['Islamic investor', 'IdealRatings,+Inc.', '10,000+', 'http://www.idealratings.com', 'mobile@idealratings.com']}
+{'com.grichenko.android.balcal.full': ['BalCal', 'Aleksey+Grichenko', '5+', 'https://sites.google.com/site/grichenko/', 'grichenko@gmail.com']}
+{'com.tyrcord.apps.pipcalculator': ['Pip Calculator', 'Tyrcord', '5,000+', 'http://tyrcord.com', 'contact@tyrcord.com']}
+{'io.cordova.kidsbux1b00f53567404092b26c288159905c38': ['KidsBux & Chores & Allowance', 'Image+Technologies', '10+', 'http://www.takemykid.com', 'kidsbuxapp@gmail.com']}
+{'air.A1PESOS': ['1 PESO', '8162954085225066088', '10,000+', 'https://drive.google.com/open?id=1egqEtY_agG75XOWTc0W3HD_rPpilEVP8', 'weropitonchvz@gmail.com']}
+{'com.lm.fra': ['Financial Ratio Analysis Pro', 'Oei+Technology', '50+', 'http://valent.co', 'leonard.mamangkey@gmail.com']}
+{'cbrdevelopment.com.easycryptocurrencyticker': ['Easy Cryptocurrency Ticker', 'CBR+Development', '500+', 'http://cbrdevelopment.com/', 'apps@cbrdevelopment.com']}
+{'com.phasebit.fulltithe': ['Full Tithe-LDS Tithing Tracker', 'Phase+Bit+Software+LLC', '1,000+', 'http://phasebit.com', 'support@phasebit.com']}
+{'com.merona.einkaufsrechner': ['Einkaufsrechner', 'Merona', '10+', 'http://merona.de', 'Einkaufsrechner@merona.de']}
+{'br.com.ahg.calculajuros': ['Loan S', 'A+H+Gusukuma', '5+', 'http://ahgusukuma.blogspot.com.br', 'ahgusukuma@gmail.com']}
+{'com.apps.balli.mywallet.pro': ['My Wallet key (Remove Ads)', 'Balli', '1,000+', None, 'apps.balli@gmail.com']}
+{'com.redlee90.donation1': ['redlee90 donation $1', '5407683851911152361', '10+', None, 'redlee90@gmail.com']}
+{'com.handoko.kwhcalculator': ['kWh Calculator', 'Handoko+/+iihigate', '100+', 'http://www.handoko.nl', 'webmaster@handoko.nl']}
+{'com.stu.tip': ['Tip Tracker - Tip TraQ Pro', 'Tom+Stuczynski', '10,000+', 'http://www.tiptraqpro.com', 'TomStuMobile@live.com']}
+{'com.mattzab.stockchartview': ['Stock Chart View', 'Matt+Zabojnik', '1,000+', 'http://apps.mattzab.com', 'mattzab@gmail.com']}
+{'com.aspiring.PackingSlip': ['Packing Slip', 'Aspiring+Investments+Corp', '50+', 'http://aspiringapps.com', 'enroll@tickervalue.com']}
+{'com.gasapppro': ['Fuel Tracker', 'Rogan+Software', '100+', 'http://www.rogansoftware.com/gasapp', 'rogan.software@gmail.com']}
+{'br.com.next.liberdadefinanceirapro': ['Financial Freedom', 'Alysson+Myller', '50+', 'http://liberdade-financeira.webflow.io/', 'alyssonmyller@gmail.com']}
+{'com.gtmsoftware.lad2019': ['LAD 2019 - Ley Aduanera', 'Brainy+Tower', '5+', 'http://moviley.brainytower.com', 'brainytower@gmail.com']}
+{'appinventor.ai_CheckPointApps.SS_MBA_Profile': ['Social Security.', 'Check+Point+Android+Apps', '50+', None, 'CheckPointApps@gmail.com']}
+{'appinventor.ai_kenloon2003.CreateGraph': ['Create Graph', 'Kent+Loon', '100+', None, 'kenloon2003@gmail.com']}
+{'ez.billreminder': ['EZ Bill Tracker', 'geotheo777@gmail.com', '100+', None, 'geotheo777@gmail.com']}
+{'com.blogspot.imapp.imcertsafeformarket': ['PrivateCert OnOff', 'INAPP', '1,000+', 'http://imapp.blogspot.com/', 'imapp.help@gmail.com']}
+{'io.appery.project.tsastg': ['The Stock Advisor STG 9', 'Epsilon+Financial+%26+Business+Development,+Inc.', '10+', 'http://www.thestockadvisorstg.com', 'info@thestockadvisorstg.com']}
+{'com.mnm.cryptocurrency.cryptoconvert.pro': ['CryptoConvert Pro - Cryptocurrency Calculator', 'MNM+Applications', '100+', 'http://www.mnmapplications.com', 'mnmapplications@gmail.com']}
+{'com.pragmaticdevsolutions.weddingbudgetplanner': ['Wedding Budget Planner', '6234814064895950419', '100+', 'http://pragmaticdevsolutions.com/', 'pragdev@pragmaticdevsolutions.com']}
+{'com.MyApp1.calculator': ['Calculator', 'Sebastian+Bennett', '1+', 'http://sebastianbennett-gplay.blogspot.com', 'sebastianbennett13@gmail.com']}
+{'com.KaiTech.iamrich': ['I AM RICH  PRO PLUS', 'Kai.Chen', '1,000+', 'https://www.facebook.com/help/325807937506242?helpref=faq_content', 'cheap122000@gmail.com']}
+{'gosmartbiz.mydrives': ['Tax Drives', 'intellect+edge+llc', '10+', 'http://www.taxdriveapp.com', 'support@taxdriveapp.com']}
+{'com.luupapps.bitcracked.bitcoinpositioncalculator': ['BitCracked - Bitmex Bitcoin Entry Exit Calculator', 'Luup+Apps', '100+', 'https://sites.google.com/view/luup-apps-privacy-policy/home', 'luupApps@gmail.com']}
+{'org.nikas.stock.widget': ['Stock Exchange Quotes Widget', '7683313936911917484', '5,000+', 'http://rkd.dp.ua/confidence_policy.txt', 'nikas.solutions@gmail.com']}
+{'conversor.conversaotaxas.pro': ['Currency X Pro', 'Currency+Converter+X+Apps', '500+', 'http://vsxapps.com/privacy-policy/?app=Currency%20X%20Pro', 'vagner.xavier.ti@gmail.com']}
+{'com.sawhney.taxmode': ['TaxMode: income tax calculator & planner for USA', 'Sawhney+Systems', '50,000+', 'http://www.sawhney.com', 'info@sawhney.com']}
+{'eoseoul.io.nblocks': ['Simple blockchain wallet - nBlocks', 'EOSeoul', '10+', 'https://eoseoul.io/', 'nblocksapp@gmail.com']}
+{'com.crowsoft.ocnwidget': ['Crowsoft Crypto Widgets - Full', '9173562857593042855', '10+', 'http://www.crowsoft.co.nz', 'Crowsoftapps@gmail.com']}
+{'com.thorst.biweeklybudget': ['Biweekly Budget', 'Thorst', '1,000+', 'https://github.com/thorst/android.BiweeklyBudget/blob/master/README.md', 'byweeklybudget@yahoo.com']}
+{'com.tengallonapps.autoloan': ['Auto Loan Calculator', 'Ten+Gallon+Apps,+LLC', '10,000+', 'http://www.tengallonapps.com', 'support@tengallonapps.com']}
+{'com.squareup.cash': ['Cash App', '4878871734928263649', '10,000,000+', 'https://cash.me', 'support@squareup.com']}
+{'gov.irs': ['IRS2Go', 'Internal+Revenue+Service', '10,000,000+', 'https://www.irs.gov/', 'irs2go@irs.gov']}
+{'com.venmo': ['Venmo Mobile Wallet: Send & Receive Money', 'PayPal,+Inc.', '10,000,000+', 'https://venmo.com/', 'support+android@venmo.com']}
+{'com.paypal.android.p2pmobile': ['PayPal Mobile Cash: Send and Request Money Fast', 'PayPal+Mobile', '50,000,000+', 'https://www.paypal.com/mobile', 'app-feedback@paypal.com']}
+{'com.creditkarma.mobile': ['Credit Karma', 'Credit+Karma,+Inc.', '10,000,000+', 'http://www.creditkarma.com', 'support@creditkarma.com']}
+{'com.intuit.turbotax.mobile': ['TurboTax Tax Return App – Max Refund Guaranteed', '7987416923533646496', '5,000,000+', 'https://turbotax.intuit.com/personal-taxes/mobile-apps/turbotax.jsp%20', 'TTAppFeedback@intuit.com']}
+{'com.propel.ebenefits': ['Fresh EBT - Food Stamp Balance', '7865210919269742770', '1,000,000+', 'http://joinpropel.com', 'feedback@joinpropel.com']}
+{'com.chase.sig.android': ['Chase Mobile', 'JPMorgan+Chase', '10,000,000+', 'http://www.Chase.com/mobile', 'chasemobilesupport@emailonline.chase.com']}
+{'com.zellepay.zelle': ['Zelle', 'Early+Warning+Services,+LLC', '1,000,000+', 'https://www.zellepay.com', 'EWSGoogleDeveloper@earlywarning.com']}
+{'com.konylabs.capitalone': ['Capital One® Mobile', 'Capital+One+Services,+LLC', '10,000,000+', 'https://www.capitalone.com/contact/', 'webinfo@capitalone.com']}
+{'com.infonow.bofa': ['Bank of America Mobile Banking', '5615837024201601069', '10,000,000+', 'https://www.bankofamerica.com/mobile/mobile-banking-help.go', 'mobileappstore@bankofamerica.com']}
+{'com.wf.wellsfargomobile': ['Wells Fargo Mobile', 'Wells+Fargo+Mobile', '10,000,000+', 'https://wf.com', 'Appstorefeedback@wellsfargo.com']}
+{'com.geico.mobile': ['GEICO Mobile - Car Insurance', 'GEICO+Insurance', '10,000,000+', 'https://www.geico.com/web-and-mobile/mobile-apps/', 'mobileapphelp@geicomail.com']}
+{'com.google.android.apps.walletnfcrel': ['Google Pay', '5700313618786177705', '100,000,000+', 'https://pay.google.com/about', 'google-payments@google.com']}
+{'com.phonevalley.progressive': ['Progressive', 'Progressive+Insurance', '5,000,000+', 'http://www.progressive.com', 'App_Feedback@progressive.com']}
+{'com.statefarm.pocketagent': ['State Farm®', '5407634085089080558', '1,000,000+', 'https://www.statefarm.com/customer-care/download-mobile-apps/state-farm-mobile-app', 'sf-android-apps@statefarm.com']}
+{'com.westernunion.android.mtapp': ['Western Union US - Send Money Transfers Quickly', 'Western+Union+Android+Apps', '5,000,000+', 'https://wucare.westernunion.com/s/customer-care-home?language=en_US', 'customerservice@westernunion.com']}
+{'com.intuit.turbo': ['Turbo: Financial Score & Free Credit Report', '7987416923533646496', '500,000+', 'https://turbo.intuit.com', 'Social_We_Care@intuit.com']}
+{'com.citi.citimobile': ['Citi Mobile®', 'Citibank+N.A.', '5,000,000+', 'http://www.citibank.com', 'Mobile.Metrics.US@citi.com']}
+{'com.experian.android': ['Experian - Free Credit Report & FICO Score', 'Experian', '1,000,000+', 'http://www.experian.com', 'appfeedback@experianinteractive.com']}
+{'com.acorns.android': ['Acorns - Invest Spare Change', 'Acorns', '1,000,000+', 'https://www.acorns.com', 'androidsupport@acorns.com']}
+{'com.robinhood.android': ['Robinhood: Invest in Stock, Crypto, ETF & Coin', '6660669299832938042', '5,000,000+', 'https://robinhood.com/', 'support@robinhood.com']}
+{'com.claritymoney.android.prod': ['Clarity Money - Budget Planner', 'Clarity+Money,+Inc', '500,000+', 'https://claritymoney.com', 'support@claritymoney.com']}
+{'com.onedebit.chime': ['Chime - Mobile Banking', 'Chime', '1,000,000+', 'http://chimebank.com/', 'support@chimebank.com']}
+{'com.intuit.qbse': ['QuickBooks Self-Employed:Mileage Tracker and Taxes', '7987416923533646496', '1,000,000+', 'https://quickbooks.intuit.com/global/privacy/', 'QB_selfemployed@intuit.com']}
+{'com.cardinalcommerce.greendot': ['Green Dot - Mobile Banking', 'Green+Dot', '1,000,000+', 'http://greendot.com', 'customeronlinefeedback@greendot.com']}
+{'com.netspend.product.android': ['Netspend', 'NetSpend', '1,000,000+', 'https://www.netspend.com', 'feedback@netspend.com']}
+{'com.varomoney.varo': ['Varo Banking', 'Varo+Money,+Inc.', '100,000+', 'https://varomoney.com', 'help@varomoney.com']}
+{'com.creditonebank.mobile': ['Credit One Bank Mobile', 'Credit+One+Bank,+N.A.', '1,000,000+', 'https://www.creditonebank.com/', 'AppStoreDevAcct@creditone.com']}
+{'com.joinroot.root': ['Root Car Insurance: Good drivers save money', 'Root+Insurance', '1,000,000+', 'https://www.joinroot.com', 'support@joinroot.com']}
+{'digit.android': ['Digit Save Money Automatically', 'Hello+Digit,+Inc.', '500,000+', 'https://digit.co', 'help@digit.co']}
+{'com.brisk.jpay': ['JPay', 'Jpay+Mobile', '1,000,000+', 'http://www.jpay.com', 'jpayhelp@gmail.com']}
+{'com.allstate.view': ['Allstate® Mobile', 'Allstate+Insurance+Co.', '1,000,000+', 'http://www.allstate.com/mobile/insurance-go.aspx', 'mobileappsupport@allstate.com']}
+{'com.hrblock.blockmobile': ['MyBlock', 'H%26R+Block', '1,000,000+', 'http://www.hrblock.com/mobile-apps/mobile-app.html', 'myblockapps@hrblock.com']}
+{'com.discoverfinancial.mobile': ['Discover Mobile', 'Discover+Financial+Services', '5,000,000+', 'http://www.discovercard.com/contact-us/', 'mobappqs@service.discovercard.com']}
+{'com.activehours': ['Earnin - Get Paid Today', 'Activehours+Inc.', '1,000,000+', 'https://www.earnin.com', 'support@earnin.com']}
+{'com.stash.stashinvest': ['Stash: Invest. Learn. Save.', 'Stash+Invest', '1,000,000+', 'http://www.stashinvest.com', 'support@stashinvest.com']}
+{'com.americanexpress.android.acctsvcs.us': ['Amex', 'American+Express', '5,000,000+', 'https://www.americanexpress.com/us/content/mobile/android.html', 'android@aexp.com']}
+{'com.dave': ['Dave: $75 Before You Get Paid', 'Dave,+Inc', '1,000,000+', 'http://www.dave.com', 'friends@dave.com']}
+{'com.mint': ['Mint: Budget, Bills, Finance', '7987416923533646496', '5,000,000+', 'http://www.mint.com', 'feedback-mobile@mint.com']}
+{'com.moneylion': ['MoneyLion: Borrow, Save, Invest', 'MoneyLion+Inc.', '1,000,000+', 'https://www.moneylion.com', 'support@moneylion.com']}
+{'com.capitalone.credittracker': ['CreditWise from Capital One', 'Capital+One+Services,+LLC', '1,000,000+', 'https://www.capitalone.com', 'EnterpriseMobileVendorSupport@capitalone.com']}
+{'com.greendot.walmart.prepaid': ['Walmart MoneyCard', 'Green+Dot', '1,000,000+', 'http://walmartmoneycard.com', 'customeronlinefeedback@greendot.com']}
+{'com.usbank.mobilebanking': ['U.S. Bank', 'U.S.+Bank+Mobile', '1,000,000+', 'http://usbank.com/mobile', '1800usbanks@usbank.com']}
+{'com.creditsesame': ['Credit Sesame', 'Credit+Sesame,+Inc.', '1,000,000+', 'http://www.creditsesame.com', 'mobilesupport@creditsesame.com']}
+{'com.syf.mysynchrony': ['MySynchrony', 'Synchrony', '500,000+', 'https://www.mysynchrony.com/', 'appsupport@synchronyfinancial.com']}
+{'com.greendot.intuit.turbocard': ['Turbo Prepaid Card', 'Green+Dot', '100,000+', 'http://turboprepaidcard.com', 'customeronlinefeedback@greendot.com']}
+{'com.everydollar.android': ['EveryDollar: Budget Tool and Expense Tracker', '6120167175602606308', '1,000,000+', 'https://everydollar.com/', 'help@everydollar.com']}
+{'com.navyfederal.android': ['Navy Federal Credit Union', 'Navy+Federal', '1,000,000+', 'https://www.navyfederal.org', 'mobilehelp@navyfederal.org']}
+{'com.pnc.ecommerce.mobile': ['PNC Mobile', 'PNC+Bank,+N.A.', '1,000,000+', 'https://www.pnc.com', 'mobileapp@pnc.com']}
+{'com.mastercard.directexpress': ['Direct Express®', 'MasterCard', '1,000,000+', 'http://www.mastercard.com', 'DigitalCommerce_Support@mastercard.com']}
+{'com.tdbank': ['TD Bank (US)', 'TD+Bank,+N.A.', '1,000,000+', 'http://www.tdbank.com', 'Mobile@td.com']}
+{'com.gpshopper.moneygram': ['MoneyGram', 'MGI', '1,000,000+', 'https://secure.moneygram.com/mgo/us/en/', 'customerservice@moneygram.com']}
+{'com.chasepay.sig.android': ['Chase Pay® | Earn, Save, Order', 'JPMorgan+Chase', '1,000,000+', 'https://www.chase.com/digital/digital-payments/chase-pay', 'chasemobilesupport@emailonline.chase.com']}
+{'com.fsa.mystudentaid': ['myStudentAid', 'U.S.+Department+of+Education', '100,000+', 'https://studentaidhelp.ed.gov/app/home/site/studentaid', 'fsamobileappstore@ed.gov']}
+{'com.hellobrigit.Brigit': ['Brigit: Get $250 Between Paychecks, End Overdrafts', 'Brigit', '100,000+', 'https://hellobrigit.com', 'info@hellobrigit.com']}
+{'com.usaa.mobile.android.usaa': ['USAA Mobile', '8585147789153326395', '5,000,000+', 'http://www.usaa.com/mobile', 'mobile@usaa.com']}
+{'gokart.com.principal': ['Principal®', 'Principal+Financial+Group', '1,000+', 'http://www.principal.com', 'DLRISMOBILEAPPDEV@exchange.principal.com']}
+{'com.xoom.android.app': ['Xoom Money Transfer', 'Xoom,+a+PayPal+Service', '1,000,000+', 'http://www.xoom.com', 'product.feedback@xoom.com']}
+{'com.meetalbert': ['Albert: Spend Smarter', 'Albert+Corp.', '50,000+', 'https://albert.com/', 'support@albert.com']}
+{'com.firstdata.moneynetwork': ['Money Network® Mobile App', 'First+Data+Corporation', '1,000,000+', 'http://www.moneynetwork.com/mobile', 'MNmobile@moneynetwork.com']}
+{'com.coinbase.android': ['Coinbase – Buy & sell bitcoin. Crypto Wallet', 'Coinbase,+Inc.', '5,000,000+', 'https://coinbase.com/', 'support@coinbase.com']}
+{'com.fidelity.android': ['Fidelity Investments', 'Fidelity+Investments', '1,000,000+', 'https://www.fidelity.com', 'ElectronicChannelSupport@fidelity.com']}
+{'com.hrblock.AtHome': ['H&R Block Tax Prep and File', 'H%26R+Block+Digital+Tax', '100,000+', 'https://www.hrblock.com/mobile-apps/index.html', 'hrbmobiletaxes@hrblock.com']}
+{'com.sofi.mobile': ['SoFi: Save & invest money with mobile finance', 'Social+Finance,+Inc.', '100,000+', 'https://www.sofi.com', 'mobilesupport@sofi.com']}
+{'com.yahoo.mobile.client.android.finance': ['Yahoo Finance: Real-Time Stocks & Investing News', '5536369398281991413', '5,000,000+', 'https://mobile.yahoo.com/finance', 'finance-android-feedback@yahoo-inc.com']}
+{'com.meettally': ['Tally: Credit Card Debt Payoff Planner & Pay Bills', 'Tally+Technologies,+Inc.', '100,000+', 'https://www.meettally.com', 'support@meettally.com']}
+{'com.syf.cc': ['CareCredit Mobile', 'Synchrony', '500,000+', 'https://www.carecredit.com/', 'appsupport@synchronyfinancial.com']}
+{'com.affirm.central': ['Affirm', 'Affirm,+Inc.', '100,000+', 'https://www.affirm.com', 'help@affirm.com']}
+{'com.regions.mobbanking': ['Regions Bank', 'Regions+Bank', '1,000,000+', 'http://www.Regions.com', 'ebsystems@regions.com']}
+{'com.mobiledatalabs.mileiq': ['Mileage Tracker by MileIQ', 'Mobile+Data+Labs,+Inc.', '1,000,000+', 'http://www.mileiq.com', 'support@mileiq.com']}
+{'com.selflender.thor': ['Self Lender - Build Credit While You Save', 'Self+Lender,+Inc.', '100,000+', 'https://www.selflender.com', 'help@selflender.com']}
+{'com.bossrevolution.money.production': ['Boss Revolution – International Money Transfer', 'Boss+Revolution', '500,000+', 'https://bossrevolution.com', 'moneyapp@idt.net']}
+{'com.bbt.myfi': ['U by BB&T', 'BBT+Mobile', '1,000,000+', 'http://www.bbt.com/mobile', 'Mobile@bbandt.com']}
+{'com.ally.MobileBanking': ['Ally Mobile', 'Ally+Financial', '1,000,000+', 'http://www.ally.com/contact-us/', 'feedback@ally.com']}
+{'com.everlance': ['Everlance: Free Mileage Log', 'Everlance', '100,000+', 'http://everlance.com', 'support@everlance.com']}
+{'com.card.cardcom': ['CARD.com Mobile', 'CARD.com', '500,000+', 'http://www.card.com', 'support@card.com']}
+{'money.expense.budget.wallet.manager.track.finance.tracker': ['Money Manager: Expense Tracker, Free Budgeting App', 'Money+Manager,+Expense+Tracker,+Currency+Exchange', '1,000,000+', 'http://www.anappforge.com/privacy.html', 'youngzi@dailyinnovation.biz']}
+{'com.bbva.compassBuzz': ['BBVA Compass Banking', '6321507411823178986', '500,000+', 'https://www.bbvacompass.com/digital-banking-services/mobile-banking.html', 'mobile-banking.usa.group@bbva.com']}
+{'net.gtl.mobile_app': ['ConnectNetwork', 'GTL+ES', '500,000+', 'https://web.connectnetwork.com/contact-us/', 'support@connectnetwork.com']}
+{'com.i2c.mcp.movocash': ['MOVO - Mobile Cash & Payments', 'MovoCash,+Inc.', '100,000+', 'https://movo.cash', 'support@movo.cash']}
+{'com.clairmail.fth': ['Fifth Third Mobile Banking', 'Fifth+Third+Bank', '1,000,000+', 'https://www.53.com/', '53_EmailMessages@53.com']}
+{'com.youneedabudget.evergreen.app': ['YNAB — Budget, Personal Finance', 'YouNeedABudget.com', '500,000+', 'http://www.youneedabudget.com', 'help@youneedabudget.com']}
+{'com.even.harmony': ['Even - How busy people master their money', 'Even+Responsible+Finance', '100,000+', 'https://www.even.com', 'hello@teameven.com']}
+{'com.lifelock.memberapp': ['LifeLock: Identity Theft Protection App', 'LifeLock', '500,000+', 'http://www.lifelock.com', 'support@lifelock.com']}
+{'com.serve.mobile': ['Serve', 'Interactive+Communications+International,+Inc.', '1,000,000+', 'http://www.serve.com', 'MobileDevelopement@incomm.com']}
+{'com.current.app': ['Current - A better bank for a brighter future', 'Current', '100,000+', 'https://current.com', 'support@current.com']}
+{'com.ns.paypalpp': ['PayPal Prepaid', 'NetSpend', '500,000+', 'http://www.paypal.com/Prepaid', 'prepaid@paypal.com']}
+{'com.syf.amazonstorecard': ['Amazon Store Card', 'Synchrony', '100,000+', 'https://assets2.gpshopper.com/assets/436/privacy_policy', 'appsupport@synchronyfinancial.com']}
+{'com.progressive.snapshot2': ['Snapshot®', 'Progressive+Insurance', '100,000+', 'http://www.progressive.com', 'snapshotmobile@email.progressive.com']}
+{'com.suntrust.mobilebanking': ['SunTrust Mobile App', 'SunTrust+Banks,+Inc.', '1,000,000+', 'https://www.suntrust.com/mobileapp', 'customercare@suntrust.com']}
+{'com.tdameritrade.mobile3': ['TD Ameritrade Mobile', 'TD+Ameritrade+IP+Company,+Inc.', '1,000,000+', 'http://www.tdameritrade.com/mobileapp', 'tdameritrademobile@tdameritrade.com']}
+{'com.qapital': ['Qapital: Save. Invest. Spend.', 'Qapital,+Inc.', '500,000+', 'https://www.qapital.com', 'support@qapital.com']}
+{'com.etrade.mobilepro.activity': ['E*TRADE: Invest. Trade. Save.', 'E*TRADE+Financial', '1,000,000+', 'http://us.etrade.com', 'mobile@etrade.com']}
+{'com.esurance.app': ['Esurance Mobile', 'Esurance', '500,000+', 'http://www.esurance.com', 'mobiledevelopment@esurance.com']}
+{'com.gobank': ['GoBank – Mobile Banking', 'Green+Dot+Corporation', '500,000+', 'http://www.gobank.com', 'help@gobank.com']}
+{'com.mrcooper.apollo.beta': ['Mr. Cooper', 'Nationstar+Mortgage+LLC,+d/b/a+Mr.+Cooper', '100,000+', 'https://www.mrcooper.com', 'mobile@mrcooper.com']}
+{'com.aspiration.app': ['Aspiration Banking Services', 'Aspiration+Partners+Inc', '100,000+', 'https://www.aspiration.com/summit', 'support@aspiration.com']}
+{'com.woodforest': ['Woodforest Mobile Banking', 'Woodforest+National+Bank', '1,000,000+', 'https://www.woodforest.com/', 'mobilesupport@woodforest.com']}
+{'com.fidelity.wi.activity': ['NetBenefits', 'Fidelity+Investments', '500,000+', 'http://www.netbenefits.com/', 'workplace.email@fidelity.com']}
+{'com.mfoundry.mb.android.mb_111906271': ['FNBT & FCB Mobile Banking', 'First+Community+Services+%28FIS%29', '1,000,000+', 'http://www.1stnb.com', 'custserv@1stnb.com']}
+{'com.afterpaymobile.us': ['Afterpay - Shop Now, Pay Later', 'Afterpay', '100,000+', 'https://www.afterpay.com', 'info@afterpay.com.au']}
+{'com.mobilecreditcards': ['NerdWallet: Credit Score, Budgeting & Finance', 'NerdWallet', '100,000+', 'https://www.nerdwallet.com', 'support@nerdwallet.com']}
+{'com.lexingtonlaw': ['Lexington Law - Credit Repair', 'Progrexion,+IP', '100,000+', 'https://clients.lexingtonlaw.com/login', 'app@lexingtonlaw.com']}
+{'com.huntington.m': ['Huntington Mobile', 'Huntington+National+Bank', '1,000,000+', 'http://www.huntington.com/mobile', 'mobile.developer@huntington.com']}
+{'in.usefulapp.timelybills': ['Bills Reminder, Payments & Expense Manager App', 'TimelyBills', '100,000+', 'https://timelybills.app/privacy-policy/', 'support@timelybills.app']}
+{'org.me.mobiexpensifyg': ['Expensify - Expense Reports', 'Expensify', '1,000,000+', 'http://use.expensify.com', 'help@expensify.com']}
+{'com.firstpremier.mypremiercreditcard': ['My Premier Credit Card', 'PREMIER+SD', '500,000+', 'https://www.mypremiercreditcard.com', 'mobileappsupport@premierbankcard.com']}
+{'com.progfinance.progressivemobile': ['Progressive Leasing Mobile', 'Progressive+Leasing', '100,000+', 'http://www.progleasing.com', 'customersupport@progleasing.com']}
+{'com.bankofamerica.prepaid': ['BofA Prepaid Mobile', '5615837024201601069', '100,000+', 'https://prepaid.bankofamerica.com/content/PRC384/_Docs/DIGITAL-BofAPrepaid-Help.pdf', 'MobileServices@prepaidcard.bankofamerica.com']}
+{'com.citizensbank.androidapp': ['Citizens Bank Mobile Banking', 'Citizens+Bank,+N.A.', '1,000,000+', 'http://www.citizensbank.com/online-and-mobile-banking/apps.aspx', 'mobilesupport@citizensbank.com']}
+{'com.truebill': ['Truebill Budget Planner, Bill Tracker and Reminder', 'Finance,+Budget+Planner+%26+Bill+Tracker+-+Truebill', '100,000+', 'https://www.truebill.com/', 'hello@truebill.com']}
+{'com.rushcard.android': ['RushCard', 'RushCard', '1,000,000+', 'http://www.rushcard.com', 'appsupport@rushcard.com']}
+{'com.colpit.diamondcoming.isavemoney': ['Monthly Budget Planner & Daily Expense Tracker', 'DigitLeaf,+llc', '1,000,000+', 'http://www.pay-debt.com', 'contact.isavemoney@gmail.com']}
+{'com.bmoharris.digital': ['BMO Digital Banking', 'BMO+Harris+Bank+N.A.', '100,000+', 'http://www.bmoharris.com', 'onlineservices@harrisbank.com']}
+{'com.worldremit.android': ['WorldRemit Money Transfer', 'WorldRemit', '1,000,000+', 'https://www.worldremit.com/', 'feedback@worldremit.com']}
+{'com.barclaycardus': ['Barclays US for Android', 'Barclays+Bank+Delaware', '1,000,000+', 'https://www.barclaysus.com', 'androidapps@barclaycardus.com']}
+{'com.myfico': ['myFICO - Official FICO® Scores', 'FICO', '100,000+', 'http://www.myfico.com', 'myfico_android@fico.com']}
+{'com.gmfinancial.myaccount': ['GM Financial Mobile', 'GM+Financial', '100,000+', 'https://www.gmfinancial.com/', 'digitalapps@gmfinancial.com']}
+{'com.Splitwise.SplitwiseMobile': ['Splitwise', 'Splitwise', '5,000,000+', 'http://splitwise.com', 'android-support@splitwise.com']}
+{'com.vanguard': ['Vanguard', 'The+Vanguard+Group,+Inc.', '500,000+', 'http://www.vanguard.com', 'online@vanguard.com']}
+{'com.evertec.athmovil.android': ['ATH Móvil', 'EVERTEC+Group,+LLC', '1,000,000+', 'http://www.athmovil.com', 'servicioalcliente@athmovil.com']}
+{'com.lemonadeinc.lemonade': ['Lemonade: Renters & Homeowners Insurance', '4782657628587472295', '100,000+', 'https://lemonade.com', 'feedback@lemonade.com']}
+{'com.key.android': ['KeyBank Mobile', 'KeyBank,+N.A.', '1,000,000+', 'http://www.key.com', 'KeyMobileApplication@keybank.com']}
+{'com.chexar.ingo.android': ['Ingo Money – Cash Checks Fast', 'Ingo+Money,+Inc.', '1,000,000+', 'http://www.ingomoney.com', 'help@ingomoney.com']}
+{'com.aflac.access': ['MyAflac', 'Aflac+US', '100,000+', 'https://www.aflac.com/about-aflac/privacy-policy.aspx', 'aflacuscolumbus@aflac.com']}
+{'com.ltmoneycenter_android.PROD': ['LendingTree', '8971169268326067294', '100,000+', 'http://www.lendingtree.com', 'customercare@lendingtree.com']}
+{'com.remitly.androidapp': ['Remitly', '6290464196419072068', '500,000+', 'http://www.remitly.com', 'service@remitly.com']}
+{'com.bluebird.mobile': ['Bluebird by American Express', 'Interactive+Communications+International,+Inc.', '1,000,000+', 'http://bluebird.com', 'MobileDevelopement@incomm.com']}
+{'com.ml.mobile.bol': ['Benefits OnLine', 'Merrill+Lynch,+Pierce,+Fenner,+and+Smith+Inc.', '50,000+', 'https://www.benefits.ml.com/login/login', 'ml_mobile_android_support@ml.com']}
+{'com.stridehealth.drive': ['Stride Tax: Free Mileage, Expense, & Receipt Log', 'Stride+Health', '100,000+', 'https://www.stridehealth.com/tax', 'taxhelp@stridehealth.com']}
+{'com.ally.auto.activity': ['Ally Auto Mobile Pay', 'Ally+Financial', '500,000+', 'https://www.ally.com/auto/', 'mobile.development@ally.com']}
+{'com.netspend.mobileapp.westernunion': ['Western Union Netspend Prepaid', 'NetSpend', '500,000+', 'http://www.wunetspendprepaid.com', 'customerservice@wunetspendprepaid.com']}
+{'com.mtb.mbanking.sc.retail.prod': ['M&T Mobile Banking', 'M%26T+Bank', '500,000+', 'http://www.mtb.com/mobile', 'custserv@mtb.com']}
+{'com.wageworks.ezreceipts': ['EZ Receipts', 'WageWorks', '500,000+', 'http://www.wageworks.com', 'AndroidAppEZR@wageworks.com']}
+{'com.univision.mobilemoney': ['Univision Mobile Money', 'Univision+Communications+Inc.', '10,000+', 'http://www.univisionmobilemoney.com', 'support@avaimobile.com']}
+{'com.blast.blast': ['Blast - Game, Save, Win!', 'BLAST', '500,000+', 'http://blast.com', 'support@blast.com']}
+{'com.circle.android': ['Circle Pay — Send money free', '7531027338586476426', '1,000,000+', 'https://www.circle.com', 'info@circle.com']}
+{'com.andromo.dev430081.app392812': ['Make Money: Passive Income & Work From Home Ideas', 'AlphaRay+Apps', '1,000,000+', 'http://alpharayapps.com', 'contact@alpharayapps.com']}
+{'com.schwab.mobile': ['Schwab Mobile', 'The+Charles+Schwab+Corporation', '500,000+', 'http://www.schwab.com', 'schwabmobile@schwab.com']}
+{'com.pnc.ecommerce.mobile.vw.android': ['Virtual Wallet by PNC', 'PNC+Bank,+N.A.', '1,000,000+', 'https://www.pnc.com', 'insidethewallet@pnc.com']}
+{'com.lmig.pm.internet.mobile.android.libertymutual': ['Liberty Mutual Mobile', 'Liberty+Mutual+Insurance+Company', '100,000+', 'http://libertymutual.com/liberty-mutual-mobile', 'Mobile_Apps@LibertyMutual.com']}
+{'com.xerox.epc.way2go': ['Go Program Way2Go Card', 'Conduent,+Inc', '100,000+', 'https://www.goprogram.com/goedcclient/contactUs.eppic%20', 'Way2GoCard@conduent.com']}
+{'com.taxact.express2013': ['TaxAct Express', 'TaxAct', '100,000+', 'http://www.taxact.com/tax_redirect.asp?link=E2014200', 'taxactdevelopmentteam@taxact.com']}
+{'com.keefegroup.access.corrections': ['Access Corrections', 'Keefe+Group+LLC', '100,000+', 'http://www.keefegroup.com', 'customerservice@accesscorrections.com']}
+{'com.sovereign.santander': ['Santander Bank US', 'Santander+Bank,+NA', '500,000+', 'https://customerservice.santanderbank.com', 'mobilebankingsupport@santander.us']}
+{'com.arvest.arvestgo': ['Arvest Go Mobile Banking', 'Arvest+Bank', '100,000+', 'http://www.arvest.com', 'interact@arvest.com']}
+{'com.mobileapp.android.rapid': ['rapid!Access', 'Wright+Express+rapid!', '100,000+', 'http://www.rapidfs.com', 'androidmobileapp01@gmail.com']}
+{'com.cnbc.client': ['CNBC: Breaking Business News & Live Market Data', 'NBCUniversal+Media,+LLC', '1,000,000+', 'http://cnbcllca.custhelp.com/', 'customercare@cnbc.com']}
+{'com.realbyteapps.moneymanagerfree': ['Money Manager Expense & Budget', 'Realbyte+Inc.', '5,000,000+', 'http://realbyteapps.com', 'help@realbyteapps.com']}
+{'com.merrickbank.smartclient.prod': ['Merrick Bank Mobile', 'Merrick+Bank', '500,000+', 'http://www.merrickbank.com/mobilesupport', 'merrickmobilesupport@merrickbank.com']}
+{'com.oxbowsoft.debtplanner': ['Debt Payoff Planner', 'OxbowSoft+LLC', '100,000+', 'http://www.debt-payoff-planner.com', 'support@stebt.com']}
+{'com.forex.whitelabel.forex': ['FOREX.com', 'GAIN+Capital+Group,+LLC', '100,000+', 'https://www.forex.com', 'support@forex.com']}
+{'com.honeydue.honeydue': ['Honeydue: Budget, Bills & Money for Couples', 'WalletIQ,+Inc.', '50,000+', 'https://www.honeydue.com', 'support@honeydue.com']}
+{'de.elfsoft.bestbrokers': ['Best Brokers: Stock Simulator', 'Clemens+Elflein+%26+Daniel+Fontes+OHG', '1,000,000+', 'http://www.bestbrokers.de', 'support@bestbrokers.de']}
+{'com.droid4you.application.wallet': ['Wallet - Finance Tracker and Budget Planner', '6437300643703400451', '1,000,000+', 'http://www.budgetbakers.com', 'support@budgetbakers.com']}
+{'com.lendmobi': ['LendMobi', 'lendmobi', '100,000+', 'http://www.lendmobi.com/', 'support@lendmobi.com']}
+{'com.fis.ebtedge': ['ebtEDGE', 'FIDELITY+NATIONAL+INFORMATION+SERVICES,+INC', '50,000+', 'https://www.fisglobal.com/ebtedgemobile/', 'ebtedge.mobile@fisglobal.com']}
+{'com.fusionmedia.investing': ['Stocks, Forex, Finance, Markets: Portfolio & News', '4813878430564579954', '5,000,000+', 'https://www.investing.com', 'mobile@investing.com']}
+{'com.quickenloans.myql': ['Rocket Mortgage', 'Quicken+Loans', '100,000+', 'https://www.rocketmortgage.com/', 'appfeedback@quickenloans.com']}
+{'com.tcf.d3': ['TCF Bank', 'TCF+Bank', '100,000+', 'http://www.tcfbank.com', 'rbccustcare@tcfbank.com']}
+{'com.transferwise.android': ['TransferWise Money Transfer', 'TransferWise', '1,000,000+', 'http://transferwise.com', 'support@transferwise.com']}
+{'com.cashadvanceloan': ['Cash Advance – Online Personal Loans', 'Loan+Mobile', '10,000+', 'https://cashadloan.com/', 'info@cashadloan.com']}
+{'org.mygreatlakes.borrower.mobile': ['Great Lakes Mobile', 'Great+Lakes+Educational+Loan+Services', '500,000+', 'https://www.mygreatlakes.org', 'mobile@glhec.org']}
+{'com.tmcc.click2pay.mytfs': ['myTFS - Toyota Financial', 'Toyota+Motor+Credit+Corporation', '500,000+', 'http://www.toyotafinancial.com', 'tfsandroidapp@toyota.com']}
+{'com.farmers.ifarmers': ['Farmers', 'Farmers+Group+Inc', '100,000+', 'http://www.farmers.com/', 'USW.Mobile.AppTeam@farmersinsurance.com']}
+{'com.jbremt.richofferrorcoins': ['Rich Off Error Coins', 'Erik%27s+Apps', '100,000+', 'http://www.eriksapps.com', 'jbremt@gmail.com']}
+{'com.finhabits.finhabitsapp': ['Finhabits - Roth IRA Made Easy', 'Finhabits+Advisors', '100,000+', 'http://www.finhabits.com?utm_source=playstore&utm_campaign=appview', 'advisor@finhabits.com']}
+{'de.schildbach.wallet': ['Bitcoin Wallet', '5750589945930020869', '1,000,000+', 'https://github.com/bitcoin-wallet/bitcoin-wallet', 'bitcoin.wallet.developers+play@gmail.com']}
+{'com.mychime.waveremit.app': ['Wave—Send Money to Africa', 'Chime+Inc', '100,000+', 'http://www.wave.com', 'help@wave.com']}
+{'net.metaquotes.metatrader4': ['MetaTrader 4', '6482947269324760172', '10,000,000+', 'http://www.metaquotes.net', 'support@metaquotes.net']}
+{'com.transunion.TransUnion': ['TransUnion: Score & Report', 'TransUnion+Consumer+interactive', '100,000+', 'http://www.transunion.com', 'mobile.agent@transunion.com']}
+{'com.htsu.hsbcpersonalbanking': ['HSBC Mobile Banking', 'HSBC', '5,000,000+', 'http://hsbc.mobi/', 'hsbc.app.support@hsbc.com']}
+{'com.netspend.mobileapp.skylight': ['Netspend Skylight ONE', 'NetSpend', '100,000+', 'https://www.netspend.com/skylightone/', 'customerservice@skylightpaycard.com']}
+{'piuk.blockchain.android': ['Blockchain Wallet. Bitcoin, Bitcoin Cash, Ethereum', 'Blockchain+Luxembourg+S.A.', '1,000,000+', 'https://www.blockchain.com', 'wallet@blockchain.info']}
+{'com.looklike.makemoney': ['Make Money Online& Work From Home Ideas', '8224345892189664347', '5,000+', 'http://www.bestonelist.com', 'kar.yer22751@gmail.com']}
+{'com.nationwide.mobile.android.nwmobile': ['Nationwide Mobile', 'Nationwide', '100,000+', 'http://www.nationwide.com', 'App_Store_Support@nationwide.com']}
+{'com.devexperts.tdmobile.platform.android.thinkorswim': ['thinkorswim Mobile', 'TD+Ameritrade+IP+Company,+Inc.', '500,000+', 'http://www.thinkorswim.com', 'thinkorswimMobile@tdameritrade.com']}
+{'com.ml.mobile.mymerrill': ['MyMerrill for Android', 'Merrill+Lynch,+Pierce,+Fenner,+and+Smith+Inc.', '100,000+', 'http://www.mymerrill.com', 'ml_mobile_android_support@ml.com']}
+{'com.wf.wellsfargomobile.tablet': ['Wells Fargo for Tablet', 'Wells+Fargo+Mobile', '1,000,000+', 'https://wf.com', 'Appstorefeedback@wellsfargo.com']}
+{'gov.ssa.mkwr': ['SSI Mobile Wage Reporting', 'Social++Security++Administration', '100,000+', 'http://ssa.gov/pgm/reach.htm', 'ssadiet@gmail.com']}
+{'com.paydayloansonline': ['BearPay - Online Payday Loans App', 'Payday+Loans+America', '10,000+', 'https://paydayloanson.com', 'info@paydayloanson.com']}
+{'com.botw.mobilebanking': ['Bank of the West Mobile', 'Bank+of+the+West', '500,000+', 'http://bankofthewest.com', 'MobileBanking@bankofthewest.com']}
+{'com.netspend.mobileapp.ace.flare': ['ACE Flare', 'NetSpend', '100,000+', 'https://www.aceflareaccount.com', 'customerservice@aceflareaccount.com']}
+{'com.popular.android.mibanco': ['Mi Banco Mobile', 'Banco+Popular+de+Puerto+Rico', '1,000,000+', 'http://www.popular.com/', 'internet@bppr.com']}
+{'com.savved.uptick': ['Stock Market Tracker', '%E2%AD%90+Uplift+Investment+Studios', '50,000+', 'https://upliftstocks.com/', 'uplifthelp@gmail.com']}
+{'com.optum.mobile.OptumBank': ['Optum Bank', 'Optum+Inc.', '100,000+', 'https://www.optumbank.com', 'madmin.optumhealth@optum.com']}
+{'com.amfam.myamfam': ['MyAmFam', 'American+Family+Insurance', '100,000+', 'http://www.amfam.com', 'accountsupport@amfam.com']}
+{'com.dof.mpts.prod': ['NYC Parking Ticket Pay or Dispute', 'NYC+Department+of+Finance', '100,000+', 'http://www1.nyc.gov/site/finance/index.page', 'mappnoreply@finance.nyc.gov']}
+{'gov.mass.dtaconnect': ['DTA Connect', 'Massachusetts+Dept+of+Transitional+Assistance', '100,000+', 'http://www.mass.gov/eohhs/gov/departments/dta/', 'dtaapphelpdesk@state.ma.us']}
+{'com.mhriley.spendingtracker': ['Spending Tracker', 'MH+Riley+Ltd', '1,000,000+', 'http://www.mhriley.com/spendingtracker', 'support@mhriley.com']}
+{'com.intuit.mobile.taxcaster': ['TaxCaster by TurboTax - Free', '7987416923533646496', '1,000,000+', 'https://turbotax.intuit.com/tax-tools/calculators/taxcaster/', 'TaxCasterFeedback@intuit.com']}
+{'com.metabank.mobile': ['MetaBank Mobile Banking', 'MetaBank', '100,000+', 'https://www.metabank.com/', 'clientbrandedapp@fiserv.com']}
+{'com.possible_mobile': ['Possible Finance: Quick Money that Builds Credit', 'Possible+Finance', '10,000+', 'http://www.possiblefinance.com', 'help@possiblefinance.com']}
+{'com.sprint.topup': ['Sprint World Top-Up', 'Sprint+Wireless', '100,000+', 'http://sprint.com/', 'sprint.support@juvo.com']}
+{'com.netspend.mobileapp.brinks': ["Brink's Prepaid", 'NetSpend', '100,000+', 'https://www.brinksprepaidmastercard.com', 'webappteam@netspend.com']}
+{'me.greenlight': ['Greenlight', 'Greenlight+Financial+Technology,+Inc.', '100,000+', 'http://www.greenlightcard.com', 'support@greenlightcard.com']}
+{'com.mobilligy.android': ['Prism Pay Bills, Money Tracker, Personal Finance', 'BillGO,+Inc.', '500,000+', 'https://www.prismmoney.com/', 'info@prismmoney.com']}
+{'com.higherone.mobile.android': ['BankMobile App', 'BankMobile+a+Division+of+Customers+Bank', '1,000,000+', 'http://www.bankmobilevibe.com/', 'MobileAppSupport@BankMobile.com']}
+{'com.seekingalpha.webwrapper': ['Seeking Alpha', 'SeekingAlpha', '1,000,000+', 'https://seekingalpha.com', 'android@seekingalpha.com']}
+{'com.incomm.otc': ['OTC Network', 'Interactive+Communications+International,+Inc.', '50,000+', 'http://www.otcnetwork.com', 'otcnetworkmobileappsppt@incomm.com']}
+{'com.conduent.ebt': ['ConnectEBT', 'Conduent,+Inc', '50,000+', 'http://www.ConnectEBT.com', 'ConnectEBT@Conduent.com']}
+{'com.pushcontrolz.givelify': ['Givelify Mobile Giving App', 'Givelify', '100,000+', 'http://givelify.com', 'support@givelify.com']}
+{'com.personalcapital.pcapandroid': ['Personal Capital -Budgeting,Investing,Finance App', 'Personal+Capital+Corporation', '100,000+', 'http://www.personalcapital.com', 'support@personalcapital.com']}
+{'com.connectyourcare.mobile30': ['myCYC', 'ConnectYourCare', '50,000+', 'http://www.connectyourcare.com', 'service@connectyourcare.com']}
+{'com.paysend.app': ['Send money online: card to card', 'PaySend', '100,000+', 'https://www.paysend.com', 'help@paysend.com']}
+{'wb.receipts': ['Smart Receipts', 'Smart+Receipts+LLC', '500,000+', 'https://www.smartreceipts.co/', 'support@smartreceipts.co']}
+{'org.orangecountyscu.android.banking': ['Orange County Credit Union', 'Orange+County%27s+Credit+Union', '1,000+', 'http://www.orangecountyscu.org/', 'eservices@orangecountyscu.org']}
+{'com.westlake.mobile': ['Westlake MyAccount', 'Westlake+Financial+Services', '100,000+', 'https://myaccount.westlakefinancial.com/', 'WestlakeCustomerCare@westlakefinancial.com']}
+{'com.fiservcardvalet.mobile.android': ['CardValet', 'CardValet', '100,000+', 'http://www.fiserv.com', 'getsolutions@fiserv.com']}
+{'com.mobileapp.android.relia': ['U.S. Bank ReliaCard', 'U.S.+Bank+Mobile', '100,000+', 'http://www.usbankreliacard.com%20%09', 'ics.mobile@usbank.com']}
+{'com.marketwatch': ['MarketWatch', 'Dow+Jones+%26+Company,+Inc.', '500,000+', 'http://www.marketwatch.com', 'mwfeedback@marketwatch.com']}
+{'com.banksimple': ['Simple - Better Banking', 'Simple+Finance+Technology+Corp.', '100,000+', 'https://www.simple.com', 'social@simple.com']}
+{'com.wallethub.mywallet': ['WalletHub - Free Credit Score, Report & Monitoring', 'WalletHub', '100,000+', 'https://wallethub.com/', 'help@wallethub.com']}
+{'com.metlifeapps.metlifeus': ['MetLife US App', 'MetLife+Inc', '100,000+', 'http://m.metlife.com/contact-us/index.html', 'MobileCoE@metlife.com']}
+{'com.stockmarket.pennystocks': ['Penny Stocks', 'Financept', '100,000+', 'http://www.stocksunder1.org', 'postmaster@stocksunder1.org']}
+{'com.bitpay.wallet': ['BitPay – Secure Bitcoin Wallet', 'BitPay,+Inc.', '500,000+', 'https://bitpay.com', 'feedback@bitpay.com']}
+{'com.yapstone.rentpayment': ['RentPayment - by YapStone™', 'Yapstone+Mobile', '100,000+', 'http://www.rentpayment.com/', 'android@yapstone.com']}
+{'com.devexperts.tdmobile.platform.android.ameritrade': ['TD Ameritrade Trader', 'TD+Ameritrade+IP+Company,+Inc.', '500,000+', 'http://www.tdameritrade.com', 'tradermobile@tdameritrade.com']}
+{'com.healthequity.healthequitymobile': ['HealthEquity Mobile', 'HealthEquity+Inc', '100,000+', 'http://www.healthequity.com', 'mobilehelp@healthequity.com']}
+{'finance.empower': ['Empower - Get Paid to Bank', 'Empower+Finance', '50,000+', 'https://empower.me', 'support@empower.me']}
+{'com.pheaa.mobile.pheaafls': ['FedLoan Student Loans', 'Pennsylvania+Higher+Education+Assistance+Agency', '500+', 'http://www.pheaa.org', 'accountinfo@MyFedLoan.org']}
+{'com.binance.dev': ['Binance - Cryptocurrency Exchange', 'Binance+Inc.', '1,000,000+', 'https://www.binance.com/', 'binancedev@gmail.com']}
+{'com.installment.and.payday.loans': ['Payday loans: Borrow money in few minutes', 'Payday+loans+Master', '50,000+', None, 'xtimekillergames@gmail.com']}
+{'com.smi.m360.cardholder': ['Platinum smiONE™ Visa® Prepaid Card', 'smiONE+Card+Services', '100,000+', 'http://smionecard.com', 'mobile.dev@smionecard.com']}
+{'com.openskycc.mobile': ['OpenSky® Mobile', 'Capital+Bank+N.A.', '10,000+', 'https://www.openskycc.com/common/contact', 'mobileappadmin@capitalbankmd.com']}
+{'com.connectedinvestors.cix_app': ['Connected Investors', 'CiX', '10,000+', 'http://www.connectedinvestors.com', 'marty@cix.com']}
+{'org.digitalsoft.checkwriter': ['Check Writer 3.0 - Print Your Checks at Home', 'DigitalDashSoft+LLC', '100,000+', 'https://check-writer-92348.firebaseapp.com', 'support@digital-soft.org']}
+{'br.com.gerenciadorfinanceiro.controller': ['Mobills Budget', '5723502633915819194', '5,000,000+', 'http://mobills.com.br', 'suporte@mobills.com.br']}
+{'com.incomm.myvanillav2': ['MyVanilla', 'Interactive+Communications+International,+Inc.', '100,000+', 'http://www.MyVanillaDebitCard.com', 'Mobilecare@incomm.com']}
+{'com.nyse.stocks': ['NYSE Live Stock Market', 'EdgeAndro', '10,000+', 'http://edgeandro.com/privacy-policy/', 'edgeandro1@gmail.com']}
+{'forex.purple': ['Investing Game - Learn How to invest in trading', 'Trading+Platforms', '100,000+', 'http://forexgame.net', 'liaketiladze@gmail.com']}
+{'com.tradingview.tradingviewapp': ['TradingView', 'TradingView+Inc.', '100,000+', 'https://www.tradingview.com', 'mobile-support@tradingview.com']}
+{'com.payflex.hhmobile': ['PayFlex Mobile®', 'PayFlex+Systems+USA,+Inc.', '50,000+', 'https://www.payflex.com/about/contact-us', 'payflexmobile@aetna.com']}
+{'rubicoin.rubicoinlearn': ['Learn: how to invest in stocks', 'MyWallSt', '500,000+', 'https://www.mywallst.com', 'learn@mywallst.com']}
+{'com.travelers.digitalservice': ['Travelers Mobile', 'The+Travelers+Indemnity+Company', '100,000+', 'http://www.travelers.com', 'custadvo@travelers.com']}
+{'com.ml.mobile.edge': ['Merrill Edge for Android', 'Merrill+Lynch,+Pierce,+Fenner,+and+Smith+Inc.', '100,000+', 'http://www.merrilledge.com', 'ml_mobile_android_support@ml.com']}
+{'com.paydayloans.online.oneclickloan': ['ClickLoan – Fast Loans Online', '9218365957739550170', '1,000+', 'https://clickloan.pp.ua', 'vladislavme80@gmail.com']}
+{'com.q2e.IBCbank336340.mobile.production': ['IBC Mobile Banking', 'IBC+Bank', '100,000+', 'https://www.ibc.com', 'wedomore@ibc.com']}
+{'com.CoinApps.bitcoinclaimprofree': ['Bitcoin Claim Pro - Free BTC', 'Coin+Apps+Team', '100,000+', 'http://bitcoinclaimpro.com/', 'coinappsteam@gmail.com']}
+{'com.mezu.android.client': ['Mezu', '8202631323226767004', '100,000+', 'https://mezu.com/', 'care@mezu.com']}
+{'com.tigerfinancial.mobile.speedycash': ['Speedy Cash', 'CURO+Management+LLC', '100,000+', 'http://www.speedycash.com/', 'customerservice@speedycash.com']}
+{'com.quicken.qm2014': ['Quicken', 'Quicken+Inc.', '100,000+', 'http://www.quicken.com/', 'mobilefeedback@quicken.com']}
+{'com.afcu.mobilebanking': ['America First Mobile Banking', 'America+First+Credit+Union', '100,000+', 'http://www.americafirst.com', 'support@americafirst.com']}
+{'com.enova.cashnet': ['CashNetUSA', 'Enova+International,+Inc.', '100,000+', 'http://www.cashnetusa.com', 'support@cashnetusa.com']}
+{'com.DailyPay.DailyPay': ['DailyPay', 'DailyPay+Inc.', '10,000+', 'https://www.dailypay.com', 'support@dailypay.com']}
+{'net.univest.grip': ['Univest', 'Univest+Bank+and+Trust+Co', '1,000+', 'http://www.univest.net', 'electronicbanking@univest.net']}
+{'com.navient.navientloans': ['Navient Loans', 'Navient+Solutions,+LLC', '100,000+', 'https://www.navient.com', 'navient_apps@navient.com']}
+{'com.cashyou.loan.app.online': ['CashYou - Payday Loans Online', '%D0%90%D1%80%D0%BA%D0%B0%D0%B4%D0%B8%D0%B9+%D0%9A%D1%83%D1%80%D0%BE%D1%87%D0%BA%D0%B8%D0%BD', '1,000+', 'http://paydayloans.pp.ua/', 'arcadkuroch779@gmail.com']}
+{'com.softek.ofxclmobile.macu': ['Mountain America Credit Union', 'Mountain+America+Credit+Union', '100,000+', 'http://www.macu.com', 'apple@macu.com']}
+{'com.m1finance.android': ['M1 Finance - Free Investing', 'M1+Finance', '100,000+', 'https://www.m1finance.com', 'support@m1finance.com']}
+{'org.stocktwits.android.activity': ['StockTwits - Stock Market Chat', 'StockTwits,+Inc', '100,000+', 'http://stocktwits.com', 'support@stocktwits.com']}
+{'org.becu.androidapp': ['BECU', 'BECU', '100,000+', 'https://www.becu.org/contact-us.aspx', 'feedback@becu.org']}
+{'network.celsius.wallet': ['Celsius Network – Crypto Wallet: Earn Interest Now', 'Celsius+Network', '10,000+', 'https://celsius.network', 'keith@celsius.network']}
+{'org.suncoast.mobile': ['Suncoast SunMobile', 'Suncoast+Credit+Union', '100,000+', 'http://www.suncoastfcu.org', 'digitalbanking@suncoastcreditunion.com']}
+{'com.elan.icsmobile.elanapp': ['Elan Credit Card', 'Elan+Financial+Services', '100,000+', 'http://www.myaccountaccess.com', 'elan.mobile@usbank.com']}
+{'com.capitalbankus.mbanking': ['Capital Bank US Mobile Banking', 'First+Tennessee+Bank', '10,000+', 'https://www.capitalbank-us.com/mobile', 'technicalcustomersupport@ftb.com']}
+{'com.participantmobileapp': ['Empower Retirement', 'Great-West+Developers', '10,000+', 'http://www.empower-retirement.com/contact.shtml', 'participant_services@empower-retirement.com']}
+{'com.GPC.OCCMobile': ['Georgia Power', 'Georgia+Power+Company', '100,000+', 'http://GeorgiaPower.com', 'g2appstoresupport@southernco.com']}
+{'com.sentry.pl.customer.dairylandapp': ['Dairyland®', 'Dairyland%C2%AE', '50,000+', 'https://www.dairylandinsurance.com/Contact-Dairyland-Insurance', 'Help@DairylandInsurance.com']}
+{'me.tomorrow.android': ['Tomorrow - Need a Will? Get the app!', 'Tomorrow+Ideas,+Inc.', '10,000+', 'https://www.tomorrow.me', 'support@tomorrow.me']}
+{'com.firstbank.mobilebanking': ['FirstBank Mobile Banking', 'FirstBank+Holding+Company', '100,000+', 'https://www.efirstbank.com', 'banking@efirstbank.com']}
+{'com.drcalculator.android.mortgage': ["Karl's Mortgage Calculator", 'Dr+Karl+Jeacle', '1,000,000+', 'https://www.drcalculator.com/', 'karl@jeacle.ie']}
+{'com.ing.rs.ingretire': ['Voya Retire', 'Voya+Financial+Services+Company', '100,000+', 'https://www.voya.com/voya-retire-android', 'S600114@voya.com']}
+{'com.transunion.DSS': ['myTransUnion: Credit Freeze', 'TransUnion+Consumer+interactive', '10,000+', 'http://www.transunion.com', 'mobileagent@tuinteractive.com']}
+{'com.mcom.firstcitizens': ['First Citizens Mobile Banking', 'First+Citizens+Bank+%26+Trust', '100,000+', 'http://www.firstcitizens.com/mobile', 'fcdirect@firstcitizens.com']}
+{'com.citibank.mobile.vn': ['Citi Mobile', 'Citibank+Vietnam', '100,000+', 'http://www.citibank.com.vn', 'prioritycustomer@citi.com']}
+{'com.utilities.mortgagecalculator': ['Mortgage Calculator', 'Financept', '100,000+', 'https://mortgage-calculator.net', 'postmaster@mortgage-calculator.net']}
+{'com.ria.moneytransfer': ['Ria Money Transfer', 'Ria+Money+Transfer+%28Ria+Financial%29', '50,000+', 'https://www.riamoneytransfer.com', 'google@riamoneytransfer.com']}
+{'com.securityfinance.loantracker': ['$MyLoan$ by Security Finance', 'Security+Finance', '50,000+', 'http://www.security-finance.com', 'MobileApp@Security-Finance.com']}
+{'com.nymbus.inspire': ['Inspire Federal Credit Union', 'Inspire+Federal+Credit+Union', '500+', 'http://www.inspirefcu.org', 'bphillips@inspirefcu.org']}
+{'com.fsafeds.ezreceipts': ['FSAFEDS', 'WageWorks', '50,000+', 'http://FSAFEDS.com', 'AndroidAppFSAFEDS@wageworks.com']}
+{'com.fiserv.touchbankingasp': ['TouchBanking', 'Fiserv+Solutions,+Inc.', '500,000+', 'http://www.fiserv.com/', 'clientbrandedapp@fiserv.com']}
+{'com.tforp.markettrends': ['Market trends - Algorithmic forex signals', 'Finansoft+Ltd', '100,000+', 'http://www.trading4pro.com', 'support@trading4pro.com']}
+{'diversified.DiversifiedMobile': ['My TRSRetire', 'Transamerica', '100,000+', 'http://www.transamerica.com', 'trsmobilesupport@transamerica.com']}
+{'com.lc.investorapp': ['LendingClub Invest', 'LendingClub+Corporation', '50,000+', 'http://www.lendingclub.com', 'mobileappsupport@lendingclub.com']}
+{'com.digitalinsight.cma.fiid01662': ['Lendmark Financial Services', 'Lendmark+Financial+Services', '10,000+', 'https://www.lendmarkfinancial.com/', 'di0001662@gmail.com']}
+{'com.appxy.checkbook2': ['Checkbook - Account Tracker', 'Appxy', '100,000+', 'http://www.appxy.com', 'checkbook.a@appxy.com']}
+{'com.unionbank.ecommerce.mobile.android': ['Union Bank Mobile Banking', 'Union+Bank', '1,000,000+', 'https://www.unionbank.com', 'eresponse@unionbank.com']}
+{'com.ProActMobile': ['PayActiv', 'PayActiv+Inc.', '50,000+', 'https://www.payactiv.com/', 'mymoadmin@payactiv.com']}
+{'com.centerstatebank.mobile': ['CenterState Bank', 'CenterState+Bank+FL', '10,000+', 'http://www.centerstatebank.com', 'czenchak@centerstatebank.com']}
+{'com.firstnational.omaha': ['First National Bank of Omaha', 'FNNI', '100,000+', 'https://www.fnbo.com/', 'mobilefeedback@fnni.com']}
+{'com.netspend.product.android.ace': ['ACE Elite', 'NetSpend', '100,000+', 'http://www.aceelitecard.com%20', 'feedback@netspend.com']}
+{'com.dayspringtech.envelopes': ['Goodbudget: Budget & Finance', 'Dayspring+Technologies', '1,000,000+', 'https://goodbudget.com', 'support@goodbudget.com']}
+{'com.safecoinsurance.consumer': ['Safeco Mobile', 'Safeco+Insurance+Company+of+America', '50,000+', 'http://www.safeco.com/about-safeco/insurance-apps/safeco-mobile-app', 'Safeco_Apps@safeco.com']}
+{'com.avasis.drawpay': ['DrawPay Visa® Prepaid Card', 'DrawPay', '10,000+', 'http://www.drawpayvisa.com', 'sales@drawpay.com']}
+{'com.bitcoin.mwallet': ['Bitcoin Wallet', '5124638280390609126', '1,000,000+', 'https://www.bitcoin.com', 'wallet@bitcoin.com']}
+{'com.timberlandbank.grip': ['Timberland Bank', 'Timberland+Bank', '1,000+', 'http://www.timberlandbank.com', 'helpdesk@timberlandbank.com']}
+{'com.scbt.mobile': ['South State Mobile Banking', 'South+State+Bank', '100,000+', 'https://www.southstatebank.com', 'ClientBrandedApp@Fiserv.com']}
+{'io.cex.app.prod': ['CEX.IO Bitcoin Exchange', '6597531382932439072', '100,000+', 'https://cex.io', 'support@cex.io']}
+{'com.iccu.iccu': ['Idaho Central Mobile Banking', 'Idaho+Central+Credit+Union', '100,000+', 'https://www.iccu.com', 'memberservice@iccu.com']}
+{'com.tiim.tradinggame': ['Trading Game - Forex & Stock Market Investing', '4657021685850913872', '500,000+', 'https://tradinggame.com', 'dev@financeillustrated.com']}
+{'com.scg.android': ['SoCalGas', 'Southern+California+Gas+Company', '100,000+', 'http://www.socalgas.com', 'webmaster@socalgas.com']}
+{'sk.tb.mp.tatraandroid': ['MobilePay', 'Tatra+banka,+a.s.', '100,000+', 'http://www.tatrabanka.sk', 'mobilepay@tatrabanka.sk']}
+{'com.citibank.mobile.cn': ['Citi Mobile', 'Citibank+Mobile+CN', '100,000+', 'http://www.citibank.com.cn', 'qian.xie@citi.com']}
+{'com.tyfone.ssfcu.mbanking': ['Security Service myBranch App', 'Security+Service+Federal+Credit+Union', '100,000+', 'https://www.ssfcu.org/en-us/contact/Pages/default.aspx', 'serviceteam@ssfcu.org']}
+{'com.umpquabank.mobilebanking': ['Umpqua Bank Mobile Banking', 'Umpqua+Bank', '100,000+', 'https://www.umpquabank.com/', 'customerservice@umpquabank.com']}
+{'com.aafes.militarystar': ['MILITARY STAR® Mobile', 'Army+%26+Air+Force+Exchange+Service', '1,000+', 'http://www.myecp.com', 'MilitaryStarApp@aafes.com']}
+{'atws.app': ['IBKR Mobile', 'Interactive+Brokers+Group', '500,000+', 'http://ibkr.com', 'atws@ibkr.com']}
+{'org.municipal.mobile': ['NYMCU Mobile Banking', 'Municipal+Credit+Union', '100,000+', 'http://www.nymcu.org', 'mcumobile@nymcu.org']}
+{'org.uwcu.app.mobile': ['UW Credit Union', 'UW+Credit+Union', '50,000+', 'http://www.uwcu.org', 'is-app@uwcu.org']}
+{'com.ifs.banking.fiid1359': ['WPCU Mobile Banking', 'Wright-Patt++Credit+Union', '100,000+', 'http://www.wpcu.coop', 'ContactUs@wpcu.coop']}
+{'net.cts.android.centralbank': ['Central Bank', 'Central+Bancompany', '100,000+', 'http://www.centralbank.net', 'online_services@centralbank.net']}
+{'com.upaycard.mobile.upaycapp': ['UPayCard', 'upaycardapplication', '100,000+', 'http://upaycard.com', 'support@upaycard.com']}
+{'com.proponentfederalcreditunion5188.mobile': ['Proponent FCU Mobile', 'Proponent+Federal+Credit+Union', '1,000+', 'https://www.profcu.org', 'memberservices@profcu.org']}
+{'co.mona.android': ['Crypto.com Wallet & Card App', '7437982941245696477', '100,000+', 'https://www.crypto.com/', 'contact@crypto.com']}
+{'net.metaquotes.metatrader5': ['MetaTrader 5', '6482947269324760172', '1,000,000+', 'https://www.metaquotes.net', 'support@metaquotes.net']}
+{'com.digitalinsight.cma.fiid01674': ['Jordan Credit Union', None, '1,000+', 'https://jordan-cu.org/', 'memberhelp@jordan-cu.org']}
+{'net.bitstamp.app': ['Bitstamp – trade crypto at reliable exchange', 'Bitstamp', '10,000+', 'https://www.bitstamp.net', 'support@bitstamp.net']}
+{'com.monefy.app.lite': ['Monefy - Money Manager', 'Aimbity+AS', '5,000,000+', 'http://www.monefy.me', 'support@monefy.me']}
+{'com.fis.mobile.android': ['SecurLOCK Equip', 'FIS+Payments', '50,000+', 'http://www.fisglobal.com/', 'SecurLOCKEquipInfo@fisglobal.com']}
+{'com.apps.teelu.simplecheckbookledger': ['Free Checkbook Ledger', 'Teelu+Apps', '50,000+', None, 'apps.teelu@gmail.com']}
+{'com.ssmobiletech.android.homebudget': ['My Budget Organizer - Budget Planner with Sync', '9198875821443465849', '1,000+', 'https://ssmobiletech.wixsite.com/mbo-privacy', 'ssmobiletech@gmail.com']}
+{'com.fi7645.godough': ['Glacier Family Banks - Mobile', 'Glacier+Bank', '50,000+', 'http://www.glacierbank.com', 'gbci_operations@glacierbancorp.com']}
+{'com.carpayment.autoloancalculator': ['Auto Loan Calculator', 'Financept', '10,000+', 'https://autofinancecalculator.org', 'postmaster@autofinancecalculator.org']}
+{'com.ace.ingo.android': ['ACE Mobile Loads', 'Ingo+Money,+Inc.', '100,000+', 'https://www.ingomoney.com/ingo-acemobileloads.html', 'bill@ingomoney.com']}
+{'com.ent.mobile': ['Ent Mobile Banking', 'Ent+Credit+Union', '100,000+', 'http://www.ent.com/mobile', 'service@ent.com']}
+{'com.fi6543.godough': ['Community Bank NA Mobile', 'Community+Bank+NA', '100,000+', 'http://www.communitybankna.com', 'robin.dumas@communitybankna.com']}
+{'com.payomatic.PAYOMATIC': ['PAYOMATIC Mobile', 'PAYOMATIC', '10,000+', 'https://www.payomatic.com', 'support@payomatic.com']}
+{'com.investorvista.stockspyod': ['Stocks: Realtime Quotes Charts & Investor News', 'StockSpy+Apps+Inc.', '1,000,000+', 'http://www.stock-spy.com', 'support@stock-spy.com']}
+{'com.fsnb': ['FSNB Mobile Banking', 'Data+Processing+Inc.', '100,000+', 'http://www.fsnb.com', 'fsnb@fsnb.com']}
+{'com.sunflowersolutions.autoloanpmtcalcfree': ['Auto Car Loan Payment Calculator Free', '4770830285497666976', '100,000+', 'https://www.facebook.com/CarLoanPaymentCalculator', 'sunflowersoft1-a@yahoo.com']}
+{'com.mfoundry.mb.android.mb_wbiwwv': ['WesBanco Mobile Banking', 'WesBanco+Bank', '50,000+', 'http://www.wesbanco.com/Default.aspx', 'custserv@wesbanco.com']}
+{'com.bankofamerica.wmyhealth': ['MyHealth BofA', '5615837024201601069', '50,000+', 'http://www.bankofamerica.com', 'mobileappdeployment@bankofamerica.com']}
+{'com.ifs.banking.fiid1484': ['Delta Community Credit Union', 'Delta+Community+Credit+Union', '100,000+', 'http://www.deltacommunitycu.com', 'onlinebanking@deltacommunitycu.com']}
+{'org.fxclub.libertex': ['Libertex Online Trading app', '8041569000299879180', '10,000,000+', 'https://libertex.org', 'mobile@fxclub.org']}
+{'com.metromile.release': ['Metromile Pay-Per-Mile Car Insurance', 'Metromile,+Inc', '50,000+', 'https://www.metromile.com', 'appfeedback@metromile.com']}
+{'com.nwsb.phone': ['Northwest Mobile', 'Northwest', '50,000+', 'https://www.northwestsavingsbank.com', 'nwsbinfo@nwbcorp.com']}
+{'com.myetherwallet.mewconnect': ['MEWconnect', 'MyEtherWallet', '10,000+', 'https://myetherwallet.com/', 'support@myetherwallet.com']}
+{'com.snappays': ['Papaya Payments: Pay Every Bill', 'SnapPays', '10,000+', 'https://ppaya.com', 'help@ppaya.com']}
+{'com.paysign.app': ['PaySign®', '3PEA+International,+Inc', '10,000+', 'http://app.paysign.com', 'support@app.paysign.com']}
+{'com.bitcoin.blockchain.wallet': ['Bitcoin Wallet', '5265812957420896405', '10,000+', 'https://github.com/hoanghiephui/base-mvp-android/wiki/Privacy-Policy', 'living.solutions.vn@gmail.com']}
+{'com.ifs.banking.fiid3160': ['Tru2Go Truliant Mobile Banking', 'Truliant+Federal+Credit+Union', '50,000+', 'http://www.truliantfcu.org/', 'webmast@truliantfcu.org']}
+{'com.cnbok': ['City National Bank Mobile', 'Data+Processing+Inc.', '50,000+', 'https://www.cnb1901.com/', 'mobilebanking@cnbok.com']}
+{'com.onpointcommunitycreditunion5123.mobile': ['OnPoint Mobile', 'OnPoint+Community+CU', '50,000+', 'https://www.onpointcu.com/', 'info@onpointcu.com']}
+{'com.johnhancock.mylifenowprod': ['MyLifeNow - JHRPS', 'John+Hancock+Life+Insurance', '10,000+', 'http://www.mylife.jhrps.com', 'trs_techmobile@jhancock.com']}
+{'appinventor.ai_checkpointapps.SS_MBA_Profile': ['Social Security', 'Check+Point+Android+Apps', '100,000+', None, 'CheckPointApps@gmail.com']}
+{'com.loanlab.cash.advance': ['LoanLab - payday loans online', '9045096734950847000', '10,000+', 'https://loanlab.pp.ua', 'antonsidor5577@gmail.com']}
+{'com.onlinebank.flagstar': ['Flagstar Mobile', 'Flagstar+Bank', '10,000+', 'http://www.flagstar.com', 'bankingsupport@flagstar.com']}
+{'com.bookmark.money': ['Money Lover: Money Manager, Budget Expense Tracker', '5130448887408336541', '5,000,000+', 'https://moneylover.me/', 'contact@moneylover.me']}
+{'com.liberty.jaxx': ['Jaxx Liberty: Cryptocurrency, Blockchain Wallet', 'Decentral+Inc.', '10,000+', 'https://jaxx.io', 'info@jaxx.io']}
+{'com.cbord.get': ['GET Mobile', 'The+CBORD+Group,+Inc.', '100,000+', 'http://www.ilikeget.com/', 'GETFeedback@cbord.com']}
+{'com.sfbcic.android': ['Farm Bureau MobileAgent', 'Southern+Farm+Bureau+Casualty+Insurance+Company', '50,000+', 'http://www.sfbcic.com', 'mobileagentsc@gmail.com']}
+{'com.ifs.mobilebanking.fiid5345': ['Redstone Federal Credit Union', 'Redstone+Federal+Credit+Union+Mobile+Banking', '100,000+', 'https://www.redfcu.org', 'general-info@redfcu.org']}
+{'com.usbank.vendor.kroger': ['Kroger REWARDS Prepaid', 'U.S.+Bank+Mobile', '50,000+', 'https://www.krogerprepaid.com', 'ics.mobile@usbank.com']}
+{'org.pixelrush.moneyiq': ['1Money - expense tracker, money manager, budget', '6083226804231060524', '500,000+', 'http://www.pixelrush.org/money_privacy.html', 'support@pixelrush.org']}
+{'com.mercadopago.wallet': ['Mercado Pago', 'Mercado+Libre', '10,000,000+', 'http://www.mercadopago.com', 'app@mercadopago.com']}
+{'mx.com.bancoppelmovil': ['BanCoppel Móvil', 'BanCoppel', '1,000,000+', 'http://www.bancoppel.com', 'info@bancoppel.com']}
+{'com.jmbullion.app': ['Gold & Silver Spot Price', 'JM+Bullion,+Inc.', '50,000+', 'http://www.jmbullion.com', 'support@jmbullion.com']}
+{'dinama.localizer.android': ['FirstBank Mobile Banking', 'FirstBank', '100,000+', 'http://www.firstbankpr.com', 'Apoyoalcliente@1firstbank.com']}
+{'com.netspend.mobileapp.heb': ['H-E-B Netspend Prepaid', 'NetSpend', '50,000+', 'https://www.netspend.com/hebonline', 'webappteam@netspend.com']}
+{'com.umpqua.engage': ['Umpqua Go-To', 'Umpqua+Bank', '5,000+', 'https://www.umpquabank.com/go-to', 'goto@umpquabank.com']}
+{'com.pocketguard.android.app': ['PocketGuard: Personal Finance, Money & Budget', 'PocketGuard,+Inc.', '10,000+', 'https://pocketguard.com', 'android@pocketguard.com']}
+{'com.firsttech.firsttech': ['First Tech Federal CU', 'First+Tech+Federal+Credit+Union', '100,000+', 'http://www.firsttechfed.com', 'memberservice@firsttechfed.com']}
+{'com.plutus.wallet': ['Abra: Bitcoin, XRP, LTC', 'Abra+Crypto+Wallet', '500,000+', 'https://www.abra.com/', 'contact@abra.com']}
+{'mx.bancosantander.supermovil': ['Santander móvil', 'Santander+M%C3%A9xico', '5,000,000+', 'http://www.santander.com.mx', 'supernet@santander.com.mx']}
+{'com.mfoundry.mb.android.mb_642': ['First Midwest Mobile', 'First+Midwest+Bank', '100,000+', 'http://www.firstmidwest.com', 'mobile.developer@firstmidwest.com']}
+{'com.fi7233.godough': ['Simmons Bank Anywhere', 'Simmons+Bank', '100,000+', 'http://www.simmonsbank.com', 'bankanywhere@simmonsbank.com']}
+{'com.kohlercreditunion.mobile5189.mobile': ['Kohler Credit Union Mobile', 'Kohler+Credit+Union+Digital', '1,000+', 'http://kohlercu.com', 'memberservice@kohlercu.com']}
+{'com.barchart.app': ['Barchart Stocks & Futures', 'Barchart.com', '100,000+', 'http://www.barchart.com/app', 'app@barchart.com']}
+{'dor.mobile': ['WI Revenue', 'Wisconsin+Department+of+Revenue', '10,000+', 'http://www.revenue.wi.gov', 'DORMobileApp@revenue.wi.gov']}
+{'com.mfoundry.mb.android.mb_774': ['Renasant Mobile', 'Renasant+Bank', '50,000+', 'http://www.renasantbank.com', 'info@renasant.com']}
+{'com.bethpage.bethpage': ['Bethpage Mobile Banking - New', 'Bethpage+Federal+Credit+Union', '50,000+', 'http://lovebethpage.com', 'digitalfeedback@bethpagefcu.com']}
+{'com.dayna.yourloancalculator': ['Easy Loan Calculator', 'Marty+Huang', '100,000+', 'https://github.com/FuChuHuang/privacy_policy/wiki/Privacy-Policy-of-Google-Play-APP', 't7599002@ntut.org.tw']}
+{'com.bbva.glomo.mx': ['BBVA México. La nueva Banca Móvil de BBVA Bancomer', '6321507411823178986', '100,000+', 'http://www.bancomer.com', 'app.bbva.mx@bbva.com']}
+{'com.cover.android': ['Cover - Insurance in a snap', 'Cover+Inc', '50,000+', 'http://cover.com', 'hello@usecover.com']}
+{'com.ifs.banking.fiid3364': ['ESL Mobile Banking', 'ESL+Federal+Credit+Union', '100,000+', 'http://www.esl.org', 'email@esl.org']}
+{'com.fourdesire.fortunecity': ['Fortune City - A Finance App', '6202116406895586041', '1,000,000+', 'http://fourdesire.com', 'technology@fourdesire.com']}
+{'com.suntrust.ocmmobile.phone': ['SunTrust Business Mobile', 'SunTrust+Banks,+Inc.', '100,000+', 'https://www.suntrust.com/ocm', 'customercare@suntrust.com']}

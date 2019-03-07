@@ -1,0 +1,816 @@
+{'com.explodingkittens.projectbombsquad': ['Exploding Kittens® - Official', 'Exploding+Kittens', '100,000+', 'http://explodingkittens.com', 'mobile@explodingkittens.com']}
+{'com.magmic.skipbo': ['Skip-Bo™', '8612219469474238403', '100,000+', 'http://www.magmic.com', 'uv-support@magmic.com']}
+{'com.devolver.reigns': ['Reigns', 'DevolverDigital', '500,000+', 'http://www.devolverdigital.com', 'support@devolverdigital.com']}
+{'com.turner.cardwars': ['Card Wars - Adventure Time', '7977642132858801607', '1,000,000+', 'http://www.cartoonnetwork.com/feedback/index.html', 'cardwars1-support@kungfufactory.com']}
+{'com.devolver.reignsGot': ['Reigns: Game of Thrones', 'DevolverDigital', '50,000+', 'http://www.devolverdigital.com', 'devolverdigital@gmail.com']}
+{'com.winterspring.cardquest': ['Card Quest', 'Black+Shell+Media', '5,000+', 'http://www.blackshellmedia.com', 'blackshellgames@gmail.com']}
+{'com.devolver.reigns2': ['Reigns: Her Majesty', 'DevolverDigital', '100,000+', 'http://www.devolverdigital.com', 'devolverdigital@gmail.com']}
+{'com.brainium.solitaire': ['Solitaire+', '9200952197196338626', '100,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'com.slothwerks.meteorfall': ['Meteorfall: Journeys', 'Slothwerks', '10,000+', 'http://www.meteorfall-game.com', 'slothwerks.games@gmail.com']}
+{'com.deckedbuilder.deckedbuilder': ['Decked Builder', 'Decked+Studios', '50,000+', 'http://www.deckedbuilder.com/android.html', 'support@deckedbuilder.com']}
+{'com.piratesoutlaws.fabledgame': ['Pirates Outlaws', 'FabledGame+Studio', '50+', 'http://www.fabledgame.com', 'support@fabledgame.com']}
+{'net.donwilson.blackbird': ['Blackbird', 'R.+Don+Wilson', '10,000+', 'http://blackbird.donwilson.net/', 'tickets@android-blackbird.uservoice.com']}
+{'com.fullersystems.cribbage.online': ['Cribbage Pro Online!', 'Fuller+Systems,+Inc.', '50,000+', 'http://www.CribbagePro.net', 'support@fullersystems.com']}
+{'com.magmic.phase10': ['Phase 10 Pro', '8612219469474238403', '100,000+', 'http://www.magmic.com', 'uv-support@magmic.com']}
+{'com.tesseractmobile.solitairemulti': ['Solitaire MegaPack', '6534348997123710607', '100,000+', 'http://www.tesseractmobile.com/mega_pack.html', 'support@tesseractmobile.com']}
+{'com.setgame.setmania': ['SET Mania', 'CF+Digital', '1,000+', 'http://www.cfdigitalgames.com', 'cfdigitalgames@gmail.com']}
+{'me.dream.lophisroguelikepro': ['Dark Dungeon Survival: Lophis Fate Card Roguelike', '6760444657267083024', '10,000+', 'http://www.leagueofstickman.com', 'leagueofstickman@dreamsky.me']}
+{'games.pollywog.card_crusade': ['Card Crusade', 'Pollywog+Games', '500+', 'http://pollywog.games', 'contact@pollywog.games']}
+{'uk.co.aifactory.spades': ['Spades', '7906675825742087969', '10,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.brainium.freecell': ['FreeCell Solitaire+', '9200952197196338626', '10,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'com.gotogames.funbridgequizquatre': ['Funbridge Quiz 4', 'Goto+Games', '100+', 'http://www.funbridge-quiz.com/', 'gotogamesandroid@gmail.com']}
+{'com.pokercruncher.PokerCruncher': ['PokerCruncher - Advanced - Poker Odds Calculator', 'PokerCruncher,+LLC', '5,000+', 'http://www.pokercruncher.com', 'support@pokercruncher.com']}
+{'com.brainium.spider': ['Spider Solitaire+', '9200952197196338626', '10,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'net.fowers.paperback': ['Paperback', 'Fowers+Games', '5,000+', 'http://fowers.net', 'tim@gabob.com']}
+{'air.com.youdagames.gop2mobile': ['Governor of Poker 2 Premium', '7639378078513286726', '10,000+', 'http://www.youdagamesstudio.com/support/', 'support@youdagames.com']}
+{'com.kemonomahjong.app': ['Kemono Mahjong', 'CyberDog+Software', '1,000+', 'http://www.kemonomahjong.com', 'info@kemonomahjong.com']}
+{'uk.co.aifactory.ginrummy': ['Gin Rummy', '7906675825742087969', '10,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.sjgames.levelcounter': ['Munchkin Level Counter', 'Steve+Jackson+Games', '10,000+', 'http://www.sjgames.com/apps/', 'orders@sjgames.com']}
+{'uk.co.aifactory.hearts': ['Hearts', '7906675825742087969', '10,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'org.rrl.android.solitairecollectiondeluxe': ['Solitaire Collection Premium', 'Ruben+Reboredo', '10,000+', 'http://www.onpixelgames.com', 'rubenrrll@gmail.com']}
+{'com.spiritsciencecentral.patchtarot': ['Patch Tarot', 'Spirit+Studios+Inc', '1,000+', 'http://patchtarot.com', 'contact@spiritstudios.com']}
+{'uk.co.aifactory.euchre': ['Euchre', '7906675825742087969', '1,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.greatgameproducts.abridgebaron': ['Bridge Baron', 'Great+Game+Products', '10,000+', 'http://www.bridgebaron.com', 'support@bridgebaron.com']}
+{'com.mossbark.morels': ['Morels', 'Mossbark+Games+LLC', '100+', 'http://mossbark.com', 'support@mossbark.com']}
+{'com.bigfishgames.emerlandgoogfull': ['Emerland Solitaire (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'uk.co.aifactory.solitaire': ['Solitaire', '7906675825742087969', '5,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.lessthanthree.crib': ['Cribbage With Grandpas', 'Less+Than+Three+Interactive', '1,000+', 'http://www.lessthan3.co/', 'Lroed@lessthan3.co']}
+{'com.randomsaladgames.heartsdeluxe': ['Hearts Deluxe', '7781541777053893917', '1,000+', 'http://randomsaladgames.com', 'admin@randomsaladgames.com']}
+{'net.runserver.solitairehd': ['Classic Solitaire HD', '6219611383430913916', '1,000+', 'http://runserver.net/apps/', 'solitaire@runserver.net']}
+{'com.jeffreys.euchrepay': ['Euchre', 'Jeffreys+Software', '5,000+', 'https://www.facebook.com/pages/Android-Euchre/416381698435919', 'euchre@voidpointer.org']}
+{'com.tjb.BlackjackCoach': ['Blackjack Coach', 'Intellifactor', '500+', 'http://www.Intellifactor.com', 'support@Intellifactor.com']}
+{'com.nomadgames.catlady': ['Cat Lady - The Card Game', '4614040639053382794', '1,000+', 'https://www.nomadgames.co.uk/cat-lady/', 'support@nomadgames.co.uk']}
+{'com.scaryrobot.pokerwithbobandroid': ['Poker With Bob', 'Scary+Robot', '500+', 'http://www.scaryrobot.com/PokerWithBob/', 'pwb_contact@scaryrobot.com']}
+{'com.maxsilver.snapshovepro': ['SnapShove Pro', 'SnapShove', '1,000+', 'http://www.snapshove.co', 'contact@snapshove.co']}
+{'com.hornetapps.blackjacktrainer': ['BlackJack Trainer Pro', 'HornetApps', '10,000+', 'http://www.hornetapps.com', 'blackjacktrainer-android@hornetapps.com']}
+{'com.forsbit.freecelladfree': ['FreeCell Solitaire Pro', 'Forsbit+LLC', '500+', 'http://www.forsbit.com', 'forsbitllc@gmail.com']}
+{'com.IzzySerious.ShanghaiRummy': ['Shanghai Rummy', 'IzzySerious+Gaming', '100+', None, 'support@shanghairummy.app']}
+{'com.qsoft.android.wizardfull2': ['Wizard Cards Live', 'qsoft', '100+', 'http://www.wizardcards.com/portal.php', 'qsoft@live.co.uk']}
+{'com.ravensburgerdigital.sanjuan': ['San Juan', '7057959691151910430', '10,000+', 'https://www.ravensburger.de/start/ravensburger-apps/index.html', 'support@ravensburger-digital.com']}
+{'com.forsbit.golfadfree': ['Golf Solitaire Pro', 'Forsbit+LLC', '50+', 'http://www.forsbit.com', 'forsbitllc@gmail.com']}
+{'com.Ludosity.PsyCard': ['PsyCard', 'Ludosity', '1,000+', 'http://www.ludosity.com', 'info@ludosity.com']}
+{'com.subsoap.faeriesolitaire': ['Faerie Solitaire HD (Full)', '6572937808968109598', '1,000+', 'http://www.subsoap.com/', 'help@subsoap.com']}
+{'com.silvercrk.solitaire_iv': ['Hardwood Solitaire IV', '8403078360560227983', '10,000+', 'http://www.hardwoodgames.com/', 'support@silvercrk.com']}
+{'com.solitaireforever.solitaireforever': ['Solitaire Forever', 'Solitaire+Forever', '1,000+', 'http://www.solitaireforever.com/', 'support@solitaireforever.com']}
+{'com.handelabra.sentinelssidekick': ['Sentinels Sidekick', '7392390343537623321', '1,000+', 'http://handelabra.com', 'support@handelabra.com']}
+{'com.sundown.fivecarddraw': ['Super Five Card Pro', 'Sundown+Studio', '1,000+', 'http://www.superfivecard.com', 'sundown@superfivecard.com']}
+{'com.WrenGames.Assembly': ['Assembly Tabletop Card Game', '9160194947114473902', '50+', 'http://www.digital.wrengames.co.uk', 'digital@wrengames.co.uk']}
+{'com.LJPB.SimpleSolitaire': ['Simple Solitaire: No Ads', 'Les+Jeux+Plume+Bleue', '50+', 'https://lesjeuxplumebleue.wixsite.com/website', 'dshipley.ljpb@gmail.com']}
+{'com.zimbronapps.tablasdeloteria': ['Tablas de Lotería MX', 'ZimbronApps.com', '100+', 'http://zimbronapps.com', 'gustavo@zimbronapps.com']}
+{'com.treecardgames.spidersolitairepremium': ['Spider Solitaire Premium', 'TreeCardGames', '100+', 'http://www.treecardgames.com/', 'mail@treecardgames.com']}
+{'com.cedarhillgames.phase10dice': ['Phase 10 Dice™', '8612219469474238403', '5,000+', 'http://www.magmic.com', 'uv-support@magmic.com']}
+{'com.silvercrk.spades': ['Hardwood Spades', '8403078360560227983', '5,000+', 'http://www.hardwoodgames.com/', 'support@silvercrk.com']}
+{'com.onecwireless.spider1.full': ['Spider Solitaire (Full)', '6755703714885710635', '1,000+', 'http://www.1cmobile.com', 'support@1cwireless.com']}
+{'pbsoftworks.rummy': ['Phase Rummy card game AdFree', 'PB+Softworks', '100+', 'https://burlov.de/privacy-policy-en.html', 'pbsoftworks@burlov.de']}
+{'com.chrislyle.pokeroddspro': ['Poker Odds Calculator Pro', 'lyleapps', '1,000+', 'https://www.facebook.com/PokerOddsCalculator', 'lyleapps@gmail.com']}
+{'com.zingmagic.omarbridgexx': ['Omar Sharif Bridge, 2019 Edition', 'ZingMagic+Limited', '500+', 'http://www.zingmagic.com', 'support@zingmagic.com']}
+{'media.k52.anynumber': ['Anynumber', 'K52+s.r.l.', '1,000+', 'https://k52.media', 'info@k52.media']}
+{'com.technospirits.canasta': ['Canasta Junction', 'Canasta+Junction,+llc', '100+', 'http://www.canastajunction.com/', 'support@canastajunction.com']}
+{'com.odesys.solitaire': ['Odesys Solitaire', 'Odesys,+LLC', '10,000+', 'http://www.odesys.com', 'support@odesys.com']}
+{'com.treecardgames.solitairepremium': ['Solitaire Premium', 'TreeCardGames', '500+', 'http://www.treecardgames.com/', 'mail@treecardgames.com']}
+{'com.satoapp.maho': ['Magical Girl Maho Sweets Resque Operation!', 'satoapp', '10+', 'http://mahomaho.sakura.ne.jp/privacypolicy.html', 'maho@satoapp.com']}
+{'pb.skipoidhd.adfree': ['Skido: Spite & Malice Adfree', 'PB+Softworks', '50+', 'https://skipoid-nexus.appspot.com', 'pbsoftworks@burlov.de']}
+{'com.forsbit.spideradfree': ['Spider Solitaire Pro', 'Forsbit+LLC', '500+', 'http://www.forsbit.com', 'support@forsbit.com']}
+{'com.tetramasterHDv3': ['Tetra Master HD', 'AnGGames', '1,000+', None, 'Azteklightlord@rambler.ru']}
+{'com.bucktheodds.cribbageDroid': ['BTO Cribbage', 'Buck+The+Odds,+LLC', '1,000+', 'http://www.bucktheodds.com/home.jsp', 'support@bucktheodds.com']}
+{'com.brasskeysoftware.yukongold': ['Yukon Gold Solitaire', 'Brass+Key+Software', '5,000+', 'http://www.brasskeysoftware.com/', 'support@brasskeysoftware.com']}
+{'ptcgodeckbuilder.droid': ['PokeDeck', 'iScoutFMH', '100+', 'http://pokedeck.io', 'info@pokedeck.io']}
+{'com.forsbit.klondikeadfree': ['Solitaire Klondike', 'Forsbit+LLC', '1,000+', 'http://forsbit.com', 'support@forsbit.com']}
+{'com.cmon.Xenoshyft': ['XenoShyft', '7959316599581723037', '5,000+', 'http://www.asmodee-digital.com/en/xenoshyft/', 'support@asmodee.net']}
+{'com.PeterKossits.HostageNegotiator': ['Hostage Negotiator', 'Peter+Kossits', '1,000+', None, 'peterk@look.ca']}
+{'com.resetgame.vsolitaire': ['Vegas Solitaire', 'RESETgame', '1+', 'http://www.resetgame.com', 'support@resetgame.com']}
+{'com.headupgames.sbjb2te': ['Super Blackjack Battle 2 Turbo', '7706714075287612145', '100+', 'http://www.headupgames.com', 'support@headupgames.com']}
+{'com.junior.dwan.holdemcharts': ['Push Fold Entity', 'Holdemhub', '100+', None, 'holdemhub@gmail.com']}
+{'au.com.dogmelon.androidClassicSolFull': ['27 Solitaire Games', 'dogMelon', '50+', 'http://dogmelon.com.au', 'dan@dogmelon.com.au']}
+{'com.agilesumo.fortyfive': ['Forty Five Card Game (45)', 'Agile+Sumo', '500+', None, 'agilesumo@outlook.com']}
+{'com.jackfoolery.games.golfsolitaire': ['Golf Solitaire', 'JackFoolery', '50+', 'http://www.jackfoolery.com', 'don@jackfoolery.com']}
+{'com.sleepwalkers.hearts.pro': ['Hearts Pro', '4725615955378054830', '100+', 'http://www.droidveda.com', 'droidvedallp@gmail.com']}
+{'dragcribbage.cribbage': ["Grandpa's Cribbage", '8902905889462469622', '100+', 'https://sites.google.com/view/grandpas-cribbage-paid-privacy/home', 'prioryeti@gmail.com']}
+{'com.twopersonstudio.games.spit_adfree': ['Spit ! Speed Card Game', '2-Person+Studio', '500+', None, '2personstudio@gmail.com']}
+{'com.twopersonstudio.games.spiteandmalice': ['Spite and Malice', '2-Person+Studio', '1,000+', None, '2personstudio@gmail.com']}
+{'gdg.mtg.mtgdoctor': ['Deck Doctor', 'Game+Developers+Guild', '1,000+', 'http://www.GameDevelopersGuild.com', 'GameDevelopersGuild@gmail.com']}
+{'com.newtzgames.goblinmarket': ['Goblin Market', 'Brian+Newtz', '100+', 'http://www.newtzgames.com', 'feedback@newtzgames.com']}
+{'dominofull.reznic.net': ['Dominoes Online', 'Reznic+Software', '1,000+', 'http://reznic.net', 'support@reznic.net']}
+{'com.darthsith.droidbriscola': ['Briscola HD', '6621634469649047592', '1,000+', 'https://sites.google.com/site/darthsith81/', 'darthsith81@gmail.com']}
+{'de.staupe.quixx_solo': ['Qwixx Solo', 'Reinhard+Staupe', '10,000+', 'http://staupe.com', 'reinhardstaupe@gmail.com']}
+{'com.ludosity.ccn2': ['Card City Nights 2', 'Ludosity', '500+', 'http://www.cardcitynigts.com', 'support@ludosity.com']}
+{'com.tencardgame.spades_paid': ['Spades (No Ads:)', 'tencardgame', '100+', None, 'tencardgame@gmail.com']}
+{'mazzy.and.elevensesforone.android': ['Elevenses for One', 'Maxim+Matyushenko', '500+', 'https://maxdk9.bitbucket.io/', 'maxdk9@gmail.com']}
+{'com.whelansoftware.stellarproducts.stellarsolitaire': ['Stellar Solitaire', 'Whelan+Software', '1,000+', None, 'stellarsolitaire@gmail.com']}
+{'com.zimbronapps.barajaloteriapro': ['Baraja Loteria PRO', 'ZimbronApps.com', '100+', 'http://zimbronapps.com', 'gustavo@zimbronapps.com']}
+{'com.randomsaladgames.heartsonline': ['Hearts Online', '7781541777053893917', '100+', 'http://randomsaladgames.com', 'support@randomsaladgames.com']}
+{'de.application_systems.SixTakes': ['6 takes!', 'Application+Systems+Heidelberg', '10,000+', 'http://www.application-systems.co.uk/6takesandroid', 'contact@application-systems.co.uk']}
+{'truefool.premium': ['True Fool Premium Durak', 'JacksOfHearts', '100+', 'http://www.reddit.com/r/truefool', 'eugen@eugenkiss.com']}
+{'se.pastille.calmspider': ['Calm Cards - Spider', '7812895389455309145', '10+', 'http://www.pastille.se', 'developer@pastille.se']}
+{'media.k52.anycard': ['ANYCARD', 'K52+s.r.l.', '10,000+', 'http://k52.media', 'info@k52.media']}
+{'com.bjf.brijpro': ['BJ Bridge Pro 2019', 'BJ+Software', '1,000+', 'http://bjbridge.org', 'bjsoftware42@gmail.com']}
+{'com.coppercod.ginRummyPremium': ['Gin Rummy Premium', 'coppercod', '100+', None, 'kevinainleywalker@hotmail.com']}
+{'com.matchgems.holdem': ['AI Texas Holdem Poker', '6718763145733666817', '100+', 'http://www.matchgems.com', 'andyforsaken@yahoo.com']}
+{'com.dinobytestudios.freecellpro': ['FreeCell Pro', 'Dinobyte+Studios', '100+', 'http://dinobytestudios.com', 'support@dinobytestudios.com']}
+{'com.extreme3dstudios.blackjack': ['BlackJack - Premium Edition', 'Extreme+3D+Studios', '10+', 'http://www.extreme3dstudios.com', 'extreme3dstudios@hotmail.com']}
+{'com.eryodsoft.android.cards.rummy.full': ['Rummy', '7071430644205651346', '1,000+', 'http://www.eryodsoft.com', 'support.rummy@eryodsoft.com']}
+{'ej.wizard.android': ['WIZARD Card Game', 'Wizard+Cards+International+Inc.', '1,000+', 'http://www.wizardcards.com', 'wizardjester@gmail.com']}
+{'com.mystcmage.android.tichu': ['Tichu', 'Christopher+Holdren', '10,000+', 'http://mystcmage.site50.net/', 'mystcmage@gmail.com']}
+{'com.solitaireforever.cribbageforever': ['Cribbage Forever', 'Solitaire+Forever', '1,000+', 'http://www.solitaireforever.com/cribbage/', 'support@solitaireforever.com']}
+{'com.neatapps4u.talkingtimerpro': ['Talking Poker Timer – Pro', 'Neat+Apps4u', '500+', None, 'neatapps4u@gmail.com']}
+{'com.pkohberger.fortuneteller': ['Fortune Teller - Major Arcana App', 'moon+works', '1+', 'http://electricopolis.net', 'pkohberger@gmail.com']}
+{'com.jennitron.pinocle': ['Pinochle Anytime', 'MakeThisApp,+LLC', '100+', 'http://www.makethisapp.com', 'appsupport@makethisapp.com']}
+{'com.enemyhideout.cardcraft': ['CardCraft', 'Enemy+Hideout', '10+', 'http://enemyhideout.com', 'support@enemyhideout.com']}
+{'com.coppercod.germanWhistPremium': ['German Whist Premium', 'coppercod', '10+', None, 'kevinainleywalker@hotmail.com']}
+{'com.onecwireless.hearts.full': ['Hearts (Full)', '6755703714885710635', '500+', 'http://www.1cmobile.com', 'support@1cwireless.com']}
+{'com.lambtongames.pickapairvideopoker': ['Pick A Pair Poker', 'Lambton+Games', '100+', 'http://www.lambtongames.com/', 'lambtongames@gmail.com']}
+{'com.silvercrk.hearts': ['Hardwood Hearts', '8403078360560227983', '1,000+', 'http://www.hardwoodhearts.com', 'support@silvercrk.com']}
+{'com.donutman.paigowpoker.full': ['Pai Gow Poker', 'Donutman+Software', '500+', 'http://www.donutmansoftware.com', 'donutman@donutmansoftware.com']}
+{'uk.co.russellwheeler.matcg': ['Masters Gallery by Reiner Knizia', 'Wheeler+Games', '100+', 'http://wheelergames.co.uk/mastersgallery', 'appfeedback@wheelergames.co.uk']}
+{'com.digidiced.bddrelease': ['Bohnanza The Duel', '7642513241968800472', '1,000+', 'http://www.digidiced.com', 'info@digidiced.com']}
+{'com.pokerbuddy.equitycalculator': ["Poker Equity Calculator Pro for No Limit Hold'em", 'Poker+Buddy', '5,000+', 'http://poker-buddy.net/', 'bruno.zzell@gmail.com']}
+{'com.thresholdjp.hanafuda': ['Hanafuda KOI KOI', 'Threshold.jp', '1,000+', 'http://threshold.jp', 'support@threshold.jp']}
+{'com.Sheepshead': ['Sheepshead Scorer', 'Neal+Mikulsky', '100+', 'https://mikulskn.wixsite.com/sheepsheadscorer', 'sheepsheadscorer@yahoo.com']}
+{'com.cannedbananas.locknroll.pro': ["Lock 'n' Roll Pro - Ad Free", 'Canned-Bananas', '1,000+', 'http://www.canned-bananas.com', 'lance@canned-bananas.com']}
+{'com.eryodsoft.android.cards.gin.full': ['Gin Rummy', '7071430644205651346', '10+', 'http://www.eryodsoft.com/games/ginrummy', 'support.gin.rummy@eryodsoft.com']}
+{'com.charisis.xeriplusplus_noads': ['Xeri+ (Card Game) [no ads]', 'Harisis+Iliadis', '10+', None, 'pc.specific@gmail.com']}
+{'uk.co.questarts.agnes.android': ['Agnes Solitaire', 'Quest+Arts+Interactive+Ltd', '10+', 'http://www.quest-arts.co.uk', 'info@quest-arts.co.uk']}
+{'net.runserver.freecell': ['Classic FreeCell HD', '6219611383430913916', '1,000+', 'http://runserver.net/apps/', 'alex@runserver.net']}
+{'com.Tarneeb': ['Tarneeb Full', 'Android4Canada', '500+', 'http://www.android4canada.com', 'android4canada@gmail.com']}
+{'com.silvercrk.euchre': ['Euchre - Hardwood Games', '8403078360560227983', '1,000+', 'http://www.hardwoodeuchre.com', 'support@silvercrk.com']}
+{'rc.games.slotsFull': ['Simple Slots', 'Rames', '500+', 'http://sites.google.com/site/ramesapps2003', 'ramesapps2003@gmail.com']}
+{'com.odesys.pyramid': ['Pyramid', 'Odesys,+LLC', '1,000+', 'http://www.odesys.com', 'support@odesys.com']}
+{'com.fuzzymobilegames.heartsonline': ['Hearts Online - Play Free Hearts Game', 'Fuzzy+Mobile+Games+Inc.', '500+', 'https://sites.google.com/site/fuzzymobilegamesbatak/hearts-online', 'fuzzymobilegames.inc@gmail.com']}
+{'com.fancypotatostudio.solitaire': ['Solitaire Country Tours', 'Potato+Studio+Co.,Ltd', '1,000+', 'https://docs.google.com/document/d/1VNXADGErlCxrVgK8goIje1x2nZ1LYCpJD9cswcS1RCg/edit?usp=sharing', 'tambinh352268@gmail.com']}
+{'com.zimbronapps.loteria': ['Baraja Lotería MX 2', 'ZimbronApps.com', '1,000+', 'http://zimbronapps.com', 'gustavo@zimbronapps.com']}
+{'com.avabyte.pyramidclassic': ['Pyramid Card Game (Classic)', 'AvaByte', '100+', 'http://avabyte.com/apps-privacy.html', 'avabytemedia@gmail.com']}
+{'de.bitdroid.cult': ['The Cult', 'Philipp+Eichhorn', '100+', 'https://cult-legal.bitdroid.de/privacy-policy.html', 'cult@bitdroid.de']}
+{'fairymage.game.com': ['Fairy Mage', 'Erline+Griffith', '1,000+', 'http://www.zhan5.com/agree.html', 'nennigakiwa5@gmail.com']}
+{'com.water8apps.freecell': ['FreeCell Solitaire Classic 2019', 'Water8Apps', '1,000+', None, 'water8appsgames@gmail.com']}
+{'com.mynet.spadesduel': ['Spades Duel - New Online Multiplayer Card Game', '5838203466544335658', '50+', 'http://www.mynet.com/', 'oyundestek@mynet.com']}
+{'com.naxeex.auto.robots.chess': ['Auto Robots Chess', '4904364455782296418', '1,000+', 'https://naxeex.com', 'naxeex.studio@gmail.com']}
+{'com.debubro.yugiohcalculator': ['Yu-Gi-Oh Duel Calculator', 'DebugBro', '100+', None, 'debugbro404@gmail.com']}
+{'com.gameforge.elemancer': ['Elemancer – Legend of Cards: Collectible Card Game', '5657945287075259088', '1,000+', 'https://www.evilgrog.com', 'support@evilgrog.com']}
+{'com.cardgames.spiteandmalice': ['Spite and Malice', 'gamespot', '10+', 'https://kinggamespot.com/privacy', 'kinggamespot@gmail.com']}
+{'com.cardgames.canasta': ['Canasta', 'gamespot', '10+', 'https://kinggamespot.com/privacy', 'kinggamespot@gmail.com']}
+{'com.alper.ginrummyhd': ['Gin Rummy HD - Offline Gin Rummy card game', '6388379580000600295', '100+', 'http://www.alpergames.com', 'info@alpergames.com']}
+{'com.laserranch.mythical': ['Mythical', 'Laser+Ranch,+Inc.', '100+', 'http://www.laserranch.com', 'support@laserranch.com']}
+{'com.zuoyou.spider': ['Happy spider poker', 'comic+lover', '500+', 'https://www.yx247.com/policies.html', 'zzyniadd@gmail.com']}
+{'com.cardgame.ginrummy': ['Ginrummy', 'gamespot', '10+', 'https://kinggamespot.com/privacy', 'kinggamespot@gmail.com']}
+{'de.schroedertechnologies.expertcanastapro': ['Expert Canasta Pro', 'Christoph+Schr%C3%B6der', '50+', 'http://www.schroeder-technologies.de/?page_id=59', 'apps@schroeder-technologies.de']}
+{'com.durakcats.twoplayercardgameonline': ['Durak Cats - 2 Player Card Game', '8699943899701847995', '50+', 'http://didelisauksodrakonas.com/privacy-policy/', 'digitaleagleapps@gmail.com']}
+{'com.monopoly.offlineslots7': ['Business Game Board Monopoli, 2019 offline', 'Bayle+games', '5,000+', None, 'DFGGDBT556RDT565@gmail.com']}
+{'com.spacegame.basic3': ['Solitaire', 'ME2ZEN+Solitaire+Games', '10,000,000+', 'http://www.me2zen.com/privacypolicy.html', 'basic3.solitaire@me2zen.com']}
+{'com.gameinsight.solitaire': ['Solitaire: Treasure of Time', '6367901761320314739', '1,000,000+', 'https://gameinsight.helpshift.com/a/solitaire-treasure-of-time/', 'support_solitaire@game-insight.com']}
+{'com.dogame.solitaire.klondike': ['Solitaire - Classic Card Game', 'WonderlandGame', '100,000+', 'https://superiorzzr.tumblr.com/post/177787450452/privacy-policy9', 'longjingjing2018@gmail.com']}
+{'solitaire.fish.card.klondike.ocean.solitaire.classic': ['Solitaire', 'For+Kids+-+Tap+Tap+Game', '50,000+', 'https://sites.google.com/site/yejian2019privacypolicy/', 'yejian2019@outlook.com']}
+{'solitaire.solitairemaker.solitaire.klondike.card': ['Solitaire', '5122682326576823713', '1,000,000+', 'http://www.imbigcat.com', 'support@imbigcat.com']}
+{'net.peakgames.mobile.spades.android': ['Spades Plus', '6690081412016968981', '5,000,000+', 'https://www.zynga.com', 'zyngaturkey-support@zynga.com']}
+{'com.mobilityware.spider': ['Spider Solitaire', '7125885284350687141', '10,000,000+', 'http://mobilityware.com/ourgames.php', 'support@mobilityware.com']}
+{'com.bbumgames.spadesroyale': ['Spades Royale - Card Game', '6496128650038483596', '500,000+', 'http://www.spadesroyale.com', 'admin@bbumgames.com']}
+{'com.freegame.solitaire.basic2': ['Solitaire Classic', 'Mobile+Apps+Inc', '1,000,000+', 'http://www.me2zen.com/privacypolicy.html', 'best.solitaire2@me2zen.com']}
+{'com.weplay.klondike.solitaire': ['Solitaire 2019', 'We+Play+Solitaire', '100,000+', 'https://sites.google.com/view/solitaire-2019', 'tiptopgame.studio@gmail.com']}
+{'com.bethsoft.theelderscrollslegends': ['The Elder Scrolls: Legends', 'Bethesda+Softworks+LLC', '1,000,000+', 'https://legends.bethesda.net/?locale=en', 'TESLhelp@mail.bethesda.net']}
+{'com.fuzzymobilegames.heartsonline': ['Hearts Online - Play Free Hearts Game', 'Fuzzy+Mobile+Games+Inc.', '500+', 'https://sites.google.com/site/fuzzymobilegamesbatak/hearts-online', 'fuzzymobilegames.inc@gmail.com']}
+{'com.playtika.wsop.gp': ['World Series of Poker – WSOP Free Texas Holdem', '8370476508159322879', '10,000,000+', 'http://www.playtika.com', 'support@playwsop.com']}
+{'com.forsbit.pyramid': ['Pyramid Solitaire 3 in 1', 'Forsbit+LLC', '50,000+', 'http://www.forsbit.com', 'support@forsbit.com']}
+{'com.piratesoutlaws.fabledgame': ['Pirates Outlaws', 'FabledGame+Studio', '50+', 'http://www.fabledgame.com', 'support@fabledgame.com']}
+{'com.game.escoba': ['Escoba', 'Melele', '100,000+', 'http://www.melele.es', 'meleleapp@melele.es']}
+{'com.superexpert.solitairecollection': ['Solitaire - Card Collection', 'SUPER+EXPERT', '10,000+', 'http://www.game520.com/', 'superexpert.ph@gmail.com']}
+{'com.fancypotatostudio.solitaire': ['Solitaire Country Tours', 'Potato+Studio+Co.,Ltd', '1,000+', 'https://docs.google.com/document/d/1VNXADGErlCxrVgK8goIje1x2nZ1LYCpJD9cswcS1RCg/edit?usp=sharing', 'tambinh352268@gmail.com']}
+{'com.matteljv.uno': ['UNO!™', 'Mattel163+Limited', '5,000,000+', 'http://www.letsplayuno.com/', 'uno@mattel163.com']}
+{'fairway.magiplay.klondike.freecell.golf.solitaire.tournament': ['Golf Solitaire Tournament: Free & Fun Card Games', 'Poker+Power', '100,000+', 'https://sites.google.com/site/sportstopgameprivacypolicy/', 'sportstopgame@hotmail.com']}
+{'com.pro.solitaire.games.free.classic.card': ['Solitaire', 'Solitaire+Games+Free', '100,000+', 'http://solitairegamesfreeinc.com/privacy-policy.html', 'contact@solitairegamesfreeinc.com']}
+{'com.brainium.solitairefree': ['Solitaire', '9200952197196338626', '10,000,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'com.bigfishgames.fairwaysolitaireuniversalf2pgoogle': ['Fairway Solitaire', '8355317828905497231', '5,000,000+', 'https://www.bigfishgames.com/daily/fairway-solitaire/', 'android.email@bigfishgames.com']}
+{'com.sngict.sngsolitaire': ['Solitaire - Free Card Games', '5890018970979485285', '1,000,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.piratesoutlaws.fabledgame': ['Pirates Outlaws', 'FabledGame+Studio', '50+', 'http://www.fabledgame.com', 'support@fabledgame.com']}
+{'com.WrenGames.Assembly': ['Assembly Tabletop Card Game', '9160194947114473902', '50+', 'http://www.digital.wrengames.co.uk', 'digital@wrengames.co.uk']}
+{'se.pastille.calmspider': ['Calm Cards - Spider', '7812895389455309145', '10+', 'http://www.pastille.se', 'developer@pastille.se']}
+{'com.pkohberger.fortuneteller': ['Fortune Teller - Major Arcana App', 'moon+works', '1+', 'http://electricopolis.net', 'pkohberger@gmail.com']}
+{'com.smilerlee.klondike': ['Solitaire', 'Mouse+Games', '5,000,000+', 'http://mouse-games.com', 'contact@mouse-games.com']}
+{'com.playtika.wsop.gp': ['World Series of Poker – WSOP Free Texas Holdem', '8370476508159322879', '10,000,000+', 'http://www.playtika.com', 'support@playwsop.com']}
+{'com.matteljv.uno': ['UNO!™', 'Mattel163+Limited', '5,000,000+', 'http://www.letsplayuno.com/', 'uno@mattel163.com']}
+{'com.mobilityware.solitaire': ['Solitaire', '7125885284350687141', '100,000,000+', 'http://www.mobilityware.com', 'support@mobilityware.com']}
+{'net.peakgames.mobile.spades.android': ['Spades Plus', '6690081412016968981', '5,000,000+', 'https://www.zynga.com', 'zyngaturkey-support@zynga.com']}
+{'com.tripledot.solitaire': ['Solitaire Classic', 'Tripledot+Studios+Limited', '500,000+', 'https://www.tripledotstudios.com', 'solitaire-support@tripledotstudios.com']}
+{'com.free.solitaire.games': ['Free Solitaire', 'Free+Solitaire', '1,000,000+', 'https://www.dropbox.com/s/o4pxf9zqyp1tu8x/FreeSolitaire.txt', 'zarxinihorjok@gmail.com']}
+{'com.mobilityware.spider': ['Spider Solitaire', '7125885284350687141', '10,000,000+', 'http://mobilityware.com/ourgames.php', 'support@mobilityware.com']}
+{'com.Nightingale.Solitaire.Card.Games.Free': ['Solitaire Card Games Free', 'Card+Games,+Inc', '1,000,000+', 'https://www.nightingale-mobile.com/', 'NightingaleTech@outlook.com']}
+{'com.gameinsight.solitaire': ['Solitaire: Treasure of Time', '6367901761320314739', '1,000,000+', 'https://gameinsight.helpshift.com/a/solitaire-treasure-of-time/', 'support_solitaire@game-insight.com']}
+{'com.gsn.android.tripeaks': ['Solitaire TriPeaks: Play Free Solitaire Card Games', 'GSN+Games,+Inc.', '10,000,000+', 'https://solitairetripeaks.com/', 'solitairetripeakssupport@gsngames.com']}
+{'com.freegame.solitaire.basic2': ['Solitaire Classic', 'Mobile+Apps+Inc', '1,000,000+', 'http://www.me2zen.com/privacypolicy.html', 'best.solitaire2@me2zen.com']}
+{'solitaire.card.games.free.klondike.solitaire.classic.fun': ['Solitaire', 'Cool+Games+-+Puzzle', '1,000,000+', 'https://sites.google.com/site/coolgamesprivacypolicy/', 'coolgames2017@outlook.com']}
+{'net.supertreat.solitaire': ['Solitaire - Grand Harvest', 'Supertreat', '1,000,000+', 'http://www.supertreat.net', 'sgh@supertreat.net']}
+{'com.lemongame.klondike.solitaire': ['Solitaire', 'Solitaire+Card+Games+,+Inc.', '10,000,000+', 'http://www.zhongbosoft.com/solitaire_policy.html', 'lemongameinc@gmail.com']}
+{'com.magmic.phase10.lite': ['Phase 10', '8612219469474238403', '5,000,000+', 'http://www.magmic.com', 'support@magmic.com']}
+{'com.bbumgames.spadesroyale': ['Spades Royale - Card Game', '6496128650038483596', '500,000+', 'http://www.spadesroyale.com', 'admin@bbumgames.com']}
+{'com.me2zen.tripeaks': ['Solitaire TriPeaks Journey - Free Card Game', '6624032394863046201', '1,000,000+', 'http://www.me2zen.com', 'tripeaks.solitaire@me2zen.com']}
+{'com.magmic.googleplay.skipbo.free': ['Skip-Bo™ Free', '8612219469474238403', '1,000,000+', 'http://www.magmic.com', 'uv-support@magmic.com']}
+{'jp.konami.duellinks': ['Yu-Gi-Oh! Duel Links', 'KONAMI', '10,000,000+', 'https://www.konami.com/games/jp/', 'ask-konami@faq.konami.com']}
+{'com.fuzzymobilegames.spades': ['Spades', 'Fuzzy+Mobile+Games', '500,000+', 'https://sites.google.com/site/fuzzymobilegamesbatak/spades', 'fuzzymobilegames@gmail.com']}
+{'com.ea.game.pegglex_row': ['Peggle Blast', '6605125519975771237', '5,000,000+', 'http://support.popcap.com/mobile/android', 'help@eamobile.com']}
+{'com.mobilityware.PyramidFree': ['Pyramid Solitaire', '7125885284350687141', '1,000,000+', 'http://www.mobilityware.com', 'support@mobilityware.com']}
+{'com.spacegame.basic3': ['Solitaire', 'ME2ZEN+Solitaire+Games', '10,000,000+', 'http://www.me2zen.com/privacypolicy.html', 'basic3.solitaire@me2zen.com']}
+{'net.peakgames.ginrummyplus': ['Gin Rummy Plus', '6690081412016968981', '5,000,000+', 'https://www.zynga.com', 'zyngaturkey-support@zynga.com']}
+{'com.cardgame.collection.fishdom': ['Solitaire Collection', 'Solitaire+Fun', '1,000,000+', 'https://sites.google.com/site/privacypolicyofsolitaire/', 'support@solitairegames.freshdesk.com']}
+{'com.brainium.solitairefree': ['Solitaire', '9200952197196338626', '10,000,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'com.cardgame.solitaire': ['Solitaire', 'ME2ZEN+Solitaire+Card+Free+Games', '5,000,000+', 'http://www.me2zen.com/privacypolicy.html', 'best.solitaire@me2zen.com']}
+{'com.cardgame.solitaire.fishdom': ['Solitaire', 'Solitaire+Fun', '1,000,000+', 'https://sites.google.com/site/privacypolicyofsolitaire/', 'support@solitairegames.freshdesk.com']}
+{'com.microsoft.microsoftsolitairecollection': ['Microsoft Solitaire Collection', '6720847872553662727', '1,000,000+', 'https://microsoftcasualgames.com', 'sol_mobile_support@microsoft.com']}
+{'eu.mvns.games': ['BlackJack 21 - Online Blackjack multiplayer casino', '6206485758347618901', '5,000,000+', 'http://www.abzorbagames.com', 'support@abzorbagames.com']}
+{'com.mobilityware.freecell': ['FreeCell Solitaire', '7125885284350687141', '10,000,000+', 'http://www.mobilityware.com', 'support@mobilityware.com']}
+{'com.absolute.bingo': ['Bingo - Free Bingo Games', 'Absolute+Games+:+Free+Bingo+Games', '5,000,000+', 'http://www.absolutegames.com', 'support@absolutegames.com']}
+{'solitaire.cardgames.solitairegames.free.klondike': ['Solitaire', '8154918239958650103', '1,000,000+', 'https://sites.google.com/site/magiplaygamesprivacypolicy', 'mplaygames1803@gmail.com']}
+{'com.bigfishgames.fairwaysolitaireuniversalf2pgoogle': ['Fairway Solitaire', '8355317828905497231', '5,000,000+', 'https://www.bigfishgames.com/daily/fairway-solitaire/', 'android.email@bigfishgames.com']}
+{'com.fiogonia.spades': ['Spades', 'FIOGONIA+LIMITED', '100,000+', 'http://www.fiogonia.com/support', 'contact@fiogonia.com']}
+{'com.kamagames.blackjack': ['Blackjack 21: Blackjackist', '6179794243705556952', '5,000,000+', 'https://www.blackjackist.com/', 'support@kamagames.com']}
+{'solitaire.card.games.free.solitaire.klondike.classic.journey': ['Solitaire', 'Hit+Mahjong+Solitaire', '10,000+', 'https://sites.google.com/site/hitmahjongsolitaire/', 'colormix2018@outlook.com']}
+{'uk.co.aifactory.spadesfree': ['Spades Free', '7906675825742087969', '5,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'solitaire.card.games.free.solitaire.big.fish.fishdom.ocean': ['Solitaire Ocean', 'Hit+Mahjong+Solitaire', '100,000+', 'https://sites.google.com/site/hitmahjongsolitaire/', 'colormix2018@outlook.com']}
+{'com.seaworldgame.klondike.solitaire': ['Solitaire Card Games Free', 'Sea+Lion+Solitaire+Games', '1,000,000+', 'http://seaworldgame.online/support/seaworldgames/solitaire.html', 'seaworldgameinc@gmail.com']}
+{'com.metafun.solitaire.free.hd': ['Solitaire', 'Honey+Tripeaks', '1,000,000+', 'https://sites.google.com/view/privacy-policy-honey-tripeaks', 'honey.tripeaks@gmail.com']}
+{'com.mobilityware.CastleSolitaire': ['Castle Solitaire: Card Game', '7125885284350687141', '10,000+', 'http://www.mobilityware.com', 'support@mobilityware.com']}
+{'com.bigblueparrot.pokerfriends': ['Poker Heat™ - Free Texas Holdem Poker Games', '8370476508159322879', '5,000,000+', 'http://www.playpokerheat.com', 'Support@playpokerheat.com']}
+{'com.blizzard.wtcg.hearthstone': ['Hearthstone', '8636572569301896616', '10,000,000+', 'https://battle.net/support/games/hearthstone', 'support@blizzard.com']}
+{'com.dogame.solitaire.klondike': ['Solitaire - Classic Card Game', 'WonderlandGame', '100,000+', 'https://superiorzzr.tumblr.com/post/177787450452/privacy-policy9', 'longjingjing2018@gmail.com']}
+{'com.banananadco.blackjack': ['Blackjack 21', 'Banana+%26+Co.', '1,000,000+', 'http://www.banana-co.com/privacy-policy', 'support@banana-co.com']}
+{'solitaire.solitairemaker.solitaire.klondike.card': ['Solitaire', '5122682326576823713', '1,000,000+', 'http://www.imbigcat.com', 'support@imbigcat.com']}
+{'com.spacegame.solitaire.spider': ['Spider Solitaire', 'Classic+Solitaire+Games+Inc', '1,000,000+', 'http://www.me2zen.com/privacypolicy.html', 'spider@me2zen.com']}
+{'com.bethsoft.theelderscrollslegends': ['The Elder Scrolls: Legends', 'Bethesda+Softworks+LLC', '1,000,000+', 'https://legends.bethesda.net/?locale=en', 'TESLhelp@mail.bethesda.net']}
+{'com.jimmyinteractive.speed': ['Speed Card Game (Spit Slam)', '6820708676437601682', '500,000+', 'https://cardgames.app/speed', 'speed@jdsoftwarellc.com']}
+{'com.gamesbypost.cribbageclassic': ['Cribbage Classic', 'Games+By+Post', '1,000,000+', 'http://www.cribbageclassic.com', 'cribbageclassic@gmail.com']}
+{'com.happysky.spider': ['Spider Solitaire', 'Spider+Solitaire+Card+Games', '5,000,000+', 'http://happysky.online/support/happysky/spidersolitaire/policy.html', 'zlm1608@gmail.com']}
+{'com.brainium.spiderfree': ['Spider Solitaire', '9200952197196338626', '5,000,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'com.pro.solitaire.games.free.classic.card': ['Solitaire', 'Solitaire+Games+Free', '100,000+', 'http://solitairegamesfreeinc.com/privacy-policy.html', 'contact@solitairegamesfreeinc.com']}
+{'com.hyilmaz.spades': ['Spades', 'Fuzzy+Mobile+Games', '100,000+', 'https://sites.google.com/site/fuzzymobilegamesbatak/spades', 'fuzzymobilegames@gmail.com']}
+{'com.astarsoftware.spades': ['Spades +', '6990499286430349613', '500,000+', 'https://www.astarsoftware.com', 'astarsoftware@gmail.com']}
+{'com.spacegame.basic5': ['Solitaire', 'Classic+Solitaire+Games+Inc', '1,000,000+', 'http://www.me2zen.com/privacypolicy.html', 'basic5.solitaire@me2zen.com']}
+{'fairway.magiplay.klondike.freecell.golf.solitaire.tournament': ['Golf Solitaire Tournament: Free & Fun Card Games', 'Poker+Power', '100,000+', 'https://sites.google.com/site/sportstopgameprivacypolicy/', 'sportstopgame@hotmail.com']}
+{'com.winrgames.solitaire': ['Solitaire - Make Money Free', 'WINR+Games+Inc', '500,000+', 'http://www.winrgames.com', 'contactus@winrgames.com']}
+{'com.queensgame.spider2': ['Spider Solitaire', 'HiCard', '1,000,000+', 'https://sites.google.com/site/wnprivacypolicy/', 'WarrenNorman84@gmail.com']}
+{'com.solitaire.yang1.freecards': ['Free Solitaire Happy Tap', 'Tap+Fun+Studio', '500,000+', 'http://www.dylanlab.com/', 'dylanedwards012@gmail.com']}
+{'com.game.solitaireclassics': ['Solitaire Classic', 'Solitaire+Classic+Ltd.', '5,000,000+', 'http://solitaireclassic.ge/privacy-policy.html', 'solitaire_classic_ltd@yahoo.com']}
+{'com.ntg.solitaire.tripeaks': ['Solitaire - Island Adventure', 'Card+Games,+Inc', '1,000,000+', 'https://www.nightingale-mobile.com', 'NightingaleTech@outlook.com']}
+{'com.weplay.klondike.solitaire': ['Solitaire 2019', 'We+Play+Solitaire', '100,000+', 'https://sites.google.com/view/solitaire-2019', 'tiptopgame.studio@gmail.com']}
+{'uk.co.aifactory.ginrummyfree': ['Gin Rummy Free', '7906675825742087969', '1,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.tapinator.solitairehorseracing': ['Solitaire Dash - Card Game', 'Cheetah+Games', '100,000+', 'http://www.tapinator.com', 'info@tapinator.com']}
+{'com.gamesbypost.heartscardclassic': ['Hearts Card Classic', 'Games+By+Post', '100,000+', 'http://www.gamesbypost.com', 'cribbageclassic@gmail.com']}
+{'com.hapogames.FreeCell': ['FreeCell', 'Smoote++Mobile', '1,000,000+', 'https://sites.google.com/site/smootemobileprivacypolicy/', 'smootemobile@gmail.com']}
+{'com.devsisters.SolitaireDeckedOut': ['Solitaire: Decked Out Ad Free', '7767058403001139720', '500,000+', 'https://cs.devsisters.com/solitaire-decked-out', 'support@solitaireshufflehelp.zendesk.com']}
+{'com.gazeus.euchre': ['Euchre Free: Classic Card Game', 'Jogatina.com', '100,000+', 'http://www.jogatina.com/site/contactus/store/view/EUCHRE_ANDROID_PHONE', 'euchre.android@gazeus.com']}
+{'com.kathleenOswald.solitaireGooglePlay': ['Solitaire', '6690081412016968981', '50,000,000+', 'https://zyngasupport.helpshift.com/a/solitaire/', 'android.support@zynga.com']}
+{'com.youdagames.gop3multiplayer': ['Governor of Poker 3 - Texas Holdem Casino Online', '7639378078513286726', '1,000,000+', 'http://www.governorofpoker.com', 'support@governorofpoker.com']}
+{'com.cardgame.pyramid.fishdom': ['Pyramid Solitaire', 'Solitaire+Fun', '500,000+', 'https://sites.google.com/site/privacypolicyofsolitaire/', 'support@solitairegames.freshdesk.com']}
+{'com.jogatina.spades': ['Spades: Free Card Games', 'Jogatina.com', '500,000+', 'http://www.jogatina.com', 'mobile@gazeus.com']}
+{'com.cardgame.tripeaks.fishdom': ['TriPeaks Solitaire', 'Solitaire+Fun', '100,000+', 'https://sites.google.com/site/privacypolicyofsolitaire/', 'support@solitairegames.freshdesk.com']}
+{'com.avabyte.spidersolitaire': ['Spider Solitaire', 'AvaByte', '500,000+', 'http://avabyte.com/apps-privacy.html', 'avabytemedia@gmail.com']}
+{'com.astarsoftware.euchre': ['Euchre 3D', '6990499286430349613', '1,000,000+', 'https://www.astarsoftware.com', 'support@astarsoftware.com']}
+{'com.mobilityware.TriPeaksFree': ['TriPeaks Solitaire', '7125885284350687141', '1,000,000+', 'http://mobilityware.com/ourgames.php', 'support@mobilityware.com']}
+{'com.onet.match.classicsolitaire': ['Classic Solitaire 2019', 'Karman+Games+Limited', '50,000+', 'http://www.pinkpointer.com/privacy.html', 'dothanhhuong163@gmail.com']}
+{'com.sngict.sngsolitaire': ['Solitaire - Free Card Games', '5890018970979485285', '1,000,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.hyilmaz.rummy.gin': ['Gin Rummy', 'Fuzzy+Mobile+Games', '100,000+', 'https://sites.google.com/site/fuzzymobilegamesbatak/gin-rummy', 'fuzzymobilegames@gmail.com']}
+{'com.relaxingbraintraining.solitairekingdom': ['Solitaire Kingdom', 'PlaySpot+Games', '100,000+', 'https://www.playspot.io/games-privacy-policy', 'f2p.media.group@gmail.com']}
+{'com.magiplay.solitaire.tripeaks.farm.harvest': ['Farmship: TriPeaks Solitaire', '8154918239958650103', '10,000+', 'https://sites.google.com/site/magiplaygamesprivacypolicy', 'mplaygames1803@gmail.com']}
+{'com.rikkigames.solsuite': ['150+ Card Games Solitaire Pack', 'RikkiGames+Limited', '1,000,000+', 'http://rikkigames.com', 'rikkigames@gmail.com']}
+{'com.pokemon.pokemontcg': ['Pokémon TCG Online', 'The+Pok%C3%A9mon+Company+International', '1,000,000+', 'http://www.pokemon.com', 'support@pokemon.com']}
+{'com.stainlessgames.D15': ['Magic 2015', 'Wizards+of+the+Coast+LLC', '1,000,000+', 'http://www.wizards.com/customerservice', 'mobilesupport@wizards.com']}
+{'com.king.pyramidsolitairesaga': ['Pyramid Solitaire Saga', '6577204690045492686', '10,000,000+', 'http://pyramidsolitairesaga.com/help/', 'pyramid.techhelp@king.com']}
+{'com.litegames.rummy_free__aat_google': ['Rummy - free card game', '8633276600546047418', '1,000,000+', 'https://www.lite.games', 'support@lite.games']}
+{'air.com.neon.games.WBT': ['Blackjack - World Tournament', 'NEON+Games', '100,000+', 'https://www.facebook.com/WBTfan/', 'support@neon-games.zendesk.com']}
+{'uk.co.aifactory.euchrefree': ['Euchre Free', '7906675825742087969', '500,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.bitmango.go.solitaireparadisetripeaks': ['Solitaire Paradise: Tripeaks', '6249013288401661340', '500,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.lemongame.freecell.solitaire': ['FreeCell Solitaire', 'Solitaire+Card+Games+,+Inc.', '100,000+', 'http://www.zhongbosoft.com/freecell_policy.html', 'lemongameinc@gmail.com']}
+{'com.astarsoftware.hearts': ['Hearts +', '6990499286430349613', '500,000+', 'https://www.astarsoftware.com', 'support@astarsoftware.com']}
+{'com.trivialtechnology.Cribbage': ['Ultimate Cribbage - Classic Card Game', '6490540235565334154', '500,000+', 'http://wildcardstudios.com', 'support@wildcardstudios.com']}
+{'com.runonetworks.correyseva': ['Baraja de Lotería Mexicana', '5745679362080067221', '1,000,000+', 'http://runonetworks.com/', 'ceo@runonetworks.com']}
+{'com.card.games.classic.solitaire.queen': ['Solitaire: Classic Klondike Card Games', 'Card+Master', '10,000+', 'http://cdn.api-alliance.com/blowfire/apps/QueenAndroid/PP.html', 'cardgamesmaster@gmail.com']}
+{'com.giantixstudios.tripeakssolitairechallenge': ['TriPeaks Solitaire Challenge', 'Giantix+Studios', '1,000,000+', 'http://privacy.giantixstudios.com', 'support@giantixstudios.com']}
+{'com.sngict.spades': ['Spades - Offline Free Card Games', '5890018970979485285', '100,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.fiogonia.hearts': ['Hearts - Card Game Classic', 'FIOGONIA+LIMITED', '50,000+', 'http://www.fiogonia.com/support', 'contact@fiogonia.com']}
+{'com.trivialtechnology.Rummy500D': ['Rummy 500', '5000924930502885531', '500,000+', 'http://northskygames.com', 'support@northskygames.com']}
+{'com.sngict.rummy.gin': ['Gin Rummy - Offline Free Card Games', '5890018970979485285', '1,000,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.slots.cardgames.classicsolitaire': ['Classic Solitaire', 'Card+Games+2018', '100,000+', 'http://www.mobilityware.com/privacy-policy.php', 'skyfall04122017@gmail.com']}
+{'solitaire.free.klondike.card.pyramid.solitaire': ['Pyramid Solitaire', 'Magic+Puzzle', '100,000+', 'https://sites.google.com/site/magicpuzzlesprivacypolicy/', 'magic_puzzles@hotmail.com']}
+{'com.queensgame.pyramid': ['Pyramid Solitaire', 'Queens+Solitaire+Games', '500,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'com.turner.cardwars2': ['Card Wars Kingdom', '7977642132858801607', '10,000,000+', 'http://www.cartoonnetwork.com', 'advanced.platforms@turner.com']}
+{'com.tinytouchtales.cardthief': ['Card Thief', 'Arnold+Rauers', '1,000,000+', 'http://www.tinytouchtales.com', 'hello@tinytouchtales.com']}
+{'com.fiogonia.gin': ['Gin Rummy Free!', 'FIOGONIA+LIMITED', '100,000+', 'http://www.fiogonia.com/support', 'contact@fiogonia.com']}
+{'com.pokerstars.cebo.psp': ['PokerStars Play: Free Texas Holdem Poker Game', '6368329215346388078', '500,000+', 'http://www.pokerstarsmobile.net', 'PokerstarsPlay@pokerstars.net']}
+{'com.karmangames.pinochle': ['Pinochle', 'KARMAN+Games', '500,000+', 'https://www.iubenda.com/privacy-policy/393558', 'spadeshelp@gmail.com']}
+{'free.fun.card.game.solitaire.klondike.freecell.uno': ['World of Solitaire: Classic card game', '7923366608034857427', '100,000+', 'http://developer.neowiz.com', 'Solitaire@help.neowiz.com']}
+{'com.konami.ygodgtest': ['Yu-Gi-Oh! Duel Generation', 'Konami+Digital+Entertainment,+Inc.', '5,000,000+', 'https://us-support.konami.com', 'kdeussupport@konami.com']}
+{'com.karmangames.spades': ['Spades', 'KARMAN+Games', '1,000,000+', 'https://plus.google.com/101002040963863914068', 'spadeshelp@gmail.com']}
+{'com.commalite.solitairecollection': ['550+ Card Games Solitaire Pack', 'CommaLite', '500,000+', 'https://sites.google.com/view/550-card-games-solitaire-pack-/%ED%99%88', 'commalite@gmail.com']}
+{'ono.uno.classic': ['Ono Online', 'Play+Everyday+Games', '500,000+', 'https://sites.google.com/view/play-everyday-games/', 'silentcrocgames@gmail.com']}
+{'air.com.bigfishgames.fairwayrevengegooguniversalf2p': ['Fairway Solitaire Blast', '8355317828905497231', '5,000,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.cardgames.classic.solitaire': ['Solitaire', 'Smoote++Mobile', '500,000+', 'https://sites.google.com/view/solitaire-privacy-policy/', 'support@cardgame.freshdesk.com']}
+{'com.kamagames.pokerist': ['Texas Holdem & Omaha Poker: Pokerist', '6179794243705556952', '10,000,000+', 'http://kamagames.com', 'support@kamagames.com']}
+{'uk.co.aifactory.solitairefree': ['Solitaire Free', '7906675825742087969', '1,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.pyrsoftware.pokerstars.net': ['PokerStars: Free Poker Games with Texas Holdem', '6368329215346388078', '10,000,000+', 'http://www.pokerstars.net/mobile', 'support@pokerstars.net']}
+{'com.ubisoft.unoplaylink': ['Uno PlayLink', '4647998716943242763', '100,000+', 'https://www.ubisoft.com/en-us/game/uno/', 'android.support@ubisoft.com']}
+{'com.cardgame.spider.fishdom': ['Spider Solitaire', 'Solitaire+Fun', '1,000,000+', 'https://sites.google.com/site/privacypolicyofsolitaire/', 'support@solitairegames.freshdesk.com']}
+{'com.gamesbypost.spadescardclassic': ['Spades Card Classic', 'Games+By+Post', '10,000+', 'http://www.gamesbypost.com', 'cribbageclassic@gmail.com']}
+{'com.ageofsolitaire.classicsolitaire': ['Classic Solitaire', 'Age+Of+Solitaire', '100,000+', 'http://www.mobilityware.com/privacy-policy.php', 'android.support@ageofsolitaire.com']}
+{'com.clipwiregames.solitairebuddies': ['Solitaire Buddies - Tri-Peaks Card Game', 'Clipwire+Games+and+Bingo', '100,000+', 'http://www.clipwiregames.com', 'bizdev@clipwiregames.com']}
+{'uk.co.aifactory.heartsfree': ['Hearts Free', '7906675825742087969', '1,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.fingerstudios.solitaire.classic': ['Solitaire Card Games: Classic Solitaire Klondike', 'Magic+Arts', '100,000+', 'http://cdn.appcloudbox.net/fingerstudios/apps/androidclassicsolitaire/privacy.html', 'feedback.fingerstudios@gmail.com']}
+{'com.Gameplete.CardFantasy': ['TripleFantasy', '7563356113759790067', '100,000+', 'http://cafe.naver.com/gpcardcraft', 'helpdesk@gameplete.net']}
+{'com.queensgame.solitaire.journey': ['Solitaire Journey', 'Queens+Solitaire+Games', '500,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'air.com.gamegos.solitale': ['Solitaire Story - Tri Peaks', '5137364340371948270', '1,000,000+', 'http://www.gamegos.com', 'solitale@gamegos.com']}
+{'com.mavenhut.solitaire.tower': ['Solitaire Tower', '8358705551588790449', '100,000+', 'http://www.mavenhut.com/', 'community@mavenhut.com']}
+{'com.papps.spidersolitaire': ['Spider Solitaire', '1kpapps', '5,000,000+', 'http://igames.com', 'moughiteessaoudi@gmail.com']}
+{'uno.ono.card.game': ['Uno Classic', 'Ultimate+Board+Games', '100,000+', 'https://sites.google.com/view/ubgams/', 'ultimateboardgames@gmail.com']}
+{'com.cardgames.classic.solitaire.world': ['Classic Solitaire World', 'WePlay+Pool+Games', '10,000+', 'https://sites.google.com/site/smprivacypolicy/', 'support@classicsolitaireworld.freshdesk.com']}
+{'com.fullersystems.cribbage': ['Cribbage Pro', 'Fuller+Systems,+Inc.', '1,000,000+', 'http://www.CribbagePro.net', 'support@fullersystems.com']}
+{'com.harveyshundreds': ["Harvey's Hundreds", 'Quantasy,+LLC', '100,000+', 'https://quantasy.com', 'support@quantasy.com']}
+{'com.sagafun.triviabingo': ['Trivia Bingo - Free Bingo Games To Play!', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '10,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'com.queensgame.solitaire': ['Classic Solitaire', 'Queens+Solitaire+Games', '1,000,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'air.com.youdagames.google.ww.gop2MobileFree': ['Governor of Poker 2 - OFFLINE POKER GAME', '7639378078513286726', '5,000,000+', 'http://www.youdagamesstudio.com/support/', 'support@youdagames.com']}
+{'com.cardgame.freecell.fishdom': ['FreeCell Solitaire', 'Solitaire+Fun', '100,000+', 'https://sites.google.com/site/privacypolicyofsolitaire/', 'support@solitairegames.freshdesk.com']}
+{'com.litegames.canasta': ['Canasta - classic card game', '8633276600546047418', '50,000+', 'https://www.lite.games/games/canasta/', 'support@lite.games']}
+{'com.eryodsoft.android.cards.rummy.lite': ['Rummy - Free', '7071430644205651346', '1,000,000+', 'http://www.eryodsoft.com', 'support.rummy@eryodsoft.com']}
+{'uno.free.card.game': ['Classic Uno', 'Floating+Ninja+Games', '100,000+', 'https://sites.google.com/view/floating-ninja-games', 'floatingninjagames@gmail.com']}
+{'com.avabyte.cardmatch': ['Card Match', 'AvaByte', '100,000+', 'http://avabyte.com/apps-privacy.html', 'avabytemedia@gmail.com']}
+{'com.reachjunction.card.game.solitaire': ['Solitaire', 'ReachJunction+Media+Limited', '1,000,000+', 'http://www.reachjunction.com', 'support@reachjunction.com']}
+{'com.cygames.Shadowverse': ['Shadowverse CCG', 'Cygames,+Inc.', '1,000,000+', 'https://shadowverse.com/', 'shadowverse_en_infogp@cygames.co.jp']}
+{'com.dragonplay.liveholdempro': ['Live Hold’em Pro Poker - Free Casino Games', 'Scientific+Games+Interactive+%28IL%29', '10,000,000+', 'http://www.dragonplay.com', 'support@dragonplay.com']}
+{'com.Kava.PokerLife': ['CasinoLife Poker', 'KANEVA,+LLC', '50,000+', 'https://www.kava.world', 'support@kava.world']}
+{'solitaire.fish.card.klondike.ocean.solitaire.classic': ['Solitaire', 'For+Kids+-+Tap+Tap+Game', '50,000+', 'https://sites.google.com/site/yejian2019privacypolicy/', 'yejian2019@outlook.com']}
+{'com.freefuncard.solitaire.challenge': ['Solitaire!', 'pistachio+studio', '100,000+', 'http://d2prafqgniatg5.cloudfront.net/dailycardgames/solitaire_privacy.html', 'zhengweiyang154@gmail.com']}
+{'com.g5e.solitairepg.android': ['Solitaire Magical Tour: Tripeaks Puzzle Adventure', '8053728788464134315', '10,000+', 'http://www.g5e.com', 'support@g5e.com']}
+{'com.solitairemaker.solitaire': ['Solitaire', 'Solitaire+Card+Games+Free', '1,000,000+', 'http://goo.gl/forms/rNcdkrh6Gc', 'solitairemaker@gmail.com']}
+{'com.brainium.freecellfree': ['FreeCell Solitaire', '9200952197196338626', '1,000,000+', 'http://www.BrainiumStudios.com', 'support@BrainiumStudios.com']}
+{'com.karmangames.hearts': ['Hearts', 'KARMAN+Games', '1,000,000+', 'https://plus.google.com/116751370862859783006', 'spadeshelp@gmail.com']}
+{'com.ptfarm.pokerrrr': ['Pokerrrr2: Poker with Buddies - Multiplayer Poker', 'PT.farm+Inc.', '100,000+', 'https://pokerrrrapp.com', 'contact@pokerrrrapp.com']}
+{'io.bbstud.pkc': ['Poker Championship - Holdem', 'BBstudio+Inc.', '10,000+', 'http://www.bbstud.io', 'poker@bbstud.io']}
+{'com.geaxgame.pokerkingpro': ['Texas Holdem Poker Pro', 'geaxgame', '5,000,000+', 'https://oldvegasapi.myslots.us/windowpokerweb/GG_PrivacyPolicy.html', 'support@wayger.zendesk.com']}
+{'com.MadStudios.SolitaireFairytaleDev': ['Solitaire Fairytale', 'MAD+Studios,+s.r.o.', '10,000+', 'http://www.solitairefairytale.com', 'solitaire.fairytale@gmail.com']}
+{'com.direwolfdigital.Phoenix': ['Eternal Card Game', 'Dire+Wolf+Digital', '500,000+', 'http://www.eternalcardgame.com/', 'support@direwolfdigital.com']}
+{'com.cardgame.solitaire.discovery': ['Solitaire Discovery', 'Solitaire+Fun', '100,000+', 'https://sites.google.com/site/privacypolicyofsolitaire/', 'support@solitairegames.freshdesk.com']}
+{'com.lattanzio.eljodete': ['Jodete', 'Diego+Lattanzio', '5,000,000+', 'http://www.diegolattanzio.com', 'help@diegolattanzio.com']}
+{'blackjack.casino.card.game': ['Blackjack 21 - casino card game', '5454925992285925884', '50,000+', 'http://www.cybernautica.cz', 'games@cybernautica.cz']}
+{'com.bruyere.android.solitaire': ['Solitaire Free', '8931371852227611263', '1,000,000+', 'http://www.lezigame.com', 'contact@lezigame.com']}
+{'com.casualino.vipspades.single': ['Spades Offline - Single Player', '8771461074582823638', '100,000+', 'http://casualino.com', 'agent@casualino.com']}
+{'com.karmangames.euchre': ['Euchre', 'KARMAN+Games', '500,000+', 'https://plus.google.com/103216916697119336236/posts', 'spadeshelp@gmail.com']}
+{'com.spacegame.solitaire.basic': ['Solitaire!', '6624032394863046201', '10,000,000+', 'http://www.me2zen.com', 'basic.solitaire@me2zen.com']}
+{'com.karmangames.freecell': ['FreeCell', 'KARMAN+Games', '1,000,000+', 'http://karmangames.com/solitaire-policy.html', 'spadeshelp@gmail.com']}
+{'com.LoopGames.Solitaire': ['Solitaire', '5014688380385987684', '1,000,000+', 'http://loop.games/', 'loopincorporated@gmail.com']}
+{'air.com.ladiesofluckslots': ['Wild Double Slots: Free Casino Slots Games', '8823650727625885259', '100,000+', 'https://www.tapslots.com', 'support@tapslots.com']}
+{'com.karmangames.solitaire': ['Solitaire', 'KARMAN+Games', '5,000,000+', 'http://karmangames.com/solitaire-policy.html', 'spadeshelp@gmail.com']}
+{'com.anoshenko.android.solitaires': ['250+ Solitaire Collection', 'Alexei+Anoshenko', '5,000,000+', 'http://alxanosoft.com', 'anoshenko@gmail.com']}
+{'com.queensgame.spider': ['Spider Solitaire', 'Queens+Solitaire+Games', '1,000,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'com.dna.solitaireapp': ['Solitaire', 'DNA+Mobile+Group', '100,000+', 'https://www.iubenda.com/privacy-policy/85377431', 'dnamobilegroup@gmail.com']}
+{'com.sagafun.solitaire': ['Solitaire Games Free:Solitaire Fun Card Games', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '50,000+', 'http://www.sagafun.com/policy.html', 'support@sagafun.com']}
+{'com.multiplayertonk': ['Tonk Rummy - Online Card Game', '5190115240305349702', '500,000+', 'http://www.gamewithpals.com', 'info@gamewithpals.com']}
+{'com.sixace.tonkmultiplayer': ['Tonk Online', '6Ace+Games', '5,000+', 'http://sixacegames.blogspot.com/p/privacy-and-policy.html', 'sixacegames@gmail.com']}
+{'com.karmangames.canasta': ['Canasta', 'KARMAN+Games', '1,000,000+', 'https://plus.google.com/110782302528762432866/posts', 'spadeshelp@gmail.com']}
+{'net.peakgames.bidwhist': ['Bid Whist Plus', '6690081412016968981', '100,000+', 'https://www.zynga.com', 'zyngaturkey-support@zynga.com']}
+{'com.shoreline.game.spider.solitaire': ['Spider Solitaire - Classic Card Games', 'Shoreline+Park,+Inc.', '500,000+', 'http://shoreline.site/support/spider_policy.html', 'shorelineparkinc@gmail.com']}
+{'com.casualino.vipspades': ['Spades - Free Spades online plus real multiplayer', '8771461074582823638', '100,000+', 'https://vipspades.com', 'support@vipspades.com']}
+{'com.iscoolentertainment.crazy8': ['Crazy 8 Multiplayer', 'IsCool+Entertainment', '100,000+', 'http://www.iscoolentertainment.com', 'google-playstore@iscool-e.com']}
+{'com.Everguild.HorusHeresy': ['The Horus Heresy: Legions – TCG card battle game', 'Everguild+Ltd.', '100,000+', 'http://www.everguild.com', 'support@everguild.com']}
+{'com.redrocket.poker': ['Poker Offline - Free Texas Holdem Poker Games', 'Red+Rocket+Games', '100,000+', None, 'red.rocket.hangar@gmail.com']}
+{'com.come2play.solitaireklondike': ['Solitaire Pets Arena - Online Free Card Game', '4961168152819308405', '100,000+', 'http://www.come2play.com', 'pets@come2play.com']}
+{'fr.veryphone.a10000Free': ['Dice Game 10000 Free', 'Veryphone', '100,000+', 'http://games.veryphone.fr', 'contact@veryphone.fr']}
+{'air.com.dg.obg.solitaire.tripeaks.vampire.story.monster.magic': ['Solitaire Story: Monster Magic Mania', 'Beautiful+Free+Solitaire+Games+by+Difference+Games', '10,000+', 'http://www.differencegames.com', 'solitaire@differencegames.com']}
+{'com.spadesoffline': ['Spades', '6Ace+Games', '5,000+', 'http://sixacegames.blogspot.com/p/privacy-and-policy.html', 'sixacegames@gmail.com']}
+{'com.tencardgame.war': ['War (Card Game)', 'tencardgame', '10,000+', None, 'tencardgame@gmail.com']}
+{'com.nickelbuddy.cribbageclubfree': ['Cribbage Club (free cribbage app and board)', '4727096749923549653', '100,000+', 'http://www.nickelbuddy.com', 'info@nickelbuddy.com']}
+{'com.potatojam.classic.solitaire.klondike': ['Classic Solitaire Klondike - No Ads! Totally Free!', '8602779468616856993', '50,000+', 'http://potatojam.com', 'info@potatojam.com']}
+{'com.crazygame.card.freecell': ['FreeCell Pro', 'Crazy+Game+Developer', '100,000+', 'https://raw.githubusercontent.com/crazygame2416/PrivacyPolicy-/master/README.md', 'crazygame.dever@gmail.com']}
+{'com.forsbit.pyramid': ['Pyramid Solitaire 3 in 1', 'Forsbit+LLC', '50,000+', 'http://www.forsbit.com', 'support@forsbit.com']}
+{'com.jdpapps.brisca': ['Briscola Online HD - La Brisca', '8933575792593715746', '1,000,000+', 'http://www.quarzoapps.com/', 'hola@quarzoapps.com']}
+{'com.forsbit.freecell': ['FreeCell Solitaire Classic', 'Forsbit+LLC', '100,000+', 'http://www.forsbit.com', 'forsbitllc@gmail.com']}
+{'com.Qublix.SolitaireAtlantis': ['Solitaire Atlantis', '8810793461269970613', '1,000,000+', 'http://www.qublix.com', 'help.solitaireatlantis@gmail.com']}
+{'com.bicyclecards.HowToPlayUSPC': ['How To Play', 'Bicycle+Playing+Cards', '100,000+', 'http://www.bicyclecards.com/rules', 'officialbicycle@gmail.com']}
+{'com.bombayplay.CardCrack': ['Card Party - FAST Classic Cards Game with Friends', 'Bombay+Play', '100,000+', 'http://www.bombayplay.com', 'support@bombayplay.com']}
+{'com.avabyte.memorymatch': ['Memory Match Cards', 'AvaByte', '100,000+', 'http://avabyte.com/apps-privacy.html', 'avabytemedia@gmail.com']}
+{'com.gift.cardgames.classicsolitaire': ['Classic Solitaire : 300 levels', 'Card+Games+2018', '100,000+', 'http://www.mobilityware.com/privacy-policy.php', 'skyfall04122017@gmail.com']}
+{'com.wildcardstudios.blackjack': ['Blackjack Legends: 21 Online Multiplayer Casino', '6490540235565334154', '100,000+', 'https://www.wildcardstudios.com', 'support@wildcardstudios.com']}
+{'air.com.dg.obg.solitaire.quest.elven.wonderland.story': ['Solitaire Quest:  Elven Wonderland Story', 'Beautiful+Free+Solitaire+Games+by+Difference+Games', '100,000+', 'http://www.differencegames.com', 'solitaire@differencegames.com']}
+{'net.jeu.spider': ['Spider Solitaire', '1bsyl', '10,000,000+', 'http://www.1bsyl.com/www/Spider.php', 'tacticalhockey@gmail.com']}
+{'com.agedstudio.card.solitaire.klondike': ['Solitaire', 'Aged+Studio+Limited', '5,000+', 'http://www.agedstudio.com/privacy-policy.html', 'support@agedstudio.com']}
+{'com.funcard.klondike.solitaire': ['Solitaire - Beautiful themes, funny CardGame', 'Mofun+Game', '100,000+', 'https://docs.google.com/document/d/168_Y9SbrniO-gH2GrzW9cdu2rJ5kpWEtwjXBTE0THJA/edit?usp=sharing', 'classicsolitaire999@gmail.com']}
+{'com.gv.solitairedreamforestcards': ['Solitaire Dream Forest - Free Solitaire Card Game', 'Artik+Games', '1,000,000+', 'http://artikgames.com/privacypolicy/', 'support@vascogames.com']}
+{'air.com.differencegames.threepyramidtripeaksfree': ['3 Pyramid Tripeaks Solitaire - Free Card Game', '8075940778881445040', '1,000,000+', 'http://www.happyplanetgames.com', 'happyplanetgames@differencegames.com']}
+{'com.fuzzymobilegames.heartsonline': ['Hearts Online - Play Free Hearts Game', 'Fuzzy+Mobile+Games+Inc.', '500+', 'https://sites.google.com/site/fuzzymobilegamesbatak/hearts-online', 'fuzzymobilegames.inc@gmail.com']}
+{'com.factorygames.racepoker': ['Race Poker', 'Factory+Games+Ltd', '10,000+', 'http://www.race.poker', 'support@race.poker']}
+{'com.igg.bzbee.deckheroes': ['Deck Heroes: Legacy', '8895734616362643252', '10,000,000+', 'http://www.igg.com', 'help.DeckHeroes@igg.com']}
+{'com.cattama.poker': ['Poker [card game]', 'CatTama', '1,000,000+', 'http://cattama.com/', 'wizdom125@gmail.com']}
+{'com.youdagames.howtopoker': ['How to Play Poker - Learn Texas Holdem Offline', '7639378078513286726', '50,000+', 'https://www.governorofpoker.com', 'support@governorofpoker.com']}
+{'com.sagafun.bingocute': ['Bingo Cute:Free Bingo Games, Offline Bingo Games', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '50,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'com.tesseractmobile.solitairefreepack': ['Solitaire Free Pack', '6534348997123710607', '1,000,000+', 'http://www.tesseractmobile.com/our-apps/solitaire-free-pack/', 'Contact@maplemedia.io']}
+{'com.avabyte.tripeaksclassic': ['TriPeaks Solitaire Classic', 'AvaByte', '5,000+', 'http://avabyte.com/apps-privacy.html', 'avabytemedia@gmail.com']}
+{'com.onecwireless.spades.free': ['Spades', '6755703714885710635', '100,000+', 'http://www.1cmobile.com', 'support@1cwireless.com']}
+{'com.geaxgame.gamezone.texas': ['Texas Holdem Poker', 'GameZone8', '10,000,000+', 'https://oldvegasapi.myslots.us/windowpokerweb/GG_PrivacyPolicy.html', 'geaxgame2012@gmail.com']}
+{'com.solitairegame.basic2': ['Solitaire', 'Mobile+Apps+Inc', '5,000,000+', 'http://www.me2zen.com', 'basic2.solitaire@me2zen.com']}
+{'air.ru.crazypanda.wpcm': ['Poker Games: World Poker Club', 'Crazy+Panda+Mobile', '5,000,000+', 'http://crazypanda.ru', 'poker.android@crazypanda.ru']}
+{'com.kubo.adivina': ['Adivina', 'KUBO+S.A.S', '1,000,000+', 'http://kubo.co', 'dpenaloza@kubo.co']}
+{'de.spielepalast.solitairepalace': ['Solitaire (Free, no Ads)', '5425851731630649862', '100,000+', 'https://www.solitaire-palast.de/', 'support@solitaire-palast.de']}
+{'com.avabyte.freecell': ['FreeCell Solitaire', 'AvaByte', '100,000+', 'http://avabyte.com/apps-privacy.html', 'avabytemedia@gmail.com']}
+{'com.queensgame.collection': ['Solitaire Collection', 'Queens+Solitaire+Games', '1,000,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'com.games.spider.free.hd': ['Spider Solitaire', 'Fun+Games+free', '1,000,000+', 'https://sites.google.com/site/fungamesfreeprivacypolicy', 'board_game@hotmail.com']}
+{'com.mobilityware.SpiderGo': ['Spider Go: Solitaire Card Game', '7125885284350687141', '100,000+', 'http://www.mobilityware.com', 'Support@mobilityware.com']}
+{'com.silvercrk.spades_free': ['Spades - Hardwood Spades Free', '8403078360560227983', '100,000+', 'http://www.hardwoodspades.com', 'support@silvercrk.com']}
+{'net.runserver.solitaire': ['Classic Solitaire', '6219611383430913916', '1,000,000+', 'http://runserver.net/apps/', 'solitaire@runserver.net']}
+{'com.harpan.freecellGooglePlay': ['FreeCell Solitaire', '6690081412016968981', '5,000,000+', 'https://zyngasupport.helpshift.com/a/freecell-solitaire/%20%20', 'android.support@zynga.com']}
+{'com.ortizts.loteria': ['Loteria', 'Ortiz+Technologies+LLC', '100,000+', 'https://www.loteria.bingo', 'contact@ortizts.com']}
+{'air.br.com.poker.mobile': ['Poker 5 Card Draw', '6770967800961821170', '100,000+', 'http://www.megajogos.com.br', 'suporte@megajogos.com.br']}
+{'com.eryodsoft.android.cards.damedepique': ['Hearts - Free', '7071430644205651346', '1,000,000+', 'http://www.eryodsoft.com', 'support.damedepique@eryodsoft.com']}
+{'com.neuralplay.android.bridge': ['Bridge by NeuralPlay', '9005321416889909394', '500,000+', 'http://www.neuralplay.com', 'support@neuralplay.com']}
+{'com.playfusion.lightseekers_digital_tcg': ['Lightseekers', '5636295361649069546', '100,000+', 'http://www.lightseekers.com/', 'support@playfusion.com']}
+{'com.skytecgames.cardsheroes': ['Card Heroes - CCG game with online arena and RPG', '7986275276826158442', '1,000,000+', 'http://www.skytecgames.ru', 'support@skytecgames.ru']}
+{'com.runonetworks.correysevaenlinea': ['Lotería Mexicana Multijugador', '5745679362080067221', '500,000+', 'http://www.runonetworks.com', 'soporte@runonetworks.com']}
+{'com.fuzzymobilegames.spades.online': ['Spades Online', 'Fuzzy+Mobile+Games+Inc.', '50,000+', 'https://sites.google.com/site/fuzzymobilegamesbatak/spades-online', 'fuzzymobilegames.inc@gmail.com']}
+{'com.hyilmaz.hearts': ['Hearts', 'Fuzzy+Mobile+Games', '500,000+', 'https://sites.google.com/site/fuzzymobilegamesbatak/hearts', 'fuzzymobilegames@gmail.com']}
+{'com.gameduell.gin.rummy.card.game': ['Grand Gin Rummy 2: The classic Gin Rummy Card Game', '7936592673408969848', '10,000+', 'http://www.grandginrummy.com/', 'android@grandginrummy.com']}
+{'com.trivialtechnology.GinRummy': ['Gin Rummy', '5000924930502885531', '100,000+', 'http://www.northskygames.com', 'support@northskygames.com']}
+{'com.global.poker': ['Global Poker', 'App+master', '50,000+', 'http://www.globalpokerpro.com', 'phenomenalappsltd@gmail.com']}
+{'com.sozeray.yirmibir': ['BlackJack!', '6994237474336929510', '1,000,000+', 'http://www.filgames.com/', 'support@filgames.com']}
+{'ono.friends.free.card.game': ['Ono', 'The+Card+and+Board+Game+Company', '10,000+', None, 'royalboardgames@gmail.com']}
+{'com.yoozoogames.rummygamesunnyleone': ['Rummy with Sunny Leone: Online Indian Rummy Game', '6365129696809078934', '100,000+', 'https://www.gtarcade.com/en/privacy.html', 'support.rws@yoozoo.com']}
+{'air.com.kosmos.solitairedash': ['TriPeaks Solitaire Adventure', 'Playkot+LTD', '100,000+', 'http://playkot.com', 'support@kosmos.games']}
+{'bid.whist': ['Bid Whist - Classic', 'Paris+Pinkney', '100,000+', 'http://ppicapps.com/', 'ppic7162@gmail.com']}
+{'com.cardgame.solitaire.full': ['Solitaire: Super Challenges', 'Queens+Solitaire+Games', '1,000,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'com.sagafun.vegasslots': ['Vegas Slots 2018:Free Jackpot Casino Slot Machines', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '100,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'com.KonsoleKingz.BlackSpades': ['Black Spades', '8485229921975240706', '50,000+', 'http://www.blackspadesgame.com', 'black@blackspadesgame.com']}
+{'com.com2us.soccerspirits.normal2.freefull.google.global.android.common': ['Soccer Spirits', '6850516909323484758', '1,000,000+', 'http://www.withhive.com', 'info@com2us.com']}
+{'com.neuralplay.android.pitch': ['Pitch by NeuralPlay', '9005321416889909394', '10,000+', 'http://www.neuralplay.com', 'support@neuralplay.com']}
+{'com.bitmango.go.klondikesolitairekingdom': ['Klondike Solitaire: Kingdom', 'XLsoft', '100,000+', 'https://www.facebook.com/XLsoft-Corp-162281857446669/', 'contact@xlsoft.co.kr']}
+{'com.cardgame.classic.solitaire': ['Classic Solitaire Journey', 'Solitaire+Fun', '10,000+', 'https://sites.google.com/site/privacypolicyofsolitaire/', 'support@solitairegames.freshdesk.com']}
+{'com.ITEC.MonstarSolitaire': ['Solitaire Monstars', 'ITEC+Game+Studios', '50,000+', 'http://www.itecgames.com', 'support@itecgames.com']}
+{'com.forsbit.spider': ['Spider Solitaire Classic', 'Forsbit+LLC', '100,000+', 'http://www.forsbit.com', 'support@forsbit.com']}
+{'org.faudroids.werewolf': ['Werewolf', 'Philipp+Eichhorn', '1,000,000+', 'https://legal.werewolf-apps.com/privacy-policy.html', 'werewolf@bitdroid.de']}
+{'jp.co.siliconstudio.ageofishtaria': ['Age of Ishtaria - A.Battle RPG', 'PARADE+game', '1,000,000+', 'https://mynet.co.jp/english/', 'customer-support@en-account.ishtariacg.com']}
+{'com.card.games.solitaire': ['Solitaire Classic', 'Card+Games,+HHS+Daily', '10,000+', 'http://hhsdaily.azurewebsites.net/', 'google@caelumart.com']}
+{'com.joy.game.klondike': ['Solitaire', 'Word+Connect+Games', '100,000+', 'http://joygame.site/support/joygames/solitaire/policy.html', 'joygamellc@gmail.com']}
+{'com.cardgame.solitaire.ocean': ['Solitaire: Ocean Blue', 'Queens+Solitaire+Games', '100,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'com.superluckycasino.getrich.slots.vegas.android.free': ['Get Rich Slot Machines Casino with Bonus Games', '7531380661925692871', '500,000+', 'http://superluckycasino.com', 'support@12gigs.com']}
+{'com.fiogonia.solitaire': ['Solitaire Card Game Classic', 'FIOGONIA+LIMITED', '100,000+', 'http://fiogonia.com/support/', 'contact@fiogonia.com']}
+{'com.sngict.Hearts': ['Hearts - Offline Free Card Games', '5890018970979485285', '10,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.ginrummymultiplayer': ['Gin Rummy Multiplayer', '5190115240305349702', '500,000+', 'http://mobile.artoonsolutions.com', 'info@gamewithpals.com']}
+{'com.concretesoftware.spades_demobuynow': ['Aces® Spades', '4745945509034989253', '1,000,000+', 'http://www.concretesoftware.com', 'support@concretesoftware.com']}
+{'com.Queix.ConquianSP': ['Conquian SP', 'Queix+Games', '500,000+', 'http://www.queixgames.com', 'queix@queixgames.com']}
+{'com.netsuridqhstudio.spidersolitaire': ['Classic Spider Solitaire', 'Netsuridqhstudio', '500,000+', 'https://docs.google.com/document/d/1uaCgI2RDSCdnVCYr06HB_wJF7FUBkqOKMC6Um9WGqSU/edit?usp=sharing', 'netsuri.studio.dqh@gmail.com']}
+{'com.superluckycasino.classic.slots.android.free': ['Slots Classic: Free Classic Casino Slot Machines!', '6833765329689499967', '100,000+', 'http://www.superluckycasino.com', 'support@12gigs.com']}
+{'com.tljtek.casino': ['25-in-1 Casino', 'MediaLab+Entertainment', '1,000,000+', 'http://wis.pr/privacy', 'info@media-lab.ai']}
+{'tw.com.bonuswinner.solitaire.academy': ['Solitaire Academy', 'Bonus+Winner+Online+Entertainment+Co.+Ltd.', '10,000+', 'http://www.solitaireacademy.com/', 'Service@solitaireacademy.com']}
+{'net.undercards.undercards': ['Undercards', 'Onutrem', '100,000+', 'https://undercards.net', 'undercardsgame@gmail.com']}
+{'com.cardgame.klondike.solitaire.classic.freecell.basic': ['Solitaire - Klondike Solitaire Free Card Games', 'Fantasy+Word+Games', '10,000+', 'http://52.52.138.46/support/fantasyword/wordcross/policy.html', 'taolin1806@gmail.com']}
+{'com.nora.DuneWarrior': ['Dune Warrior', '8519993748240769697', '50,000+', 'https://www.facebook.com/noraentcom/', 'innovation@noraent.com']}
+{'com.games24x7.ultimaterummy.playstore': ['Ultimate RummyCircle - Play Rummy', '7162702525712431458', '5,000,000+', 'http://www.ultimategames.in', 'support@ultimaterummy.in']}
+{'com.kakha13.neverhaveiever': ['Never Have I Ever', '8856764946901880944', '500,000+', 'http://www.any.ge', 'kakhagiorgashvili@gmail.com']}
+{'com.Qublix.SolitaireTales': ['Solitaire Tales', '8810793461269970613', '1,000,000+', 'http://www.qublix.com', 'help.solitairetales@gmail.com']}
+{'com.northskygames.Canasta': ['Canasta', '5000924930502885531', '100,000+', 'http://www.northskygames.com/support/', 'admin@northskygames.com']}
+{'solitaire.free.freecell.pyramid.solitaire.classic': ['Pyramid Solitaire', 'Poker+Power', '100,000+', 'https://sites.google.com/site/sportstopgameprivacypolicy/home?pli=1', 'sportstopgame@hotmail.com']}
+{'glowingeye.magic_towers_solitaire': ['Magic Towers Solitaire - Tri Peaks', '5374158933235068227', '10,000+', 'http://www.glowingeyegames.com', 'support@glowingeyegames.com']}
+{'hu.appcoder.solitaire': ['Solitaire', 'AppCoder+Studio', '5,000,000+', 'http://www.appcoder.hu', 'contact@appcoder.hu']}
+{'com.neuralplay.android.pinochle': ['Pinochle by NeuralPlay', '9005321416889909394', '1,000+', 'http://www.neuralplay.com', 'support@neuralplay.com']}
+{'com.net4uonline.tonk': ['Tonk - Free Top Multiplayer Rummy Game', 'Net4Uonline+Pvt.+Ltd.', '100,000+', 'http://www.teshwa.com', 'support@net4uonline.com']}
+{'com.rainbowgames.solitaire2018': ['Magic Solitaire TriPeaks Cards Adventure', 'Victor+Nikulin', '10,000+', 'http://rainbow-games.com/', 'support@rainbow-games.com']}
+{'com.zimbronapps.barajaloteria': ['Baraja de Lotería Mexicana', 'ZimbronApps.com', '100,000+', 'http://zimbronapps.com', 'gustavo@zimbronapps.com']}
+{'com.pvella.poker': ['Five Card Draw Poker - Free', '8218130893574223407', '100,000+', 'https://psgamesonline.com/', 'pvella@gmail.com']}
+{'free.card.game.solitairee': ['Solitaire Tripeaks - Free Card Games', 'iJoyGame', '50,000+', 'https://appprivacy.oss-us-east-1.aliyuncs.com/AppPrivacy.txt', 'smartwong2015@gmail.com']}
+{'com.joyo.classicsolitaire': ['Solitaire 2019', 'Joyo+Casual+Games', '100,000+', 'http://www.mobilityware.com/privacy-policy.php', 'solitaire2019@gmail.com']}
+{'com.loveqgame.spider': ['Classic - Spider Solitaire', 'YYF+Games', '500,000+', 'http://androidgamestore.net/PrivacyPolicy.html', 'jinghongns@yeah.net']}
+{'com.newsparkgame.deuceswild3': ['Deuces Wild - Video Poker', '8957107062136112050', '10,000+', 'https://www.facebook.com/videopoker.deuceswild/', 'newsparkgame@gmail.com']}
+{'com.makingfun.ironbound': ['Ironbound', '4970433715119406208', '100,000+', 'http://www.makingfun.com', 'help+ironbound@makingfun.com']}
+{'tripeaks.solitaire.freecell.tripeaks.free': ['Tripeaks', 'Magic+Puzzle', '100,000+', 'https://sites.google.com/site/magicpuzzlesprivacypolicy/', 'magic_puzzles@hotmail.com']}
+{'com.starrealms.starrealmsapp': ['Star Realms', 'White+Wizard+Games', '100,000+', 'http://www.starrealms.com/', 'support@starrealms.com']}
+{'com.freegames.solitaire': ['Solitaire 2019', 'Z+Games+Tube', '50,000+', 'http://www.pinkpointer.com/privacy.html', 'rukaqaqaqa@gmail.com']}
+{'com.uplayonline.mytubi': ['My Tubi', '4879986113139967562', '1,000,000+', 'http://www.uplayonline.com', 'mytubi@uplayonline.com']}
+{'com.slots.cardgames.spidersolitaire': ['Spider Solitaire', 'Card+Games+2018', '500,000+', 'http://www.mobilityware.com/privacy-policy.php', 'skyfall04122017@gmail.com']}
+{'com.zingmagic.bridgevfree': ['Bridge V+, 2019 Edition', 'ZingMagic+Limited', '1,000,000+', 'http://www.zingmagic.com', 'support@zingmagic.com']}
+{'com.Phase.Play.Friends.PhasePlayYourFriends': ['Phase 10 - Play Your Friends!', 'JKMonoly', '5,000+', 'http://jkmonolypolicy.000webhostapp.com/', 'phanthirakaewboonrg@gmail.com']}
+{'com.bandoy.tongitsXtreme': ['TongitsXtreme', 'Sea+Ace', '1,000,000+', 'https://tongitsxtreme.wordpress.com/', 'cbballa@gmail.com']}
+{'com.sngict.freecell': ['FreeCell - Offline Free Solitaire Games', '5890018970979485285', '10,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.playtrex.wildpoker': ['Wild Poker: Floyd Mayweather Texas Holdem Game', 'Hero+Digital+Entertainment,+Inc.', '50,000+', 'http://www.playtrex.com', 'support@playtrex.com']}
+{'com.zolsapps.cassino': ['Cassino Card Game', 'Zol%27s+Apps', '50,000+', 'http://www.zolsapps.com', 'info@zolsapps.com']}
+{'com.queensgame.tripeaks': ['Tripeaks Solitaire', 'Queens+Solitaire+Games', '100,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'com.intentsoftware.crazyeights.lite': ['Crazy Eights free card game', '8633276600546047418', '1,000,000+', 'https://www.lite.games', 'support@lite.games']}
+{'com.st.classiccard.solitaire': ['Solitaire - Beautiful Girl Themes, Funny Card Game', 'ST+CARD+GAME', '1,000,000+', 'https://www.facebook.com/SolitaireClassicCard', 'idevusers@gmail.com']}
+{'com.artoon.spades': ['Spades Multiplayer', '5190115240305349702', '100,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'com.artoon.tonkoffline': ['Tonk – Rummy Card Game', '5190115240305349702', '100,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'com.donutman.paigowpoker.free': ['Pai Gow Poker (Free)', 'Donutman+Software', '100,000+', 'http://www.donutmansoftware.com', 'donutman@donutmansoftware.com']}
+{'com.artoon.SpadesOffline': ['Spades - Play Card Game', '5190115240305349702', '50,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'co.rvsoftware.yugi_prices': ['Yugiprices [Yugioh cards prices]', 'RV+Software', '10,000+', 'http://ismaelcastro.esy.es/', 'isumakun@gmail.com']}
+{'net.joygames.chinamj': ['Chinese Mahjong', '8765522468025899509', '100,000+', 'http://a.joygames.net', 'joygames888@gmail.com']}
+{'com.avabyte.solitairefree': ['Solitaire', 'AvaByte', '10,000+', 'http://avabyte.com/apps-privacy.html', 'avabytemedia@gmail.com']}
+{'com.mobirix.classicsolitaire': ['Solitaire: Hall of Klondike', '4864673505117639552', '100,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.suppgroup.blackjack': ['BlackJack 21 Free Card Offline', '5598470257480868046', '10,000+', 'https://www.facebook.com/SuppGroup/', 'suppgroups@gmail.com']}
+{'com.zimad.magicsolitairecollection': ['Magic Solitaire Collection', '6861988240512426856', '100,000+', 'https://zimad.com/', 'support@zimad.com']}
+{'com.gg1.pyramid.solitaire': ['Pyramid Solitaire - Card Games', '8004539186657978066', '50,000+', 'http://guidegame.net', 'nguyentantai1811@gmail.com']}
+{'com.murka.scatterholdem': ['Scatter HoldEm Poker - Texas Holdem Online Poker', '5941908837406018479', '500,000+', 'http://murka.com', 'support@murka.mail.helpshift.com']}
+{'com.bingo.games.ukbingo.offline': ['Bingo: Classic Offline BINGO', '9122699904042586564', '10,000+', 'https://www.facebook.com/UK-Bingo90-Ball-Offline-Bingo-176309736416423/', 'ukbingo.service@gmail.com']}
+{'air.com.youdagames.learnpoker': ['Learn Poker - How to Play', '7639378078513286726', '500,000+', 'http://www.youdagames.com', 'support@youdagames.com']}
+{'com.velisapps.solitaire.android': ['Solitaire', 'Velis+Apps', '1,000+', 'http://velisapps.com/', 'velisapps@velismedia.com']}
+{'com.fancypotatostudio.solitaire': ['Solitaire Country Tours', 'Potato+Studio+Co.,Ltd', '1,000+', 'https://docs.google.com/document/d/1VNXADGErlCxrVgK8goIje1x2nZ1LYCpJD9cswcS1RCg/edit?usp=sharing', 'tambinh352268@gmail.com']}
+{'air.com.murka.poker': ['TX Poker - Texas Holdem Poker', '5941908837406018479', '500,000+', 'http://support.murka.com', 'support@murka.mail.helpshift.com']}
+{'com.smilerlee.solitaire': ['Solitaire Classic Collection', 'Candy+Mobile', '10,000,000+', 'http://www.candy-mobile.com', 'contact@candy-mobile.com']}
+{'com.wildslots.wildlootslots': ['Big Win Slots:Wild Loot Free offline Casino games', 'Wild+Loot+-+Free+BIG+Win+Slot+machine+Casino+Games', '100,000+', 'http://777loot.com/', 'wildloots@gmail.com']}
+{'eu.ganymede.pokerhd': ['Poker Texas Holdem Live Pro', '5436821140300332202', '1,000,000+', 'http://company.gamedesire.com/', 'mobile@ganymede.eu']}
+{'com.gamesbypost.cribbagepegboard': ['Cribbage Pegboard', 'Games+By+Post', '10,000+', 'http://www.gamesbypost.com', 'cribbageclassic@gmail.com']}
+{'com.huuuge.solitaire': ['Solitaire', '8024798716054605949', '50,000+', 'http://www.huuugegames.com/', 'support@huuugegames.com']}
+{'com.bitmango.solitaireclassicklondike': ['Solitaire Classic: Klondike', '6249013288401661340', '1,000,000+', 'https://www.facebook.com/bitmangogames', 'help@bitmango.com']}
+{'com.playdekgames.android.Ascension': ['Ascension', '7959316599581723037', '100,000+', 'https://asmodee.helpshift.com/a/ascension/', 'support@asmodee.net']}
+{'com.gianlu.pretendyourexyzzy': ["Client for Pretend You're Xyzzy (open source)", '8675761046824387020', '50,000+', 'https://gianlu.xyz', 'altomanigianluca@gmail.com']}
+{'com.gameduell.gin': ['Grand Gin Rummy: Classic card game Gin Rummy', '7936592673408969848', '500,000+', 'http://www.grandginrummy.com/', 'android@grandginrummy.com']}
+{'com.karmangames.spider': ['Spider', 'KARMAN+Games', '1,000,000+', 'http://karmangames.com/solitaire-policy.html', 'spadeshelp@gmail.com']}
+{'com.techguydev.fiftydatequestions': ['50 First Date Questions', 'TechGuyDev', '10,000+', 'https://www.youtubetechguy.com/', '50datequestions@gmail.com']}
+{'com.randomsaladgames.ginrummydeluxe': ['Gin Rummy Deluxe', '7781541777053893917', '100,000+', 'http://randomsaladgames.com', 'support@randomsaladgames.com']}
+{'com.anoshenko.android.fav_solitaires': ['Favorite Solitaires', 'Alexei+Anoshenko', '5,000,000+', 'http://alxanosoft.com', 'anoshenko@gmail.com']}
+{'com.dn.games.dtcpoker': ['Downtown Casino Poker Leagues - Texas Holdem Poker', '6268808053666203087', '100,000+', 'http://www.dtcpoker.mobi/', 'dev@dtcpoker.mobi']}
+{'eu.ganymede.omahahd': ['Poker Omaha', '5436821140300332202', '100,000+', 'http://gamedesire.com/', 'play@gamedesire.com']}
+{'com.wulven.shadowera': ['Shadow Era - Trading Card Game', 'Wulven+Game+Studios', '1,000,000+', 'http://www.shadowera.com', 'support@shadowera.com']}
+{'mmateoa.loteria': ['Mexican Bingo', 'Coconuts+Apps', '50,000+', None, 'coconutsapps@gmail.com']}
+{'com.stickyhands.cookingtown': ['Solitaire : Cooking Tower', '6178218153041164662', '500,000+', 'http://www.stickyhands.kr', 'dev@stickyhands.kr']}
+{'com.queensgame.solitaire.dailyChallenge': ['Solitaire: Daily Challenges', 'Queens+Solitaire+Games', '100,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'thequeensgame@gmail.com']}
+{'com.bazooka.solitaireclassic': ['Solitaire Classic', '5060840925611644631', '1,000,000+', 'https://bazookastudio.wordpress.com/', 'zanytro@gmail.com']}
+{'com.tesseractmobile.ginrummy': ['Gin Rummy', '6534348997123710607', '5,000,000+', 'http://www.tesseractmobile.com', 'support@tesseractmobile.com']}
+{'com.DBLAJMASoftware.TrashCardGame': ['Trash Card Game', 'dblajma+Software', '1,000+', 'http://www.linwoodsoftwaredevelopementllc.com', 'dblajma@gmail.com']}
+{'de.spielepalast.rummypalace': ['Rummy (Free, no Ads)', '5425851731630649862', '500,000+', 'https://www.romme-palast.de/', 'support@romme-palast.de']}
+{'com.gameswipe.loteriaoriginal': ['Loteria Original', 'GameSwipe', '50,000+', 'http://www.gameswipe.com', 'gameswipe@outlook.com']}
+{'air.com.dg.obg.solitaire.quest.atlantis.adventure.story': ['Solitaire Titan Adventure – Lost City of Atlantis', 'Beautiful+Free+Solitaire+Games+by+Difference+Games', '10,000+', 'http://www.differencegames.com', 'solitaire@differencegames.com']}
+{'com.tbegames.and.poker_games_texas': ['Poker Online: Texas Holdem & Casino Card Games', '8473203491921584386', '100,000+', 'http://t-bull.com', 'thunderbullgames@gmail.com']}
+{'com.gazeus.canasta': ['Canasta Free', 'Gazeus+Games', '100,000+', 'http://www.gazeus.com/pt/', 'canasta.android@gazeus.com']}
+{'com.softick.android.solitaire.klondike': ['Solitaire', '9144907755440817486', '10,000,000+', 'http://www.softick.com/', 'support@softick.com']}
+{'cards.gin.rummy': ['Gin Rummy Free', '4725615955378054830', '5,000+', 'http://www.droidveda.com', 'droidvedallp@gmail.com']}
+{'com.artoon.bidwhistoffline': ['Bid Whist - Free Card Game', '5190115240305349702', '10,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'com.mojisticker.uno': ['Four Colors Uno', '7272111502547896606', '10,000+', 'http://mojisticker.com', 'info@mojisticker.com']}
+{'com.funtap.tripeaks': ['TriPeaks Solitaire', 'Fun+Tap+Apps', '100,000+', 'http://www.funtapapps.com/', 'support@funtapapps.com']}
+{'com.pokerfighter': ['Poker Fighter - Free Poker Trainer', 'Mindful+Games+Ltd', '10,000+', 'https://www.poker-fighter.com', 'admin@poker-fighter.com']}
+{'com.superexpert.solitairecollection': ['Solitaire - Card Collection', 'SUPER+EXPERT', '10,000+', 'http://www.game520.com/', 'superexpert.ph@gmail.com']}
+{'com.artoon.spiteandmalice': ['Spite & Malice', '5190115240305349702', '10,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'com.frvr.solitaire': ['Solitaire FRVR - Big Cards Classic Klondike Game', '7154795790738196544', '50,000+', 'http://frvr.com', 'info@frvr.com']}
+{'com.sxx.solitaire': ['Solitaire Classic Offline', 'Coconut+Game+Entertainment', '10,000+', 'http://www.coconuttec.com', 'dev@coconuttec.com']}
+{'com.crazygames.spider': ['Spider Solitaire Pro', 'Crazy+Game+Developer', '500,000+', 'https://raw.githubusercontent.com/crazygame2416/PrivacyPolicy-/master/README.md', 'crazygame.dever@gmail.com']}
+{'com.joshsgames.cutthroat': ['Cutthroat Pinochle', 'JoshsGames.com', '10,000+', 'http://joshsgames.com', 'joshsgames@gmail.com']}
+{'com.rnftechs.videopokerfull.activities': ['Video Poker - Original Games!', '5330847307573001886', '100,000+', 'http://phonato.com', 'contact@phonato.com']}
+{'com.SNG.BidWhist': ['Bid Whist - Offline', '5890018970979485285', '10,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.hipanda.solitaire.theme.tiger': ['Solitaire Tiger Theme', 'HiCard', '10,000+', 'https://sites.google.com/site/wnprivacypolicy/', 'WarrenNorman84@gmail.com']}
+{'com.solitaire.collection.free': ['Solitaire Collection 2019 : Daily Challenge', '7009198853434431624', '100,000+', 'https://docs.google.com/document/d/e/2PACX-1vRRSHj3M-lHYg7AB1yEGhkAlm65-BYjo-c0vMH_pG8SL6vGwV-qiQ5MfSvPberE_Pu18i3KJb1B0sD7/pub', 'supergamebestgo@gmail.com']}
+{'air.com.pozirk.allinonesolitaire.old': ['All-in-One Solitaire OLD', '7712582785598064684', '1,000+', 'https://m.pozirk.com/', 'android@pozirk.com']}
+{'pbsofworks.skido2': ['Skido 2: Spite & Malice', 'PB+Softworks', '100,000+', 'https://burlov.de/privacy-policy-en.html', 'pbsoftworks@burlov.de']}
+{'com.supertata.freecellsolitaire': ['Freecell Solitaire :Card Games', 'Supertata', '100,000+', 'https://docs.google.com/document/d/10hNuR3n13O9ubU75s_UXgG86cBxx9EwnRQMHmesNdsU/edit?usp=sharing', 'ngoctrinh991991@gmail.com']}
+{'com.cardcastgame.android.app': ['Cardcast', 'Cardcast,+LLC', '100,000+', 'http://www.cardcastgame.com', 'contact@cardcastgame.com']}
+{'com.gsoftteam.spidersolitairemobile': ['Spider Solitaire Mobile', '6775832922103090311', '1,000,000+', 'http://www.gsoftteam.com', 'support@gsoftteam.com']}
+{'com.korsour.solitaire': ['Classic Solitaire - Without Ads', '5390149690590056423', '100+', 'http://t.me/korsour', 'korsour@gmail.com']}
+{'com.avabyte.pyramidclassic': ['Pyramid Card Game (Classic)', 'AvaByte', '100+', 'http://avabyte.com/apps-privacy.html', 'avabytemedia@gmail.com']}
+{'cooking.chef.solitaire.tripeaks': ['Cooking Solitaire', 'pan+sudoku+solitaire', '100,000+', 'http://www.gdmz.org/privacy/ppp/pyppp.txt', 'panshengweihk@163.com']}
+{'com.InfoCom.TripeaksSolitaire': ['TriPeaks Solitaire', '6594978785031145359', '50,000+', 'http://www.infocomsoftware.com', 'arun@infocomsoft.com']}
+{'com.twopersonstudio.games.spit': ['Spit !  Speed ! Card Game Free', '2-Person+Studio', '100,000+', 'https://spit-993c4.firebaseapp.com/privacy-policy.html', '2personstudio@gmail.com']}
+{'com.phonato.deuceswild.activities': ['Deuces Wild - Video Poker', '5330847307573001886', '100,000+', 'http://phonato.com', 'contact@phonato.com']}
+{'com.WIPGames.FusionMasters': ['Fusion Masters', '6384770293240231428', '100,000+', 'https://www.facebook.com/WIPGameStudios', 'wipgamestudios@gmail.com']}
+{'com.games.ginextra': ['Gin Rummy Extra - GinRummy Plus Classic Card Games', 'AIM+Inc', '10,000+', 'http://aim.myftp.org', 'aim.qa.jsc@gmail.com']}
+{'com.forsbit.klondike': ['Solitaire Klondike classic.', 'Forsbit+LLC', '500,000+', 'http://www.forsbit.com', 'support@forsbit.com']}
+{'com.sg.js.Spider': ['Spider Solitaire', 'GASP', '1,000,000+', 'http://www.gaspmobilegames.com/?Spider', 'gstolarov@gmail.com']}
+{'ippok.simplepoker': ['Simple Poker', 'Ippok+Apps', '500,000+', None, 'ippokapps@yandex.com']}
+{'com.whyphy.spades': ['Spades King : Free Spade Card Game', 'Whyphy+Games', '10,000+', 'http://whyphygames.blogspot.in/2018/03/privacy-and-policy.html', 'games.whyphy@gmail.com']}
+{'com.ljx.solitaire.tripeaks': ['Solitaire TriPeaks', 'Solitaire+TriPeaks+Lab', '100,000+', 'http://imei.mdc.akamaized.net/18_Privacy.html', 'blueflames.lau@gmail.com']}
+{'air.com.bridgebase.BridgeBase': ['Bridge Base Online', 'Bridge+Base+Online,+Ltd.', '100,000+', 'http://www.bridgebase.com', 'support@bridgebase.com']}
+{'com.eryodsoft.android.cards.president.lite': ['President - Card Game - Free', '7071430644205651346', '1,000,000+', 'http://www.eryodsoft.com/LePresident', 'support.president@eryodsoft.com']}
+{'com.silvercrk.euchre_free': ['Euchre', '8403078360560227983', '50,000+', 'http://www.hardwoodeuchre.com', 'support@silvercrk.com']}
+{'com.mobirix.Solitaire': ['Solitaire King', '4864673505117639552', '1,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.mitamagames.otogiprod': ['Otogi: Spirit Agents', 'Mitama+Games+HONGKONG+Limited', '500,000+', 'https://mitamagames.helpshift.com', 'support@mitamagames.mail.helpshift.com']}
+{'com.silvergatedriveway.dominoes': ['Dominoes Classic Offline', 'Silver+Gate+Driveway', '10,000+', 'https://docs.google.com/document/d/1eSisMr3rOM_icYn3IyxBXJm7SQ3CkbPUQgKGZ61UBw0/edit?usp=sharing', 'dianninasoffa@gmail.com']}
+{'com.BS_Pias.twentynine': ['29 Card Game', 'Knight%27s+Cave', '1,000,000+', 'http://knightscave1.wix.com/knightscave', 'piascse10@gmail.com']}
+{'com.neuralplay.android.bidwhist': ['Bid Whist by NeuralPlay', '9005321416889909394', '50,000+', 'http://www.neuralplay.com', 'support@neuralplay.com']}
+{'net.aharm.fourby21': ['Four By 21', 'Words+and+Maps', '10,000+', 'http://aharm.net/WordsAndMapsPrivacyPolicy.html', 'aharmdroid@gmail.com']}
+{'com.geaxgame.pokerkingvip': ['Poker KinG VIP-Texas Holdem', 'geaxgame', '500,000+', 'https://oldvegasapi.myslots.us/windowpokerweb/GG_PrivacyPolicy.html', 'support@wayger.zendesk.com']}
+{'com.artoon.bidwhist': ['Bid Whist: Free Trick Taking Multiplayer Card Game', '5190115240305349702', '10,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'jp.co.applibot.legend.android': ['Legend of the Cryptids (Dragon/Card Game)', 'PARADE+game', '1,000,000+', 'http://mynet.co.jp/english/', 'ad_legend_support@mynet.co.jp']}
+{'com.hipanda.solitaire.theme.mountaintop': ['Solitaire Mountain Top Theme', 'HiColor', '10,000+', 'https://sites.google.com/site/hcprivacypolicy/', 'born2play002@gmail.com']}
+{'com.boundless.jawaker': ['Jawaker Trix, Tarneeb, Baloot & More', 'Jawaker', '1,000,000+', 'https://www.jawaker.com', 'customer.care@jawaker.com']}
+{'com.gosub60.solfree2': ['Solitaire Deluxe® - 16 Pack', 'Mobile+Deluxe', '1,000,000+', 'http://www.mobiledeluxe.com', 'customercare@mobiledeluxe.com']}
+{'com.trickstercards.www': ['Trickster Cards', 'Trickster+Cards,+Inc.', '10,000+', 'https://www.trickstercards.com/', 'support@trickstercards.com']}
+{'com.artoon.bluffoffline': ['Bluff', '5190115240305349702', '10,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'com.jamcity.solitairejam': ['Solitaire Jam - Classic Free Solitaire Card Game', '5509190841173705883', '500,000+', 'http://www.jamcity.com', 'support@solitairejam.zendesk.com']}
+{'com.bestjokeapps.dragoneggcracker': ['Dragon Egg Cracker', 'BestJokeApps', '10,000+', 'https://www.facebook.com/Dragon-Tamago-Egg-412246439137446/', 'bestjokeapps@gmail.com']}
+{'com.geaxgame.pokerking': ['Poker KinG Online-Texas Holdem', 'geaxgame', '1,000,000+', 'https://oldvegasapi.myslots.us/windowpokerweb/GG_PrivacyPolicy.html', 'support@wayger.zendesk.com']}
+{'org.intoorbit.solitaire': ['Solitaire Collection', 'Carl+Reinke', '100,000+', 'https://plus.google.com/communities/102049880955894591106', 'android@intoorbit.org']}
+{'com.concretesoftware.cribbage': ['Aces® Cribbage', '4745945509034989253', '100,000+', 'http://www.concretesoftware.com', 'support@concretesoftware.com']}
+{'air.vg.pyramid': ['PYRAMID SOLITAIRE card game', '9067900440196140337', '1,000,000+', 'http://www.vascogames.com', 'support@vascogames.com']}
+{'com.happymobile.solitaire': ['Solitaire Classic (Ads Free)', '5443428148215297159', '1,000+', 'https://happylifemobile.github.io/policy', 'man1218studio@gmail.com']}
+{'com.runonetworks.correysevatablas': ['Tablas de Lotería Mexicana', '5745679362080067221', '100,000+', 'https://runonetworks.com/', 'ceo@runonetworks.com']}
+{'com.poesysoul.mahjong13tiles_anzhuo': ['mahjong 13 tiles', 'poesy+soul', '50,000+', None, 'mahjong13tiles@126.com']}
+{'com.hearts.card.game.free': ['Hearts Card Game FREE', '9206301163382124749', '50,000+', 'https://docs.google.com/document/d/1TTwrpf-bqdUrJQLdEKtm35Q9JJACSqMbnnj8PJigh7g/edit?usp=sharing', 'breakout.am@gmail.com']}
+{'com.turner.monstersatemymetropolis': ['Monsters Ate My Metropolis', '%5Badult+swim%5D+games', '100,000+', 'http://adultswim.com', 'adultswimdotcom@gmail.com']}
+{'com.something.ismail.cardjitsu': ['Card-Jitsu', 'Themoddermods', '10,000+', 'https://www.facebook.com/CardJitsuApp/?modal=admin_todo_tour', 'Themoddermods@gmail.com']}
+{'com.un.eltripeaks': ['TriPeaks Solitaire Free*', 'Z+Apps+Studio', '50,000+', 'http://xpgameplus.com', 'raymond.li.un@gmail.com']}
+{'glowingeye.golf_solitaire_pro': ['Golf Solitaire Pro', '5374158933235068227', '10,000+', 'http://www.glowingeyegames.com', 'support@glowingeyegames.com']}
+{'com.Solitaire.Card.Games.Free': ['Solitaire Card Games', 'Wush+Solitaire', '100,000+', 'https://www.dropbox.com/s/mgk5l926e4qmn2v/WushSolitaire.txt?dl=0', 'wushnakljona@gmail.com']}
+{'com.hipanda.solitaire.theme.playfuldog': ['Solitaire Playful Dog Theme', 'LancelotGame', '10,000+', 'https://sites.google.com/site/lgprivacypolicy/', 'BikingNick84@gmail.com']}
+{'com.teslagames.littletittle': ['Little Tittle — Pyramid solitaire card game', '7185759132943310350', '100,000+', 'http://teslagames.net/', 'support@teslagames.net']}
+{'com.cook.cookingcafe': ['Cooking Games - Fast Food Fever & Restaurant Chef', 'Cooking+Games+for+Girls+%26+Chef+Restaurant+Games', '100,000+', 'http://www.modulesden.com/content/6-game-privacy-policy', 'bimbismarinarunew@gmail.com']}
+{'com.recax.mjclub': ['Hong Kong Mahjong Club', 'Recax+Game', '1,000,000+', 'http://www.recax.com', 'mjclub@recax.com']}
+{'com.kamagames.omahapoker': ['Omaha & Texas Holdem Poker: Pokerist', '6179794243705556952', '10,000+', 'http://kamagames.com', 'support@kamagames.com']}
+{'org.cocos2d.ginrummygocom': ['Gin Rummy', 'Didoo+Games+Co.%EF%BC%8C+limited', '5,000+', 'http://www.51rummy.com/tpl/policy.html', 'eternaybaby@gmail.com']}
+{'com.winrgames.pyramid': ['Pyramid Solitaire - Make Money Free', 'WINR+Games+Inc', '50,000+', 'http://www.winrgames.com', 'contactus@winrgames.com']}
+{'com.dg.oceanbreezegames.solitaire.elvenwoods': ['Hidden Solitaire Elven Woods - Free Card Game', '8738231386379978787', '100,000+', 'http://www.differencegames.com', 'info@differencegames.com']}
+{'com.hipanda.solitaire.theme.Cherryblossoms': ['Solitaire Pink Blossom Theme', 'HiColor', '10,000+', 'https://sites.google.com/site/hcprivacypolicy/', 'born2play002@gmail.com']}
+{'co.singta.sidstory': ['Sid Story', 'Singta+Inc.', '500,000+', 'https://www.facebook.com/mslussid', 'ss-us-support@singta.co']}
+{'com.ember.bingocatsSD': ['Bingo Cats', 'Ember+Entertainment', '500,000+', 'http://ember-entertainment.com', 'contact@ember-entertainment.com']}
+{'com.ts.pyramid': ['Pyramid Solitaire', 'Tidda+Games', '1,000+', 'http://www.tiddagames.com', 'support@tiddagames.com']}
+{'com.trumpgamestudio.game': ['Solitaire Classic:Daily Challenges & Tournament', 'trump+game+studio', '100,000+', None, 'ruby.lorara@gmail.com']}
+{'com.tesseractmobile.speedcard': ['Speed Card Free', '6534348997123710607', '1,000,000+', 'http://www.tesseractmobile.com/speed_card.html', 'support@tesseractmobile.com']}
+{'com.sagafun.slotswild': ['Slots Wild Casino Slot Machine', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '50,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'com.hipanda.solitaire.theme.sunnybeach': ['Solitaire Sunny Beach Theme', 'HiCard', '10,000+', 'https://sites.google.com/site/wnprivacypolicy/', 'WarrenNorman84@gmail.com']}
+{'com.gameloft.android.ANMP.GloftBTHM': ['Order & Chaos Duels', '6258770168633898802', '1,000,000+', 'http://www.gameloft.com/', 'android.support@gameloft.com']}
+{'com.klondike.solitaire': ['Classic Games - Solitaire Breakout Block', 'Solitaire+%E2%99%A0%EF%B8%8F', '5,000+', 'https://raw.githubusercontent.com/classicgame/games/master/license', 'k05466135@gmail.com']}
+{'com.casualon.games.klondikesolitaire': ['Solitaire', '7896272988751974486', '100,000+', 'http://www.redstonegames.mobi', 'helpdesk@redstonegames.mobi']}
+{'com.ironhead.spades': ['Spades', 'App+Holdings', '1,000,000+', 'http://appholdings.org/privacypolicy.html', 'purekryptonite1@gmail.com']}
+{'com.playtika.wsop.gp': ['World Series of Poker – WSOP Free Texas Holdem', '8370476508159322879', '10,000,000+', 'http://www.playtika.com', 'support@playwsop.com']}
+{'com.gsn.android.tripeaks': ['Solitaire TriPeaks: Play Free Solitaire Card Games', 'GSN+Games,+Inc.', '10,000,000+', 'https://solitairetripeaks.com/', 'solitairetripeakssupport@gsngames.com']}
+{'net.supertreat.solitaire': ['Solitaire - Grand Harvest', 'Supertreat', '1,000,000+', 'http://www.supertreat.net', 'sgh@supertreat.net']}
+{'jp.konami.duellinks': ['Yu-Gi-Oh! Duel Links', 'KONAMI', '10,000,000+', 'https://www.konami.com/games/jp/', 'ask-konami@faq.konami.com']}
+{'net.peakgames.mobile.spades.android': ['Spades Plus', '6690081412016968981', '5,000,000+', 'https://www.zynga.com', 'zyngaturkey-support@zynga.com']}
+{'com.king.pyramidsolitairesaga': ['Pyramid Solitaire Saga', '6577204690045492686', '10,000,000+', 'http://pyramidsolitairesaga.com/help/', 'pyramid.techhelp@king.com']}
+{'com.bigblueparrot.pokerfriends': ['Poker Heat™ - Free Texas Holdem Poker Games', '8370476508159322879', '5,000,000+', 'http://www.playpokerheat.com', 'Support@playpokerheat.com']}
+{'com.blizzard.wtcg.hearthstone': ['Hearthstone', '8636572569301896616', '10,000,000+', 'https://battle.net/support/games/hearthstone', 'support@blizzard.com']}
+{'net.peakgames.ginrummyplus': ['Gin Rummy Plus', '6690081412016968981', '5,000,000+', 'https://www.zynga.com', 'zyngaturkey-support@zynga.com']}
+{'com.bigfishgames.fairwaysolitaireuniversalf2pgoogle': ['Fairway Solitaire', '8355317828905497231', '5,000,000+', 'https://www.bigfishgames.com/daily/fairway-solitaire/', 'android.email@bigfishgames.com']}
+{'com.kamagames.pokerist': ['Texas Holdem & Omaha Poker: Pokerist', '6179794243705556952', '10,000,000+', 'http://kamagames.com', 'support@kamagames.com']}
+{'com.bbumgames.spadesroyale': ['Spades Royale - Card Game', '6496128650038483596', '500,000+', 'http://www.spadesroyale.com', 'admin@bbumgames.com']}
+{'com.cygames.Shadowverse': ['Shadowverse CCG', 'Cygames,+Inc.', '1,000,000+', 'https://shadowverse.com/', 'shadowverse_en_infogp@cygames.co.jp']}
+{'com.youdagames.gop3multiplayer': ['Governor of Poker 3 - Texas Holdem Casino Online', '7639378078513286726', '1,000,000+', 'http://www.governorofpoker.com', 'support@governorofpoker.com']}
+{'com.absolute.bingo': ['Bingo - Free Bingo Games', 'Absolute+Games+:+Free+Bingo+Games', '5,000,000+', 'http://www.absolutegames.com', 'support@absolutegames.com']}
+{'com.kamagames.blackjack': ['Blackjack 21: Blackjackist', '6179794243705556952', '5,000,000+', 'https://www.blackjackist.com/', 'support@kamagames.com']}
+{'com.igg.bzbee.deckheroes': ['Deck Heroes: Legacy', '8895734616362643252', '10,000,000+', 'http://www.igg.com', 'help.DeckHeroes@igg.com']}
+{'jp.co.siliconstudio.ageofishtaria': ['Age of Ishtaria - A.Battle RPG', 'PARADE+game', '1,000,000+', 'https://mynet.co.jp/english/', 'customer-support@en-account.ishtariacg.com']}
+{'com.bethsoft.theelderscrollslegends': ['The Elder Scrolls: Legends', 'Bethesda+Softworks+LLC', '1,000,000+', 'https://legends.bethesda.net/?locale=en', 'TESLhelp@mail.bethesda.net']}
+{'air.com.bigfishgames.fairwayrevengegooguniversalf2p': ['Fairway Solitaire Blast', '8355317828905497231', '5,000,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'net.peakgames.bidwhist': ['Bid Whist Plus', '6690081412016968981', '100,000+', 'https://www.zynga.com', 'zyngaturkey-support@zynga.com']}
+{'com.me2zen.tripeaks': ['Solitaire TriPeaks Journey - Free Card Game', '6624032394863046201', '1,000,000+', 'http://www.me2zen.com', 'tripeaks.solitaire@me2zen.com']}
+{'com.ea.game.pegglex_row': ['Peggle Blast', '6605125519975771237', '5,000,000+', 'http://support.popcap.com/mobile/android', 'help@eamobile.com']}
+{'com.murka.scatterholdem': ['Scatter HoldEm Poker - Texas Holdem Online Poker', '5941908837406018479', '500,000+', 'http://murka.com', 'support@murka.mail.helpshift.com']}
+{'com.ntg.solitaire.tripeaks': ['Solitaire - Island Adventure', 'Card+Games,+Inc', '1,000,000+', 'https://www.nightingale-mobile.com', 'NightingaleTech@outlook.com']}
+{'com.com2us.soccerspirits.normal2.freefull.google.global.android.common': ['Soccer Spirits', '6850516909323484758', '1,000,000+', 'http://www.withhive.com', 'info@com2us.com']}
+{'eu.mvns.games': ['BlackJack 21 - Online Blackjack multiplayer casino', '6206485758347618901', '5,000,000+', 'http://www.abzorbagames.com', 'support@abzorbagames.com']}
+{'jp.co.applibot.legend.android': ['Legend of the Cryptids (Dragon/Card Game)', 'PARADE+game', '1,000,000+', 'http://mynet.co.jp/english/', 'ad_legend_support@mynet.co.jp']}
+{'com.matteljv.uno': ['UNO!™', 'Mattel163+Limited', '5,000,000+', 'http://www.letsplayuno.com/', 'uno@mattel163.com']}
+{'com.pokerstars.cebo.psp': ['PokerStars Play: Free Texas Holdem Poker Game', '6368329215346388078', '500,000+', 'http://www.pokerstarsmobile.net', 'PokerstarsPlay@pokerstars.net']}
+{'com.pyrsoftware.pokerstars.net': ['PokerStars: Free Poker Games with Texas Holdem', '6368329215346388078', '10,000,000+', 'http://www.pokerstars.net/mobile', 'support@pokerstars.net']}
+{'com.winterspring.cardquest': ['Card Quest', 'Black+Shell+Media', '5,000+', 'http://www.blackshellmedia.com', 'blackshellgames@gmail.com']}
+{'air.com.youdagames.google.ww.gop2MobileFree': ['Governor of Poker 2 - OFFLINE POKER GAME', '7639378078513286726', '5,000,000+', 'http://www.youdagamesstudio.com/support/', 'support@youdagames.com']}
+{'com.kamagames.omahapoker': ['Omaha & Texas Holdem Poker: Pokerist', '6179794243705556952', '10,000+', 'http://kamagames.com', 'support@kamagames.com']}
+{'air.com.gambinopoker.android': ['Gambino Poker', 'Gamesko+Limited', '50,000+', 'http://www.gambinopoker.com', 'support@gambinopoker.com']}
+{'com.wayger.pokerking': ['Texas Holdem Poker-Poker KinG', 'Wayger.com', '1,000,000+', 'https://cf.geaxpoker.com/PrivacyPolicy.html', 'support@wayger.com']}
+{'com.Qublix.SolitaireSafari': ['Solitaire Safari', '8810793461269970613', '500,000+', 'http://www.qublix.com', 'support@qublix.com']}
+{'com.magmic.googleplay.skipbo.free': ['Skip-Bo™ Free', '8612219469474238403', '1,000,000+', 'http://www.magmic.com', 'uv-support@magmic.com']}
+{'air.com.boostr.Air': ['Urban Rivals', '6634799579349342125', '1,000,000+', 'https://www.urban-rivals.com', 'support@urban-rivals.com']}
+{'com.xiart.fb.towers': ['Towers TriPeaks: Classic Pyramid Solitaire', '5926097991392277359', '500,000+', 'https://www.xi-art.com', 'support+towers@xi-art.com']}
+{'air.com.qublix.solitaireworld': ['Solitaire World Tour', '8810793461269970613', '100,000+', 'http://www.qublix.com', 'support@qublix.com']}
+{'com.sagafun.triviabingo': ['Trivia Bingo - Free Bingo Games To Play!', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '10,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'com.sjgames.levelcounter': ['Munchkin Level Counter', 'Steve+Jackson+Games', '10,000+', 'http://www.sjgames.com/apps/', 'orders@sjgames.com']}
+{'net.gamoz.wpt': ['Tournament Poker Coach', 'Gamoz,+Inc', '50,000+', 'http://www.instapokerpro.com', 'support@gamoz.net']}
+{'air.com.qublix.showdowntwo': ['Solitaire Showdown 2', '8810793461269970613', '100,000+', 'http://www.qublix.com', 'support@qublix.com']}
+{'com.kemonomahjong.app': ['Kemono Mahjong', 'CyberDog+Software', '1,000+', 'http://www.kemonomahjong.com', 'info@kemonomahjong.com']}
+{'com.qublix.fullStackPoker': ['Full Stack Poker', '8810793461269970613', '100,000+', 'http://www.qublix.com', 'support@qublix.com']}
+{'com.speechgame.android.solitaire': ['TriPeaks Solitaire - Sweet Cat', '8548892154578245906', '10,000+', 'http://www.english-listening.com/privacypolicy/privacypolicyjin.txt', 'jinzhongliang8866@gmail.com']}
+{'com.net4uonline.tonk': ['Tonk - Free Top Multiplayer Rummy Game', 'Net4Uonline+Pvt.+Ltd.', '100,000+', 'http://www.teshwa.com', 'support@net4uonline.com']}
+{'com.WhatWapp.Scopa': ['Scopa', '8259467583332772770', '5,000,000+', 'http://www.whatwapp.com', 'help@whatwapp.com']}
+{'com.fivebn.tripeakssolitaire': ['Tri Peaks Solitaire', 'FIVE-BN+GAMES', '50,000+', 'http://five-bn.com', 'contact@five-bn.com']}
+{'com.gamenight.truth.or.dare.ah': ['Truth or Dare: Dirty & Evil Drinking Game', '4979183016957201028', '10,000+', 'https://gamenight-games.com/', 'gamenightgames1@gmail.com']}
+{'com.gisgames.terrorcards': ['Terror Cards', 'Necroscope', '1,000+', 'http://www.TerrorCards.com', 'admin@TerrorCards.com']}
+{'net.fowers.paperback': ['Paperback', 'Fowers+Games', '5,000+', 'http://fowers.net', 'tim@gabob.com']}
+{'com.jogatina.buraco': ['Buraco: Free Canasta Cards', 'Jogatina.com', '5,000,000+', 'http://www.jogatina.com/site/contactus/store/view/BURACO_ANDROID_PHONE', 'buraco.android@gazeus.com']}
+{'net.gamoz.instapoker': ['Insta Poker Coach Texas Holdem', 'Gamoz,+Inc', '10,000+', 'http://www.instapokerpro.com', 'support@gamoz.net']}
+{'com.tripledot.solitaire': ['Solitaire Classic', 'Tripledot+Studios+Limited', '500,000+', 'https://www.tripledotstudios.com', 'solitaire-support@tripledotstudios.com']}
+{'com.litegames.rummy_free__aat_google': ['Rummy - free card game', '8633276600546047418', '1,000,000+', 'https://www.lite.games', 'support@lite.games']}
+{'com.lessthanthree.crib': ['Cribbage With Grandpas', 'Less+Than+Three+Interactive', '1,000+', 'http://www.lessthan3.co/', 'Lroed@lessthan3.co']}
+{'uk.co.aifactory.hearts': ['Hearts', '7906675825742087969', '10,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.piratesoutlaws.fabledgame': ['Pirates Outlaws', 'FabledGame+Studio', '50+', 'http://www.fabledgame.com', 'support@fabledgame.com']}
+{'mobi.masterelem.game': ['Masters of Elements - collectible card game', '5627378377477294831', '1,000,000+', 'http://masterelem.mobi/', 'support@overmobile.ru']}
+{'com.WhatWapp.BeloteLeDefi': ['Belote & Coinche: le Défi', '8259467583332772770', '100,000+', 'http://www.whatwapp.com', 'help@whatwapp.com']}
+{'com.artoon.bidwhist': ['Bid Whist: Free Trick Taking Multiplayer Card Game', '5190115240305349702', '10,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'de.spielepalast.solitairepalace': ['Solitaire (Free, no Ads)', '5425851731630649862', '100,000+', 'https://www.solitaire-palast.de/', 'support@solitaire-palast.de']}
+{'com.whitewizardgames.cthulhurealms': ['Cthulhu Realms', 'White+Wizard+Games', '100,000+', 'http://www.starrealms.com/', 'tanthorjen@whitewizardgames.com']}
+{'org.cocos2d.ginrummygocom': ['Gin Rummy', 'Didoo+Games+Co.%EF%BC%8C+limited', '5,000+', 'http://www.51rummy.com/tpl/policy.html', 'eternaybaby@gmail.com']}
+{'org.faudroids.werewolf': ['Werewolf', 'Philipp+Eichhorn', '1,000,000+', 'https://legal.werewolf-apps.com/privacy-policy.html', 'werewolf@bitdroid.de']}
+{'com.cucgames.fruit_coctail': ['Fruit Cocktail slot machine', 'cucgames.com', '1,000,000+', 'http://cucgames.com', 'cucgames@gmail.com']}
+{'uk.co.aifactory.solitaire': ['Solitaire', '7906675825742087969', '5,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.sngict.Cribbage': ['Cribbage - Offline', '5890018970979485285', '10,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.winterwolves.pscd': ['P.S.C.D.', '7957761227632108227', '1,000+', 'http://www.winterwolves.com', 'celso.riva@gmail.com']}
+{'com.newsparkgame.videopoker': ['VIDEO POKER ONLINE FREE!', '8957107062136112050', '5,000+', 'http://www.newsparkgame.com', 'newsparkgame@gmail.com']}
+{'com.anoshenko.android.solitaires': ['250+ Solitaire Collection', 'Alexei+Anoshenko', '5,000,000+', 'http://alxanosoft.com', 'anoshenko@gmail.com']}
+{'com.technospirits.canasta': ['Canasta Junction', 'Canasta+Junction,+llc', '100+', 'http://www.canastajunction.com/', 'support@canastajunction.com']}
+{'com.blindsareup.app': ['Blinds Are Up! Poker Timer', 'CG+Thomas', '50,000+', 'http://blindsareup.com', 'support@blindsareup.com']}
+{'com.gv.cardofthepharaohsolitaire': ['Card of the Pharaoh - Free Solitaire Card Game', 'Go+Vuzzle', '100,000+', 'http://www.vascogames.com', 'support@vascogames.com']}
+{'com.sagafun.videopoker': ['video poker - new casino card poker games free', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '10,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'com.playforia.pokerfortunes': ['Poker Fortunes', 'Namida+Diamond+Factory+Ltd.', '5,000+', 'http://support.namida.fi/pokerfortunes', 'production@namida.fi']}
+{'mbs.diamond.capsasusun': ['Diamond Capsa Susun', '8046494869385844141', '1,000,000+', 'http://www.diamondgames.net/susun', 'cs@kntstudio.net']}
+{'air.com.coalaa.itexasfr': ['Poker Pro.Fr', 'CQ+Gaming', '100,000+', 'http://itexas.coalaa.com', 'samyip@boyaa.com']}
+{'com.subsoap.faeriesolitaire': ['Faerie Solitaire HD (Full)', '6572937808968109598', '1,000+', 'http://www.subsoap.com/', 'help@subsoap.com']}
+{'tw.com.bonuswinner.solitaire.academy': ['Solitaire Academy', 'Bonus+Winner+Online+Entertainment+Co.+Ltd.', '10,000+', 'http://www.solitaireacademy.com/', 'Service@solitaireacademy.com']}
+{'com.sagafun.solitaire': ['Solitaire Games Free:Solitaire Fun Card Games', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '50,000+', 'http://www.sagafun.com/policy.html', 'support@sagafun.com']}
+{'pusoy.pusoydos.sicbo.dicegame': ['Pusoy Queen', 'TamTay+Global+Pte%28TG%29', '50,000+', 'https://sixwin.io/privacy.html', 'lenguyenvienanh@gmail.com']}
+{'com.silvercrk.solitaire_iv_free': ['Hardwood Solitaire Free', '8403078360560227983', '50,000+', 'http://www.hardwoodgames.com/', 'support@silvercrk.com']}
+{'com.neuralplay.android.bridge': ['Bridge by NeuralPlay', '9005321416889909394', '500,000+', 'http://www.neuralplay.com', 'support@neuralplay.com']}
+{'com.ravensburgerdigital.sanjuan': ['San Juan', '7057959691151910430', '10,000+', 'https://www.ravensburger.de/start/ravensburger-apps/index.html', 'support@ravensburger-digital.com']}
+{'com.octro.rummy': ['Indian Rummy (13 & 21 Cards) by Octro', '7767821347699849360', '10,000,000+', 'http://www.octro.com', 'rummy.support@octro.com']}
+{'pyramid.solitaire.match.k': ['Cowboy Solitaire K', '8824497490851177169', '10,000+', 'http://www.mahjong-connect.net/privacy-policy/', 'wubin8513@outlook.com']}
+{'com.dogame.solitaire.klondike': ['Solitaire - Classic Card Game', 'WonderlandGame', '100,000+', 'https://superiorzzr.tumblr.com/post/177787450452/privacy-policy9', 'longjingjing2018@gmail.com']}
+{'com.artoon.courtpiece': ['Court Piece - My Rung & HOKM', '5190115240305349702', '100,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'com.bearpop.solitaire': ['Vegas Solitaire: Patience', 'BearPop', '100,000+', 'http://www.cldeer.com/privacy.html', 'solitairefriend@gmail.com']}
+{'jp.co.pointzero.cashdozereur': ['CASH DOZER EUR', '5727175315664686749', '100,000+', 'https://www.pointzero.co.jp/', 'android@pointzero.co.jp']}
+{'com.queensgame.pyramid': ['Pyramid Solitaire', 'Queens+Solitaire+Games', '500,000+', 'https://sites.google.com/site/queensgamesprivacy/', 'support@queens.freshdesk.com']}
+{'com.MangoSoft.Susun': ['Mango Capsa Susun', 'indoplay', '5,000,000+', 'http://www.indoplay.com/', 'indoplaycs@gmail.com']}
+{'com.playspace.buraco': ['Buraco USA', '5892841245660927044', '100,000+', 'http://www.playspace.com', 'support@playspace.com']}
+{'media.k52.anynumber': ['Anynumber', 'K52+s.r.l.', '1,000+', 'https://k52.media', 'info@k52.media']}
+{'com.tmarki.tripeaks': ['Classic Tri Peaks Solitaire', '8744468344764865153', '100,000+', 'http://www.eperapps.com/', 'support@eperapps.com']}
+{'com.turner.monstersatemymetropolis': ['Monsters Ate My Metropolis', '%5Badult+swim%5D+games', '100,000+', 'http://adultswim.com', 'adultswimdotcom@gmail.com']}
+{'com.iscoolentertainment.crazy8': ['Crazy 8 Multiplayer', 'IsCool+Entertainment', '100,000+', 'http://www.iscoolentertainment.com', 'google-playstore@iscool-e.com']}
+{'com.SinkHole.SecondSecond': ['Second Second', 'Sinkhole+Studio', '500+', 'http://sinkholestudio.com/', 'sinkholestudio@gmail.com']}
+{'air.com.dg.obg.solitaire.tripeaks.vampire.story.monster.magic': ['Solitaire Story: Monster Magic Mania', 'Beautiful+Free+Solitaire+Games+by+Difference+Games', '10,000+', 'http://www.differencegames.com', 'solitaire@differencegames.com']}
+{'com.kathleenOswald.solitaireGooglePlay': ['Solitaire', '6690081412016968981', '50,000,000+', 'https://zyngasupport.helpshift.com/a/solitaire/', 'android.support@zynga.com']}
+{'com.nomadgames.catlady': ['Cat Lady - The Card Game', '4614040639053382794', '1,000+', 'https://www.nomadgames.co.uk/cat-lady/', 'support@nomadgames.co.uk']}
+{'com.concretesoftware.cribbage': ['Aces® Cribbage', '4745945509034989253', '100,000+', 'http://www.concretesoftware.com', 'support@concretesoftware.com']}
+{'com.thebinaryfamily.supersolitaire': ['Super Solitaire', 'the+binary+family', '100,000+', 'http://thebinaryfamily.com/supersolitaire/', 'supersolitaire.support@thebinaryfamily.com']}
+{'com.clockwatchers.oceansolitaire': ['Solitaire Treasures', '5421036283029867644', '100,000+', 'http://cwigames.com', 'support@cwigames.com']}
+{'ru.playvision.durak': ['Durak Online 3D', 'Playvision,+Inc.', '1,000,000+', 'http://playvisioncorp.com', 'k.gusenkov@playvisioncorp.com']}
+{'ppp.farm.solitaire': ['TriPeaks Solitaire Farm', 'pan+sudoku+solitaire', '100,000+', 'http://www.gdmz.org/privacy/ppp/pyppp.txt', 'PANSHENGWEIhk@outlook.com']}
+{'com.mavenhut.solitaire.live': ['Live Solitaire', '5110395340166601032', '5,000+', 'http://www.mavenhut.com/', 'founders@mavenhut.com']}
+{'com.sagafun.classicvideopoker': ['Video Poker:Free Classic Casino Offline Poker Game', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '50,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'com.eastudios.rummy500': ['Rummy 500', '8119201735490945823', '10,000+', 'http://mobilixsolutions.com/', 'support@emperoracestudios.com']}
+{'com.gameforge.elemancer': ['Elemancer – Legend of Cards: Collectible Card Game', '5657945287075259088', '1,000+', 'https://www.evilgrog.com', 'support@evilgrog.com']}
+{'com.cmon.Xenoshyft': ['XenoShyft', '7959316599581723037', '5,000+', 'http://www.asmodee-digital.com/en/xenoshyft/', 'support@asmodee.net']}
+{'air.com.lazyland.solitaire': ['Solitaire Duels', '8068472682277748287', '10,000+', 'http://www.lazyland.net', 'mobile@lazyland.net']}
+{'treasure.hunt.solitaire.match': ['TriPeaks Solitaire Treasure', 'Xu+Solitaire+Games', '50,000+', 'http://www.mangshancun.com/pp/privacypolicy125.txt', 'xuyan20111@163.com']}
+{'com.SmallPotatoesSoftware.TriPeaks': ['TriPeaks Solitaire Adventure', 'Small+Potatoes+Software,+LLC', '10,000+', 'https://www.facebook.com/TripeaksSolitaireAdventure', 'jason@smallpotatoessoftware.com']}
+{'com.eightyarcade.shards': ['Shards the Deckbuilder', '80+Arcade+LLC', '500+', 'http://80arcade.com', 'support@80arcade.com']}
+{'com.trickstercards.whist': ['Trickster Whist', 'Trickster+Cards,+Inc.', '1,000+', 'https://www.trickstercards.com/', 'support@trickstercards.com']}
+{'solitaire.match.space.baby': ['Solitaire - Space Baby', 'Xu+Solitaire+Games', '5,000+', 'http://www.mangshancun.com/pp/privacypolicy125.txt', 'xuyan20111@outlook.com']}
+{'com.zingmagic.omarbridgexx': ['Omar Sharif Bridge, 2019 Edition', 'ZingMagic+Limited', '500+', 'http://www.zingmagic.com', 'support@zingmagic.com']}
+{'com.ludosity.ccn2': ['Card City Nights 2', 'Ludosity', '500+', 'http://www.cardcitynigts.com', 'support@ludosity.com']}
+{'air.conectagames.canasta': ['Canasta', '8733143810835050473', '10,000+', 'http://www.conectagames.com', 'info@conectagames.com']}
+{'com.whyphy.spades': ['Spades King : Free Spade Card Game', 'Whyphy+Games', '10,000+', 'http://whyphygames.blogspot.in/2018/03/privacy-and-policy.html', 'games.whyphy@gmail.com']}
+{'com.geaxgame.videopoker': ['Video Poker Casino™', 'BIGWIN+GAMES', '500,000+', 'https://oldvegasapi.myslots.us/windowpokerweb/GG_PrivacyPolicy.html', 'support@wayger.zendesk.com']}
+{'pbsoftworks.rummy': ['Phase Rummy card game AdFree', 'PB+Softworks', '100+', 'https://burlov.de/privacy-policy-en.html', 'pbsoftworks@burlov.de']}
+{'com.forsbit.freecelladfree': ['FreeCell Solitaire Pro', 'Forsbit+LLC', '500+', 'http://www.forsbit.com', 'forsbitllc@gmail.com']}
+{'pppcard.tripeaks.solitaire.poker': ['TriPeaks Solitaire', 'pan+sudoku+solitaire', '100,000+', 'http://www.gdmz.org/privacy/ppp/pyppp.txt', 'PANSHENGWEIhk@outlook.com']}
+{'com.odesys.solitaire': ['Odesys Solitaire', 'Odesys,+LLC', '10,000+', 'http://www.odesys.com', 'support@odesys.com']}
+{'com.sundown.fivecarddraw': ['Super Five Card Pro', 'Sundown+Studio', '1,000+', 'http://www.superfivecard.com', 'sundown@superfivecard.com']}
+{'com.wesleymay.bridgeapp': ['LearnBridge', 'Wesley+May', '10,000+', 'http://learnbridge.com', 'wesley@learnbridge.com']}
+{'com.karmangames.pinochle': ['Pinochle', 'KARMAN+Games', '500,000+', 'https://www.iubenda.com/privacy-policy/393558', 'spadeshelp@gmail.com']}
+{'com.jeffreys.euchrepay': ['Euchre', 'Jeffreys+Software', '5,000+', 'https://www.facebook.com/pages/Android-Euchre/416381698435919', 'euchre@voidpointer.org']}
+{'christmas.solitaire.free.games': ['Winter Solitaire', 'Xu+Solitaire+Games', '10,000+', 'http://www.mangshancun.com/pp/privacypolicy125.txt', 'xuyan20111@163.com']}
+{'com.seagames.dominoqq': ['Domino 99  Gaple 2019  Qiu Qiu  Kiu Kiu Poker', 'SEA+GAMES', '100,000+', 'http://www.seagames.xyz/policy.html', 'Hausserlouis@gmail.com']}
+{'com.epochalstorm.buraco': ['Buraco Pro - Play Online!', 'EpochalStorm+Games+S.R.L.', '100,000+', 'http://www.epochalstorm.com/', 'support@epochalstorm.com']}
+{'air.conectagames.spades': ['Spades', '8733143810835050473', '1,000+', 'http://www.conectagames.net', 'info@conectagames.net']}
+{'bds.mobile.casino.blackjack': ['Blackjack Diamond Series: free casino card game', '5454925992285925884', '10,000+', 'http://www.cybernautica.cz', 'games@cybernautica.cz']}
+{'com.ninjacrime.calculords': ['Calculords', 'Ninja+Crime,+Inc.', '50,000+', 'http://ninjacrime.com', 'support@ninjacrime.com']}
+{'tripeaks.pyramid.fishman.solitaire': ['Fishmen Solitaire', '8548892154578245906', '5,000+', 'http://www.english-listening.com/privacypolicy/privacypolicyjin.txt', 'jinzhongliang8866@gmail.com']}
+{'com.zimad.starcrusade': ['Star Crusade™ CCG', '6861988240512426856', '10,000+', 'http://starcrusadeccg.com', 'support@starcrusadeccg.com']}
+{'au.com.dogmelon.androidClassicSolFull': ['27 Solitaire Games', 'dogMelon', '50+', 'http://dogmelon.com.au', 'dan@dogmelon.com.au']}
+{'com.WrenGames.Assembly': ['Assembly Tabletop Card Game', '9160194947114473902', '50+', 'http://www.digital.wrengames.co.uk', 'digital@wrengames.co.uk']}
+{'com.Queix.ConquianSP': ['Conquian SP', 'Queix+Games', '500,000+', 'http://www.queixgames.com', 'queix@queixgames.com']}
+{'com.ankama.krosmaga': ['KROSMAGA - The WAKFU Card Game', '5673659703053489019', '100,000+', 'http://www.ankama-games.com', 'mobile@ankama.com']}
+{'com.silvercrk.solitaire_iv': ['Hardwood Solitaire IV', '8403078360560227983', '10,000+', 'http://www.hardwoodgames.com/', 'support@silvercrk.com']}
+{'air.com.dreamreactor.spellweavertcg': ['Spellweaver', 'Dream+Reactor+EOOD', '10,000+', 'https://spellweaver-tcg.com', 'support@spellweaver-tcg.com']}
+{'com.softick.android.solitaire.klondike': ['Solitaire', '9144907755440817486', '10,000,000+', 'http://www.softick.com/', 'support@softick.com']}
+{'com.cedarhillgames.phase10dice': ['Phase 10 Dice™', '8612219469474238403', '5,000+', 'http://www.magmic.com', 'uv-support@magmic.com']}
+{'com.bigfishgames.emerlandgoogfull': ['Emerland Solitaire (Full)', '8355317828905497231', '10,000+', 'http://www.bigfishgames.com', 'android.email@bigfishgames.com']}
+{'com.nextcard': ['Next Generation Solitaire', 'ALTRON', '10,000+', 'http://www.altron.co.jp', 'next_9999@altron.co.jp']}
+{'com.Everguild.Drakenlords': ['Drakenlords – Magic Duels Trading Card Game TCG', 'Everguild+Ltd.', '100,000+', 'http://www.drakenlords.com', 'support@everguild.com']}
+{'com.gv.gcall': ['Generals Call', 'Gameview+Game+Studio', '50,000+', 'http://www.gameview.asia/', 'cs@gameview.my']}
+{'hearts.trickster': ['Trickster Hearts', 'Trickster+Cards,+Inc.', '1,000+', 'https://www.trickstercards.com', 'support@trickstercards.com']}
+{'com.bearpop.blackjack.kingdom': ['Vegas Blackjack Kingdom', 'BearPop', '10,000+', 'http://www.cldeer.com/privacy.html', 'xiaolin2357@gmail.com']}
+{'jp.gungho.cmg': ['CHRONO MA:GIA', '7849776799175690127', '100,000+', 'http://chronomagia.com/', 'cmg_support2@gungho.jp']}
+{'br.com.tapps.solitairedetectives': ['Solitaire Detectives - Crime Solving Card Game', '6615809648420562690', '100,000+', 'http://tappsgames.com', 'contact@tappsgames.com']}
+{'lll.tripeaks.solitaire.monster': ['TriPeaks Solitaire Monster', '8824497490851177169', '10,000+', 'http://www.mahjong-connect.net/privacy-policy/', 'wubin8513@163.com']}
+{'com.karmangames.euchre': ['Euchre', 'KARMAN+Games', '500,000+', 'https://plus.google.com/103216916697119336236/posts', 'spadeshelp@gmail.com']}
+{'com.teslagames.littletittle': ['Little Tittle — Pyramid solitaire card game', '7185759132943310350', '100,000+', 'http://teslagames.net/', 'support@teslagames.net']}
+{'media.k52.anycard': ['ANYCARD', 'K52+s.r.l.', '10,000+', 'http://k52.media', 'info@k52.media']}
+{'com.eastudios.ginrummy': ['Gin Rummy', '8119201735490945823', '10,000+', 'http://mobilixsolutions.com/', 'support@emperoracestudios.com']}
+{'com.preferansgame': ['Preferans', 'Brain+Fitness+Ltd', '100,000+', None, 'brainfitnessltd@gmail.com']}
+{'ppp.panda.pyramid.solitaire.k': ['Panda Solitaire K', 'pan+sudoku+solitaire', '10,000+', 'http://www.gdmz.org/privacy/ppp/pyppp.txt', 'PANSHENGWEIhk@outlook.com']}
+{'com.pokernight.app': ['WiFi Poker Room - Texas Holdem', 'Marcin+G%C5%82owacki', '100,000+', 'https://privacypolicies.com/privacy/view/1c76294fec0c9368344ba9f2431a1a23', 'serine@o2.pl']}
+{'com.sng.gin.rummy': ['Gin Rummy - Online Free Card Game', '5890018970979485285', '10,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.qsoft.android.wizardfull2': ['Wizard Cards Live', 'qsoft', '100+', 'http://www.wizardcards.com/portal.php', 'qsoft@live.co.uk']}
+{'com.tbegames.and.poker_games_texas': ['Poker Online: Texas Holdem & Casino Card Games', '8473203491921584386', '100,000+', 'http://t-bull.com', 'thunderbullgames@gmail.com']}
+{'com.ITEC.MonstarSolitaire': ['Solitaire Monstars', 'ITEC+Game+Studios', '50,000+', 'http://www.itecgames.com', 'support@itecgames.com']}
+{'com.bjf.brijpro': ['BJ Bridge Pro 2019', 'BJ+Software', '1,000+', 'http://bjbridge.org', 'bjsoftware42@gmail.com']}
+{'com.Queix.Conquian': ['Conquian MP', 'Queix+Games', '100,000+', 'http://www.queixgames.com', 'queix@queixgames.com']}
+{'com.neuralplay.android.pitch': ['Pitch by NeuralPlay', '9005321416889909394', '10,000+', 'http://www.neuralplay.com', 'support@neuralplay.com']}
+{'com.weplay.klondike.solitaire': ['Solitaire 2019', 'We+Play+Solitaire', '100,000+', 'https://sites.google.com/view/solitaire-2019', 'tiptopgame.studio@gmail.com']}
+{'air.uy.com.web2mil.hokm': ['Hokm', '8733143810835050473', '10,000+', 'http://www.conectagames.net', 'info@conectagames.net']}
+{'net.runserver.solitairehd': ['Classic Solitaire HD', '6219611383430913916', '1,000+', 'http://runserver.net/apps/', 'solitaire@runserver.net']}
+{'com.ljx.solitaire.tripeaks': ['Solitaire TriPeaks', 'Solitaire+TriPeaks+Lab', '100,000+', 'http://imei.mdc.akamaized.net/18_Privacy.html', 'blueflames.lau@gmail.com']}
+{'com.satyadev.kenovideofree': ['Lucky Keno Numbers Bonus Casino Games Free', 'Satyadev+Mahalingashetty', '10,000+', 'https://www.facebook.com/luckyslotgames', 'online.appservices@gmail.com']}
+{'com.solebon.solitaire': ['Solitaire', '5782906985209138750', '50,000+', 'http://www.solebon.com', 'solebonapps@gmail.com']}
+{'com.sixace.tonkmultiplayer': ['Tonk Online', '6Ace+Games', '5,000+', 'http://sixacegames.blogspot.com/p/privacy-and-policy.html', 'sixacegames@gmail.com']}
+{'west.cowboy.solitaire.match': ['Solitaire match cowboy', '7176524755618473035', '50,000+', 'http://www.mahjong-free-games.com/privacypolicy/qin/privacypolicyqin.txt', 'QINZHENJIEPO@163.com']}
+{'com.bingo.games.ukbingo.offline': ['Bingo: Classic Offline BINGO', '9122699904042586564', '10,000+', 'https://www.facebook.com/UK-Bingo90-Ball-Offline-Bingo-176309736416423/', 'ukbingo.service@gmail.com']}
+{'com.therevillsgames.tdfstripeaks': ['Touch Down Football Solitaire Tri Peaks', '5209067841917837770', '1,000+', 'http://www.therevillsgames.com', 'therevillsgames@gmail.com']}
+{'com.zimbronapps.barajaloteriapro': ['Baraja Loteria PRO', 'ZimbronApps.com', '100+', 'http://zimbronapps.com', 'gustavo@zimbronapps.com']}
+{'com.tetramasterHDv3': ['Tetra Master HD', 'AnGGames', '1,000+', None, 'Azteklightlord@rambler.ru']}
+{'com.neatapps4u.talkingtimerpro': ['Talking Poker Timer – Pro', 'Neat+Apps4u', '500+', None, 'neatapps4u@gmail.com']}
+{'com.bucktheodds.cribbageDroid': ['BTO Cribbage', 'Buck+The+Odds,+LLC', '1,000+', 'http://www.bucktheodds.com/home.jsp', 'support@bucktheodds.com']}
+{'com.karmangames.spades': ['Spades', 'KARMAN+Games', '1,000,000+', 'https://plus.google.com/101002040963863914068', 'spadeshelp@gmail.com']}
+{'com.vg.solitairefrozendreamforestcards': ['Solitaire: Frozen Dream Forest', 'Puzzle+Games+-+VascoGames', '100,000+', 'http://www.vascogames.com', 'support@vascogames.com']}
+{'lll.forest.pyramid.solitaire.k': ['Forest Solitaire K', '8824497490851177169', '5,000+', 'http://www.mahjong-connect.net/privacy-policy/', 'wubin8513@gmail.com']}
+{'com.capricegame.panzergirls': ['PanzerGirls', 'CapriceGame', '100,000+', 'http://panzergirls.capricegame.com', 'dkpyihong@gmail.com']}
+{'glowingeye.pyramid_solitaire_ancient_egypt': ['Pyramid Solitaire Ancient Egypt', '5374158933235068227', '10,000+', 'http://www.glowingeyegames.com', 'support@glowingeyegames.com']}
+{'com.CasualArena.Brisca': ['Briscola Online Casual Arena', '6642778065760590824', '10,000+', 'https://www.casualarena.com/', 'dinacode.dev@gmail.com']}
+{'air.com.lazyland.klondike': ['Solitaire Wonders', '8068472682277748287', '10,000+', 'http://www.lazyland.net', 'mobile@lazyland.net']}
+{'com.tmarki.spidersol': ['Classic Spider Solitaire', '8744468344764865153', '1,000,000+', 'http://www.eperapps.com/', 'support@eperapps.com']}
+{'air.de.rgerlach.schafkopfpalast': ['Sheepshead (Free, no Ads)', '5425851731630649862', '100,000+', 'http://www.schafkopf-palast.de', 'support@schafkopf-palast.de']}
+{'com.zingmagic.bridgevfree': ['Bridge V+, 2019 Edition', 'ZingMagic+Limited', '1,000,000+', 'http://www.zingmagic.com', 'support@zingmagic.com']}
+{'com.anawiki.als2': ['Avalon Legends Solitaire 2', '6678992008270025886', '100,000+', 'http://www.anawiki.com', 'support@anawiki.com']}
+{'gdg.mtg.mtgdoctor': ['Deck Doctor', 'Game+Developers+Guild', '1,000+', 'http://www.GameDevelopersGuild.com', 'GameDevelopersGuild@gmail.com']}

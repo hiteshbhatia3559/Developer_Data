@@ -1,0 +1,798 @@
+{'com.KDP.CrazyBBcraftMCPE': ['Multicraft Crazy Neighbor for MCPE', 'Vu+Tung+Duong', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/198da2614978e7a868918498ac3fb787', 'Audaiduongxanh1988@gmail.com']}
+{'com.sinyee.babybus.pilot': ["Baby Panda's Airplane", '4946022439885210717', '100,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.leeplay.babyphone': ['Baby Phone 3 in 1 for Kids', 'Leeplay', '1,000+', 'http://oriplay.com/about/', 'oriplay.apps@gmail.com']}
+{'com.bimiboo.runner': ['Car games for toddlers', '5399967083006869522', '10,000+', 'http://www.bimiboo.com/', 'admin@bimiboo.com']}
+{'de.woodiehoo.dressingup': ['WoodieHoo Dress Up: Animal Fun', 'RTL+DISNEY+Fernsehen+GmbH+%26+Co.+KG', '10,000+', 'https://www.woodiehoo.com/', 'Entwickler@superrtl.de']}
+{'com.JayAndAJ.ThesisSegregate': ['Basura mo, Segregate ko', 'Wyle+Junio', '5+', 'https://www.facebook.com/wylejunio', 'wylejunio@gmail.com']}
+{'com.juniorgames.girls.cooking.rainbow.cotton.candy': ['Rainbow Cotton Candy - Cooking Game', 'Junior+Games+Studio', '50+', 'http://www.juniorgamesstudio.com', 'juniorgamesstudio@outlook.com']}
+{'com.colouring.bear.teddy': ['Colouring Book Teddy Bear', 'G.A.I.L+Studio', '500+', 'https://applicationgailstudios.blogspot.com/p/privacy-policy.html', 'baow.jaikhan@gmail.com']}
+{'com.appybuilder.redstudiomarket.baby_phone': ['Baby Phone', 'Red+Studio+Market', '10+', 'https://sites.google.com/view/babyphone22/trang-ch%E1%BB%A7', 'redstudiomarket@gmail.com']}
+{'com.danikson.englishpicturevocabulary': ['English Picture Vocabulary', 'Danikson', '1+', 'https://sites.google.com/view/danikson/privacy', 'danikson2019@gmail.com']}
+{'com.suneshine.princesspolyroll': ['Princess Poly Sphere 3D Puzzle: Princess Poly Art', 'Sunshine+Gamedesign', '10+', 'https://tinyurl.com/yd6p3ncy', 'benkraemer79@gmail.com']}
+{'org.tigraliveanimations.alifsophia': ['Alif and Sofia', 'Tigra+Live+Animations', '5,000+', 'http://www.tigralive.com', 'jfasano@tigralive.com']}
+{'com.zzm.flashcardgame': ['Multiplication Flash Card Game', '7702928124686187323', '10+', 'http://www.zapzapmath.com', 'hello@zapzapmath.com']}
+{'kids.games.brain.educational.mentaleducation': ['Mental Educational Brain Teasers', 'Children+Education+Games', '100+', 'https://childreneducationg.wixsite.com/games/about', 'childreneducationgames@gmail.com']}
+{'com.strukturkode.pintarmatematika': ['Pintar Matematika - Game penjumlahan pengurangan', 'Strukturkode+Studio', '100+', 'https://strukturkode.blogspot.com/p/pintar-matematika-privacy-policy.html', 'strukturkodelab@gmail.com']}
+{'com.oup.elt.opwse': ['Oxford Phonics World: School', '5271199381549403266', '50+', 'http://www.oup.com/elt', 'OUP_ELT_e-sales@oup.com']}
+{'com.DarkPyreInteractive.Brainchild': ['BrainChild', 'Dark+Pyre+Interactive', '10+', 'http://www.darkpyre.com', 'admin@darkpyre.com']}
+{'com.Maravilla.HappyFruitsDelFrutal': ['Happy Fruits Del Frutal', 'Happy+Fruits+Del+Frutal', '500+', 'https://www.facebook.com/DelFrutalOficial/', 'joseph.antoine.guillaume@gmail.com']}
+{'appinventor.ai_briancolsh1.BrainTester': ['The Brain Tester', None, '10+', None, 'briancolsh1@gmail.com']}
+{'wonderland.beauty': ['Wonderland : Beauty & Beast', '4907572025980617983', '1,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.wa.prod.wineacuity': ['Wine Acuity', 'Wine+Acuity+LLC', '1+', 'http://www.wineacuity.com', 'support@wineacuity.com']}
+{'com.wbs.aquarium': ['aquARium AR Paint', 'wbs+tech+mobile', '5+', 'https://www.windbluesea.com/', 'support@windbluesea.com']}
+{'org.ideategames.CladesSolo': ['Clades Solo', 'Ideate+Games', '10+', 'http://www.ideategames.com/Clades', 'david@marques42.org']}
+{'com.sinyee.babybus.holiday': ["Baby Panda's Vacation", '4946022439885210717', '5,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.to.write.learn.abc.english.alphabet.numbers.kids.learning.game': ['ABC: English Alphabet, Numbers! Kids Learning Game', 'Godo+Games', '1,000+', 'http://www.godogames.com', 'i@godogames.com']}
+{'com.hmhco.sciencearbooks': ['HMH Science Dimensions', 'Houghton+Mifflin+Harcourt', '100+', 'http://www.hmhco.com', 'HMH_Developer@hmhpub.com']}
+{'com.rvappstudios.math.kids.counting': ['Math Kids - Add, Subtract, Count, and Learn', '7430005971129979939', '1,000,000+', 'http://www.rvappstudios.com', 'app_support@rvappstudios.com']}
+{'zok.android.dots': ['Kids Connect the Dots (Lite)', '6695914693084197974', '5,000,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.sinyee.babybus.angie': ['The Adventurous Cloud - Free', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.iz.pretend.play.my.monster.town.airport': ['My Monster Town - Airport Games for Kids', '5953899060857093739', '10,000+', 'http://www.idzdigital.com', 'support@idzdigital.com']}
+{'com.androbaby.kidsconstructiongame': ['Kids Construction Game: Preschool', '7962586262608152907', '1,000,000+', 'http://forumvs.com/policy_kidsconstructiongame.html', 'androbabyid@gmail.com']}
+{'com.tutotoons.app.sweetbabygirlcleanup6.free': ['Sweet Baby Girl Cleanup 6 - School Cleaning Game', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.tutotoons.app.prettylittleprincess.free': ['Pretty Little Princess - Dress Up, Hair & Makeup', '6493980387780624296', '500,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.cuteandtinybabygames.cutetinyprofessions.free': ['Cute & Tiny Professions - Tailor, Chef & Craftsman', '5940508328227487288', '50,000+', 'http://www.zaidimustudija.lt', 'info@zaidimustudija.lt']}
+{'com.amayasoft.dinosaur.games.little.kids.toddlers': ['Dinosaur games for kids and toddlers 2 4 years old', '5201272803035909879', '50,000+', 'http://www.amayakids.com/', 'info@amayasoft.com']}
+{'com.sinyee.babybus.starwars': ["Baby Panda's Space War-Space Guardians & Spaceship", '4946022439885210717', '500,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'coloring.pepa.abngroupgames': ['Coloring Peepa Book and pig', 'ABN+Group', '10,000+', None, 'abn.group.games@gmail.com']}
+{'kidgames.coloring.pages': ['Coloring Pages for kids', 'Kidgames', '10,000,000+', 'http://kid-games.info', 'kidgame.edu@gmail.com']}
+{'wonderland.beauty': ['Wonderland : Beauty & Beast', '4907572025980617983', '1,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.kidsgamesapp.paw.babies.patrol.free.memory.game': ['Babies Pups Memo Patrol', 'Kids+Games+Apps+For+You', '1,000+', 'https://sites.google.com/view/kidsgamesapp42/privacy-policy', 'kidsgamesapp42@gmail.com']}
+{'com.idz.train.game.kids.pretend.play': ['My Chompy Town - Toy Train Games for Kids', '5953899060857093739', '1,000+', 'http://www.idzdigital.com', 'support@idzdigital.com']}
+{'com.sinyee.babybus.town': ['Labyrinth Town - FREE for kids', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.gamesforkids.preschoolworksheets.alphabets': ['ABC PreSchool Kids Tracing & Phonics Learning Game', 'GunjanApps+Studios', '1,000,000+', 'http://gunjanappstudios.com/', 'support@gunjanappstudios.com']}
+{'m01k.star.game': ['Multiplication Tables Challenge (Math Games)', 'AppStar+Studio', '100,000+', 'http://app.appstar.url.tw/APP/AppStar/PrivacyPolicy.html', 'kidsappstar@gmail.com']}
+{'com.appsbergman.celulareducacional': ['My Educational Phone', '6681025014292303495', '1,000,000+', 'http://appsbergman.com/', 'contato@appsbergman.com']}
+{'com.Sumdog.App3D': ['Sumdog', '6724569763251636250', '100,000+', 'https://www.sumdog.com/', 'info@sumdog.com']}
+{'com.psv.psvn_goodnight_hippo_2': ['Bedtime Stories for kids', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '1,000,000+', 'http://psvgamestudio.com', 'hippo.kidsgames@gmail.com']}
+{'com.edujoy.dentist': ['Dentist games for kids', 'AppQuiz', '5,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.sunny.coloring.book.kids.paint': ['Coloring Book - Kids Paint', 'Sunny+Kid+Games', '1,000,000+', 'http://sunny.wirez.com.ar/privacy_policy.html', 'sunnykidgames@gmail.com']}
+{'com.sinyee.babybus.olympic': ['Panda Sports Games - For Kids', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.kids_coloring.kids_paint': ['Coloring Book', '5574990290619836600', '1,000,000+', 'http://juniorpear.blogspot.com/2014/03/privacy-policy.html', 'store.ursagames@gmail.com']}
+{'com.razmobi.monstertrucks': ['Monster Truck Game for Kids', '8349252292748478776', '1,000,000+', 'http://www.razgames.com', 'info@razgames.com']}
+{'net.swilcookies.roblo.dreambox': ['Crazy Ultimate  Cookie The Robloxe Swirl : dolls', 'Pullpy+Hurri+studio', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/307162746985acd9dff81d6e1e44437f', 'r.ghuittarista@gmail.com']}
+{'com.tutotoons.app.babyanimalhairsalon2.free': ['Baby Animal Hair Salon 2 - Cute Pet Care & Beauty', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'air.com.tutotoons.app.sweetbabygirlchristmas2.free': ['Sweet Baby Girl Christmas 2', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.binibambini.MiniLite': ['Drawing for Kids Learning Games for Toddlers age 3', '8936557872064984673', '5,000,000+', 'http://binibambini.com/', 'feedback@binibambini.com']}
+{'air.com.tutotoons.app.animalhairsalon': ['Animal Hair Salon', '6493980387780624296', '5,000,000+', 'http://www.TutoTOONS.com', 'support@tutotoons.com']}
+{'com.tutotoons.app.pandalubabybearcity.free': ['Panda Lu Baby Bear City - Pet Babysitting & Care', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.oki.colors': ['Colors for Kids, Toddlers, Babies - Learning Game', '5796709972154726091', '10,000,000+', 'https://www.facebook.com/notes/gokids/stork-studio-limited-privacy-policy/1105119492835798', 'toplinesolutionsltd@gmail.com']}
+{'com.was.drivethru.supermarket': ['Drive Thru Supermarket: Shopping Mall Car Driving', 'Wacky+Studios+-Parking,+Racing+%26+Talking+3D+Games', '1,000,000+', 'http://www.whackystudio.com/privacypolicy.html', 'ozitechapps@gmail.com']}
+{'com.ferrero.magickinder.tablet': ['Magic Kinder Official App - Free Kids Games', 'Ferrero+Trading+Lux+S.A.', '5,000,000+', 'http://app.magic-kinder.com/', 'contact@magic-kinder.com']}
+{'com.tutotoons.app.pandalufriends.free': ['Panda Lu & Friends - Playground Fun with Baby Pets', '6493980387780624296', '500,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.hippo.supermarket.cashier': ['Cashier in the supermarket. Games for kids', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '10,000+', 'http://psvgamestudio.com', 'babygamepub@gmail.com']}
+{'com.libii.makeupsuperstar': ['Make-Up Me: Superstar', '7670331570699900357', '10,000,000+', 'http://libii.com', 'wecare@libii.com']}
+{'com.starfunzone.fashion.girls.makeover.salon': ['Cute Girl Makeup Salon Games: Fashion Makeover Spa', '2d+fun+zone', '100,000+', 'http://www.starfunzone.com', '2dfunzone@gmail.com']}
+{'com.queleas.preschoolgamesforkids': ['Preschool Games For Kids - Toddler games for 2-5', '7434551957840228675', '1,000,000+', 'http://www.queleas.com/preschool/', 'webmaster@queleas.com']}
+{'se.appfamily.dinoscratchfree': ['Dinosaur Scratch and Paint - Free Game for Kids', '8230212300039227114', '1,000,000+', 'http://www.appfamily.se', 'per.haglund@appfamily.se']}
+{'com.tocaboca.tocaboo': ['Toca Boo', '8567646723268777320', '50,000+', 'http://tocaboca.com/', 'support@tocaboca.com']}
+{'wonderland.beauty': ['Wonderland : Beauty & Beast', '4907572025980617983', '1,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'air.org.pbskids.danieltigerpottyapp': ["Daniel Tiger's Stop & Go Potty", '8332149447945516079', '10,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'mytown.hospital': ['My Town : Hospital', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'org.pbskids.dtigerexploreneighborhood': ["Explore Daniel's Neighborhood", '8332149447945516079', '50,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'uk.co.bluezoo.numberblocks.game1': ['Numberblocks - Hide and Seek', 'Blue+Zoo', '1,000+', 'http://www.blue-zoo.co.uk', 'appsupport@blue-zoo.co.uk']}
+{'mytown.airport': ['My Town : Airport', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.intellijoy.android.reading': ['Learn to Read with Tommy Turtle', '6695914693084197974', '100,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'mytown.friendshouse': ["My Town : Best Friends' House", '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.school': ['My Town : School', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.peppapig.holiday': ['Peppa Pig: Holiday', '5920339924959681787', '50,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'mytown.hotel': ['My Town : Hotel', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.tocaboca.tocalabplants': ['Toca Lab: Plants', '8567646723268777320', '50,000+', 'https://www.tocaboca.com', 'support@tocaboca.com']}
+{'net.pluginmedia.pawpatrolflyer': ['PAW Patrol Air and Sea Adventures', 'Nickelodeon', '100,000+', 'http://www.nickjr.com/appsupport', 'appsupport@nickjr.com']}
+{'com.kevinbradford.games.secondgrade': ['Second Grade Learning Games', '7324901894058820362', '10,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'mytown.grandparents': ['My Town : Grandparents', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.tocaboca.tocamysteryhouse': ['Toca Mystery House', '8567646723268777320', '10,000+', 'https://tocaboca.com/apps/', 'support@tocaboca.com']}
+{'mycity.office': ['My City : Office', '4907572025980617983', '5,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.amusementpark': ['My Town : ICEME Amusement Park', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.tribeplay.pandarestaurant2': ['Dr. Panda Restaurant 2', '4902729103455422060', '100,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.tocaboca.blocks': ['Toca Blocks', '8567646723268777320', '100,000+', 'http://tocaboca.com/', 'support@tocaboca.com']}
+{'se.filimundus.briorailway': ['BRIO World - Railway', 'Filimundus+AB', '10,000+', 'http://www.filimundus.se', 'info@filimundus.se']}
+{'mycity.home': ['My City : Home', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.freecloud.StackTheStates2': ['Stack the States® 2', 'Dan+Russell-Pinson', '10,000+', 'http://dan-russell-pinson.com', 'admin@freecloud.com']}
+{'mytown.mall': ['My Town : Shopping Mall', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.preschool': ['My Town : Preschool', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.iscore': ['iScore5 APHG', 'iDevConcepts,+LLC', '1,000+', 'http://www.iscore5.com', 'iScore5business@gmail.com']}
+{'mytown.wedding': ['My Town : Wedding', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.peppapig.themepark': ['Peppa Pig: Theme Park', '5920339924959681787', '10,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'mycity.dentist': ['My City : Dentist visit', '4907572025980617983', '5,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.peppapig.partytime': ['Peppa Pig: Party Time', '5920339924959681787', '10,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'mytown.garage': ['My Town : Car wash fix & drive', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.suntex.game24': ['24 Game – Math Card Game', 'Suntex+International+Inc', '5,000+', 'http://www.24game.com', 'info@24game.com']}
+{'org.pbskids.wildkrattsrunner': ['Wild Kratts Rescue Run', '8332149447945516079', '1,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.gooblegames.arithmagic': ['Arithmagic - Math Wizard Game', 'Gooble+Games', '500+', 'http://www.gooblegames.com', 'app@gooblegames.com']}
+{'mycity.afterschool': ['My City : After School', '4907572025980617983', '5,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.hauntedhouse': ['My Town : Haunted House', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.firestation': ['My Town : Fire station Rescue', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.tocaboca.tocatrain': ['Toca Train', '8567646723268777320', '1,000+', 'http://tocaboca.com/', 'support@tocaboca.com']}
+{'org.pbskids.wkwa': ['Wild Kratts World Adventure', '8332149447945516079', '10,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'mytown.spa': ['My Town : Beauty Spa Saloon', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'wonderland.peterpan': ['Wonderland : Peter Pan', '4907572025980617983', '1,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.pets': ['My Town : Pets', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.cinema': ['My Town : Cinema', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.beach': ['My Town : Beach Picnic', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.museum': ['My Town : Museum', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.guruarcade.truewishes': ['True Wishes', 'Guru+Arcade', '1,000+', 'http://gurustudio.com', 'arcade@gurustudio.com']}
+{'mylittleprincess.castle': ['My Little Princess : Castle', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.bakery': ['My Town : Bakery', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'org.pbskids.swhyabc': ['Super Why! ABC Adventures', '8332149447945516079', '10,000+', 'http://pbskids.org/mobile', 'AndroidApp@pbs.org']}
+{'mytown.stores': ['My Town : Stores', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'wonderland.mermaid': ['Wonderland : Little Mermaid', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.peppapig.sportsday': ['Peppa Pig: Sports Day', '5920339924959681787', '10,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'com.sevenacademy.wordland': ['Sight Words reading & spelling', '9017602380275422612', '5,000+', 'http://www.edokiacademy.com', 'support@edokiacademy.com']}
+{'mytown.beautycontest': ['My Town : Beauty Contest', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.daycare': ['My Town : Daycare', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.intellijoy.sightwords': ['Kids Reading Sight Words', '6695914693084197974', '10,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'mytown.danceschool': ['My Town : Dance School', '4907572025980617983', '50,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.thup.fixit': ['Monkey Preschool Fix-It', '7420649169927805172', '10,000+', 'http://www.thup.com/', 'support@thup.com']}
+{'mytown.farm': ['My Town : Farm', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.mtvn.tmntprecoolgoogle': ['TMNT: Half-Shell Heroes', 'Nickelodeon', '10,000+', 'http://www.nickjr.com/appsupport/', 'appsupport@nickjr.com']}
+{'com.peppapig.seasonsaw': ['Peppa Seasons: Autumn & Winter', '5920339924959681787', '5,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'com.studiopango.pangoland': ['Pango land', '5656437925259438538', '10,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.trigger_memory.timestales_full': ['Times Tales', 'Trigger+Memory+Co.,+LLC', '100+', 'http://4melabs.com', 'nulpointr@gmail.com']}
+{'org.pbskids.swhyphonicsgoogle': ['Super Why! Phonics Fair', '8332149447945516079', '10,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.mikelovesrobots.morsetoad.redux': ['Morse Toad Redux', 'mikelovesrobots', '500+', 'http://twitter.com/mikelovesrobots', 'mikelovesrobots@gmail.com']}
+{'com.mtvn.ShimmerShineGenie_google': ['Shimmer and Shine: Magical Genie Games for Kids', 'Nickelodeon', '5,000+', 'http://nickjr.com/appsupport', 'appsupport@nickjr.com']}
+{'mylittleprincess.stores': ['My Little Princess : Stores', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'air.com.pencilkids.monkeygohappy': ['Monkey GO Happy', '7298170489733075183', '50,000+', 'http://www.pencilkids.com', 'robin@pencilkids.com']}
+{'com.mtvn.doraperrito.google': ['Dora Appisode: Perrito', 'Nickelodeon', '5,000+', 'http://www.nickjr.com/appsupport', 'appsupport@nickjr.com']}
+{'com.intellijoy.tellingtime': ['Kids Telling Time', '6695914693084197974', '5,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'net.cleverbit.SafariPuzzlesFull': ['Kids Puzzles, Funny Animals #2 (full game)', 'CLEVERBIT', '5,000+', 'http://cleverbit.net', 'info@cleverbit.net']}
+{'mylittleprincess.wizard': ['My Little Princess : Wizard', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.azati.noteworks': ['NoteWorks', 'Azati', '5,000+', 'http://www.azati.com', 'info@azati.com']}
+{'com.bbc.heyduggeebigbadgeapp': ['Hey Duggee: The Big Badge App', 'BBC+Worldwide+%28Ltd%29', '10,000+', 'http://www.scarybeasties.com/app_content/bbc_worldwide/heyduggee1/parents/contact_online.html', 'support@scarybeasties.com']}
+{'com.sesameworkshop.ssea.google': ["Elmo's Animals", '7850090303831496329', '500+', 'http://www.sesamestreet.org/', 'sesameworkshopapps@sesame.org']}
+{'com.tribeplay.pandaairport': ['Dr. Panda Airport', '4902729103455422060', '100,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'net.cleverbit.DinoPuzzlesFull': ['Funny Dinosaurs Kids Puzzles, full game.', 'CLEVERBIT', '1,000+', 'http://cleverbit.net', 'info@cleverbit.net']}
+{'mylittleprincess.fairy': ['My Little Princess : Fairy Forest', '4907572025980617983', '5,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'uk.co.bluezoo.meetthealphablocks2': ['Alphablocks - Letter Fun!', 'Blue+Zoo', '5,000+', 'http://www.blue-zoo.co.uk', 'appsupport@blue-zoo.co.uk']}
+{'org.pbskids.superwhyapp': ['Super Why! Power to Read', '8332149447945516079', '1,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.sec.kidsplat.kidsbcg': ['Crocro Adventure', '6471849352631022478', '1,000+', 'http://www.sidi.org.br', 'solutions.apps@sidi.org.br']}
+{'com.playdatedigital.racetotherescue': ['Transformers Rescue Bots: Need for Speed', '6509589977203669354', '1,000+', 'http://playdatedigital.com/', 'shaan@playdatedigital.com']}
+{'air.org.pbskids.arthursbigapp': ["Arthur's Big App", '8332149447945516079', '1,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.lifeway.vbs2019': ['LifeWay VBS In The Wild', 'LifeWay+Christian+Resources', '50+', 'http://www.lifeway.com', 'customerservice@lifeway.com']}
+{'org.pbskids.pinkaliciousparty': ['Pinkalicious Party', '8332149447945516079', '500+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'org.pbskids.wkbabybuddies': ['Wild Kratts Baby Buddies', '8332149447945516079', '10,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.chesskingdom': ['Magnus Kingdom of Chess', 'WeWantToKnow+AS', '1,000+', 'https://magnuskingdom.com', 'support@magnuskingdom.com']}
+{'com.avokiddo.games.thinkrolls2': ['Thinkrolls 2 - Logic Puzzles', '6764088955104110890', '10,000+', 'http://www.avokiddo.com', 'hello@avokiddo.com']}
+{'com.kevinbradford.games.firstgradefullvpp': ['First Grade Learning Games (School Edition)', '7324901894058820362', '5,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.happyfrogapps.fluency': ['Reading Fluency Skill Builder', 'Happy+Frog+Apps', '100+', 'http://www.HappyFrogApps.com', 'support@happyfrogapps.com']}
+{'com.studiopango.pangobuildpark': ['Pango Build Park', '5656437925259438538', '1,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.intellijoy.letters.tracing': ['Alive Alphabet: Letter Tracing', '6695914693084197974', '1,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.wewanttoknow.BigNumbers': ['DragonBox Big Numbers', 'WeWantToKnow+AS', '5,000+', 'http://dragonbox.com/products/big-numbers', 'support@dragonbox.com']}
+{'com.denalirx.app.pyramid1': ['Top 200 Drug Matching Game 2018', '8559623944802658104', '1,000+', 'http://Denalirx.com', 'chris@denalirx.com']}
+{'org.pbskids.blobchase': ['Odd Squad: Blob Chase', '8332149447945516079', '1,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.intellijoy.abc.trains': ['Learn Letter Names and Sounds with ABC Trains', '6695914693084197974', '50,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'se.filimundus.littlepolice': ['Little Police', 'Filimundus+AB', '1,000+', 'http://www.filimundus.com', 'info@filimundus.se']}
+{'com.anahoret.android.numbers': ['Kids Numbers and Math', '6695914693084197974', '100,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'air.com.thirdsense.eggyWords250': ['Eggy 250 HD', 'Blake+eLearning+Pty+Ltd', '10,000+', 'http://readingeggs.com.au/', 'bel_android@blake.com.au']}
+{'com.acronymgames.mimmimpremium': ['Kate & Mim-Mim Funny Bunny Fun', 'A.C.R.O.N.Y.M.+digital', '500+', 'http://www.kateandmimmim.com', 'support@acronymdigital.com']}
+{'com.letterschool': ['LetterSchool - Block Letters', '5086466461784361237', '10,000+', 'http://www.letterschool.com/', 'support@letterschool.com']}
+{'com.intellijoy.kids.math': ['Kids Kindergarten Math', '6695914693084197974', '1,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.mtvn.blazedinorescue_google': ['Blaze Dinosaur Egg Rescue Game', 'Nickelodeon', '10,000+', 'http://www.nickjr.com/appsupport/', 'appsupport@nickjr.com']}
+{'com.mtvn.doracheckupday.google': ['Dora Appisode: Check-Up Day!', 'Nickelodeon', '1,000+', 'http://www.nickjr.com/appsupport', 'appsupport@nickjr.com']}
+{'com.vectorpark.metamorphabet': ['Metamorphabet', 'Vectorpark', '5,000+', 'http://vectorpark.com', 'vectorpark@gmail.com']}
+{'air.air.TakosJapanese': ['Learn Japanese - Read & Write', '8193799759505238951', '10,000+', 'http://www.takosjapanese.com', 'team@grogshot.com']}
+{'se.filimundus.pi3': ["Pettson's Inventions 3", 'Filimundus+AB', '10,000+', 'http://www.filimundus.com', 'info@filimundus.se']}
+{'com.intellijoy.shapes2': ['Kids Learn Shapes 2', '6695914693084197974', '1,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.duckiedeck.birdHouses': ['Duckie Deck Bird Houses', '7959931803554855044', '1,000+', 'http://duckiedeck.com', 'quack@duckiedeck.com']}
+{'com.tribeplay.pandasupermarket': ['Dr. Panda Supermarket', '4902729103455422060', '50,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.bbc.heyduggeeweloveanimals': ['Hey Duggee: We Love Animals', 'BBC+Worldwide+%28Ltd%29', '5,000+', 'http://www.scarybeasties.com/app_content/bbc_worldwide/webviews-junior/parents/contact.php?bid=com.bbc.heyduggeeweloveanimals', 'support@scarybeasties.com']}
+{'com.PPC.Meet.The.Vowels.Flashcards': ['Meet the Vowels Flashcards', '4963477729692381907', '10+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.ochem.ChairGame2': ['Chairs!', 'Alchemie+Solutions,+Inc', '100+', 'http://www.chai.rs/', 'support@alchem.ie']}
+{'com.esketchers.hooponoponowayCleanErase': ['Ho’oponopono Clean and Erase', 'Mabel+Katz', '1,000+', 'http://www.mabelkatz.com', 'support@mabelkatz.com']}
+{'com.drpanda.bathtime': ['Dr. Panda Bath Time', '4902729103455422060', '5,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'net.cleverbit.LearnAnimalsEx': ['Kids Learn About Animals', 'CLEVERBIT', '50,000+', 'http://cleverbit.net', 'info@cleverbit.net']}
+{'com.PPC.MeetTheSightWords3': ['Meet the Sight Words 3 Game', '4963477729692381907', '50+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.mtvn.blazeobstacle_google': ['Blaze: Obstacle Course', 'Nickelodeon', '5,000+', 'http://nickjr.com/appsupport', 'appsupport@nickjr.com']}
+{'com.thup.findit': ['Monkey Preschool Find It!', '7420649169927805172', '1,000+', 'http://www.thup.com/', 'peter@thup.com']}
+{'uk.co.topmarks.HitTheButton': ['Hit the Button Math', 'Topmarks+Online+Ltd', '10,000+', 'http://www.topmarks.co.uk/apps/hit-the-button', 'support@topmarks.co.uk']}
+{'com.kidga.mathrush.full': ['Math Effect Full', '6924435167672710117', '1,000+', 'http://kidga.com', 'kidga.games.lt@gmail.com']}
+{'com.truncale.Fingerspell_adfree': ['Finger Spell ASL - AD FREE', '6201851602460773082', '500+', 'http://voidedpixels.com', 'adam.truncale@gmail.com']}
+{'com.kevinbradford.games.barnyardgames': ['Barnyard Games For Kids', '7324901894058820362', '50,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.kedronic.cbnanimals': ['Color by Numbers - Animals +', '8382340851947772398', '1,000+', 'http://kedronic.com/cbn', 'support@kedronic.com']}
+{'com.LittleBigThinkers.RocketSpellerPlus': ['Rocket Speller PLUS', 'Little+Big+Thinkers', '1,000+', 'http://littlebigthinkers.com', 'info@littlebigthinkers.com']}
+{'org.pbskids.cmc': ["Cookie Monster's Challenge", '8332149447945516079', '5,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.tribeplay.pandarestaurant': ['Dr. Panda Restaurant', '4902729103455422060', '50,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'net.cleverbit.PuzzlesForKidsFull': ['Funny Animal Puzzles for Kids, full game', 'CLEVERBIT', '5,000+', 'http://cleverbit.net', 'info@cleverbit.net']}
+{'com.playdatedigital.LunaEclipsed': ['My Little Pony: Luna Eclipsed', '6509589977203669354', '1,000+', 'http://playdatedigital.com/', 'shaan@playdatedigital.com']}
+{'com.thup.bananas': ["Zuzu's Bananas", '7420649169927805172', '1,000+', 'http://www.thup.com/', 'peter@thup.com']}
+{'com.mtvn.nellagoogleUS': ['Nella The Princess Knight: Kingdom Adventures', 'Nickelodeon', '100+', 'http://appsupport.nick.com/', 'appsupport@nick.com']}
+{'com.tutotoons.app.kikififihalloweensalon.full': ['Kiki & Fifi Halloween Salon FULL', '6493980387780624296', '100+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.universis.dinosaurchess': ['Dinosaur Chess: Learn to Play!', 'Universis+Technology+Ltd', '1,000+', 'http://www.universis.co.uk/', 'paul.shafi@gmail.com']}
+{'com.PPC.Blends': ['Meet the Phonics - Blends Game', '4963477729692381907', '50+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.PPC.MeettheShapesFlashcards': ['Meet the Shapes Flashcards', '4963477729692381907', '10+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.magiclightpictures.gruffalopuzzles': ['Gruffalo: Puzzles', 'Magic+Light+Pictures', '1,000+', 'http://www.magiclightpictures.com', 'office@magiclightpictures.com']}
+{'air.com.mauimini.game': ['Maui Mini Educational Games', 'Mercedes+Creus', '1,000+', 'http://www.mauimini.com/', 'mercedes.creus@gmail.com']}
+{'air.com.magiclightpictures.gruffalogamesAndroid': ['Gruffalo: Games', 'Magic+Light+Pictures', '10,000+', 'http://www.magiclightpictures.com', 'office@magiclightpictures.com']}
+{'air.PangoImaginaryCar': ['Pango Imaginary Car', '5656437925259438538', '1,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.intellijoy.tapandcolor': ['Kids Tap and Color', '6695914693084197974', '5,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'de.woodiehoo.brushingteeth': ['WoodieHoo Brushing Teeth', 'RTL+DISNEY+Fernsehen+GmbH+%26+Co.+KG', '1,000+', 'http://www.superrtl.de', 'Entwickler@superrtl.de']}
+{'com.PPC.MeetTheLtrsUppercase': ['Meet the Letters - Uppercase  Game', '4963477729692381907', '50+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.drpanda.school': ['Dr. Panda School', '4902729103455422060', '50,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.PPC.MathFacts1': ['Meet the Math Facts 1 - Game', '4963477729692381907', '50+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.timeshtamp.D0132_Thoth': ['Tarot Thoth trainer', 'TimeShtamp', '1,000+', 'https://vk.com/public124681859', 'timeshtamp@gmail.com']}
+{'com.mtvn.ShimmerShineGoogle': ['Shimmer and Shine: Carpet Ride', 'Nickelodeon', '5,000+', 'http://www.nickjr.com/appsupport/', 'appsupport@nickjr.com']}
+{'com.mtvn.dorashapetrain.google': ['Dora Appisode: Shape Train', 'Nickelodeon', '500+', 'http://www.nickjr.com/appsupport', 'MobileAppSubmission@mtvn.com']}
+{'com.ultimatemnemonica.com': ['The Ultimate Mnemonica Trainer', 'CubeMG', '1,000+', 'http://magicalexcellence.com/learn-mnemonica-ultimate-mnemonica-trainer/', 'Sam@cubemg.com']}
+{'com.avokiddo.games.fitoons': ['Fitoons', '6764088955104110890', '100+', 'http://www.avokiddo.com', 'hello@avokiddo.com']}
+{'com.PPC.MeetTheSightWords1': ['Meet the Sight Words 1 Game', '4963477729692381907', '100+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.PPC.MeetTheLtrslowercase': ['Meet the Letters - Lowercase Game', '4963477729692381907', '50+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.PPC.MeettheLettersFlashcardsLowercase': ['Meet the Letters - Lowercase Flashcards', '4963477729692381907', '50+', 'http://preschoolprepco.com', 'oxleykathy@gmail.com']}
+{'com.tutotoons.app.kittymeowmeowmycutecat.full': ['Kitty Meow Meow FULL', '6493980387780624296', '100+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.spritebox.coding': ['SpriteBox Coding', 'SpriteBox+LLC', '500+', 'http://spritebox.com', 'contact.lightbot@gmail.com']}
+{'com.fisher_price.seensayvehicles': ["See 'n Say Vehicles", 'Fisher-Price,+Inc.', '100+', 'http://www.fisher-price.com/en_US/index.html', 'service@mattel.com']}
+{'com.happyfrogapps.compbuilder': ['Comprehension Builder', 'Happy+Frog+Apps', '50+', 'http://www.HappyFrogApps.com', 'support@happyfrogapps.com']}
+{'com.imult.bebebears': ['Be-be-bears', '4732508951530669034', '1,000+', 'http://goo.gl/36Yh2U', 'support@i-mult.ru']}
+{'com.zinkia.pocoyo.puzles': ['Pocoyo Puzzles', '8378379050415836542', '100+', 'http://www.pocoyo.com/apps', 'apps@zinkia.com']}
+{'com.imult.papermatesfull': ['Paper Tales', '4732508951530669034', '5,000+', 'http://goo.gl/G6wfP7', 'support@i-mult.ru']}
+{'com.nampadesign.android.tivoli': ['Nampa Tivoli', 'Nampa+Design+AB', '100+', 'http://www.nampadesign.com', 'contact@nampadesign.com']}
+{'air.com.tutotoons.app.animalhairsalon2jungle.full': ['Jungle Animal Hair Salon FULL', '6493980387780624296', '500+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.denalirx.app.test1': ['Pharmacy Tech Practice Test 1', '8559623944802658104', '100+', 'http://Denalirx.com', 'chris@denalirx.com']}
+{'com.imstudio.dinotower': ['Dinosaur Math Tower Defense', 'IM+Studio', '5+', 'http://www.theinteractivestudio.com/google', 's4samueltan@gmail.com']}
+{'com.happyfrogapps.factOpinionSE': ['Fact or Opinion', 'Happy+Frog+Apps', '10+', 'http://www.HappyFrogApps.com', 'support@happyfrogapps.com']}
+{'com.klett.blitzrechnen.eins': ['Calculightning 1 - Maths', 'Ernst+Klett+Verlag+GmbH', '10,000+', 'http://www.klett.de', 'support@klett.de']}
+{'com.thematica.firetruckspro': ['Firetrucks: 911 rescue PRO', '5131061115869127626', '100+', 'http://www.thematica.info', 'dev@thematica.info']}
+{'net.gcompris.full': ['Children Educational Game Full', 'Timoth%C3%A9e+Giet', '1,000+', 'http://gcompris.net', 'sales@gcompris.net']}
+{'air.com.literacysoft.PhonicsAndReadingWithMcGuffeyB': ['Phonics and Reading I', 'Literacysoft.com', '100+', 'http://literacysoft.com', 'scott@literacysoft.com']}
+{'com.kaputoys.bloomAndroid': ['Kapu Bloom Tunes', '6910164377752668667', '1,000+', 'http://www.kaputoys.com', 'hello@kaputoys.com']}
+{'com.herocraft.game.full.minichess': ['MiniChess by Kasparov', '5255025567337855923', '500+', 'http://www.herocraft.com', 'support@herocraft.com']}
+{'com.duckiedeck.trashToys': ['Duckie Deck Trash Toys', '7959931803554855044', '500+', 'http://duckiedeck.com', 'quack@duckiedeck.com']}
+{'com.interactiveresources.wipewallmdiphone': ['Wipeout Wall (x & ÷)', 'Primary+Games+Ltd', '100+', 'http://www.interactive-resources.co.uk', 'support@primarygames.co.uk']}
+{'org.greyolltwit.numberlines': ['Number Lines', 'Grey+Olltwit+Educational+Software', '50+', 'http://www.go-educational-software.com/', 'admin@greyolltwit.com']}
+{'com.readingdoctor.lettersounds1professional': ['Letter Sounds 1 Pro', 'Reading+Doctor+Pty+Ltd', '100+', 'http://www.readingdoctor.com.au', 'enquiry@readingdoctor.com.au']}
+{'com.avomobile.bathdress': ['Dino Bath & Dress Up - Dinosaur Games for Toddlers', '5968061728861577338', '500+', 'http://joypreschoolgame.com/main/', 'chongwang3@gmail.com']}
+{'eu.mogumogu.learnaclock.full': ['What time is it? Clock 4 kids', 'mogu+mogu+educational', '1,000+', 'http://plus.google.com/113889156636888022545', 'mogumogu.eu@gmail.com']}
+{'com.duckiedeck.collection': ['Duckie Deck Collection', '7959931803554855044', '1,000+', 'http://duckiedeck.com', 'quack@duckiedeck.com']}
+{'com.kevinbradford.games.owlpreschool': ['Owl and Pals Preschool Lessons', '7324901894058820362', '1,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'air.pangobook4': ['Pango is dreaming', '5656437925259438538', '1,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'air.pangovol3': ['Pango plays soccer', '5656437925259438538', '1,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.beiz.lolasmath': ['Lola’s Math Train Learn Basics', '5908265825979855284', '10,000+', 'http://www.lolapanda.com', 'support@beiz.com']}
+{'air.pangoBook2': ['Pango and friends', '5656437925259438538', '1,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'maddy.toddlershapes': ['Toddler Shapes', 'Bruce+Lowe', '10,000+', 'https://sites.google.com/site/edugames4toddlers/', 'brucelowedev@gmail.com']}
+{'com.nightboost.kids.animals': ['Kids Learn about  Animals', '6695914693084197974', '10,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'fr.lehovetzki.ABMath': ['Math games for kids : times tables training', 'Nicolas+Lehovetzki', '10,000+', 'http://www.ab-math-games.com', 'supportabmath@lehovetzki.fr']}
+{'air.com.upcquiz.bqbubble19': ['BQBubble19', 'Ruth+Wilson', '50+', 'http://www.upcquiz.com', 'rwtds@yahoo.com']}
+{'com.indigokids.premmashacleanup': ['Masha and the Bear- House Cleaning Games for Girls', '6672223492195848186', '500+', 'http://indigokidsgames.com', 'i@indigokidsgames.com']}
+{'com.visualmathinteractive.zapzapmathgradek': ['Zap Zap Kindergarten Math', '7702928124686187323', '100+', 'http://www.zapzapmath.com/zap-zap-kindergarten-math', 'hello@zapzapmath.com']}
+{'com.bbc.sarahandduckthebigsleepover': ['Sarah & Duck The Big Sleepover', 'BBC+Worldwide+%28Ltd%29', '1,000+', 'http://www.bbcworldwide.com/', 'digital.bbcworldwide@gmail.com']}
+{'air.com.magiclightpictures.rotb': ['Room on the Broom: Games', 'Magic+Light+Pictures', '10,000+', 'http://www.roomonthebroom.com/game', 'office@magiclightpictures.com']}
+{'com.hfnelson.cellular': ['CellulAR for Merge Cube', 'Half+Full+Nelson', '50+', 'http://hfnelson.com', 'andrew@hfnelson.com']}
+{'com.mcpeppergames.amazingcarwashpremium': ['Amazing Car Wash - For Kids PE', '5029755957860459217', '100+', 'http://www.mcpeppergames.com', 'info@mcpeppergames.com']}
+{'com.missingames.kids.painting': ['Kids Painting', '6695914693084197974', '5,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.tutotoons.app.babytigercare.full': ['Baby Tiger Care FULL', '6493980387780624296', '100+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.bbc.heyduggeecounting': ['Hey Duggee: The Counting Badge', 'BBC+Worldwide+%28Ltd%29', '1,000+', 'http://bit.ly/hdcountingsupport', 'support@scarybeasties.com']}
+{'com.iscoreapwh': ['iScore5 AP World History', 'iDevConcepts,+LLC', '100+', 'http://www.iscore5.com', 'iScore5business@gmail.com']}
+{'com.masonmacbeth.elephantlifeggl': ['Elephant Life - Animal Simulator', 'Mason+Macbeth', '1+', 'https://masonmacbeth.yolasite.com/', 'masonmacbeth00@gmail.com']}
+{'com.eblireads.Space': ['Reading Adventures with Booker #2 EBLI Space', 'EBLI+%28Evidence-Based+Literacy+Instruction%29', '10+', 'http://www.ebli.com', 'info@ebli.com']}
+{'com.kenikeni.pegandpog.googleplay': ['Peg and Pog - Explore and Learn First Words', '8854162429345786571', '10+', 'https://www.kenikeni.com', 'support@kenikeni.com']}
+{'com.Ahoiii.FieteMathClimber': ['Fiete Math Climber - Learning game for kids from 5', '6824907427361644705', '500+', 'http://www.ahoiii.com', 'mail@ahoiii.com']}
+{'com.tutotoons.app.swirlyicypops.full': ['Swirly Icy Pops FULL', '6493980387780624296', '50+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.criticalthinking.EditorInChiefBeginning1': ['Editor in Chief® Beginning 1', 'The+Critical+Thinking+Co.', '10+', 'https://CriticalThinking.com', 'support@criticalthinking.com']}
+{'com.criticalthinking.lettersoundssonggame': ['Letter Sounds Song and Game™', 'The+Critical+Thinking+Co.', '10+', 'https://www.CriticalThinking.com', 'support@criticalthinking.com']}
+{'com.InsidersWords.CLEPBiology': ['CLEP Biology Rapid Review', 'Network4Learning,+Inc.', '1+', 'http://www.insiderswords.com', 'LewisMorris@Network4Learning.org']}
+{'air.com.ahoiii.fieteFarm': ['Fiete Farm - Animal Farm Game for Kids', '6824907427361644705', '1,000+', 'http://www.ahoiii.com', 'mail@ahoiii.com']}
+{'com.kaputoys.planet': ['Kapu Planet', '6910164377752668667', '1,000+', 'http://www.kaputoys.com', 'hello@kaputoys.com']}
+{'com.kidsgameprojects.AnimalsFarmForKidsPro': ['Animals Farm For Kids PRO', 'Kids+Games+Projects', '5,000+', 'http://kidsgamesprojects.com', 'kidsgameprojects@gmail.com']}
+{'air.com.ululab.SliceFractionsSchoolEdition': ['Slice Fractions School Edition', 'Ululab', '1,000+', 'http://ululab.com/', 'info@ululab.com']}
+{'com.bbc.SarahAndDuckPark': ['Sarah & Duck - Day at the Park', 'BBC+Worldwide+%28Ltd%29', '5,000+', 'http://www.scarybeasties.com/app_content/bbc_worldwide/sarahandduck1/parents/contact_online.html', 'support@scarybeasties.com']}
+{'nl.rtamersfoort.rekenblobstafels2': ['Math Blobs Times tables', 'RT+Amersfoort+%28Stephan+Vermeire%29', '1,000+', 'http://www.rtamersfoort.nl', 'stephan@rtamersfoort.nl']}
+{'com.playtic.monsternumbersFull': ['Monster Numbers Full Version: Math games for kids', '8033252547048365291', '10,000+', 'http://monsternumbers.net', 'info@educagames.net']}
+{'com.eggrollgames.animalmathgrade1paid': ['Animal Math First Grade Math Games for 1st Grade', 'Eggroll+Games', '100+', 'http://www.eggrollgames.com/', 'support@eggrollgames.com']}
+{'com.gigagrand.intervalcardspaid': ['Interval Cards Music Theory', 'GigaGrand', '50+', 'http://www.GigaGrand.com', 'gigagranddev@gmail.com']}
+{'com.tribeplay.pandahousework': ['Dr. Panda Home', '4902729103455422060', '50,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'org.emmasgames.gamesforkidsandbabies': ['12 Games for Kids & Babies', 'Emma%27s+Games', '1,000+', 'http://www.emmasgames.org', 'esu@emmasgames.org']}
+{'com.tocaboca.tocalifeworld': ['Toca Life: World', '8567646723268777320', '1,000,000+', 'http://www.tocaboca.com', 'support@tocaboca.com']}
+{'com.abcya.android.games': ['ABCya! Games', '5802605632459861431', '1,000,000+', 'http://www.abcya.com', 'support@abcya.com']}
+{'com.leapfrog.academy': ['LeapFrog Academy™ Educational Games & Activities', 'LeapFrog+Enterprises+Inc', '100,000+', 'http://www.leapfrog.com', 'support@leapfrog.com']}
+{'com.peppapig.worldofpeppapig_g': ['World of Peppa Pig', '5920339924959681787', '1,000,000+', 'http://www.peppapig.com', 'subscriptions@peppapig.com']}
+{'com.bimiboo.playandlearn': ['Toddler games for 2-5 year olds', '5399967083006869522', '1,000,000+', 'https://www.bimiboo.com/', 'info@bimiboo.com']}
+{'org.codespark.thefoos': ['codeSpark Academy: Kids Coding', '6949430064785271236', '500,000+', 'https://codespark.com', 'support@codespark.com']}
+{'com.budgestudios.googleplay.BudgeWorld': ['Budge World - Kids Games & Fun', '7489594886728593506', '1,000,000+', 'http://www.budgestudios.com', 'support@budgestudios.ca']}
+{'com.highlights.hiddenpicturespuzzles.global': ['Hidden Pictures Puzzles – Family Spot-it Fun!', '6957842755751332836', '100,000+', 'http://www.highlights.com/', 'highlightsgplay@gmail.com']}
+{'com.internetdesignzone.nurseryrhymes': ['KidloLand- Nursery Rhymes, Kids Games, Baby Songs', '5953899060857093739', '1,000,000+', 'http://www.kidloland.com', 'support@kidloland.com']}
+{'jp.colopl.nyankous': ['Meow Meow Star Acres', 'COLOPL,+Inc.', '1,000,000+', 'http://colopl.co.jp/en/', 'meowmeow@p.cs.colopl.jp']}
+{'com.paperboatapps.google.kiddopia': ['Kiddopia - Preschool Learning Games', '5366949234545811254', '10,000+', 'http://www.paperboatapps.com', 'support@paperboatapps.com']}
+{'com.crayolallc.crayola_create_and_play': ['Crayola Create and Play', 'Crayola+LLC', '100,000+', 'http://www.crayola.com/app', 'support@crayola.com']}
+{'jp.co.ofcr.cm00': ["Cooking Mama: Let's cook!", '5667641639682181100', '10,000,000+', 'http://www.ofcr.co.jp/APP_CookingMama/google_en/index.html', 'mama_info02@ofcr.co.jp']}
+{'com.amayasoft.bookstorem4.en': ['Fairy Tales ~ Children’s Books, Stories and Games', '5201272803035909879', '1,000,000+', 'http://amayasoft.com', 'support@wowbookapp.com']}
+{'com.tocaboca.tocaboo': ['Toca Boo', '8567646723268777320', '50,000+', 'http://tocaboca.com/', 'support@tocaboca.com']}
+{'com.intellijoy.pack': ['All-In-One Intellijoy App Pack Subscription', '6695914693084197974', '1,000,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.storytoys.disney.pixar.coloring.princess.googleplay': ['Disney Coloring World', '8762313232916265908', '10,000+', 'http://storytoys.com', 'support@storytoys.com']}
+{'com.storytoys.hungry.caterpillar.play.school.abc.kids.books.free.android.googleplay': ['The Very Hungry Caterpillar Play School', '8762313232916265908', '50,000+', 'http://storytoys.com', 'support@storytoys.com']}
+{'com.bimiboo.mysteries': ['Learning games for toddlers age 3', '5399967083006869522', '500,000+', 'https://bimiboo.com', 'info@bimiboo.com']}
+{'com.kevinbradford.games.preschoolgames': ['Preschool and Kindergarten Learning Games', '7324901894058820362', '1,000,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.bimiboo.colors': ['Shapes and Colors – Kids games for toddlers', '5399967083006869522', '1,000,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'com.rooplaymedia.rooplay': ['Rooplay - Safe Learning Games for Kids', '7051233942055662996', '500,000+', 'https://www.rooplay.com/privacy-policy', 'support@rooplay.com']}
+{'wonderland.beauty': ['Wonderland : Beauty & Beast', '4907572025980617983', '1,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'org.pbskids.dtigerexploreneighborhood': ["Explore Daniel's Neighborhood", '8332149447945516079', '50,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'air.org.pbskids.danieltigerpottyapp': ["Daniel Tiger's Stop & Go Potty", '8332149447945516079', '10,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.tocaboca.tocalabplants': ['Toca Lab: Plants', '8567646723268777320', '50,000+', 'https://www.tocaboca.com', 'support@tocaboca.com']}
+{'net.pluginmedia.pawpatrolflyer': ['PAW Patrol Air and Sea Adventures', 'Nickelodeon', '100,000+', 'http://www.nickjr.com/appsupport', 'appsupport@nickjr.com']}
+{'com.sesameworkshop.alphabetkitchen.play': ['Sesame Street Alphabet Kitchen', '7850090303831496329', '1,000,000+', 'http://www.sesamestreet.org/', 'support@tiggly.com']}
+{'mytown.hospital': ['My Town : Hospital', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.mochibits.google.leftvsright': ['Left vs Right: Brain Games for Brain Training', '8600652201159507184', '5,000,000+', 'http://support.mochibits.com', 'hello@lvrbrain.com']}
+{'uk.co.bluezoo.numberblocks.game1': ['Numberblocks - Hide and Seek', 'Blue+Zoo', '1,000+', 'http://www.blue-zoo.co.uk', 'appsupport@blue-zoo.co.uk']}
+{'com.binibambini.abc': ['Bini Super ABC! Preschool Learning Games for Kids!', '8936557872064984673', '5,000,000+', 'http://binibambini.com/', 'feedback@binibambini.com']}
+{'com.kevinbradford.games.barnyardgamesfree': ['Barnyard Games For Kids Free', '7324901894058820362', '1,000,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.tutoplay.app': ['TutoPLAY - 100 Best Kids Games in 1 App', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.tutotoons.app.mybabyunicorn.free': ['My Baby Unicorn - Virtual Pony Pet Care & Dress Up', '6493980387780624296', '1,000,000+', 'https://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.baby.toddler.games': ['Toddler Games for 2 and 3 Year Olds', '5953899060857093739', '10,000+', 'http://www.kidlo.com', 'support@kidlo.com']}
+{'com.bimiboo.adventure': ['Preschool games for little kids', '5399967083006869522', '1,000,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'mytown.airport': ['My Town : Airport', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.friendshouse': ["My Town : Best Friends' House", '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.PepiPlay.PepiHospital': ['Pepi Hospital', '6943021025006889296', '1,000,000+', 'http://www.pepiplay.com/', 'support@pepiplay.com']}
+{'com.daveandava.letters': ['ABC – Phonics and Tracing from Dave and Ava', '8764644744753830693', '100,000+', 'https://www.youtube.com/daveandava', 'app@daveandava.com']}
+{'com.tocaboca.blocks': ['Toca Blocks', '8567646723268777320', '100,000+', 'http://tocaboca.com/', 'support@tocaboca.com']}
+{'com.pepiplay.pepihome': ['Pepi House', '6943021025006889296', '5,000,000+', 'http://www.pepiplay.com/', 'support@pepiplay.com']}
+{'mytown.school': ['My Town : School', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.tocaboca.tocamysteryhouse': ['Toca Mystery House', '8567646723268777320', '10,000+', 'https://tocaboca.com/apps/', 'support@tocaboca.com']}
+{'com.intellijoy.android.reading': ['Learn to Read with Tommy Turtle', '6695914693084197974', '100,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'biz.arrowstar.funnyfood2': ['FUNNY FOOD 2! Educational Games for Kids Toddlers!', '8571614593816921411', '5,000,000+', 'http://wowkids.io', 'support@wowkids.io']}
+{'com.highlights.apps.highlightsshapes': ['Highlights Shapes – Shape Sorting & Color Mixing', '6957842755751332836', '100,000+', 'http://www.highlights.com/', 'highlightsgplay@gmail.com']}
+{'com.internetdesignzone.kidlolandcoding': ['Coding Games For Kids - Learn To Code With Play', '5953899060857093739', '50,000+', 'http://www.idzdigital.com%20', 'screene@gmail.com']}
+{'com.arrowstar.FunnyFoodsLite': ['FunnyFood Kindergarten learning games for toddlers', '8571614593816921411', '1,000,000+', 'http://wowkids.io', 'support@wowkids.io']}
+{'com.tribeplay.pandarestaurant2': ['Dr. Panda Restaurant 2', '4902729103455422060', '100,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.letterschool.lite': ['LetterSchool - Learn to Write!', '5086466461784361237', '1,000,000+', 'http://www.letterschool.com/', 'support@letterschool.com']}
+{'mytown.hotel': ['My Town : Hotel', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.bimiboo.puzzles': ['Toddler games for kindergarten kids', '5399967083006869522', '100,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'com.bimiboo.tunes': ['Kids piano', '5399967083006869522', '500,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'com.kevinbradford.games.secondgrade': ['Second Grade Learning Games', '7324901894058820362', '10,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.bimiboo.birthday': ['Baby games for 2 to 4 year olds', '5399967083006869522', '500,000+', 'https://www.bimiboo.com/', 'info@bimiboo.com']}
+{'com.peppapig.holiday': ['Peppa Pig: Holiday', '5920339924959681787', '50,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'mytown.grandparents': ['My Town : Grandparents', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.fingerprintplay.kidomi': ['Kidomi', '7154200571669954491', '10,000+', 'https://www.kidomi.com/', 'support@kidomi.com']}
+{'com.PepiPlay.KingsCastle': ['Pepi Tales: King’s Castle', '6943021025006889296', '1,000,000+', 'http://www.pepiplay.com/', 'support@pepiplay.com']}
+{'com.PepiPlay.PepiShopping': ['Pepi Super Stores', '6943021025006889296', '5,000,000+', 'http://www.pepiplay.com/', 'support@pepiplay.com']}
+{'com.drpanda.restaurant3': ['Dr. Panda Restaurant 3', '4902729103455422060', '1,000,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.kevinbradford.games.firstgrade': ['First Grade Learning Games', '7324901894058820362', '1,000,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.bimiboo.numbers': ['Learning numbers for kids', '5399967083006869522', '100,000+', 'https://www.bimiboo.com/', 'info@bimiboo.com']}
+{'mycity.office': ['My City : Office', '4907572025980617983', '5,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.amusementpark': ['My Town : ICEME Amusement Park', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'se.filimundus.briorailway': ['BRIO World - Railway', 'Filimundus+AB', '10,000+', 'http://www.filimundus.se', 'info@filimundus.se']}
+{'com.storytoys.mothergooseclub.free.android.googleplay': ['Mother Goose Club: Nursery Rhymes & Learning Games', '8762313232916265908', '100,000+', 'http://storytoys.com', 'support@touchpress.com']}
+{'com.binibambini.MiniABCLite': ['Baby ABC in box! Kids alphabet games for toddlers!', '8936557872064984673', '1,000,000+', 'http://binibambini.com/', 'feedback@binibambini.com']}
+{'com.highlights.preschoolpuzzles': ['Hidden Pictures Puzzle Town – Kids Learning Games', '6957842755751332836', '10,000+', 'http://www.highlights.com/', 'highlightsgplay@gmail.com']}
+{'com.iscore': ['iScore5 APHG', 'iDevConcepts,+LLC', '1,000+', 'http://www.iscore5.com', 'iScore5business@gmail.com']}
+{'com.sesame.apps.elmocalls.android': ['Elmo Calls by Sesame Street', '7850090303831496329', '1,000,000+', 'http://www.sesamestreet.org', 'sesameworkshopapps@sesame.org']}
+{'com.queleas.preschoolgamesforkids': ['Preschool Games For Kids - Toddler games for 2-5', '7434551957840228675', '1,000,000+', 'http://www.queleas.com/preschool/', 'webmaster@queleas.com']}
+{'com.makkajai.monstermath2free': ['Monster Math: Fun Math Game for Kids - Grade K-5', 'Makkajai:+Math+Games+for+1st,+2nd,+3rd,+4th+grade', '100,000+', 'http://www.makkajai.com/', 'support@makkajai.com']}
+{'com.SensoryPlayApps.SensoryFishFree': ['Sensory Baby Toddler Learning', 'Xisle+Games', '1,000,000+', 'http://sensoryplayapps.com', 'sensoryplayapps@gmail.com']}
+{'mycity.home': ['My City : Home', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.wedding': ['My Town : Wedding', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mycity.dentist': ['My City : Dentist visit', '4907572025980617983', '5,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.freecloud.StackTheStates2': ['Stack the States® 2', 'Dan+Russell-Pinson', '10,000+', 'http://dan-russell-pinson.com', 'admin@freecloud.com']}
+{'com.kevinbradford.games.thirdgrade': ['Third Grade Learning Games', '7324901894058820362', '1,000,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'mytown.mall': ['My Town : Shopping Mall', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.playtoddlers.vacationhotelstories.free': ['Vacation Hotel Stories', '7324988016582852208', '500,000+', 'https://www.playtoddlers.com', 'hello@playtoddlers.com']}
+{'mytown.preschool': ['My Town : Preschool', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.KnowledgeAdventure.JSAcademyKG': ['JumpStart Academy Kindergarten', '7058574609868414744', '10,000+', 'http://www.jumpstart.com/aboutus/contact-us', 'support@jumpstart.com']}
+{'com.bimiboo.runner': ['Car games for toddlers', '5399967083006869522', '10,000+', 'http://www.bimiboo.com/', 'admin@bimiboo.com']}
+{'air.com.zinkia.playset': ['Pocoyo PlaySet Learning Games', '8378379050415836542', '100,000+', 'http://www.pocoyo.com/en/apps/playset', 'apps@zinkia.com']}
+{'org.pbskids.wildkrattsrunner': ['Wild Kratts Rescue Run', '8332149447945516079', '1,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.bimiboo.coloring': ['Coloring book for kids', '5399967083006869522', '500,000+', 'https://www.bimiboo.com/', 'info@bimiboo.com']}
+{'com.sesameworkshop.elabcs.play': ['Elmo Loves ABCs', '7850090303831496329', '500,000+', 'http://www.sesamestreet.org/', 'sesameworkshopapps@sesame.org']}
+{'com.peppapig.partytime': ['Peppa Pig: Party Time', '5920339924959681787', '10,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'org.pbskids.wkwa': ['Wild Kratts World Adventure', '8332149447945516079', '10,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.KnowledgeAdventure.JSAcademyPS': ['JumpStart Academy Preschool', '7058574609868414744', '10,000+', 'http://www.jumpstart.com/aboutus/contact-us', 'support@jumpstart.com']}
+{'wonderland.peterpan': ['Wonderland : Peter Pan', '4907572025980617983', '1,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.hauntedhouse': ['My Town : Haunted House', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.pazugames.girlshairsalon': ['Girls Hair Salon', 'Pazu+Games', '5,000,000+', 'http://pazugames.com', 'info@pazugames.com']}
+{'com.tocaboca.tocatrain': ['Toca Train', '8567646723268777320', '1,000+', 'http://tocaboca.com/', 'support@tocaboca.com']}
+{'mytown.firestation': ['My Town : Fire station Rescue', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.color.mandala': ['Mandala Coloring Pages', '8734356468512982273', '10,000,000+', 'https://www.facebook.com/coloringkidsclub/', 'info@kidscolorclub.com']}
+{'com.tutotoons.app.sweetbabygirlmermaidlife.free': ['Sweet Baby Girl Mermaid Life - Magical Ocean World', '6493980387780624296', '500,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.bimiboo.coloringpuzzles': ['Kids puzzles 3 and 4 years old', '5399967083006869522', '100,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'com.StudioPango.StoryTime': ['Pango Storytime', '5656437925259438538', '500,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.idz.additionsubtractiongames': ['Addition & Subtraction for Kids - First Grade Math', '5953899060857093739', '5,000+', 'http://www.idzdigital.com', 'support@idzdigital.com']}
+{'org.pbskids.swhyabc': ['Super Why! ABC Adventures', '8332149447945516079', '10,000+', 'http://pbskids.org/mobile', 'AndroidApp@pbs.org']}
+{'co.touchapps.makeup_girls.lite': ['Makeup Girls', 'Pazu+Games', '1,000,000+', 'http://pazugames.com', 'info@pazugames.com']}
+{'com.mtvn.tmntprecoolgoogle': ['TMNT: Half-Shell Heroes', 'Nickelodeon', '10,000+', 'http://www.nickjr.com/appsupport/', 'appsupport@nickjr.com']}
+{'com.kevinbradford.games.fourthgrade': ['Fourth Grade Learning Games', '7324901894058820362', '500,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.YovoGames.babycare': ['Baby care', 'Games+from+YovoGames+!', '10,000,000+', 'http://www.yovogames.com', 'yovogames@gmail.com']}
+{'com.peppapig.sportsday': ['Peppa Pig: Sports Day', '5920339924959681787', '10,000+', 'http://eonefamily.com/home', 'support@peppapig.com']}
+{'com.bimiboo.firstwords': ['Baby flash cards for toddlers', '5399967083006869522', '100,000+', 'https://www.bimiboo.com/', 'admin@bimiboo.com']}
+{'mytown.daycare': ['My Town : Daycare', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.edujoy.masha.games': ['Masha and the Bear. Educational Games', 'AppQuiz', '10,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'mytown.beach': ['My Town : Beach Picnic', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.museum': ['My Town : Museum', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mylittleprincess.castle': ['My Little Princess : Castle', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.stores': ['My Town : Stores', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.bakery': ['My Town : Bakery', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'air.com.tutotoons.app.princesshorseclub3.free': ['Princess Horse Club 3', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.wewanttoknow.BigNumbers': ['DragonBox Big Numbers', 'WeWantToKnow+AS', '5,000+', 'http://dragonbox.com/products/big-numbers', 'support@dragonbox.com']}
+{'com.taptaptales.cailloudaygamesforkids': ['A Day with Caillou', '8607588335742983102', '1,000,000+', 'http://www.taptaptales.com/', 'hello@taptaptales.com']}
+{'mytown.spa': ['My Town : Beauty Spa Saloon', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.danceschool': ['My Town : Dance School', '4907572025980617983', '50,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'air.com.tutotoons.app.sweetbabygirlsummerfun.free': ['Sweet Baby Girl Summer Fun', '6493980387780624296', '5,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'mytown.beautycontest': ['My Town : Beauty Contest', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'mytown.farm': ['My Town : Farm', '4907572025980617983', '10,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.bimiboo.drawing': ['Coloring games for kids', '5399967083006869522', '100,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'com.fisherprice.smartcyclehotwheelsGoogle': ['Smart Cycle Hot Wheels', 'Fisher-Price,+Inc.', '10,000+', 'http://service.mattel.com/us/productDetail.aspx?prodno=DRP30&siteid=27', 'MattelConsumerService@mattel.com']}
+{'com.playtoddlers.sunnyschoolstories.free': ['Sunny School Stories', '7324988016582852208', '1,000,000+', 'https://www.playtoddlers.com', 'hello@playtoddlers.com']}
+{'com.intellijoy.sightwords': ['Kids Reading Sight Words', '6695914693084197974', '10,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.kidsappbox.firstwordsforbaby': ['First Words Baby Collection: Animal, Food, Machine', '8840924357018375805', '50,000+', 'http://kidsappbox.com', 'support@kidsappbox.com']}
+{'com.androbaby.firstwordsforbaby': ['First Words for Baby', '7962586262608152907', '1,000,000+', 'http://forumvs.com/policy_firstwordsforbaby.html', 'androbabyid@gmail.com']}
+{'com.mtvn.ShimmerShineGenie_google': ['Shimmer and Shine: Magical Genie Games for Kids', 'Nickelodeon', '5,000+', 'http://nickjr.com/appsupport', 'appsupport@nickjr.com']}
+{'com.paperboatapps.fta': ['ABC Animal Adventures - Educational Toddler Games', '5366949234545811254', '50,000+', 'http://www.paperboatapps.com', 'support@paperboatapps.com']}
+{'com.chesskingdom': ['Magnus Kingdom of Chess', 'WeWantToKnow+AS', '1,000+', 'https://magnuskingdom.com', 'support@magnuskingdom.com']}
+{'com.kevinbradford.games.fifthgrade': ['Fifth Grade Learning Games', '7324901894058820362', '500,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.drpanda.trucks': ['Dr. Panda Trucks', '4902729103455422060', '1,000,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.edujoy.Baby_puzzles': ['Baby puzzles', 'AppQuiz', '10,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.greysprings.games': ['Preschool Learning Games : Fun Games for Kids', 'Greysprings', '500,000+', 'http://www.greysprings.com/', 'contact@greysprings.com']}
+{'com.guruarcade.truewishes': ['True Wishes', 'Guru+Arcade', '1,000+', 'http://gurustudio.com', 'arcade@gurustudio.com']}
+{'com.bimiboo.phone': ['Baby phone - games for kids', '5399967083006869522', '100,000+', 'http://www.bimiboo.com/', 'google@bimiboo.com']}
+{'com.denalirx.app.pyramid1': ['Top 200 Drug Matching Game 2018', '8559623944802658104', '1,000+', 'http://Denalirx.com', 'chris@denalirx.com']}
+{'mylittleprincess.wizard': ['My Little Princess : Wizard', '4907572025980617983', '100,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.gamesforkids.preschoolworksheets.alphabets': ['ABC PreSchool Kids Tracing & Phonics Learning Game', 'GunjanApps+Studios', '1,000,000+', 'http://gunjanappstudios.com/', 'support@gunjanappstudios.com']}
+{'com.kidsfoodinc.unicorn.cooking.game': ['Unicorn Chef: Free & Fun Cooking Games for Girls', 'Kids+Food+Games+Inc.', '500,000+', 'http://www.kidsfoodinc.com', 'contact@kidsfoodinc.com']}
+{'com.amayasoft.cars.kids.toddlers.garage.game': ['Car game for toddlers - kids racing cars games', '5201272803035909879', '100,000+', 'http://www.amayakids.com/', 'info@amayasoft.com']}
+{'com.tutotoons.app.animalhairsalonaustralia.free': ['Animal Hair Salon Australia - Pet Beauty & Fashion', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.eggrollgames.animalmathgrade1free': ['Animal Math First Grade Math Games for Kids Math', 'Eggroll+Games', '100,000+', 'http://www.eggrollgames.com/', 'support@eggrollgames.com']}
+{'com.cubicfrog.edukittyFree': ['Toddler Educational Learning Games-EduKitty Kids', '8319795735916109436', '100,000+', 'http://www.cubicfrog.com', 'support@cubicfrog.com']}
+{'com.tutotoons.app.ponysistershairsalon2.free': ['Pony Sisters Hair Salon 2', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.sunny.coloring.book.kids.paint': ['Coloring Book - Kids Paint', 'Sunny+Kid+Games', '1,000,000+', 'http://sunny.wirez.com.ar/privacy_policy.html', 'sunnykidgames@gmail.com']}
+{'com.tribeplay.pandaairport': ['Dr. Panda Airport', '4902729103455422060', '100,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.trigger_memory.timestales_full': ['Times Tales', 'Trigger+Memory+Co.,+LLC', '100+', 'http://4melabs.com', 'nulpointr@gmail.com']}
+{'com.fuzati.littlesaints': ['Little Saint Adventures', 'Fuzati+Innovative+Studios', '1,000+', 'https://www.littlesaintadventures.com', 'info@littlesaintadventures.com']}
+{'com.appquiz.Baby_Phone': ['Baby Phone. Kids Game', 'AppQuiz', '5,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.jernung.infinite.jpn': ['Infinite Japanese', 'Jernung', '1,000,000+', 'https://jernung.com', 'support@jernung.com']}
+{'com.mikelovesrobots.morsetoad.redux': ['Morse Toad Redux', 'mikelovesrobots', '500+', 'http://twitter.com/mikelovesrobots', 'mikelovesrobots@gmail.com']}
+{'com.jernung.writeit.jpn': ['Write It! Japanese', 'Jernung', '500,000+', 'https://jernung.com', 'support@writeit.space']}
+{'com.amayasoft.dinosaur.games.little.kids.toddlers': ['Dinosaur games for kids and toddlers 2 4 years old', '5201272803035909879', '50,000+', 'http://www.amayakids.com/', 'info@amayasoft.com']}
+{'com.fantastec.goog.bmr2.thirdgrade': ['Wonder Bunny Math: 3rd Grade', 'Fantastec+Oy', '100,000+', 'http://www.fantastec.fi', 'support@bitartic.com']}
+{'com.memory.brain.training.games': ['Memory Games: Brain Training', '8088934845636600471', '1,000,000+', 'http://www.maplemedia.io/', 'contact@maplemedia.io']}
+{'com.EducaGames.MathLand': ['Math Land: Addition Games for kids', '8033252547048365291', '100,000+', 'https://www.didactoons.com', 'info@didactoons.com']}
+{'com.tribeplay.pandarestaurant': ['Dr. Panda Restaurant', '4902729103455422060', '50,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.edujoy.Masha.Bear': ['Masha and the Bear. Games & Activities', 'AppQuiz', '1,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.tutotoons.app.kikififipetfriends.free': ['Kiki & Fifi Pet Friends - Virtual Cat & Dog Game', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.storytoys.veryhungrycaterpillar.shapesandcolors.free.android.googleplay': ['Hungry Caterpillar Shapes and Colors', '8762313232916265908', '100,000+', 'http://storytoys.com', 'support@storytoys.com']}
+{'com.playdatedigital.racetotherescue': ['Transformers Rescue Bots: Need for Speed', '6509589977203669354', '1,000+', 'http://playdatedigital.com/', 'shaan@playdatedigital.com']}
+{'com.HappyFrogApps.readcomp23se': ['Reading Comprehension Grade 3', 'Happy+Frog+Apps', '100+', 'http://www.HappyFrogApps.com', 'support@happyfrogapps.com']}
+{'com.thup.animals': ['Monkey Preschool Animals', '7420649169927805172', '1,000+', 'http://www.thup.com/', 'peter@thup.com']}
+{'com.eggrollgames.animalmathgrade2free': ['Animal Second Grade Math Games for Kids Free App', 'Eggroll+Games', '50,000+', 'http://www.eggrollgames.com/', 'support@eggrollgames.com']}
+{'com.libiitech.littlepetdoctorpuppy': ['Little Pet Doctor', '7670331570699900357', '500,000+', 'http://libii.com', 'wecare@libii.com']}
+{'com.playdatedigital.LunaEclipsed': ['My Little Pony: Luna Eclipsed', '6509589977203669354', '1,000+', 'http://playdatedigital.com/', 'shaan@playdatedigital.com']}
+{'com.studiopango.pangobuildpark': ['Pango Build Park', '5656437925259438538', '1,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.tyrske.dualnback': ['Dual N-Back', 'Mikko+Tyrskeranta', '100,000+', 'http://www.tyrske.com', 'dualnback.support@tyrske.com']}
+{'com.berrytalestudios.halestale': ["Hale's Tale - Learn to Read", 'Berrytale+Studios', '10,000+', 'http://www.berrytalestudios.com', 'support@berrytalestudios.com']}
+{'com.tutotoons.app.rockstaranimalhairsalon.free': ['Rock Star Animal Hair Salon', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'air.com.tutotoons.app.littlewitchesmagicmakeover.free': ['Little Witches Magic Makeover', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'net.cleverbit.LearnAnimalsEx': ['Kids Learn About Animals', 'CLEVERBIT', '50,000+', 'http://cleverbit.net', 'info@cleverbit.net']}
+{'air.air.TakosJapanese': ['Learn Japanese - Read & Write', '8193799759505238951', '10,000+', 'http://www.takosjapanese.com', 'team@grogshot.com']}
+{'com.walsallacademy.toonoisypro': ['Too Noisy Pro', 'Walsall+Academy', '1,000+', 'http://www.toonoisyapp.com', 'support@academyapps.net']}
+{'com.cuteandtinybabygames.littlefarmlife.free': ['Little Farm Life - Happy Animals of Sunny Village', '5940508328227487288', '10,000+', 'http://www.zaidimustudija.lt', 'info@zaidimustudija.lt']}
+{'com.libii.puppystory': ['My Puppy Friend - Cute Pet Dog Care Games', '7670331570699900357', '1,000,000+', 'http://libii.com', 'wecare@libii.com']}
+{'se.filimundus.littlepolice': ['Little Police', 'Filimundus+AB', '1,000+', 'http://www.filimundus.com', 'info@filimundus.se']}
+{'com.generakids.mynewbaby2': ['My New Baby 2 - Twins!', '6026692950321338040', '1,000,000+', 'http://www.generagames.com/', 'generakids@gmail.com']}
+{'air.com.tutotoons.app.animalhairsalon2jungle.free': ['Jungle Animal Hair Salon - Wild Pets Makeover', '6493980387780624296', '10,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.edujoy.toddler.games': ['Toddler & Baby Games', 'AppQuiz', '1,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.turtlediary.www': ['TurtleDiary', 'TurtleDiary', '5,000+', 'http://www.turtlediary.com', 'support@turtlediary.com']}
+{'com.intellijoy.abc.trains': ['Learn Letter Names and Sounds with ABC Trains', '6695914693084197974', '50,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.knbmedia.findthemalldinolite': ['Dinosaurs and Ice Age Animals - Free Game For Kids', 'Knbmedia', '500,000+', 'http://www.find-them-all.com/ipad-iphone-android-dinosaurs-app-for-kids', 'support@find-them-all.com']}
+{'com.tutotoons.app.sweetbabygirldaycare5.free': ['Sweet Baby Girl Daycare 5 - Newborn Nanny Helper', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'de.woodiehoo.homeandfriends': ['WoodieHoo Animal Friends World', 'RTL+DISNEY+Fernsehen+GmbH+%26+Co.+KG', '100,000+', 'https://www.woodiehoo.com', 'info@woodiehoo.com']}
+{'com.zzm.grade4': ['4th Grade Math: Fun Kids Games - Zapzapmath Home', '7702928124686187323', '1,000+', 'http://www.zapzapmath.com', 'hello@zapzapmath.com']}
+{'com.paperboatapps.jrchef': ["Cooking Baking Games Girls Boys - Jr Chef's Cafe", '5366949234545811254', '100,000+', 'http://www.paperboatapps.com', 'support@paperboatapps.com']}
+{'com.kedronic.cbnanimals': ['Color by Numbers - Animals +', '8382340851947772398', '1,000+', 'http://kedronic.com/cbn', 'support@kedronic.com']}
+{'br.com.tapps.donotdisturb': ['Do Not Disturb - A Game for Real Pranksters!', '6615809648420562690', '5,000,000+', 'http://tappsgames.com', 'user.support+donotdisturb@tappsgames.com']}
+{'fr.hatier.moncoachbescherelle': ['Mon coach Bescherelle - Orthographe et rédaction', 'Editions+Hatier', '50,000+', 'https://moncoach.bescherelle.com/', 'moncoach@bescherelle.com']}
+{'com.jernung.infinite.spa': ['Infinite Spanish', 'Jernung', '50,000+', 'https://jernung.com', 'support@jernung.com']}
+{'com.jernung.writeit.heb': ['Write It! Hebrew', 'Jernung', '50,000+', 'https://jernung.com', 'support@writeit.space']}
+{'com.jernung.writeit.kor': ['Write It! Korean', 'Jernung', '1,000,000+', 'https://jernung.com', 'support@writeit.space']}
+{'com.imult.bebebears2': ['Be-be-bears - Creative world', '4732508951530669034', '1,000,000+', 'https://i-moolt.com/games/be-be-bears-2', 'support@i-mult.ru']}
+{'com.thup.findit': ['Monkey Preschool Find It!', '7420649169927805172', '1,000+', 'http://www.thup.com/', 'peter@thup.com']}
+{'com.mystudio.LKQ': ["Lil' Kings and Queens School", 'The+App+Maker+Guru', '500+', 'https://linktr.ee/lilkingz_queenz', 'theappmakerguru@gmail.com']}
+{'air.com.arazonia.caillou': ['Caillou learning for kids', '8607588335742983102', '1,000,000+', 'http://www.taptaptales.com', 'hello@taptaptales.com']}
+{'se.filimundus.inventioneers': ['Inventioneers', 'Filimundus+AB', '500,000+', 'http://www.filimundus.com', 'support@filimundus.se']}
+{'com.tutotoons.app.sweetbabygirlpopstars.free': ['Sweet Baby Girl Pop Stars - Superstar Salon & Show', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.mtvn.ShimmerShineGoogle': ['Shimmer and Shine: Carpet Ride', 'Nickelodeon', '5,000+', 'http://www.nickjr.com/appsupport/', 'appsupport@nickjr.com']}
+{'com.drpanda.train': ['Dr. Panda Train', '4902729103455422060', '10,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.tutotoons.app.princessgloriamakeupsalon.free': ['Princess Gloria Makeup Salon', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.intellectokids.academy': ['IntellectoKids Preschool Academy', 'IntellectoKids', '50,000+', 'http://intellectokids.com', 'support@intellectokids.com']}
+{'com.tutotoons.app.sweetbabygirlcleanup5.free': ['Sweet Baby Girl Cleanup 5 - House & Playground', '6493980387780624296', '5,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.eggrollgames.matchmathadditionfree': ['Addition Flash Cards Math Help Learning Games Free', 'Eggroll+Games', '100,000+', 'http://www.eggrollgames.com/', 'support@eggrollgames.com']}
+{'com.astepanov.mobile.mindmathtricks': ['Cool math games: arithmetic & multiplication table', '5002593037730106752', '1,000,000+', 'https://www.facebook.com/mentalmathgames', 'mentalcalculationtricks@gmail.com']}
+{'com.criticalthinking.inferencejonesbeginning': ['Inference Jones Beginning', 'The+Critical+Thinking+Co.', '1+', 'https://www.CriticalThinking.com', 'support@criticalthinking.com']}
+{'co.touchapps.makeupgirls.weddingedition': ['Makeup Girls Wedding', 'Pazu+Games', '1,000,000+', 'http://pazugames.com', 'info@pazugames.com']}
+{'com.kevinbradford.games.barnyardgames': ['Barnyard Games For Kids', '7324901894058820362', '50,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'air.com.tutotoons.app.mycutedogbella.free': ['My Cute Dog Bella', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.tutotoons.app.jungleanimalhairsalon2.full': ['Jungle Animal Hair Salon 2 FULL', '6493980387780624296', '100+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'air.PangoPlayground': ['Pango Playground', '5656437925259438538', '10,000+', 'http://www.studio-pango.com/', 'pango@studio-pango.com']}
+{'com.firststep.alphabats': ['Alphabet for Kids ABC Learning - English', 'GunjanApps+Studios', '1,000,000+', 'http://gunjanappstudios.com/', 'support@gunjanappstudios.com']}
+{'com.tinyhandsapps.lotto2': ['First words games for kids', '7132769464697869701', '500,000+', 'http://tinyhandsapps.com', 'tinyhandsapps@gmail.com']}
+{'org.pbskids.blobchase': ['Odd Squad: Blob Chase', '8332149447945516079', '1,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.tutotoons.app.babytigercare.free': ['Baby Tiger Care - Cute Virtual Pet Game for Kids', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.imayi.dinobusfree': ['Dinosaur Bus', '8163851848922388381', '100,000+', 'http://yateland.com', 'cs@yateland.net']}
+{'com.amayasoft.cars.kids.racing.toddlers.garage.game': ['Car games for kids ~ toddlers game for 3 year olds', '5201272803035909879', '10,000+', 'http://www.amayakids.com/', 'info@amayasoft.com']}
+{'com.happyfrogapps.fluency': ['Reading Fluency Skill Builder', 'Happy+Frog+Apps', '100+', 'http://www.HappyFrogApps.com', 'support@happyfrogapps.com']}
+{'com.intellijoy.android.phonics': ['Learn Letter Sounds with Carnival Kids', '6695914693084197974', '50,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.greysprings.wordgames': ['Kindergarten kids Learning English Rhyming Words', 'Greysprings', '50,000+', 'http://www.greysprings.com/', 'appninja.greysprings@gmail.com']}
+{'com.handsonequations1': ['Hands-On Equations 1', 'Henry+Borenson', '1,000+', 'https://www.borenson.com', 'info@borenson.com']}
+{'com.oki.colors': ['Colors for Kids, Toddlers, Babies - Learning Game', '5796709972154726091', '10,000,000+', 'https://www.facebook.com/notes/gokids/stork-studio-limited-privacy-policy/1105119492835798', 'toplinesolutionsltd@gmail.com']}
+{'com.makkajai.monster_math_2_mp_free': ['Monster Math Duel: Fun arithmetic math fight games', 'Makkajai:+Math+Games+for+1st,+2nd,+3rd,+4th+grade', '10,000+', 'http://www.makkajai.com/', 'support@makkajai.com']}
+{'com.ibdaakids.abjadiyat': ['Abjadiyat – Arabic Learning App for Kids', 'IBDAA+LTD.', '500,000+', 'http://www.abjadiyat.com', 'support@ibdaakids.com']}
+{'com.educaPix.GeoExpert': ['GeoExpert - World Geography', 'educaPix', '1,000+', 'http://www.educaPix.com', 'support@educaPix.com']}
+{'com.makkajai.monster_math_2_mp': ['Duel: fun, fast mental math facts games for kids', 'Makkajai:+Math+Games+for+1st,+2nd,+3rd,+4th+grade', '1,000+', 'http://www.makkajai.com/', 'support@makkajai.com']}
+{'com.chessking.android.learn.beginnerstoclub': ['Learn Chess: From Beginner to Club Player', '8196632901699712832', '500,000+', 'http://chessking.com', 'android-support@chessking.com']}
+{'com.tutotoons.app.princessamyweddingsalon2.free': ['Princess Amy Wedding Salon 2', '6493980387780624296', '500,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.denalirx.app.top_200_touch': ['Top 200 Drug Touch Match Game', '8559623944802658104', '100+', 'http://Denalirx.com', 'chris@denalirx.com']}
+{'com.HappyFrogApps.whquestions': ['WH Questions', 'Happy+Frog+Apps', '50+', 'http://www.HappyFrogApps.com', 'support@happyfrogapps.com']}
+{'com.tutotoons.app.babytigercare.full': ['Baby Tiger Care FULL', '6493980387780624296', '100+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.HappyEntertainmentGames.SuperSightWordAdventure': ['Super Sight Word Adventure - Sight Words Games', 'Happy+Entertainment+Games', '5,000+', 'https://sites.google.com/site/happyentertainmentgames/privacy-policy', 'happyentertainmentgames@gmail.com']}
+{'com.storytoys.juliusjr.activityplayhouse.free.android.googleplay': ["Julius Jr.'s Playhouse", '8762313232916265908', '1,000,000+', 'http://storytoys.com', 'support@storytoys.com']}
+{'com.libii.dancingparty': ['Princess Dancing Party', '7670331570699900357', '500,000+', 'http://libii.com', 'wecare@libii.com']}
+{'com.avokiddo.games.fitoons': ['Fitoons', '6764088955104110890', '100+', 'http://www.avokiddo.com', 'hello@avokiddo.com']}
+{'com.beansprites.mypretendwildwest': ['My Pretend Wild West - Cowboy & Cowgirl Kids Games', 'Beansprites+LLC', '100,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.imult.papermates': ['Paper Tales Free', '4732508951530669034', '1,000,000+', 'http://goo.gl/G6wfP7', 'support@i-mult.ru']}
+{'air.com.tutotoons.app.sweetbabygirlsummerfun2.free': ['Sweet Baby Girl Summer Fun 2 - Holiday Beach Party', '6493980387780624296', '5,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.intellijoy.shapesandcolors': ['Kids Shapes & Colors Preschool', '6695914693084197974', '100,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.androbaby.kidsfarmgame': ['Kids Farm Game: Preschool', '7962586262608152907', '500,000+', 'http://forumvs.com/policy_kidsfarmgame.html', 'androbabyid@gmail.com']}
+{'com.LittleBigThinkers.RocketSpellerPlus': ['Rocket Speller PLUS', 'Little+Big+Thinkers', '1,000+', 'http://littlebigthinkers.com', 'info@littlebigthinkers.com']}
+{'com.intellijoy.shapes2': ['Kids Learn Shapes 2', '6695914693084197974', '1,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'air.com.cognable.lightbox': ['Cause & Effect Sensory Light Box', 'Cognable', '1,000+', 'https://lightbox.cognable.com', 'simon@cognable.com']}
+{'com.matific.MatificGalaxyG1': ['Matific Galaxy - Maths Games for 1st Graders', '7346646128210008674', '10,000+', 'http://www.matific.com/galaxy', 'galaxysupport@matific.com']}
+{'com.ShikiShiki.BeattheRhythm': ['Tap and learn musical rhythm - Beat the Rhythm', 'Shiki+Shiki', '10,000+', 'http://beattherhythm.com', 'shikishikidev@gmail.com']}
+{'net.gcompris.full': ['Children Educational Game Full', 'Timoth%C3%A9e+Giet', '1,000+', 'http://gcompris.net', 'sales@gcompris.net']}
+{'net.gcompris': ['Educational Game for Children', 'Timoth%C3%A9e+Giet', '100,000+', 'http://gcompris.net', 'sales@gcompris.net']}
+{'com.matific.MatificGalaxyG5': ['Matific Galaxy - Maths Games for 5th Graders', '7346646128210008674', '1,000+', 'http://www.matific.com/galaxy', 'galaxysupport@matific.com']}
+{'com.magisterapp.savana': ['Savanna - Puzzles and Coloring Games for Kids', '7275803653252080195', '100,000+', 'http://www.magisterapp.com', 'magisterapp@gmail.com']}
+{'com.criticalthinking.mathanalogiesbeginning': ['Math Analogies™ Beginning', 'The+Critical+Thinking+Co.', '10+', 'https://www.CriticalThinking.com', 'support@criticalthinking.com']}
+{'com.magiclightpictures.gruffalopuzzles': ['Gruffalo: Puzzles', 'Magic+Light+Pictures', '1,000+', 'http://www.magiclightpictures.com', 'office@magiclightpictures.com']}
+{'com.kedronic.cbnchristmas': ['Color by Numbers - Christmas +', '8382340851947772398', '500+', 'http://kedronic.com/cbn', 'support@kedronic.com']}
+{'com.taptaptales.playandlearnwithkitty': ['Hello Kitty All Games for kids', '8607588335742983102', '1,000,000+', 'http://www.taptaptales.com/', 'hello@taptaptales.com']}
+{'com.mtvn.nellagoogleUS': ['Nella The Princess Knight: Kingdom Adventures', 'Nickelodeon', '100+', 'http://appsupport.nick.com/', 'appsupport@nick.com']}
+{'com.cuteandtinybabygames.cutetinyscience.free': ['Cute & Tiny Science - Lab Adventures of Baby Pets', '5940508328227487288', '10,000+', 'http://www.zaidimustudija.lt', 'info@zaidimustudija.lt']}
+{'com.criticalthinking.mathanalogieslevel1': ['Math Analogies™ Level 1', 'The+Critical+Thinking+Co.', '10+', 'https://www.CriticalThinking.com', 'support@criticalthinking.com']}
+{'com.criticalthinking.thinkanalogypuzzles2': ['ThinkAnalogy™ Puzzles 2', 'The+Critical+Thinking+Co.', '5+', 'https://www.CriticalThinking.com', 'support@criticalthinking.com']}
+{'com.criticalthinking.thinkanalogypuzzles1': ['ThinkAnalogy™ Puzzles 1', 'The+Critical+Thinking+Co.', '10+', 'https://www.CriticalThinking.com', 'support@criticalthinking.com']}
+{'com.greenteagames.catracing3d': ['Cat Simulator - Kitty Cat Run', '8086266740700000611', '5,000,000+', 'http://www.greenteagames.com', 'business@greenteagames.com']}
+{'com.jernung.infinite.kor': ['Infinite Korean', 'Jernung', '500,000+', 'https://jernung.com', 'support@jernung.com']}
+{'com.criticalthinking.thinkanalogypuzzles3': ['ThinkAnalogy™ Puzzles 3', 'The+Critical+Thinking+Co.', '1+', 'https://www.CriticalThinking.com', 'support@criticalthinking.com']}
+{'com.jernung.infinite.zho': ['Infinite Chinese', 'Jernung', '50,000+', 'https://jernung.com', 'support@jernung.com']}
+{'com.taptaptales.playandlearnwithmaya': ['Maya the Bee: Play and Learn', '8607588335742983102', '1,000,000+', 'http://www.taptaptales.com', 'hello@taptaptales.com']}
+{'com.tutotoons.app.pandalubabybearcare.free': ['Panda Lu Baby Bear Care', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'air.com.tutotoons.app.princesshorseclub3.full': ['Princess Horse Club 3 FULL', '6493980387780624296', '100+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'fr.lehovetzki.ABMath': ['Math games for kids : times tables training', 'Nicolas+Lehovetzki', '10,000+', 'http://www.ab-math-games.com', 'supportabmath@lehovetzki.fr']}
+{'com.kenikeni.pegandpog.googleplay': ['Peg and Pog - Explore and Learn First Words', '8854162429345786571', '10+', 'https://www.kenikeni.com', 'support@kenikeni.com']}
+{'com.RoB4D.ExtraSence': ['Extra Sense - intuition trainer', 'esensegame', '10,000+', 'https://esense.me', 'extrasensegame@gmail.com']}
+{'com.baby.kidsgames.babyfirstword': ['Baby First words Flashcards - Kids Learning games', 'GunjanApps+Studios', '100,000+', 'http://gunjanappstudios.com', 'support@gunjanappstudios.com']}
+{'com.minimango.games.tomthetowtruck': ['Tom the Tow Truck: Drive in Car City - Mini Mango', '4631062494605258331', '100,000+', 'https://mini-mango.com/?utm_source=google&utm_medium=fichePlayStore', 'minimango@amusenetwork.com']}
+{'com.tocaboca.tocakitchen2': ['Toca Kitchen 2', '8567646723268777320', '50,000,000+', 'http://www.tocaboca.com', 'support@tocaboca.com']}
+{'org.pbskids.gamesapp': ['PBS KIDS Games', '8332149447945516079', '1,000,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.prodigygame.prodigy': ['Prodigy Math Game', 'SMARTeacher+Inc.', '1,000,000+', 'https://www.prodigygame.com', 'support@prodigygame.com']}
+{'com.tutotoons.app.mybabyunicorn.free': ['My Baby Unicorn - Virtual Pony Pet Care & Dress Up', '6493980387780624296', '1,000,000+', 'https://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.lego.bricksmore': ['LEGO® Juniors Create & Cruise', '5382307214726356149', '100,000,000+', 'http://service.lego.com/contactus', 'android@lego.com']}
+{'com.colorjoy.Learn.to.draw.glow.cartoon': ['Learn to Draw Glow Cartoon', 'ColorJoy', '10,000,000+', 'http://coloring.hk/colorjoy_privacy.html', 'eyewind.org@hotmail.com']}
+{'com.rvappstudios.abc_kids_toddler_tracing_phonics': ['ABC Kids - Tracing & Phonics', '7430005971129979939', '10,000,000+', 'http://www.rvappstudios.com', 'app_support@rvappstudios.com']}
+{'com.tutotoons.app.animalhairsalonaustralia.free': ['Animal Hair Salon Australia - Pet Beauty & Fashion', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.bonbongame.crazy.dentist.doctor': ['Crazy dentist games with surgery and braces', 'bonbongame.com', '1,000,000+', 'https://www.facebook.com/EdugamesStudio', 'edugamesstudio@gmail.com']}
+{'com.razmobi.monstertrucks2': ['Monster Trucks Game for Kids 2', '8349252292748478776', '10,000,000+', 'http://www.razgames.com', 'info@razgames.com']}
+{'com.peppapig.worldofpeppapig_g': ['World of Peppa Pig', '5920339924959681787', '1,000,000+', 'http://www.peppapig.com', 'subscriptions@peppapig.com']}
+{'com.sinyee.babybus.shopping': ["Baby Panda's Supermarket", '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.edujoy.masha.games': ['Masha and the Bear. Educational Games', 'AppQuiz', '10,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.abcya.android.games': ['ABCya! Games', '5802605632459861431', '1,000,000+', 'http://www.abcya.com', 'support@abcya.com']}
+{'com.leapfrog.academy': ['LeapFrog Academy™ Educational Games & Activities', 'LeapFrog+Enterprises+Inc', '100,000+', 'http://www.leapfrog.com', 'support@leapfrog.com']}
+{'com.tutotoons.app.sweetbabygirlcleanup5.free': ['Sweet Baby Girl Cleanup 5 - House & Playground', '6493980387780624296', '5,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.YovoGames.babycare': ['Baby care', 'Games+from+YovoGames+!', '10,000,000+', 'http://www.yovogames.com', 'yovogames@gmail.com']}
+{'com.sinyee.babybus.tailor': ["Baby Panda's Fashion Dress Up Game", '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sinyee.babybus.care': ['Baby Panda Care', '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.tocaboca.tocalifeworld': ['Toca Life: World', '8567646723268777320', '1,000,000+', 'http://www.tocaboca.com', 'support@tocaboca.com']}
+{'br.com.tapps.donotdisturb': ['Do Not Disturb - A Game for Real Pranksters!', '6615809648420562690', '5,000,000+', 'http://tappsgames.com', 'user.support+donotdisturb@tappsgames.com']}
+{'com.sinyee.babybus.toilet': ['Baby Panda’s Potty Training - Toilet Time', '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sesame.apps.elmocalls.android': ['Elmo Calls by Sesame Street', '7850090303831496329', '1,000,000+', 'http://www.sesamestreet.org', 'sesameworkshopapps@sesame.org']}
+{'com.kidgame.supermarket': ['Supermarket: Shopping Games for Kids', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '10,000,000+', 'http://psvgamestudio.com', 'babygamepub@gmail.com']}
+{'com.ackad.kidsspellingmatchinggame': ['Kids Spelling Matching Game', '8627430062970759200', '1,000,000+', 'http://ackadinfo.in/kidspiano/kids_spelling_matching_tc.php', 'ACKADInfo@gmail.com']}
+{'com.sinyee.babybus.dailysafety': ["Baby Panda's Child Safety", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'dk.spatifo.dublo': ['LEGO® DUPLO® Town', '5382307214726356149', '10,000,000+', 'http://service.lego.com/contactus', 'android@lego.com']}
+{'com.sinyee.babybus.homesafe.global': ['Baby Panda Home Safety', '4946022439885210717', '5,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.bimiboo.playandlearn': ['Toddler games for 2-5 year olds', '5399967083006869522', '1,000,000+', 'https://www.bimiboo.com/', 'info@bimiboo.com']}
+{'com.sinyee.babybus.babyhospital': ["Baby Panda's Hospital", '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sinyee.babybus.food': ["Little Panda's Chinese Recipes", '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'jp.co.ofcr.cm00': ["Cooking Mama: Let's cook!", '5667641639682181100', '10,000,000+', 'http://www.ofcr.co.jp/APP_CookingMama/google_en/index.html', 'mama_info02@ofcr.co.jp']}
+{'com.YovoGames.hair3': ['Beauty salon: hair salon', 'Games+from+YovoGames+!', '1,000,000+', 'http://yovogames.com', 'yovokids@gmail.com']}
+{'com.sinyee.babybus.policemen': ['Little Panda Policeman', '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sinyee.babybus.earthquake': ['Little Panda Earthquake Safety', '4946022439885210717', '5,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.KnowledgeAdventure.JSAcademyPS': ['JumpStart Academy Preschool', '7058574609868414744', '10,000+', 'http://www.jumpstart.com/aboutus/contact-us', 'support@jumpstart.com']}
+{'com.sinyee.babybus.village': ["Little Panda's Dream Town", '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.mochibits.google.leftvsright': ['Left vs Right: Brain Games for Brain Training', '8600652201159507184', '5,000,000+', 'http://support.mochibits.com', 'hello@lvrbrain.com']}
+{'com.sinyee.babybus.magichouse': ['Baby Panda’s Color Mixing Studio', '4946022439885210717', '10,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.orange.coloring.learn.kids': ['Coloring & Learn', 'Orange+Studios+Games', '10,000,000+', 'http://www.orangestudios.wirez.com.ar', 'orangegstudios@gmail.com']}
+{'com.KnowledgeAdventure.JSAcademyKG': ['JumpStart Academy Kindergarten', '7058574609868414744', '10,000+', 'http://www.jumpstart.com/aboutus/contact-us', 'support@jumpstart.com']}
+{'com.rvappstudios.math.kids.counting': ['Math Kids - Add, Subtract, Count, and Learn', '7430005971129979939', '1,000,000+', 'http://www.rvappstudios.com', 'app_support@rvappstudios.com']}
+{'biz.arrowstar.funnyfood2': ['FUNNY FOOD 2! Educational Games for Kids Toddlers!', '8571614593816921411', '5,000,000+', 'http://wowkids.io', 'support@wowkids.io']}
+{'com.rvappstudios.jigsaw.puzzles.kids': ['Puzzle Kids - Animals Shapes and Jigsaw Puzzles', '7430005971129979939', '1,000,000+', 'http://www.rvappstudios.com', 'app_support@rvappstudios.com']}
+{'com.tutotoons.app.sweetbabygirlnewborn2.free': ["Sweet Baby Girl Newborn 2 - Little Sister's Care", '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.lego.duplo.trains': ['LEGO® DUPLO® Train', '5382307214726356149', '10,000,000+', 'http://service.lego.com/contactus', 'android@lego.com']}
+{'com.gokids.bphone1': ['Baby Phone for Toddlers - Numbers, Animals, Music', '5796709972154726091', '5,000,000+', 'https://www.facebook.com/GoKidsMobile', 'toplinesolutionsltd@gmail.com']}
+{'com.rvappstudios.shapes.colors.toddler': ['Colors & Shapes - Kids Learn Color and Shape', '7430005971129979939', '1,000,000+', 'http://www.rvappstudios.com', 'app_support@rvappstudios.com']}
+{'com.tutotoons.app.pandalufunpark.free': ['Panda Lu Fun Park - Amusement Rides & Pet Friends', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.sunny.coloring.book.kids.paint': ['Coloring Book - Kids Paint', 'Sunny+Kid+Games', '1,000,000+', 'http://sunny.wirez.com.ar/privacy_policy.html', 'sunnykidgames@gmail.com']}
+{'com.kevinbradford.games.preschoolgames': ['Preschool and Kindergarten Learning Games', '7324901894058820362', '1,000,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.sinyee.babybus.princess': ['Little Panda: Princess Dress Up', '4946022439885210717', '5,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'air.com.tutotoons.app.sweetbabygirlchristmas2.free': ['Sweet Baby Girl Christmas 2', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.sinyee.babybus.bathing': ["Baby Panda's Bath Time", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sehandy.hand.craft.handcraft.modern.village': ['Epic Cube Craft: Crafting Game Adventure', '5aladin', '100,000+', None, 'ratihrainbi1989@gmail.com']}
+{'com.tutotoons.app.sweetbabygirlcleanup6.free': ['Sweet Baby Girl Cleanup 6 - School Cleaning Game', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.color.mandala': ['Mandala Coloring Pages', '8734356468512982273', '10,000,000+', 'https://www.facebook.com/coloringkidsclub/', 'info@kidscolorclub.com']}
+{'com.oki.colors': ['Colors for Kids, Toddlers, Babies - Learning Game', '5796709972154726091', '10,000,000+', 'https://www.facebook.com/notes/gokids/stork-studio-limited-privacy-policy/1105119492835798', 'toplinesolutionsltd@gmail.com']}
+{'com.binibambini.MiniLite': ['Drawing for Kids Learning Games for Toddlers age 3', '8936557872064984673', '5,000,000+', 'http://binibambini.com/', 'feedback@binibambini.com']}
+{'com.bimiboo.colors': ['Shapes and Colors – Kids games for toddlers', '5399967083006869522', '1,000,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'com.sinyee.babybus.karting.global': ['Baby Panda Car Racing', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.razmobi.monstertrucks': ['Monster Truck Game for Kids', '8349252292748478776', '1,000,000+', 'http://www.razgames.com', 'info@razgames.com']}
+{'com.sinyee.babybus.superman': ["Little Panda's Hero Battle Game", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.greysprings.kidstoddlergames': ['Toddler Learning Games - Little Kids Games', 'Greysprings', '500,000+', 'http://www.greysprings.com/', 'appninja.greysprings@gmail.com']}
+{'com.sinyee.babybus.custom': ["Baby Panda's Good Habits", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'air.com.tutotoons.app.babyjungleanimalhairsalon.free': ['Baby Jungle Animal Hair Salon', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.androbaby.kidsconstructiongame': ['Kids Construction Game: Preschool', '7962586262608152907', '1,000,000+', 'http://forumvs.com/policy_kidsconstructiongame.html', 'androbabyid@gmail.com']}
+{'com.sinyee.babybus.speaking': ['Talking Baby Panda - Kids Game', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.tutoplay.app': ['TutoPLAY - 100 Best Kids Games in 1 App', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.sinyee.babybus.olympic': ['Panda Sports Games - For Kids', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.androbaby.kidsfarmgame': ['Kids Farm Game: Preschool', '7962586262608152907', '500,000+', 'http://forumvs.com/policy_kidsfarmgame.html', 'androbabyid@gmail.com']}
+{'com.hippo.AirportProfession': ['Airport Professions: Fascinating games', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '1,000,000+', 'http://www.clearinvest-ltd.com', 'hippo.kidsgames@gmail.com']}
+{'com.PepiPlay.KingsCastle': ['Pepi Tales: King’s Castle', '6943021025006889296', '1,000,000+', 'http://www.pepiplay.com/', 'support@pepiplay.com']}
+{'com.sinyee.babybus.cars': ['Baby Learns Transportation', '4946022439885210717', '5,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.yasapets.village': ['Yasa Pets Village', 'Yasa+Ltd', '1,000,000+', 'http://www.yasapets.com', 'support@yasapets.com']}
+{'com.sinyee.babybus.earthquakeIII': ["Little Panda's Earthquake Rescue", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'org.hitn.cleoandcuquin': ['Cleo & Cuquin Explore + Learn', 'HITN', '10,000+', 'http://www.hitn.org', 'LearningSupport@hitn.org']}
+{'com.NeufOctobre.MyPandaVirtualPet': ['Pu - Cute giant panda bear, baby pet care game', 'Clement+Vitroly', '1,000,000+', 'http://www.virtualpandapet.com', 'neufoctobredev@gmail.com']}
+{'com.hippo_kids_games.girls_dress_up.newborn_baby_care': ['Baby Care Game', 'Hippo+Games+for+Kids', '500,000+', 'http://policy.clearinvest-ltd.com/private_policy_Hippo_Games_for_Kids.html', 'hippo.gamestudio@gmail.com']}
+{'com.appquiz.Baby_Phone': ['Baby Phone. Kids Game', 'AppQuiz', '5,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.psv.psvn_goodnight_hippo_2': ['Bedtime Stories for kids', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '1,000,000+', 'http://psvgamestudio.com', 'hippo.kidsgames@gmail.com']}
+{'com.ellastrails.sightwordsforpreschoolandkindergartenkids': ['Sight Words to Help Kids Read', 'goathairware', '500,000+', 'http://www.ellastrails.com/ghwprivacypolicy.html', 'info@bbtechtips.com']}
+{'com.kids.preschool.learning.games': ['Kids Preschool Learning Games', 'GunjanApps+Studios', '1,000,000+', 'http://gunjanappstudios.com/', 'support@gunjanappstudios.com']}
+{'com.samsung.kidsplay': ['Samsung Kids', 'Samsung+Electronics+America,+Inc', '1,000,000+', 'http://www.samsung.com/us/explore/samsung-kids/?CID=van-mb-tbl-0531-10000057', 'kids@samsung.com']}
+{'com.sinyee.babybus.cultivation': ["Baby Panda's Animal Farm", '4946022439885210717', '500,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.EducaGames.DinoTim': ['Preschool learning games for kids: shapes & colors', '8033252547048365291', '1,000,000+', 'http://dinotim.com/', 'info@educagames.net']}
+{'com.kevinbradford.games.thirdgrade': ['Third Grade Learning Games', '7324901894058820362', '1,000,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.tutotoons.app.pandalubabybearcare2.free': ['Panda Lu Baby Bear Care 2 - Babysitting & Daycare', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'net.swilcookies.roblo.dreambox': ['Crazy Ultimate  Cookie The Robloxe Swirl : dolls', 'Pullpy+Hurri+studio', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/307162746985acd9dff81d6e1e44437f', 'r.ghuittarista@gmail.com']}
+{'com.toucangames.surgerygames.surgerysimulator.dentistgames.bracesgames': ['Braces Surgery Simulator', '5304788608416827002', '1,000,000+', 'http://toucangame.com/privacy.html', 'toucangames3d@gmail.com']}
+{'com.projectpixelpress.BloxelsBuilder': ['Bloxels Builder', 'Pixel+Press+Technology,+LLC', '100,000+', 'http://www.bloxelsbuilder.com', 'support@bloxelsbuilder.com']}
+{'com.pescapps.gamekidsfree3': ['Kids Educational Game 3 Free', '6341774947172229745', '5,000,000+', 'http://www.pescapps.com/', 'support@pescapps.com']}
+{'com.sinyee.babybus.kindergarten': ['Baby Panda Kindergarten', '4946022439885210717', '5,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sinyee.babybus.dinosaur': ['Jurassic World - Dinosaurs', '4946022439885210717', '5,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sinyee.babybus.culture': ['Baby Panda’s Chinese Holidays', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sinyee.babybus.coffee': ["Baby Panda's Café- Be a Host of Coffee Shop & Cook", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'org.msq.babygames': ['Baby Games', 'LivelyMind.com', '5,000,000+', 'http://livelymind.com', 'babygames@livelymind.com']}
+{'co.touchapps.makeup_girls.lite': ['Makeup Girls', 'Pazu+Games', '1,000,000+', 'http://pazugames.com', 'info@pazugames.com']}
+{'center.happybaby.babygames': ['Baby Games', 'Happy+Baby', '500,000+', 'http://the-a-team.nl/apps/', 'babysonicscience@gmail.com']}
+{'com.nuttygames.newyear.sale.cashier.fashion': ['Shopping Mall Girl Cashier Game', 'Nutty+Games+Studio', '1,000,000+', 'https://nuttygames.wordpress.com/privacy-policy/', 'nuttygamesstudios@gmail.com']}
+{'com.sinyee.babybus.clean': ['Baby Panda Happy Clean', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.beansprites.atmcashmachinekids': ['ATM Simulator: Kids Money & Credit Card Games FREE', 'Beansprites+LLC', '1,000,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.meowtek.readwithphonzy': ['Read with Phonzy: Reading Game', '4675984173285747831', '50,000+', 'http://www.meowtek.com', 'info@meowtek.com']}
+{'com.playtoddlers.vacationhotelstories.free': ['Vacation Hotel Stories', '7324988016582852208', '500,000+', 'https://www.playtoddlers.com', 'hello@playtoddlers.com']}
+{'air.com.tutotoons.app.animalhairsalon': ['Animal Hair Salon', '6493980387780624296', '5,000,000+', 'http://www.TutoTOONS.com', 'support@tutotoons.com']}
+{'com.subcorticalgames.preschoolbusdriver': ['Preschool Bus: Toddler Games Free for 2 Year Olds', 'SUBCORTICAL', '100,000+', 'http://subcorticalapps.com/privacy_policy.html', 'subcorticalapps@gmail.com']}
+{'com.budgestudios.CaillouCheckUp': ['Caillou Check Up - Doctor', '7489594886728593506', '5,000,000+', 'https://budgestudios.com/en/apps/detail/caillou-check-up/?utm_source=GooglePlayStore&utm_medium=referral&utm_campaign=CheckUp_GP', 'support@budgestudios.ca']}
+{'com.generakids.mynewbaby2': ['My New Baby 2 - Twins!', '6026692950321338040', '1,000,000+', 'http://www.generagames.com/', 'generakids@gmail.com']}
+{'com.sinyee.babybus.dining': ["Healthy Eater - Baby's Diet", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.storytoys.mothergooseclub.free.android.googleplay': ['Mother Goose Club: Nursery Rhymes & Learning Games', '8762313232916265908', '100,000+', 'http://storytoys.com', 'support@touchpress.com']}
+{'com.kidsappbox.firstwordsforbaby': ['First Words Baby Collection: Animal, Food, Machine', '8840924357018375805', '50,000+', 'http://kidsappbox.com', 'support@kidsappbox.com']}
+{'com.letterschool.lite': ['LetterSchool - Learn to Write!', '5086466461784361237', '1,000,000+', 'http://www.letterschool.com/', 'support@letterschool.com']}
+{'com.kevinbradford.games.fourthgrade': ['Fourth Grade Learning Games', '7324901894058820362', '500,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.ragassoft.shapespuzzlesforkids': ['Shapes Puzzles for Kids', '5183235697422098559', '500,000+', 'http://www.edubuzzkids.com', 'edubuzzkids@gmail.com']}
+{'de.woodiehoo.dressingup': ['WoodieHoo Dress Up: Animal Fun', 'RTL+DISNEY+Fernsehen+GmbH+%26+Co.+KG', '10,000+', 'https://www.woodiehoo.com/', 'Entwickler@superrtl.de']}
+{'air.com.tutotoons.app.sweetbabygirl': ['Sweet Baby Girl - Daycare', '6493980387780624296', '10,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.sesameworkshop.cookiecalls.play': ['Cookie Calls', '7850090303831496329', '500,000+', 'http://www.sesamestreet.org/', 'sesameworkshopapps@sesame.org']}
+{'com.sinyee.babybus.candy': ["Little Panda's Candy Shop", '4946022439885210717', '5,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.psvn.ThreePigs': ['Three Little Pigs', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '1,000,000+', 'http://psvgamestudio.com', 'hippo.kidsgames@gmail.com']}
+{'com.internetdesignzone.nurseryrhymes': ['KidloLand- Nursery Rhymes, Kids Games, Baby Songs', '5953899060857093739', '1,000,000+', 'http://www.kidloland.com', 'support@kidloland.com']}
+{'forqan.tech.shadow': ['Kids Garden', '6797847443053504970', '1,000,000+', 'https://www.facebook.com/ForqanSmartTech?fref=nf', 'forqan.tech@gmail.com']}
+{'com.innogelabs.bibletrivia': ['Bible Trivia Quiz Game', 'Salem+New+Media', '100,000+', 'http://www.playbibletrivia.com/', 'apps@salemwebnetwork.com']}
+{'com.was.drivethru.supermarket': ['Drive Thru Supermarket: Shopping Mall Car Driving', 'Wacky+Studios+-Parking,+Racing+%26+Talking+3D+Games', '1,000,000+', 'http://www.whackystudio.com/privacypolicy.html', 'ozitechapps@gmail.com']}
+{'com.tutotoons.app.princessgloriaicesalon.free': ['Princess Gloria Ice Salon - Frozen Beauty Story', '6493980387780624296', '500,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.tutotoons.app.sweetbabygirlcatshelter.free': ['Sweet Baby Girl Cat Shelter', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.amayasoft.cars.kids.toddlers.garage.game': ['Car game for toddlers - kids racing cars games', '5201272803035909879', '100,000+', 'http://www.amayakids.com/', 'info@amayasoft.com']}
+{'com.kevinbradford.games.fifthgrade': ['Fifth Grade Learning Games', '7324901894058820362', '500,000+', 'http://www.rosimosi.com', 'help@rosimosi.com']}
+{'com.readandspell.com.firstgrade': ['Read & Spell Game First Grade', 'Fun+learning+kids', '100,000+', 'http://play2learndev.blogspot.com/p/privacy-policy.html', 'cindykur101@gmail.com']}
+{'com.zafjo.maxcraft.max.craft.big.city.building': ['MaxCraft: Big City Building Games', '3D+Crafting+Future+Studios', '100,000+', None, 'ijokiyoet89@gmail.com']}
+{'coloring.masks.abngroupgames': ['Coloring Book for PJ Heroes Masks', 'ABN+Group', '10,000+', None, 'abn.group.games@gmail.com']}
+{'com.ppn.typingchallenge': ['Typing Test', 'PPN+Developers', '500,000+', 'https://ppndevelopers.000webhostapp.com/PrivacyPolicy/privacy_policy.html', 'praful123984@gmail.com']}
+{'m01k.star.game': ['Multiplication Tables Challenge (Math Games)', 'AppStar+Studio', '100,000+', 'http://app.appstar.url.tw/APP/AppStar/PrivacyPolicy.html', 'kidsappstar@gmail.com']}
+{'com.libii.superstarhairsalon': ['Superstar Hair Salon', '7670331570699900357', '1,000,000+', 'http://libii.com', 'wecare@libii.com']}
+{'com.pban.nightcolorbook': ['Kids Coloring Book Five Nights', 'POP+APP+DEV', '50,000+', 'http://karndagameforkids.blogspot.com/2017/05/privacy-policy-contact.html', 'karnda66siri@gmail.com']}
+{'com.bimiboo.numbers': ['Learning numbers for kids', '5399967083006869522', '100,000+', 'https://www.bimiboo.com/', 'info@bimiboo.com']}
+{'com.bobibobi.malowanki': ['Splash of Fun Coloring Game', '6493724815219766542', '100,000+', 'http://wypasionegry.pl', 'wypasionegry@wypasionegry.pl']}
+{'com.intellijoy.sightwords.lite': ['Kids Reading Sight Words Lite', '6695914693084197974', '1,000,000+', 'http://www.intellijoy.com', 'questions@intellijoy.com']}
+{'com.bimiboo.drawing': ['Coloring games for kids', '5399967083006869522', '100,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'com.sinyee.babybus.grove': ["Baby Panda's Forest Feast - Party Fun", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.nano.games.sweet.newborn.baby.girl.daycare.babysitting.fun': ['Sweet Newborn Baby Girl: Daycare & Babysitting Fun', 'Nano+Game', '100,000+', 'http://nanogamestudios.com/', 'support@nanogamestudios.com']}
+{'com.Picabu.PicabuHospital': ['Picabu Hospital: Story Games', '5645425564995696516', '1,000,000+', 'http://highend7114.wixsite.com/mysite', 'highend7114@gmail.com']}
+{'com.playtoddlers.sunnyschoolstories.free': ['Sunny School Stories', '7324988016582852208', '1,000,000+', 'https://www.playtoddlers.com', 'hello@playtoddlers.com']}
+{'com.robotifun.smart.baby.LITE': ['Baby Smart Games', 'AppQuiz', '1,000,000+', 'http://edujoy.es', 'edujoy@edujoy.es']}
+{'pl.metgens.muuAndFriends': ['Moo & animals - kids game for toddlers from 1 year', '9170356233685394934', '50,000+', 'https://www.facebook.com/1g.studio.apps/', 'firstg.studio@gmail.com']}
+{'com.kidsfoodinc.mermicorn.food.games': ['Unicorn Chef: Mermaid Mermicorn Girl Cooking Games', 'Kids+Food+Games+Inc.', '100,000+', 'http://www.kidsfoodinc.com', 'contact@kidsfoodinc.com']}
+{'com.beautygirlsinc.android_rainbowunicornnail': ['Rainbow Unicorn Nail Beauty Artist Salon', '6215805987066412110', '500,000+', 'http://www.beautygirlsinc.com', 'contact@beautygirlsinc.com']}
+{'com.beansprites.mypretenddaycareFREE': ['My Pretend Daycare - Kids Babysitter Games Free', 'Beansprites+LLC', '500,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.greysprings.wordgames': ['Kindergarten kids Learning English Rhyming Words', 'Greysprings', '50,000+', 'http://www.greysprings.com/', 'appninja.greysprings@gmail.com']}
+{'com.hippo.supermarket.cashier': ['Cashier in the supermarket. Games for kids', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '10,000+', 'http://psvgamestudio.com', 'babygamepub@gmail.com']}
+{'com.sinyee.babybus.starwars': ["Baby Panda's Space War-Space Guardians & Spaceship", '4946022439885210717', '500,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sunshine.animalspixelart': ['Pixel Art Animals Color By Number Game', 'Sunshine+Gamedesign', '50,000+', 'https://tinyurl.com/yd6p3ncy', 'benkraemer79@gmail.com']}
+{'com.sinyee.babybus.ant': ['Ant Colonies', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.age.animal.appspot': ['Animal Kingdom - Quiz Game', 'Atom+Games+Ent.', '500,000+', 'https://age-wgg.appspot.com/privacy.htm', 'atom.games.ent@gmail.com']}
+{'com.beansprites.mypretendmallFREE': ['My Pretend Mall - Kids Shopping Center Town Games', 'Beansprites+LLC', '500,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'air.com.tutotoons.app.babyhouse': ['Sweet Baby Girl - Dream House and Play Time', '6493980387780624296', '10,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.cuteandtinybabygames.littlefarmlife.free': ['Little Farm Life - Happy Animals of Sunny Village', '5940508328227487288', '10,000+', 'http://www.zaidimustudija.lt', 'info@zaidimustudija.lt']}
+{'se.appfamily.puzzle.dinosaurs.free': ['Dinosaurs Jigsaw Puzzles Game - Kids & Adults', '8230212300039227114', '1,000,000+', 'http://www.appfamily.se', 'per.haglund@appfamily.se']}
+{'app.com.mathsgame': ['Math Games', '8783486064934553364', '10,000+', 'https://termsfeed.com/privacy-policy/91d24b7d585b3de406d4012dd088b92b', 'bugrahan.gungor@outlook.com.tr']}
+{'godlinestudios.MathGames': ['Math Games', 'Godline+Studios', '500,000+', 'https://godline-studios.000webhostapp.com/privacy_policy_math_games.html', 'godlinestudios@gmail.com']}
+{'com.quizapp.multitable': ['Multiplication Table Kids Math', 'camerapps', '10,000,000+', 'https://www.iubenda.com/privacy-policy/8058894', 'jolanta.mandaryn@onet.pl']}
+{'com.infigames.babyphone': ['Baby Real Phone. Kids Game', '7987175214570225485', '1,000,000+', 'http://www.minibuu.com', 'info@minibuu.com']}
+{'com.mcpeppergames.freeAmazingCarWashGame': ['Amazing Car Wash For Kids FREE', '5029755957860459217', '500,000+', 'http://www.mcpeppergames.com', 'info@mcpeppergames.com']}
+{'com.howtodraw.drawpokemon.pokemon': ['Learn to draw Pokemons', 'Drawing+Professor', '100,000+', 'https://learntodrawpokemon.blogspot.com/2018/09/privacy-policy.html', 'manayway@gmail.com']}
+{'com.storytoys.hungry.caterpillar.play.school.abc.kids.books.free.android.googleplay': ['The Very Hungry Caterpillar Play School', '8762313232916265908', '50,000+', 'http://storytoys.com', 'support@storytoys.com']}
+{'com.sinyee.babybus.popsicles': ['Baby Panda, Ice Cream Maker - Chef & Dessert Shop', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.beansprites.mypretendhotelFREE': ['My Pretend Hotel - Kids Luxury Summer Vacation', 'Beansprites+LLC', '500,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.starfunzone.fashion.girls.makeover.salon': ['Cute Girl Makeup Salon Games: Fashion Makeover Spa', '2d+fun+zone', '100,000+', 'http://www.starfunzone.com', '2dfunzone@gmail.com']}
+{'com.bimiboo.coloringpuzzles': ['Kids puzzles 3 and 4 years old', '5399967083006869522', '100,000+', 'https://bimiboo.com/', 'info@bimiboo.com']}
+{'com.brainvault.babygame.threeyear': ['Games for 3 Year Olds', 'Brain+Vault', '100,000+', 'http://www.BrainVaultGames.com', 'BrainVaultGames@gmail.com']}
+{'com.sinyee.babybus.parkour': ['Little Panda Run', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.cuteandtinybabygames.cutetinyshapes.free': ['Cute & Tiny Shapes - Kids Learn Colors & Geometry', '5940508328227487288', '5,000+', 'http://www.zaidimustudija.lt', 'info@zaidimustudija.lt']}
+{'com.tutotoons.app.ponysistershairsalon2.free': ['Pony Sisters Hair Salon 2', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.zodinplex.abc.kids.letters.educational.sounds.baby': ['Educational Games for Kids', 'Zodinplex', '5,000,000+', 'https://www.facebook.com/zodinplexsoft', 'zodinplex@gmail.com']}
+{'com.badoercar.car.craft.traffic.race.exploration.driving.run.crafting.and.building.blockcraft.minecraft.mcpe.multicraft': ['Prime Loco Craft: Survival in 3 Maps Big City', 'Gaekno', '100,000+', None, 'eprilp@gmail.com']}
+{'com.sparsekids.apps.africa': ['Kids Games free 4 years old', '6540162077545226218', '500,000+', 'http://www.sparsekids.com', 'info@sparsekids.com']}
+{'com.zinkia.pocoyo.alphabet.free': ['Pocoyo Alphabet Free', '8378379050415836542', '1,000,000+', 'http://www.pocoyo.com/apps', 'apps@zinkia.com']}
+{'com.pigstamp.minnahome': ['Minna Home Sweet Pretend Playground', 'Pigstamp+Studio', '100,000+', 'https://pigstampstudio.wixsite.com/website/privacy-policy', 'pigstamp.studio@gmail.com']}
+{'com.sinyee.babybus.picnic': ['Little Panda’s Camping Trip', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.asmolgam.capitals': ['Capitals of All Countries in the World: City Quiz', 'Andrey+Solovyev', '1,000,000+', 'http://asmolgam.com/geography/', 'asmolgam@gmail.com']}
+{'com.fabulousfun.kidssortinggames': ['Kids Sorting Games - Learning For Kids', 'Fabulous+Fun', '5,000+', 'https://sites.google.com/view/fabulousfun/home', 'fabulousfungames@gmail.com']}
+{'com.beansprites.xmaseveparty': ['My Pretend Christmas - Santa Kids Holiday Party', 'Beansprites+LLC', '500,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'coloring.pepa.abngroupgames': ['Coloring Peepa Book and pig', 'ABN+Group', '10,000+', None, 'abn.group.games@gmail.com']}
+{'com.sinyee.babybus.occupation.global': ["Baby Panda's Dream Job", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'org.pbskids.readyjetgospaceexplorer': ['Ready Jet Go! Space Explorer', '8332149447945516079', '100,000+', 'http://pbskids.org/apps', 'AndroidApp@pbs.org']}
+{'com.libii.makeupsuperstar': ['Make-Up Me: Superstar', '7670331570699900357', '10,000,000+', 'http://libii.com', 'wecare@libii.com']}
+{'forqan.tech.iq_brain_trainer': ['Kids Education (Preschool)', '6797847443053504970', '1,000,000+', 'https://www.facebook.com/ForqanSmartTech?fref=ts', 'forqan.tech@gmail.com']}
+{'com.tutotoons.app.kittymeowmeowmycutecat.free': ['Kitty Meow Meow - My Cute Cat Day Care & Fun', '6493980387780624296', '5,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'air.Shortcake': ['Shortcake Dress Up', 'LingLing', '100,000+', None, 'evgeniakolesnikova731@gmail.com']}
+{'com.pepiplay.bath2': ['Pepi Bath 2', '6943021025006889296', '500,000+', 'http://www.pepiplay.com/', 'support@pepiplay.com']}
+{'com.kids.learning.alphabet.numbers.educational.games': ['Kids Learning Games - Kids Educational All In One', 'Vasundhara+Game+Studios', '100,000+', 'https://n9amjryet7fzl9u9jvslka-on.drv.tw/Privacy/Privacy/', 'rgrupani90@gmail.com']}
+{'org.codespark.thefoos': ['codeSpark Academy: Kids Coding', '6949430064785271236', '500,000+', 'https://codespark.com', 'support@codespark.com']}
+{'com.razmobi.funkidsplanes': ['Fun Kids Planes Game', '8349252292748478776', '100,000+', 'http://www.razgames.com', 'info@razgames.com']}
+{'com.tappalm.mathgame234grade': ['Math Game 3rd, 4th,5th Graders', 'Tap+Palm', '100,000+', 'http://simpletapgames.com/privacy-policy/', 'qamarngr@gmail.com']}
+{'com.beansprites.mypretendgrocerystoreFREE': ['My Pretend Grocery Store - Supermarket Learning', 'Beansprites+LLC', '1,000,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.capital.creditstacker': ['CreditStacker', 'WealthyLife+Games', '100,000+', 'http://getwealthylife.com', 'wealthylifegames@gmail.com']}
+{'com.beansprites.mypretendNYFREE': ['My Pretend New York City - Big Apple Friends', 'Beansprites+LLC', '500,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'vn.edugames.vehiclePuzzle': ['Car puzzles for toddlers - Vehicle sounds', 'bonbongame.com', '100,000+', 'http://bonbongame.com/', 'edugamesstudio@gmail.com']}
+{'org.icivics.wtwh': ['Win the White House', 'iCivics', '500,000+', 'https://www.icivics.org/', 'info@icivics.org']}
+{'com.sinyee.babybus.forest': ['Friends of the Forest - Free', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.sinyee.babybus.math': ["Little Panda's Math Adventure", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.Company.aprenderjugando': ['Learn to read', '8900731571107343214', '1,000,000+', 'http://www.aprenderjugando.cl', 'aprenderjugandoe@gmail.com']}
+{'com.sinyee.babybus.moonexplorer.global': ['Little Panda Astronaut', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.hippo_kids_games.camping_scouts_hiking.forest_camp': ['Scout adventures. Camping for kids', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '50,000+', 'http://psvgamestudio.com', 'babygamepub@gmail.com']}
+{'com.creaturecorp.kidscashregistergrocery': ['Kids Cash Register Grocery - Shopping Cashier Game', 'Creature+Corp', '1,000,000+', 'http://creature-corp.com', 'creaturecorporation@gmail.com']}
+{'com.iabuzz.Robot': ['Robot game for preschool kids', '4612309125060036115', '500,000+', 'http://iabuzz.com', 'kids@iabuzz.com']}
+{'com.bimiboo.firstwords': ['Baby flash cards for toddlers', '5399967083006869522', '100,000+', 'https://www.bimiboo.com/', 'admin@bimiboo.com']}
+{'com.beansprites.cakepopscooking': ['Cake Pop Maker - Cooking Games', 'Beansprites+LLC', '500,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.astepanov.mobile.mindmathtricks': ['Cool math games: arithmetic & multiplication table', '5002593037730106752', '1,000,000+', 'https://www.facebook.com/mentalmathgames', 'mentalcalculationtricks@gmail.com']}
+{'com.tenlogix.shopping.mall.manager.cashier.girl': ['Shopping Mall Cashier Girl - Cash Register Games', '9084078965255318763', '1,000,000+', 'http://www.tenlogix.com', 'info@tenlogix.com']}
+{'boriol.grade.kinderlite': ['Kindergarten Learning Games', '7873899028562107338', '500,000+', 'http://boriolapps.com', 'boriolapps@gmail.com']}
+{'com.sinyee.babybus.photostudio': ["Little Panda's Photo Shop", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.beansprites.pretendhalloweenFREE': ['My Pretend Halloween - Trick or Treat Town Friends', 'Beansprites+LLC', '500,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'com.sinyee.babybus.stroke': ["Baby Panda's Drawing Book - Painting for Kids", '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'bibi.pet.educational.apps.jungle': ['Learning Games for Toddler - Bibi.Pet Jungle', '5429062232952189528', '10,000+', 'http://www.bibi.pet', 'info@bibi.pet']}
+{'com.oki.shapesnew': ['Learn Shapes for Kids, Toddlers - Educational Game', '5796709972154726091', '1,000,000+', 'https://www.facebook.com/notes/gokids/stork-studio-limited-privacy-policy/1105119492835798', 'toplinesolutionsltd@gmail.com']}
+{'net.fightermagicrugal': ['Guide For King of fighters kof 2002 magic plus 2', 'Idrissi+Team+Devi', '100,000+', None, 'amidrissi1985@gmail.com']}
+{'com.tutotoons.app.sweetbabygirltoothfairy.free': ['Sweet Baby Girl Tooth Fairy', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.sinyee.babybus.newyear': ['Chinese New Year - For Kids', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.kids_coloring.kids_paint': ['Coloring Book', '5574990290619836600', '1,000,000+', 'http://juniorpear.blogspot.com/2014/03/privacy-policy.html', 'store.ursagames@gmail.com']}
+{'com.beansprites.mypretendwildwest': ['My Pretend Wild West - Cowboy & Cowgirl Kids Games', 'Beansprites+LLC', '100,000+', 'http://www.beansprites.com', 'beansprites@gmail.com']}
+{'air.com.tutotoons.app.princesshorseclub.free': ['Princess Horse Club', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.smartyants.app1': ['Smarty Ants PreK - 1st Grade', 'Achieve3000+Inc.', '50,000+', 'http://www.achieve3000.com/learning-solutions/foundational-literacy/', 'support@achieve3000.com']}
+{'com.sinyee.babybus.jurassic': ["Little Panda's Dinosaur World", '4946022439885210717', '100,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.Kinsane.KinToons_HairSalon': ['Kids Hair Salon - KinToons - Haircut game for kids', '8273282578239887567', '100,000+', 'http://www.kinsane.com', 'games@kinsane.com']}
+{'com.mecatronium.multiplicationninja': ['Multiplication Ninja', '5468288733498454850', '1,000+', 'http://apps.mecatronium.com/', 'multiplicationninja@mecatronium.com']}
+{'com.tutotoons.app.sweetbabygirldaycare5.free': ['Sweet Baby Girl Daycare 5 - Newborn Nanny Helper', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.coloring.toddlers': ['Painting and drawing game', '8734356468512982273', '5,000,000+', 'https://www.facebook.com/coloringkidsclub', 'info@2-monkeys.nl']}
+{'com.sinyee.babybus.goodnight': ['Goodnight, My Baby', '4946022439885210717', '1,000,000+', 'http://www.babybus.com', 'ser@babybus.com']}
+{'com.myapps.hiragana': ['Hiragana Pro', '9136104014753864308', '100,000+', None, 'gersonluca@outlook.com']}
+{'com.hippo_kids_games.construction_for_boys.city_builder': ['Hippo builder. Building machines', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '50,000+', 'http://psvgamestudio.com', 'babygamepub@gmail.com']}
+{'air.com.tutotoons.app.sweetbabygirltwinsisterscare.free': ['Sweet Baby Girl Twin Sisters', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'com.skycastleapps.android_kidsnewbaby3': ['Mommy & Newborn Baby Twins!', 'Sky+Castle+Apps+Inc', '100,000+', 'http://www.skycastleapps.com', 'contact@skycastleapps.com']}
+{'com.buffalo.coinjunior': ['Coin Junior - Kids Math', 'KIDs+Happy', '1,000+', 'https://coinjunior.ansuzdev.com/privacy_policy.html', 'kidshappy.zebramail@gmail.com']}
+{'com.masha_and_bear_games.girls_boys.hospital_toy_doctor': ['Masha and the Bear: Toy doctor', 'Hippo+Baby+Games+for+Girls+and+for+Boys', '100,000+', 'http://psvgamestudio.com', 'babygamepub@gmail.com']}
+{'de.woodiehoo.homeandfriends': ['WoodieHoo Animal Friends World', 'RTL+DISNEY+Fernsehen+GmbH+%26+Co.+KG', '100,000+', 'https://www.woodiehoo.com', 'info@woodiehoo.com']}
+{'com.kidscrazygames.android_unicornicecream': ['Unicorn Ice Cream Maker - Carnival Fair Food 2018', 'Kids+Crazy+Games+Media', '500,000+', 'http://www.kidscrazygames.com/privacy/', 'kidscrazygames@gmail.com']}
+{'com.tutotoons.app.sweetbabygirlfirstlove.free': ['Sweet Baby Girl BFF Holiday - Best Friends’ Picnic', '6493980387780624296', '1,000,000+', 'http://www.tutotoons.com', 'support@tutotoons.com']}
+{'air.com.arazonia.caillou': ['Caillou learning for kids', '8607588335742983102', '1,000,000+', 'http://www.taptaptales.com', 'hello@taptaptales.com']}
+{'kidgames.coloring.pages': ['Coloring Pages for kids', 'Kidgames', '10,000,000+', 'http://kid-games.info', 'kidgame.edu@gmail.com']}

@@ -1,6 +1,687 @@
-{'com.scopely.yux': ['YAHTZEE® With Buddies Dice Game', '9028773071151690823', '5,000,000+', 'http://www.scopely.com', 'newyahtzeesupport@scopely.com']}
 {'com.marmalade.golmobile': ['The Game of Life', '8684502731112464883', '500,000+', 'https://marmaladegamestudio.com/', 'contactus@marmalademail.com']}
-{'com.pixel.art.coloring.color.number': ['Happy Color – Color by Number', '4677399971720148178', '10,000,000+', 'http://x-flow.app', 'support@x-flow.app']}
+{'com.marmalade.cluedogame': ['Clue', '8684502731112464883', '100,000+', 'https://marmaladegamestudio.com/', 'contactus@marmalademail.com']}
+{'com.daysofwonder.tt.android': ['Ticket to Ride', '7959316599581723037', '100,000+', 'http://www.asmodee-digital.com/en/ticket-to-ride', 'support@asmodee.com']}
+{'com.exozet.android.catan': ['Catan Classic', '7190673763242476318', '500,000+', 'http://www.usm.de/catan-android%20', 'android@usm.de']}
+{'com.digidiced.bvbrelease': ['The Castles Of Burgundy', '7642513241968800472', '500+', 'http://www.digidiced.com', 'info@digidiced.com']}
+{'com.f2zentertainment.pandemic': ['Pandemic: The Board Game', '7959316599581723037', '100,000+', 'http://www.asmodee-digital.com/en/pandemic/', 'support@asmodee.net']}
+{'uk.co.aifactory.chess': ['Chess', '7906675825742087969', '100,000+', 'http://www.aifactory.co.uk', 'Support@aifactory.co.uk']}
+{'com.daysofwonder.Splendor.gp': ['Splendor', '7959316599581723037', '100,000+', 'http://www.asmodee-digital.com/en/splendor/', 'support@asmodee.net']}
+{'com.asmodeedigital.carcassonne': ['Carcassonne: Official Board Game -Tiles & Tactics', '7959316599581723037', '50,000+', 'http://www.asmodee-digital.com/en/carcassonne', 'support@asmodee.net']}
+{'com.marmalade.battleship': ["Hasbro's BATTLESHIP", '8684502731112464883', '50,000+', 'https://marmaladegamestudio.com/', 'contactus@marmalademail.com']}
+{'com.fantasyflightgames.ESAndroid': ['Elder Sign: Omens', 'Fantasy+Flight+Games', '100,000+', 'http://www.fantasyflightgames.com', 'softwaresupport@fantasyflightgames.com']}
+{'com.czechgames.tta': ['Through the Ages', 'CGE+digital', '10,000+', 'http://www.czechgames.com', 'support@czechgames.com']}
+{'de.brettspielwelt.ganzschoenclever': ['Ganz schön clever', 'Brettspielwelt+GmbH', '5,000+', 'http://www.brettspielwelt.de', 'mellin@brettspielwelt.de']}
+{'com.playdekgames.waterdeep': ['D&D Lords of Waterdeep', 'Playdek,+Inc.', '10,000+', 'http://www.playdekgames.com', 'playdek@playdekgames.com']}
+{'com.nomadgames.talisman': ['Talisman', '7959316599581723037', '100,000+', 'http://www.asmodee-digital.com/en/', 'support@asmodee.net']}
+{'com.daysofwonder.smallworld2': ['Small World 2', '7959316599581723037', '50,000+', 'http://www.asmodee-digital.com/en/smallworld', 'support@asmodee.net']}
+{'com.funforgedigital.tokaido': ['Tokaido™', 'Funforge+Digital', '10,000+', 'http://www.funforge.fr', 'support@funforgesupport.freshdesk.com']}
+{'com.usm.andorsecret': ['Legends of Andor – The King’s Secret', '7190673763242476318', '1,000+', 'http://www.andorgame.com', 'support@andorgame.com']}
+{'com.czechgames.galaxytrucker': ['Galaxy Trucker', 'CGE+digital', '50,000+', 'http://galaxytrucker.com/', 'support@czechgames.com']}
+{'uk.co.aifactory.backgammon': ['Backgammon', '7906675825742087969', '50,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.templegatesgames.RaceAndroid': ['Race for the Galaxy', 'Temple+Gates+Games+LLC', '10,000+', 'http://templegatesgames.com', 'info@templegatesgames.com']}
+{'uk.co.aifactory.go': ['Go', '7906675825742087969', '10,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'de.brettspielwelt.doppeltsoclever': ['Twice as clever', 'Brettspielwelt+GmbH', '1,000+', 'http://www.brettspielwelt.de', 'mellin@brettspielwelt.de']}
+{'com.asmodeedigital.potionexplosion': ['Potion Explosion', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/potionexplosion', 'support@asmodee.net']}
+{'com.handelabra.Sentinels': ['Sentinels of the Multiverse', '7392390343537623321', '10,000+', 'http://handelabra.com', 'support@handelabra.com']}
+{'com.youdagames.stratego': ['Stratego® Single Player', '7639378078513286726', '10,000+', 'http://www.youdagames.com', 'support@youdagames.com']}
+{'com.mobilecastles.castles': ['Castles of Mad King Ludwig', 'Bezier+Games', '10,000+', 'http://www.mobilecastles.com', 'info@mobilecastles.com']}
+{'com.playdekgames.twilightstruggle': ['Twilight Struggle', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/twilight-struggle/', 'support@asmodee.net']}
+{'com.acram.Istanbul': ['Istanbul: Digital Edition', '9052427338891655444', '1,000+', 'http://istanbul.acram.eu/', 'acramdigital@gmail.com']}
+{'com.asmodeedigital.mysterium': ['Mysterium: A Psychic Clue Game', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/mysterium', 'support@asmodee.net']}
+{'com.digidiced.abvrelease': ['Agricola All Creatures...', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/agricola-all-creatures/', 'support@asmodee.net']}
+{'com.robotogames.ageofrivals': ['Age of Rivals', 'Roboto+Games', '5,000+', 'http://darkinertia.com', 'support@darkinertia.com']}
+{'com.direwolfdigital.lanterns': ['Lanterns: The Harvest Festival', 'Dire+Wolf+Digital', '1,000+', 'http://www.direwolfdigital.com', 'support@direwolfdigital.com']}
+{'com.digidiced.txmrelease': ['Terra Mystica', '7642513241968800472', '10,000+', 'http://www.digidiced.com', 'info@digidiced.com']}
+{'uk.co.aifactory.rr': ['Reversi', '7906675825742087969', '10,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.kemigogames.chesscoachpro': ['Chess Coach Pro (Professional version)', '8450616447014525535', '1,000+', 'https://www.kemigogames.com/', 'info.kemigogames@gmail.com']}
+{'com.PeterKossits.BBall2045': ['Baseball Highlights 2045', 'Peter+Kossits', '5,000+', None, 'peterk@look.ca']}
+{'com.asmodeedigital.smashup': ['Smash Up - The Shufflebuilding Game', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/smashup/', 'support@asmodee.net']}
+{'com.pereira.analysis.paid': ['Chess - Analyze This (Pro)', '5989297588699821304', '10,000+', 'http://goo.gl/Axhm4', 'pereiraasim@gmail.com']}
+{'com.digidiced.ixsrelease': ['Isle of Skye: The Tactical Board Game', '7959316599581723037', '5,000+', 'http://www.asmodee-digital.com/en/isle-skye/', 'support@asmodee.net']}
+{'com.eivaagames.RealChess3D': ['Real Chess 3D', '5803646126051297915', '1,000+', 'http://www.eivaagames.com', 'contact@eivaagames.com']}
+{'com.asmodeedigital.coltexpress': ['Colt Express', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/coltexpress/', 'support@asmodee.net']}
+{'uk.co.aifactory.sudoku': ['Sudoku', '7906675825742087969', '50,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.digidiced.lhbrelease': ['Le Havre: The Inland Port', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/le-havre/', 'support@asmodee.net']}
+{'com.hiddenachievement.dfco': ['The Dresden Files Cooperative Card Game', '7625011088110624491', '1,000+', 'http://hiddenachievement.com', 'support@hiddenachievement.com']}
+{'om.nazcagames.phg.xra': ['Dead of Winter: Crossroads App', 'Nazca+Games', '5,000+', 'http://www.nazcagames.com', 'nazcagames@gmail.com']}
+{'com.nomadgames.loveletterdev': ['Love Letter - Strategy Card Game', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/love-letter', 'support@asmodee.net']}
+{'com.asmodeedigital.millebornes': ['Mille Bornes - The Classic French Card Game', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/en/mille-bornes/', 'support@asmodee.net']}
+{'ca.codito.euphrates': ['Reiner Knizia Tigris&Euphrates', 'Codito+Development+Inc.', '10,000+', 'http://www.sageboardgames.com', 'support@sageboardgames.com']}
+{'se.sweetstone.yatzy': ['Yahtzee scoresheet', 'Sweetstone', '1,000+', 'https://www.facebook.com/sweetstone.se', 'claes.lindblom@sweetstone.se']}
+{'net.fowers.BurgleBros': ['Burgle Bros', 'Fowers+Games', '1,000+', 'http://fowers.net', 'support@fowers.net']}
+{'com.shredderchess.android': ['Shredder Chess', 'shredderchess.com', '50,000+', 'http://www.shredderchess.com', 'info@shredderchess.com']}
+{'org.softmotion.fpack': ["Family's Game Travel Pack", '5338428685228768256', '1,000+', 'http://www.softmotionlabs.com/fpack.html', 'contact@softmotionlabs.com']}
+{'com.bdc.nh': ['Neuroshima Hex', 'Portal+Games+Digital', '50,000+', 'http://portalgames.pl', 'portal@portalgames.pl']}
+{'de.brettspielwelt.freitag': ['Friday - by Friedemann Friese', 'Brettspielwelt+GmbH', '5,000+', 'http://freitag.brettspielwelt.de', 'mellin@brettspielwelt.de']}
+{'uk.co.aifactory.checkers': ['Checkers', '7906675825742087969', '10,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.nextchessmove': ['Next Chess Move', 'Next+Chess+Move+LLC', '1,000+', 'https://nextchessmove.com/', 'support@nextchessmove.com']}
+{'com.nomadgames.horus': ['Talisman: The Horus Heresy', '4614040639053382794', '10,000+', 'http://www.nomadgames.co.uk', 'support@nomadgames.co.uk']}
+{'com.handelabra.OneDeckDungeon': ['One Deck Dungeon', '7392390343537623321', '1,000+', 'http://handelabra.com', 'support@handelabra.com']}
+{'net.fowers.hardback': ['Hardback', 'Fowers+Games', '500+', 'http://fowers.net', 'support@fowers.net']}
+{'chessbase.android.chessdb': ['ChessBase Online', 'ChessBase+GmbH', '10,000+', 'http://www.chessbase.com', 'info@chessbase.com']}
+{'com.withbuddies.dice': ['Dice With Buddies™', '9028773071151690823', '50,000+', 'http://www.withbuddies.com', 'dice-support@scopely.com']}
+{'com.suburbiagame.suburbia': ['SUBURBIA City Building Game', 'Bezier+Games', '50,000+', 'http://www.suburbiagame.com/', 'info@suburbiagame.com']}
+{'com.beadapps.chessrepertoiretrainer.paid': ['Chess Repertoire Trainer Pro', '8308790728211147064', '1,000+', 'https://beadappshelp.wixsite.com/chess', 'beadapps.help@gmail.com']}
+{'com.meepletouch.jaipur': ['Jaipur: A Card Game of Duels', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/jaipur%20', 'support@asmodee.net']}
+{'com.gmail.codesbyjandt.Bingo75App': ['Bingo 75', '7632346357946103235', '100+', 'https://codesbyjandt.blogspot.com/', 'codesbyjandt@gmail.com']}
+{'jp.co.unbalance.AnKShogi': ['Shogi Lv.100 (Japanese Chess)', '5973402057352547106', '10,000+', 'http://www.unbalance.co.jp/english/android/', 'support@unbalance.co.jp']}
+{'com.asmodeedigital.kingandassassins': ['King and Assassins: The Board Game', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/en/king-and-assassins', 'support@asmodee.net']}
+{'de.brettspielwelt.themind': ['The Mind by Wolfgang Warsch', 'Brettspielwelt+GmbH', '100+', 'http://www.brettspielwelt.de', 'mellin@brettspielwelt.de']}
+{'com.dumpling.smashtanks': ['AR Smash Tanks!', 'Dumpling+Co.,+Ltd', '1,000+', 'http://dumplingdesign.com', 'support@dumplingdesign.com']}
+{'com.chessgenius.android.chess': ['Chess Genius', 'ChessGenius', '10,000+', 'http://www.chessgenius.com/android', 'support@chessgenius.com']}
+{'de.development.outline.nochmal': ['Noch mal!', 'Outline+Development', '1,000+', 'http://www.outline-development.de', 'outline@outline-development.de']}
+{'com.kimaia.rummikub': ['Rummikub', 'Kinkajoo', '100,000+', 'http://www.rummikub.com', 'support@rummikub-apps.com']}
+{'com.quicksilver.gemrush': ['Gem Rush Board Game', 'Quicksilver+Software,+Inc.', '50+', 'http://quicksilver.com/wp/', 'gemrush@quicksilver.com']}
+{'com.AppWhateverIFeelLike.BenShapiroSoundBoardNoAds': ['Ben Shapiro SoundBoard', 'App+Whatever+I+Feel+Like', '10+', None, 'fespadearocks@gmail.com']}
+{'com.cublo.brass': ['Brass', '6228750114519237134', '5,000+', 'http://www.cublogames.com', 'contact@cublogames.com']}
+{'jp.co.unbalance.android.chess': ['The Chess Lv.100', '5973402057352547106', '5,000+', 'http://www.unbalance.co.jp/english/android/', 'support@unbalance.co.jp']}
+{'de.brettspielwelt.kingdombuilder': ['Kingdom Builder', 'Queen+Digitals', '10,000+', 'http://www.queen-games.de', 'queendigitals-app@queen-games.de']}
+{'com.youdagames.strategomp.premium': ['Stratego® Multiplayer Premium', '7639378078513286726', '5,000+', 'http://www.stratego.com', 'customercare@stratego.com']}
+{'com.amuseware.besttripleyatzyever': ['Best Triple Yatzy Ever', 'Amuseware', '50+', 'http://www.amuseware.com', 'scott@amuseware.com']}
+{'games.laylio.mightydungeons': ['Mighty Dungeons', 'Laylio+Games', '10,000+', 'http://www.laylio.com', 'yohan@laylio.com']}
+{'com.asmodeedigital.tickettoride1journey': ['Ticket to Ride: First Journey\xa0', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/en/ticket-to-ride-first-journey', 'support@asmodee.net']}
+{'de.brettspielwelt.alhambra': ['Alhambra Game', 'Queen+Digitals', '10,000+', 'http://www.queen-games.com/en/2016/09/alhambra-2/', 'mellin@brettspielwelt.de']}
+{'com.bullbitz.xmasdrop4': ['Christmas Drops 4 - Match three puzzle', 'BULLBITZ', '100+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'com.acram.EightMinuteEmpire': ['Eight-Minute Empire', '9052427338891655444', '1,000+', 'http://eight.acram.eu', 'acramdigital@gmail.com']}
+{'com.bookup.chessopeningswizard': ['Chess Openings Wizard', 'Bookup+Chess', '100+', 'http://www.bookup.com', 'cowforandroid@bookupmembers.com']}
+{'com.digidiced.sxprelease': ['Stockpile', '7642513241968800472', '500+', 'http://www.digidiced.com', 'info@digidiced.com']}
+{'com.babaroga.zombies': ['Zombies!!! ® Board Game', '7695781366508118762', '10,000+', 'http://babaroga.com', 'contact@babaroga.com']}
+{'com.bullbitz.easterdrop': ['Bunny Drops - Match three', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'com.digidiced.cxgrelease': ['Cottage Garden', '7642513241968800472', '1,000+', 'http://www.digidiced.com', 'info@digidiced.com']}
+{'com.ssaurel.mahjongsolitaire.pro': ['Mahjong Solitaire Ultimate Pro', '6924401024188312025', '100+', 'https://www.ssaurel.com', 'sylvain.saurel@gmail.com']}
+{'jp.co.unbalance.IgoKouza01': ['How to play Go "Beginner\'s Go"', '5973402057352547106', '5,000+', 'http://www.unbalance.co.jp/english/android/', 'support@unbalance.co.jp']}
+{'com.sudokurainbow.sudokurainbow': ['Sudoku Rainbow', 'Sudoku+Rainbow+Project', '1,000+', 'http://www.sudokurainbow.com', 'support@sudokurainbow.com']}
+{'com.gnik.xiangqi.pro': ['Chinese Chess - Xiangqi Pro', '7771402521187096313', '100+', 'http://gnik-box.com/policy/xiangqipro-policy.html', 'gnik.box@gmail.com']}
+{'com.randomsaladgames.simpledominoes': ['Simple Dominoes', '7781541777053893917', '1,000+', 'http://randomsaladgames.com', 'support@randomsaladgames.com']}
+{'com.hapticapps.chesstime.pro': ['Chess Time® Pro - Multiplayer', 'Haptic+Apps+LLC', '5,000+', 'http://chesstimeapp.com/', 'support@hapticappsllc.com']}
+{'com.asmodeedigital.perudoofficial': ['Perudo: The Pirate Board Game', '7959316599581723037', '500+', 'http://www.asmodee-digital.com/en/perudo', 'support@asmodee.com']}
+{'com.digidiced.insrelease': ['Indian Summer', '7642513241968800472', '500+', 'http://www.digidiced.com', 'info@digidiced.com']}
+{'com.sppa4apps.Quarto.gp': ['Quarto©', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/en/quarto', 'support@asmodee.net']}
+{'com.komodochess.komodo11': ['Komodo 11 Chess Engine', 'komodochess.com', '1,000+', 'http://www.komodochess.com', 'support@komodochess.com']}
+{'com.acram.steam': ['Steam: Rails to Riches', '9052427338891655444', '5,000+', 'http://digital.acram.eu/', 'support@acram.eu']}
+{'com.usm.kahuna': ['Kahuna', '7190673763242476318', '1,000+', 'http://www.usm.de', 'android@usm.de']}
+{'com.windowsgames.thegeneral': ['The General', '5875330403581467051', '10+', 'http://www.windowsgames.co.uk', 'sean@windowsgames.co.uk']}
+{'com.redgame.jacks.adfree': ['Wild Jacks: Pro Edition', 'Red+Game', '50+', None, 'yaokorean@163.com']}
+{'au.com.quadropoly.monopoly': ['Quadropoly Pro', 'Clever+Mind+Games', '1,000+', 'http://quadropoly.com.au', 'clevermindgames@gmail.com']}
+{'com.mobilelaz.chesscheckers': ['Chess & Checkers Pack', 'MobileLaz', '5+', 'http://www.mobilelaz.com/chesscheckers', 'info@mobilelaz.com']}
+{'com.habadigital.obstgarten': ['Orchard by HABA', '8749913084192358255', '1,000+', 'http://www.foxandsheep.com', 'contact@foxandsheep.com']}
+{'de.brettspielwelt.ligretto': ['Ligretto', 'Brettspielwelt+GmbH', '1,000+', 'http://ligretto.brettspielwelt.de', 'mellin@brettspielwelt.de']}
+{'com.connectTheDotsNoAds': ['Dots and Boxes (No ads)', '5745430388359813110', '100+', 'http://www.cs.ucy.ac.cy/~zhadji01/privacyPolicy.html', 'sharkis99@gmail.com']}
+{'com.jonathanlacoste.playerchess': ['4 Player Chess', 'Jo+Games', '100+', None, 'jo_lacoste@live.com']}
+{'com.usm.ubongo': ['Ubongo - Puzzle Challenge', '7190673763242476318', '10,000+', 'http://www.usm.de', 'android@usm.de']}
+{'com.cognithema.chessvariations': ['Chess Variations', 'J.+Schultz', '100+', 'http://www.cognithema.com', 'support@cognithema.com']}
+{'com.bullbitz.haldrop': ['Halloween Drops - Match three', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'air.com.longo.Xiangqi.android': ['Chinese Chess: Premium', '5624549843888700570', '100+', 'http://www.vietson.com', 'support@vietson.com']}
+{'com.jayavon.gamewordgenerator': ['Game Word Generator', 'JayAvondoglio', '500+', 'http://www.KisnardOnline.com', 'jayavon@gmail.com']}
+{'com.bullbitz.jeweldrop': ['Jewel Drops - Match three', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'com.IMstudio.dinochess': ['Checkonaut Dino Chess', 'IM+Studio', '100+', 'http://www.theinteractivestudio.com/google', 's4samueltan@gmail.com']}
+{'com.jacksgonewild.android': ['Jacks Gone Wild', 'PMFoundations', '100+', 'http://www.jacksgonewild.com', 'admin@jacksgonewild.com']}
+{'mco.prj.app.bwgo': ['BW-Go', 'Marc+Oldenhof', '1,000+', None, 'bwgo@ziggo.nl']}
+{'cat.minkusoft.jocstaulerpro': ['Board Games Pro', 'minkusoft', '5,000+', 'http://minkusoft.com', 'info@minkusoft.com']}
+{'com.optimesoftware.chess.pro': ['Chess Premium', 'Optime+Software', '1,000+', 'http://www.optimesoftware.com', 'support@optimesoftware.com']}
+{'com.direwolfdigital.lotus': ['Lotus Digital', 'Dire+Wolf+Digital', '500+', 'http://www.direwolfdigital.com', 'support@direwolfdigital.com']}
+{'de.development.outline.camelup': ['Camel Up', 'Outline+Development', '5,000+', 'http://www.outline-development.de', 'support@outline-development.de']}
+{'com.etermax.pictionary.pro': ['Pictionary™ (Ad free)', '4857484411335878422', '1,000+', 'http://www.etermax.com', 'android@tradefields.com']}
+{'de.brettspielwelt.axiohexa': ['AXIO hexa', 'Brettspielwelt+GmbH', '10+', 'http://www.brettspielwelt.de', 'mellin@brettspielwelt.de']}
+{'com.handelabra.Bot9': ['Bottom of the 9th', '7392390343537623321', '1,000+', 'http://bot9digital.com', 'support@handelabra.com']}
+{'com.fgamesteam.pack1.actikids': ['Familiy Charades ActiKidsPack1', 'FamilyGamesTeam', '100+', 'http://actikids.eu', 'fgamesteam@gmail.com']}
+{'com.shelter_droid.shelter': ['Shelter: A Survival Card Game', '8401944924818644128', '10,000+', 'http://www.survivalistgames.co.uk/shelter', 'feedback@survivalistgames.co.uk']}
+{'chessbase.android.fritz': ['Fritz', 'ChessBase+GmbH', '1,000+', 'http://www.chessbase.com', 'info@chessbase.com']}
+{'com.Snookerpool.tool': ['Snooker Pool Tool', 'City+Technologies', '100+', 'http://www.snookerpooltool.com', 'muhammadadnan573@gmail.com']}
+{'com.pvella.mahjongpaid': ['Hong Kong Style Mahjong - Paid', '8218130893574223407', '1,000+', 'http://hksmahjong.net/', 'pvella@gmail.com']}
+{'com.kinkajoo.RummikubHD': ['Rummikub HD', 'Kinkajoo', '10,000+', 'http://www.rummikub.com', 'support@rummikub-apps.com']}
+{'net.go4go.go4goclient': ['Go4Go', 'Ning+Li', '100+', 'http://www.go4go.net', 'support@go4go.net']}
+{'com.kb.mob': ['Backgammon Masters', '2KB+LLC', '10,000+', 'http://www.2kbgames.com', 'support@2kbgames.com']}
+{'com.ayelmarc.chessormpro': ['Chess Repertoire Manager PRO', '7281777735470173283', '10+', None, 'ayelmarc.info@gmail.com']}
+{'com.komodochess.komodo10': ['Komodo 10 Chess Engine', 'komodochess.com', '1,000+', 'http://www.komodochess.com', 'support@komodochess.com']}
+{'com.acronymgames.policeprecinct': ['Police Precinct: Online', 'A.C.R.O.N.Y.M.+digital', '100+', 'http://www.commonman.com', 'info@acronymdigital.com']}
+{'com.iemel.dice.f': ['Space Dice - Farkle', '6871606332556887057', '10+', 'http://spacedice.blogspot.sk/2016/03/space-dice-en.html', 'iemel@outlook.com']}
+{'air.com.lumiaware.FOTNRune': ['FOTN Runes', 'Lumiaware+Technologies+inc.', '100+', 'http://www.fateofthenorns.com', 'contact@lumiaware.com']}
+{'com.njsoftware.backgammonnj': ['Backgammon NJ for Android', 'Jimmy+Hu', '10,000+', 'http://www.njsoftware.com', 'nooksupport@njsoftware.com']}
+{'com.bullbitz.piratedrop': ['Pirate Drops - Match three', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'au.com.quadropoly.rentorbuy.monopoly': ['Quadropoly Academy - Data Science for Board Game', 'Clever+Mind+Games', '1,000+', 'http://quadropoly.com.au', 'clevermindgames@gmail.com']}
+{'de.brettspielwelt.axio': ['AXIO octa', 'Brettspielwelt+GmbH', '100+', 'http://www.brettspielwelt.de', 'mellin@brettspielwelt.de']}
+{'de.brettspielwelt.metro': ['Metro - the board game', 'Queen+Digitals', '500+', 'http://queen-games.de', 'mellin@brettspielwelt.de']}
+{'com.asmodeedigital.harald': ['Harald: A Game of Influence', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/en/harald', 'support@asmodee.net']}
+{'com.netcraft.wisdomantics': ['Wisdomantics', 'KINGDOM+GAMES+ENTERPRISES,+LLC', '10+', 'http://www.wisdomantics.com', 'info@wisdomantics.com']}
+{'jp.co.unbalance.android.gocsdl': ['CrazyStone DeepLearning Pro', '5973402057352547106', '1,000+', 'http://www.unbalance.co.jp/', 'support@unbalance.co.jp']}
+{'com.JZimmerFMueck.Rhetoric': ['Rhetoric - The Public Speaking Game', 'Florian+Mueck+%26+John+Zimmer', '100+', 'http://rhetoricgame.com', 'rhetoricgame@gmail.com']}
+{'appinventor.ai_izzybella419.FourXFourSoloMiniChess': ['4x4 Solo Mini Chess Brain Teaser Puzzle Games', '8342980373939007999', '100+', 'http://www.kg9e.net/apps/FourxFourSoloMiniChess/', 'nick@kg9e.net']}
+{'com.smartandsmarty.glassroad': ['Glass Road', 'Smart+and+Smarty+Kft.', '1,000+', 'http://www.smartandsmarty.com', 'smart@smartandsmarty.com']}
+{'com.sistemasmas.pictionariopartygold': ['Pictionario Party Plus', '8560749259762724462', '1,000+', 'http://www.sistemasmas.com.ar/', 'sistemasmasmas@gmail.com']}
+{'com.RotN.acdc': ['AceyDeucey', 'Riders+of+the+Night', '1,000+', 'https://plus.google.com/communities/105149097778009970854', 'ridersofthenightllc@gmail.com']}
+{'com.optimesoftware.fourinarow.pro': ['Four in a Row Pro', 'Optime+Software', '1,000+', 'http://www.optimesoftware.com', 'support@optimesoftware.com']}
+{'com.kindermatica.farmfun': ['Fun on the Farm - 5 in 1 games', 'Kindermatica+Ltd.', '1,000+', 'https://www.kindermatica.com', 'kindermatica@gmail.com']}
+{'com.lucian.musca.chess.puzzle.pro': ['Fun Chess Puzzles Pro', 'Lucian+Musca', '500+', 'https://sites.google.com/view/funchesspuzzlespro', 'jyce.solutions@gmail.com']}
+{'com.usm.heckmeck': ['Pickomino by Reiner Knizia', '7190673763242476318', '1,000+', 'http://www.usm.de', 'android@usm.de']}
+{'com.bullbitz.xmasdrop2': ['Christmas Drops 2 - Match 3', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'com.bullbitz.fruitdrop3': ['Fruit Drops 3 - Match 3 puzzle', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'com.weekendgames.Abalone': ['Abalone - The Official Board Game\xa0', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/abalone', 'support@asmodee.net']}
+{'com.kalab.pgnviewerpro': ['Chess PGN Master Pro Key', 'Gerhard+Kalab', '5,000+', 'http://kalab.com/pgnviewer/', 'g.kalab2@gmx.at']}
+{'com.freedomrabbits.xiangqi.paid': ['Chinese Chess, Xiangqi (Professional Edition)', 'FREEDOM+RABBITS', '100+', None, 'freedomrabbits@126.com']}
+{'mazzy.and.housearrest.android': ['House Arrest  detective board game', 'Maxim+Matyushenko', '100+', 'https://maxdk9.bitbucket.io/', 'maxdk9@gmail.com']}
+{'com.stickyricegames.deliciouspgms': ['Delicious Mahjong Solitaire', '7831284904287331453', '100+', 'http://www.stickyricegames.com', 'stickyricehelp@gmail.com']}
+{'com.thegamestudio.shuttheboxpremium': ['Shut The Box Premium', 'The+Game+Studio', '50+', None, 'pownow477@gmail.com']}
+{'com.ravensburgerdigital.ScotlandYardHD': ['Scotland Yard', '7057959691151910430', '10,000+', 'https://www.ravensburger.de/start/ravensburger-apps/index.html', 'support@ravensburger-digital.com']}
+{'jp.co.unbalance.android.KanaShogi2': ['Kanazawa Shogi 2', '5973402057352547106', '5,000+', 'http://www.unbalance.co.jp/', 'support@unbalance.co.jp']}
+{'com.rubicon.dev.yachtydeluxe': ['Yachty Premium', '8935462946679538264', '10,000+', 'http://www.rubicondev.com/forum', 'yachtyand@rubicondev.com']}
 {'com.dreamgo.pixelartist.colorbynumber.free': ['Unicorn Color Sandbox: Color by Number Free', 'DREAMGO', '1,000+', 'https://sites.google.com/view/dreamgo/homepage', 'david.wang.jack@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.hd.garden.spring': ['Mahjong HD: Spring Journey Solitaire', '7060724462687387137', '5,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.casino.en.domino': ['Domino Online', 'Domino+Tycoon', '1,000+', 'http://47.254.44.94/PrivacyPolicy.html', 'jacobjones7988@gmail.com']}
+{'gg.com.pixel.art': ['Color By Number Pixel Art', 'Color+By+Number+-+Coloring+Apps', '10,000+', 'https://sites.google.com/view/tig-studio-privacy-policy', 'xuquang222@live.com']}
+{'com.northstargames.evolutiongame': ['Evolution : The Video Game', 'North+Star+Games', '10,000+', 'http://www.evolutionvideogame.com', 'digital@northstargames.com']}
+{'creativegames.coloring.color.by.number.colorbynumber': ['Color by Number New Coloring Book', '8467463937819765453', '1,000+', 'https://sites.google.com/view/colorbynumbercreativegames', 'lusotocoloringpage@gmail.com']}
+{'board.monopoly.neon.tycoon': ['Neon Tycoon - Lucky Dice Roller', 'Boss+Bar+Games', '1,000+', 'https://neontycoon.blogspot.com/2019/02/neon-tycoon-privacy-policy.html', 'xzy18168809814@gmail.com']}
+{'com.foxelpix.crossstitchclub': ['Cross Stitch Club —\xa0Coloring by Number', 'Saba+Games', '1,000+', 'http://tigrico.tilda.ws/privacy', 'contact.sabagames@gmail.com']}
+{'com.kknucklesfree.juungle': ['Adventure sonic  Runner Games 2019', 'SM-Apps', '1,000+', 'https://sites.google.com/view/smmail/accueil', 'ismau58@gmail.com']}
+{'com.ludodicestar.ludo.game': ['Ludo Dice Star 2019 - Ludo Game', 'Ludofyme', '10,000+', 'http://ludofyme.blogspot.com/2018/09/privacy-policy.html?m=1', 'Lovingangelary@gmail.com']}
+{'com.ludo.fivestar': ['Ludo Game', 'Aeka+Games', '50,000+', 'http://www.aekagames.com/privacypolicy', 'aekagames@gmail.com']}
+{'com.yachty.yatzy.game': ['Yatzy Dice Game', 'Aeka+Games', '1,000+', 'http://www.aekagames.com/privacypolicy', 'aekagames@gmail.com']}
+{'com.game.mahjongforest': ['Mahjong Forest 2019', 'Flipline+Team', '10,000+', 'http://poker-prod-http.zebralabs.in:60909/pages/privacypolicy', 'mahjongforest2019.support@gmail.com']}
+{'com.SoftwareByMatt.turbodice': ['10000 Dice / Würfeln FREE', 'Matthias+M.+/+Germany', '50+', None, 'softwarebymatt@gmail.com']}
+{'game.board.monopolybussiness.fouremoji': ['Monopoly Business', 'Saho', '100+', None, 'jckhunt4@gmail.com']}
+{'color.number.freedraw': ['Color By Number', 'Color+Draw', '100+', None, 'colorbynumber@gmail.com']}
+{'com.offlline.gameuno': ['Uno Offline 2019', 'wfddev', '500+', 'https://wfddev.blogspot.com/2018/11/welcome-to-homepage-of-privacy-policy.html', 'yasirardiyanshah237@gmail.com']}
+{'com.castdev.loteria': ['Lotería Mexicana - Baraja', 'Ram%C3%B3n+Casta%C3%B1os', '100+', None, 'mc.rcastanos@gmail.com']}
+{'com.uboottheboardgame': ['U-BOOT The Board Game', 'Iron+Wolf+Studio+S.A.', '1,000+', 'http://www.uboottheboardgame.com', 'uboottheboardgame@gmail.com']}
+{'com.daygames.five.seconds': ['5 Second Rule - Drinking Game', '5216961176518154327', '100+', 'https://day-games.com', 'info@day-games.com']}
+{'com.GSteadys.newmasterpoly': ['Monopoly Free 2019', '8494354795768838486', '1,000+', 'https://gsteadysys.blogspot.com/2019/02/privacy-policy.html', 'gamesteady97@gmail.com']}
+{'com.IFstudio.bubblejewel': ['Bubble Jewel Crush', 'IFstudio', '100+', 'https://ifstudio117.blogspot.com/2019/02/privacy-policy.html', 'IFstudio@gmail.com']}
+{'com.mahjong.solitaire1': ['Mahjong Fruits', 'Lolli+Games', '500+', 'https://sites.google.com/view/ntrpolicy/privacy', 'hdeliyani@gmail.com']}
+{'bgcalcs.mosch.com.eclipsecalculator': ['Eclipse Simulator', 'Mike+Moschetti', '10+', None, 'bgcalcs@gmail.com']}
+{'jwtc.bitnet.chess': ['Chess Master 2019 - Pro', 'Creative+Techno+Labs', '100+', 'http://bitnetinfotech.com/privacy.html', 'creativetechnoapps@gmail.com']}
+{'com.ImpossibleGamesStudio.FarkleDiceMatchPuzzleGame': ['Farkle Dice Match Puzzle Game', '8065244108610663587', '50+', 'http://impossiblegamesstudio.000webhostapp.com/privacyPolicy.html', 'gamesmarketingsolution@gmail.com']}
+{'com.JeffreyStoneGamelab.sumzplus': ['sumZ+', 'Jeffrey+Stone+Gamelab+LLC', '10+', 'https://facebook.com/sumzplus/', 'sumzplusgame@gmail.com']}
+{'com.pixel.art.coloring.color.number': ['Happy Color – Color by Number', '4677399971720148178', '10,000,000+', 'http://x-flow.app', 'support@x-flow.app']}
+{'com.northstargames.evolutiongame': ['Evolution : The Video Game', 'North+Star+Games', '10,000+', 'http://www.evolutionvideogame.com', 'digital@northstargames.com']}
+{'com.turbolabz.instantchess.android.googleplay': ['Chess Star - Ultimate Social Chess App', 'Turbo+Labz', '5,000+', 'http://www.turbolabz.com/', 'info@turbolabz.com']}
+{'ludo.monopoly.board.dreamroad': ['Dream Road - A Dice Board Game', 'WeFun+Games', '50,000+', 'https://wefungames.blogspot.com/2019/01/built-dream-road-app-as-free-app.html', 'alanvelezvip@gmail.com']}
+{'com.withbuddies.diceellen': ['Dice with Ellen', '9028773071151690823', '1,000,000+', 'http://www.scopely.com', 'apps-android@withbuddies.com']}
+{'com.gamebility.onet': ['Onnect - Pair Matching Puzzle', '8673675966644472691', '100,000+', 'http://www.gamebility.com/', 'gamebility@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.solitaire.hd.animal.world': ['Mahjong Animal World - HD Mahjong Solitaire', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'gg.com.pixel.art': ['Color By Number Pixel Art', 'Color+By+Number+-+Coloring+Apps', '10,000+', 'https://sites.google.com/view/tig-studio-privacy-policy', 'xuquang222@live.com']}
+{'com.wildcardstudios.backgammon': ['Ultimate Backgammon: Classic Dice & Board Game', '6490540235565334154', '10,000+', 'https://www.wildcardstudios.com/support', 'support@wildcardstudios.com']}
+{'air.com.playcus.free.bingo.games.casino.slots.country.days.game': ['Bingo Country Days: Best Free Bingo Games', '7965470541443925887', '50,000+', 'https://www.playcus.com', 'bingocountrydays@playcus.com']}
+{'com.lein.pppoker.android': ['PPPoker-Free Poker&Home Games', 'PPPOKER', '100,000+', 'http://www.pppoker.net', 'info@pppoker.net']}
+{'com.aquaman.sudoku': ['Sudoku', 'CanaryDroid', '10,000+', 'http://www.canadadroid.com/policy.htm', 'contact@canadadroid.com']}
+{'com.ludodicestar.ludo.game': ['Ludo Dice Star 2019 - Ludo Game', 'Ludofyme', '10,000+', 'http://ludofyme.blogspot.com/2018/09/privacy-policy.html?m=1', 'Lovingangelary@gmail.com']}
+{'com.water.mancalabestboardgame': ['Mancala - Best Online Multiplayer Board Game', 'Watermelon+Lab+IND', '500,000+', 'http://www.watermelonlab.in', 'watermelonindia89@gmail.com']}
+{'com.pixel.coloring.color.by.number': ['Pixel.ly 3D', 'Color+Apps+For+Free', '1,000,000+', 'https://sites.google.com/view/colorappsforfree', 'color.app@hotmail.com']}
+{'com.waves.mahjongocean': ['Mahjong Ocean', 'Zepni+Studio', '10,000+', 'https://www.231play.com/privacy', 'quocanhnho14@gmail.com']}
+{'com.maysalward.Dominoes': ['Dominoes Pro', '5357617968382561556', '5,000,000+', 'http://www.maysalward.com', 'info@maysalward.com']}
+{'com.casox.Popsmachine': ['Gravity Pops!', 'casox', '100,000+', 'http://popcore.com', 'hello@popcore.com']}
+{'solitaire.card.games.klondike.solitaire.classic.free': ['Solitaire', 'Mahjong+Solitaire+Fun', '1,000,000+', 'https://sites.google.com/site/mahjongsolitairefun/', 'crosswords2018@gmail.com']}
+{'com.dreamgo.pixelartist.colorbynumber': ['Unicorn: Color by Number, Pixel Art Color Number', 'DREAMGO', '100,000+', 'https://sites.google.com/view/cbeautylab', 'david.wang.jack@gmail.com']}
+{'com.europosit.polygon2d.coloringpuzzle': ['POLYGON: Color by Number', 'Severex', '500,000+', 'http://www.europosit.com', 'support@europosit.com']}
+{'com.kknucklesfree.juungle': ['Adventure sonic  Runner Games 2019', 'SM-Apps', '1,000+', 'https://sites.google.com/view/smmail/accueil', 'ismau58@gmail.com']}
+{'com.sng.yatzy': ['Yatzy - Offline Free Dice Games', '5890018970979485285', '100,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.fgmt.reversi': ['Reversi', 'OneMirror,+LLC', '100,000+', None, 'lidiiachyhryn@gmail.com']}
+{'com.dreamgo.pixelartist.colorbynumber.free': ['Unicorn Color Sandbox: Color by Number Free', 'DREAMGO', '1,000+', 'https://sites.google.com/view/dreamgo/homepage', 'david.wang.jack@gmail.com']}
+{'com.withbuddies.dice.free': ['Dice With Buddies™ Free - The Fun Social Dice Game', '9028773071151690823', '5,000,000+', 'https://scopely.com/game/dice-with-buddies/', 'dice-support@scopely.com']}
+{'com.landlordgame.tycoon': ['Landlord Tycoon - Money Investing Idle with GPS', '7729503051138227560', '5,000,000+', 'https://landlordgame.com/', 'feedback@landlordgame.com']}
+{'com.kiaora.dominoes': ['Dominos Game * Best Dominoes', 'KIA+ORA+GAMES+PTY+LIMITED', '1,000,000+', 'http://kiaoragames.com/support/', 'contact@kiaoragames.com']}
+{'com.bingo.kin': ['Bingo Kin', 'Westway+Studio', '5,000+', 'http://bingokin.com', 'bingokingame@gmail.com']}
+{'com.two31play.mahjongcity': ['Mahjong City Tours: An Epic Journey and Quest', '8259240029764765652', '1,000,000+', 'http://231play.com', 'contact@231play.com']}
+{'com.dg.puzzlebrothers.bubble.pop.ocean.adventure.mermaids': ['Bubble Pop Mermaids: Ocean Kingdom Adventure', 'Bubble+Quest+%26+Free+Bubble+Pop+by+Difference+Games', '5,000+', 'http://www.differencegames.com', 'bubblequest@differencegames.com']}
+{'com.dg.puzzlebrothers.mahjong.titan.olympus.gods': ['Mahjong Olympus Gods - Titan Adventure', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'live.outsourceapps.roundandround': ['Round and Round', 'RightBrain', '1,000+', 'http://outsourceapps.live', 'info@outsourceapps.live']}
+{'donnaipe.europoly': ['Europoly', 'Don+Naipe', '1,000,000+', 'http://donnaipe.com', 'producciones.don.naipe@gmail.com']}
+{'com.fiogonia.dominoes': ['Dominos - Best Dominoes Game', 'FIOGONIA+LIMITED', '1,000,000+', 'http://fiogonia.com/support/', 'contact@fiogonia.com']}
+{'com.dg.turbonuke.bingo.quest.tropical.haven.island.beach.safari': ['Bingo Tropical Haven – Island Beach Fever', '4896417924738532354', '50,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.usm.catanuniverse': ['Catan Universe', '7190673763242476318', '500,000+', 'http://www.catanuniverse.com', 'support@catanuniverse.com']}
+{'com.dg.puzzlebrothers.mahjong.magic.carnival.world.tour': ['Mahjong Magic: Carnival World Tour', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'magic.sudoku.pro': ['MagicSudokuPro', 'MagicDreamPro', '100,000+', 'http://www.magicdreampro.com', 'magic.dream.pro@gmail.com']}
+{'pl.lukok.chess': ['Chess', '8116283642168527192', '1,000,000+', 'http://draughtsforandroid.com', 'chess.appdynasty@gmail.com']}
+{'com.rottzgames.findobject': ['Find Objects Hidden Object', '6734953287718913092', '1,000,000+', 'http://www.rottzgames.com', 'object.and@rottzgames.com']}
+{'magic.appgo.solitaire.free': ['Solitaire.', 'Fun+Games+free', '1,000,000+', 'https://sites.google.com/site/fungamesfreeprivacypolicy', 'board_game@hotmail.com']}
+{'com.offlline.gameuno': ['Uno Offline 2019', 'wfddev', '500+', 'https://wfddev.blogspot.com/2018/11/welcome-to-homepage-of-privacy-policy.html', 'yasirardiyanshah237@gmail.com']}
+{'color.number.freedraw': ['Color By Number', 'Color+Draw', '100+', None, 'colorbynumber@gmail.com']}
+{'com.CoTyPhu.Business': ['Monopoly', 'LMH', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/294d35788d595b015de288a4b108d332', 'Tamquoc198919891989@gmail.com']}
+{'com.omg.quiz.game.omg.app': ['OMG Game : Funny Quiz', 'OMG+Quiz+Inc.', '100,000+', 'https://quizizz.com/privacy', 'omgquizgame@gmail.com']}
+{'com.mirenad.mahjongtitans': ['Mahjong Titans', '6230452689219414644', '500,000+', 'http://mirenad.com', 'public.mirenad@hotmail.com']}
+{'com.dg.turbonuke.bingo.mania.titan.adventure.kingdom.crush': ['Bingo Titan Adventure: Kingdom Crush', '4896417924738532354', '10,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.dg.turbonuke.bingo.quest.summer.garden': ['Bingo Quest - Summer Garden Adventure', '5109527294243675565', '500,000+', 'https://www.fgl.com/pp.php', 'fglindieshowcase@flashgamelicense.com']}
+{'com.dg.turbonuke.bingo.quest.treasure.paradise.island': ['Bingo Treasure Quest - Paradise Island Riches', '4896417924738532354', '100,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'solitaire.arcadegames.freecard.solitaireplus.epic.klodike': ['Solitaire', 'Arcade+Game+Maker', '500,000+', 'http://www.arcadeveloper.com/', 'contact@arcadeveloper.com']}
+{'com.monkeys.sscramble': ['Sudoku Scramble - Online Multiplayer Sudoku', '81monkeys', '5,000+', 'http://81monkeys.com', 'support@81monkeys.com']}
+{'kxgames.blossomblitz.gardenmall': ['Flowers Legend Match 3 - Blossom Garden Classic', 'JVeverMind', '1,000+', 'https://sites.google.com/site/jvermindgame/', 'ov2398@gmail.com']}
+{'uk.co.aifactory.chessfree': ['Chess Free', '7906675825742087969', '50,000,000+', 'http://www.aifactory.co.uk', 'Support@aifactory.co.uk']}
+{'com.superluckycasino.viponly.slots.vegas.android.free': ['Slots: VIP Deluxe Slot Machines Free - Vegas Slots', '7531380661925692871', '1,000,000+', 'http://superluckycasino.com', 'support@12gigs.com']}
+{'com.js.ludo': ['Ludo Neo-Classic : King of the Dice Game 2019', 'Neoclassic+Tech+Pvt.+Ltd.', '10,000,000+', 'https://meehjeevan.github.io/', 'meehjeevan@gmail.com']}
+{'com.ttdgame.mahjong': ['Mahjong Classic 2019', 'Fastone+Studio', '50,000+', 'http://midva.games/en/privacy-policy/', 'dothanhtulq29140207@gmail.com']}
+{'ru.skillcap.dominoes': ['Domino - Dominoes online. Play free Dominos!', 'Skill+Cap', '1,000,000+', 'http://privacy.skillcap.net/dominoes/policy.html', '1954nsmirnova@gmail.com']}
+{'com.foxelpix.crossstitchclub': ['Cross Stitch Club —\xa0Coloring by Number', 'Saba+Games', '1,000+', 'http://tigrico.tilda.ws/privacy', 'contact.sabagames@gmail.com']}
+{'com.ludo.fivestar': ['Ludo Game', 'Aeka+Games', '50,000+', 'http://www.aekagames.com/privacypolicy', 'aekagames@gmail.com']}
+{'com.dg.turbonuke.bingo.quest.monster.mania.spooky.adventures': ['Monster Bingo: World Party', '4896417924738532354', '100,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.gsoftteam.backgammonultimate': ['Backgammon Ultimate', '6775832922103090311', '100,000+', 'http://www.gsoftteam.com', 'support@gsoftteam.com']}
+{'com.sngict.bingo': ['Bingo - Offline Free Bingo Games', '5890018970979485285', '5,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.dg.turbonuke.bingo.quest.mania.pets.cat.craze': ['Bingo Pets Mania: Cat Craze', '4896417924738532354', '50,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.gameberry.ludo.star2': ['Ludo Star', '8881746643180042782', '100,000+', 'http://gameberrylabs.com', 'support@gameberrylabs.com']}
+{'com.google.android.chess': ['Chess for Android', '5402281950510287787', '10,000,000+', 'http://www.aartbik.com/android.php', 'ajcbik@google.com']}
+{'com.PinballGame': ['Pinball Pro', 'TerranDroid', '10,000,000+', 'http://www.terrandroid.com', 'support@terrandroid.com']}
+{'com.Offs.WhoIAm': ['Guess who am I – Who is my character?', 'Offs+Games', '10,000+', 'https://termsfeed.com/privacy-policy/73f0583d8df8ede8d44591fba87289a2', 'antonio.jimenez.barrios@gmail.com']}
+{'com.han.checkers': ['Checkers Free', '8683074016728924592', '1,000,000+', 'http://www.roghangames.com/', 'roghangames@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.solitaire.magic.moonlight': ['Mahjong Solitaire: Moonlight Magic', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'free.scratch.money.luckyrose': ['Lucky Rose', 'Flip+Stack+Studio', '50,000+', 'https://flipstackstudio.blogspot.com/2018/11/flip-stack-studio-privacy-policy.html', 'ltylsy111@gmail.com']}
 {'com.digidiced.bvbrelease': ['The Castles Of Burgundy', '7642513241968800472', '500+', 'http://www.digidiced.com', 'info@digidiced.com']}
 {'com.pixel.art.coloring.color.number': ['Happy Color – Color by Number', '4677399971720148178', '10,000,000+', 'http://x-flow.app', 'support@x-flow.app']}
+{'com.pixel.art.coloring.by.number': ['Tap Color    Color by Number', 'Puzzle+Saga+Studio', '5,000,000+', 'https://sites.google.com/site/tapcolorprivacypolicy/', 'support@colorbynumber.freshdesk.com']}
+{'com.turbochilli.rollingsky': ['Rolling Sky', 'Cheetah+Games', '100,000,000+', 'http://www.cmcm.com/', 'rollingskyfeedback@163.com']}
+{'com.scopely.yux': ['YAHTZEE® With Buddies Dice Game', '9028773071151690823', '5,000,000+', 'http://www.scopely.com', 'newyahtzeesupport@scopely.com']}
+{'com.LoopGames.Domino': ['Dominoes', '5014688380385987684', '10,000,000+', 'https://loop.games/', 'loopgamesinc@gmail.com']}
+{'com.easybrain.sudoku.android': ['Sudoku.com', '7473634688510685864', '10,000,000+', 'http://www.easybrain.com', 'support@easybrain.com']}
+{'com.jetstartgames.chess': ['Chess', 'Chess+Prince', '100,000,000+', None, 'help.chess@mail.ru']}
+{'com.bingo.scape.android.free': ['Bingo Scapes - Lucky Bingo Game Free to Play', '5817729045804332618', '500,000+', 'https://d28w1kh1yrgkq0.cloudfront.net/policy/policy-GP-dataverse.html', 'bingoscapes@avid.ly']}
+{'com.bingo.tour.party.crazy.free': ['Bingo Party - Free Bingo Games', '5817729045804332618', '5,000,000+', 'https://d28w1kh1yrgkq0.cloudfront.net/policy/policy-GP-dataverse.html', 'bingo@avid.ly']}
+{'com.pixel.coloring.color.by.number': ['Pixel.ly 3D', 'Color+Apps+For+Free', '1,000,000+', 'https://sites.google.com/view/colorappsforfree', 'color.app@hotmail.com']}
+{'solitaire.card.games.klondike.solitaire.classic.free': ['Solitaire', 'Mahjong+Solitaire+Fun', '1,000,000+', 'https://sites.google.com/site/mahjongsolitairefun/', 'crosswords2018@gmail.com']}
+{'uk.co.aifactory.chessfree': ['Chess Free', '7906675825742087969', '50,000,000+', 'http://www.aifactory.co.uk', 'Support@aifactory.co.uk']}
+{'com.dimcoms.checkers': ['Checkers', 'English+Checkers', '50,000,000+', None, 'help.checkers@mail.ru']}
+{'com.hasbro.riskbigscreen': ['RISK: Global Domination', '8648499208878745563', '5,000,000+', 'http://www.smgstudio.com', 'support-risk@smgstudio.com']}
+{'com.platsera.freebingoworld': ['Free Bingo World - Free Bingo Games', 'Platsera+Apps', '500,000+', 'http://platsera.xyz/?page_id=3', 'platsera.apps@gmail.com']}
+{'com.kiaora.dominoes': ['Dominos Game * Best Dominoes', 'KIA+ORA+GAMES+PTY+LIMITED', '1,000,000+', 'http://kiaoragames.com/support/', 'contact@kiaoragames.com']}
+{'com.superluckycasino.viponly.slots.vegas.android.free': ['Slots: VIP Deluxe Slot Machines Free - Vegas Slots', '7531380661925692871', '1,000,000+', 'http://superluckycasino.com', 'support@12gigs.com']}
+{'com.mobirix.connectfour': ['4 in a row king', '4864673505117639552', '5,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.huuuge.checkers': ['Checkers', '8024798716054605949', '100,000+', 'http://funmonkey.games', 'funmonkeyltd@gmail.com']}
+{'com.fiogonia.dominoes': ['Dominos - Best Dominoes Game', 'FIOGONIA+LIMITED', '1,000,000+', 'http://fiogonia.com/support/', 'contact@fiogonia.com']}
+{'com.dg.turbonuke.bingo.quest.summer.garden': ['Bingo Quest - Summer Garden Adventure', '5109527294243675565', '500,000+', 'https://www.fgl.com/pp.php', 'fglindieshowcase@flashgamelicense.com']}
+{'com.fiogonia.yatzy': ['Yazy the best yatzy dice game', 'FIOGONIA+LIMITED', '500,000+', 'http://fiogonia.com/support/', 'contact@fiogonia.com']}
+{'com.two31play.mahjongcity': ['Mahjong City Tours: An Epic Journey and Quest', '8259240029764765652', '1,000,000+', 'http://231play.com', 'contact@231play.com']}
+{'de.smuttlewerk.fleetbattle': ['Fleet Battle - Sea Battle', '7488507106798759979', '10,000,000+', 'http://www.smuttlewerk.de', 'support@smuttlewerk.de']}
+{'com.LoopGames.Yatzy': ['Yatzy Classic', '5014688380385987684', '500,000+', 'https://loop.games/', 'loopgamesinc@gmail.com']}
+{'magic.appgo.solitaire.free': ['Solitaire.', 'Fun+Games+free', '1,000,000+', 'https://sites.google.com/site/fungamesfreeprivacypolicy', 'board_game@hotmail.com']}
+{'pl.lukok.draughts': ['Checkers', '8116283642168527192', '50,000,000+', 'http://draughtsforandroid.com', 'draughts.android@gmail.com']}
+{'jp.pokemon.pokemoncomaster': ['Pokémon Duel', 'The+Pokemon+Company', '10,000,000+', 'http://www.apppokemon.com/gate/', 'app-auto-reply@pokemon-support.com']}
+{'com.chess': ['Chess · Play & Learn', '5068259210636929122', '10,000,000+', 'https://www.chess.com/', 'support@chess.com']}
+{'com.abradoodle.bingo': ['Bingo Abradoodle : Best Free Bingo Games', 'Abradoodle+Games+-+fun+bingo+games', '1,000,000+', 'http://www.abradoodle.com', 'support@abradoodle.com']}
+{'com.fgmt.reversi': ['Reversi', 'OneMirror,+LLC', '100,000+', None, 'lidiiachyhryn@gmail.com']}
+{'online.mplay.chess.free.friends': ['Chess Online', '8154918239958650103', '5,000,000+', 'https://sites.google.com/site/magiplaygamesprivacypolicy', 'mplaygames1803@gmail.com']}
+{'business.monopoly.landlord': ['Monopoly Free', 'Business+Board+Games', '100,000+', 'https://sites.google.com/view/businessboardgames/', 'businessboardgames@gmail.com']}
+{'ludo.monopoly.board.dreamroad': ['Dream Road - A Dice Board Game', 'WeFun+Games', '50,000+', 'https://wefungames.blogspot.com/2019/01/built-dream-road-app-as-free-app.html', 'alanvelezvip@gmail.com']}
+{'com.gamebility.onet': ['Onnect - Pair Matching Puzzle', '8673675966644472691', '100,000+', 'http://www.gamebility.com/', 'gamebility@gmail.com']}
+{'com.blackcircleapps.halloweenbingo': ['Wizard of Bingo', '7630417586978766880', '1,000,000+', 'https://support.dynamicgames.net/portal/kb/articles/privacy-policy', 'wizard.of.bingo@blackcircleapps.zohosupport.com']}
+{'com.dreamgo.pixelartist.colorbynumber.free': ['Unicorn Color Sandbox: Color by Number Free', 'DREAMGO', '1,000+', 'https://sites.google.com/view/dreamgo/homepage', 'david.wang.jack@gmail.com']}
+{'com.dreamgo.pixelartist.colorbynumber': ['Unicorn: Color by Number, Pixel Art Color Number', 'DREAMGO', '100,000+', 'https://sites.google.com/view/cbeautylab', 'david.wang.jack@gmail.com']}
+{'com.tnature3.Mahjong': ['Mahjong Classic', 'TNATUREII', '1,000,000+', None, 'tnature2@gmail.com']}
+{'com.noodlecake.reallybadchess': ['Really Bad Chess', '9078867188205035581', '1,000,000+', 'http://www.noodlecake.com/games/really-bad-chess/', 'support+rbc@noodlecake.com']}
+{'com.landlordgame.tycoon': ['Landlord Tycoon - Money Investing Idle with GPS', '7729503051138227560', '5,000,000+', 'https://landlordgame.com/', 'feedback@landlordgame.com']}
+{'com.flyclops.domino.android': ["Domino! The world's largest dominoes community", 'Flyclops+LLC', '1,000,000+', 'http://domino.flyclops.com', 'domino-android@flyclops.zendesk.com']}
+{'com.superluckycasino.epicjackpot.slots.vegas.android.free': ['Slots: Epic Jackpot Free Slot Games Vegas Casino', '7531380661925692871', '1,000,000+', 'http://superluckycasino.com', 'support@12gigs.com']}
+{'com.rottzgames.logic': ["Einstein's Riddle Logic Puzzles", '6734953287718913092', '1,000,000+', 'http://www.rottzgames.com', 'einstein.and@rottzgames.com']}
+{'com.twelvegigs.heaven.bingo': ['BINGO!', '6833765329689499967', '10,000,000+', 'http://superluckycasino.com/', 'BNGa@12gigs.com']}
+{'com.dg.turbonuke.my.bingo.life': ['My Bingo Life', '4896417924738532354', '10,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'air.bg.lan.Monopoli': ['Rento - Dice Board Game Online', '7315871763609983366', '10,000,000+', 'http://PlayRento.com', 'info@boardgamesonline.net']}
+{'com.sng.yatzy': ['Yatzy - Offline Free Dice Games', '5890018970979485285', '100,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'free.scratch.money.luckyrose': ['Lucky Rose', 'Flip+Stack+Studio', '50,000+', 'https://flipstackstudio.blogspot.com/2018/11/flip-stack-studio-privacy-policy.html', 'ltylsy111@gmail.com']}
+{'com.europosit.polygon2d.coloringpuzzle': ['POLYGON: Color by Number', 'Severex', '500,000+', 'http://www.europosit.com', 'support@europosit.com']}
+{'com.aquaman.sudoku': ['Sudoku', 'CanaryDroid', '10,000+', 'http://www.canadadroid.com/policy.htm', 'contact@canadadroid.com']}
+{'uk.co.aifactory.backgammonfree': ['Backgammon Free', '7906675825742087969', '10,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.usm.catanuniverse': ['Catan Universe', '7190673763242476318', '500,000+', 'http://www.catanuniverse.com', 'support@catanuniverse.com']}
+{'com.rummikubfree': ['Rummikub', 'Kinkajoo', '1,000,000+', 'http://kinkajoo-apps.com', 'support@rummikub-apps.com']}
+{'air.com.jogatina.domino.android': ['Dominos Game: Dominoes Online and Free Board Games', 'Jogatina.com', '10,000,000+', 'http://www.jogatina.com/site/contactus/store/view/DOMINO_ANDROID_PHONE', 'domino.android@gazeus.com']}
+{'com.superluckycasino.fortunespin.slots.vegas.android.free': ['Slots: Fast Fortune Slot Games Casino - Free Slots', '7531380661925692871', '1,000,000+', 'http://superluckycasino.com', 'support@12gigs.com']}
+{'com.kristanix.android.mahjongsolitairetitan': ['Mahjong Titan', '5808801354978445358', '5,000,000+', 'https://www.kristanix.com/', 'questions@kristanix.com']}
+{'com.withbuddies.dice.free': ['Dice With Buddies™ Free - The Fun Social Dice Game', '9028773071151690823', '5,000,000+', 'https://scopely.com/game/dice-with-buddies/', 'dice-support@scopely.com']}
+{'com.ludo.king': ['Ludo King™', 'Gametion+Technologies+Pvt+Ltd', '100,000,000+', 'https://www.gametion.com/', 'contact@ludoking.com']}
+{'com.superking.parchisi.star': ['Parchisi STAR Online', '8881746643180042782', '10,000,000+', 'https://medium.com/@parchisi/privacy-policy-4b750062efd4', 'gameberrylabs@gmail.com']}
+{'com.intentsoftware.android.yatzylite': ['Yatzy Offline and Online - free dice game', '8633276600546047418', '500,000+', 'https://www.lite.games', 'support@lite.games']}
+{'com.moonfrog.ludo.club': ['Ludo Club - Fun Dice Game', '5236132833572659868', '10,000,000+', 'http://moonfroglabs.com', 'ludoclubsupport@moonfroglabs.com']}
+{'com.Alienforcegames.ChessFusionFree': ['Real Chess', 'Alienforce', '10,000,000+', 'http://alienforcegames.com', 'alienforcegames@gmail.com']}
+{'org.lichess.mobileapp': ['lichess • Free Online Chess', 'lichess.org', '1,000,000+', 'http://lichess.org', 'lichess.contact@gmail.com']}
+{'com.rottzgames.findobject': ['Find Objects Hidden Object', '6734953287718913092', '1,000,000+', 'http://www.rottzgames.com', 'object.and@rottzgames.com']}
+{'solitaire.arcadegames.freecard.solitaireplus.epic.klodike': ['Solitaire', 'Arcade+Game+Maker', '500,000+', 'http://www.arcadeveloper.com/', 'contact@arcadeveloper.com']}
+{'com.relaxingbraintraining.poolpro': ['Pool Pro', 'PlaySpot+Games', '100,000+', 'http://paint-puzzle.appspot.com/privacypolicy_games.htm', 'f2p.media.group@gmail.com']}
+{'com.emflag.mahjongmaster': ['Mahjong Master', '5525877581341842898', '5,000,000+', 'https://www.facebook.com/pages/Maze-Mine/258093867656088', 'parktae00@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.hd.garden.spring': ['Mahjong HD: Spring Journey Solitaire', '7060724462687387137', '5,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.rubicon.dev.yachty': ['Yachty Free', '8935462946679538264', '1,000,000+', 'http://www.rubicondev.com', 'yachtyand@rubicondev.com']}
+{'com.zynga.chess.googleplay': ['Chess With Friends Free', '6690081412016968981', '1,000,000+', 'https://zyngasupport.helpshift.com/a/chess-with-friends/?l=en', 'android.support@zynga.com']}
+{'com.monkeys.sscramble': ['Sudoku Scramble - Online Multiplayer Sudoku', '81monkeys', '5,000+', 'http://81monkeys.com', 'support@81monkeys.com']}
+{'com.optimesoftware.checkers.free': ['Checkers Free', 'Optime+Software', '5,000,000+', 'http://www.optimesoftware.com', 'support@optimesoftware.com']}
+{'com.eivaagames.RealChess3DFree': ['Real Chess 3D FREE', '5803646126051297915', '1,000,000+', 'http://www.eivaagames.com', 'contact@eivaagames.com']}
+{'mahjong.solitaire.games.puzzle.mahjong.classic.free': ['Mahjong', 'Mahjong+Solitaire+Fun', '100,000+', 'https://sites.google.com/site/mahjongsolitairefun/', 'crosswords2018@gmail.com']}
+{'com.etermax.pictionary': ['Pictionary™', '4857484411335878422', '1,000,000+', 'http://www.etermax.com', 'android@tradefields.com']}
+{'pl.lukok.chess': ['Chess', '8116283642168527192', '1,000,000+', 'http://draughtsforandroid.com', 'chess.appdynasty@gmail.com']}
+{'com.chess.strategy.classic.friends.free': ['Chess', 'royal+game', '500,000+', 'https://royalbestgame.wixsite.com/royalgmprivacypolicy', 'royalFunGame@outlook.com']}
+{'com.casino.en.domino': ['Domino Online', 'Domino+Tycoon', '1,000+', 'http://47.254.44.94/PrivacyPolicy.html', 'jacobjones7988@gmail.com']}
+{'connect.fourinarow.game': ['Connect 4: 4 in a Row', 'Play+Everyday+Games', '10,000+', 'https://sites.google.com/view/play-everyday-games/', 'silentcrocgames@gmail.com']}
+{'com.wildcardstudios.backgammon': ['Ultimate Backgammon: Classic Dice & Board Game', '6490540235565334154', '10,000+', 'https://www.wildcardstudios.com/support', 'support@wildcardstudios.com']}
+{'ru.skillcap.dominoes': ['Domino - Dominoes online. Play free Dominos!', 'Skill+Cap', '1,000,000+', 'http://privacy.skillcap.net/dominoes/policy.html', '1954nsmirnova@gmail.com']}
+{'le.lenovo.sudoku': ['Sudoku Free', 'Volcano+Entertainment', '10,000,000+', 'http://sudokugo.com', 'sudoku@volcantech.com']}
+{'com.dg.puzzlebrothers.mahjong.mysterymansion': ['Mahjong Solitaire: Mystery Mansion', '7060724462687387137', '1,000,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.bit.mahjong2019': ['Mahjong 2019', 'Joyo+Casual+Games', '500,000+', 'http://www.1cmobile.com/faq/mahjongvillageprivacystatement.htm', 'mahjong2019@gmail.com']}
+{'magic.sudoku.pro': ['MagicSudokuPro', 'MagicDreamPro', '100,000+', 'http://www.magicdreampro.com', 'magic.dream.pro@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.king': ["Mahjong Magic Lands: Fairy King's Quest", '7060724462687387137', '100,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.onet.board.mahjong': ['Mahjong 2019', 'Retina+Games', '100,000+', 'http://poker-prod-http.zebralabs.in:60909/pages/privacypolicy', 'dthpro9690@gmail.com']}
+{'com.mobirix.SnakeGame': ['Snakes & Ladders King', '4864673505117639552', '10,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.dg.turbonuke.rainbowbingoadventure': ['Rainbow Bingo Adventure', '4896417924738532354', '100,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'air.com.playcus.free.bingo.games.casino.slots.country.days.game': ['Bingo Country Days: Best Free Bingo Games', '7965470541443925887', '50,000+', 'https://www.playcus.com', 'bingocountrydays@playcus.com']}
+{'com.sngict.dominoes': ['Dominoes - Offline Free Dominos Game', '5890018970979485285', '500,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'gg.com.pixel.art': ['Color By Number Pixel Art', 'Color+By+Number+-+Coloring+Apps', '10,000+', 'https://sites.google.com/view/tig-studio-privacy-policy', 'xuquang222@live.com']}
+{'com.mobirix.cardmatch': ['Matching King', '4864673505117639552', '1,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.dg.puzzlebrothers.mahjong.quest.world.tour.adventures.city': ['Mahjong World Tour – City Adventures', '7060724462687387137', '50,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.northstargames.evolutiongame': ['Evolution : The Video Game', 'North+Star+Games', '10,000+', 'http://www.evolutionvideogame.com', 'digital@northstargames.com']}
+{'com.mobirix.Bingo': ['Bingo Master King', '4864673505117639552', '100,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.omg.quiz.game.omg.app': ['OMG Game : Funny Quiz', 'OMG+Quiz+Inc.', '100,000+', 'https://quizizz.com/privacy', 'omgquizgame@gmail.com']}
+{'com.leagueofgeeks.armello': ['Armello', 'League+of+Geeks', '100,000+', 'http://www.leagueofgeeks.com', 'support@leagueofgeeks.com']}
+{'com.emflag.mahjongsolitaire': ['Mahjong Solitaire Free', 'MAZE+MINE', '1,000,000+', 'https://www.facebook.com/GB-GAMES-258093867656088/', 'parktae00@gmail.com']}
+{'com.appon.mancala': ['Mancala', '5047556030621742681', '5,000,000+', 'http://appon.co.in', 'support@appon.co.in']}
+{'com.maysalward.Dominoes': ['Dominoes Pro', '5357617968382561556', '5,000,000+', 'http://www.maysalward.com', 'info@maysalward.com']}
+{'uk.co.aifactory.gofree': ['Go Free', '7906675825742087969', '1,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.cdroid.dominoes': ['Dominoes', 'Carl+Hopf', '10,000,000+', 'https://www.carlhopf.com', 'dominoes-android@carlhopf.com']}
+{'com.kemigogames.chesscoach': ['Chess Coach - Chess puzzles', '8450616447014525535', '500,000+', 'https://www.kemigogames.com/', 'info.kemigogames@gmail.com']}
+{'gs.battlechess.vn': ['Battle Chess 3D', 'GS+GAMES', '1,000,000+', 'https://www.facebook.com/Battle-Chess-294055274299411/', 'gsgames.vn@gmail.com']}
+{'com.withbuddies.diceellen': ['Dice with Ellen', '9028773071151690823', '1,000,000+', 'http://www.scopely.com', 'apps-android@withbuddies.com']}
+{'glowingeye.mexican_train_dominoes_gold': ['Mexican Train Dominoes Gold', '5374158933235068227', '50,000+', 'http://www.glowingeyegames.com', 'support@glowingeyegames.com']}
+{'com.haptic.chesstime': ['Chess Time® -Multiplayer Chess', 'Haptic+Apps+LLC', '1,000,000+', 'http://chesstimeapp.com/', 'support@hapticappsllc.com']}
+{'com.kristanix.android.mahjongsolitaireepic': ['Mahjong Epic', '5808801354978445358', '5,000,000+', 'https://www.kristanix.com/', 'questions@kristanix.com']}
+{'com.PinballGame': ['Pinball Pro', 'TerranDroid', '10,000,000+', 'http://www.terrandroid.com', 'support@terrandroid.com']}
+{'com.pinkpointer.kakuro': ['Kakuro (Cross Sums)', '6680815792816251109', '100,000+', 'http://www.pinkpointer.com', 'contact@pinkpointer.com']}
+{'com.joycity.god': ['Game of Dice', '8017603995115202893', '5,000,000+', 'http://god.joycity.com/', 'gameofdice@joycity.com']}
+{'com.gbgames.mahjongunlimited': ['Mahjong Infinite', '5525877581341842898', '1,000,000+', 'https://www.facebook.com/pages/Maze-Mine/258093867656088', 'parktae00@gmail.com']}
+{'com.mirenad.mahjongtitans': ['Mahjong Titans', '6230452689219414644', '500,000+', 'http://mirenad.com', 'public.mirenad@hotmail.com']}
+{'com.blackcircleapps.tropicalbingo': ['Tropical Beach Bingo World', '7630417586978766880', '1,000,000+', 'https://support.dynamicgames.net/portal/kb/articles/privacy-policy', 'tropical.beach.bingo@blackcircleapps.zohosupport.com']}
+{'com.ahoygames.rummy': ['Rummy Club', '6133644072791585622', '100,000+', 'http://www.ahoygames.com', 'contact@ahoygames.com']}
+{'net.peakgames.mobile.android.tavlaplus.android': ['Backgammon Plus', '6690081412016968981', '5,000,000+', 'https://www.zynga.com', 'zyngaturkey-support@zynga.com']}
+{'com.gameberry.ludo.star2': ['Ludo Star', '8881746643180042782', '100,000+', 'http://gameberrylabs.com', 'support@gameberrylabs.com']}
+{'pl.mw.playmagnus': ['Play Magnus - Play Chess for Free', '5674140061570326218', '1,000,000+', 'https://www.playmagnus.com', 'feedback@playmagnus.com']}
+{'com.Yeet.Spyfall': ['Spyfall 3', 'Yeet,+LLC.', '100,000+', 'http://spyfall.io', 'rjr.developer@gmail.com']}
+{'com.sagafun.bingosmile': ['Bingo Smile - Free Bingo Games', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '50,000+', 'http://www.sagafun.com/privacypolicy.htm', 'support@sagafun.com']}
+{'com.onet.new2017': ['Pet Connect : challenge your mind!', 'Ghuy+Online', '1,000,000+', 'http://ghuyonline.webstarterz.com/PrivacyPolicy.html', 'ducpykeanla@gmail.com']}
+{'com.mggames.dotsnbox': ['Dots and Boxes game', '8945271067801023479', '50,000+', 'http://lolzstudio.com/privacypolicy.doc', 'mggames.inn@gmail.com']}
+{'com.starsprite.tilecraft': ['Tile Craft - Triple Crush', 'StarSprite', '50,000+', 'http://starsprite.com/', 'starsprite01@hotmail.com']}
+{'com.manzo.encountergenerator': ['Monsters & Generators for D&D', 'Manolo+D%27antonio', '100,000+', 'https://goo.gl/Nf4gH6', 'manolodantonio@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.solitaire.hd.animal.world': ['Mahjong Animal World - HD Mahjong Solitaire', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'net.spotnotify.tt.wordsearch': ['WordSearch Offline', 'SpotNotify', '10,000+', 'http://spotnotify.com', 'spotnotifysolution@gmail.com']}
+{'com.supersimpleapps.sudoku': ['Sudoku offline', 'MobileAppForYou', '1,000,000+', 'http://myheartratemonitorapp.blogspot.hk/2017/05/sudoku-puzzle-privacy.html', 'arhacheng@gmail.com']}
+{'com.chess.offline': ['Chess Offline 3D', 'BKC-Studio', '100,000+', 'http://bkc-studio.blogspot.co.id/p/privacy-policy-of-bkc-studio.html', 'masterdandi1337@gmail.com']}
+{'com.kyz.games.hepyek': ['Backgammon Mighty', 'Tough+Pixels', '1,000,000+', 'https://sites.google.com/site/backgammonmighty/privacy', 'toughpixelsinfo@gmail.com']}
+{'com.sngict.bingo': ['Bingo - Offline Free Bingo Games', '5890018970979485285', '5,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.nazara.chicmic.ludo': ['Ludo Game', '7356333912193102764', '5,000,000+', 'http://www.nazara.com', 'support@nazara.com']}
+{'com.casox.Popsmachine': ['Gravity Pops!', 'casox', '100,000+', 'http://popcore.com', 'hello@popcore.com']}
+{'com.mahjongllc.mahjong': ['Mahjong', 'Mahjong', '100,000+', None, 'android@mahjongllc.com']}
+{'com.artoon.dominoesmultiplayer': ['Dominoes Multiplayer', '5190115240305349702', '50,000+', 'http://mobile.artoonsolutions.com', 'info@artoonsolutions.com']}
+{'com.sngict.backgammon': ['Backgammon Offline', '5890018970979485285', '1,000,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.mobirix.dominoes': ['Dominoes Challenge', '4864673505117639552', '1,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'business.international.game': ['Business International', 'Real+Monk+Games', '10,000+', 'https://sites.google.com/view/real-monk-games-privacy-policy/', 'realmonkgames@gmail.com']}
+{'com.pixelart.colorbynumber': ['Voxel - 3D Color by Number & Pixel Coloring Book', 'Game+In+Life', '1,000,000+', 'http://www.gpower.co', 'gameinlifes@gmail.com']}
+{'com.sagafun.bingolove': ['Bingo:Love Free Bingo Games,Play Offline Or Online', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '10,000+', 'http://www.sagafun.com/privacypolicy.htm', 'support@sagafun.com']}
+{'com.origininfotech.royal.bingo': ['Bingo Royal-Real money Bingo Games', 'Origin+Infotech', '50,000+', 'https://www.feedbackorigininfotech.blogspot.com', 'feedback.origininfotech@gmail.com']}
+{'com.BaliCheckers.Checkers': ['Checkers Online', 'BaliCheckers', '1,000,000+', 'http://checkersonline.site', 'balicheckers@gmail.com']}
+{'com.dg.turbonuke.bingo.quest.pets.party.dogs': ['Bingo Pets Party: Dog Days', '4896417924738532354', '50,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.chesskid': ['Chess for Kids - Play & Learn', '5068259210636929122', '500,000+', 'http://www.chesskid.com', 'support@chesskid.com']}
+{'chessfriends.online.chess': ['Chess Online', 'ChessFriends.com', '1,000,000+', 'http://www.chessfriends.com', 'info.chessfriends@gmail.com']}
+{'com.virterix.tabletoweronline': ['Table Tower Online', 'Virterix', '100,000+', 'http://virterix.com/', 'support@virterix.com']}
+{'creativegames.coloring.color.by.number.colorbynumber': ['Color by Number New Coloring Book', '8467463937819765453', '1,000+', 'https://sites.google.com/view/colorbynumbercreativegames', 'lusotocoloringpage@gmail.com']}
+{'com.dg.turbonuke.bingo.quest.treasure.paradise.island': ['Bingo Treasure Quest - Paradise Island Riches', '4896417924738532354', '100,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.xunyougame.checkers': ['Chinese Checkers', 'YI+ZHENG', '100,000+', 'https://sites.google.com/view/xunyougames/privacy-policy', 'antzhengyi@gmail.com']}
+{'com.one1line.onetouch.onestroke.dotgame': ['1LINE – One Line with One Touch', '4677399971720148178', '10,000,000+', 'http://x-flow.app', 'support@x-flow.app']}
+{'com.crossfield.shogi': ['Shogi Free - Japanese Chess', '8349232061000500898', '1,000,000+', 'http://crossfd.jp/policy.html', 'crossfield3@gmail.com']}
+{'com.gsoftteam.checkersmobile': ['Checkers Mobile', '6775832922103090311', '1,000,000+', 'http://www.gsoftteam.com', 'support@gsoftteam.com']}
+{'com.sagafun.bingohappy': ['Bingo Happy : Casino  Board Bingo Games Free & Fun', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '100,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'pop.bubble.supr': ['Super Bubble Pop', 'Bubble+Shooter+Games+by+Ilyon', '100,000+', 'http://www.ilyon.net', 'support@ilyon.net']}
+{'chess.friends.game.play': ['Chess Free', 'ChessFriends.com', '500,000+', 'http://www.chessfriends.com', 'info.chessfriends@gmail.com']}
+{'fun.industry.damas': ['Checkers', 'KeksIndustry', '100,000+', 'http://dlja-devochek-igry.ru', 'keksindustry@gmail.com']}
+{'board.monopoly.neon.tycoon': ['Neon Tycoon - Lucky Dice Roller', 'Boss+Bar+Games', '1,000+', 'https://neontycoon.blogspot.com/2019/02/neon-tycoon-privacy-policy.html', 'xzy18168809814@gmail.com']}
+{'com.free.ludo.game': ['Ludo Game : Ludo 2019 Star Game', 'Ludo+Game', '10,000,000+', 'http://www.ludogameonline.com/privacypolicy', 'freeboardgame@gmail.com']}
+{'com.bestlis.farkle': ['Farkle', 'Bestlis+Studio', '100,000+', 'http://bestlis.mobi', 'bestlis2012@gmail.com']}
+{'air.br.com.domino.mobile': ['Dominoes Online', '6770967800961821170', '1,000,000+', 'http://www.megajogos.com.br', 'suporte@megajogos.com.br']}
+{'com.dotfinger.sudoku.free': ['Sudoku - Best Free Logic Brain Sudoku Puzzle Game', 'DotFinger+Games', '500,000+', 'https://www.facebook.com/dotfingergames', 'dotfinger.android@gmail.com']}
+{'com.manzo.ddinitiative': ['Initiative Tracker for D&D', 'Manolo+D%27antonio', '50,000+', 'https://goo.gl/Nf4gH6', 'manolodantonio@gmail.com']}
+{'com.bigbrainkraken.tictactoe': ['Tic Tac Toe', 'Big+Brain+Kraken', '1,000,000+', 'http://www.theangrykraken.com', 'bigbrainkraken@gmail.com']}
+{'com.postbeta.dice.dice': ['Dice - A free dice roller', 'PostBeta', '10,000+', 'http://www.postbeta.com', 'contact@postbeta.com']}
+{'business.monopoly.city': ['Business Game', '4825371204703370189', '100,000+', 'http://www.ironjawstudios.com', 'contact@ironjawstudios.com']}
+{'com.jandusoft.gtc': ['Guess The Character', '7069776401247339628', '5,000,000+', 'http://www.jandusoft.com', 'info@jandusoft.com']}
+{'marcostudios.secondrule': ['5 Second Guess', 'Marco+Studios', '100,000+', 'https://sites.google.com/view/dh3games-privacypolicy/home', 'dh3gamesinc@gmail.com']}
+{'com.aibaduk.baduk': ['Go King', '4864673505117639552', '1,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.pvella.mahjong': ['Hong Kong Style Mahjong', '8218130893574223407', '1,000,000+', 'https://www.hksmahjong.net/', 'Paul.Vella@psgamesonline.com']}
+{'com.chess.master3d': ['Chess Master 3D', 'FreePDA', '5,000,000+', 'https://docs.google.com/document/d/1ONG1DgKvpgeMFlXxvETKoqowsA5Cn9B2FVtwwyzxQ0M', 'pdasoul@gmail.com']}
+{'com.dupuz.checkers.checkmate': ['Chess Kingdom: Free Online for Beginners/Masters', '9079752828853170727', '1,000,000+', 'https://sites.google.com/site/dopuzgames/', 'howpuzzle@gmail.com']}
+{'uk.co.aifactory.tictactoefree': ['Tic Tac Toe Free', '7906675825742087969', '1,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'air.com.playcus.bingostars': ['Bingo Superstars: Best Free Bingo Games', '7965470541443925887', '500,000+', 'https://www.playcus.com', 'bingo-superstars@playcus.com']}
+{'uk.co.aifactory.fialfree': ['Four In A Line Free', '7906675825742087969', '5,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'net.ssinnovations.sequence': ['Sequence : New(2018) Board Game', '7042168834346222766', '10,000+', 'http://ssinnovations.net', 'ssinnovations01@gmail.com']}
+{'com.developandroid.android.girls': ['Princess memory game for kids', '7761931842600982620', '1,000,000+', 'http://owletmobilegames.webs.com/', 'admobmoj@gmail.com']}
+{'com.quge.bingopowerball': ['Bingo Smash - Lucky Bingo Travel', 'LuckyJoy', '10,000+', 'http://www.prosorte.com/policy.html', 'bingo@prosorte.com']}
+{'kxgames.blossomblitz.gardenmall': ['Flowers Legend Match 3 - Blossom Garden Classic', 'JVeverMind', '1,000+', 'https://sites.google.com/site/jvermindgame/', 'ov2398@gmail.com']}
+{'donnaipe.domino': ['Partnership Dominoes', 'Don+Naipe', '500,000+', 'http://donnaipe.com', 'producciones.don.naipe@gmail.com']}
+{'com.atrilliongames.chessnew': ['3D Chess Game', 'A+Trillion+Games+Ltd', '100,000+', 'http://www.atrilliongames.com', 'support@atrilliongames.com']}
+{'com.Offs.WhoIAm': ['Guess who am I – Who is my character?', 'Offs+Games', '10,000+', 'https://termsfeed.com/privacy-policy/73f0583d8df8ede8d44591fba87289a2', 'antonio.jimenez.barrios@gmail.com']}
+{'com.games.lightningslots': ['Lightning Slots ™ Best New Vegas Casino Slot Games', 'Hellfire+Interactive+Ltd', '100,000+', 'http://www.hellfireinteractive.com', 'support@hellfireinteractive.com']}
+{'com.fantasyflightgames.iaca': ['Star Wars: Imperial Assault app', 'Fantasy+Flight+Games', '100,000+', 'https://www.fantasyflightgames.com/en/products/star-wars-imperial-assault/', 'softwaresupport@fantasyflightgames.com']}
+{'uk.co.aifactory.sudokufree': ['Sudoku Free', '7906675825742087969', '5,000,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.ocigrup.dotforadults': ['Dot to Dot Puzzles for Adults', 'Online+Ocigrup+SL', '100,000+', 'https://www.ocigrup.com', 'info@ocigrup.com']}
+{'com.att.pgc': ['2 Player Games Collection', '9201984247511011217', '100,000+', 'http://www.apptimesthree.com', 'info@apptimesthree.com']}
+{'com.phoenixgame.bilardo': ['Billiard Offline', '6971196307096028927', '100,000+', None, 'nevergiveupfmo@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.world.gardens.butterfly': ['Mahjong Gardens: Butterfly World', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.fisi.plantascazadoras': ['Hunter Plants', 'Jabb+Apps', '1,000,000+', None, 'jesus61_1@hotmail.com']}
+{'com.bingo.games.online.offline.free.slots.lotto.keno.casino.adventure': ['Bingo Win', '9122699904042586564', '500,000+', 'https://docs.google.com/document/d/1eXPPDt_HMr8JvBXWClykZxA0_M-3J2Rx33e05UKRtAE/edit#heading=h.qveo89ks0yr1', 'bingowin.service@gmail.com']}
+{'com.chessking.android.learn.ctforbeginners': ['Chess Tactics for Beginners', '8196632901699712832', '1,000,000+', 'http://chessking.com', 'android-support@chessking.com']}
+{'com.SimFun.FindDifferencesDeliciousFood12': ['F5D3 - Find The Differences, Spot The Differences.', '5514531107087552615', '100,000+', 'https://github.com/tranchan123/Privacy-Policy/tree/master', 'rezomost102@gmail.com']}
+{'com.sngict.Checkers': ['Checkers Offline', '5890018970979485285', '50,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.crazylabs.voxel.coloring': ['RAINBOW Color by Number - 2D & 3D Pixel Art', 'Crazy+Labs+by+TabTale', '1,000,000+', 'https://www.tabtale.com', 'WeCare@TabTale.com']}
+{'com.companyname.KillTeam': ['Kill Team Manager', 'KTGos', '10,000+', 'https://www.facebook.com/Kill-Team-Manager-296002024341252', 'killteammanager@gmail.com']}
+{'com.permadi.chess4Device': ['Chess 4 Casual - 1 or 2-player', 'F.+Permadi', '100,000+', 'http://permadi.mobi/portal/', 'permadi@permadi.com']}
+{'com.daydream.charactersheet': ['Character Sheet', 'DayDream+Software', '50,000+', 'https://www.facebook.com/daydreamsoftware/', 'andrei@daydreamteam.com']}
+{'com.famobi.checkersclassic': ['Checkers 2 Player - Free Board Game', 'Famobi', '50,000+', 'http://famobi.com', 'appstore@famobi.com']}
+{'com.gamepoint.royaldice': ['RoyalDice: Play Dice with Friends, Roll Dice Game', 'GamePoint', '100,000+', 'http://www.gamepoint.com', 'support.android@gamepoint.com']}
+{'com.ludo.star.game': ['Ludo Star', 'Cypek', '1,000,000+', 'https://sites.google.com/site/cypekprivacypolicy/', 'cypeckaanna@gmail.com']}
+{'com.smartboxdesign.android.farkle.free': ['Farkle Dice - Free', '6538043644209226140', '1,000,000+', 'http://smartboxgames.com', 'support@smartboxgames.com']}
+{'mahjong.brainmaker.oriental.solitaire.board.freemahjong': ['Mahjong Oriental', '5122682326576823713', '500,000+', 'http://www.imbigcat.com', 'support@imbigcat.com']}
+{'com.vegas.magic.slots': ['VegasMagic™ Real Casino Slots | Free Slot Machine', 'Interlab+Arts+Ltd', '100,000+', 'http://www.interlabarts.com', 'support@interlabarts.com']}
+{'com.gamemiracle.mjworld2': ['Mahjong World 2: Learn real Mahjong & Win', 'Gamemiracle', '100,000+', 'http://www.mahjongworld.com.hk', 'mkt@wtm.com.hk']}
+{'com.blackcircleapps.christmasbingo': ["Christmas Bingo Santa's Gifts", '7630417586978766880', '100,000+', 'https://support.dynamicgames.net/portal/kb/articles/privacy-policy', 'christmas.bingo@blackcircleapps.zohosupport.com']}
+{'com.androyal.rivercrossing.complete': ['River Crossing IQ Logic Puzzles & Fun Brain Games', 'Androyal', '5,000,000+', 'http://www.androyal.com', 'ahinbazly@gmail.com']}
+{'nl.identitygames.escaperoom': ['Escape Room The Game App', 'Identity+Games+International+B.V.', '100,000+', 'https://escaperoomthegame.com/ko-kr/', 'developer@identitygames.nl']}
+{'com.mirenad.dominos': ['Dominos', '6230452689219414644', '1,000,000+', 'http://mirenad.com', 'public.mirenad@hotmail.com']}
+{'com.chessking.android.learn': ['Chess King (Learn Tactics & Solve Puzzles)', '8196632901699712832', '100,000+', 'https://chessking.com', 'android-support@chessking.com']}
+{'com.tencent.ludosuperstar': ['Ludo Superstar', '8638120915920097780', '100,000+', 'http://ludosuperstar.com/m/d/index.html', 'hpludosuperstar@gmail.com']}
+{'com.edujoy.games.enjoy': ['Puzzle book - Words & Number Games', 'AppQuiz', '100,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'jp.co.unbalance.android.gocsdllite': ['CrazyStone DeepLearning', '5973402057352547106', '100,000+', 'http://www.unbalance.co.jp/', 'support@unbalance.co.jp']}
+{'com.dg.turbonuke.bingo.quest.monster.mania.spooky.adventures': ['Monster Bingo: World Party', '4896417924738532354', '100,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.alignit.fourinarow': ['Four In A Row - Connect Four', '6071653399714923628', '1,000+', 'http://www.regleware.com', 'regleware@gmail.com']}
+{'com.blackcircleapps.wonderlandbingo': ['Bingo Wonderland', '7630417586978766880', '100,000+', 'http://blackcircleappsprivacypolicy.yolasite.com/', 'wonderland.bingo@blackcircleapps.zohosupport.com']}
+{'com.dg.puzzlebrothers.mahjong.solitaire.holiday.fun': ['Christmas Mahjong Solitaire: Holiday Fun', '7060724462687387137', '100,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.Tabletopia.TabletopiaApp': ['Tabletopia', 'Tabletopia', '10,000+', 'https://tabletopia.com', 'thirdparty@tabletopia.com']}
+{'org.petero.droidfish': ['DroidFish Chess', 'Peter+%C3%96sterlund', '500,000+', 'http://hem.bredband.net/petero2b/droidfish/index.html', 'peterosterlund2@gmail.com']}
+{'com.js.ludo': ['Ludo Neo-Classic : King of the Dice Game 2019', 'Neoclassic+Tech+Pvt.+Ltd.', '10,000,000+', 'https://meehjeevan.github.io/', 'meehjeevan@gmail.com']}
+{'com.foxelpix.crossstitchclub': ['Cross Stitch Club —\xa0Coloring by Number', 'Saba+Games', '1,000+', 'http://tigrico.tilda.ws/privacy', 'contact.sabagames@gmail.com']}
+{'com.megarama.slotsape': ['Ape About Slots - Best New Vegas Slot Games Free', '6887243231199955537', '100,000+', 'http://megarama.net', 'support@megarama.net']}
+{'com.dg.puzzlebrothers.mahjong.lucky.gold.trail.rainbow': ['Lucky Mahjong: Rainbow Gold Trail', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.dg.turbonuke.bingo.quest.tropical.haven.island.beach.safari': ['Bingo Tropical Haven – Island Beach Fever', '4896417924738532354', '50,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'air.nl.goliathgames.triominos': ['Triominos', '4817145500369279490', '500,000+', 'http://www.triominos.com/app/', 'triominos@goliathgames.com']}
+{'com.mobirix.warshipking': ['Warship Battle Commander', '4864673505117639552', '500,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'org.kirillius.twisterspinner': ['Twister Spinner', '7203636777848443179', '100,000+', 'https://borodagames.org/', 'support@borodagames.org']}
+{'net.meeplecorp.bingocaller': ['Bingo Caller', 'Scott+Adie', '50,000+', 'https://bingocallerapp.com/', 'android-support@adie.io']}
+{'cat.minkusoft.jocstauler': ['Board Games', 'minkusoft', '1,000,000+', 'http://www.facebook.com/minkusoft', 'minkusoft@gmail.com']}
+{'blast.balloons': ['Balloon Blast', '5057058873634489942', '100,000+', 'http://ilyon.net', 'blast2fungames@gmail.com']}
+{'tic.tac.toe.games.board.kids.tictactoe.free': ['Tic Tac Toe', 'Fun+Games+free', '1,000,000+', 'https://sites.google.com/site/fungamesfreeprivacypolicy', 'board_game@hotmail.com']}
+{'com.dg.puzzlebrothers.bubble.pop.ocean.adventure.mermaids': ['Bubble Pop Mermaids: Ocean Kingdom Adventure', 'Bubble+Quest+%26+Free+Bubble+Pop+by+Difference+Games', '5,000+', 'http://www.differencegames.com', 'bubblequest@differencegames.com']}
+{'com.litegames.othello': ['Othello - Official Board Game for Free', '8633276600546047418', '100,000+', 'http://www.lite.games', 'support@lite.games']}
+{'manastone.game.wcc.Google': ['World Chess Championship', '5829200481094039491', '5,000,000+', 'http://www.manastone.com/eng/', 'help@manastone.com']}
+{'com.yoozoogames.ludogameallstar': ['Ludo All Star - Online Classic Board & Dice Game', '6365129696809078934', '1,000,000+', 'https://www.gtarcade.com/', 'support.ludo@yoozoo.com']}
+{'com.faaya.custom.dice': ['Custom Dice', '7473836386142680623', '50,000+', 'http://www.expresionweb.tk', 'comentarios@expresionweb.tk']}
+{'air.com.playcus.bingocountryways': ['Bingo Country Ways: Best Free Bingo Games', '7965470541443925887', '100,000+', 'https://www.playcus.com', 'bingocountryways@playcus.com']}
+{'jp.co.unbalance.android.othello_free': ['The Othello', '5973402057352547106', '500,000+', 'http://www.unbalance.co.jp/english/android/', 'support@unbalance.co.jp']}
+{'com.balloonisland.ultimatejewel': ['Ultimate Jewel', 'Balloon+Island', '1,000,000+', 'http://balloonIsland.com', 'info@balloonisland.com']}
+{'com.lhpstudio.checkersonline': ['Checkers Classic Free Online: Multiplayer 2 Player', 'LHP+Studio', '10,000+', 'http://linhngsg.blogspot.com', 'ttp2808@gmail.com']}
+{'net.elvista.checkers': ['Checkers Online Elite', '5658142575504481926', '10,000,000+', 'http://www.elvista.net', 'support@elvista.net']}
+{'com.outofthebit.fourinarow': ['Four In A Row - Classic Board Games', 'OutOfTheBit+ltd', '1,000,000+', 'http://www.outofthebit.com', 'support@outofthebit.com']}
+{'com.yellowdot.ThemBombsGP': ['Them Bombs: co-op board game play with 2-4 friends', 'Yellow+Dot', '100,000+', 'http://thembombs.com', 'mobile.android@yellow-dot.eu']}
+{'com.mirenad.farkle': ['Farkle', '6230452689219414644', '100,000+', 'http://mirenad.com', 'public.mirenad@hotmail.com']}
+{'com.games.ageslots': ['Age of Slots™ Best New Hit Vegas Slot Games Free', 'Hellfire+Interactive+Ltd', '100,000+', 'http://www.hellfireinteractive.com', 'support@hellfireinteractive.com']}
+{'com.fantasyflightgames.mom': ['Mansions of Madness', 'Fantasy+Flight+Games', '100,000+', 'https://www.fantasyflightgames.com', 'softwaresupport@fantasyflightgames.com']}
+{'com.yahtzee.dice.king': ['Yahtzee Dice King', 'Osa', '5,000+', 'https://sites.google.com/site/osaprivacypolicy/', 'andrzejosa1992@gmail.com']}
+{'com.chess.free.friends': ['Chess Free', 'Fun+Games+free', '5,000,000+', 'https://sites.google.com/site/fungamesfreeprivacypolicy', 'board_game@hotmail.com']}
+{'com.dg.turbonuke.bingo.quest.santa.xmas.magic': ['Santa Bingo - Xmas Magic', '4896417924738532354', '10,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.mobirix.backgammon': ['Backgammon King', '4864673505117639552', '1,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.valiprod.truthordare_family': ['Truth or Dare Family', '7733259938468169053', '50,000+', 'http://valiprod.com', 'valiprod@valiprod.com']}
+{'com.blackcircleapps.easterbunny': ['Easter Bunny Bingo', '7630417586978766880', '100,000+', 'https://support.dynamicgames.net/portal/kb/articles/privacy-policy', 'easterbunny.bingo@blackcircleapps.zohosupport.com']}
+{'com.enjoyinformatique.dwf': ['Dominoes multiplayer', 'Enjoy+Software+SAS', '100,000+', 'https://enjoyinformatique.com/privacy_policy', 'contact@enjoyinformatique.com']}
+{'com.quickbytegames.chezz': ['Chezz: Play Fast Chess', '5200842528701346036', '100,000+', 'http://www.quickbytegames.com/chezz.html', 'support@quickbytegames.freshdesk.com']}
+{'boardgame.checkers.draughts': ['Checkers', 'Zyna', '500,000+', 'http://zynagaming.com/privacy-policy/', 'thebestappsngames@gmail.com']}
+{'air.br.com.bingo.mobile': ['Mega Bingo Online', '6770967800961821170', '100,000+', 'https://www.megajogos.com.br/bingo-online', 'suporte@megajogos.com.br']}
+{'com.dg.turbonuke.bingo.dash.world': ['Lightning Bingo World', '4896417924738532354', '10,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.boardgame.rent.business.landlord': ['Business with Friends - Fun Social Business Game', 'Business+Game+Champs', '500,000+', 'https://docs.google.com/document/d/e/2PACX-1vR5vQ7MJbEkHEazcC2ioxINENix3kq_mnBX4QuEKE8IP1h4LzmHeP6y3cIa9NcwdarVeSphPCqWVStY/pub', 'bigroadstudio@gmail.com']}
+{'biz.ideus.rentomania': ['Rentomania - 3d online board game', 'iDeus', '100,000+', 'http://rentomania.online', 'support@rentomania.online']}
+{'ru.appforge.domino': ['Domino', 'App+Holdings', '5,000,000+', 'http://appforge.ru', 'appforgepublish@gmail.com']}
+{'com.fellhuhn.hnefatafl': ['Hnefatafl', '6275348189975287058', '50,000+', 'http://www.fellhuhn.com', 'support@fellhuhn.com']}
+{'com.dg.puzzlebrothers.mahjong.titan.olympus.gods': ['Mahjong Olympus Gods - Titan Adventure', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'air.com.playcus.bingokingdomarena': ['Bingo Kingdom Arena: Best Free Bingo Games', '7965470541443925887', '100,000+', 'https://www.playcus.com', 'bingokingdomarena@playcus.com']}
+{'donnaipe.europoly': ['Europoly', 'Don+Naipe', '1,000,000+', 'http://donnaipe.com', 'producciones.don.naipe@gmail.com']}
+{'com.platsera.superbingoclash': ['Super Bingo Clash - Free Bingo Games', 'Platsera+Apps', '50,000+', None, 'platsera.apps@gmail.com']}
+{'com.googleplay.free.bingo.holiday': ['Happy Bingo: Fantasy Journey', '5448635863614201206', '1,000+', 'https://www.facebook.com/Happy-Bingo-Free-Vegas-2185061878398959/?modal=admin_todo_tour', 'jwu898@163.com']}
+{'live.outsourceapps.roundandround': ['Round and Round', 'RightBrain', '1,000+', 'http://outsourceapps.live', 'info@outsourceapps.live']}
+{'com.lol.quiz.game.lol.app': ['LOL QUIZ : Funny Quiz Game', 'OMG+Quiz+Inc.', '10,000+', 'https://quizizz.com/privacy', 'Loolquizapp@gmail.com']}
+{'com.tatagames.chess': ['Free Chess', 'Tatawind+Games', '5,000,000+', 'https://docs.google.com/document/d/1gUu9NV-uDqSc0TQh9s6PxvutuBNncI6Y65jn8yXUHwg/edit?usp=sharing', 'support@tatawindgames.com']}
+{'com.jb.hive.android': ['Hive with AI (board game)', 'JB+Chaubet', '50,000+', None, 'jbchaubet@gmail.com']}
+{'com.blackzen.BingoMania': ['Bingo Craze', 'BlackZen', '1,000,000+', 'http://www.black-zen.com', 'support@black-zen.com']}
+{'com.sagafun.bingorun': ['Bingo Run - Free Bingo Games', 'Saga+Fun,Slots,Casino,Slot+Machines,Bingo,Poker!', '10,000+', 'http://www.sagafun.com', 'support@sagafun.com']}
+{'com.mint.gdxug': ['One online (Crazy Eights)', 'RstApps', '500,000+', 'http://uno.rstapps.ml:7092/policy/ru', 'mint.lemon.eucalyptus@gmail.com']}
+{'com.crossfield.chess': ['Classic chess', '8349232061000500898', '100,000+', 'http://crossfd.jp/policy.html', 'crossfield3@gmail.com']}
+{'com.ansangha.drgomoku': ['Dr. Gomoku', '6115615018010073039', '5,000,000+', 'http://cafe.naver.com/ansangha', 'updown.an@gmail.com']}
+{'com.pharaohs.egypt.slots': ['Pharaohs of Egypt Slots ™ Free Casino Slot Machine', 'Interlab+Arts+Ltd', '100,000+', 'http://www.interlabarts.com', 'support@interlabarts.com']}
+{'net.sabro.connectfour': ['Connect Coins  2 Players', 'SamuelBrooks.com', '10,000+', 'http://www.sabro.net', 'ing.brooks@gmail.com']}
+{'com.games.art.pic.color': ['Best Coloring Book Art', 'Color+Art+Games', '10,000+', 'https://sites.google.com/view/colorartgames', 'niqolayc@gmail.com']}
+{'com.worldsapart.spintosing': ['Spin To Sing', 'Worlds+Apart+Ltd', '100,000+', 'http://www.worldsapart.com', 'hello@worldsapart.co.uk']}
+{'com.goatwolfcabbage.SecretHitler': ['Secret Hitler Companion', 'Goat,+Wolf,+%26+Cabbage+LLC', '50,000+', 'http://secrethitler.com', 'secrethitlergame@gmail.com']}
+{'com.dg.puzzlebrothers.match3.quest.hero.story': ['Match 3 Fantasy Quest: Hero Story', 'Beautiful+Match+3+Quest+Games+by+Difference+Games', '10,000+', 'http://www.differencegames.com', 'match@differencegames.com']}
+{'com.rstgames.loto': ['Loto Online', 'R-Soft+LLC', '5,000,000+', 'http://loto.rstgames.com/android/ru/', 'loto@rstgames.com']}
+{'com.ludo.original.star': ['Ludo ORIGINAL Star', 'Kropa', '100,000+', 'https://sites.google.com/site/privacypolicypawelkrol/', 'pawelkrol420@gmail.com']}
+{'com.springmaru.androidGame.leoNineMensMorris': ["Nine Men's Morris", 'SPRINGMARU', '500,000+', 'https://www.facebook.com/springmaru', 'springmaru@gmail.com']}
+{'org.anddev.android.solfa_lite': ['¼ learn sight read music notes - piano sheet tutor', 'ngfSoft', '1,000,000+', 'https://sites.google.com/site/learnsightreadingmusicnotes/home', 'solfahome@gmail.com']}
+{'com.keong.ulartanggasnakeladder': ['Snake & Ladder - Board Games', 'Keong+Games', '500,000+', 'http://www.keonggames.com', 'keonggames@gmail.com']}
+{'com.whiture.apps.ludoorg': ['Ludo Classic', '7850462096578336079', '10,000,000+', 'http://www.whiture.com', 'sudhakar.kanakaraj@outlook.com']}
+{'com.board.games.domino': ['Dominos', 'Card+Games,+HHS+Daily', '10,000+', 'http://hhsdaily.azurewebsites.net/', 'google@caelumart.com']}
+{'com.ludo.fivestar': ['Ludo Game', 'Aeka+Games', '50,000+', 'http://www.aekagames.com/privacypolicy', 'aekagames@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.halloween': ['Mahjong Mystery Adventure: Monster Mania', '7060724462687387137', '100,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.mola.playspace.android.parchis': ['Parcheesi Ludo Multiplayer - Classic Board Game', '5892841245660927044', '1,000,000+', 'http://www.playspace.com', 'support@playspace.com']}
+{'sg.bigo.ludolegend': ['Ludo Talent', 'Bigo+Entertainment+Developer', '1,000,000+', 'https://m.ludotalent.com/apps/share/index.html', 'ludo.talent.in@gmail.com']}
+{'com.adacio.latice': ['Latice Strategy Game', 'Adacio', '1,000+', 'http://www.adacio.com', 'wecare@adacio.com']}
+{'com.KhoGames.TowerBlocks2': ['Jungoo: Tower Blocks 2', 'KhoGames', '100,000+', 'https://www.freeprivacypolicy.com/privacy/view/9414cc959bd6eb0c8da399bedeb82413', 'infokhogames@gmail.com']}
+{'com.magmamobile.game.Checkers2': ['Checkers 2', '5093519374571024344', '1,000,000+', 'https://m.magmamobile.com/', 'supportapp@magmamobile.com']}
+{'com.durian.whoops': ['Whoops!!', '5149313752459746566', '5,000+', 'http://durianapps.com', 'contact@durianapps.com']}
+{'com.GameiFun.smartbabygames': ['Smart Baby Games - Toddler games for 3-6 year olds', 'GameiFun+-+Educational+games', '1,000+', 'https://gameifun.wordpress.com/rsapps-privacy-policy/', 'rspatel6994@gmail.com']}
+{'com.binteraktive.kniffel.live': ['Dice Clubs', '5931792201700083878', '1,000,000+', 'http://b-interaktive.com/en/dice-duel-rules/', 'support@binteraktive.com']}
+{'com.lunavalley.bingovip': ['New Bingo - 100% Totally NEW!!', 'Luna+Valley', '100,000+', 'https://lunavalleyapp.blogspot.com/', 'luna.valley.app@gmail.com']}
+{'com.eternalwayfarer.aquelarre': ['Aquelarre', 'Eternal+Wayfarer', '50,000+', 'http://www.eternalwayfarer.com', 'contacto@eternalwayfarer.com']}
+{'com.codeqx.mahjongunlimitedad': ['Mahjong Unlimited', 'CodeQX', '50,000+', 'http://www.codeqx.com', 'francis.su1@gmail.com']}
+{'mahjong.games.mahjong.solitaire.free': ['Mahjong', 'Magic+Puzzle', '1,000,000+', 'https://sites.google.com/site/magicpuzzlesprivacypolicy/', 'magic_puzzles@hotmail.com']}
+{'com.everydayiplay.scanandplay.coc': ['Chronicles of Crime', 'EVERYDAYiPLAY+Sp.+z+o.o.', '10,000+', 'http://www.everydayiplay.com', 'android@everydayiplay.com']}
+{'com.dg.puzzlebrothers.mahjong.crime.adventure.mystery.cases': ['Mahjong Crime Scenes: Mystery Cases', '7060724462687387137', '10,000+', 'http://www.differencegames.com', 'mahjong@differencegames.com']}
+{'com.pereira.analysis': ['Chess - Analyze This (Free)', '5989297588699821304', '500,000+', 'http://goo.gl/Axhm4', 'pereiraasim@gmail.com']}
+{'com.mobilefusion.battleshipultra': ['Ship Sea\xa0Battle Ultra', 'MobileFusion+Apps+Ltd', '500,000+', 'http://mobilefusionapps.com', 'contact@mobilefusionapps.com']}
+{'com.fancypotatostudio.dominoes': ['Dominoes Classic : best board games', 'Potato+Studio+Co.,Ltd', '50,000+', 'https://docs.google.com/document/d/1VNXADGErlCxrVgK8goIje1x2nZ1LYCpJD9cswcS1RCg/edit?usp=sharing', 'tambinh352268@gmail.com']}
+{'com.miraclemill.farkleonline': ['Farkle Online', 'Fictional+Factory+Inc', '50,000+', 'https://farkle-online.com', 'developer@fictionalfactory.com']}
+{'com.appindia.ludo': ['Ludo', '5413790841388155219', '1,000,000+', 'http://appindia.net/policy.php?app_name=ludo', 'appindiatechnologies@gmail.com']}
+{'com.smoozee.nosedive': ['Black Mirror™ Nosedive', '7959316599581723037', '5,000+', 'http://www.asmodee.com', 'customerservice@AsmodeeNA.com']}
+{'http.chess': ['Chess', '4726011077574154807', '5,000,000+', 'http://httpproduction.blogspot.com/2015/07/http-production-privacy-policy.html', 'http.ccare@gmail.com']}
+{'com.crossfield.gomoku': ['Gomoku Free - Gobang', '8349232061000500898', '500,000+', 'http://crossfd.jp/policy.html', 'crossfield3@gmail.com']}
+{'com.play.slot': ['Slot Casino - Slot Machines', 'Candy+Mobile', '10,000,000+', 'http://www.candy-mobile.com', 'contact@candy-mobile.com']}
+{'com.forcelabs.ghost.radar.detector': ['Ghost Radar Detector Communicator Game', 'forcelabz', '10,000+', 'http://influenlab.com/privacy-policy/', 'forcelabz@gmail.com']}
+{'com.fgl.gamgogames.mahjongflowergarden': ['Mahjong Spring Flower Garden', '5109527294243675565', '100,000+', 'https://www.fgl.com/pp.php', 'fglindieshowcase@flashgamelicense.com']}
+{'com.skyisland.game.chess3dfree': ['Chess 3D Free : Real Battle Chess 3D Online', '7018337685370488404', '100,000+', 'https://www.facebook.com/Chess-3D-428261117574153', 'vuongthanhtai@gmail.com']}
+{'com.emflag.mahjonglegend': ['Mahjong Legend', '5525877581341842898', '1,000,000+', 'https://www.facebook.com/pages/Maze-Mine/258093867656088', 'parktae00@gmail.com']}
+{'com.YellowGames.HeroicBattle': ['Heroic Battle', 'Raimonds+Rudmanis', '10,000+', 'http://yellowgames.com', 'rrudmanis@gmail.com']}
+{'com.algotgames.classicdominoes': ['Classic Dominoes', '8299226801818315511', '10,000+', 'http://www.onlinedominogames.com', 'ngaccnt@gmail.com']}
+{'com.yahtzee.dice.star': ['Yahtzee STAR', 'Osa', '1,000+', 'https://sites.google.com/site/osaprivacypolicy/', 'andrzejosa1992@gmail.com']}
+{'com.gpower.starcoloring': ['Bixel - Color by Number, Pixel Art', '8718099592606828786', '1,000,000+', 'http://www.gpower.co', 'eric@gpower.co']}
+{'com.scopely.yux': ['YAHTZEE® With Buddies Dice Game', '9028773071151690823', '5,000,000+', 'http://www.scopely.com', 'newyahtzeesupport@scopely.com']}
+{'com.bingo.tour.party.crazy.free': ['Bingo Party - Free Bingo Games', '5817729045804332618', '5,000,000+', 'https://d28w1kh1yrgkq0.cloudfront.net/policy/policy-GP-dataverse.html', 'bingo@avid.ly']}
+{'com.withbuddies.dice.free': ['Dice With Buddies™ Free - The Fun Social Dice Game', '9028773071151690823', '5,000,000+', 'https://scopely.com/game/dice-with-buddies/', 'dice-support@scopely.com']}
+{'com.bingo.scape.android.free': ['Bingo Scapes - Lucky Bingo Game Free to Play', '5817729045804332618', '500,000+', 'https://d28w1kh1yrgkq0.cloudfront.net/policy/policy-GP-dataverse.html', 'bingoscapes@avid.ly']}
+{'com.superluckycasino.viponly.slots.vegas.android.free': ['Slots: VIP Deluxe Slot Machines Free - Vegas Slots', '7531380661925692871', '1,000,000+', 'http://superluckycasino.com', 'support@12gigs.com']}
+{'com.abradoodle.bingo': ['Bingo Abradoodle : Best Free Bingo Games', 'Abradoodle+Games+-+fun+bingo+games', '1,000,000+', 'http://www.abradoodle.com', 'support@abradoodle.com']}
+{'com.two31play.mahjongcity': ['Mahjong City Tours: An Epic Journey and Quest', '8259240029764765652', '1,000,000+', 'http://231play.com', 'contact@231play.com']}
+{'com.acram.Istanbul': ['Istanbul: Digital Edition', '9052427338891655444', '1,000+', 'http://istanbul.acram.eu/', 'acramdigital@gmail.com']}
+{'com.kristanix.android.mahjongsolitairetitan': ['Mahjong Titan', '5808801354978445358', '5,000,000+', 'https://www.kristanix.com/', 'questions@kristanix.com']}
+{'com.dg.turbonuke.bingo.quest.summer.garden': ['Bingo Quest - Summer Garden Adventure', '5109527294243675565', '500,000+', 'https://www.fgl.com/pp.php', 'fglindieshowcase@flashgamelicense.com']}
+{'com.mola.playspace.android.domino': ['Domino Online', '5892841245660927044', '1,000,000+', 'http://www.playspace.com', 'support@playspace.com']}
+{'com.slotsromance.slots.android.free': ['SLOTS ROMANCE: FREE Slots Game', '6833765329689499967', '1,000,000+', 'http://superluckycasino.com/', 'SLRa@12gigs.com']}
+{'com.giu.diceme': ['Dice Me Online FREE', 'Arturo+Gutierrez', '500,000+', 'http://www.pixelmindgames.com/app/dice-me/', 'diceme.game@gmail.com']}
+{'com.superbox.aos.bingo': ['Bingo Bay - Free Game', '6831347196585294074', '100,000+', 'https://www.facebook.com/superbox01', 'help@superbox.kr']}
+{'com.bookup.chessopeningswizard': ['Chess Openings Wizard', 'Bookup+Chess', '100+', 'http://www.bookup.com', 'cowforandroid@bookupmembers.com']}
+{'com.bestlis.farkle': ['Farkle', 'Bestlis+Studio', '100,000+', 'http://bestlis.mobi', 'bestlis2012@gmail.com']}
+{'jp.heroz.android.shogiwars': ['Shogi Wars', 'HEROZ,+Inc.', '1,000,000+', 'http://shogiwars.heroz.jp/', 'shogiwars-support@heroz.co.jp']}
+{'com.handelabra.OneDeckDungeon': ['One Deck Dungeon', '7392390343537623321', '1,000+', 'http://handelabra.com', 'support@handelabra.com']}
+{'com.casino.en.domino': ['Domino Online', 'Domino+Tycoon', '1,000+', 'http://47.254.44.94/PrivacyPolicy.html', 'jacobjones7988@gmail.com']}
+{'com.sundenshi.shanghaifree_world': ['Mahjong Shanghai Free\u3000', 'SUNSOFT', '500,000+', 'http://www.sun-denshi.co.jp/eng/index.shtml', 'sunsoft-spshanghai-support@sun-denshi.co.jp']}
+{'air.com.lazyland.challenge': ['Mahjong Challenge', '8068472682277748287', '50,000+', 'http://www.lazyland.net', 'mobile@lazyland.net']}
+{'chess.friends.game.play': ['Chess Free', 'ChessFriends.com', '500,000+', 'http://www.chessfriends.com', 'info.chessfriends@gmail.com']}
+{'net.fowers.hardback': ['Hardback', 'Fowers+Games', '500+', 'http://fowers.net', 'support@fowers.net']}
+{'com.acram.steam': ['Steam: Rails to Riches', '9052427338891655444', '5,000+', 'http://digital.acram.eu/', 'support@acram.eu']}
+{'com.classic.solitaire.free.game': ['Solitaire', '8548892154578245906', '10,000+', 'http://www.english-listening.com/privacypolicy/privacypolicyjin.txt', 'jinzhongliang8866@gmail.com']}
+{'com.fantasyflightgames.rtl': ['Road to Legend', 'Fantasy+Flight+Games', '100,000+', 'http://www.fantasyflightgames.com', 'softwaresupport@fantasyflightgames.com']}
+{'com.shredderchess.android': ['Shredder Chess', 'shredderchess.com', '50,000+', 'http://www.shredderchess.com', 'info@shredderchess.com']}
+{'com.thejoyplus.themysticpuzzland': ['The Mystic Puzzland - Griddlers & Nonogram Puzzles', '8329397352585780483', '10,000+', 'https://thejoyplus.com', 'support@thejoyplus.com']}
+{'com.digidiced.lhbrelease': ['Le Havre: The Inland Port', '7959316599581723037', '10,000+', 'http://www.asmodee-digital.com/en/le-havre/', 'support@asmodee.net']}
+{'com.bi.slots.casino': ['Free Slots Casino Royale - New Slot Machines 2018', 'Bad+Ibis+Games+Ltd', '100,000+', 'http://badibis.com', 'support@badibis.com']}
+{'com.gamezen.bingostar': ['Bingo Star', 'GameZen', '50,000+', 'http://gamezen.com', 'support@gamezen.com']}
+{'com.playzen.vcasino_GP': ['V Casino - FREE Slots & Bingo', 'playzen', '100,000+', 'http://www.play-zen.com/privacypolicy.html', 'support@play-zen.com']}
+{'com.puzzleboss.Unlimited.jigsaw': ['PuzzleBoss Unlimited Jigsaws', '5955420696073347638', '1,000+', 'https://www.puzzleboss.com/', 'support@puzzleboss.com']}
+{'air.yamsa': ['Yams Dice Game', 'Tabatoune', '100,000+', 'http://tabatoune.com', 'akademsibir@gmail.com']}
+{'com.youdagames.strategomp.premium': ['Stratego® Multiplayer Premium', '7639378078513286726', '5,000+', 'http://www.stratego.com', 'customercare@stratego.com']}
+{'com.crossfield.shogi': ['Shogi Free - Japanese Chess', '8349232061000500898', '1,000,000+', 'http://crossfd.jp/policy.html', 'crossfield3@gmail.com']}
+{'com.ahoygames.rummy': ['Rummy Club', '6133644072791585622', '100,000+', 'http://www.ahoygames.com', 'contact@ahoygames.com']}
+{'com.quicksilver.gemrush': ['Gem Rush Board Game', 'Quicksilver+Software,+Inc.', '50+', 'http://quicksilver.com/wp/', 'gemrush@quicksilver.com']}
+{'com.asmodeedigital.millebornes': ['Mille Bornes - The Classic French Card Game', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/en/mille-bornes/', 'support@asmodee.net']}
+{'ru.redspell.doodlenumbers2': ['Doodle Numbers', 'Red-Spell', '50,000+', 'http://red-spell.com', 'mantleapps@gmail.com']}
+{'pl.lukok.draughts': ['Checkers', '8116283642168527192', '50,000,000+', 'http://draughtsforandroid.com', 'draughts.android@gmail.com']}
+{'lu.zvasoft.lotto.free': ['Bingo on money', '7671784676165865073', '100,000+', 'https://readymag.com/ZVAsoft/policyRU', 'zvasoft@gmail.com']}
+{'com.dg.puzzlebrothers.match3.quest.hero.story': ['Match 3 Fantasy Quest: Hero Story', 'Beautiful+Match+3+Quest+Games+by+Difference+Games', '10,000+', 'http://www.differencegames.com', 'match@differencegames.com']}
+{'uk.co.aifactory.sudoku': ['Sudoku', '7906675825742087969', '50,000+', 'http://www.aifactory.co.uk', 'support@aifactory.co.uk']}
+{'com.asmodeedigital.kingandassassins': ['King and Assassins: The Board Game', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/en/king-and-assassins', 'support@asmodee.net']}
+{'com.chessking.android.learn.chesscombinations1': ['Chess Combinations Vol. 1', '8196632901699712832', '50,000+', 'http://chessking.com', 'android-support@chessking.com']}
+{'com.monkeys.sscramble': ['Sudoku Scramble - Online Multiplayer Sudoku', '81monkeys', '5,000+', 'http://81monkeys.com', 'support@81monkeys.com']}
+{'com.dg.turbonuke.bingo.mania.titan.adventure.kingdom.crush': ['Bingo Titan Adventure: Kingdom Crush', '4896417924738532354', '10,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.babaroga.zombies': ['Zombies!!! ® Board Game', '7695781366508118762', '10,000+', 'http://babaroga.com', 'contact@babaroga.com']}
+{'com.dg.puzzlebrothers.mahjong.cattailz': ['Hidden Mahjong Cat Tails: Free Kitten Game', '8738231386379978787', '50,000+', 'http://www.differencegames.com', 'adam@differencegames.com']}
+{'com.kimaia.rummikub': ['Rummikub', 'Kinkajoo', '100,000+', 'http://www.rummikub.com', 'support@rummikub-apps.com']}
+{'com.chessking.android.learn.totalchessending': ['Total Chess Endgames (1600-2400 ELO)', '8196632901699712832', '100,000+', 'http://chessking.com', 'android-support@chessking.com']}
+{'com.njsoftware.backgammonnj': ['Backgammon NJ for Android', 'Jimmy+Hu', '10,000+', 'http://www.njsoftware.com', 'nooksupport@njsoftware.com']}
+{'com.usm.heckmeck': ['Pickomino by Reiner Knizia', '7190673763242476318', '1,000+', 'http://www.usm.de', 'android@usm.de']}
+{'com.lucian.musca.chess.puzzle.pro': ['Fun Chess Puzzles Pro', 'Lucian+Musca', '500+', 'https://sites.google.com/view/funchesspuzzlespro', 'jyce.solutions@gmail.com']}
+{'br.com.sojogos.yatzy': ['Yatzy', 'Vitor+David', '10+', 'http://www.sojogos.com.br', 'sac@sojogos.com.br']}
+{'mazzy.and.housearrest.android': ['House Arrest  detective board game', 'Maxim+Matyushenko', '100+', 'https://maxdk9.bitbucket.io/', 'maxdk9@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.beautifultrails': ['Hidden Mahjong Beautiful Trail', '8738231386379978787', '10,000+', 'http://www.differencegames.com', 'info@differencegames.com']}
+{'appinventor.ai_izzybella419.FourXFourSoloMiniChess': ['4x4 Solo Mini Chess Brain Teaser Puzzle Games', '8342980373939007999', '100+', 'http://www.kg9e.net/apps/FourxFourSoloMiniChess/', 'nick@kg9e.net']}
+{'jp.co.unbalance.android.chess': ['The Chess Lv.100', '5973402057352547106', '5,000+', 'http://www.unbalance.co.jp/english/android/', 'support@unbalance.co.jp']}
+{'com.netcraft.wisdomantics': ['Wisdomantics', 'KINGDOM+GAMES+ENTERPRISES,+LLC', '10+', 'http://www.wisdomantics.com', 'info@wisdomantics.com']}
+{'com.redgame.jacks.adfree': ['Wild Jacks: Pro Edition', 'Red+Game', '50+', None, 'yaokorean@163.com']}
+{'net.unvhosting.chesscoach10nd': ['Chess Coach 1.0', '8529830355091129927', '1,000+', 'http://www.unvhosting.net', 'dberube1@comcast.net']}
+{'com.stickyhands.mahjongcitybuilder': ['Mahjong City Builder', '6178218153041164662', '10,000+', 'http://www.stickyhands.kr', 'dev@stickyhands.kr']}
+{'com.fgamesteam.pack1.actikids': ['Familiy Charades ActiKidsPack1', 'FamilyGamesTeam', '100+', 'http://actikids.eu', 'fgamesteam@gmail.com']}
+{'tripeaks.solitaire.free.fish': ['TriPeaks Solitaire Free', '7180923903829173750', '1,000+', 'http://www.gdmz.org/privacy/shenqiang/privacypolicy.txt', 'shenqiang2813@gmail.com']}
+{'com.bullbitz.xmasdrop2': ['Christmas Drops 2 - Match 3', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'com.bananaandco.game.mancala.classic.free.board.games': ['Mancala', 'Banana+%26+Co.', '5,000+', 'http://www.banana-co.com/', 'banana@banana-co.com']}
+{'com.mobilelaz.chesscheckers': ['Chess & Checkers Pack', 'MobileLaz', '5+', 'http://www.mobilelaz.com/chesscheckers', 'info@mobilelaz.com']}
+{'com.gsoftteam.checkersmobile': ['Checkers Mobile', '6775832922103090311', '1,000,000+', 'http://www.gsoftteam.com', 'support@gsoftteam.com']}
+{'com.AppWhateverIFeelLike.BenShapiroSoundBoardNoAds': ['Ben Shapiro SoundBoard', 'App+Whatever+I+Feel+Like', '10+', None, 'fespadearocks@gmail.com']}
+{'com.sngict.backgammon': ['Backgammon Offline', '5890018970979485285', '1,000,000+', 'http://www.sngict.com', 'support@sngict.com']}
+{'com.freedomrabbits.xiangqi.paid': ['Chinese Chess, Xiangqi (Professional Edition)', 'FREEDOM+RABBITS', '100+', None, 'freedomrabbits@126.com']}
+{'au.com.quadropoly.rentorbuy.monopoly': ['Quadropoly Academy - Data Science for Board Game', 'Clever+Mind+Games', '1,000+', 'http://quadropoly.com.au', 'clevermindgames@gmail.com']}
+{'com.dg.puzzlebrothers.mahjong.summergarden': ['Mahjong Garden Four Seasons - Free Tile Game', '8738231386379978787', '500,000+', 'http://www.differencegames.com', 'adam@differencegames.com']}
+{'com.neathippo.crazypolyfree': ['CrazyPoly - Business Dice Game', 'NeatHippo', '100,000+', 'http://neathippo.com', 'support@neathippo.com']}
+{'com.thegamestudio.shuttheboxpremium': ['Shut The Box Premium', 'The+Game+Studio', '50+', None, 'pownow477@gmail.com']}
+{'com.mygdx.YardieStyleDominoes.android': ['Jamaican Style Dominoes', '7187364366043034123', '50,000+', 'https://jamaicanstyledominoes.com', 'dadunn95@gmail.com']}
+{'com.bullbitz.fruitdrop3': ['Fruit Drops 3 - Match 3 puzzle', 'BULLBITZ', '1,000+', 'http://www.bullbitz.com', 'info@bullbitz.com']}
+{'com.dg.puzzlebrothers.mahjong.cozychristmas': ['Hidden Mahjong: Cozy Christmas', '8738231386379978787', '10,000+', 'http://www.differencegames.com', 'info@differencegames.com']}
+{'com.dg.puzzlebrothers.mahjong.thecatfamily': ['Hidden Mahjong: The Cat Family', '8738231386379978787', '1,000+', 'http://www.differencegames.com', 'info@differencegames.com']}
+{'com.binko.farklegoogle': ['Farkle Dice Roller Zilch Free', 'Binko+Apps', '100,000+', 'http://www.binkoapps.com', 'josephbhadley@gmail.com']}
+{'app.packs.ajedrezmotores': ['Chess Engines Play Analysis', 'Javiolo', '10,000+', None, 'javidesarrollo10@gmail.com']}
+{'mdr.gws.io': ['Magic Dice Roller', 'Game+Wave+Studios', '1,000+', 'http://gamewavestudios.com/', 'gamewavestudios@gmail.com']}
+{'com.asmodeedigital.harald': ['Harald: A Game of Influence', '7959316599581723037', '1,000+', 'http://www.asmodee-digital.com/en/harald', 'support@asmodee.net']}
+{'com.quarzo.fourinarow': ['4 in a row', '8933575792593715746', '1,000,000+', 'http://www.quarzoapps.com/', 'hola@quarzoapps.com']}
+{'com.broccoliEntertainment.barGames.seconds5': ['Tuku Tuku - 5 Second Challenge', 'Mateusz+Drzazga', '100,000+', 'http://broccoligames.com/', 'broccoligamestudio+developer@gmail.com']}
+{'com.litegames.othello': ['Othello - Official Board Game for Free', '8633276600546047418', '100,000+', 'http://www.lite.games', 'support@lite.games']}
+{'com.jacksgonewild.android': ['Jacks Gone Wild', 'PMFoundations', '100+', 'http://www.jacksgonewild.com', 'admin@jacksgonewild.com']}
+{'com.optimesoftware.fourinarow.pro': ['Four in a Row Pro', 'Optime+Software', '1,000+', 'http://www.optimesoftware.com', 'support@optimesoftware.com']}
+{'com.dg.puzzlebrothers.mahjong.dragonreign': ['Hidden Mahjong: Dragon Reign', '8738231386379978787', '10,000+', 'http://www.differencegames.com', 'info@differencegames.com']}
+{'de.brettspielwelt.ligretto': ['Ligretto', 'Brettspielwelt+GmbH', '1,000+', 'http://ligretto.brettspielwelt.de', 'mellin@brettspielwelt.de']}
+{'com.platsera.superbingoclash': ['Super Bingo Clash - Free Bingo Games', 'Platsera+Apps', '50,000+', None, 'platsera.apps@gmail.com']}
+{'com.dg.turbonuke.bingo.quest.mania.pets.cat.craze': ['Bingo Pets Mania: Cat Craze', '4896417924738532354', '50,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.optimesoftware.chess.pro': ['Chess Premium', 'Optime+Software', '1,000+', 'http://www.optimesoftware.com', 'support@optimesoftware.com']}
+{'com.dg.turbonuke.tradbingo.elvenwoods': ['Bingo Quest - Elven Woods Fairy Tale', '4896417924738532354', '100,000+', 'http://www.differencegames.com', 'bingo@differencegames.com']}
+{'com.memozzle': ['Memozzle', 'NETPLAY+SOLUTIONS', '1,000+', 'http://www.netplay.mobi', 'support@netplay.mobi']}
+{'cat.minkusoft.jocstaulerpro': ['Board Games Pro', 'minkusoft', '5,000+', 'http://minkusoft.com', 'info@minkusoft.com']}
+{'com.shelter.shelterfree': ['Shelter Free', '8401944924818644128', '50,000+', 'http://www.survivalistgames.co.uk', 'support@survivalistgames.co.uk']}
+{'com.kindermatica.farmfun': ['Fun on the Farm - 5 in 1 games', 'Kindermatica+Ltd.', '1,000+', 'https://www.kindermatica.com', 'kindermatica@gmail.com']}

@@ -1,0 +1,1053 @@
+{'com.candywriter.bitlife': ['BitLife - Life Simulator', '8094408836964062012', '1,000,000+', 'http://www.candywriter.com', 'support@bitlifeapp.com']}
+{'com.codigames.market.idle.tycoon': ['Idle Supermarket Tycoon - Tiny Shop Game', '6768033056419806404', '1,000,000+', 'http://codigames.com', 'support+ist@codigames.com']}
+{'com.ndemiccreations.rebelinc': ['Rebel Inc.', '7468463311589977937', '100,000+', 'http://www.ndemiccreations.com', 'googleplay@ndemiccreations.com']}
+{'com.swagmasha.genres': ['Love Sick: Interactive Stories', '7594184611184681419', '100,000+', 'http://swagmasha.com', 'android-support@swagmasha.com']}
+{'com.gpp.antfactory': ['Ant Factory', '8867515009520278694', '50,000+', 'https://greenpandagames.com', 'support@greenpandagames.com']}
+{'com.gpg.farmfactory': ['Farm Factory', '8867515009520278694', '100,000+', 'https://greenpandagames.com/en', 'support@greenpandagames.com']}
+{'com.snow.drift': ['Snow Drift', 'SayGames', '5,000+', 'https://saygames.by', 'info@saygames.by']}
+{'com.rmg.galaxymerge': ['Merge Battle Plane - Idle & Click Tycoon', '5429203503551516829', '10,000+', 'http://redmachinegames.com/', 'red.machine.games+merge@gmail.com']}
+{'com.diego.ynshco': ['Akademi School Simulator Knowledge', 'GearWay.', '50,000+', None, 'lesleykumcin@gmail.com']}
+{'com.callfromryan.bestcalljokes': ['Call From Ryan ToyReview - Joke', 'TT.Distribution', '5,000+', 'https://justpaste.it/7gjbc', 'LiveChatWithMe.TT.Destribustion@gmail.com']}
+{'com.bud.farm.green.idle.khalifa.hempire': ['Bud Farm Idle - Hempire Farm Growing Tycoon', 'Lunaweedy', '10,000+', 'https://sites.google.com/view/weedfarmidle/trang-ch%E1%BB%A7', 'chickrice2288@gmail.com']}
+{'idlegame.money.ganster': ['Ganster Tycoon', 'Lucrecia+Studio', '5,000+', 'https://ganstersgame.blogspot.com/2019/02/gansters-privacy-policy.html', 'lucreciawang0709@gmail.com']}
+{'com.ngerofstickzombiegolfcart': ['Invincible Dead Driving', 'Mack+Wilkinson', '10,000+', 'http://policy.superstarkpop.com/privacy.html', 'mackwilkinson443@gmail.com']}
+{'com.lionstudios.ballsmasher': ['Ball Smasher', '6990178528646658622', '5,000+', 'http://lionstudios.cc', 'hello@lionstudios.cc']}
+{'com.devgame.lifesim.life.simulator.game': ['LifeSim: Life Simulator Strategy in Virtual World', 'Hypergames,+Inc.', '10,000+', 'http://hypergames.tech', 'info@hypergames.tech']}
+{'com.us.pause.challenge': ['The Pause Challenge', 'Retro+Games+Studio', '10,000+', 'https://privacypolicies.com/privacy/view/33cb8f1b6823ae95a0c8c3809bcc2ec5', 'baptistelemairekot@gmail.com']}
+{'com.stickmancrime.gangsters': ['Stickman Crime: Vegas Mafia Gangster', 'Dreambox+Game', '10,000+', 'https://sites.google.com/view/dreamboxgame-privacy-policy/trang-ch%E1%BB%A7', 'dreamboxgame178@gmail.com']}
+{'com.chartcut.android': ['Chartcut', 'CHARTCUT', '1,000+', 'https://chartcut.com', 'support@chartcut.com']}
+{'com.powergirdcar.fruitRoad.farmGardenMatch3': ['Farm Time', 'OKGO', '5,000+', 'https://sites.google.com/site/ferrblast/', 'okliu666sz@gmail.com']}
+{'com.bus.simulator.city.driving': ['Bus Simulator 2019', 'AfterGames+365', '10,000+', 'https://aftergames365.blogspot.com/2018/07/privacy-policy.html', 'aftergames365@gmail.com']}
+{'dinosaurgames.dinosaur.games': ['Dinosaur Games - 2019', 'GAME+TSUNAMI', '10,000+', 'http://www.bigbitegames.com', 'bigbitegamesindia@gmail.com']}
+{'com.OG.Driver.Simulator.Life': ['Driver Simulator - Fun Games For Free', 'Oppana+Games', '100,000+', 'https://www.facebook.com/notes/og/privacy-policy/400234887005186', 'oppanagames@gmail.com']}
+{'com.life.simulator.me': ['BITMIND - Life Simulator : BiTmE', 'codeWizard', '1,000+', 'https://docs.google.com/document/d/1kOweqIRtmepLW-KpUkTAkz8Au2L1K6nDTtZG5i24UYA/edit?usp=sharing', 'deveforce999@gmail.com']}
+{'com.Mermaid.Love.Story.Games': ['Mermaid Love Story Games', '6353302165753628591', '100,000+', 'https://www.lovestorygames.com', 'mermaidlovestory@gmail.com']}
+{'sk.phx.butterfly': ['Butterfly Idle', '8867515009520278694', '1,000+', 'https://greenpandagames.com/en', 'support@greenpandagames.com']}
+{'com.gni.deathstair.carspeed.crash.drive': ['Beam Drive NG Death Stairs Car Crashs', 'Gaming+Zoone+Inc', '1,000+', 'https://sites.google.com/view/gaming-zoone-inc', 'gamingzoone.inc@gmail.com']}
+{'com.usoffroadgamers.Atv.offroad.quad.bike': ['Offroad Quad Bike Stunt Mania 2019', 'US+Offroad+Gamers', '5,000+', 'https://usoffroadgamers.wordpress.com/', 'muddasiroffroadgamer@gmail.com']}
+{'com.lodgers.games.mr.president': ['Save Mr. President: Escape plan 2k19', 'Lodgers+Games', '5,000+', 'https://sites.google.com/view/lodgersgamesprivacypolicy/', 'llodgersgames@gmail.com']}
+{'com.immi.multi.story.car.trasnport.trailer.truck': ['Multi Story Car Transport Truck', 'Immi+Studios', '10,000+', 'https://immistudios.blogspot.com/p/blog-page.html', 'immigamingstudios@gmail.com']}
+{'jp.co.ciagram.otome.games.loveplanforeign': ['Love Plan: Otome games english free dating sim', '8942551490923126815', '5,000+', 'https://www.loveotomegames.xyz/en/', 'support+googleplay_loveplanforeign@appli-contact.mobi']}
+{'com.fungames.hitmansniper3d.free': ['Ace Sniper: Free Shooting Game', 'Stimulating+Shooting+Game', '100,000+', 'http://policy.honeymixer.com/privacy.html', 'jhnbgtyfh584756@gmail.com']}
+{'com.free.mock.driving': ['Master Drive Car Simulator', 'kixstudio', '5,000+', 'https://sites.google.com/view/kixstudio-privacy-policy/trang-ch%E1%BB%A7', 'kixstudio2612.gdy@gmail.com']}
+{'com.timuzgames.traindriver2019': ['Train Driver 2019', '8347901481645278558', '10,000+', 'http://www.timuz.com', 'info@timuz.com']}
+{'com.pocketfreddy.Nightmarefredbear.bonnieanimatronic.jumpscarefreddy': ['Animatronic GO!! Pocket Freddy', 'MLP+Pony', '1,000+', 'https://superboysheroben.blogspot.com/', 'rachidalkhaldi@gmail.com']}
+{'com.ns.battle.angel': ['Battle Angel', '7153203368724111677', '10,000+', 'http://naxeex.com', 'naxeex.studio@gmail.com']}
+{'com.mighty.heist.thief.game': ['Heist Thief Robbery - Sneak Simulator', 'Mighty+Game+Studio', '1,000+', 'https://docs.google.com/document/d/1uFOrbQr5vbNUYe5WB3J1XY_du7bM5T_sOzGz2ia45tE/edit?usp=sharing', 'neelumbajiplc@gmail.com']}
+{'com.md.tower.design.construction': ['Home Design Tower Construction House Design Games', '8766811091380713707', '50,000+', 'http://www.machinedreamsinc.com', 'machinedreamsco@gmail.com']}
+{'com.zenstudios.williamspinball': ['Williams™ Pinball', '7667991169764585208', '5,000+', 'http://www.zenstudios.com', 'support@zenstudios.com']}
+{'com.pickle.CarDrivingSimulator': ['Car Driving Simulator', 'Game+Pickle', '10,000+', 'http://www.i6.com/mobile-privacy-policy/', 'gamepicklestudios@gmail.com']}
+{'com.Bengo.Pocketbenteen.Benteenalienfight.Humungossauralien.superboyshero.bensuperboy': ["ben's  Go Pocket Super Hero boyteen", 'Kbiri+inc', '5,000+', 'https://fnafanimatronic.blogspot.com/', 'amallbchiri@gmail.com']}
+{'com.parkingcity.drivingcar': ['Car Driving: Parking Simulator Master', 'Popular+Studio+Data', '10,000+', 'https://sites.google.com/view/popularstudiodataprivacypolicy/trang-ch%E1%BB%A7', 'populartudio@gmail.com']}
+{'com.VoxelFun.ES3': ['Evolution Simulator 3D', '8407138120600624617', '10,000+', None, 'naszyt@wp.pl']}
+{'com.dynamicgames.worldbusdrivingsimulator': ['World Bus Driving Simulator', 'Dynamic+Games+Ltda', '100,000+', 'http://www.dynamicgames.com.br', 'dgamesent@gmail.com']}
+{'com.Uni.hero1': ['Totally Accurate Gang Battle Simulator', 'Unisoft+studio', '1,000+', 'https://kasumigame.blogspot.com/b/post-preview?token=APq4FmDx013eiD2FddKEEAocArZ7ehoIcq1uzhss-X2zigSyKMlshK7JfiFZu_LftNn5Sc7bn2w_MASwSSiU-AB3LMFrLm4og5HLqfnpUti-2E6H7oJLmqWMUQ5vC9MbF0AV8X0nKO1x&postId=1554317125020540858&type=POST', 'ubisoft.std@gmail.com']}
+{'com.solidappsinc.sequinsimulatorgames': ['Sequin Simulator Games', 'Solid+Apps+INC.', '5,000+', 'http://www.solidappsinc.co/', 'info@solidappsinc.co']}
+{'com.WindyHill.WhoisZombie_AD': ['WhoisZombie(Ads)', 'cindyzstudio', '100,000+', 'http://www.cindyzstudio.com', 'cindyz@cindyzstudio.com']}
+{'com.tiglobal.titrampbikefree': ['Ti: Tramp Bike Lite', 'Ti+Global+Corporation+Pty+Ltd', '1,000+', 'http://www.aussieadrenaline.com', 'developer@tiactionsports.com']}
+{'uk.playdrop.lifesimulatorpro': ['Life Simulator 3 - Real Life', '9164931821869442682', '1,000+', 'http://playdrop.uk/privacy/', 'support@playdrop.uk']}
+{'com.gladgames.impossiblecardrive': ['Impossible Car Drive', 'Glad+Games', '1,000+', 'https://privacypg.s3.amazonaws.com/ppgladgames.html', 'gladgamessingapore@gmail.com']}
+{'com.mobirix.rag2rich': ['Rags To Riches : Rich King Maker', '4864673505117639552', '1,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.kdp.PattyGame': ['Party gang.io panic war', 'Hai+Duong+Nguyen', '500+', 'https://www.freeprivacypolicy.com/privacy/view/198da2614978e7a868918498ac3fb787', 'duongnh3385@gmail.com']}
+{'com.game2019.EpicBattlegame': ['TABSgame', 'NgaLT', '100+', None, 'ngalt1385@gmail.com']}
+{'com.ElfPrincessLoveStoryGamesForGirls.HighSchoolFashion': ['Elf Princess Love Story Games', '9221097095541357243', '10,000+', 'https://chickflickclique10.wixsite.com/chickflickclique', 'ChickFlickClique10@gmail.com']}
+{'com.cg.eurotruckcitydriver': ['Euro Truck City Driver', 'Chop+Games', '1,000+', 'https://docs.google.com/document/d/10fKkOj4Ih30qufQAbqpsNz81xyPTjfHVWZKAcNpHx3s/edit', 'nanthan.zeus@gmail.com']}
+{'com.hemanlia.racing.circuit': ['Racing Tour Circuit', 'Hemanlia', '500+', 'https://hemanlia.blogspot.com', 'Arrudaremika@gmail.com']}
+{'com.teumil.excavatorsimulator': ['Excavator Real Simulator - Building Constructions', 'Teumil+Games', '500+', 'https://teumilgames.blogspot.com/2019/02/teumil-games-privacy-policy.html', 'truonglinusthai@gmail.com']}
+{'com.gtactiongames.deliveryrider': ['Delivery Rider', 'GT+Action+Games', '10,000+', 'http://www.gtactiongames.com', 'gtactiongames@gmail.com']}
+{'com.freezegames.jurassic.dino.zoo.builder': ['Jurassic Zoo Dinosaur World: Animal Transport', '4856674160792477318', '1,000+', 'http://www.gameworksupport.com/Privacy.html', 'freezegamesinc@gmail.com']}
+{'com.gat.wydsf': ['Crazy Riches - Casual, Simulation, Strategy Game', '%E4%B8%8B%E8%BC%891%E7%A7%92%E9%90%98', '100,000+', 'https://www.jianshu.com/p/16f5642c197b', 'shangjiaqwe@gmail.com']}
+{'com.lightneer.hammerjump': ['Hammer Jump', 'Lightneer', '10+', 'http://www.lightneer.com', 'info@lightneer.com']}
+{'com.pubgmafia.gtacrime.stone.giant.crimegangster': ['Grand Stone Giant Mafia Crime Fight To Survive', 'Freydaso', '1,000+', 'https://sites.google.com/site/privacyforstreetthugchicago/', 'support@zacstudiogames.com']}
+{'com.ultiox.crane': ['Crane Simulator Game Heavy Tonnage', '6417243713901528852', '1,000+', 'https://www.macozetizle.com/privacy-policy/', 'reklamverse@gmail.com']}
+{'com.ceishingreefishinggameatchbigfishshooter': ['Summer Fishing - Nice daily catch', 'Ellsworth+Kertzmann', '5,000+', 'http://policy.trackspeedtimer.com/privacy.html', 'Ellsworth.Kertzmann@gmail.com']}
+{'com.dumpgames.virtual.single.dad.simulator.happy.father': ['Virtual Single Dad Simulator: Happy Father', 'Dump+Games', '50+', None, 'dumppgames2019@gmail.com']}
+{'com.Distinct.VolcanoFireFury': ['Volcano Fire Fury', '5242683727014690603', '100+', 'http://www.distinctmedia.co.za', 'info@distinctmedia.co.za']}
+{'synthesis.game.fishing2': ['Fishing PRO 2 - fishing simulator with chat', 'Synthesis', '1,000+', 'http://x-id.ru/pp.txt', 'x@x-id.ru']}
+{'com.newCall.hotel.fatigame': ['Conversation With Hotel Transylvan', 'Malorado+Geek', '100+', None, 'info@maloradogeek.com']}
+{'com.GameTap.RealCrimeGangsterGrandCity': ['Real Crime Gangster: Grand City', 'Game+Tap', '100+', 'http://gametapstudios.com/privacy.html', 'feedback.gametap@gmail.com']}
+{'mini.crafting.modern.city.craft.creative': ['Mini Modern City Craft', 'Mini+MM+Crafting+Crafting+Game+Studio', '10+', 'https://sites.google.com/view/minimmcrafting', 'fuyufiona1993@gmail.com']}
+{'com.funstormentertainment.truck.wash.repair.and.saloon.game': ['Truck Repair & Wash Garage Monster truck simulator', 'Funstorm+Entertainment', '10+', 'https://docs.google.com/document/d/1-1j-u51sQTQFWN9sG6ejbaW1Cba7J8moGA6PUUwFqSA/edit', 'funstormentertainment123@gmail.com']}
+{'com.gameleap.winner': ['Business Tycoon', 'Halcyon+Network+Limited', '5+', 'https://www.facebook.com/Business-Tycoon-1427545080713319/', 'licong@gameleap.cn']}
+{'com.offroad.rally.racing.xtreme.games.free': ['Offroad 4x4 Rally Driving Racing Xtreme 3D', 'Universal+Arts', '100+', 'https://bit.ly/2PPh9LG', 'universalarts424@gmail.com']}
+{'com.saproduction.modern.farming3d': ['Modern Farming 3D', '7409330339480770760', '500+', 'http://www.gamesfeat.com/PrivacyPolicy.html', 'saproduction90@gmail.com']}
+{'com.top.best.angry.shark.attack.simulator': ['Angry Shark Attack Simulator Game 2019', 'Top+Best+Games+For+Free', '10+', 'http://topbestgamesfree.blogspot.com/p/privacy-policy.html', 'topbestgames2018@gmail.com']}
+{'com.pickle.policevsrobbers': ['Police Car Simulator - Cop Chase', 'Game+Pickle', '5+', 'http://www.i6.com/mobile-privacy-policy/', 'gamepicklestudios@gmail.com']}
+{'com.brokenreality.bigcapitalist3.android': ['The Big Capitalist 3', 'Broken+Reality', '1,000,000+', 'https://brokenrealityapp.wordpress.com', 'lingzilau@gmail.com']}
+{'com.ndemiccreations.rebelinc': ['Rebel Inc.', '7468463311589977937', '100,000+', 'http://www.ndemiccreations.com', 'googleplay@ndemiccreations.com']}
+{'com.fivebyte.lifeisagame': ['Life is a Game', '5362355705811727981', '5,000,000+', 'https://www.facebook.com/daerisoft', 'elitede3626@gmail.com']}
+{'idlegame.money.ganster': ['Ganster Tycoon', 'Lucrecia+Studio', '5,000+', 'https://ganstersgame.blogspot.com/2019/02/gansters-privacy-policy.html', 'lucreciawang0709@gmail.com']}
+{'es.socialpoint.MonsterLegends': ['Monster Legends', '7129773085119877408', '50,000,000+', 'http://www.socialpoint.es', 'info@socialpoint.es']}
+{'com.dreamplay.underworld.google': ['Underworld : The Shelter', '4791840901148567689', '500,000+', 'https://www.facebook.com/DreamplayIndieZone/', 'help@dreamplaygames.co.kr']}
+{'com.odaatstudio.powerman': ['Tap Tap Breaking: Break Everything Clicker Game', 'ODAAT+studio', '100,000+', 'http://cafe.naver.com/odaatstudio', 'odaatstudio@gmail.com']}
+{'com.gameloft.android.ANMP.GloftDYHM': ['Disney Magic Kingdoms: Build Your Own Magical Park', '6258770168633898802', '10,000,000+', 'http://www.gameloft.com/en/privacy-notice', 'android.support@gameloft.com']}
+{'scratch.happy.cash.fashion': ['Fashion Scratch', 'YQS+Game', '10,000+', 'https://yqsgame.blogspot.com/2019/01/privacy-policy.html', 'yqs128130@gmail.com']}
+{'air.com.pixelfederation.TrainStationGame': ['TrainStation - Game On Rails', '7566304266577611559', '10,000,000+', 'http://www.pixelfederation.com', 'support@trainstationgame.com']}
+{'com.otherguys.lindab': ['Linda Brown: Interactive Story', 'The+Other+Guys', '10,000,000+', 'http://www.lindabrowngame.com', 'support@other-guys.com']}
+{'com.MoustacheBanana.TacticalWarSimulator': ['Tactical Battle Simulator', 'Moustache+Banana', '1,000,000+', 'https://silastbz.wixsite.com/privacypolicy', 'silastbz@yahoo.de']}
+{'com.alegrium.cong2': ['Cash, Inc. Money Clicker Game & Business Adventure', '6990178528646658622', '10,000,000+', 'http://www.lionstudios.cc', 'alegrium@lionstudios.cc']}
+{'com.watersurvival.oceanraft': ['Raft Survival Simulator', 'Survival+and+Craft+Games', '1,000,000+', 'http://www.bananapps.club/', 'vaskarar87@gmail.com']}
+{'com.turborocketgames.phoenixsim': ['Phoenix Sim 3D', '6804371481370659921', '1,000,000+', 'http://turborocketgames.com/', 'vladimir.duchenchuk@gmail.com']}
+{'com.gtactiongames.trainsim2019': ['Train Sim 2019', 'GT+Action+Games', '1,000,000+', 'http://www.gtactiongames.com', 'gtactiongames@gmail.com']}
+{'com.turborocketgames.wildcraft': ['WildCraft: Animal Sim Online 3D', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com/extra/privacypolicy.htm', 'support@turborocketgames.com']}
+{'com.powergirdcar.fruitRoad.farmGardenMatch3': ['Farm Time', 'OKGO', '5,000+', 'https://sites.google.com/site/ferrblast/', 'okliu666sz@gmail.com']}
+{'com.profanestudios.idlespacerace': ['Idle Space Race', 'Hippo+Tap', '100,000+', 'http://www.hippotap.com/', 'support+idlespacerace@hippotap.com']}
+{'com.spilgames.operatenow.animal.hospital': ['Operate Now: Animal Hospital', '8077753437082489031', '1,000,000+', 'http://www.spilgames.com', 'support@operatenowanimalhospital.com']}
+{'sk.phx.terrarium': ['Terrarium: Garden Idle', '8867515009520278694', '1,000,000+', 'http://greenpandagames.com/fr', 'support@greenpandagames.com']}
+{'com.pixowl.tsb2': ['The Sandbox Evolution - Craft a 2D Pixel Universe!', '5313314117424352644', '10,000,000+', 'http://www.thesandbox2.com', 'thesandbox2@pixowl.com']}
+{'com.tapblaze.homecraft': ['Homecraft - Home Design Game', '7300020765194314153', '500,000+', 'http://www.tapblaze.com', 'homecraft@tapblaze.com']}
+{'com.PeakX.duel': ['Wild West: Explore Shoot Trade', '5764342127169072665', '100,000+', 'http://v2i.teebik.com/policy.html', 'ww.cs@teebik-inc.com']}
+{'com.evertechsandbox': ['Evertech Sandbox', '8211386423443127738', '5,000,000+', 'http://evertechsandbox.com', 'vitaly.sumin+sandbox@gmail.com']}
+{'com.StefMorojna.SpaceflightSimulator': ['Spaceflight Simulator', 'Stefo+Mai+Morojna', '1,000,000+', 'https://discord.gg/v8u5Y9C', 'games.morojna@gmail.com']}
+{'net.appmaga.pixelfarm': ['Tiny Pixel Farm - Simple Farm Game', '6526975909208527105', '1,000,000+', 'https://gamestart.jp/tiny-pixel-farm/', 'info@gamestart.jp']}
+{'com.Uni.hero1': ['Totally Accurate Gang Battle Simulator', 'Unisoft+studio', '1,000+', 'https://kasumigame.blogspot.com/b/post-preview?token=APq4FmDx013eiD2FddKEEAocArZ7ehoIcq1uzhss-X2zigSyKMlshK7JfiFZu_LftNn5Sc7bn2w_MASwSSiU-AB3LMFrLm4og5HLqfnpUti-2E6H7oJLmqWMUQ5vC9MbF0AV8X0nKO1x&postId=1554317125020540858&type=POST', 'ubisoft.std@gmail.com']}
+{'com.rcgames.megaramp.impossible': ['Mega Ramp: Free Impossible Stunts', 'Redcorner+Games', '1,000,000+', 'https://redcornergames.wordpress.com/privacy-policy/', 'redcornergames@gmail.com']}
+{'net.isitlove.cartercorp.matt': ['Is-it Love? Matt - Dating Sim', '7930656545935917988', '5,000,000+', 'http://1492.io', 'support@1492.io']}
+{'uk.playdrop.lifesimulatorpro': ['Life Simulator 3 - Real Life', '9164931821869442682', '1,000+', 'http://playdrop.uk/privacy/', 'support@playdrop.uk']}
+{'com.kdp.PattyGame': ['Party gang.io panic war', 'Hai+Duong+Nguyen', '500+', 'https://www.freeprivacypolicy.com/privacy/view/198da2614978e7a868918498ac3fb787', 'duongnh3385@gmail.com']}
+{'com.ghi.policecarparking.pradodriver.games': ['Police Car Parking Super Drive', 'Gaming+Horizon+Inc', '100,000+', 'https://sites.google.com/site/gaminghorizoninc/', 'gaminghorizoninc@gmail.com']}
+{'com.happylabs.hps': ['Happy Pet Story: Virtual Sim', '5211519071117278745', '5,000,000+', 'http://www.facebook.com/happypetproject', 'mojo@happylabsfree.com']}
+{'com.dengamedevxxx.stickman.turbo.annihilation': ['Stickman Turbo Annihilation', 'Dengamedevxxx', '500+', 'https://www.appodeal.com/home/en/privacy-policy/', 'Dengamedevxxx@gmail.com']}
+{'jp.danball.eartheditor': ['Earth Editor', '5698704764435009544', '1,000,000+', 'https://dan-ball.jp/en/m/', 'mobile.danball@gmail.com']}
+{'dinosaurgames.dinosaur.games': ['Dinosaur Games - 2019', 'GAME+TSUNAMI', '10,000+', 'http://www.bigbitegames.com', 'bigbitegamesindia@gmail.com']}
+{'com.kdp.Panic': ['Gang Patty Panic - Crowd.io City', 'Hai+Duong+Nguyen', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/198da2614978e7a868918498ac3fb787', 'Audaiduongxanh1988@gmail.com']}
+{'jp.musaeum.c01a003': ['Honey Magazine -  Free otome dating game', '8870354335175025739', '100,000+', 'http://honeymagazine.net/en/', 'sap@okko.jp']}
+{'com.gni.deathstair.carspeed.crash.drive': ['Beam Drive NG Death Stairs Car Crashs', 'Gaming+Zoone+Inc', '1,000+', 'https://sites.google.com/view/gaming-zoone-inc', 'gamingzoone.inc@gmail.com']}
+{'com.streetracing.drift.fast.speed.road': ['Extreme Highway Racing 3D', 'Survival+Shooting+Game', '10,000+', 'http://policy.destressgame.com/privacy.html', 'hjwhdheuinnwiecn2@gmail.com']}
+{'com.kongregate.mobile.payday.google': ['Idle Payday: Fast Money', '7580247376460930437', '100,000+', 'http://www.kongregate.com', 'help@idlepayday.zendesk.com']}
+{'com.i6.RaceCarflying3D': ['Flying Car 3D', '8702197959022172025', '10,000,000+', 'http://i6games.net/', 'support@i6games.net']}
+{'com.kidga.quadris': ['Quadris®: draw Block Puzzle', '6924435167672710117', '10,000,000+', 'http://kidga.com', 'kidga.com@gmail.com']}
+{'com.budgestudios.googleplay.BarbieDreamhouse': ['Barbie Dreamhouse Adventures', '7489594886728593506', '5,000,000+', 'http://www.budgestudios.com', 'support@budgestudios.ca']}
+{'com.turborocketgames.dogsim': ['Dog Sim Online: Raise a Family', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com', 'support@turborocketgames.com']}
+{'com.turborocketgames.catsim': ['Cat Sim Online: Play with Cats', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com/extra/privacypolicy.htm', 'support@turborocketgames.com']}
+{'com.CONTINUE.TapTapDino': ['Tap Tap Dino : Grow my dino', '5488420915804624890', '100,000+', 'https://www.facebook.com/CONTINUE.ship/', 'continue.ship@gmail.com']}
+{'br.com.tapps.cookbookmaster': ['Cookbook Master - Master Your Chef Skills!', '6615809648420562690', '10,000,000+', 'http://tappsgames.com', 'user.support+cookbookmaster@tappsgames.com']}
+{'com.trendygames.DutyDriverFiretruckLITE': ['Duty Driver Firetruck LITE', 'Trendy+Games+3D', '1,000,000+', 'http://www.trendy-games.com', 'info@trendy-games.com']}
+{'com.cg.eurotruckcitydriver': ['Euro Truck City Driver', 'Chop+Games', '1,000+', 'https://docs.google.com/document/d/10fKkOj4Ih30qufQAbqpsNz81xyPTjfHVWZKAcNpHx3s/edit', 'nanthan.zeus@gmail.com']}
+{'com.onetongames.bmho': ['Bigfoot Monster Hunter Online', '9176665870943617333', '100,000+', 'https://goo.gl/DsGbru', 'status-nsk@mail.ru']}
+{'com.ea.games.simsfreeplay_na': ['The Sims™ FreePlay', '6605125519975771237', '10,000,000+', 'http://www.firemonkeys.com.au/support%20', 'help@eamobile.com']}
+{'com.teumil.excavatorsimulator': ['Excavator Real Simulator - Building Constructions', 'Teumil+Games', '500+', 'https://teumilgames.blogspot.com/2019/02/teumil-games-privacy-policy.html', 'truonglinusthai@gmail.com']}
+{'com.acoingames.Idle.drivein': ['Drive In! -  Idle Tapper Game', '7278979865059427874', '100,000+', 'http://www.acoingames.com/privacypolicy/', 'feedback@acoingames.com']}
+{'air.com.pixelfederation.seaport.explore.collect.trade': ['Seaport - Explore, Collect & Trade', '7566304266577611559', '5,000,000+', 'https://pxfd.co', 'support@seaportgame.com']}
+{'it.rortos.realflight': ['Airline Commander - A real flight experience', '8013171132272394676', '5,000,000+', 'http://www.rortos.com', 'airlinecommander@rortos.com']}
+{'com.tivola.wildlife.free': ['PetWorld - WildLife America', '8927372468482477196', '1,000,000+', 'http://www.tivola-mobile.com/en/animal-games/wildlife-america/', 'apps@tivola.de']}
+{'com.game2019.EpicBattlegame': ['TABSgame', 'NgaLT', '100+', None, 'ngalt1385@gmail.com']}
+{'com.codebrewgames.pocketcitygame': ['Pocket City', '6900076921334958304', '100,000+', 'https://www.pocketcitygame.com', 'bobbylidev@gmail.com']}
+{'com.rappidstudios.simulatorbattle': ['Epic Battle Simulator', '6969262566755058206', '10,000,000+', 'http://www.rappidstudios.com/index.php/privacy-policy', 'rappidstudios@gmail.com']}
+{'com.WogerGames.StickmanAnnihilationII': ['Stickman Annihilation II', 'Woger+Games', '100+', 'https://wogergames.github.io/StickmanAnnihilationII/', 'w40kserj@gmail.ru']}
+{'com.ction.playergames': ['2 3 4 Player Mini Games', 'Better+World+Games', '5,000,000+', 'https://4playergames.wordpress.com/policy-bwg/', 'gamesofzen@gmail.com']}
+{'com.edujoy.Dinosaur_pet': ['Virtual Pet: Dinosaur life', 'AppQuiz', '1,000,000+', 'http://www.edujoy.es', 'edujoy@edujoy.es']}
+{'com.vade.raftOnline': ['Raft Survival: Multiplayer', 'VADE', '1,000,000+', 'https://goo.gl/wvtN9F', 'vadestudio@gmail.com']}
+{'com.parkingcity.drivingcar': ['Car Driving: Parking Simulator Master', 'Popular+Studio+Data', '10,000+', 'https://sites.google.com/view/popularstudiodataprivacypolicy/trang-ch%E1%BB%A7', 'populartudio@gmail.com']}
+{'com.kidgames.little.dentist': ['Little Dentist: Kids Dentist Game', 'Little+Clinic+Games', '50,000+', 'http://www.ashleytech.com/privacy.php', 'keifattsewing@gmail.com']}
+{'br.com.tapps.myvirtualpetshop': ['My Virtual Pet Shop - Cute Animal Care Game', '6615809648420562690', '10,000,000+', 'http://tappsgames.com', 'user.support+myvirtualpetshop@tappsgames.com']}
+{'air.com.dryginstudios.bioinc': ['Bio Inc - Biomedical Plague and rebel doctors.', 'DryGin+Studios', '10,000,000+', 'http://www.playbioinc.com', 'info@dryginstudios.com']}
+{'com.plexonic.digmaster': ['Dig Master', 'Applecheer+Studio', '10,000+', 'https://plexonic.com', 'info@plexonic.com']}
+{'com.vousaimrayou.gamesimoofree': ['Live Chat With Siwa jojo. Simulation', 'LeahJohansen', '50,000+', None, 'LeahJohansen@outlook.de']}
+{'com.pen.cargo.tycon.transporter': ['Airplane Ship Truck Cargo Car Transporter Game', 'Pentabit+Games', '50,000+', 'http://www.pentabitstudios.com/privacy_policy.php', 'pentabitgames@gmail.com']}
+{'com.voltage.lovestruck.ggl.en': ['Lovestruck Choose Your Romance', '7309478564074899011', '1,000,000+', 'http://www.voltage-ent.com/', 'lovestruck@voltageent.zendesk.com']}
+{'br.com.tapps.mymonsterhouse': ['My Monster House - Make Beautiful Dollhouses', '6615809648420562690', '1,000,000+', 'http://tappsgames.com', 'contact@tappsgames.com']}
+{'com.bud.farm.green.idle.khalifa.hempire': ['Bud Farm Idle - Hempire Farm Growing Tycoon', 'Lunaweedy', '10,000+', 'https://sites.google.com/view/weedfarmidle/trang-ch%E1%BB%A7', 'chickrice2288@gmail.com']}
+{'com.vizorapps.klondike': ['Klondike Adventures', '8530020481101400394', '5,000,000+', 'http://www.vizor-interactive.com', 'klonmobile.support@vizor-apps.com']}
+{'com.okdone.osgbvip': ['Super God Blade VIP : Spin the Ultimate Top!', 'OK+DONE', '10,000+', 'https://sites.google.com/view/okdone-game-gdpr-us', 'okdone.game@gmail.com']}
+{'com.zakg.scaryteacher.hellgame': ['Scary Teacher 3D', 'Z+%26+K', '1,000,000+', 'http://www.gvois.com', 'gvoiszubi@gmail.com']}
+{'com.free.mock.driving': ['Master Drive Car Simulator', 'kixstudio', '5,000+', 'https://sites.google.com/view/kixstudio-privacy-policy/trang-ch%E1%BB%A7', 'kixstudio2612.gdy@gmail.com']}
+{'com.saaayiyms.aysious': ['Chat Contact With Jojo siwa Hi! - Prank', 'IMANYAPP', '100+', 'https://docs.google.com/document/u/0/d/10V7AZMJV2d-U0_q9Nt3Ixg8x2Kmd_Xn_7OBNCphVr7k', 'idyafaad4213@outlook.com']}
+{'com.sakamrims.ahlammtious': ['Chat Contact Siwa JoJo - Hello Prank', 'IMANYAPP', '100+', 'https://docs.google.com/document/u/0/d/10V7AZMJV2d-U0_q9Nt3Ixg8x2Kmd_Xn_7OBNCphVr7k/edit', 'idyafaad4213@outlook.com']}
+{'com.frismos.dogworld': ['Dog Town: Pet Shop Game, Care & Play with Dog', '8858034574306643292', '1,000,000+', 'http://frismos.com', 'gamesupport@frismos.com']}
+{'com.survivalgames.zombie.raft': ['Zombie Raft 3D', '7361099981261426713', '1,000+', 'https://survivalgamesmobile.blogspot.ru', 'survivalgames.mobile@gmail.com']}
+{'com.multicraft.building.adventure': ['MultiCraft: Building Adventure', 'LiteGame', '1,000+', 'https://www.appodeal.com/home/ru/privacy-policy/', 'steve.morris1877@gmail.com']}
+{'com.free.fun.zone.games.santa.christmas.infinite.track.extreme': ['Santa Christmas Infinite Track Extreme', '6932944139381610797', '1,000+', 'https://sites.google.com/site/freefunzonegames123/home', 'freefunzonegames@gmail.com']}
+{'com.loadcomplete.marimo': ['Marimo League : Be almighty and watch combats', '7286743576877731641', '50,000+', 'http://www.loadcomplete.com', 'macaronhelp@loadcomplete.com']}
+{'com.tatemgames.dreamgym': ['My Gym: Fitness Studio Manager', 'Tatem+Games+Inc.', '1,000,000+', 'http://www.tatemgames.com', 'info@tatemgames.com']}
+{'com.tapfree.surgeonsim.doctor.jobsimulator': ['Surgeon Doctor 2018 : Virtual Job Sim', 'Tap2Play,+LLC+%28Ticker:+TAPM%29', '500,000+', 'http://tapinator.com', 'tap2play@tapinator.com']}
+{'com.milliongames.russiantrainsimulator': ['Russian Train Simulator', 'Million+games', '5,000,000+', 'http://www.milliongames.net', 'milliongamesnew@gmail.com']}
+{'com.socialquantum.west3dint': ['Wild West: New Frontier. Build your super farm.', '6752757042013862878', '1,000,000+', 'http://www.socialquantum.com', 'wildwest@socialquantum.com']}
+{'com.zelin.home.design.decor.builder.makeover': ['Dream Home Designer - Design Your Home 3D', 'FingerTouch+Games', '50,000+', 'http://fingertouchgames.blog.sohu.com/326310572.html', 'zelin0214@gmail.com']}
+{'com.lionstudios.ballsmasher': ['Ball Smasher', '6990178528646658622', '5,000+', 'http://lionstudios.cc', 'hello@lionstudios.cc']}
+{'com.procyon.propilkki': ['Pro Pilkki 2 - Ice Fishing Game', 'Procyon+Products', '100,000+', 'http://kalassa.net/propilkki/in-english/', 'propilkki@gmail.com']}
+{'com.craftpink.buildingmini.crafftingnew': ['Build Craft 3D - Pink Craft Simulator 2019', 'pipinyo.studioz', '10,000+', 'https://sites.google.com/view/pipinyo/beranda', 'devven1989@gmail.com']}
+{'com.bellapps.realliedetector': ['Real Lie Detector Simulator', 'BellApps', '1,000,000+', 'https://docs.google.com/document/d/16tgZKNojbqjF52vrLjInMkmOuufdo64j34gYB9aTxL8/edit?usp=sharing', 'bellappsgames@gmail.com']}
+{'com.happylabs.hotelstory': ['Hotel Story: Resort Simulation', '5211519071117278745', '10,000,000+', 'http://happylabs.weebly.com', 'support@happylabsfree.com']}
+{'com.codigames.idle.harbor.tycoon': ['Idle Harbor Tycoon - Incremental Clicker Game', '6768033056419806404', '50,000+', 'http://codigames.com', 'support+harbor@codigames.com']}
+{'com.happylabs.magic': ['Magic School Story', '5211519071117278745', '500,000+', 'https://happylabs.weebly.com/', 'ashley@happylabsfree.com']}
+{'com.gtactiongames.bikestuntchallenge': ['Bike Stunt Challenge', 'GT+Action+Games', '100,000+', 'http://www.gtactiongames.com', 'gtactiongames@gmail.com']}
+{'com.okdone.osgbvip': ['Super God Blade VIP : Spin the Ultimate Top!', 'OK+DONE', '10,000+', 'https://sites.google.com/view/okdone-game-gdpr-us', 'okdone.game@gmail.com']}
+{'com.roasterygames.smartphonetycoonnew': ['Smartphone Tycoon', '8452274342341551246', '500+', None, 'roasterygames@gmail.com']}
+{'game.LRTH.RustBuilder': ['Rust Builder', 'LR+%26+TH', '50+', None, 'lrth.dev@gmail.com']}
+{'com.AndreyMelnikov.DRS': ['DRS Pro', '5581031155927747193', '10+', 'https://docs.google.com/document/d/1rTG_JOa-o1PY7MrSjd0xWor3n3kO5Ual68cdWTvHzxU/edit?usp=sharing', 'gbandrewgb@gmail.com']}
+{'com.HatSimulator2': ['Hat Simulator 2 - TF2 Trade Parody', '6111867115345465020', '100+', 'https://github.com/supertoaster230/ToastyCo-Games/blob/master/Privacy%20Policy%20Hat%20Simulator', 'toastycogames@gmail.com']}
+{'com.raultruji3d.amorexpress': ['Love Express Simulator - Funfair Amusement Parks', '5147551861509181326', '100+', 'https://sites.google.com/view/bestridesimulators/p%C3%A1gina-principal', 'cuentas.brs@gmail.com']}
+{'synthesis.game.fishing2.full': ['Fishing PRO 2 (full) - fishing simulator with chat', 'Synthesis', '50+', 'http://x-id.ru/pp.txt', 'x@x-id.ru']}
+{'com.honeydew.cattown': ['Cat town (Tap RPG)', '5460269513463294960', '5,000+', 'http://goo.gl/QEBmRC', 'Honeydew1853@gmail.com']}
+{'com.jt.dateaclima': ['Date a clima!', 'Josu%C3%A9+Takanori', '5+', 'http://www.dateaclima.com', 'josue.takanori@gmail.com']}
+{'com.OnlyHuman.Ensign2vr': ['Symphony of Stars VR', 'Only+Human+Studios', '1+', 'https://www.onlyhumanstudios.net/', 'onionman77@gmail.com']}
+{'com.nintendo.zaba': ['Fire Emblem Heroes', '7277267556905944956', '5,000,000+', 'https://fire-emblem-heroes.com/', 'fire-emblem-heroes-support@nintendo.co.jp']}
+{'com.crowdstar.covetHome': ['Design Home', 'Crowdstar+Inc', '10,000,000+', 'http://www.covetfashion.com/', 'designhelp@crowdstar.com']}
+{'com.pixelberrystudios.choices': ['Choices: Stories You Play', 'Pixelberry', '10,000,000+', 'http://www.pixelberrystudios.com/', 'googleplay@pixelberrystudios.com']}
+{'com.vizorapps.klondike': ['Klondike Adventures', '8530020481101400394', '5,000,000+', 'http://www.vizor-interactive.com', 'klonmobile.support@vizor-apps.com']}
+{'in.loop.hdmakeover': ['Home Design Makeover', '8843836569947671195', '5,000,000+', 'http://www.storm8.com', 'support@storm8.com']}
+{'com.tensquaregames.letsfish2': ['Fishing Clash: Catching Fish Game. Bass Hunting 3D', '6837340316160309504', '10,000,000+', 'https://tensquaregames.com', 'support.fishingclash@tensquaregames.com']}
+{'com.gameloft.android.ANMP.GloftDYHM': ['Disney Magic Kingdoms: Build Your Own Magical Park', '6258770168633898802', '10,000,000+', 'http://www.gameloft.com/en/privacy-notice', 'android.support@gameloft.com']}
+{'org.nanobit.mystory': ['My Story: Choose Your Own Path', '7360657040509169450', '5,000,000+', 'http://www.nanobit.co', 'support@nanobitsoftware.com']}
+{'es.socialpoint.MonsterLegends': ['Monster Legends', '7129773085119877408', '50,000,000+', 'http://www.socialpoint.es', 'info@socialpoint.es']}
+{'com.ea.game.simcitymobile_row': ['SimCity BuildIt', '6605125519975771237', '50,000,000+', 'http://help.ea.com/en/simcity/simcity-buildit/', 'help@eamobile.com']}
+{'es.socialpoint.DragonCity': ['Dragon City', '7129773085119877408', '100,000,000+', 'http://www.socialpoint.es', 'info@socialpoint.es']}
+{'com.episodeinteractive.android.catalog': ['Episode - Choose Your Story', 'Episode+Interactive', '50,000,000+', 'https://pocketgems.com/episode/', 'episode.support@pocketgems.zendesk.com']}
+{'com.fluffyfairygames.idleminertycoon': ['Idle Miner Tycoon', '5820359406133218754', '10,000,000+', 'http://www.idleminertycoon.com/', 'community@idleminertycoon.com']}
+{'com.nintendo.zaca': ['Animal Crossing: Pocket Camp', '7277267556905944956', '10,000,000+', 'https://ac-pocketcamp.com/', 'ac-pocketcamp-support@nintendo.co.jp']}
+{'com.eastsidegames.trailerparkboys': ['Trailer Park Boys: Greasy Money', '6575683316809605197', '1,000,000+', 'http://www.tpbgame.com/', 'support@tpbgame.zendesk.com']}
+{'com.mytona.cookingdiary.android': ['Cooking Diary®: Best Tasty Restaurant & Cafe Game', '7113793892978047717', '1,000,000+', 'https://mytona.com', 'support.cookingdiary@mytona.com']}
+{'com.ea.games.simsfreeplay_na': ['The Sims™ FreePlay', '6605125519975771237', '10,000,000+', 'http://www.firemonkeys.com.au/support%20', 'help@eamobile.com']}
+{'com.langqi.myshoppingmall': ['Design My Room', 'NPOL+GAME', '500,000+', 'http://www.nutspower.com', 'kunlunnuhtx@gmail.com']}
+{'com.zynga.FarmVilleTropicEscape': ['FarmVille: Tropic Escape', '6690081412016968981', '10,000,000+', 'https://zyngasupport.helpshift.com/a/farmville-tropic-escape/?l=n', 'android.support@zynga.com']}
+{'ca.lbcstudios.hempire': ['Hempire - Plant Growing Game', '5989078646951806928', '5,000,000+', 'http://hempiregame.com', 'support@lbcstudios.ca']}
+{'com.ludia.dragons': ['Dragons: Rise of Berk', 'Ludia+Inc.', '10,000,000+', 'http://www.ludia.com', 'support@ludia.com']}
+{'com.gameloft.android.ANMP.GloftDOHM': ['Dragon Mania Legends', '6258770168633898802', '50,000,000+', 'http://www.gameloft.com/', 'android.support@gameloft.com']}
+{'com.ea.gp.simsmobile': ['The Sims™ Mobile', '6605125519975771237', '10,000,000+', 'http://www.ea.com/android', 'help@eamobile.com']}
+{'com.ludia.jurassicworld': ['Jurassic World™: The Game', 'Ludia+Inc.', '10,000,000+', 'http://www.ludia.com', 'support+jurassicworld@ludia.com']}
+{'com.kongregate.mobile.adventurecommunist.google': ['AdVenture Communist', '7580247376460930437', '1,000,000+', 'http://hyperhippogames.com/', 'adventurecommunist@hyperhippo.ca']}
+{'com.miniclip.plagueinc': ['Plague Inc.', '5933611429942957630', '50,000,000+', 'http://www.miniclip.com/', 'support@miniclip.com']}
+{'com.codigames.market.idle.tycoon': ['Idle Supermarket Tycoon - Tiny Shop Game', '6768033056419806404', '1,000,000+', 'http://codigames.com', 'support+ist@codigames.com']}
+{'jp.co.cybird.appli.android.sgk.en': ['Ikemen Sengoku:Otome Game', '8278990351028394215', '500,000+', 'https://ikemen-series.com', 'sge01@support.cybird.ne.jp']}
+{'com.voltage.lovestruck.ggl.en': ['Lovestruck Choose Your Romance', '7309478564074899011', '1,000,000+', 'http://www.voltage-ent.com/', 'lovestruck@voltageent.zendesk.com']}
+{'com.gameinsight.tribez': ['The Tribez: Build a Village', '6367901761320314739', '10,000,000+', 'https://gameinsight.helpshift.com/a/the-tribez/', 'support_tribez@game-insight.com']}
+{'com.brokenreality.bigcapitalist3.android': ['The Big Capitalist 3', 'Broken+Reality', '1,000,000+', 'https://brokenrealityapp.wordpress.com', 'lingzilau@gmail.com']}
+{'com.backflipstudios.android.dragonvale': ['DragonVale', 'Backflip+Studios', '10,000,000+', 'http://www.backflipstudios.com', 'androidsupport@backflipstudios.com']}
+{'com.vizorinteractive.zombiesettlersv2': ['Zombie Castaways', '8530020481101400394', '10,000,000+', 'http://www.vizor-interactive.com', 'zs@vizor-interactive.com']}
+{'se.ace.fishinc': ['Hooked Inc: Fisher Tycoon', '6990178528646658622', '10,000,000+', 'http://www.lionstudios.cc', 'acedev@lionstudios.cc']}
+{'com.innogames.elvenar': ['Elvenar', '8874025902646436777', '1,000,000+', 'http://www.innogames.com', 'elvenar.android@support.innogames.com']}
+{'com.gamegos.mobile.cafeland': ['Cafeland - World Kitchen', '5137364340371948270', '10,000,000+', 'http://www.gamegos.com', 'mobile@gamegos.com']}
+{'com.bethsoft.falloutshelter': ['Fallout Shelter', 'Bethesda+Softworks+LLC', '10,000,000+', 'http://fallout.bethsoft.com', 'falloutshelterhelp@mail.bethesda.net']}
+{'air.com.pixelfederation.seaport.explore.collect.trade': ['Seaport - Explore, Collect & Trade', '7566304266577611559', '5,000,000+', 'https://pxfd.co', 'support@seaportgame.com']}
+{'com.atari.mobile.rctempire': ['RollerCoaster Tycoon Touch - Build your Theme Park', 'Atari,+Inc.', '5,000,000+', 'https://www.facebook.com/RollerCoasterTycoonTouch', 'support@atari.mail.helpshift.com']}
+{'com.bigbluebubble.singingmonsters.full': ['My Singing Monsters', '4772512400666501557', '10,000,000+', 'https://www.bigbluebubble.com/home/games/my-singing-monsters-series/my-singing-monsters/', 'mysingingmonsters@bbbsupport.com']}
+{'com.ndemiccreations.rebelinc': ['Rebel Inc.', '7468463311589977937', '100,000+', 'http://www.ndemiccreations.com', 'googleplay@ndemiccreations.com']}
+{'com.kongregate.mobile.adventurecapitalist.google': ['AdVenture Capitalist', '7580247376460930437', '10,000,000+', 'http://hyperhippogames.com/', 'adventurecapitalist@hyperhippo.ca']}
+{'com.spilgames.OperateNow2': ['Operate Now: Hospital', '8077753437082489031', '10,000,000+', 'http://spilgames.com', 'support@operatenow.com']}
+{'com.socialquantum.west3dint': ['Wild West: New Frontier. Build your super farm.', '6752757042013862878', '1,000,000+', 'http://www.socialquantum.com', 'wildwest@socialquantum.com']}
+{'com.TironiumTech.IdlePlanetMiner': ['Idle Planet Miner', 'Iron+Horse+Games+LLC', '100,000+', 'http://www.ironhorsegames.org', 'tironiumtech@gmail.com']}
+{'com.nixhydragames.thearcana': ['The Arcana - A Mystic Romance', '7636427315709631344', '500,000+', 'http://www.nixhydra.com', 'arcana@nixhydragames.com']}
+{'jp.ne.ambition.googleplay_nizikano2d_glb': ['Dream Girlfriend', '4685636909317788836', '1,000,000+', 'http://dreamgirlf.com/', 'info@us.nizikano-2d.jp']}
+{'com.voltage.g.hykoi.en': ['Love 365: Find Your Story', 'Voltage,+Inc.', '500,000+', 'http://www.voltage.co.jp/', 'hykoi_en_ggl@inq.voltage.co.jp']}
+{'com.grumpyrhinogames.idleapocalypse': ['Idle Apocalypse', 'Iron+Horse+Games+LLC', '1,000,000+', 'http://www.grumpyrhinogames.com', 'support@grumpyrhino.com']}
+{'com.fungi.houseflip': ['House Flip with Chip and Jo', '6434255648460618635', '1,000,000+', 'https://www.fun-gi.com', 'community@fun-gi.com']}
+{'com.candywriter.bitlife': ['BitLife - Life Simulator', '8094408836964062012', '1,000,000+', 'http://www.candywriter.com', 'support@bitlifeapp.com']}
+{'air.com.pixelfederation.TrainStationGame': ['TrainStation - Game On Rails', '7566304266577611559', '10,000,000+', 'http://www.pixelfederation.com', 'support@trainstationgame.com']}
+{'com.brokenreality.planemerger.android': ['Merge Plane - Click & Idle Tycoon', 'Merger+Games', '50,000,000+', 'https://mergergame362679235.wordpress.com/', 'merger.e.games@gmail.com']}
+{'com.belkatechnologies.fe': ['Funky Bay - Farm & Adventure game', '4845317959578407531', '1,000,000+', 'https://www.facebook.com/funkybay/', 'funky-bay-gp@belkatechnologies.com']}
+{'com.swagmasha.genres': ['Love Sick: Interactive Stories', '7594184611184681419', '100,000+', 'http://swagmasha.com', 'android-support@swagmasha.com']}
+{'com.airgames.bbw': ['Big Barn World Social Farming', '9006258696511891543', '100,000+', 'http://airgames.airg.com/bbw5', 'support@airgames.com']}
+{'chimp.works.td4': ['Power Painter', 'ChimpWorks', '1,000,000+', 'http://www.chimpworksgames.com', 'support@chimpworksgames.com']}
+{'com.zenjoy.cookingstreet': ['Cooking Joy 2', 'Top+Girl+Games', '1,000,000+', 'http://www.zentertain.net', 'zentertain.ltd@gmail.com']}
+{'com.evilclicker.evilclicker': ['Idle Evil — Clicker & Simulator', 'AppQuantum', '500,000+', 'http://appquantum.com', 'support@appquantum.com']}
+{'jp.co.cybird.appli.android.als.en': ['Ikemen Revolution: Otome Game', '8278990351028394215', '100,000+', 'https://www.ikemen-series.com/', 'aes01@support.cybird.ne.jp']}
+{'com.futureplay.boots': ['Idle Farming Empire', '9170985961245337722', '10,000,000+', 'http://www.futureplaygames.com', 'support@futureplaygames.com']}
+{'com.gameinsight.tribez3gp': ['Trade Island', '6367901761320314739', '1,000,000+', 'https://gameinsight.helpshift.com/a/trade-island/', 'support_tradeisland@game-insight.com']}
+{'com.tensquaregames.huntmobile': ['Wild Hunt:Sport Hunting Games. Hunter & Shooter 3D', '6837340316160309504', '10,000,000+', 'https://tensquaregames.com', 'support.wildhunt@tensquaregames.com']}
+{'com.voltage.joshige.tenka.en': ['Samurai Love Ballad: PARTY', 'Voltage,+Inc.', '500,000+', 'http://www.voltage.co.jp/', 'tenka_en_j@inq.voltage.co.jp']}
+{'com.alexanderwinn.TerraGenesis': ['TerraGenesis - Space Settlers', '5479878731323183535', '5,000,000+', 'https://www.facebook.com/TerraGenesisGame', 'support@terragenesisgame.com']}
+{'com.supersolid.spark': ['Home Street – Home Design Game', 'Supersolid', '10,000,000+', 'http://www.supersolid.com', 'support@supersolid.com']}
+{'com.creativemobile.zc': ['ZooCraft: Animal Family', '7583627084840572844', '5,000,000+', 'http://www.creative-mobile.com', 'support@creative-mobile.com']}
+{'com.playkot.supercity': ['SuperCity: Building game', 'Playkot+LTD', '1,000,000+', 'https://en.playkot.com/game/supercity', 'support@playkot.mail.helpshift.com']}
+{'com.auxbrain.egginc': ['Egg, Inc.', 'Auxbrain+Inc', '10,000,000+', 'http://www.auxbrain.com', 'press@auxbrain.com']}
+{'com.nutsplay.abugslife.android': ['A Bug’s Home', 'NPOL+GAME', '100,000+', 'http://www.weyoustudio.com', 'sofoolsocool@gmail.com']}
+{'com.backflipstudios.android.dragonvale2': ['DragonVale World', 'Backflip+Studios', '1,000,000+', 'http://www.backflipstudios.com', 'androidsupport@backflipstudios.com']}
+{'com.gameinsight.airport': ['Airport City', '6367901761320314739', '10,000,000+', 'http://www.game-insight.com/support/android?game=airport-city', 'support_airportcity@game-insight.com']}
+{'com.Cheritz.MysticMessenger': ['Mystic Messenger', 'Cheritz+Co.,+Ltd', '1,000,000+', 'http://msg.cheritz.com/', 'support@cheritz.com']}
+{'air.com.kitchenscramble.goo': ['Kitchen Scramble: Cooking Game', 'PopReach+Incorporated', '10,000,000+', 'https://popreach.com/', 'support@popreach.com']}
+{'junkyardtycoon.business.tycoon.game': ['Junkyard Tycoon - Car Business Simulation Game', '4826182024925534786', '1,000,000+', 'http://www.junkyardtycoon.com', 'support@junkyardtycoon.com']}
+{'com.fds.infiniteflight': ['Infinite Flight - Flight Simulator', 'Infinite+Flight+LLC', '500,000+', 'https://infiniteflight.com', 'hello@infiniteflight.com']}
+{'com.metamoki.weed': ['Weed Inc: Idle Tycoon', '6380945586035889122', '1,000,000+', 'http://www.metamoki.com', 'support@metamoki.com']}
+{'com.supersolid.honestfood': ['Food Street - Restaurant Management & Food Game', 'Supersolid', '5,000,000+', 'http://www.supersolid.com', 'support@supersolid.com']}
+{'com.teamlava.farmthree': ['Farm Story 2', '8843836569947671195', '5,000,000+', 'http://www.storm8-studios.com', 'support@storm8.com']}
+{'com.turner.pocketmorties': ['Rick and Morty: Pocket Mortys', '%5Badult+swim%5D+games', '10,000,000+', 'http://www.adultswim.com/games/pocket-mortys/', 'adultswimdotcom@gmail.com']}
+{'it.rortos.realflight': ['Airline Commander - A real flight experience', '8013171132272394676', '5,000,000+', 'http://www.rortos.com', 'airlinecommander@rortos.com']}
+{'com.gamecircus.tycoon': ['Taps to Riches', '5517637428189447271', '10,000,000+', 'http://gamecircus.com', 'support@gamecircus.com']}
+{'com.wiz.weed.game': ["Wiz Khalifa's Weed Farm", '6380945586035889122', '1,000,000+', 'http://support.metamoki.com/hc/en-us', 'support@metamoki.com']}
+{'com.kongregate.mobile.pocketpolitics.google': ['Pocket Politics: Idle Money', '7580247376460930437', '1,000,000+', 'http://www.kongregate.com', 'support@pocketpolitics.zendesk.com']}
+{'com.fluffyfairygames.idlefactorytycoon': ['Idle Factory Tycoon', '5820359406133218754', '5,000,000+', 'https://www.idle-factory-tycoon.com/', 'community@idle-factory-tycoon.com']}
+{'net.isitlove.cartercorp.ryan': ['Is-it Love? Ryan: Choose your story – Otome Games', '7930656545935917988', '1,000,000+', 'http://1492.io', 'support@1492.io']}
+{'com.fungames.blockcraft': ['Block Craft 3D: Building Simulator Games For Free', '8186084684070471579', '50,000,000+', 'https://www.fungames-forfree.com/games/blockcraft', 'support+blockcraftandroid@fungames-forfree.com']}
+{'com.giantssoftware.fs18.google': ['Farming Simulator 18', 'GIANTS+Software', '500,000+', 'http://www.farming-simulator.com/contact.php', 'support@giants-software.com']}
+{'com.playway.cms2017': ['Car Mechanic Simulator 18', 'PlayWay+SA', '10,000,000+', 'http://www.playway.com', 'cms@eccgames.com']}
+{'fi.bongames.transitking': ['Transit King Tycoon  – Transport Empire Builder', '8899778280377930083', '1,000,000+', 'http://bongames.fi/', 'transitking@bongames.fi']}
+{'jp.arismile.a1a348': ['Wicked Wolves', 'arithmetic+love+series', '100,000+', 'http://www.arith-metic.jp/privacy-policy/', '2d_boyfriends@arith-metic.jp']}
+{'com.spheregamestudios.designercity': ['Designer City: building game', '5640292770246134663', '1,000,000+', 'http://www.spheregamestudios.com', 'support@spheregamestudios.com']}
+{'org.ironhorsegames.taptapdig': ['Tap Tap Dig - Idle Clicker Game', 'Iron+Horse+Games+LLC', '1,000,000+', 'http://www.ironhorsegames.org', 'contact@ironhgames.com']}
+{'block.app.wars': ['Block City Wars: Pixel Shooter with Battle Royale', 'D-Games+Apps', '10,000,000+', 'http://d-games.pro', 'blockcity3d@gmail.com']}
+{'com.activision.peanuts': ["Snoopy's Town Tale - City Building Simulator", '5313314117424352644', '1,000,000+', 'https://snoopy.helpshift.com/', 'snoopy@pixowl.com']}
+{'com.gameinsight.thetribezcastlez': ['The Tribez & Castlez', '6367901761320314739', '1,000,000+', 'https://gameinsight.helpshift.com/a/the-tribez-castlez/', 'support_tribezandcastles@game-insight.com']}
+{'com.bigfishgames.sunkensecretsgooglef2p': ['Sunken Secrets', '8355317828905497231', '1,000,000+', 'http://www.bigfishgames.com', 'info@bigfishgames.com']}
+{'com.grampus.cookingadventure': ['Cooking Adventure™', 'Cheetah+Games', '1,000,000+', 'http://www.grampus.co', 'cookingadventure@conew.com']}
+{'com.parking.game': ['Drive and Park', 'SayGames', '10,000,000+', 'http://saygames.by', 'saygames.by@gmail.com']}
+{'com.ludia.jurassicpark': ['Jurassic Park™ Builder', 'Ludia+Inc.', '10,000,000+', 'http://support.ludia.com', 'support@ludia.com']}
+{'net.isitlove.cartercorp.adam': ['Is it Love? - Adam - Story with Choices', '7930656545935917988', '1,000,000+', 'http://www.isitlove.net', 'studio@1492.io']}
+{'com.Playrion.AirlinesManager2': ['Airlines Manager - Tycoon 2018', '6457893425161276771', '1,000,000+', 'http://www.airlines-manager.com', 'marion@airlines-manager.com']}
+{'com.budgestudios.googleplay.BarbieDreamhouse': ['Barbie Dreamhouse Adventures', '7489594886728593506', '5,000,000+', 'http://www.budgestudios.com', 'support@budgestudios.ca']}
+{'com.giantssoftware.fs14': ['Farming Simulator 14', 'GIANTS+Software', '50,000,000+', 'http://www.farming-simulator.com/contact.php', 'support@giants-software.com']}
+{'com.coffeestainstudios.goatsimulator': ['Goat Simulator', 'Coffee+Stain+Publishing', '1,000,000+', 'http://www.coffeestainstudios.com', 'android-contact@coffeestainstudios.com']}
+{'com.turner.amateursurgeon4': ['Amateur Surgeon 4', '%5Badult+swim%5D+games', '1,000,000+', 'http://adultswim.com', 'adultswimdotcom@gmail.com']}
+{'com.mobage.ww.a1912.Godus_Android': ['Godus', '22cans', '5,000,000+', 'http://www.22cans.com', 'godus@22cans.com']}
+{'com.funplus.townkins.global': ['Townkins: Wonderland Village', '8152171058994793947', '500,000+', 'https://www.facebook.com/Townkins/', 'contact_townkins@funplus.com']}
+{'com.heatherglade.zero2hero': ['From Zero to Hero: Cityman', '6278992450769799939', '1,000,000+', 'http://heatherglade.com/', 'support@zerotohero.game']}
+{'com.dreamplay.underworld.google': ['Underworld : The Shelter', '4791840901148567689', '500,000+', 'https://www.facebook.com/DreamplayIndieZone/', 'help@dreamplaygames.co.kr']}
+{'com.kongregate.mobile.thetrail.google': ['The Trail', '7580247376460930437', '5,000,000+', 'http://www.kongregate.com', 'support@22canshelp.zendesk.com']}
+{'com.pixelberrystudios.hssandroid': ['High School Story', 'Pixelberry', '10,000,000+', 'http://www.pixelberrystudios.com/', 'help@pixelberrystudios.com']}
+{'com.bowengames.farmingusa2': ['Farming USA 2', '6833224340303003178', '10,000+', 'http://www.bowengames.com', 'mbowen@bowengames.com']}
+{'com.LDRLY.budfarm420': ['Bud Farm: 420', 'LDRLY+Games', '100,000+', 'http://www.ldrlygames.io', 'support@budfarm420.zendesk.com']}
+{'com.uplayonline.youtubers': ['Youtubers Life: Gaming Channel', '4879986113139967562', '100,000+', 'http://www.youtuberslife.com', 'youtuberslife@uplayonline.com']}
+{'com.mkarpenko.worldbox': ['WorldBox - Sandbox God Simulator', '8666936964019499600', '100,000+', 'http://www.mkarpenko.org/', 'm.kendja@gmail.com']}
+{'com.runawayplay.starlight': ['Flutter: Starlight', '8595612636029949156', '1,000,000+', 'http://runawayplay.com', 'support@runawayplay.mail.helpshift.com']}
+{'com.runawayplay.furistascatcafe': ['Furistas Cat Cafe', '8595612636029949156', '1,000,000+', 'http://runawayplay.com', 'support@runawayplay.mail.helpshift.com']}
+{'com.rappidstudios.simulatorbattlephysics': ['Epic Battle Simulator 2', '6969262566755058206', '10,000,000+', 'http://rappidstudios.com', 'rappidstudios@gmail.com']}
+{'jp.ne.ambition.googleplay_hoshikare_glb': ['Dream Boyfriend -Astral Days-', '4685636909317788836', '100,000+', 'http://dreamboyf.com', 'info@dreamboyf.com']}
+{'jp.co.althi.elnea.en': ['WorldNeverland - Elnea Kingdom: Life SimulationRPG', 'althi+Inc.', '100,000+', 'http://www.althi.co.jp/worldneverland/elnea_en/', 'elnea_support_en@althi.co.jp']}
+{'com.milliongames.dinosaurgamessimulator2019': ['Dinosaur Games Simulator 2019', 'Million+games', '1,000,000+', 'http://www.milliongames.net', 'milliongamesnew@gmail.com']}
+{'jp.mfapps.novel.roomies': ['My Sweet Roomies!', 'Fuji+Television', '1,000,000+', 'http://www.fujitv.co.jp/', 'mfapps.cs@gmail.com']}
+{'com.drycactus.polybridge': ['Poly Bridge', 'Dry+Cactus+Limited', '100,000+', 'http://www.drycactus.com', 'info@drycactus.com']}
+{'com.cc.mwr.wrestling.game': ['80s Mania Wrestling Returns', 'Checkmate+Creative+LLC', '10,000+', 'http://www.80smaniawrestling.com/', 'support@80sManiaWrestling.com']}
+{'com.alegrium.cong2': ['Cash, Inc. Money Clicker Game & Business Adventure', '6990178528646658622', '10,000,000+', 'http://www.lionstudios.cc', 'alegrium@lionstudios.cc']}
+{'jp.co.ciagram.otome.games.nightmareforeign': ['Free Otome Games English: Nightmare Harem', '8942551490923126815', '100,000+', 'https://www.renaigame.xyz/', 'support+android_nightmareforeign@appli-contact.mobi']}
+{'com.ldw.fishtycoon2': ['Fish Tycoon 2 Virtual Aquarium', '7528537393826584694', '1,000,000+', 'http://www.lastdayofwork.com', 'support@ldw.zendesk.com']}
+{'com.mtvn.sbmigoogleplay': ['SpongeBob Moves In', 'Nickelodeon', '1,000,000+', 'http://nick.com/appsupport/', 'appsupport@nick.com']}
+{'com.BlingBlingGames.CraftingIdleClicker': ['Crafting Idle Clicker', 'Bling+Bling+Games+GmbH', '1,000,000+', 'http://IdleClicker.com', 'support@blingblinggames.com']}
+{'com.farm.hell.clicker': ['Idle Heroes of Hell - Clicker & Simulator', '5429203503551516829', '1,000,000+', 'http://redmachinegames.com/', 'red.machine.games+hell@gmail.com']}
+{'com.fungames.flightpilot': ['Flight Pilot Simulator 3D Free', '8186084684070471579', '50,000,000+', 'https://www.fungames-forfree.com/games/flightpilot', 'support+flightpilot@fungames-forfree.com']}
+{'com.nimblebit.tinytower': ['Tiny Tower', '6980083735741436533', '1,000,000+', 'http://nimblebit.com', 'contact@nimblebit.com']}
+{'com.mageeks.android.trucksimulatorpro2': ['Truck Simulator PRO 2', '9046213330860348168', '10,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.cherrypickgames.myhospital': ['My Hospital: Build. Farm. Heal', 'Kuu+Hubb+Oy', '5,000,000+', 'http://myhospital.games', 'myhospital@kuuhubb.com']}
+{'com.bigbluebubble.msm2': ['My Singing Monsters: Dawn of Fire', '4772512400666501557', '1,000,000+', 'https://www.bigbluebubble.com/home/games/my-singing-monsters-series/my-singing-monsters-dawn-of-fire/', 'dawnoffire@bbbsupport.com']}
+{'com.topcog.tapwizardrpgarcanequest': ['Tap Wizard: Idle Monster Quest', 'Iron+Horse+Games+LLC', '500,000+', 'http://www.ironhorsegames.org', 'topcogllc@gmail.com']}
+{'com.spilgames.story.beats': ['Story Beats: Operate Now Stories', '8077753437082489031', '100,000+', 'https://www.spilgames.com/', 'support@storybeatsthegame.com']}
+{'com.stormx.gob': ['Foodpia Tycoon', 'STORMX', '1,000,000+', 'http://www.stormxgames.com', 'support@stormxgames.com']}
+{'jp.musaeum.c01a003': ['Honey Magazine -  Free otome dating game', '8870354335175025739', '100,000+', 'http://honeymagazine.net/en/', 'sap@okko.jp']}
+{'de.shugasu.itrtg': ['Idling to Rule the Gods', 'Shugasu', '50,000+', 'https://shugasu.com/', 'denny.stoehr@shugasu.com']}
+{'com.futureplay.city': ['Idle City Empire', '9170985961245337722', '5,000,000+', 'http://www.futureplaygames.com', 'support@futureplaygames.com']}
+{'com.teamlava.restaurantstory58': ['Restaurant Story: Founders', '8843836569947671195', '100,000+', 'http://www.storm8-studios.com', 'support@storm8.com']}
+{'com.vector3d.uatc': ['Unmatched Air Traffic Control', '6503718411004832775', '5,000,000+', 'https://www.facebook.com/unmatchedairtraffic', 'vector3dstudios@gmail.com']}
+{'com.ovilex.trucksimulatorusa': ['Truck Simulator USA', '5339076793638178981', '10,000,000+', 'http://www.ovilex.com/', 'ovidiu.pop.92@gmail.com']}
+{'com.buffstudio.myoasis': ['My Oasis - Calming and Relaxing Incremental Game', '6321876234276229665', '5,000,000+', 'http://www.buffstudio.com', 'help@buffstudio.com']}
+{'com.pixowl.tsb2': ['The Sandbox Evolution - Craft a 2D Pixel Universe!', '5313314117424352644', '10,000,000+', 'http://www.thesandbox2.com', 'thesandbox2@pixowl.com']}
+{'air.de.intenium.rats': ['The Rats', 'INTENIUM+GmbH', '1,000,000+', 'http://support.intenium-games.com/rats.en/', 'en.ratsupport@intenium-games.com']}
+{'com.mgc.stickman.rope.hero': ['Stickman Rope Hero', '4904364455782296418', '10,000,000+', 'https://naxeex.com/privacy-policy/', 'feedback@naxeex.com']}
+{'com.upjers_horsefarm': ['Horse Farm', '4661863381205708375', '1,000,000+', 'http://upjers.com', 'mail@upjers.com']}
+{'it.rortos.extremelandings': ['Extreme Landings', '8013171132272394676', '10,000,000+', 'http://www.rortos.com', 'support@rortos.com']}
+{'io.evolutiongames.mergebattleweapon': ['Idle Royale Tycoon - Incremental Merge Battle Game', '8867515009520278694', '1,000,000+', 'https://greenpandagames.com/en', 'support@greenpandagames.com']}
+{'com.ovilex.flightsim2018': ['Flight Sim 2018', '5339076793638178981', '1,000,000+', 'http://www.ovilex.com/', 'ovidiu.pop.92@gmail.com']}
+{'com.mageeks.android.trainsimulator': ['Train Simulator PRO 2018', '9046213330860348168', '10,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.coffeestainstudios.goatsimulator.wasteofspace': ['Goat Simulator Waste of Space', 'Coffee+Stain+Publishing', '100,000+', 'http://www.coffeestainstudios.com', 'contact@coffeestainstudios.com']}
+{'com.voltage.joshige.cind.en': ['Sleepless Cinderella: PARTY', 'Voltage,+Inc.', '100,000+', 'http://www.voltage.co.jp/', 'cind_en_j@inq.voltage.co.jp']}
+{'com.teamlava.restaurantstory56': ['Restaurant Story: Hearty Feast', '8843836569947671195', '100,000+', 'http://www.storm8-studios.com', 'support@storm8.com']}
+{'com.factory608.MI': ['Monthly Idol', '608Factory', '500,000+', 'https://www.facebook.com/608factory', '608factory@naver.com']}
+{'com.episodeinteractive.android.thelovelife': ['A Love Life', 'Episode+Interactive', '5,000+', 'https://pocketgems.com/episode/', 'episode.support@pocketgems.zendesk.com']}
+{'com.gtactiongames.trainsim2019': ['Train Sim 2019', 'GT+Action+Games', '1,000,000+', 'http://www.gtactiongames.com', 'gtactiongames@gmail.com']}
+{'com.laminarresearch.x_plane10': ['X-Plane 10 Flight Simulator', 'Laminar+Research', '1,000,000+', 'http://www.x-plane.com', 'info@x-plane.com']}
+{'com.com2us.tinyfarm.normal3.freefull.google.global.android.common': ['Tiny Farm®', '6850516909323484758', '1,000,000+', 'http://www.withhive.com', 'info@com2us.com']}
+{'com.jundroo.SimplePlanes': ['SimplePlanes', 'Jundroo,+LLC', '100,000+', 'http://jundroo.com', 'games@jundroo.com']}
+{'com.mobilemonsters.mmcl': ['Kingdoms & Monsters (no-wifi)', '6419149029293804684', '1,000,000+', 'http://www.mobile-monsters.com', 'support@mobile-monsters.com']}
+{'com.sparklingsocietytycoon.paradisecityislandsim': ['Paradise City: Island Sim - Build your own city', '7012467671434832283', '1,000,000+', 'http://www.sparklingsociety.net', 'android-pcis@sparklingsociety.net']}
+{'de.shplay.missionchief.v2': ['MissionChief', 'SHPlay+GmbH', '10,000+', 'http://www.shplay.de', 's.heinisch@shplay.de']}
+{'com.sugargames.weddingsalon2': ['Wedding Salon 2', '5029996228958823960', '1,000,000+', 'http://www.sugargames.com/', 'sugargames@sugargames.com']}
+{'com.elevenbitstudios.twommobile': ['This War of Mine', '7328836074120817235', '100,000+', 'http://www.11bitstudios.com', 'techsupport@11bitstudios.com']}
+{'net.kairosoft.android.paddock2_en': ['Grand Prix Story 2', 'Kairosoft+Co.,Ltd', '500,000+', 'http://kairopark.jp/android/en/?from=m132', 'support_en@kairopark.jp']}
+{'com.hg.titp': ['This Is the Police', '5551663097723105743', '5,000+', 'http://www.facebook.com/handygames', 'support@handy-games.com']}
+{'com.orangesgame.ios.loh': ['Fun Hospital – Tycoon is back', 'OrangesGame+Technology+Limited', '1,000,000+', 'http://www.oranges-game.com', 'feedback@oranges-game.com']}
+{'jp.co.translimit.castle': ['Craft Warriors', '7893590330107472272', '1,000,000+', 'https://craft-warriors.com', 'craftwarriors.support@translimit.co.jp']}
+{'sk.phx.terrarium': ['Terrarium: Garden Idle', '8867515009520278694', '1,000,000+', 'http://greenpandagames.com/fr', 'support@greenpandagames.com']}
+{'com.cle.m215.worldbeastwar': ['World Beast War: Destroy the World in an Idle RPG', 'Clegames+Inc.', '500,000+', 'https://clegames.freshdesk.com/ko/support/tickets/new', 'support@clegames.freshdesk.com']}
+{'com.freegame.mergeall': ['Merge All', 'i+Dev.', '1,000,000+', 'https://docs.google.com/document/d/12yo61imJ_nidiXDbEskFN5aIE7PJFIsRl7FJu47hkyg/edit?usp=sharing', 'idev803@gmail.com']}
+{'com.eduweb.wolfquest': ['WolfQuest', 'eduweb', '500,000+', 'http://www.wolfquest.org', 'support@wolfquest.org']}
+{'com.jutsugames.operator911': ['911 Operator', 'Games+Operators', '50,000+', 'http://www.jutsugames.com/911', 'contact@jutsugames.com']}
+{'com.phanotek.wingsofduty': ['Wings Of Duty', 'Phanotek,+Inc', '500,000+', 'http://wingsofduty.com', 'support@wingsofduty.com']}
+{'com.twohands.lod': ['Management : Lord of Dungeons', 'Two+Hands+Games', '100,000+', 'http://www.twohandsgames.com', 'support_lod@twohandsgames.com']}
+{'jp.co.ciagram.otome.games.reversetaleofgenjiforeign': ['Reverse Tales of Genji : Free romance otome games', '8942551490923126815', '10,000+', 'https://www.loveotomegames.xyz/en/', 'support+googleplay_reversetaleofgenjiforeign@appli-contact.mobi']}
+{'com.fiveamp.pickcrafterapp': ['PickCrafter - Idle Craft Game', '7329449789920614417', '10,000,000+', 'https://fiveamp.com', 'support@pickcrafter.com']}
+{'com.brixtondynamics.spacesimulator': ['Space Simulator', 'Brixton+Dynamics', '10,000+', 'http://www.space-simulator.com', 'info@brixtondynamics.co.uk']}
+{'com.dimchi.crush': ['Will it Crush?', 'VOODOO', '5,000,000+', 'http://www.voodoo.io', 'support@voodoo.io']}
+{'com.weirdjohnny.clicker': ['Illuminati Adventure - Idle Incremental Capitalist', 'Weird+Johnny+Studio', '50,000+', 'https://www.patreon.com/weirdjohnny', 'weirdjohnnystudio@gmail.com']}
+{'com.i3d.designthishome': ['Design This Home', 'App+Minis', '1,000,000+', 'http://www.appminis.com', 'contact@appminis.com']}
+{'com.crazychef.cookinggrace': ['Cooking Grace - A Fun Kitchen Game for World Chefs', 'CrazyChef', '100,000+', 'http://47.95.253.226/CrazyChef/PrivacyPolicy.html', 'crazy.chef.grace@gmail.com']}
+{'com.frismos.dogworld': ['Dog Town: Pet Shop Game, Care & Play with Dog', '8858034574306643292', '1,000,000+', 'http://frismos.com', 'gamesupport@frismos.com']}
+{'com.candywriter.bitlife': ['BitLife - Life Simulator', '8094408836964062012', '1,000,000+', 'http://www.candywriter.com', 'support@bitlifeapp.com']}
+{'com.parking.game': ['Drive and Park', 'SayGames', '10,000,000+', 'http://saygames.by', 'saygames.by@gmail.com']}
+{'com.codigames.market.idle.tycoon': ['Idle Supermarket Tycoon - Tiny Shop Game', '6768033056419806404', '1,000,000+', 'http://codigames.com', 'support+ist@codigames.com']}
+{'com.brokenreality.bigcapitalist3.android': ['The Big Capitalist 3', 'Broken+Reality', '1,000,000+', 'https://brokenrealityapp.wordpress.com', 'lingzilau@gmail.com']}
+{'org.nanobit.mystory': ['My Story: Choose Your Own Path', '7360657040509169450', '5,000,000+', 'http://www.nanobit.co', 'support@nanobitsoftware.com']}
+{'com.brokenreality.planemerger.android': ['Merge Plane - Click & Idle Tycoon', 'Merger+Games', '50,000,000+', 'https://mergergame362679235.wordpress.com/', 'merger.e.games@gmail.com']}
+{'se.ace.fishinc': ['Hooked Inc: Fisher Tycoon', '6990178528646658622', '10,000,000+', 'http://www.lionstudios.cc', 'acedev@lionstudios.cc']}
+{'com.revolverolver.fliptrickster': ['Flip Trickster - Parkour Simulator', '6990178528646658622', '10,000,000+', 'https://lionstudios.cc/', 'filur@lionstudios.cc']}
+{'com.mgc.miami.crime.simulator.two': ['Vegas Crime Simulator', '4904364455782296418', '50,000,000+', 'https://naxeex.com/privacy-policy/', 'feedback@naxeex.com']}
+{'com.spilgames.OperateNow2': ['Operate Now: Hospital', '8077753437082489031', '10,000,000+', 'http://spilgames.com', 'support@operatenow.com']}
+{'com.pixelberrystudios.choices': ['Choices: Stories You Play', 'Pixelberry', '10,000,000+', 'http://www.pixelberrystudios.com/', 'googleplay@pixelberrystudios.com']}
+{'com.fluffyfairygames.idleminertycoon': ['Idle Miner Tycoon', '5820359406133218754', '10,000,000+', 'http://www.idleminertycoon.com/', 'community@idleminertycoon.com']}
+{'com.fungames.blockcraft': ['Block Craft 3D: Building Simulator Games For Free', '8186084684070471579', '50,000,000+', 'https://www.fungames-forfree.com/games/blockcraft', 'support+blockcraftandroid@fungames-forfree.com']}
+{'com.episodeinteractive.android.catalog': ['Episode - Choose Your Story', 'Episode+Interactive', '50,000,000+', 'https://pocketgems.com/episode/', 'episode.support@pocketgems.zendesk.com']}
+{'com.gpp.sushibar': ['Sushi Bar', '8867515009520278694', '1,000,000+', 'https://greenpandagames.com/en', 'support@greenpandagames.com']}
+{'com.ea.gp.simsmobile': ['The Sims™ Mobile', '6605125519975771237', '10,000,000+', 'http://www.ea.com/android', 'help@eamobile.com']}
+{'chimp.works.td4': ['Power Painter', 'ChimpWorks', '1,000,000+', 'http://www.chimpworksgames.com', 'support@chimpworksgames.com']}
+{'com.ndemiccreations.rebelinc': ['Rebel Inc.', '7468463311589977937', '100,000+', 'http://www.ndemiccreations.com', 'googleplay@ndemiccreations.com']}
+{'com.miniclip.plagueinc': ['Plague Inc.', '5933611429942957630', '50,000,000+', 'http://www.miniclip.com/', 'support@miniclip.com']}
+{'com.kongregate.mobile.adventurecommunist.google': ['AdVenture Communist', '7580247376460930437', '1,000,000+', 'http://hyperhippogames.com/', 'adventurecommunist@hyperhippo.ca']}
+{'com.spilgames.operatenow.animal.hospital': ['Operate Now: Animal Hospital', '8077753437082489031', '1,000,000+', 'http://www.spilgames.com', 'support@operatenowanimalhospital.com']}
+{'com.tensquaregames.letsfish2': ['Fishing Clash: Catching Fish Game. Bass Hunting 3D', '6837340316160309504', '10,000,000+', 'https://tensquaregames.com', 'support.fishingclash@tensquaregames.com']}
+{'com.crowdstar.covetHome': ['Design Home', 'Crowdstar+Inc', '10,000,000+', 'http://www.covetfashion.com/', 'designhelp@crowdstar.com']}
+{'es.socialpoint.DragonCity': ['Dragon City', '7129773085119877408', '100,000,000+', 'http://www.socialpoint.es', 'info@socialpoint.es']}
+{'es.socialpoint.MonsterLegends': ['Monster Legends', '7129773085119877408', '50,000,000+', 'http://www.socialpoint.es', 'info@socialpoint.es']}
+{'com.futureplay.boots': ['Idle Farming Empire', '9170985961245337722', '10,000,000+', 'http://www.futureplaygames.com', 'support@futureplaygames.com']}
+{'com.alegrium.cong2': ['Cash, Inc. Money Clicker Game & Business Adventure', '6990178528646658622', '10,000,000+', 'http://www.lionstudios.cc', 'alegrium@lionstudios.cc']}
+{'com.ea.games.simsfreeplay_na': ['The Sims™ FreePlay', '6605125519975771237', '10,000,000+', 'http://www.firemonkeys.com.au/support%20', 'help@eamobile.com']}
+{'com.kongregate.mobile.adventurecapitalist.google': ['AdVenture Capitalist', '7580247376460930437', '10,000,000+', 'http://hyperhippogames.com/', 'adventurecapitalist@hyperhippo.ca']}
+{'com.evilclicker.evilclicker': ['Idle Evil — Clicker & Simulator', 'AppQuantum', '500,000+', 'http://appquantum.com', 'support@appquantum.com']}
+{'com.evertechsandbox': ['Evertech Sandbox', '8211386423443127738', '5,000,000+', 'http://evertechsandbox.com', 'vitaly.sumin+sandbox@gmail.com']}
+{'com.budgestudios.googleplay.BarbieDreamhouse': ['Barbie Dreamhouse Adventures', '7489594886728593506', '5,000,000+', 'http://www.budgestudios.com', 'support@budgestudios.ca']}
+{'com.playway.cms2017': ['Car Mechanic Simulator 18', 'PlayWay+SA', '10,000,000+', 'http://www.playway.com', 'cms@eccgames.com']}
+{'com.StefMorojna.SpaceflightSimulator': ['Spaceflight Simulator', 'Stefo+Mai+Morojna', '1,000,000+', 'https://discord.gg/v8u5Y9C', 'games.morojna@gmail.com']}
+{'com.fivebyte.lifeisagame': ['Life is a Game', '5362355705811727981', '5,000,000+', 'https://www.facebook.com/daerisoft', 'elitede3626@gmail.com']}
+{'com.secretexit.turbodismount': ['Turbo Dismount™', 'Secret+Exit+Ltd.', '10,000,000+', 'http://secretexit.com/', 'tdsupport-android@secretexit.com']}
+{'com.ludia.dragons': ['Dragons: Rise of Berk', 'Ludia+Inc.', '10,000,000+', 'http://www.ludia.com', 'support@ludia.com']}
+{'com.vizorapps.klondike': ['Klondike Adventures', '8530020481101400394', '5,000,000+', 'http://www.vizor-interactive.com', 'klonmobile.support@vizor-apps.com']}
+{'it.rortos.realflight': ['Airline Commander - A real flight experience', '8013171132272394676', '5,000,000+', 'http://www.rortos.com', 'airlinecommander@rortos.com']}
+{'com.zakg.scaryteacher.hellgame': ['Scary Teacher 3D', 'Z+%26+K', '1,000,000+', 'http://www.gvois.com', 'gvoiszubi@gmail.com']}
+{'com.turborocketgames.wildcraft': ['WildCraft: Animal Sim Online 3D', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com/extra/privacypolicy.htm', 'support@turborocketgames.com']}
+{'io.evolutiongames.mergebattleweapon': ['Idle Royale Tycoon - Incremental Merge Battle Game', '8867515009520278694', '1,000,000+', 'https://greenpandagames.com/en', 'support@greenpandagames.com']}
+{'ca.lbcstudios.hempire': ['Hempire - Plant Growing Game', '5989078646951806928', '5,000,000+', 'http://hempiregame.com', 'support@lbcstudios.ca']}
+{'com.walmart.sparkCity': ['Spark City', 'Walmart', '10,000+', 'https://www.walmart.com', 'googmobile@wal-mart.com']}
+{'com.nintendo.zaca': ['Animal Crossing: Pocket Camp', '7277267556905944956', '10,000,000+', 'https://ac-pocketcamp.com/', 'ac-pocketcamp-support@nintendo.co.jp']}
+{'com.zepni.dog': ['Merge Dogs', 'Zepni+Ltd.', '1,000,000+', 'http://www.zepni.com', 'contact@zepni.com']}
+{'block.app.wars': ['Block City Wars: Pixel Shooter with Battle Royale', 'D-Games+Apps', '10,000,000+', 'http://d-games.pro', 'blockcity3d@gmail.com']}
+{'com.mtvn.sbmigoogleplay': ['SpongeBob Moves In', 'Nickelodeon', '1,000,000+', 'http://nick.com/appsupport/', 'appsupport@nick.com']}
+{'com.fungi.houseflip': ['House Flip with Chip and Jo', '6434255648460618635', '1,000,000+', 'https://www.fun-gi.com', 'community@fun-gi.com']}
+{'com.milliongames.dinosaurgamessimulator2019': ['Dinosaur Games Simulator 2019', 'Million+games', '1,000,000+', 'http://www.milliongames.net', 'milliongamesnew@gmail.com']}
+{'com.gpp.beefactory': ['Bee Factory', '8867515009520278694', '5,000,000+', 'http://greenpandagames.com', 'support@greenpandagames.com']}
+{'com.metamoki.weed': ['Weed Inc: Idle Tycoon', '6380945586035889122', '1,000,000+', 'http://www.metamoki.com', 'support@metamoki.com']}
+{'com.swagmasha.genres': ['Love Sick: Interactive Stories', '7594184611184681419', '100,000+', 'http://swagmasha.com', 'android-support@swagmasha.com']}
+{'com.gameloft.android.ANMP.GloftDYHM': ['Disney Magic Kingdoms: Build Your Own Magical Park', '6258770168633898802', '10,000,000+', 'http://www.gameloft.com/en/privacy-notice', 'android.support@gameloft.com']}
+{'junkyardtycoon.business.tycoon.game': ['Junkyard Tycoon - Car Business Simulation Game', '4826182024925534786', '1,000,000+', 'http://www.junkyardtycoon.com', 'support@junkyardtycoon.com']}
+{'in.loop.hdmakeover': ['Home Design Makeover', '8843836569947671195', '5,000,000+', 'http://www.storm8.com', 'support@storm8.com']}
+{'com.ludia.jurassicworld': ['Jurassic World™: The Game', 'Ludia+Inc.', '10,000,000+', 'http://www.ludia.com', 'support+jurassicworld@ludia.com']}
+{'com.mobirix.gd': ['Ground Driller', '4864673505117639552', '500,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
+{'com.fluffyfairygames.idlefactorytycoon': ['Idle Factory Tycoon', '5820359406133218754', '5,000,000+', 'https://www.idle-factory-tycoon.com/', 'community@idle-factory-tycoon.com']}
+{'com.ea.game.simcitymobile_row': ['SimCity BuildIt', '6605125519975771237', '50,000,000+', 'http://help.ea.com/en/simcity/simcity-buildit/', 'help@eamobile.com']}
+{'com.jump.parkour.flip.master': ['Flip Lover', 'TapFunStudio', '500,000+', 'https://tapfunstudio.blogspot.com/2018/11/privacy-policy.html', 'geteenie@gmail.com']}
+{'com.gpp.antfactory': ['Ant Factory', '8867515009520278694', '50,000+', 'https://greenpandagames.com', 'support@greenpandagames.com']}
+{'com.cocoplay.gymnastics.acrobat': ["Acrobat Star Show - Show 'em what you got!", 'Coco+Play+By+TabTale', '1,000,000+', 'https://tabtale.com/', 'WeCare@TabTale.com']}
+{'com.fungames.flightpilot': ['Flight Pilot Simulator 3D Free', '8186084684070471579', '50,000,000+', 'https://www.fungames-forfree.com/games/flightpilot', 'support+flightpilot@fungames-forfree.com']}
+{'com.gamecircus.tycoon': ['Taps to Riches', '5517637428189447271', '10,000,000+', 'http://gamecircus.com', 'support@gamecircus.com']}
+{'com.langqi.myshoppingmall': ['Design My Room', 'NPOL+GAME', '500,000+', 'http://www.nutspower.com', 'kunlunnuhtx@gmail.com']}
+{'com.Meromsoft.SchoolGirlsSimulator': ['School Girls Simulator', '8097565524164483108', '10,000,000+', 'https://twitter.com/meromsoft', 'kazu.yasutake@gmail.com']}
+{'sk.phx.terrarium': ['Terrarium: Garden Idle', '8867515009520278694', '1,000,000+', 'http://greenpandagames.com/fr', 'support@greenpandagames.com']}
+{'com.freegame.mergeall': ['Merge All', 'i+Dev.', '1,000,000+', 'https://docs.google.com/document/d/12yo61imJ_nidiXDbEskFN5aIE7PJFIsRl7FJu47hkyg/edit?usp=sharing', 'idev803@gmail.com']}
+{'com.bigbluebubble.singingmonsters.full': ['My Singing Monsters', '4772512400666501557', '10,000,000+', 'https://www.bigbluebubble.com/home/games/my-singing-monsters-series/my-singing-monsters/', 'mysingingmonsters@bbbsupport.com']}
+{'com.rabbitmountain.rollercoaster': ['VR Thrills: Roller Coaster 360 (Google Cardboard)', '7132661048838194005', '10,000,000+', 'http://www.rabbitmountain.com', 'support@rabbitmountain.com']}
+{'com.bintago.weaponsshoot': ['Gun Builder 3D Simulator', 'BintagoGames', '1,000,000+', 'https://docs.google.com/document/d/1XmMjbR8jTjTso3aXWky5g4PgwIQ5sKTyW-hrlnBPpPE/edit?usp=sharing', 'bintagogames@gmail.com']}
+{'com.ViperGames.StickmanDismount': ['Stickman Dismounting', '6648558942107861407', '10,000,000+', 'https://sites.google.com/view/vipergamesprivatepolicy', 'vipergamesdev@gmail.com']}
+{'moonbear.PocketBuild': ['Pocket Build', 'MoonBear+LTD', '1,000,000+', 'http://moonbear.co', 'contact@moonbear.com']}
+{'com.pixowl.tsb2': ['The Sandbox Evolution - Craft a 2D Pixel Universe!', '5313314117424352644', '10,000,000+', 'http://www.thesandbox2.com', 'thesandbox2@pixowl.com']}
+{'com.creativemobile.zc': ['ZooCraft: Animal Family', '7583627084840572844', '5,000,000+', 'http://www.creative-mobile.com', 'support@creative-mobile.com']}
+{'com.fasho.gravity': ['Idle Zen', '4Sho+Games', '100,000+', 'http://4shogames.com', 'support@4shogames.com']}
+{'com.gtactiongames.motodrivingschool': ['Moto Driving School', 'GT+Action+Games', '1,000,000+', 'http://www.gtactiongames.com', 'gtactiongames@gmail.com']}
+{'air.SchoolPublic': ['School Days', '5289992214197329711', '10,000,000+', 'http://www.MDickie.com', 'mat@mdickie.com']}
+{'com.bycodec.offroad': ['[PROJECT:OFFROAD]', '8602883370283052355', '5,000,000+', 'https://www.bycodecgames.com', 'admin@bycodecgames.com']}
+{'com.giantssoftware.fs14': ['Farming Simulator 14', 'GIANTS+Software', '50,000,000+', 'http://www.farming-simulator.com/contact.php', 'support@giants-software.com']}
+{'br.com.tapps.hackinghero': ['Hacking Hero - Cyber Adventure Clicker', '6615809648420562690', '500,000+', 'http://tappsgames.com', 'user.support+hackinghero@tappsgames.com']}
+{'com.wiz.weed.game': ["Wiz Khalifa's Weed Farm", '6380945586035889122', '1,000,000+', 'http://support.metamoki.com/hc/en-us', 'support@metamoki.com']}
+{'com.rappidstudios.simulatorbattlephysics': ['Epic Battle Simulator 2', '6969262566755058206', '10,000,000+', 'http://rappidstudios.com', 'rappidstudios@gmail.com']}
+{'com.tabtale.unicorn.food': ['Unicorn Food - Rainbow Glitter Food & Fashion', '5735447750101420287', '5,000,000+', 'https://www.tabtale.com/', 'WeCare@TabTale.com']}
+{'com.createcraftpocketedition': ['Create Craft Block Building Game', 'AriesAppStudio', '100,000+', 'https://privacypolicycreatecraft.weebly.com', 'aplusmediamobile@gmail.com']}
+{'com.IdleRestaurant.sddy.dev': ['Idle Cook Tycoon', '5126347426408156290', '10,000+', 'http://www.yueyoogame.com/?page=pp', 'JunbinLiao27@gmail.com']}
+{'com.turner.pocketmorties': ['Rick and Morty: Pocket Mortys', '%5Badult+swim%5D+games', '10,000,000+', 'http://www.adultswim.com/games/pocket-mortys/', 'adultswimdotcom@gmail.com']}
+{'com.dreamplay.underworld.google': ['Underworld : The Shelter', '4791840901148567689', '500,000+', 'https://www.facebook.com/DreamplayIndieZone/', 'help@dreamplaygames.co.kr']}
+{'com.alexanderwinn.TerraGenesis': ['TerraGenesis - Space Settlers', '5479878731323183535', '5,000,000+', 'https://www.facebook.com/TerraGenesisGame', 'support@terragenesisgame.com']}
+{'com.kgs.housedesigner': ['House Designer : Fix & Flip', 'Karate+Goose+Studio', '1,000,000+', 'https://www.facebook.com/notes/oceanborn-raft-survival/privacy-policy/1693407094286597', 'karategoosestudio@gmail.com']}
+{'ocean.nomad.survival.simulator': ['Survival on Raft: Ocean Nomad - Simulator', 'Unisoft+Games', '5,000,000+', 'http://gamesunisoft.com/', 'unisoftgames2018@gmail.com']}
+{'com.cocoplay.cakemaker': ['Real Cake Maker 3D - Bake, Design & Decorate', 'Coco+Play+By+TabTale', '10,000,000+', 'http://www.tabtale.com', 'WeCare@TabTale.com']}
+{'com.gameloft.android.ANMP.GloftDOHM': ['Dragon Mania Legends', '6258770168633898802', '50,000,000+', 'http://www.gameloft.com/', 'android.support@gameloft.com']}
+{'com.randomlogicgames.battletext': ['BattleText', '8111076891443836168', '1,000,000+', 'http://randomlogicgames.com', 'rlgappdev2015@gmail.com']}
+{'com.futureplay.city': ['Idle City Empire', '9170985961245337722', '5,000,000+', 'http://www.futureplaygames.com', 'support@futureplaygames.com']}
+{'com.kumagames.highschoolsimulator2018': ['High School Simulator 2018', '6767533363572246846', '10,000,000+', 'https://www.facebook.com/KUMA-GAMES-1701697003383680/', 'sugikami1982@gmail.com']}
+{'com.mgc.stickman.rope.hero': ['Stickman Rope Hero', '4904364455782296418', '10,000,000+', 'https://naxeex.com/privacy-policy/', 'feedback@naxeex.com']}
+{'com.watersurvival.oceanraft': ['Raft Survival Simulator', 'Survival+and+Craft+Games', '1,000,000+', 'http://www.bananapps.club/', 'vaskarar87@gmail.com']}
+{'com.kongregate.mobile.pocketpolitics.google': ['Pocket Politics: Idle Money', '7580247376460930437', '1,000,000+', 'http://www.kongregate.com', 'support@pocketpolitics.zendesk.com']}
+{'com.auxbrain.egginc': ['Egg, Inc.', 'Auxbrain+Inc', '10,000,000+', 'http://www.auxbrain.com', 'press@auxbrain.com']}
+{'com.TironiumTech.IdlePlanetMiner': ['Idle Planet Miner', 'Iron+Horse+Games+LLC', '100,000+', 'http://www.ironhorsegames.org', 'tironiumtech@gmail.com']}
+{'com.lucydream.dangerousfellows': ['Dangerous Fellows - Romantic Thrillers Otome game', '7861054856589068635', '100,000+', 'http://lucydream.kr/', 'lucydreamgame@gmail.com']}
+{'com.zenjoy.cookingstreet': ['Cooking Joy 2', 'Top+Girl+Games', '1,000,000+', 'http://www.zentertain.net', 'zentertain.ltd@gmail.com']}
+{'com.mytona.cookingdiary.android': ['Cooking Diary®: Best Tasty Restaurant & Cafe Game', '7113793892978047717', '1,000,000+', 'https://mytona.com', 'support.cookingdiary@mytona.com']}
+{'air.com.pixelfederation.seaport.explore.collect.trade': ['Seaport - Explore, Collect & Trade', '7566304266577611559', '5,000,000+', 'https://pxfd.co', 'support@seaportgame.com']}
+{'com.Skygo.Stickmanfalling': ['Stickman Falling', 'Sky+go', '1,000,000+', 'https://docs.google.com/document/d/1q8jhU4_oJxUomqiF9O6HJwjwlWV3mr59V1fl2N9KJa0/edit?usp=sharing', 'jacobprice1122@gmail.com']}
+{'stickmanwarriors.stickmanWar.online': ['Stickman Warriors Online : Epic War', 'Stickman+Tech.,+JSC', '10,000,000+', 'https://everyplay.com/privacy-policy', 'kenmobilenew@gmail.com']}
+{'com.mtvn.loudhouseapp': ['Loud House: Ultimate Treehouse', 'Nickelodeon', '1,000,000+', 'http://nick.com/appsupport', 'appsupport@nick.com']}
+{'com.buffstudio.myoasis': ['My Oasis - Calming and Relaxing Incremental Game', '6321876234276229665', '5,000,000+', 'http://www.buffstudio.com', 'help@buffstudio.com']}
+{'com.vade.raftOnline': ['Raft Survival: Multiplayer', 'VADE', '1,000,000+', 'https://goo.gl/wvtN9F', 'vadestudio@gmail.com']}
+{'com.yourstoryinteractive.sails.pirate.adventure': ['Romance Club - Stories I Play (with Choices)', 'Your+Story+Interactive', '1,000,000+', 'http://www.yourstoryinteractive.com', 'support@yourstoryinteractive.com']}
+{'com.gtactiongames.trainsim2019': ['Train Sim 2019', 'GT+Action+Games', '1,000,000+', 'http://www.gtactiongames.com', 'gtactiongames@gmail.com']}
+{'com.ProtopiaGames.Simulife2NV': ['Life Simulator 2', 'Protopia+Games', '10,000+', 'http://www.protopiagames.com', 'support@protopiagames.com']}
+{'com.odaatstudio.powerman': ['Tap Tap Breaking: Break Everything Clicker Game', 'ODAAT+studio', '100,000+', 'http://cafe.naver.com/odaatstudio', 'odaatstudio@gmail.com']}
+{'com.nintendo.zaba': ['Fire Emblem Heroes', '7277267556905944956', '5,000,000+', 'https://fire-emblem-heroes.com/', 'fire-emblem-heroes-support@nintendo.co.jp']}
+{'com.gpg.farmfactory': ['Farm Factory', '8867515009520278694', '100,000+', 'https://greenpandagames.com/en', 'support@greenpandagames.com']}
+{'com.tensquaregames.huntmobile': ['Wild Hunt:Sport Hunting Games. Hunter & Shooter 3D', '6837340316160309504', '10,000,000+', 'https://tensquaregames.com', 'support.wildhunt@tensquaregames.com']}
+{'com.snow.drift': ['Snow Drift', 'SayGames', '5,000+', 'https://saygames.by', 'info@saygames.by']}
+{'com.DynamicGames.HeavyTruckSimulator': ['Heavy Truck Simulator', 'Dynamic+Games+Entretenimento+Ltda', '10,000,000+', 'http://www.dynamicgames.com.br', 'dynamicgamesentertainment@gmail.com']}
+{'com.eastsidegames.trailerparkboys': ['Trailer Park Boys: Greasy Money', '6575683316809605197', '1,000,000+', 'http://www.tpbgame.com/', 'support@tpbgame.zendesk.com']}
+{'com.ad.oretycoon': ['Ore tycoon-idle Mining game', 'Hot+Games+Team', '10,000+', 'http://thehotgames.com/Public/tos.html', 'hotgamesteam.hw@gmail.com']}
+{'com.idle.miner.inc.tycoon.prison.clicker.ikame': ['Idle Prison Tycoon - Mine & Crafting Building City', '4764343509860143092', '1,000,000+', 'http://ikame.vn', 'triplea.gamedev@gmail.com']}
+{'com.ction.playergames': ['2 3 4 Player Mini Games', 'Better+World+Games', '5,000,000+', 'https://4playergames.wordpress.com/policy-bwg/', 'gamesofzen@gmail.com']}
+{'br.com.tapps.myvirtualpetshop': ['My Virtual Pet Shop - Cute Animal Care Game', '6615809648420562690', '10,000,000+', 'http://tappsgames.com', 'user.support+myvirtualpetshop@tappsgames.com']}
+{'com.futureplay.minecraft': ['Idle Crafting Empire', '9170985961245337722', '1,000,000+', 'http://www.futureplaygames.com', 'support@futureplaygames.com']}
+{'com.otherguys.lindab': ['Linda Brown: Interactive Story', 'The+Other+Guys', '10,000,000+', 'http://www.lindabrowngame.com', 'support@other-guys.com']}
+{'com.mkarpenko.worldbox': ['WorldBox - Sandbox God Simulator', '8666936964019499600', '100,000+', 'http://www.mkarpenko.org/', 'm.kendja@gmail.com']}
+{'big.city.craft.castle.craft.creative.survival': ['Old City Craft', 'Zoo+Crafting+Game+Studio', '100,000+', 'https://sites.google.com/view/scfgsdeee', 'zhangyinaaabbb@gmail.com']}
+{'com.game.kkiruk.myadorablecats': ['Cats are Cute', '7885845823337109104', '500,000+', 'http://www.facebook.com/kkirukstudio', 'kkirukstudio.help@gmail.com']}
+{'com.banana4apps.evolution': ['Human Evolution Clicker Game: Rise of Mankind', 'WAZZAPPS', '10,000,000+', 'https://wazzapps.org/policy.html', 'Banana4apps@gmail.com']}
+{'com.sandbaygames.survive': ['Survive - Wilderness survival', 'Juuso+Hietalahti', '5,000,000+', 'http://www.thesurvivegame.com/', 'smokesignal@thesurvivegame.com']}
+{'com.kongregate.mobile.thetrail.google': ['The Trail', '7580247376460930437', '5,000,000+', 'http://www.kongregate.com', 'support@22canshelp.zendesk.com']}
+{'air.com.pixelfederation.TrainStationGame': ['TrainStation - Game On Rails', '7566304266577611559', '10,000,000+', 'http://www.pixelfederation.com', 'support@trainstationgame.com']}
+{'com.nobloodhappy.wheels': ['Happy Rider Wheels', 'Croxwan+Lab', '1,000,000+', None, 'shellcrowapps@gmail.com']}
+{'com.atari.mobile.rctempire': ['RollerCoaster Tycoon Touch - Build your Theme Park', 'Atari,+Inc.', '5,000,000+', 'https://www.facebook.com/RollerCoasterTycoonTouch', 'support@atari.mail.helpshift.com']}
+{'com.i6.RaceCarflying3D': ['Flying Car 3D', '8702197959022172025', '10,000,000+', 'http://i6games.net/', 'support@i6games.net']}
+{'com.supersolid.spark': ['Home Street – Home Design Game', 'Supersolid', '10,000,000+', 'http://www.supersolid.com', 'support@supersolid.com']}
+{'com.bethsoft.falloutshelter': ['Fallout Shelter', 'Bethesda+Softworks+LLC', '10,000,000+', 'http://fallout.bethsoft.com', 'falloutshelterhelp@mail.bethesda.net']}
+{'com.worldcraftexplorationpocketedition': ['World Craft Block Building Game', 'Jade+Emperor+Apps', '100,000+', 'https://worldcraftprivacypolicy.weebly.com/', 'athenaappstudio@gmail.com']}
+{'com.turborocketgames.dogsim': ['Dog Sim Online: Raise a Family', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com', 'support@turborocketgames.com']}
+{'com.ovilex.trucksimulatorusa': ['Truck Simulator USA', '5339076793638178981', '10,000,000+', 'http://www.ovilex.com/', 'ovidiu.pop.92@gmail.com']}
+{'com.zzoo.dokdo': ['DOKDO', '6886919362373660592', '5,000,000+', 'http://www.zzoozzoo.net', 'contact@zzoozzoo.net']}
+{'com.grumpyrhinogames.idleapocalypse': ['Idle Apocalypse', 'Iron+Horse+Games+LLC', '1,000,000+', 'http://www.grumpyrhinogames.com', 'support@grumpyrhino.com']}
+{'com.instcoffee.instlife': ['InstLife', 'InstCoffee+Games', '5,000,000+', 'https://inst.coffee', 'instlife@inst.coffee']}
+{'air.com.dryginstudios.bioinc': ['Bio Inc - Biomedical Plague and rebel doctors.', 'DryGin+Studios', '10,000,000+', 'http://www.playbioinc.com', 'info@dryginstudios.com']}
+{'org.ironhorsegames.taptapdig': ['Tap Tap Dig - Idle Clicker Game', 'Iron+Horse+Games+LLC', '1,000,000+', 'http://www.ironhorsegames.org', 'contact@ironhgames.com']}
+{'com.plexonic.digmaster': ['Dig Master', 'Applecheer+Studio', '10,000+', 'https://plexonic.com', 'info@plexonic.com']}
+{'com.milliongames.skyhighcars': ['Extreme Car Driving', 'Million+games', '1,000,000+', 'http://milliongames.com', 'milliongames9@gmail.com']}
+{'com.episodeinteractive.android.thelovelife': ['A Love Life', 'Episode+Interactive', '5,000+', 'https://pocketgems.com/episode/', 'episode.support@pocketgems.zendesk.com']}
+{'com.tivola.pethotel': ['Pet Hotel - My animal boarding kennel game', '8927372468482477196', '1,000,000+', 'http://www.tivola.com', 'apps@tivola.de']}
+{'com.codigames.idle.airport.tycoon': ['Idle Airport Tycoon - Tourism Empire', '6768033056419806404', '1,000,000+', 'http://codigames.com', 'support+iat@codigames.com']}
+{'com.cookingchef.kitchen.free': ['Cooking Chef', 'gameone', '10,000,000+', 'https://sites.google.com/site/gameoneprvacypolicy/', 'gaming.one@hotmail.com']}
+{'net.isitlove.cartercorp.matt': ['Is-it Love? Matt - Dating Sim', '7930656545935917988', '5,000,000+', 'http://1492.io', 'support@1492.io']}
+{'com.pixowl.goosebumps': ['Goosebumps HorrorTown - The Scariest Monster City!', '5313314117424352644', '1,000,000+', 'http://www.goosebumps.town', 'goosebumps@pixowl.com']}
+{'com.vousaimrayou.gamesimoofree': ['Live Chat With Siwa jojo. Simulation', 'LeahJohansen', '50,000+', None, 'LeahJohansen@outlook.de']}
+{'com.scarydudes.green.grandpa.alien': ['Scary Green Grandpa Alien', 'Scary+Dudes', '500,000+', 'https://docs.google.com/document/d/1yfcdOXnph9pJpKSPe8AeF9Gn-yJXMcJu-JD6SZ3fBvs/edit?usp=sharing', 'scarydude786@gmail.com']}
+{'com.baklabs.taxi.simulator': ['Taxi Game Free - Top Simulator Games', 'baklabs', '50,000,000+', 'http://taxigamesfree.com/', 'hi@taxigamesfree.com']}
+{'com.rabbitmountain.underwatervr': ['VR Abyss: Sharks & Sea Worlds for Google Cardboard', '7132661048838194005', '1,000,000+', 'http://virtualamigos.com', 'office@virtualamigos.com']}
+{'jp.ne.ambition.googleplay_nizikano2d_glb': ['Dream Girlfriend', '4685636909317788836', '1,000,000+', 'http://dreamgirlf.com/', 'info@us.nizikano-2d.jp']}
+{'com.rappidstudios.simulatorbattle': ['Epic Battle Simulator', '6969262566755058206', '10,000,000+', 'http://www.rappidstudios.com/index.php/privacy-policy', 'rappidstudios@gmail.com']}
+{'com.tivola.animals.home': ['Pet World - My animal shelter', '8927372468482477196', '5,000,000+', 'http://www.tivola-mobile.com/en/animal-games/petworld-my-animal-rescue/', 'apps@tivola.de']}
+{'jp.pokemon.koiking': ['Pokémon: Magikarp Jump', 'The+Pokemon+Company', '10,000,000+', 'http://www.apppokemon.com/gate/', 'app-auto-reply@pokemon-support.com']}
+{'com.YovoGames.carwash3': ['Car Wash - Monster Truck', 'Games+from+YovoGames+!', '1,000,000+', 'http://yovogames.com', 'yovokids@gmail.com']}
+{'com.rmg.galaxymerge': ['Merge Battle Plane - Idle & Click Tycoon', '5429203503551516829', '10,000+', 'http://redmachinegames.com/', 'red.machine.games+merge@gmail.com']}
+{'com.MoustacheBanana.TacticalWarSimulator': ['Tactical Battle Simulator', 'Moustache+Banana', '1,000,000+', 'https://silastbz.wixsite.com/privacypolicy', 'silastbz@yahoo.de']}
+{'com.DynamicGames.HeavyBusSimulatorTeste': ['Heavy Bus Simulator', 'Dynamic+Games+Entretenimento+Ltda', '10,000,000+', 'http://www.dynamicgames.com.br', 'dynamicgamesentertainment@gmail.com']}
+{'com.turborocketgames.dragonsim': ['Dragon Sim Online: Be A Dragon', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com/extra/privacypolicy.htm', 'support@turborocketgames.com']}
+{'lovegame.forgirls.highschool.kissme': ['Heartbeat: My Choices, My Episode', '6577302870648328592', '500,000+', 'http://ticktap.com/privacypolicy.html', 'contact@zoomob.com']}
+{'com.ovilex.flightsim2018': ['Flight Sim 2018', '5339076793638178981', '1,000,000+', 'http://www.ovilex.com/', 'ovidiu.pop.92@gmail.com']}
+{'com.popreach.guavajuice': ['Guava Juice: Tub Tapper', 'PopReach+Incorporated', '500,000+', 'http://www.PopReach.com', 'support@popreach.com']}
+{'com.belkatechnologies.fe': ['Funky Bay - Farm & Adventure game', '4845317959578407531', '1,000,000+', 'https://www.facebook.com/funkybay/', 'funky-bay-gp@belkatechnologies.com']}
+{'com.starstable.horses': ['Star Stable Horses', '6199980706726160420', '1,000,000+', 'http://www.starstable.com', 'mobile@starstable.com']}
+{'com.diego.ynshco': ['Akademi School Simulator Knowledge', 'GearWay.', '50,000+', None, 'lesleykumcin@gmail.com']}
+{'com.voodoo.idleballs': ['Idle Balls', 'VOODOO', '1,000,000+', 'http://www.voodoo.io/', 'support@voodoo.io']}
+{'ru.appa47.fallingvrsimulator': ['Falling VR Simulator', 'Appa47', '100,000+', 'https://docs.google.com/document/d/1rF2BPVCAfEhnfJxoN2PlxnWCSmDgISKyMoWmfdL04Uw/edit', 'Appa47Games@gmail.com']}
+{'com.gamegos.mobile.cafeland': ['Cafeland - World Kitchen', '5137364340371948270', '10,000,000+', 'http://www.gamegos.com', 'mobile@gamegos.com']}
+{'com.cakebuttonfantasy.bloodpressure': ['Blood Pressure Evaluation', 'Cake+Button+Fantasy', '500,000+', 'http://k8939-1.server1.febas.net/policy/', 'cakebuttonfantasy@gmail.com']}
+{'com.callfromryan.bestcalljokes': ['Call From Ryan ToyReview - Joke', 'TT.Distribution', '5,000+', 'https://justpaste.it/7gjbc', 'LiveChatWithMe.TT.Destribustion@gmail.com']}
+{'com.hotheadgames.google.free.rawsniper': ['Kill Shot', 'Hothead+Games', '10,000,000+', 'http://www.hotheadgames.com', 'support@hotheadgames.com']}
+{'com.turner.amateursurgeon4': ['Amateur Surgeon 4', '%5Badult+swim%5D+games', '1,000,000+', 'http://adultswim.com', 'adultswimdotcom@gmail.com']}
+{'com.blingblinggames.idlespacecompany': ['Idle Tycoon: Space Company', 'Bling+Bling+Games+GmbH', '500,000+', 'http://idlespacecompany.com/', 'support@blingblinggames.com']}
+{'com.turborocketgames.catsim': ['Cat Sim Online: Play with Cats', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com/extra/privacypolicy.htm', 'support@turborocketgames.com']}
+{'com.gameinsight.tribez': ['The Tribez: Build a Village', '6367901761320314739', '10,000,000+', 'https://gameinsight.helpshift.com/a/the-tribez/', 'support_tribez@game-insight.com']}
+{'com.pearlgames.villagecityislandsim': ['Village City - Island Simulation', '5388715782034979460', '10,000,000+', 'https://www.sparklingsociety.net', 'android-villagecity@sparklingsociety.net']}
+{'jp.co.cybird.appli.android.sgk.en': ['Ikemen Sengoku:Otome Game', '8278990351028394215', '500,000+', 'https://ikemen-series.com', 'sge01@support.cybird.ne.jp']}
+{'com.innogames.elvenar': ['Elvenar', '8874025902646436777', '1,000,000+', 'http://www.innogames.com', 'elvenar.android@support.innogames.com']}
+{'com.backflipstudios.android.dragonvale': ['DragonVale', 'Backflip+Studios', '10,000,000+', 'http://www.backflipstudios.com', 'androidsupport@backflipstudios.com']}
+{'com.puppetbox.lunarmission': ['Lunar Mission', 'Puppet+Games', '1,000,000+', None, 'contact@puppet.games']}
+{'com.barabapps.djmix': ['DJ Mix Effects Simulator', 'BarabApps', '1,000,000+', 'https://docs.google.com/document/d/1jqlMq9cOZkwDnmWLYmnGhhpzaocRpyOCWrCgDaCP_v0/edit?usp=sharing', 'barabapps@gmail.com']}
+{'com.timuzgames.euroflightsimulator2018': ['Airplane Simulator 2018', '8347901481645278558', '1,000,000+', 'http://www.timuz.com', 'info@timuz.com']}
+{'com.brokenreality.thebigcapitalist.android': ['The Big Capitalist', 'Broken+Reality', '1,000,000+', 'https://brokenrealityapp.wordpress.com/', 'lingzilau@gmail.com']}
+{'com.biglemon.cookingjoy': ['Cooking Joy - Super Cooking Games, Best Cook!', 'Top+Girl+Games', '5,000,000+', 'http://videonews.strikingly.com/#privacy-policy', 'game.support@zentertain.net']}
+{'com.bellapps.realliedetector': ['Real Lie Detector Simulator', 'BellApps', '1,000,000+', 'https://docs.google.com/document/d/16tgZKNojbqjF52vrLjInMkmOuufdo64j34gYB9aTxL8/edit?usp=sharing', 'bellappsgames@gmail.com']}
+{'com.tivola.animalhospital.free': ['Pet World – My Animal Hospital – Dream Jobs: Vet', '8927372468482477196', '500,000+', 'http://www.tivola.com', 'apps@tivola.de']}
+{'com.sparklingsociety.cityisland5': ['City Island 5 - Tycoon Building Simulation Offline', '8369629392252386483', '100,000+', 'http://www.sparklingsociety.net', 'android-cityisland5@sparklingsociety.net']}
+{'com.abstractsoft.hybridanimals': ['Hybrid Animals', 'Abstract+Software+Inc.', '5,000,000+', 'https://www.abstractsoftwares.com/', 'harrison@abstractsoftwares.com']}
+{'com.baklabs.taxi.two': ['Taxi Game 2', 'baklabs', '10,000,000+', 'http://taxigamesfree.com/', 'hi@taxigamesfree.com']}
+{'com.danchoco.growminer': ['Super Miner : Grow Miner', '9060487873845347658', '1,000,000+', 'https://www.facebook.com/Danchoco-271629636561367/', 'hks8902@gmail.com']}
+{'air.DanceMagicStyles': ['Dance Magic Fashion Style Games', 'Poma+Colt', '1,000,000+', None, 'zwenbd@mail.ru']}
+{'com.zynga.FarmVilleTropicEscape': ['FarmVille: Tropic Escape', '6690081412016968981', '10,000,000+', 'https://zyngasupport.helpshift.com/a/farmville-tropic-escape/?l=n', 'android.support@zynga.com']}
+{'com.swiftappskom.pantheronline': ['Panther Online', 'Swift+Apps+LTD', '1,000,000+', 'http://swiftapps.pl/our-games/', 'support@swiftapps.pl']}
+{'air.com.oranginalplan.weaphonesfree': ['Weaphones™ Gun Sim Free Vol 1', 'OranginalPlan', '10,000,000+', 'http://www.facebook.com/OranginalPlan', 'support@oranginalplan.com']}
+{'com.nixhydragames.thearcana': ['The Arcana - A Mystic Romance', '7636427315709631344', '500,000+', 'http://www.nixhydra.com', 'arcana@nixhydragames.com']}
+{'com.loadcomplete.marimo': ['Marimo League : Be almighty and watch combats', '7286743576877731641', '50,000+', 'http://www.loadcomplete.com', 'macaronhelp@loadcomplete.com']}
+{'net.isitlove.mysteryspell.drogo': ['Is-it Love? Drogo - Vampire', '7930656545935917988', '10,000,000+', 'http://1492.io', 'support@1492.io']}
+{'com.craftgames.plntcrft': ['Planet Craft: Block Survival Craft Games Online', 'Playlabs,+LLC', '5,000,000+', 'http://playlabsmobile.com/privacy_policy_playlabs.html', 'sergey.sas.cool@gmail.com']}
+{'com.onetongames.bmho': ['Bigfoot Monster Hunter Online', '9176665870943617333', '100,000+', 'https://goo.gl/DsGbru', 'status-nsk@mail.ru']}
+{'com.vizorinteractive.zombiesettlersv2': ['Zombie Castaways', '8530020481101400394', '10,000,000+', 'http://www.vizor-interactive.com', 'zs@vizor-interactive.com']}
+{'com.futureplay.life': ['Idle Tuber Empire', '9170985961245337722', '1,000,000+', 'http://www.futureplaygames.com', 'support@futureplaygames.com']}
+{'com.uken.armory': ['Armory & Machine', 'Daybreak+Industries', '500,000+', 'http://daybreak.io/privacy.html', 'contact@daybreak.io']}
+{'com.bud.farm.green.idle.khalifa.hempire': ['Bud Farm Idle - Hempire Farm Growing Tycoon', 'Lunaweedy', '10,000+', 'https://sites.google.com/view/weedfarmidle/trang-ch%E1%BB%A7', 'chickrice2288@gmail.com']}
+{'scratch.capitalist.tycoon.luckydonuts': ['Lucky Donuts', 'Lucky+Donuts+Inc.', '50,000+', 'https://snowcold.github.io/privacy/', 'ybetrifork@gmail.com']}
+{'com.ashleygame.stickman.dismount.turbo': ['Stickman Dismount Turbo', 'AshleyGame', '10,000+', 'https://privacypolicies.com/privacy/view/5b86014bb771b4f6b0b9c385522cab12', 'cheukhoching1206@gmail.com']}
+{'com.hypebits.android.thriller': ['Cliffhanger - Chat Stories', 'Hype+Bits', '1,000,000+', 'https://getcliffhanger.com/', 'hypebits@gmail.com']}
+{'com.pianotiles.battle.mode.free': ['Magic Piano Pink - Music Game 2019', 'Music+Infinity', '1,000,000+', 'https://sites.google.com/site/musicinfinitystudio/', 'music.infinity@outlook.com']}
+{'com.ludia.jurassicpark': ['Jurassic Park™ Builder', 'Ludia+Inc.', '10,000,000+', 'http://support.ludia.com', 'support@ludia.com']}
+{'jp.danball.powdergameviewer': ['Powder Game', '5698704764435009544', '1,000,000+', 'https://dan-ball.jp/en/m/', 'mobile.danball@gmail.com']}
+{'com.AS.magic1': ['Totally Accurate Crowd Battle City', 'Alibaba+,STD', '50,000+', 'https://kasumigame.blogspot.com/b/post-preview?token=APq4FmAVLhSNuvz6SmPP8kyAPE9louWVtWOQtFyuD-D1qPXmb0leu_Pf7-8uGtCWk40od-gs4--6VlUfD-9FFwZvlmeacnwTHs-4P4nHxsGpJDD9-VgdlIxeOFWsETdNGxjcgSEHP5dU&postId=4458567342650761235&type=POST', 'alibaba.std@gmail.com']}
+{'com.tttery.SchoolLifeSimulator': ['School Life Simulator', 'TTTERY', '1,000,000+', 'https://ttterypp.jimdofree.com/', 'tamagodofutabesugi@gmail.com']}
+{'br.com.tapps.weareilluminati': ['We Are Illuminati - Conspiracy Simulator Clicker', '6615809648420562690', '5,000,000+', 'http://tappsgames.com', 'user.support+weareilluminati@tappsgames.com']}
+{'com.bigbluebubble.msm2': ['My Singing Monsters: Dawn of Fire', '4772512400666501557', '1,000,000+', 'https://www.bigbluebubble.com/home/games/my-singing-monsters-series/my-singing-monsters-dawn-of-fire/', 'dawnoffire@bbbsupport.com']}
+{'fi.bongames.transitking': ['Transit King Tycoon  – Transport Empire Builder', '8899778280377930083', '1,000,000+', 'http://bongames.fi/', 'transitking@bongames.fi']}
+{'idlegame.money.ganster': ['Ganster Tycoon', 'Lucrecia+Studio', '5,000+', 'https://ganstersgame.blogspot.com/2019/02/gansters-privacy-policy.html', 'lucreciawang0709@gmail.com']}
+{'com.Cheritz.MysticMessenger': ['Mystic Messenger', 'Cheritz+Co.,+Ltd', '1,000,000+', 'http://msg.cheritz.com/', 'support@cheritz.com']}
+{'com.Love.Story.Games.Teenage.Drama': ['Love Story Games: Teenage Drama', '6353302165753628591', '5,000,000+', 'https://www.lovestorygames.com', 'lovestory.webelinx@gmail.com']}
+{'com.milliongames.impossiblemonsterstunts': ['Impossible Monster Stunts', 'Million+games', '1,000,000+', 'http://www.milliongames.net', 'milliongames333@gmail.com']}
+{'com.playhardlab.factory': ['Factory Inc.', 'FreeGameTeam', '10,000+', 'http://playhardlab.com/', 'hi@playhardlab.com']}
+{'com.timuzsolutions.rollercoastersimulator': ['Roller Coaster 3D', '8347901481645278558', '10,000,000+', 'http://www.timuz.com', 'support@timuz.com']}
+{'com.voltage.lovestruck.ggl.en': ['Lovestruck Choose Your Romance', '7309478564074899011', '1,000,000+', 'http://www.voltage-ent.com/', 'lovestruck@voltageent.zendesk.com']}
+{'com.zatg.scaryneighbor.hellgame': ['Scary Neighbor 3D', 'Z+%26+K', '1,000,000+', 'http://www.gvois.com', 'gvoiszubi@gmail.com']}
+{'com.atari.mobile.rct4m': ['RollerCoaster Tycoon® 4 Mobile', 'Atari,+Inc.', '10,000,000+', 'http://www.atari.com', 'customersupport@atari.com']}
+{'com.tryfoot.forest.bigfoot': ['Bigfoot Hunting', 'nanoByte', '100,000+', 'https://www.facebook.com/notes/tinytin-games-studio/privacy-policy/275467643007846/', 'tryfootstudios@gmail.com']}
+{'com.BlingBlingGames.CraftingIdleClicker': ['Crafting Idle Clicker', 'Bling+Bling+Games+GmbH', '1,000,000+', 'http://IdleClicker.com', 'support@blingblinggames.com']}
+{'com.kumagames.highschoolsimulator': ['High School Simulator 2017', '6767533363572246846', '5,000,000+', 'https://www.youtube.com/watch?v=BaVJP0XScnA', 'sugikami1982@gmail.com']}
+{'jp.mfapps.novel.roomies': ['My Sweet Roomies!', 'Fuji+Television', '1,000,000+', 'http://www.fujitv.co.jp/', 'mfapps.cs@gmail.com']}
+{'com.mp.spiderboysanandreascrimecity': ['Spider Boy San Andreas Crime City', 'MobilePlus', '1,000,000+', 'http://www.mobileplusgames.com', 'mobileplusbv@gmail.com']}
+{'br.com.tapps.xstreamer': ['xStreamer - Livestream Simulator Clicker Game', '6615809648420562690', '1,000,000+', 'http://tappsgames.com', 'user.support+xstreamer@tappsgames.com']}
+{'com.nc.robot.shark': ['Robot Shark', '6403999637074722463', '5,000,000+', 'https://naxeex.com/', 'feedback@naxeex.com']}
+{'jp.musaeum.c01a003': ['Honey Magazine -  Free otome dating game', '8870354335175025739', '100,000+', 'http://honeymagazine.net/en/', 'sap@okko.jp']}
+{'com.teaandcakegames.yandere': ['Yandere School', 'Tea+%26+Cake+Games', '5,000,000+', 'http://yandere-school.com', 'contact@teaandcakegames.com']}
+{'com.XonStudio.UniversalSandbox': ['Ultimate Sandbox', 'XonStudio', '1,000,000+', 'https://xoneman.github.io/Privacy-policy/', 'xoneman97@gmail.com']}
+{'games.fatlion.kindergarten.simulator.smart.kids.baby.care.games.sandbox.crafting.building.minecraft.girls.toys.free.lite.mcpe': ['Baby Craft: Crafting & Building Adventure Games', '8326642621664460077', '1,000,000+', 'https://fatlion.games/', 'admin@fatlion.games']}
+{'br.com.tapps.hospitaldash': ['Hospital Dash - Healthcare Time Management Game', '6615809648420562690', '5,000,000+', 'http://tappsgames.com', 'contact@tappsgames.com']}
+{'com.acoingames.Idle.drivein': ['Drive In! -  Idle Tapper Game', '7278979865059427874', '100,000+', 'http://www.acoingames.com/privacypolicy/', 'feedback@acoingames.com']}
+{'jp.danball.eartheditor': ['Earth Editor', '5698704764435009544', '1,000,000+', 'https://dan-ball.jp/en/m/', 'mobile.danball@gmail.com']}
+{'com.zuuks.truck.simulator.euro': ['Truck Simulator 2018 : Europe', '4659029515162839487', '10,000,000+', 'http://www.zuuks.com', 'help@zuuks.com']}
+{'com.dmitsoft.mouse': ['Mouse', 'Dmitsoft', '5,000,000+', 'https://sites.google.com/site/dmitsoftgames/privacy-policy', 'dmitsofta@gmail.com']}
+{'com.madfingergames.monzo': ['MONZO - Digital Model Builder', '7951118518332869031', '5,000,000+', 'http://www.madfingergames.com', 'contact@madfingergames.com']}
+{'com.OppanaGames.MuscleCarChallenger': ['Muscle Car Challenger', 'Oppana+Games', '1,000,000+', 'https://www.facebook.com/notes/og/privacy-policy/400234887005186', 'oppanagames@gmail.com']}
+{'com.onetongames.bigfootmh': ['Bigfoot Monster Hunter', '9176665870943617333', '1,000,000+', 'https://goo.gl/DsGbru', 'status-nsk@mail.ru']}
+{'com.biogames008.raftsurvival': ['Raft Survival', 'BIO+Games', '5,000,000+', 'https://sites.google.com/site/biogamepolicy/', 'biogame008@gmail.com']}
+{'com.tinydragonadventuregames.build.minecraft.create.cube.mine.craft.exploration.pocket.lite.skyscraper.block.world.terraria': ['City Build Craft: Exploration of Big City Games', '6345261670638519127', '1,000,000+', 'https://projectx-mobile.apps.tinydragonadventure.com/policy/tdagindex?gamename=xcraft.citybuilder&gametitle=xcraft.citybuilder', 'pocketcraftgames@gmail.com']}
+{'com.door.police.car.driver.games': ['Drive Police Car Gangsters Chase Crime', 'Door+to+apps', '1,000,000+', 'https://door2appslive.wordpress.com', 'doortoapps@gmail.com']}
+{'com.pickle.CopDutyPoliceCarSimulator': ['Cop Duty Police Car Simulator', 'Game+Pickle', '1,000,000+', 'http://www.i6.com/mobile-privacy-policy/', 'gamepicklestudios@gmail.com']}
+{'com.rappidstudios.simulatorbattlearmy': ['Army Battle Simulator', '6969262566755058206', '1,000,000+', 'http://rappidstudios.com', 'rappidstudios@gmail.com']}
+{'net.isitlove.cartercorp.adam': ['Is it Love? - Adam - Story with Choices', '7930656545935917988', '1,000,000+', 'http://www.isitlove.net', 'studio@1492.io']}
+{'com.lavaflame.IdleSkilling': ['Idle Skilling - Pocket RPG Tycoon', 'Velvet+Void+Studios', '100,000+', 'http://velvetVoid.webs.com', 'velvetvoid@gmail.com']}
+{'com.workpoint.dist2.alpaca': ['Alpaca World HD+', 'Ammonite+Studio', '1,000,000+', 'http://www.facebook.com/game.alpacafarm', 'ammonite.studio@gmail.com']}
+{'com.frismos.dogworld': ['Dog Town: Pet Shop Game, Care & Play with Dog', '8858034574306643292', '1,000,000+', 'http://frismos.com', 'gamesupport@frismos.com']}
+{'com.mtsgames.goatsimulatorfree': ['Goat Simulator Free', 'Multi+Touch+Games', '1,000,000+', 'http://www.multitouchstudio.com', 'support@multitouchstudio.com']}
+{'com.genetic.realcarparking2': ['Real Car Parking 2 : Driving School 2018', '8550478867825785622', '10,000,000+', 'http://www.geneticstudios.com', 'info@geneticstudios.com']}
+{'com.tabtale.hotdoghero': ['Hot Dog Hero - Crazy Chef', '5735447750101420287', '1,000,000+', 'https://www.tabtale.com/', 'support@TabTale.com']}
+{'com.spilgames.story.beats': ['Story Beats: Operate Now Stories', '8077753437082489031', '100,000+', 'https://www.spilgames.com/', 'support@storybeatsthegame.com']}
+{'com.i6.FlightSimulatorAirplane3D': ['Flight Simulator: Fly Plane 3D', '8702197959022172025', '50,000,000+', 'http://i6games.net/', 'support@i6games.net']}
+{'net.appmaga.pixelfarm': ['Tiny Pixel Farm - Simple Farm Game', '6526975909208527105', '1,000,000+', 'https://gamestart.jp/tiny-pixel-farm/', 'info@gamestart.jp']}
+{'com.ngerofstickzombiegolfcart': ['Invincible Dead Driving', 'Mack+Wilkinson', '10,000+', 'http://policy.superstarkpop.com/privacy.html', 'mackwilkinson443@gmail.com']}
+{'kg.game.apps.lifesim': ['Life Simulator', 'kgapps', '50,000+', 'https://docs.google.com/document/d/e/2PACX-1vRZJLVWadaPYtNyLNBWVPwxHVXV4Jl4diToxzNVUExMzrxs6XPDkmsH2SvW9ZqqdULWKw2jGS1q9W4m/pub', 'info.kgapps@gmail.com']}
+{'com.chillyroom.happy': ['We Happy Restaurant', 'ChillyRoom', '500,000+', 'http://www.chillyroom.com', 'info@chillyroom.com']}
+{'com.playmobil.luxusvilla': ['PLAYMOBIL Luxury Mansion', '7974885382983319843', '10,000,000+', 'http://www.playmobil.com', 'service@playmobil.de']}
+{'com.tapfree.surgeonsim.doctor.jobsimulator': ['Surgeon Doctor 2018 : Virtual Job Sim', 'Tap2Play,+LLC+%28Ticker:+TAPM%29', '500,000+', 'http://tapinator.com', 'tap2play@tapinator.com']}
+{'br.com.tapps.intothedeepweb': ['Into the Deep Web - Internet Mystery Idle Clicker', '6615809648420562690', '500,000+', 'http://tappsgames.com', 'user.support+intothedeepweb@tappsgames.com']}
+{'ragdoll.warriors.fighting': ['Ragdoll Warriors : Crazy Fighting Game', 'HOD+Game+Studio', '100,000+', 'https://www.facebook.com/permalink.php?story_fbid=2183522751860752&id=2183522335194127', 'publisher.hodgame@gmail.com']}
+{'br.com.tapps.cookbookmaster': ['Cookbook Master - Master Your Chef Skills!', '6615809648420562690', '10,000,000+', 'http://tappsgames.com', 'user.support+cookbookmaster@tappsgames.com']}
+{'com.semickolon.seen': ['Seen', '8689562767134265419', '5,000,000+', 'http://www.polychromagames.com', 'contact@polychromagames.com']}
+{'com.backflipstudios.android.dragonvale2': ['DragonVale World', 'Backflip+Studios', '1,000,000+', 'http://www.backflipstudios.com', 'androidsupport@backflipstudios.com']}
+{'com.intelligration.vestly': ['Vestly', 'Intelligration+LLC', '100,000+', 'https://vestlygame.com/', 'support@vestlygame.com']}
+{'angry.wolf.simulator.werewolf.games.rampage': ['The Angry Wolf Simulator : Werewolf Games', '5399402820103367739', '100,000+', 'http://mightygtgames.blogspot.com/p/privacy-policy-mighty-green-thumb-this.html', 'mightygreenthumb@gmail.com']}
+{'com.cakebuttonfantasy.bodytemperature': ['Body Temperature Converter', 'Cake+Button+Fantasy', '100,000+', 'http://k8939-1.server1.febas.net/policy/', 'cakebuttonfantasy@gmail.com']}
+{'com.spheregamestudios.designercity': ['Designer City: building game', '5640292770246134663', '1,000,000+', 'http://www.spheregamestudios.com', 'support@spheregamestudios.com']}
+{'com.vinegargames.virtual.thief.simulator.game': ['Jewel Thief Grand Crime City Bank Robbery Games', '5491963132555144993', '1,000,000+', 'http://www.arcadiangameszone.com/privacypolicy/privacypolicy.htm', 'gamesarcadian@gmail.com']}
+{'com.Funny.Beasts.BattleGangs': ['Gangs Wrestling : Beasts Fighting Game', 'Lara+Studio', '100,000+', None, 'larafreemanstudio@gmail.com']}
+{'com.idleif.abyssrium': ['Tap Tap Fish - AbyssRium', 'Cheetah+Games', '10,000,000+', 'http://www.cmcm.com', 'abysshelp@conew.com']}
+{'com.OppanaGames.Lamborghini': ['Car Simulator Veneno', 'Oppana+Games', '1,000,000+', 'https://www.facebook.com/notes/og/privacy-policy/400234887005186', 'oppanagames@gmail.com']}
+{'com.mysupermarketstory.storetycoonsimulation': ['My Supermarket Story : Store tycoon Simulation', '6983514835584838345', '100,000+', 'https://sites.google.com/view/amazinggamesinter', 'runninggamesinc@gmail.com']}
+{'com.rcgames.dinosaurhunter.dinosaurgames': ['Dinosaur Hunter 2018: Dinosaur Games', 'Redcorner+Games', '1,000,000+', 'https://redcornergames.wordpress.com/privacy-policy/', 'redcornergames@gmail.com']}
+{'com.codigames.idle.harbor.tycoon': ['Idle Harbor Tycoon - Incremental Clicker Game', '6768033056419806404', '50,000+', 'http://codigames.com', 'support+harbor@codigames.com']}
+{'com.accurve.game23': ['SIM - Sara Is Missing', 'Kaigan+Games+O%C3%9C', '1,000,000+', 'http://www.kaigangames.com', 'info@kaigangames.com']}
+{'com.nimblebit.tinytower': ['Tiny Tower', '6980083735741436533', '1,000,000+', 'http://nimblebit.com', 'contact@nimblebit.com']}
+{'com.ogien.kidstrains': ['Kids Train Sim', '7830845280092528776', '1,000,000+', 'http://www.3583Bytes.com', 'reachadam@outlook.com']}
+{'com.pixio.google.evl': ['Tap Tap Evil Mastermind - Idle Doomsday Clicker', '9097044332653942940', '500,000+', 'http://www.pixio.co', 'support@pixio.co']}
+{'com.itchmedia.tc4': ['Car Merger', 'VOODOO', '5,000,000+', 'http://www.voodoo.io', 'support@voodoo.io']}
+{'com.mobage.ww.a1912.Godus_Android': ['Godus', '22cans', '5,000,000+', 'http://www.22cans.com', 'godus@22cans.com']}
+{'com.KG.hdw': ['Happy Deadly Racing', 'King+of+Games+studio', '100,000+', 'https://kasumigame.blogspot.com/b/post-preview?token=APq4FmDiHDcPblHncH958Jzy8xaaV45FbXNIAg9Ou9t-fPgOgPYLnXghlOr5sG5tk_Q0iCCwLEv4eXjAbmSnQ8WyIuC-DEYXiduv07avB2vA3aj4RpBQr034mLD2v9ZsZfKgIb-Ou-Yb&postId=2593723184312619335&type=POST', 'kingofgame.std.dev@gmail.com']}
+{'com.pixelberrystudios.hssandroid': ['High School Story', 'Pixelberry', '10,000,000+', 'http://www.pixelberrystudios.com/', 'help@pixelberrystudios.com']}
+{'com.voltage.g.hykoi.en': ['Love 365: Find Your Story', 'Voltage,+Inc.', '500,000+', 'http://www.voltage.co.jp/', 'hykoi_en_ggl@inq.voltage.co.jp']}
+{'com.funplaygames.squishytoys': ['Squishy Toys : Anti Stress Ball Simulator', 'Fun+Play+Games', '100,000+', 'https://firebasestorage.googleapis.com/v0/b/fun-play-games.appspot.com/o/privacypolicy.html?alt=media&token=f793e738-2a04-4a4d-8744-3359b7c64e82', 'funplaygames2019@gmail.com']}
+{'com.hotelnanc.transylviana': ['Chat with transylvania Hotel', 'Murla', '100,000+', None, 'info@murla.com']}
+{'com.herocraft.game.farmfrenzy.freemium': ['Farm Frenzy Free: Time management game', '6774717208644425046', '10,000,000+', 'http://www.herocraft.com', 'support@herocraft.com']}
+{'com.ldw.fishtycoon2': ['Fish Tycoon 2 Virtual Aquarium', '7528537393826584694', '1,000,000+', 'http://www.lastdayofwork.com', 'support@ldw.zendesk.com']}
+{'idlefactorygame.moneyclicker.cashtycoon': ['Mega Factory -idle game, money clicker, click game', 'Funny+Game+For+Free', '5,000+', 'http://www.ufotosoft.com', 'qifhh123@gmail.com']}
+{'com.milliongames.dinosaursimulator2019': ['Dinosaur Simulator 2019', 'Million+games', '500,000+', 'http://www.milliongames.net', 'milliongamesnew@gmail.com']}
+{'com.runawayplay.furistascatcafe': ['Furistas Cat Cafe', '8595612636029949156', '1,000,000+', 'http://runawayplay.com', 'support@runawayplay.mail.helpshift.com']}
+{'com.jjbredesen.ps4sim': ['PS4 Simulator', '5487111816457047793', '500,000+', None, 'left4theundeadapps@gmail.com']}
+{'com.droid.developer.crack.screen.prank': ['Cracked Screen Prank', '7337695826739966257', '5,000,000+', 'http://droid-developer.com', 'droiddeveloper4us@gmail.com']}
+{'jp.liberteenz.DragonDragon': ['Dragon x Dragon -City Sim Game', '9125134124964122617', '100,000+', 'https://www.facebook.com/Dragon-Dragon-349235285254225/', 'giant.monster.app@gmail.com']}
+{'com.HKT.dressupgame': ['Furry Maker - DressUp Game', 'Hard+Kawaii+Team', '500,000+', 'https://vk.com/furryvillage', 'Givon88@gmail.com']}
+{'com.ovilex.bussimulator2015': ['Bus Simulator 2015', '5339076793638178981', '50,000,000+', 'http://www.ovilex.com', 'ovidiu.pop.92@gmail.com']}
+{'com.rds.pet.hospital.animal.doctor.vet.clinic.hospital.games': ['Pet Hospital Vet Clinic Animal Vet Pet Doctor Game', 'Roadster+Inc+-+3D+Games+Action+%26+Simulation', '1,000,000+', 'http://www.roadsterinc.co', 'jehanzeb.zubair@gmail.com']}
+{'com.puffythumb.hshg': ['Hunting Games', '9053656078106634175', '1,000,000+', 'http://www.puffythumb.com', 'development@puffythumb.com']}
+{'com.LDRLY.budfarm420': ['Bud Farm: 420', 'LDRLY+Games', '100,000+', 'http://www.ldrlygames.io', 'support@budfarm420.zendesk.com']}
+{'com.ldw.vvo2': ['Virtual Villagers Origins 2', '7528537393826584694', '1,000,000+', 'http://www.ldw.com', 'support@ldw.zendesk.com']}
+{'ru.vasyabond.laserpointeranimalsjoke': ['Laser Pointer Animals Joke', 'Vasya+Bond', '5,000,000+', 'https://docs.google.com/document/d/1vA5OnFfsVk_8oUG68DM9I6Kmoi3LQU1Oc3fsvcpkMUM/edit', 'VasyaBond005@gmail.com']}
+{'com.appatrix.hair.salon.cut.sim': ['Barber Shop Hair Salon Cut Hair Cutting Games 3D', 'Giochi+Studios', '1,000,000+', 'http://www.appatrix.com', 'appatrix@gmail.com']}
+{'com.CartonStudio.SandboxMod': ['Sandbox Mod', '4631968755578253557', '1,000,000+', None, 'nikitalevikin4@gmail.com']}
+{'jp.garud.ssimulator': ['SAKURA School Simulator', '6926492978483065602', '100,000+', 'http://garud.jp/gplay/', 'infoandroid@garusoft.com']}
+{'crazygames.games.ngf': ['Naughty Girlfriend :pseudo app', '5599788780811258072', '1,000,000+', 'https://www.dropbox.com/s/w8phscnche7a6uw/pp.txt?dl=0', 'crazygames242@gmail.com']}
+{'com.turborocketgames.phoenixsim': ['Phoenix Sim 3D', '6804371481370659921', '1,000,000+', 'http://turborocketgames.com/', 'vladimir.duchenchuk@gmail.com']}
+{'com.owngames.owncoffeeshop': ['Own Coffee Shop: Idle Game', '5050647488420595889', '1,000,000+', 'http://www.own-games.com', 'gamemaster@own-games.com']}
+{'com.farm.hell.clicker': ['Idle Heroes of Hell - Clicker & Simulator', '5429203503551516829', '1,000,000+', 'http://redmachinegames.com/', 'red.machine.games+hell@gmail.com']}
+{'ru.arappsandgames.handdiyslimesimulator2': ['Hand DIY Slime Simulator 2', 'AR+Apps+And+Games', '500,000+', 'https://docs.google.com/document/d/185JoKWp0FAlikZsbX4BBxbrS9ZxkUsdvzw7yZMzymlY/edit', 'ARappsAndGames@gmail.com']}
+{'com.playkot.supercity': ['SuperCity: Building game', 'Playkot+LTD', '1,000,000+', 'https://en.playkot.com/game/supercity', 'support@playkot.mail.helpshift.com']}
+{'com.gameforhouse.carpark2018': ['Real Car Park 2018', 'Game+For+House', '1,000,000+', 'http://www.weboyunoyna.com/MuFaGames/MobilUygulamaGizlilikBildirimi.txt', 'Game-for-house@yandex.com']}
+{'com.happyfamily.tilemaster': ['HappyFamily - Magic Piano Master', 'Happy+Family+Team', '100,000+', 'https://sites.google.com/view/magicpianomasterprivacypolicy', 'erichugo22@hotmail.com']}
+{'com.OppanaGames.CarSim': ['Car Simulator OG', 'Oppana+Games', '10,000,000+', 'https://www.facebook.com/notes/og/privacy-policy/400234887005186', 'oppanagames@gmail.com']}
+{'com.preus.PreusZombi': ['100 DAYS - Zombie Survival', '6636365839273971543', '5,000,000+', 'http://www.preusgame.com', 'helppreus@gmail.com']}
+{'com.ovilex.trucksimulator3d': ['Truck Simulator 3D', '5339076793638178981', '10,000,000+', 'http://www.ovilex.com', 'ovidiu.pop.92@gmail.com']}
+{'net.isitlove.mysteryspell.peter': ['Is-it Love? Peter - Episode Vampire', '7930656545935917988', '1,000,000+', 'http://1492.io', 'support@1492.io']}
+{'com.lionstudios.ballsmasher': ['Ball Smasher', '6990178528646658622', '5,000+', 'http://lionstudios.cc', 'hello@lionstudios.cc']}
+{'br.com.tapps.bostondonuttruck': ['Boston Donut Truck - Fast Food Cooking Game', '6615809648420562690', '1,000,000+', 'http://tappsgames.com', 'user.support+bostondonuttruck@tappsgames.com']}
+{'com.turborocketgames.panthersim': ['Wild Panther Sim 3D', '6804371481370659921', '1,000,000+', 'http://turborocketgames.com/extra/privacypolicy.htm', 'vladimir.duchenchuk@gmail.com']}
+{'jp.co.ciagram.otome.games.nightmareforeign': ['Free Otome Games English: Nightmare Harem', '8942551490923126815', '100,000+', 'https://www.renaigame.xyz/', 'support+android_nightmareforeign@appli-contact.mobi']}
+{'com.herocraft.game.free.taptapbuilder': ['Tap Tap Builder', '6774717208644425046', '1,000,000+', 'http://tap-tap-builder.herocraft.com', 'support@herocraft.com']}
+{'com.kumagames.hss2019preview': ['High School Simulator 2019 Preview', '6767533363572246846', '500,000+', 'https://www.facebook.com/KUMA-GAMES-1701697003383680/', 'sugikami1982@gmail.com']}
+{'com.ogien.trainsim': ['Train Sim', '7830845280092528776', '10,000,000+', 'http://www.3583Bytes.com', 'contact@3583Bytes.com']}
+{'com.malumapplications.handsngunssimulator': ["Hands 'n Guns Simulator", 'Applications-B', '1,000,000+', 'http://malumapplicationsblog.blogspot.com/2018/09/privacy-policy.html', 'mtimi678@gmail.com']}
+{'com.kdp.Panic': ['Gang Patty Panic - Crowd.io City', 'Hai+Duong+Nguyen', '10,000+', 'https://www.freeprivacypolicy.com/privacy/view/198da2614978e7a868918498ac3fb787', 'Audaiduongxanh1988@gmail.com']}
+{'com.zatg.scarystickman.hellgame': ["Who's this Scary Stickman", 'Z+%26+K', '1,000,000+', 'http://www.gvois.com', 'gvoiszubi@gmail.com']}
+{'com.nimblebit.pocketfrogs': ['Pocket Frogs', '6980083735741436533', '100,000+', 'http://nimblebit.com', 'support@nimblebit.com']}
+{'com.racinggames.crime_city.police_chase': ['Police Car Driving - Crime Simulator', 'Racing+Games+Android+-+Appsoleut+Games', '1,000,000+', 'http://appsoleut.technology/privacy-policy.html', 'owlnumber21@gmail.com']}
+{'com.ovilex.shipsim2019': ['Ship Sim 2019', '5339076793638178981', '100,000+', 'http://www.ovilex.com/', 'ovidiu.pop.92@gmail.com']}
+{'com.UltimateGames.Fishing': ['Ultimate Fishing Simulator', 'PlayWay+SA', '1,000,000+', 'http://www.playway.com', 'mastercode.pl@gmail.com']}
+{'com.freeproemulatorandroidgames.ps2': ['Free Pro PS2 Emulator Games For Android 2019', 'Sergey+Inc', '100,000+', 'https://www.applovin.com/privacy', 'sa0845360@gmail.com']}
+{'com.socialquantum.west3dint': ['Wild West: New Frontier. Build your super farm.', '6752757042013862878', '1,000,000+', 'http://www.socialquantum.com', 'wildwest@socialquantum.com']}
+{'com.hasbro.mlpcoreAPPSTORE': ['My Little Pony Celebration', 'Hasbro+Inc.', '5,000,000+', 'http://www.hasbro.com/mylittlepony/', 'hasbro_new@mailmw.custhelp.com']}
+{'uk.co.powdertoy.tpt': ['The Powder Toy', 'jacob1', '500,000+', 'http://powdertoy.co.uk', 'jacob@starcatcher.us']}
+{'com.milliongames.russiantrainsimulator': ['Russian Train Simulator', 'Million+games', '5,000,000+', 'http://www.milliongames.net', 'milliongamesnew@gmail.com']}
+{'com.ps.horrorclown.survival': ['Horror Clown Survival', '8743270357816422914', '1,000,000+', 'http://www.piranhastudios.co/privacy.html', 'piranhastudios.games@gmail.com']}
+{'de.gamebros.buymore': ['Idle Shopping Mall Tycoon', 'GAMEBROS+Dev.', '1,000,000+', 'http://www.gamebros-studio.com', 'community@gamebros-studio.com']}
+{'com.codigames.idle.cooking.tycoon': ['Idle Cooking Tycoon - Tap Chef', '6768033056419806404', '500,000+', 'http://codigames.com', 'support+ict@codigames.com']}
+{'com.bs.dr.multistorey.parking.car.street.master.apps': ['Street Car Parking 3D', 'Build+Solid', '5,000,000+', 'https://thebuildsolid.wordpress.com', 'buildsolid12@gmail.com']}
+{'jp.arismile.a1a348': ['Wicked Wolves', 'arithmetic+love+series', '100,000+', 'http://www.arith-metic.jp/privacy-policy/', '2d_boyfriends@arith-metic.jp']}
+{'com.baklabs.bus.simulator': ['Bus Game Free - Top Simulator Games', 'baklabs', '10,000,000+', 'http://taxigamesfree.com/', 'hi@taxigamesfree.com']}
+{'com.soulcastry.virtualdroid': ['Virtual Droid', 'SoulCastry', '1,000,000+', 'http://www.creapis.com/export.html', 'joremaplay@gmail.com']}
+{'net.isitlove.cartercorp.ryan': ['Is-it Love? Ryan: Choose your story – Otome Games', '7930656545935917988', '1,000,000+', 'http://1492.io', 'support@1492.io']}
+{'com.dinosaurhunter2019': ['Dinosaur Games', '7999847189216476747', '10,000+', 'http://www.xfactorgames.com', 'xfactorgames@gmail.com']}
+{'com.ohbibi.motorworlddinofactory': ['Dino Factory', '5252052215468021294', '1,000,000+', 'http://www.ohbibi.com', 'support@ohbibi.com']}
+{'com.apploft.mathformulasolutionsimulator': ['Math Formula Solution Simulato', 'Aploft', '1,000,000+', 'https://docs.google.com/document/d/1TQhVlth_h4sCTt-WZnXoNLFUXhhkm_lsxMW5VrIrKkI/edit', 'apploft777@gmail.com']}
+{'com.zatg.scarychild.horrorgame': ['Scary Child', 'Z+%26+K', '100,000+', 'http://www.gvois.com', 'gvoiszubi@gmail.com']}
+{'aceviral.dragoncraft': ['Dragon Craft', 'Ace+Viral', '1,000,000+', 'http://www.AceViral.com', 'support@aceviral.com']}
+{'com.InsaneInTheGame.CarCrashTestNIVA': ['Car Crash Test NIVA', '5395035856338656821', '100,000+', 'https://sites.google.com/site/insaneinthegameprod/', 'insanegameprod@gmail.com']}
+{'br.com.tapps.mymonsterhouse': ['My Monster House - Make Beautiful Dollhouses', '6615809648420562690', '1,000,000+', 'http://tappsgames.com', 'contact@tappsgames.com']}
+{'com.games_2k18.wicked.guns.battleidfield.simulator': ['Wicked Guns Battlefield : Gun Simulator', '2K18+games', '1,000,000+', 'http://2k18games.weebly.com/', 'papa_games@yahoo.com']}
+{'com.stickman.killer.backflip': ['Stickman Backflip Killer 5', '4885533528787718381', '1,000,000+', 'https://www.youtube.com/channel/UC4_NCnLFy5c6QLeuci6B9UA', 'beaten.pixel.studio@gmail.com']}
+{'com.gamesorbit.airplane.flight.simulator': ['Airplane Real Flight Simulator 2019: Pro Pilot 3D', 'Gaming+Stars+Inc', '1,000,000+', 'https://gamingstarsinc.blogspot.com/2018/09/gaming-stars-inc-services-conditions.html', 'gaming.stars.inc@gmail.com']}
+{'com.actgroup.real.city.crime.control.police.driver': ['Crime City Cop Car: Driver 3D Police 2018', 'ACT+Games', '500,000+', 'https://sites.google.com/view/privacypolicyactgames/home', 'mudassar385@gmail.com']}
+{'com.naxeex.nax.superhero': ['Naxeex Superhero', '4904364455782296418', '5,000,000+', 'https://naxeex.com', 'feedback@naxeex.com']}
+{'com.rds.dentist.hospital.er.emergency.doctor': ['Dentist Surgery ER Emergency Doctor Hospital Games', 'Roadster+Inc+-+3D+Games+Action+%26+Simulation', '500,000+', 'http://www.roadsterinc.co', 'jehanzeb.zubair@gmail.com']}
+{'com.nooleus.android.spaceagency': ['Space Agency', 'Nooleus', '1,000,000+', 'http://www.nooleus.com/', 'support@nooleus.com']}
+{'com.volcano.modrn.car.parking.d': ['Modern Car Drive Parking 3d  : TKN Car Games', 'The+Knights+Pvt+Ltd', '5,000,000+', 'http://www.theknightzpvt.com/home/privacypolicy', 'theknightspvtltd@gmail.com']}
+{'com.tivola.ShowJumping': ['Horse World - Show Jumping', '8927372468482477196', '1,000,000+', 'http://www.tivola.com', 'apps@tivola.de']}
+{'com.gtactiongames.bikestuntchallenge': ['Bike Stunt Challenge', 'GT+Action+Games', '100,000+', 'http://www.gtactiongames.com', 'gtactiongames@gmail.com']}
+{'com.gamehivecorp.tapmoney': ['Tap Tycoon', '6235556904639743520', '5,000,000+', 'https://www.facebook.com/TapTycoon', 'ttcc@gamehive.com']}
+{'com.timuzgames.eurobussimulator2018': ['Euro Bus Simulator 2018', '8347901481645278558', '5,000,000+', 'http://www.timuz.com', 'info@timuz.com']}
+{'com.mgc.miami.crime.simulator.second': ['Miami Crime Simulator 2', '4904364455782296418', '10,000,000+', 'https://naxeex.com/privacy-policy/', 'feedback@naxeex.com']}
+{'com.naxeex.army.toys.town': ['Army Toys Town', '7153203368724111677', '1,000,000+', 'http://naxeex.com', 'feedback@naxeex.com']}
+{'com.slimesmash.android': ['Slime Simulator Games', 'Solid+Apps+INC.', '1,000,000+', 'http://www.solidappsinc.co/', 'info@solidappsinc.co']}
+{'com.casox.IdleShapes': ['Idle Shapes', 'Devastated+Devs', '50,000+', 'http://casox.com', 'devastateddevs@gmail.com']}
+{'com.tinydragonadventuregames.mine.craft.pocket.exploration.build.jurassiccraft.dino.t.rex.lunacraft.minecraft.free.survival': ['Dino Jurassic Craft: Evolution', '6345261670638519127', '1,000,000+', 'http://tinydragonadventure.com', 'contact@tinydragonadventure.com']}
+{'com.mizo.house.builder.home.design.game': ['Modern Home Design & House Construction Games 3D', '5229457361184977321', '1,000,000+', 'http://www.mizostudio.com', 'mizostudioinc@gmail.com']}
+{'com.secg.dinocraft': ['DinoCraft Survive & Craft Pocket Edition', '5747880163517587344', '1,000,000+', 'http://www.survivalexplorecraft.com', 'admin@survivalexplorecraft.com']}
+{'com.lgdstudio.ilife': ['i Live - You play he lives', '8041942960973525488', '1,000,000+', 'http://lgdstudio.com', 'info@lgdstudio.com']}
+{'com.turborocketgames.eaglesim': ['Wild Eagle Sim 3D', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com/extra/privacypolicy.htm', 'vladimir.duchenchuk@gmail.com']}
+{'br.com.tapps.leagueofgamers': ['League of Gamers - Be an E-Sports Legend!', '6615809648420562690', '5,000,000+', 'http://tappsgames.com', 'user.support+leagueofgamers@tappsgames.com']}
+{'uk.co.pocketlabs.pocketuniversefree': ['My Pocket Galaxy - 3D Gravity Sandbox Free', 'PocketLabs', '1,000,000+', 'http://www.pocketlabs.co.uk', 'games@pocketlabs.co.uk']}
+{'com.tapblaze.homecraft': ['Homecraft - Home Design Game', '7300020765194314153', '500,000+', 'http://www.tapblaze.com', 'homecraft@tapblaze.com']}
+{'com.mgc.crime.santa': ['Crime Santa', '4904364455782296418', '1,000,000+', 'https://naxeex.com/privacy-policy/', 'feedback@naxeex.com']}
+{'com.ffgames.offroadmad': ['Offroad Madness', 'Fast+Free+Games', '100,000+', 'https://fastfreegames.wordpress.com/privacy-policy/', 'dzkdes@gmail.com']}
+{'com.akademgp.ParkourSimulator3DStuntsAndTricks': ['Parkour Simulator 3D', '4798759447707922463', '5,000,000+', 'http://akadem.at/', 'developer@akadem.at']}
+{'com.monois.android.eduapp30': ['Rube Goldberg Machine Tricks', 'monois+Inc.', '1,000,000+', 'http://monois.com', 'contact@monois.com']}
+{'com.spheregamestudios.mergecity': ['Merge City: idle building game', '5640292770246134663', '50,000+', 'http://www.spheregamestudios.com', 'support@spheregamestudios.com']}
+{'com.tgg.mylittleunicornrunnerpart2': ['My Little Unicorn Runner 3D 2', 'Girl+Games+-+Vasco+Games', '10,000,000+', 'http://www.vascogames.com/vasco-games-privacy-policy/', 'girlgamesvg@vascogames.com']}
+{'com.cgs.supermarket.shopping.mall.cashier': ['Supermarket Grocery Shopping Mall Family Game', 'Collider+Game+Studio', '500,000+', 'http://www.arcadianlab.com/privacy-policy.html', 'collidergamestudio@gmail.com']}
+{'com.avelog.mouse': ['Mouse Simulator', '8649821150617465428', '10,000,000+', 'https://unity3d.com/ru/legal/privacy-policy', 'aveloggames@gmail.com']}
+{'com.laminarresearch.x_plane10': ['X-Plane 10 Flight Simulator', 'Laminar+Research', '1,000,000+', 'http://www.x-plane.com', 'info@x-plane.com']}
+{'scratch.happy.cash.fashion': ['Fashion Scratch', 'YQS+Game', '10,000+', 'https://yqsgame.blogspot.com/2019/01/privacy-policy.html', 'yqs128130@gmail.com']}
+{'com.sablo.dollhouse.design.craft.girls.house.furniture.interior.home.decoration.citybuilder.construction.building.simulator': ['Doll House Design & Decoration : Girls House Games', 'Sablo+Games', '5,000,000+', 'http://sablostudio.com/', 'sablogamez@gmail.com']}
+{'air.com.oranginalplan.weaphonesvol2free': ['Weaphones™ Gun Sim Free Vol 2', 'OranginalPlan', '10,000,000+', 'https://www.facebook.com/OranginalPlan', 'support@oranginalplan.com']}
+{'com.pixelberrystudios.hwuandroid': ['Hollywood U: Rising Stars', 'Pixelberry', '5,000,000+', 'http://www.pixelberrystudios.com/', 'help@pixelberrystudios.com']}
+{'com.catsbit.survivalsimulator': ['Survival Simulator', '5636266799010625325', '1,000,000+', 'http://catsbit.com', 'catsbit.studio@gmail.com']}
+{'com.OppanaGames.MuscleCarSimulator': ['Muscle Car Simulator', 'Oppana+Games', '1,000,000+', 'https://www.facebook.com/notes/og/privacy-policy/400234887005186', 'oppanagames@gmail.com']}
+{'com.ovilex.bussimulator17': ['Bus Simulator 17', '5339076793638178981', '5,000,000+', 'http://www.ovilex.com/', 'ovidiu.pop.92@gmail.com']}
+{'com.XonStudio.SimpleBox2Lite': ['SimpleBox 2 Lite', 'XonStudio', '1,000,000+', None, 'xoneman97@gmail.com']}
+{'com.buildingcraftinggames.my.virtual.boyfriend.maker.princess.girls.craft.minecraft.pocket.edition.first.love.simulator.games': ['Boyfriend Girls Craft: Love', 'Crafting+And+Building+Games+For+Girls+Adventure', '1,000,000+', 'https://projectx-mobile.apps.craftingandbuilding.games/policy/bcindex?gamename=xcraft.boyfriend&gametitle=xcraft.boyfriend', 'buildingcraftinggames@gmail.com']}
+{'com.pcs.hello.neighbors.blockyInTown': ['Hello Blocky Neighbour in Town', '4779969128663469113', '100,000+', 'https://sites.google.com/view/barracudafishgames/privacy-policy', 'barracudafishgames@gmail.com']}
+{'com.prettyteengames.love.story.games.home.romance': ['Hometown Romance - Choose Your Own Story', 'Pretty+Teen+Games', '1,000,000+', 'http://www.prettyteengames.com/', 'prettyteengames@gmail.com']}
+{'com.tivola.wildlife.free': ['PetWorld - WildLife America', '8927372468482477196', '1,000,000+', 'http://www.tivola-mobile.com/en/animal-games/wildlife-america/', 'apps@tivola.de']}
+{'com.mp.superherowaterslideuphillrush': ['super hero water slide uphill rush', 'MobilePlus', '1,000,000+', 'http://www.mobileplusgames.com', 'mobileplusbv@gmail.com']}
+{'com.happylabs.hps': ['Happy Pet Story: Virtual Sim', '5211519071117278745', '5,000,000+', 'http://www.facebook.com/happypetproject', 'mojo@happylabsfree.com']}
+{'com.Dominik.KotlarUSAMCS': ['Classic American Muscle Cars', '4793319186785605932', '1,000,000+', None, 'Dominik.Kotlar@gmail.com']}
+{'com.us.pause.challenge': ['The Pause Challenge', 'Retro+Games+Studio', '10,000+', 'https://privacypolicies.com/privacy/view/33cb8f1b6823ae95a0c8c3809bcc2ec5', 'baptistelemairekot@gmail.com']}
+{'com.car.escaladriving': ['USA Car Driving Simulator 3d: Driver License', '5665140315531286240', '500,000+', 'http://papprica.net/game-privacy-policy.html', 'paulo.balob@gmail.com']}
+{'com.gta.real.gangster.crime.two': ['Real Gangster Crime 2', '7153203368724111677', '10,000,000+', 'https://docs.google.com/document/d/1O-3K8rpy9-Qm3FGfWXDvGZQefgilZ-E7AAwYbg9KfZE/pub', 'good.thoughts.affect@gmail.com']}
+{'com.cherrypickgames.hollywoodinc': ['Idle Project Fame: Build a Beauty Empire', '6760281395581839421', '100,000+', 'http://www.cherrypickgames.com', 'support@cherrypickgames.com']}
+{'com.fungusgames.offroad.jeep.driving': ['4x4 Jeep Extreme Stunts Mountain Trick Master 2019', 'HiTechGames.inc', '500,000+', 'https://maddgamesstudio.wordpress.com/2017/05/28/fungus-games-privacy-policy/', 'madd.games.studio@gmail.com']}
+{'com.catsbit.sandbox3d': ['Sandbox 3D', '5636266799010625325', '50,000+', 'http://catsbit.com', 'catsbit.studio@gmail.com']}
+{'com.gamescapes.house.construction.simulator': ['House Building Construction Games - City Builder', 'Game+Scapes+Inc', '1,000,000+', 'http://gamescapesinc.com', 'gamescapesinc@gmail.com']}
+{'ru.brothersappsandgames.howtomakespiderhand': ['How to Make Spider Hand', 'Brothers+Apps+And+Games', '1,000,000+', 'https://docs.google.com/document/d/1e9wDNA2fk9SETfdRVJxZxuIHwNTOUS57BrZrjsaW_jw/edit', 'BrothersAppsAndGames@gmail.com']}
+{'com.survivalcrafting.build.house.building.simulator.crafting.home.design.games.like.minecraft.mcpe.ideas.builder.creative.free': ['Builder Craft: House Building & Exploration', 'Survival+Crafting+%26+Exploration+Adventure+Games', '5,000,000+', 'https://projectx-mobile.apps.craftingandbuilding.games/policy/scindex?gamename=xcraft.house.builder&gametitle=xcraft.house.builder', 'freesandboxexploration@gmail.com']}
+{'air.com.tensquaregames.letsfish': ["Let's Fish: Sport Fishing Games. Fishing Simulator", '6837340316160309504', '10,000,000+', 'https://tensquaregames.com', 'support.letsfish@tensquaregames.com']}
+{'ru.appa47.swimsharksincagevrsimulator': ['Swim Sharks In Cage VR Simulator', 'Appa47', '500,000+', 'https://docs.google.com/document/d/1rF2BPVCAfEhnfJxoN2PlxnWCSmDgISKyMoWmfdL04Uw/edit', 'Appa47Games@gmail.com']}
+{'com.luxuryappsandgames.fidgetdiyslimesimulator': ['Fidget DIY Slime Simulator', 'Luxury+Apps+And+Games', '1,000,000+', 'https://docs.google.com/document/d/1sVlya-xR2PdTVv8Ap55SXuumDaB3IG_MT3kpc8M1Csg/edit', 'LuxuryAppsAndGames@gmail.com']}
+{'com.topcog.tapwizardrpgarcanequest': ['Tap Wizard: Idle Monster Quest', 'Iron+Horse+Games+LLC', '500,000+', 'http://www.ironhorsegames.org', 'topcogllc@gmail.com']}
+{'com.vade.raft_survival': ['Raft Survival: Ultimate', 'VADE', '1,000,000+', 'https://goo.gl/wvtN9F', 'vadestudio@gmail.com']}
+{'ru.royalgamesapps.realpathfinderprogamesimulator': ['Real Pathfinder Pro Game Simulator', 'Royal+Games+Apps', '1,000,000+', 'https://docs.google.com/document/d/1gqA_L-r-1bycJHytmFZ-AMVARbwOGM5fVgV9UIfPt5c/edit', 'RoyalGamesApps@gmail.com']}
+{'com.rcgames.sanandreascrimestreetclash': ['San Andreas Crime City Gangster 3D', 'Redcorner+Games', '1,000,000+', 'https://redcornergames.wordpress.com/privacy-policy/', 'redcornergames@gmail.com']}
+{'jp.co.gagex.orionEN': ['Hungry Hearts Diner: A Tale of Star-Crossed Souls', '6114601079277971354', '1,000,000+', 'http://www.gagex.co.jp', 'support@gagex.co.jp']}
+{'com.zatg.yourneighbor.hellogame': ["Who's Next Door", 'Z+%26+K', '1,000,000+', 'http://www.gvois.com', 'gvoiszubi@gmail.com']}
+{'com.vg.airportpilot.car.transporter.plane': ['Airplane Pilot Car Transporter', '7290233625471657780', '10,000,000+', 'http://vitalgames.org/privacy.html', 'vitalgamesproduction@gmail.com']}
+{'air.com.aetn.history.AncientAliens': ['Ancient Aliens: The Game', 'A%26E+Television+Networks+Mobile', '500,000+', 'http://www.aetn.com', 'ancientaliensgamesupport@history.com']}
+{'com.OppanaGames.PickupTruckSim': ['Offroad Pickup Truck Simulator', 'Oppana+Games', '1,000,000+', 'https://www.facebook.com/notes/og/privacy-policy/400234887005186', 'oppanagames@gmail.com']}
+{'com.ghive.jeep.parking.car.free.game.master.apps': ['Prado Parking Site 3D', 'Knock-Solutions+%28Gamtech%29+Inc.', '1,000,000+', 'https://gamershivepro.wordpress.com/', 'contactgamershive@gmail.com']}
+{'com.police.mafia.crime.vice': ['Miami Police Crime Vice Simulator', 'Wallace+Lieakote', '1,000,000+', 'http://greatgames.co/privacy.htm', 'gumtlepzilet@gmail.com']}
+{'com.ergames.cctvhackersimulator': ['CCTV Camera Hacker Simulator', '7571735847772242141', '100,000+', None, 'ergamesapps@gmail.com']}
+{'com.ProtopiaGames.Simulife2': ['Life Simulator 2', 'Protopia+Games', '100,000+', 'http://www.protopiagames.com', 'support@protopiagames.com']}
+{'com.pickle.PoliceCarDrivingMotorbikeRiding': ['Police Car Driving - Motorbike Riding', 'Game+Pickle', '1,000,000+', 'http://www.i6.com/mobile-privacy-policy/', 'gamepicklestudios@gmail.com']}
+{'com.ovilex.farmersim2018': ['Farmer Sim 2018', '5339076793638178981', '5,000,000+', 'http://www.ovilex.com/', 'ovidiu.pop.92@gmail.com']}
+{'com.turborocketgames.cheetahsim': ['Wild Cheetah Sim 3D', '6804371481370659921', '5,000,000+', 'http://turborocketgames.com/extra/privacypolicy.htm', 'vladimir.duchenchuk@gmail.com']}
+{'com.tks.farmgames': ['Farming Simulator 19 -- Offline Farming Simulation', 'Showa+Games+Zone', '100,000+', 'http://www.tksgames.com/', 'tksgamestudio@gmail.com']}
+{'com.GameTap.FlyingCarRealDriving': ['Flying Car Real Driving', 'Game+Tap', '1,000,000+', 'http://gametapstudios.com/privacy.html', 'feedback.gametap@gmail.com']}
+{'com.foxygames.flyingcarrobotsim': ['Flying Car Robot Flight Drive Simulator Game 2017', 'FoxyGames', '5,000,000+', 'https://sites.google.com/view/foxygames', 'foxygames61@gmail.com']}
+{'com.tinydragonadventuregames.sims.craft.minecraft.pe.design.interior.simulator.game.house.dream.build.girls.fashion.block.home': ['Sim Girls Craft: Home Design', '6345261670638519127', '5,000,000+', 'http://tinydragonadventure.com', 'contact@tinydragonadventure.com']}
+{'com.yami.realxray': ['Real XRay Simulator', 'Yami+Apps', '500,000+', 'https://docs.google.com/document/d/15MmGCeaYIbOA5g9jeN5Z8bxPMWygmnLjxAW2RcN_WAk/edit?usp=sharing', 'yamiappsgames@gmail.com']}
+{'com.stormx.gob': ['Foodpia Tycoon', 'STORMX', '1,000,000+', 'http://www.stormxgames.com', 'support@stormxgames.com']}
+{'com.nopowerup.mergebattle': ['Merge Battle', '6990178528646658622', '100,000+', 'http://lionstudios.cc', 'nopowerup@lionstudios.cc']}
+{'com.DynamicGames.JustDriveSimulator': ['Just Drive Simulator', 'Dynamic+Games+Entretenimento+Ltda', '1,000,000+', 'http://www.dynamicgames.com.br', 'dynamicgamesentertainment@gmail.com']}
+{'com.gameloft.android.ANMP.GloftCMHM': ['City Mania: Town Building Game', '6258770168633898802', '5,000,000+', 'http://www.gameloft.com/', 'android.support@gameloft.com']}
+{'com.nutnut.heyloveadam': ['Hey Love Adam: Texting Game', '6446465459377141474', '1,000,000+', 'http://nutnut-games.com/', 'contact@nutnut-games.com']}
+{'com.OnyxGames.Secrets': ['Secrets: Game of Choices', 'Jewel+HK', '100,000+', 'http://onyx.fun', 'secrets@mail.onyx.fun']}
+{'com.OppanaGames.OffroadPickupTruckSilverado': ['Offroad Pickup Truck S', 'Oppana+Games', '1,000,000+', 'https://www.facebook.com/notes/og/privacy-policy/400234887005186', 'oppanagames@gmail.com']}
+{'games.fatlion.mechanic.car.games.workshop.garage.tuning.racing.simulator.parking.fix.repair.truck.auto.engine.work.boys.free': ['Car Mechanic Job: Simulator', 'Car+Simulator+Crafting+%26+Building+FPS+Arcade+Games', '1,000,000+', 'http://fatlion.games', 'contact@fatlion.games']}
+{'jp.co.althi.elnea.en': ['WorldNeverland - Elnea Kingdom: Life SimulationRPG', 'althi+Inc.', '100,000+', 'http://www.althi.co.jp/worldneverland/elnea_en/', 'elnea_support_en@althi.co.jp']}
+{'com.stickmancrime.gangsters': ['Stickman Crime: Vegas Mafia Gangster', 'Dreambox+Game', '10,000+', 'https://sites.google.com/view/dreamboxgame-privacy-policy/trang-ch%E1%BB%A7', 'dreamboxgame178@gmail.com']}
+{'com.KitMew.BTSMessenger2': ['BTS Messenger 2', 'KitMew', '500,000+', None, 'kitmewxx@gmail.com']}
+{'com.mgc.miami.crime.police': ['Miami Crime Police', '4904364455782296418', '5,000,000+', 'https://naxeex.com/privacy-policy/', 'ExigentGames@gmail.com']}
+{'com.tdg.idlesun': ['Idle Energy Tycoon: Sunflower Factory', '6543485102045669138', '10,000+', 'https://docs.google.com/document/d/1ZoYoWp9tzsLpkk-KNsvdmvHu2_c7TsUkmwmhorU_6Bc/edit', 'phamthivananh1989tn@gmail.com']}
+{'com.dimchi.crush': ['Will it Crush?', 'VOODOO', '5,000,000+', 'http://www.voodoo.io', 'support@voodoo.io']}
+{'com.digigo.pickup': ['PUA - The Pickup Artist Story', 'Digigo', '100,000+', 'https://thepuagame.com', 'contact@digigogames.com']}
+{'com.kumagames.girla': ['High School Simulator GirlA', '6767533363572246846', '5,000,000+', 'https://www.facebook.com/KUMA-GAMES-1701697003383680/', 'sugikami1982@gmail.com']}
+{'com.threebees.school.bus.driving': ['School bus driving 2017', '3BeesStudio', '1,000,000+', 'https://docs.google.com/document/d/1dVSngTKT8pYoFqr4UPv6eq9IW3S3tWc3Ql_hIe_coEw/edit', '3beesstodio@gmail.com']}
+{'com.billiardsfans.pool3d': ['3D Pool Master 8 Ball Pro', '6375024885749937863', '1,000,000+', 'https://sites.google.com/view/play365/privacy-policy', 'lacybrumit329@gmail.com']}
+{'com.sparklingsociety.cityisland3': ['City Island 3: Building Sim', '8369629392252386483', '10,000,000+', 'http://www.sparklingsociety.net', 'android-cityisland3@sparklingsociety.net']}
+{'com.shoujocity.sc3d': ['Shoujo City 3D', 'Shoujo+City', '100,000+', 'http://shoujocity.com', 'laika16@yandex.ru']}
+{'com.hsyecheng.blockworldcraft': ['World Building Craft', 'Candy+Mobile', '1,000,000+', 'http://www.candy-mobile.com', 'contact@candy-mobile.com']}
+{'com.hazmob.blockstrikefps': ['Block Gun: FPS PvP War - Online Gun Shooting Games', 'Haz+LTD', '500,000+', 'http://www.vertigogames.co/privacy-policy/', 'hazmobsup0@gmail.com']}
+{'com.paradoxplaza.prisonarchitect': ['Prison Architect: Mobile', '8651519030896121427', '100,000+', 'http://www.paradoxplaza.com/', 'support@paradoxplaza.com']}
+{'jp.webnode.mountainrooting0.buildingdestroy': ['Physics Simulation Building Destruction', 'MountainRooting', '1,000,000+', 'http://mountainrooting0.webnode.jp/', 'mountainrooting@gmail.com']}
+{'com.karategoosestudio.oceansurvival': ['Oceanborn: Survival on Raft', 'Karate+Goose+Studio', '1,000,000+', 'https://www.facebook.com/notes/oceanborn-raft-survival/privacy-policy/1693407094286597', 'karategoosestudio@gmail.com']}
+{'com.vdh.worms': ['I got Worms', 'VdH', '500,000+', None, 'vdh.games@gmail.com']}
+{'com.mindstormstudios.tinypizza.google': ['Pizza Factory Tycoon - Idle Clicker Game', 'Mindstorm+Studios', '100,000+', 'http://www.mindstormstudios.com', 'faizan@mindstormstudios.com']}
+{'com.codebrewgames.pocketcitygame': ['Pocket City', '6900076921334958304', '100,000+', 'https://www.pocketcitygame.com', 'bobbylidev@gmail.com']}
+{'com.drycactus.polybridge': ['Poly Bridge', 'Dry+Cactus+Limited', '100,000+', 'http://www.drycactus.com', 'info@drycactus.com']}
+{'nz.co.codepoint.minimetro': ['Mini Metro', 'Dinosaur+Polo+Club', '100,000+', 'https://dinopoloclub.com', 'support@dinopoloclub.com']}
+{'com.greenheartgames.gdt': ['Game Dev Tycoon', 'Greenheart+Games', '100,000+', 'http://www.greenheartgames.com', 'support+gdtm@greenheartgames.com']}
+{'com.giantssoftware.fs18.google': ['Farming Simulator 18', 'GIANTS+Software', '500,000+', 'http://www.farming-simulator.com/contact.php', 'support@giants-software.com']}
+{'com.coffeestainstudios.goatsimulator': ['Goat Simulator', 'Coffee+Stain+Publishing', '1,000,000+', 'http://www.coffeestainstudios.com', 'android-contact@coffeestainstudios.com']}
+{'com.square_enix.android_googleplay.FFT_en2': ['FINAL FANTASY TACTICS : WotL', '8026010256970589886', '100,000+', 'http://www.jp.square-enix.com/', 'Android_support@square-enix.com']}
+{'com.linklock.pocketaquarium': ['Pocket Aquarium', 'LinkLock', '10,000+', 'http://www.cnblogs.com/wpbing/', 'lchua20180@gmail.com']}
+{'com.fds.infiniteflight': ['Infinite Flight - Flight Simulator', 'Infinite+Flight+LLC', '500,000+', 'https://infiniteflight.com', 'hello@infiniteflight.com']}
+{'games.paveldogreat.fluidsim': ['Fluid Simulation', '7596352546733505681', '1,000+', 'https://www.paveldogreat.games', 'support@paveldogreat.games']}
+{'com.coffeestainstudios.goatsimulator.payday': ['Goat Simulator Payday', 'Coffee+Stain+Publishing', '50,000+', 'http://www.coffeestainstudios.com', 'android-contact@coffeestainstudios.com']}
+{'com.uplayonline.youtubers': ['Youtubers Life: Gaming Channel', '4879986113139967562', '100,000+', 'http://www.youtuberslife.com', 'youtuberslife@uplayonline.com']}
+{'com.devolver.spaceplan': ['SPACEPLAN', 'DevolverDigital', '10,000+', 'http://www.devolverdigital.com', 'devolverdigital@gmail.com']}
+{'com.noodlecake.gettingoverit': ['Getting Over It with Bennett Foddy', '9078867188205035581', '10,000+', 'http://www.noodlecake.com/games/getting-over-it-with-bennett-foddy/', 'support+getoverit@noodlecake.com']}
+{'com.giantssoftware.fs16': ['Farming Simulator 16', 'GIANTS+Software', '500,000+', 'http://www.farming-simulator.com/contact.php', 'support@giants-software.com']}
+{'com.astragon.cs2016': ['Construction Simulator 2', '6880843692150926521', '100,000+', 'http://www.construction-simulator.com', 'supportcs2@astragon.de']}
+{'com.mageeks.android.trucksimulatorpro2': ['Truck Simulator PRO 2', '9046213330860348168', '10,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.coffeestainstudios.goatsimulator.wasteofspace': ['Goat Simulator Waste of Space', 'Coffee+Stain+Publishing', '100,000+', 'http://www.coffeestainstudios.com', 'contact@coffeestainstudios.com']}
+{'com.kalypsomedia.projecthighrise': ['Project Highrise', '8899065650239037652', '10,000+', 'http://www.kalypsomedia.com', 'supportmobile@kalypsomedia.com']}
+{'com.jundroo.SimplePlanes': ['SimplePlanes', 'Jundroo,+LLC', '100,000+', 'http://jundroo.com', 'games@jundroo.com']}
+{'com.hg.titp': ['This Is the Police', '5551663097723105743', '5,000+', 'http://www.facebook.com/handygames', 'support@handy-games.com']}
+{'com.bowengames.farmingusa2': ['Farming USA 2', '6833224340303003178', '10,000+', 'http://www.bowengames.com', 'mbowen@bowengames.com']}
+{'com.roasterygames.smartphonetycoonnew': ['Smartphone Tycoon', '8452274342341551246', '500+', None, 'roasterygames@gmail.com']}
+{'com.kaigan.simulacra': ['SIMULACRA - Found phone horror mystery', 'Kaigan+Games+O%C3%9C', '10,000+', 'http://www.kaigangames.com', 'info@kaigangames.com']}
+{'com.astragon.cs2014': ['Construction Simulator 2014', '6880843692150926521', '1,000,000+', 'http://www.construction-simulator.com/', 'support@astragon.de']}
+{'com.bossastudios.ss13touch': ['Surgeon Simulator', '6383552308409360686', '100,000+', 'http://www.surgeonsim.com/', 'surgeonfeedback+droid@bossastudios.com']}
+{'uk.co.pocketlabs.pocketuniverse': ['My Pocket Galaxy - 3D Gravity Sandbox', 'PocketLabs', '10,000+', 'http://www.pocketlabs.co.uk', 'games@pocketlabs.co.uk']}
+{'com.hg.townsmen7': ['Townsmen Premium', '5551663097723105743', '100,000+', 'http://www.facebook.com/handygames', 'support@handy-games.com']}
+{'com.Sarepta.MyChildLebensborn': ['My Child Lebensborn', 'Sarepta+Studio', '10,000+', 'http://www.mychildlebensborn.com', 'kontakt@sareptastudio.com']}
+{'com.AbyteEntertainment.DealersLifeFull': ['Dealer’s Life - Pawn Shop Tycoon', '4680476163854203393', '10,000+', 'http://abyteentertainment.com', 'abyte.entertainment@gmail.com']}
+{'com.jutsugames.operator911': ['911 Operator', 'Games+Operators', '50,000+', 'http://www.jutsugames.com/911', 'contact@jutsugames.com']}
+{'com.glutenfreegames.catsimulatortwo': ['Ultimate Cat Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.glutenfreegames.ultimatebirdsimulator': ['Ultimate Bird Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.mageeks.android.trainsimulator': ['Train Simulator PRO 2018', '9046213330860348168', '10,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.glutenfreegames.wolfsimulatortwo': ['Ultimate Wolf Simulator', '6899235863428512122', '50,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.DamianBernardi.LawsofCivilization': ['Laws of Civilization', '8433962063330964923', '10,000+', 'http://www.somniumsoft.com', 'support@somniumsoft.com']}
+{'com.glutenfreegames.ultimateforestsimulator': ['Ultimate Forest Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.glutenfreegames.ultimatedogsimulator': ['Ultimate Dog Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.starcommand.scgame': ['Star Command', 'Star+Command,+LLC', '100,000+', 'http://starcommandgame.com/', 'starcommandhelp@gmail.com']}
+{'com.glutenfreegames.ultimatejunglesimulator': ['Ultimate Jungle Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.farm.hell.clicker.pro': ['Idle Heroes of Hell - Clicker & Simulator Pro', '5429203503551516829', '500,000+', 'http://redmachinegames.com/', 'red.machine.games+hell.pro@gmail.com']}
+{'com.natsume.stone.android': ['HARVEST MOON:Seeds Of Memories', '5025045962334060868', '10,000+', 'http://natsume.com', '4service@natsume.com']}
+{'com.mageeks.android.trucksim18': ['Truck Simulator PRO Europe', '9046213330860348168', '50,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.FlamebaitGames.Passpartout': ['Passpartout: The Starving Artist', 'Flamebait+Games', '10,000+', 'http://www.flamebaitgames.com/', 'support@flamebaitgames.com']}
+{'com.headupgames.bridgeconstructor': ['Bridge Constructor', 'ClockStone+STUDIO', '1,000,000+', 'http://www.clockstone.com', 'support@clockstone.com']}
+{'com.jundroo.simplerockets': ['SimpleRockets', 'Jundroo,+LLC', '100,000+', 'http://jundroo.com', 'games@jundroo.com']}
+{'com.bowengames.pullingusa2': ['Pulling USA 2', '6833224340303003178', '10,000+', 'http://www.bowengames.com', 'mbowen@bowengames.com']}
+{'com.glutenfreegames.ultimatesafarisimulator': ['Ultimate Savanna Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.bowengames.farmingusa': ['Farming USA', '6833224340303003178', '100,000+', 'http://www.bowengames.com', 'mbowen@bowengames.com']}
+{'com.glutenfreegames.foxsimulatortwo': ['Ultimate Fox Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'net.vertigogaming.cookservedeliciousglp': ['Cook, Serve, Delicious!', 'Vertigo+Gaming', '5,000+', 'http://www.vertigogaming.net', 'support@vertigogaming.net']}
+{'com.glutenfreegames.dinosaursimulatortwo': ['Ultimate Dinosaur Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.Freeride.Freerider': ['FPV Freerider', 'FPV+Freerider', '10,000+', None, 'fpvfreerider@gmail.com']}
+{'com.elevenbitstudios.twommobile': ['This War of Mine', '7328836074120817235', '100,000+', 'http://www.11bitstudios.com', 'techsupport@11bitstudios.com']}
+{'com.brixtondynamics.spacesimulator': ['Space Simulator', 'Brixton+Dynamics', '10,000+', 'http://www.space-simulator.com', 'info@brixtondynamics.co.uk']}
+{'com.Taxi.Game': ['Taxi City 1988 V1', '5003339544742675182', '1,000,000+', 'http://stronguniongames.com', 'Berkutgame@gmail.com']}
+{'com.glutenfreegames.dragonsimulatortwo': ['Ultimate Dragon Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.TheLonelyDeveloper.TheLonelyHacker': ['The Lonely Hacker', '5150174740303921508', '100,000+', 'https://thelonelydeveloper.wixsite.com/games', 'Thelonelycoder87@gmail.com']}
+{'com.lgdstudio.ilivegoldedition': ['i Live - Gold Edition', '8041942960973525488', '100,000+', 'http://lgdstudio.com', 'info@lgdstudio.com']}
+{'com.goreste.linerider': ['Line Rider', 'Paolo+Furlan', '100+', 'http://www.pfurlan.com', 'goreste90@gmail.com']}
+{'com.glutenfreegames.horsesimulatortwo': ['Ultimate Horse Simulator', '6899235863428512122', '50,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.makario.vigilos': ['The Vigil Files: Case 1 - Realistic Detective Game', 'Lowkey+Fun', '5,000+', 'http://lowkey.fun/vigil-files', 'contact@lowkey.fun']}
+{'net.kairosoft.android.pool': ['Pool Slide Story', 'Kairosoft+Co.,Ltd', '50,000+', 'http://kairopark.jp', 'support@kairopark.jp']}
+{'com.glutenfreegames.lionsimulatortwo': ['Ultimate Lion Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.killerfishgames.atlanticfleet': ['Atlantic Fleet', 'Killerfish+Games', '10,000+', 'http://killerfishgames.com', 'support@killerfishgames.com']}
+{'net.kairosoft.android.ongaku2_en': ['March to a Million', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m24', 'support_en@kairopark.jp']}
+{'air.com.oranginalplan.weaphonesvol2': ['Weaphones™ Firearms Sim Vol 2', 'OranginalPlan', '100,000+', 'http://www.facebook.com/OranginalPlan', 'support@oranginalplan.com']}
+{'com.fsdigital.skinstudio': ['Minecraft: Skin Studio', '57Digital+Ltd', '100,000+', 'http://www.minecraftskinstudio.com', 'support@57digital.co.uk']}
+{'com.RhinoGearz.Harvest_Master': ['Harvest Master: Farm Sim', 'RhinoGearz', '10,000+', 'http://rhinogearz.blogspot.com', 'rhinogearzgames@gmail.com']}
+{'com.glutenfreegames.ultimatefarmsimulator': ['Ultimate Farm Simulator', '6899235863428512122', '5,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.bowengames.pullingusa': ['Pulling USA', '6833224340303003178', '10,000+', 'http://www.bowengames.com', 'mbowen@bowengames.com']}
+{'net.ledinsky.fsim': ['F-Sim Space Shuttle', 'Ledinsky+Software+GmbH', '100,000+', 'http://f-sim.com', 'android-support@f-sim.com']}
+{'com.ChickenWaffle.BabyHands': ['BABY HANDS Jr.', 'Chicken+Waffle', '1,000+', 'http://www.chicken-waffle.com', 'contact@chicken-waffle.com']}
+{'com.mageeks.android.constructionsim17': ['Construction Simulator PRO 17', '9046213330860348168', '10,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.coffeestainstudios.westport': ['The Westport Independent', 'Coffee+Stain+Publishing', '5,000+', 'http://www.coffeestainstudios.com', 'contact@coffeestainstudios.com']}
+{'com.bitbybitstudios.fiz': ['Fiz : Brewery Management Game', 'Bit+By+Bit+Studios', '50,000+', 'http://tiny.cc/bxbsupport', 'support@bitbybitstudios.com']}
+{'com.GamesFromGarage.PCArchitectAdvanced': ['PC Architect Advanced (PC building simulator)', 'Games+From+Garage', '5,000+', 'http://www.gamesfromgarage.com/', 'gamesfromgarage1@gmail.com']}
+{'net.kairosoft.android.manga_ippon_en': ['The Manga Works', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m20', 'support_en@kairopark.jp']}
+{'com.gambitious.ohsirex': ['Oh...Sir! The Insult Simulator', 'Good+Shepherd+Entertainment', '10,000+', 'http://gambitious.com', 'android@gambitious.com']}
+{'air.com.oranginalplan.weaphonesww2': ['Weaphones™ WW2: Firearms Sim', 'OranginalPlan', '50,000+', 'https://www.facebook.com/OranginalPlan', 'oranginalplan@gmail.com']}
+{'com.atypicalgames.sgas': ['Sky Gamblers: Air Supremacy', 'Atypical+Games', '10,000+', 'http://www.atypicalgames.com', 'support@atypicalgames.com']}
+{'com.aerofly.aerofly2android': ['Aerofly 2 Flight Simulator', 'IPACS', '50,000+', 'https://www.aerofly.com', 'support@aerofly.com']}
+{'com.bowengames.huntingusa': ['Hunting USA', '6833224340303003178', '10,000+', 'http://www.bowengames.com', 'mbowen@bowengames.com']}
+{'com.magicnotion.lovelife': ["Kitty Powers' Love Life", 'Magic+Notion+Ltd.', '1,000+', 'http://www.magicnotion.com', 'info@magicnotion.com']}
+{'com.PanicEnsuesSoftware.CrashDive': ['Crash Dive', 'Panic+Ensues+Software', '10,000+', 'http://panicensuessoftware.com/', 'info@panicensuessoftware.com']}
+{'com.murudai.Solar2': ['Solar 2', 'Murudai', '10,000+', 'http://murudai.com', 'jay@murudai.com']}
+{'com.psidevelopment.pacificfleet': ['Pacific Fleet', 'Killerfish+Games', '50,000+', 'http://killerfishgames.com', 'pacificfleetgame@gmail.com']}
+{'com.glutenfreegames.sharksimulatortwo': ['Ultimate Shark Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.ogien.trainsimpro': ['Train Sim Pro', '7830845280092528776', '10,000+', 'http://www.3583Bytes.com', 'contact@3583Bytes.com']}
+{'com.captaingames.freeway': ['Freeways', 'Captain+Games', '10,000+', 'http://www.captain-games.com', 'envirobear2010@gmail.com']}
+{'net.kairosoft.android.densha_en': ['Station Manager', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m130', 'support_en@kairopark.jp']}
+{'com.msherwin.GameStudioTycoon3': ['Game Studio Tycoon 3', 'Ashley+Sherwin', '100,000+', 'http://www.sherwingames.com/', 'sherwingameshelp@outlook.com']}
+{'com.glutenfreegames.griffinsimulator': ['Griffin Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'air.com.oranginalplan.weaphonesantiques': ['Weaphones™ Antiques Gun Sim', 'OranginalPlan', '10,000+', 'http://www.facebook.com/pages/OranginalPlan/204655889589538', 'oranginalplan@gmail.com']}
+{'com.dirgtrats.endlessatc': ['Endless ATC', 'startgrid', '5,000+', 'http://startgrid.blogspot.nl/', 'startgrid@hotmail.com']}
+{'com.headupgames.bridgeconstructormedieval': ['Bridge Constructor Medieval', '7706714075287612145', '100,000+', 'http://www.headupgames.com', 'info@headupgames.com']}
+{'org.tvp.kirikiri2': ['Kirikiroid2', 'Kevin+Steve', '5,000+', 'http://www.avgfun.net', 'zeas06@gmail.com']}
+{'com.southwindsgames.am2s': ['Airport Mania 2: Wild Trips', '5893392543180457643', '50,000+', 'http://www.airportmania.com/', 'reflexive-android-support@amazon.com']}
+{'com.codeknitters.silentdepth': ['Silent Depth Submarine Sim', 'Codeknitters', '1,000+', 'http://www.silentdepth.com', 'martin@silentdepth.com']}
+{'net.kairosoft.android.animestudio_en': ['Anime Studio Story', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m73', 'support_en@kairopark.jp']}
+{'com.kozgames.motordepot': ['Motor Depot', '5673840569835357829', '10,000+', 'http://vk.com/kozgames', 'serj12rus@gmail.com']}
+{'game.LRTH.RustBuilder': ['Rust Builder', 'LR+%26+TH', '50+', None, 'lrth.dev@gmail.com']}
+{'com.tribeplay.pandaspace': ['Dr. Panda in Space', '4902729103455422060', '10,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'net.kairosoft.android.townshop_en': ['Biz Builder Delux', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m109', 'support_en@kairopark.jp']}
+{'com.drpanda.city2': ['Hoopa City 2', '4902729103455422060', '50,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.tribeplay.pandapostman': ['Dr. Panda Mailman', '4902729103455422060', '50,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.reflexive.airportmania': ['Airport Mania: First Flight XP', '5893392543180457643', '50,000+', 'http://www.airportmania.com', 'reflexive-android-support@amazon.com']}
+{'com.XonStudio.SimpleBox2': ['SimpleBox 2', 'XonStudio', '10,000+', None, 'xoneman97@gmail.com']}
+{'com.glutenfreegames.sabertoothsimulator': ['Sabertooth Tiger Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'net.kairosoft.android.magazine_en': ['Magazine Mogul', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m94', 'support_en@kairopark.jp']}
+{'com.geofs.sd': ['GeoFS - Flight Simulator', '8759152412137162030', '500+', 'https://www.geo-fs.com', 'contact@geo-fs.com']}
+{'com.headupgames.bridgeconstructorplayground': ['Bridge Constructor Playground', '7706714075287612145', '100,000+', 'http://www.headupgames.com', 'support@headupgames.com']}
+{'hfgames.reactionlab2': ['ReactionLab 2 - Particle Sandbox', '5453841851178106711', '5,000+', 'http://reactionlab.hforsyth.com', 'hunter@hforsyth.com']}
+{'com.mageeks.android.farmingpro2016': ['Farming PRO 2016', '9046213330860348168', '10,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.mageeks.android.trucksimulatorpro2016': ['Truck Simulator PRO 2016', '9046213330860348168', '50,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.masonmacbeth.farmingworldggl': ['Farming World 2019', 'Mason+Macbeth', '1,000+', 'https://www.wildtangent.com/', 'masonmacbeth00@gmail.com']}
+{'com.daylightstudios.hpawsmob': ['Holy Potatoes! A Weapon Shop?!', '7228645956567217598', '1,000+', 'http://www.holypotatoesgame.com', 'support@holypotatoesgame.com']}
+{'org.topia.app': ['Topia World Builder', '5022029875939675383', '100,000+', 'http://www.crescentmoongames.com', 'josh@crescentmoongames.com']}
+{'com.Jeminie.Hmmsim2': ['Hmmsim 2 - Train Simulator', 'Jeminie', '50,000+', 'http://www.jeminie.net', 'hmm_support@naver.com']}
+{'com.JassimAlbuark.HeroUnit': ['HERO Unit', 'Jassim+Albuarki', '1,000+', 'http://www.herounitapp.com', 'hero.prd@gmail.com']}
+{'net.kairosoft.android.park_ja': ['Wild Park Manager', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/?from=m122', 'support@kairopark.jp']}
+{'net.kairosoft.android.recycle_ja': ['Thrift Store Story', 'Kairosoft+Co.,Ltd', '5,000+', 'http://kairopark.jp/android/en/?from=m13', 'support_en@kairopark.jp']}
+{'com.epaga.ifassistant': ['In-Flight Assistant', 'John+Goering', '5,000+', 'http://twitter.com/epaga', 'android@epaga.otherinbox.com']}
+{'com.glutenfreegames.catsimulator': ['Stray Cat Simulator', '6899235863428512122', '50,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.MindBlossom.WorldTreeVIP': ['The Celestial Tree VIP', 'Mind+Blossom', '50,000+', 'http://cafe.naver.com/madbeat', 'wjdtjsry2005@naver.com']}
+{'net.kairosoft.android.gamecenter_en': ['Pocket Arcade Story', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m88', 'support_en@kairopark.jp']}
+{'com.phanovatives.gunshipIII.usnavy': ['Gunship III - U.S. NAVY', 'Phanotek,+Inc', '5,000+', 'http://www.gunship3d.com', 'info@gunship3d.com']}
+{'com.glutenfreegames.snakesimulator': ['Snake Simulator', '6899235863428512122', '50,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.AndreyMelnikov.DRS': ['DRS Pro', '5581031155927747193', '10+', 'https://docs.google.com/document/d/1rTG_JOa-o1PY7MrSjd0xWor3n3kO5Ual68cdWTvHzxU/edit?usp=sharing', 'gbandrewgb@gmail.com']}
+{'com.glutenfreegames.dogsimulator': ['Stray Dog Simulator', '6899235863428512122', '50,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'net.kairosoft.android.bokujou_en': ['8-Bit Farm', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m125', 'support_en@kairopark.jp']}
+{'com.FaGame.CarParkingPro': ['Taxi Driver 2019', '5003339544742675182', '100,000+', 'http://stronguniongames.com', 'Berkutgame@gmail.com']}
+{'com.glutenfreegames.snowleopardsimulator': ['Snow Leopard Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'it.rortos.airnavyfighters': ['Air Navy Fighters', '8013171132272394676', '100,000+', 'http://www.rortos.com', 'support@rortos.com']}
+{'com.oyatsukai.fractalcombatxpremium': ['Fractal Combat X (Premium)', 'OYK+Games', '10,000+', 'http://oykgames.com/', 'support@oykgames.com']}
+{'net.kairosoft.android.ski_en': ['Shiny Ski Resort', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m113', 'support_en@kairopark.jp']}
+{'com.tribeplay.pandaicecream': ["Dr. Panda's Ice Cream Truck", '4902729103455422060', '50,000+', 'http://www.drpanda.com', 'support@drpanda.com']}
+{'com.idriscelik.f787anadolu': ['Flight 787 - Advanced', '4668793745925374037', '10,000+', 'http://www.idriscelik.com.tr', 'kuklainteractive@gmail.com']}
+{'com.g5e.islandcastaway.full': ['The Island: Castaway® (Full)', '8053728788464134315', '10,000+', 'http://www.g5e.com', 'support@g5e.com']}
+{'com.RaptorClaw.Genesis2': ['Planet Genesis 2 - 3D solar system sandbox', 'Raptor+Claw', '1,000+', 'https://docs.google.com/document/d/1oCoUuzvL12BOGaTKbpILYWhfXj2Pw852t_0sD8NYkzo/edit?usp=drivesdk', 'raptorclawentertainment@gmail.com']}
+{'com.glutenfreegames.dolphinsimulator': ['Dolphin Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.glutenfreegames.dragonsimulator': ['World of Dragons: Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.rowlhouse.picasimdonate': ['PicaSim: Flight simulator', 'The+Rowlhouse', '10,000+', 'http://www.rowlhouse.co.uk/PicaSim', 'picasimulator@gmail.com']}
+{'com.glutenfreegames.orcasimulator': ['Orca Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.rondomedia.RescueHIA_googleplay': ['RESCUE: Heroes in Action', 'astragon+GmbH', '10,000+', 'http://www.rescuethegame.com/', 'support@rondomedia.de']}
+{'com.fathermade.animalgarden_se': ['Animal Forest : Fuzzy Seasons (Start Pack Edition)', '5771382021094560079', '100,000+', 'http://www.facebook.com/FatherMadeGame/', 'fathermade.windypi@gmail.com']}
+{'com.aerosoft.notrufmobile112': ['Emergency Call – The Fire Fighting Simulation', 'Aerosoft+GmbH', '10,000+', 'http://www.aerosoft.de', 'fabian.boulegue@aerosoft.com']}
+{'com.TakayasuGames.VRTown': ['VR Town (Cardboard)', 'Takayasu+Games', '100+', None, 'takayasugames@gmail.com']}
+{'com.spankonaut.headsoffice': ["The Head's Office", 'Spankonaut+Productions', '500+', 'http://theheadsofficeapp.blogspot.co.uk/', 'spankonaut@gmail.com']}
+{'com.glutenfreegames.hyenasimulator': ['Hyena Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'net.kairosoft.android.noodle_en': ['The Ramen Sensei', 'Kairosoft+Co.,Ltd', '10,000+', 'http://kairopark.jp/android/en/?from=m115', 'support_en@kairopark.jp']}
+{'com.phanovatives.gunshipIII': ['Gunship III', 'Phanotek,+Inc', '10,000+', 'http://www.gunship3d.com', 'info@gunship3d.com']}
+{'com.glutenfreegames.eaglesimulator': ['Eagle Simulator™', '6899235863428512122', '50,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.tiglobal.titrampbike': ['Ti: Tramp Bike', 'Ti+Global+Corporation+Pty+Ltd', '500+', 'http://www.aussieadrenaline.com', 'developer@tiactionsports.com']}
+{'com.firerabbit.games.fmc.rich.full': ['Fix My Car: GT Supercar Shop', 'FireRabbit+Inc.', '5,000+', 'https://www.facebook.com/firerabbit.canada', 'clientservices@firerabbit.com']}
+{'com.SLTech.simLeaf': ['simLeaf', 'SL+Technology+Group,+LLC', '500+', 'https://simleaf.com/', 'social@simleaf.com']}
+{'com.RaptorClaw.Genesis': ['Planet Genesis - solar system sandbox', 'Raptor+Claw', '1,000+', None, 'raptorclawentertainment@gmail.com']}
+{'com.glutenfreegames.velociraptorsimulator': ['Jurassic Life: Velociraptor', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.interwave.freelancerfullgame': ['Freelancer Simulator: Game Developer Edition', '8937803722012550943', '500,000+', 'https://cdbits.net/', 'help@cdbits.net']}
+{'com.glutenfreegames.lionsimulator': ['Safari Simulator: Lion', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'football.manager.games.fm19.touch': ['Football Manager 2019 Touch', '7891990035506213180', '5,000+', 'http://www.sega.com', 'help@sega.co.uk']}
+{'com.company.Name': ['I Have One Dollar', 'HDGsoftwaregames', '10+', None, 'gonzalo.astorga.c@gmail.com']}
+{'com.firerabbit.games.fmc.junk.full': ['Fix My Car: Classic Muscle 2 - Junkyard Blitz!', 'FireRabbit+Inc.', '10,000+', 'https://www.facebook.com/firerabbit.canada', 'clientservices@firerabbit.com']}
+{'com.RockingPocketGames.iFishing': ['i Fishing', '6896544850346764131', '100,000+', 'http://www.RockingPocketGames.com', 'powerrender@gmail.com']}
+{'subway.android': ['New York Subway Driver', 'Ludotouch', '1,000+', None, 'metrosimulator1@gmail.com']}
+{'net.diggidy.autodealershiptycoon': ['Auto Dealership Tycoon', 'Diggidy.net', '1,000+', 'http://www.diggidy.net', 'contact@diggidy.net']}
+{'com.BefuddleBug.YouAreGod': ['You Are God', 'Befuddle+Bug', '500+', 'http://www.befuddlebug.com', 'befuddlebug@gmail.com']}
+{'com.dejobaangames.caaaaardboard': ['Caaaaardboard!', 'Dejobaan+Games,+LLC', '10,000+', 'http://www.dejobaan.com', 'support@dejobaan.com']}
+{'com.g5e.islandcastaway2.full': ['The Island: Castaway® 2 (Full)', '8053728788464134315', '5,000+', 'http://www.g5e.com', 'support@g5e.com']}
+{'it.rortos.f18carrierlandingiipro': ['Carrier Landings Pro', '8013171132272394676', '10,000+', 'http://www.rortos.com', 'support@rortos.com']}
+{'com.tas.icp': ['ICP: The Gathering', 'Flight+Systems', '500+', 'http://www.flightsystemsllc.com', 'mail@flightsystemsllc.com']}
+{'com.logicmiracle.offroaddrivedesert.pro': ['OffRoad Drive Desert', 'LogicMiracle', '10,000+', 'http://www.logicmiracle.com', 'logicmiracle@gmail.com']}
+{'com.tribe.hondoom': ['Tribe of Procreation', 'DDB+Studio', '10,000+', 'http://ddbgames.com', 'kfgenius@gmail.com']}
+{'com.rmg.galaxymerge.pro': ['Merge Battle Plane - Idle & Click Tycoon PRO', '5429203503551516829', '10,000+', 'http://redmachinegames.com/', 'red.machine.games+merge@gmail.com']}
+{'com.mageeks.android.farmingpro2015': ['Farming PRO 2015', '9046213330860348168', '10,000+', 'http://www.mageeks.com', 'support@mageeks.com']}
+{'com.zeichenkraftwerk.frs3': ['Funfair Ride Simulator 3: Control fairground rides', '6726214521466300746', '10,000+', 'http://www.fahrgeschäftsimulator.de', 'contact@zeichenkraftwerk.de']}
+{'com.quantumdesigngroup.helicopterflightsimulator2': ['Helicopter Flight Simulator 2', 'Quantum+Design+Group', '100+', 'http://www.beepbeepgo.com', 'beepbeepgo@gmail.com']}
+{'com.virtualdutchmen.cardboard.lavainc': ['Lava Inc. for Cardboard', 'The+Virtual+Dutch+Men', '1,000+', 'http://www.virtualdutchmen.com', 'info@virtualdutchmen.com']}
+{'com.ryandorang.le.parcours': ['le parcours (parkour)', 'App+Holdings', '5,000+', None, 'biocyberyan@gmail.com']}
+{'com.EdMagnin.Zamboni': ['Zamboni Challenge', '5208808610608579252', '1,000+', 'http://www.edmagnin.com', 'support@edmagnin.com']}
+{'it.rortos.extremelandingspro': ['Extreme Landings Pro', '8013171132272394676', '10,000+', 'http://www.rortos.com', 'support@rortos.com']}
+{'org.fdo.starfleet': ['Star Fleet Deluxe', 'FDO+LLC', '500+', 'https://plus.google.com/u/0/communities/116168810372539350355', 'FDO.Development@gmail.com']}
+{'com.ogien.kidstrainspro': ['Kids Trains Pro', '7830845280092528776', '500+', 'http://www.3583Bytes.com', 'reachadam@outlook.com']}
+{'com.rune_soft.airlinetycoondeluxe': ['Airline Tycoon Deluxe', 'Runesoft+GmbH', '10,000+', 'http://www.rune-soft.com', 'android@rune-soft.com']}
+{'com.Creativeworld.QuadcopterFXpro': ['Quadcopter FX Simulator Pro', '3D+CREATIVE+WORLD', '10,000+', 'http://www.3dcreativeworld.com', 'tonybamm@gmail.com']}
+{'com.live.wtrebor.Frogger': ['Frogger Arcade Retro Classic', '5501089699235297266', '100+', 'http://www.beatsnbobs.com', 'info@beatsnbobs.com']}
+{'com.southwindsgames.am2m': ['Airport Mania 2: Wild Trips HD', '5893392543180457643', '5,000+', 'http://www.lemonteam.com/airportmania2', 'reflexive-android-support@amazon.com']}
+{'com.hg.tattootycoon': ['Tattoo Tycoon', '5551663097723105743', '10,000+', 'http://www.facebook.com/handygames', 'support@handy-games.com']}
+{'com.mooncoder.sailor': ['Top Sailor sailing simulator', 'Mooncoder', '5,000+', 'http://sailor.mooncoder.com/', 'support@mooncoder.com']}
+{'com.poppop.My30SecLife': ['My 30 Second Life', 'Pop!+Pop!', '1,000+', 'http://www.2xpop.com', 'kjellapps@gmail.com']}
+{'com.tivola.veterinary': ['Dreamjob Veterinarian', '8927372468482477196', '1,000+', 'http://www.tivola-mobile.com/en/animal-games/dreamjob-veterinarian/', 'apps@tivola.de']}
+{'com.glutenfreegames.crocodilesimulator': ['Wildlife Simulator: Crocodile', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.glutenfreegames.wolfsimulator': ['Wildlife Simulator: Wolf', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.phanovatives.gunshipIII.vpaf': ['Gunship III Vietnam People AF', 'Phanotek,+Inc', '5,000+', 'http://www.gunship3d.com', 'phtphan@gmail.com']}
+{'kemco.wws.ixtna': ['SRPG Legend of Ixtona', '5728226595623103050', '10,000+', 'http://www.kemco.jp/', 'android@kemco.jp']}
+{'com.cardBoard.sps2': ['Steampunk submarine 2. Full.', 'Mikhail+Vorobyev', '10+', None, 'mikvorobyev@gmail.com']}
+{'com.glutenfreegames.dinosaursimulator': ['Jurassic Life: T Rex Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.phanovatives.gunship3d_android': ['Gunship-II', 'Phanotek,+Inc', '10,000+', 'http://www.gunship3d.com', 'info@gunship3d.com']}
+{'com.TBAGames.PetRock2': ['Pet Rock 2 - Planet Simulator', 'TBA+Games', '1,000+', 'http://www.tbagames.net', 'admin@tbagames.net']}
+{'com.tivola.petworld.rescue.gp': ['Pet World Premium', '8927372468482477196', '50,000+', 'http://www.tivola-mobile.com/en/animal-games/petworld-my-animal-rescue/', 'apps@tivola.de']}
+{'com.pierredrolet.goarspacetielong': ['GOarSPACE TIE-LONG', 'Pierre+M+Drolet', '1+', 'https://www.pierre-drolet-sci-fi-museum.com/', 'pmdrolet@icloud.com']}
+{'com.pierredrolet.goarspacekorolev': ['GOarSPACE KOROLEV', 'Pierre+M+Drolet', '1+', 'https://www.pierre-drolet-sci-fi-museum.com/', 'pmdrolet@icloud.com']}
+{'com.pierredrolet.goarspaceussjefferies': ['GOarSPACE USS-JEFFERIES', 'Pierre+M+Drolet', '1+', 'https://www.pierre-drolet-sci-fi-museum.com/', 'pmdrolet@icloud.com']}
+{'st.crosscheck.xplanepfd': ['X-Plane Primary Flight Display', 'Crosscheck+Software', '100+', None, 'erik.berglund@gmail.com']}
+{'com.glutenfreegames.panthersimulator': ['Panther Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.glutenfreegames.tigersimulator': ['Tiger Simulator', '6899235863428512122', '10,000+', 'http://www.glutenfreegaming.com', 'chris@glutenfreegaming.com']}
+{'com.honeydew.cattown': ['Cat town (Tap RPG)', '5460269513463294960', '5,000+', 'http://goo.gl/QEBmRC', 'Honeydew1853@gmail.com']}
+{'com.ww2048_8466986': ['2048 2019', 'Jakov+Sheynbeyn', '1+', 'http://asret.ru/', 'garmin1@gmail.com']}
+{'com.tivola.wildlife.full': ['PetWorld - WildLife America Premium', '8927372468482477196', '10,000+', 'http://www.tivola-mobile.com/en/animal-games/wildlife-america/', 'apps@tivola.de']}
+{'com.jt.dateaclima': ['Date a clima!', 'Josu%C3%A9+Takanori', '5+', 'http://www.dateaclima.com', 'josue.takanori@gmail.com']}
+{'com.pierredrolet.goarspacecopernicus': ['GOarSPACE COPERNICUS', 'Pierre+M+Drolet', '1+', 'https://www.pierre-drolet-sci-fi-museum.com/', 'pmdrolet@icloud.com']}
+{'com.mcskrills.TrainHornsAdFree': ['Train Horns and Sounds AD FREE', 'MC+Skrills', '10+', 'https://github.com/mcskrills/PRIVACY-POLICY', 'mcskrills@gmail.com']}
