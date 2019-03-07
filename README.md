@@ -9,8 +9,9 @@
 **How to run**
 ```
 1. Open cmd
-2. type python main.py
-3. after a category is completed, 
+2. Type python main.py
+3. After a category is completed, the data will be available in ../data/
+4. If you want to count the number of results, run count_results.py
 ```
 
 **The stages of the offer are as follows** 
