@@ -1,8 +1,8 @@
 import play_scraper
 from multiprocessing import Pool
 
-# f = open('result.txt', 'w')
-
+number_of_cores_to_use = 4
+number_of_pages_per_category = 25  # Change as you like, runtime will go up significantly
 
 COLLECTIONS = {
     'NEW_FREE': 'topselling_new_free',
@@ -75,11 +75,11 @@ CATEGORIES = {
 }
 
 
-def list_of_details_of_collection(category):
-    f = open('data/'+category + '.txt', 'w')
-    print('Finding results for'+category)
+def list_of_details_of_collection(category, number_of_pages_per_category):
+    f = open('data/' + category + '.txt', 'w')
+    print('Finding results for' + category)
     for collection in COLLECTIONS:
-        for page in range(0, 25):
+        for page in range(0, number_of_pages_per_category):
             try:
                 scraper = play_scraper.collection(
                     collection=collection,
@@ -107,5 +107,5 @@ def list_of_details_of_collection(category):
 
 
 if __name__ == "__main__":
-    p = Pool(4)
-    p.map(list_of_details_of_collection,CATEGORIES)
+    p = Pool(number_of_cores_to_use)
+    p.map(list_of_details_of_collection, (CATEGORIES, number_of_pages_per_category))
