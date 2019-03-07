@@ -1,2 +1,0 @@
-{'com.playzeit.wordcheese': ['Word Cross - Word Cheese', 'PlayZeit', '1,000,000+', 'https://sites.google.com/view/wordcheeseprivacypolicy', 'support@playzeit.com']}
-{'com.metajoy.puzzlegame.dragnmerge': ['Drag n Merge: Block Puzzle', 'Metajoy', '500,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
