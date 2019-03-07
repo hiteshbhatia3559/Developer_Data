@@ -77,6 +77,7 @@ CATEGORIES = {
 
 def list_of_details_of_collection(category):
     f = open('data/'+category + '.txt', 'w')
+    print('Finding results for'+category)
     for collection in COLLECTIONS:
         for page in range(0, 25):
             try:
@@ -106,5 +107,5 @@ def list_of_details_of_collection(category):
 
 
 if __name__ == "__main__":
-    p = Pool(2)
+    p = Pool(4)
     p.map(list_of_details_of_collection,CATEGORIES)

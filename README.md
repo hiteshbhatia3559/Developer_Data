@@ -6,6 +6,13 @@
 
 ```
 
+**How to run**
+```
+1. Open cmd
+2. type python main.py
+3. after a category is completed, 
+```
+
 **The stages of the offer are as follows** 
 ```
 1. I will first develop and deliver a proof of concept - getting the details of one app, dynamically, the user can choose the name of the app or let the program decide 
