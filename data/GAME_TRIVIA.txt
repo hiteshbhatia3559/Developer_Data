@@ -1,0 +1,5 @@
+{'com.sonypicturestelevision.millionaire': ['Millionaire Trivia: Who Wants To Be a Millionaire?', 'Sony+Pictures+Television', '1,000,000+', 'http://www.sonypictures.com/mobile/', 'millionaire@uken.com']}
+{'com.etermax.preguntados.pro': ['Trivia Crack (No Ads)', '4857484411335878422', '500,000+', 'http://www.triviacrack.com', 'support@triviacrack.com']}
+{'com.etermax.preguntados.lite': ['Trivia Crack', '4857484411335878422', '100,000,000+', 'http://www.triviacrack.com', 'support@triviacrack.com']}
+{'com.blacktrivia': ['Ultimate Black Trivia', 'Black+Social+L.L.C', '100+', 'http://blacksocial.io', 'admin@blacksocial.io']}
+{'com.msi.logogame': ['Logo Game: Guess Brand Quiz', 'Logos+Box', '10,000,000+', 'http://games.taplane.com/', 'contact@taplane.com']}

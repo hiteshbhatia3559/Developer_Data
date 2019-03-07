@@ -1,0 +1,6 @@
+{'com.jnj.mocospace.android.plus': ['Moco+ - Chat, Meet People', '7945334852914508868', '10,000+', 'http://www.mocospace.com', 'android@corp.mocospace.com']}
+{'com.blasianloveforeverplus.apps': ['Asian Men & Black Women Dating+ (AMBW Dating App)', 'BLF,+LLC', '1+', 'https://www.blasianloveforever.com/app-terms-privacy', 'support@blasianloveforever.com']}
+{'com.camgirlsonlinegirlschatmeet.ccgogcm': ['Free Cam Girls – Video Chat with Girls tips', 'Chat+app+developer', '10,000+', 'https://docs.google.com/document/d/18ZUpZkHi9Cgr1eH8r3psa6DjX5LNcOlbzNs6bdQE8Q8/edit', 'lightmeuptoday@gmail.com']}
+{'com.hily.app': ['Hily Dating: Chat, Match & Meet Singles', '8466050068348543977', '100,000+', 'http://hily.com', 'apps@corp.hily.com']}
+{'com.haterdater.hater': ['Hater', 'Hater+Inc.', '100,000+', 'http://www.haterdater.com', 'contact@haterdater.com']}
+{'com.hily.app': ['Hily Dating: Chat, Match & Meet Singles', '8466050068348543977', '100,000+', 'http://hily.com', 'apps@corp.hily.com']}

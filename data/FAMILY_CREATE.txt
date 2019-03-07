@@ -1,0 +1,5 @@
+{'sandbox.art.sandbox': ['Sandbox Coloring', 'Alexey+Grigorkin', '10,000,000+', 'https://sandbox.love', 'alexey@grigorkin.com']}
+{'com.tocaboca.tocahairsalon3': ['Toca Hair Salon 3', '8567646723268777320', '100,000+', 'https://tocaboca.com/', 'support@tocaboca.com']}
+{'com.drawapp.magicdoodle': ['Doodle | Magic Joy', 'DrawAPP', '5,000,000+', 'http://drawapp.cc/privacy.html', 'eyewind.draw@hotmail.com']}
+{'de.woodiehoo.dressingup': ['WoodieHoo Dress Up: Animal Fun', 'RTL+DISNEY+Fernsehen+GmbH+%26+Co.+KG', '10,000+', 'https://www.woodiehoo.com/', 'Entwickler@superrtl.de']}
+{'com.coloringbook.fruitsdrawingbook': ['Fruits Coloring Book & Drawing Book - Kids Game', 'Bitty+Apps', '5,000,000+', 'http://bittyapps.blogspot.in/p/blog-page.html', 'tinymonster1989@gmail.com']}

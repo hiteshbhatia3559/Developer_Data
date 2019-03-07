@@ -1,0 +1,6 @@
+{'com.roblox.client': ['Roblox', '5360036014478858866', '100,000,000+', 'http://www.roblox.com', 'info@roblox.com']}
+{'com.mojang.minecraftpe': ['Minecraft', 'Mojang', '10,000,000+', 'http://help.mojang.com', 'android-help@mojang.com']}
+{'com.roblox.client': ['Roblox', '5360036014478858866', '100,000,000+', 'http://www.roblox.com', 'info@roblox.com']}
+{'com.budgestudios.googleplay.MyLittlePonyPocketPonies': ['My Little Pony Pocket Ponies', '7489594886728593506', '100,000+', 'http://www.budgestudios.com', 'support@budgestudios.ca']}
+{'wonderland.beauty': ['Wonderland : Beauty & Beast', '4907572025980617983', '1,000+', 'http://www.my-town.com', 'info@my-town.com']}
+{'com.love.poly.puzzle.game': ['Love Poly - New puzzle game', 'incolor', '1,000,000+', 'http://incolor.cc/en/privacy.html', 'incolor.feedback@hotmail.com']}

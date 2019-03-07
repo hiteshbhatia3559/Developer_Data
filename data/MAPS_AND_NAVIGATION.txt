@@ -1,0 +1,6 @@
+{'smartwatchstudios.app.gears3navigation': ['Navigation Pro: Google Maps Navi on Samsung Watch', 'SmartWatchStudios', '100,000+', 'http://www.SmartWatchStudios.com', 'info@SmartWatchStudios.com']}
+{'red.waypoint.RedWaypointPro': ['Red Waypoint PRO for DJI (Mavic / Spark / Phantom)', 'RedWaypoint', '10+', 'http://www.redwaypoint.com', 'theredwaypoint@gmail.com']}
+{'liveearth.maps.livelocations.streetview.livcams': ['Live Earth Map 2019 - Satellite View, Street View', '5518812604258361293', '100,000+', 'https://sites.google.com/view/global-street-map/home', 'liveearthmap2019@gmail.com']}
+{'com.roadwarrior.android': ['RoadWarrior Route Planner', 'RoadWarrior', '500,000+', 'https://roadwarrior.app/', 'support@roadwarrior.app']}
+{'com.gpstrack.mapsnavigation.location.livelocation': ['Maps GPS Navigation Route Directions Location Live', 'Go+Map.inc-+Directions+Navigation,+Traffic+Transit', '50,000+', 'https://sites.google.com/view/cameraapps/home', 'support@bestphotoappstudio.com']}
+{'com.ubercab': ['Uber', '7908612043055486674', '100,000,000+', 'http://www.uber.com', 'support@uber.com']}

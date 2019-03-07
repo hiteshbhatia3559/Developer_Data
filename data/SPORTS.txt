@@ -1,0 +1,6 @@
+{'com.corecoders.skitracks': ['Ski Tracks', 'Core+Coders+Ltd', '100,000+', 'http://www.corecoders.com', 'skitracks-android@corecoders.zendesk.com']}
+{'appinventor.ai_trevor_lewis.TrollMaster': ['Troll Master - Trolling Lure Depth Calculator', 'Trevor+D.+Lewis', '10+', None, 'trollingcalculator@gmail.com']}
+{'com.aaf': ['Alliance of American Football', 'Alliance+of+American+Football', '100,000+', 'https://aaf.com', 'mobile@aaf.com']}
+{'com.neulion.smartphone.ufc.android': ['UFC', 'UFC%C2%AE+-+The+Ultimate+Fighting+Championship%C2%AE', '5,000,000+', 'http://www.UFC.TV', 'support@ufc.tv']}
+{'com.catchsports.catchsports': ['Bleacher Report Live', 'Bleacher+Report+Inc.', '100,000+', 'https://live.bleacherreport.com', 'support@br.live']}
+{'com.espn.score_center': ['ESPN', 'ESPN+Inc', '10,000,000+', 'http://espn.com/', 'espnmobilefeedback@espncustomercare.com']}

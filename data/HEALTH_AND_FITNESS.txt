@@ -1,0 +1,6 @@
+{'org.twisevictory.apps': ['The Wonder Weeks', 'Domus+Technica', '500,000+', 'http://support.thewonderweeks.com/', 'support.android@thewonderweeks.com']}
+{'com.sarahsday.sezzytimer': ['Sezzy Timer', 'Sarah%27s+Day', '500+', 'http://www.sarahsday.com', 'sarahsday.tech@gmail.com']}
+{'fat.workout.loseweight.plan.women': ['Workout Plan For Women', 'workout+planner', '10,000+', 'https://bit.ly/2IarZMQ', 'EmilyEnjoys11@gmail.com']}
+{'com.myfitnesspal.android': ['Calorie Counter - MyFitnessPal', 'MyFitnessPal,+Inc.', '50,000,000+', 'http://www.myfitnesspal.com', 'androidfeedback@myfitnesspal.com']}
+{'com.lifeomic.lifefasting': ['LIFE Fasting Tracker', 'LifeOmic', '50,000+', 'https://lifeapps.io', 'lifesupport@lifeomic.com']}
+{'com.health.lab.drink.water.tracker': ['Drink Water Reminder: Water Tracker & Alarm', 'Simple+Health+Lab', '10,000,000+', 'https://waterreminder.weebly.com/', 'developer3@smoothapps.me']}

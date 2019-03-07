@@ -1,10 +1,2 @@
-{'com.mobirix.parkingking': ['Parking King', '4864673505117639552', '5,000,000+', 'https://www.facebook.com/mobirixplayen', 'help@mobirix.com']}
-{'com.evilclicker.evilclicker': ['Idle Evil — Clicker & Simulator', 'AppQuantum', '100,000+', 'http://appquantum.com', 'support@appquantum.com']}
-{'com.google.android.apps.wellbeing': ['Digital Wellbeing', '5700313618786177705', '1+', 'https://wellbeing.google', 'digital-wellbeing-help@google.com']}
-{'free.music.offline.music.player.downloader.songs.musi.freemusic': ['Free Music - Music APP,  Offline Music', 'Music+Offline+Team', '100,000+', 'https://sites.google.com/view/privacy-policy-of-music/home', 'foeossoy@gmail.com']}
-{'com.brokenreality.bigcapitalist3.android': ['The Big Capitalist 3', 'Broken+Reality', '1,000,000+', 'https://brokenrealityapp.wordpress.com', 'lingzilau@gmail.com']}
-{'com.metajoy.puzzlegame.dragnmerge': ['Drag n Merge: Block Puzzle', 'Metajoy', '100,000+', 'http://www.metajoy.io', 'help@metajoy.io']}
-{'com.easy.cool.next.home.screen': ['Bolt Launcher - Charging Show & Themes', 'Color+Phone+Studios', '5,000,000+', 'http://cdn.appcloudbox.net/fingerstudioscom/apps/livephone/privacy.html', 'developer2@hyper-speed.net']}
-{'com.google.ar.core': ['ARCore by Google', '5700313618786177705', '10,000,000+', 'https://developers.google.com/ar/', 'apps-help@google.com']}
 {'com.playzeit.wordcheese': ['Word Cross - Word Cheese', 'PlayZeit', '1,000,000+', 'https://sites.google.com/view/wordcheeseprivacypolicy', 'support@playzeit.com']}
-{'sg.bigo.live': ['BIGO LIVE - Live Stream', 'BIGO+TECHNOLOGY+PTE.+LTD.', '100,000,000+', 'http://www.bigo.tv', 'android-support@bigo.sg']}
+{'com.metajoy.puzzlegame.dragnmerge': ['Drag n Merge: Block Puzzle', 'Metajoy', '500,000+', 'http://www.metajoy.io', 'help@metajoy.io']}

@@ -1,0 +1,6 @@
+{'com.scopely.yux': ['YAHTZEE® With Buddies Dice Game', '9028773071151690823', '5,000,000+', 'http://www.scopely.com', 'newyahtzeesupport@scopely.com']}
+{'com.marmalade.golmobile': ['The Game of Life', '8684502731112464883', '500,000+', 'https://marmaladegamestudio.com/', 'contactus@marmalademail.com']}
+{'com.pixel.art.coloring.color.number': ['Happy Color – Color by Number', '4677399971720148178', '10,000,000+', 'http://x-flow.app', 'support@x-flow.app']}
+{'com.dreamgo.pixelartist.colorbynumber.free': ['Unicorn Color Sandbox: Color by Number Free', 'DREAMGO', '1,000+', 'https://sites.google.com/view/dreamgo/homepage', 'david.wang.jack@gmail.com']}
+{'com.digidiced.bvbrelease': ['The Castles Of Burgundy', '7642513241968800472', '500+', 'http://www.digidiced.com', 'info@digidiced.com']}
+{'com.pixel.art.coloring.color.number': ['Happy Color – Color by Number', '4677399971720148178', '10,000,000+', 'http://x-flow.app', 'support@x-flow.app']}
