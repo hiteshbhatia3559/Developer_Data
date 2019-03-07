@@ -2,7 +2,7 @@ import play_scraper
 from multiprocessing import Pool
 
 number_of_cores_to_use = 4
-number_of_pages_per_category = 25  # Change as you like, runtime will go up significantly
+number_of_pages_per_category = 42  # Change as you like, runtime will go up significantly
 
 COLLECTIONS = {
     'NEW_FREE': 'topselling_new_free',
